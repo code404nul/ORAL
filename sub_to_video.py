@@ -136,7 +136,7 @@ class Movie:
         """Obtient la durée de la vidéo avec ffprobe"""
         try:
             cmd = [
-                'ffprobe',
+                r'C:\ffmpeg\bin\ffprobe.exe',
                 '-v', 'error',
                 '-show_entries', 'format=duration',
                 '-of', 'default=noprint_wrappers=1:nokey=1',
@@ -173,7 +173,7 @@ class Movie:
             try:
                 # Commande ffmpeg pour extraire le segment
                 cmd = [
-                    'ffmpeg',
+                    r'C:\ffmpeg\bin\ffmpeg.exe',
                     '-ss', str(temps_debut),  # POSITION AVANT -i pour être plus rapide
                     '-i', str(self.video_path),
                     '-t', str(duree),
@@ -437,7 +437,7 @@ def main():
     print("🎥 Renommage, sous-titres et extraction de vidéos (POO)")
     print("=" * 70)
     
-    dossier = "movies"
+    dossier = r"E:\\film_oral\\Icefall (2025)"
     
     # Traitement
     processor = MovieProcessor(dossier)
