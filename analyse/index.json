@@ -1,0 +1,14 @@
+{
+  "date_generation": "2026-01-20T12:01:50.188650",
+  "nombre_films": 1,
+  "films": [
+    {
+      "movie_id": "Icefall (2025)",
+      "movie_path": "movies/Icefall (2025).mp4",
+      "subtitle_path": "movies/Icefall (2025).en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 283,
+      "dossier_images": "analyse/images/Icefall (2025)"
+    }
+  ]
+}
