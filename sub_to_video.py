@@ -445,7 +445,7 @@ def main():
     processor.renommer_avec_mnamer()
     processor.telecharger_sous_titres(langues=['eng'])
     processor.charger_films()
-    processor.traiter_films(intervalle_secondes=15)
+    processor.traiter_films(intervalle_secondes=50)
     processor.generer_index_global()
     
 

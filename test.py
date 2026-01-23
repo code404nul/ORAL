@@ -1,130 +1,141 @@
-import csv
-import json
-from pyarr import RadarrAPI
-import time
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.optimize import curve_fit
+from sklearn.metrics import r2_score
 
-# Configuration Radarr
-host_url = "http://172.20.2.37:7878"
-api_key = "141bca2beaac40c18a4caea80371f57a"
-radarr = RadarrAPI(host_url, api_key)
+# Vos données (à remplacer par vos vraies valeurs)
+x = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+y = np.array([2.5, 6.2, 15.8, 39.1, 97.5, 244.2, 610.8, 1527.3, 3818.3, 9548.7])
 
-def lookup_and_add_movie(titre, note_csv):
-    """
-    Recherche un film dans Radarr, récupère les notes et l'ajoute pour téléchargement
-    """
+# Définition des différents modèles
+def lineaire(x, a, b):
+    return a * x + b
+
+def quadratique(x, a, b, c):
+    return a * x**2 + b * x + c
+
+def exponentielle(x, a, b, c):
+    return a * np.exp(b * x) + c
+
+def logarithmique(x, a, b):
+    return a * np.log(x) + b
+
+def puissance(x, a, b):
+    return a * x**b
+
+def racine(x, a, b):
+    return a * np.sqrt(x) + b
+
+# Liste des modèles à tester
+modeles = {
+    'Linéaire (y = ax + b)': (lineaire, 2),
+    'Quadratique (y = ax² + bx + c)': (quadratique, 3),
+    'Exponentielle (y = a·e^(bx) + c)': (exponentielle, 3),
+    'Logarithmique (y = a·ln(x) + b)': (logarithmique, 2),
+    'Puissance (y = a·x^b)': (puissance, 2),
+    'Racine carrée (y = a·√x + b)': (racine, 2),
+}
+
+# Tester chaque modèle
+resultats = {}
+print("=" * 70)
+print("RECHERCHE DU MEILLEUR MODÈLE")
+print("=" * 70)
+
+for nom, (fonction, nb_params) in modeles.items():
     try:
-        # Recherche du film
-        results = radarr.lookup_movie(titre)
+        # Estimation des paramètres initiaux
+        p0 = [1] * nb_params
         
-        if not results:
-            print(f"❌ Film non trouvé : {titre}")
-            return None
+        # Ajustement de la courbe
+        params, _ = curve_fit(fonction, x, y, p0=p0, maxfev=10000)
         
-        movie = results[0]
-        title = movie.get('title', 'Titre inconnu')
+        # Prédictions
+        y_pred = fonction(x, *params)
         
-        # Récupération des notes
-        ratings = movie.get('ratings', {})
-        rating_values = {
-            'csv': note_csv,
-            'imdb': ratings.get('imdb', {}).get('value'),
-            'tmdb': ratings.get('tmdb', {}).get('value'),
-            'trakt': ratings.get('trakt', {}).get('value')
+        # Calcul du R²
+        r2 = r2_score(y, y_pred)
+        
+        # Stockage des résultats
+        resultats[nom] = {
+            'fonction': fonction,
+            'params': params,
+            'r2': r2,
+            'y_pred': y_pred
         }
         
-        print(f"\n✅ Trouvé : {title}")
-        print(f"   Notes : {rating_values}")
-        
-        # Récupération des profils de qualité
-        quality_profiles = radarr.get_quality_profile()
-        
-        if not quality_profiles:
-            print(f"⚠️  Aucun profil de qualité trouvé")
-            return {
-                'titre': title,
-                'notes': rating_values,
-                'added': False
-            }
-        
-        # Chercher un profil HD (1080p de préférence)
-        hd_profile = next(
-            (p for p in quality_profiles if 'HD' in p['name'] and '1080p' in p['name']), 
-            None
-        )
-        
-        # Si pas de profil 1080p, chercher HD-720p
-        if not hd_profile:
-            hd_profile = next(
-                (p for p in quality_profiles if 'HD' in p['name'] and '720p' in p['name']), 
-                None
-            )
-        
-        # Si toujours rien, prendre le premier profil
-        if not hd_profile:
-            hd_profile = quality_profiles[0]
-            print(f"   ⚠️  Profil HD non trouvé, utilisation de '{hd_profile['name']}'")
-        
-        # Ajout du film avec la bonne syntaxe
-        radarr.add_movie(
-            movie=movie,
-            root_dir="/home/user/Téléchargements/radarr",
-            quality_profile_id=hd_profile['id'],
-            monitored=True,
-            search_for_movie=True
-        )
-        
-        print(f"   ➕ Ajouté à Radarr (Qualité: {hd_profile['name']})")
-        
-        return {
-            'titre': title,
-            'notes': rating_values,
-            'added': True,
-            'quality_profile': hd_profile['name']
-        }
+        print(f"\n{nom}")
+        print(f"  Paramètres: {params}")
+        print(f"  R² = {r2:.6f}")
         
     except Exception as e:
-        print(f"❌ Erreur pour {titre} : {str(e)}")
-        return None
+        print(f"\n{nom}")
+        print(f"  ❌ Échec: {str(e)}")
 
-def process_csv(csv_file, output_json='films_notes.json'):
-    """
-    Traite le fichier CSV et génère le fichier JSON avec les notes
-    """
-    results = []
+# Trouver le meilleur modèle
+if resultats:
+    meilleur = max(resultats.items(), key=lambda x: x[1]['r2'])
+    meilleur_nom = meilleur[0]
+    meilleur_data = meilleur[1]
     
-    print(f"📂 Lecture du fichier : {csv_file}\n")
+    print("\n" + "=" * 70)
+    print(f"🏆 MEILLEUR MODÈLE: {meilleur_nom}")
+    print(f"   R² = {meilleur_data['r2']:.6f}")
+    print(f"   Paramètres: {meilleur_data['params']}")
+    print("=" * 70)
     
-    with open(csv_file, 'r', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        
-        for row in reader:
-            titre = row['titre']
-            note_csv = float(row['note']) if row['note'] else None
-            
-            result = lookup_and_add_movie(titre, note_csv)
-            
-            if result:
-                results.append(result)
-            
-            # Pause pour éviter de surcharger l'API
-            time.sleep(0.5)
+    # Affichage de la formule selon le modèle
+    params = meilleur_data['params']
+    if 'Linéaire' in meilleur_nom:
+        print(f"\nFormule: y = {params[0]:.4f}·x + {params[1]:.4f}")
+    elif 'Quadratique' in meilleur_nom:
+        print(f"\nFormule: y = {params[0]:.4f}·x² + {params[1]:.4f}·x + {params[2]:.4f}")
+    elif 'Exponentielle' in meilleur_nom:
+        print(f"\nFormule: y = {params[0]:.4f}·e^({params[1]:.4f}·x) + {params[2]:.4f}")
+    elif 'Logarithmique' in meilleur_nom:
+        print(f"\nFormule: y = {params[0]:.4f}·ln(x) + {params[1]:.4f}")
+    elif 'Puissance' in meilleur_nom:
+        print(f"\nFormule: y = {params[0]:.4f}·x^{params[1]:.4f}")
+    elif 'Racine' in meilleur_nom:
+        print(f"\nFormule: y = {params[0]:.4f}·√x + {params[1]:.4f}")
     
-    # Sauvegarde des résultats dans un JSON
-    with open(output_json, 'w', encoding='utf-8') as f:
-        json.dump(results, f, ensure_ascii=False, indent=2)
+    # Graphique de comparaison
+    plt.figure(figsize=(14, 8))
     
-    print(f"\n✨ Terminé ! {len(results)} films traités")
-    print(f"📄 Résultats sauvegardés dans : {output_json}")
+    # Sous-graphique 1: Tous les modèles
+    plt.subplot(1, 2, 1)
+    plt.scatter(x, y, color='black', s=100, label='Données réelles', zorder=5)
     
-    # Statistiques
-    added_count = sum(1 for r in results if r.get('added'))
-    print(f"➕ Films ajoutés à Radarr : {added_count}/{len(results)}")
-
-    time.sleep(60*15)
-
-if __name__ == "__main__":
-    # Nom de votre fichier CSV
-    csv_file = "films_populaires.csv"
+    couleurs = ['red', 'blue', 'green', 'orange', 'purple', 'brown']
+    for i, (nom, data) in enumerate(resultats.items()):
+        plt.plot(x, data['y_pred'], '--', color=couleurs[i % len(couleurs)], 
+                 label=f"{nom.split('(')[0]} (R²={data['r2']:.3f})", linewidth=2)
     
-    # Lancement du traitement
-    process_csv(csv_file)
+    plt.xlabel('x', fontsize=12)
+    plt.ylabel('y', fontsize=12)
+    plt.title('Comparaison de tous les modèles', fontsize=14, fontweight='bold')
+    plt.legend(fontsize=9)
+    plt.grid(True, alpha=0.3)
+    
+    # Sous-graphique 2: Meilleur modèle
+    plt.subplot(1, 2, 2)
+    plt.scatter(x, y, color='black', s=100, label='Données réelles', zorder=5)
+    plt.plot(x, meilleur_data['y_pred'], 'r-', linewidth=3, 
+             label=f'{meilleur_nom}\nR² = {meilleur_data["r2"]:.6f}')
+    
+    plt.xlabel('x', fontsize=12)
+    plt.ylabel('y', fontsize=12)
+    plt.title('Meilleur modèle', fontsize=14, fontweight='bold')
+    plt.legend(fontsize=10)
+    plt.grid(True, alpha=0.3)
+    
+    plt.tight_layout()
+    plt.show()
+    
+    # Fonction pour faire des prédictions
+    print("\n" + "=" * 70)
+    print("EXEMPLES DE PRÉDICTIONS avec le meilleur modèle:")
+    print("=" * 70)
+    for x_test in [2.5, 5.5, 11]:
+        y_pred = meilleur_data['fonction'](x_test, *meilleur_data['params'])
+        print(f"x = {x_test:5.1f} → y = {y_pred:10.2f}")
