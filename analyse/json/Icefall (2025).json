@@ -2,49 +2,19 @@
   "movie_id": "Icefall (2025)",
   "movie_path": "E:\\film_oral\\Icefall (2025)\\Icefall (2025).mp4",
   "subtitle_path": "E:\\film_oral\\Icefall (2025)\\Icefall (2025).en.srt",
-  "intervalle_secondes": 15,
-  "nombre_intervalles": 385,
+  "intervalle_secondes": 50,
+  "nombre_intervalles": 116,
   "dossier_videos": "analyse\\videos\\Icefall (2025)",
-  "date_traitement": "2026-01-20T18:20:13.203883",
+  "date_traitement": "2026-01-23T20:40:11.536512",
   "intervalles": [
     {
       "intervalle_index": 0,
       "intervalle_debut": 0,
-      "intervalle_fin": 15,
+      "intervalle_fin": 50,
       "timecode_debut_extrait": 0,
-      "timecode_fin_extrait": 15,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0000_time_0.00s-15.00s.mp4",
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 1,
-      "intervalle_debut": 15,
-      "intervalle_fin": 30,
-      "timecode_debut_extrait": 15,
-      "timecode_fin_extrait": 30,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0001_time_15.00s-30.00s.mp4",
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 2,
-      "intervalle_debut": 30,
-      "intervalle_fin": 45,
-      "timecode_debut_extrait": 30,
-      "timecode_fin_extrait": 45,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0002_time_30.00s-45.00s.mp4",
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 3,
-      "intervalle_debut": 45,
-      "intervalle_fin": 60,
-      "timecode_debut_extrait": 45,
-      "timecode_fin_extrait": 60,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0003_time_45.00s-60.00s.mp4",
-      "nombre_sous_titres": 8,
+      "timecode_fin_extrait": 50,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0000_time_0.00s-50.00s.mp4",
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": "﻿1",
@@ -57,7 +27,18 @@
           "start": 47.815,
           "end": 50.083,
           "text": "Hey, what's going on? Chill man."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 50,
+      "intervalle_fin": 100,
+      "timecode_debut_extrait": 50,
+      "timecode_fin_extrait": 100,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0001_time_50.00s-100.00s.mp4",
+      "nombre_sous_titres": 16,
+      "sous_titres": [
         {
           "index": 3,
           "start": 50.885,
@@ -93,18 +74,7 @@
           "start": 59.561,
           "end": 60.695,
           "text": "Just a second."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 4,
-      "intervalle_debut": 60,
-      "intervalle_fin": 75,
-      "timecode_debut_extrait": 60,
-      "timecode_fin_extrait": 75,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0004_time_60.00s-75.00s.mp4",
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 9,
           "start": 61.896,
@@ -122,18 +92,7 @@
           "start": 72.507,
           "end": 73.541,
           "text": "This isn't my watch."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 5,
-      "intervalle_debut": 75,
-      "intervalle_fin": 90,
-      "timecode_debut_extrait": 75,
-      "timecode_fin_extrait": 90,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0005_time_75.00s-90.00s.mp4",
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 12,
           "start": 76.744,
@@ -151,18 +110,7 @@
           "start": 83.918,
           "end": 85.853,
           "text": "And this, is a Casio."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 6,
-      "intervalle_debut": 90,
-      "intervalle_fin": 105,
-      "timecode_debut_extrait": 90,
-      "timecode_fin_extrait": 105,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0006_time_90.00s-105.00s.mp4",
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 15,
           "start": 90.39,
@@ -186,24 +134,24 @@
           "start": 99.801,
           "end": 100.702,
           "text": "Bloodsucker."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 100,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 100,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0002_time_100.00s-150.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
         {
           "index": 19,
           "start": 101.736,
           "end": 103.671,
           "text": "-Beat it, loser. -Fuck off!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 7,
-      "intervalle_debut": 105,
-      "intervalle_fin": 120,
-      "timecode_debut_extrait": 105,
-      "timecode_fin_extrait": 120,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0007_time_105.00s-120.00s.mp4",
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 20,
           "start": 105.372,
@@ -221,18 +169,7 @@
           "start": 117.619,
           "end": 119.887,
           "text": "Can you put it in the drawer, please?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 8,
-      "intervalle_debut": 120,
-      "intervalle_fin": 135,
-      "timecode_debut_extrait": 120,
-      "timecode_fin_extrait": 135,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0008_time_120.00s-135.00s.mp4",
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 23,
           "start": 121.923,
@@ -250,18 +187,7 @@
           "start": 134.702,
           "end": 135.87,
           "text": "Looks like imitation."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 9,
-      "intervalle_debut": 135,
-      "intervalle_fin": 150,
-      "timecode_debut_extrait": 135,
-      "timecode_fin_extrait": 150,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0009_time_135.00s-150.00s.mp4",
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 26,
           "start": 137.839,
@@ -277,13 +203,13 @@
       ]
     },
     {
-      "intervalle_index": 10,
+      "intervalle_index": 3,
       "intervalle_debut": 150,
-      "intervalle_fin": 165,
+      "intervalle_fin": 200,
       "timecode_debut_extrait": 150,
-      "timecode_fin_extrait": 165,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0010_time_150.00s-165.00s.mp4",
-      "nombre_sous_titres": 2,
+      "timecode_fin_extrait": 200,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0003_time_150.00s-200.00s.mp4",
+      "nombre_sous_titres": 7,
       "sous_titres": [
         {
           "index": 28,
@@ -296,28 +222,7 @@
           "start": 155.523,
           "end": 156.524,
           "text": "Argh!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 11,
-      "intervalle_debut": 165,
-      "intervalle_fin": 180,
-      "timecode_debut_extrait": 165,
-      "timecode_fin_extrait": 180,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0011_time_165.00s-180.00s.mp4",
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 12,
-      "intervalle_debut": 180,
-      "intervalle_fin": 195,
-      "timecode_debut_extrait": 180,
-      "timecode_fin_extrait": 195,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0012_time_180.00s-195.00s.mp4",
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 30,
           "start": 186.821,
@@ -351,33 +256,13 @@
       ]
     },
     {
-      "intervalle_index": 13,
-      "intervalle_debut": 195,
-      "intervalle_fin": 210,
-      "timecode_debut_extrait": 195,
-      "timecode_fin_extrait": 210,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0013_time_195.00s-210.00s.mp4",
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 14,
-      "intervalle_debut": 210,
-      "intervalle_fin": 225,
-      "timecode_debut_extrait": 210,
-      "timecode_fin_extrait": 225,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0014_time_210.00s-225.00s.mp4",
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 15,
-      "intervalle_debut": 225,
-      "intervalle_fin": 240,
-      "timecode_debut_extrait": 225,
-      "timecode_fin_extrait": 240,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0015_time_225.00s-240.00s.mp4",
-      "nombre_sous_titres": 2,
+      "intervalle_index": 4,
+      "intervalle_debut": 200,
+      "intervalle_fin": 250,
+      "timecode_debut_extrait": 200,
+      "timecode_fin_extrait": 250,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0004_time_200.00s-250.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 35,
@@ -390,18 +275,7 @@
           "start": 236.971,
           "end": 238.673,
           "text": "Get the hell out on the ground!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 16,
-      "intervalle_debut": 240,
-      "intervalle_fin": 255,
-      "timecode_debut_extrait": 240,
-      "timecode_fin_extrait": 255,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0016_time_240.00s-255.00s.mp4",
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 37,
           "start": 241.374,
@@ -419,7 +293,18 @@
           "start": 248.583,
           "end": 249.917,
           "text": "There's nothing left!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 250,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 250,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0005_time_250.00s-300.00s.mp4",
+      "nombre_sous_titres": 13,
+      "sous_titres": [
         {
           "index": 40,
           "start": 250.852,
@@ -431,18 +316,7 @@
           "start": 252.385,
           "end": 256.423,
           "text": "We moved it all to the headquarters this afternoon."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 17,
-      "intervalle_debut": 255,
-      "intervalle_fin": 270,
-      "timecode_debut_extrait": 255,
-      "timecode_fin_extrait": 270,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0017_time_255.00s-270.00s.mp4",
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 42,
           "start": 256.456,
@@ -472,18 +346,7 @@
           "start": 262.697,
           "end": 263.564,
           "text": "Left."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 18,
-      "intervalle_debut": 270,
-      "intervalle_fin": 285,
-      "timecode_debut_extrait": 270,
-      "timecode_fin_extrait": 285,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0018_time_270.00s-285.00s.mp4",
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 47,
           "start": 273.007,
@@ -495,18 +358,7 @@
           "start": 275.543,
           "end": 276.409,
           "text": "Right."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 19,
-      "intervalle_debut": 285,
-      "intervalle_fin": 300,
-      "timecode_debut_extrait": 285,
-      "timecode_fin_extrait": 300,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0019_time_285.00s-300.00s.mp4",
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 49,
           "start": 286.587,
@@ -534,41 +386,20 @@
       ]
     },
     {
-      "intervalle_index": 20,
+      "intervalle_index": 6,
       "intervalle_debut": 300,
-      "intervalle_fin": 315,
+      "intervalle_fin": 350,
       "timecode_debut_extrait": 300,
-      "timecode_fin_extrait": 315,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0020_time_300.00s-315.00s.mp4",
-      "nombre_sous_titres": 1,
+      "timecode_fin_extrait": 350,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0006_time_300.00s-350.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 53,
           "start": 301.068,
           "end": 301.936,
           "text": "Hurry up."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 21,
-      "intervalle_debut": 315,
-      "intervalle_fin": 330,
-      "timecode_debut_extrait": 315,
-      "timecode_fin_extrait": 330,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0021_time_315.00s-330.00s.mp4",
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 22,
-      "intervalle_debut": 330,
-      "intervalle_fin": 345,
-      "timecode_debut_extrait": 330,
-      "timecode_fin_extrait": 345,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0022_time_330.00s-345.00s.mp4",
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 54,
           "start": 336.103,
@@ -586,18 +417,7 @@
           "start": 344.745,
           "end": 347.615,
           "text": "You guys don't even know who you're stealing from, do you?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 23,
-      "intervalle_debut": 345,
-      "intervalle_fin": 360,
-      "timecode_debut_extrait": 345,
-      "timecode_fin_extrait": 360,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0023_time_345.00s-360.00s.mp4",
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 57,
           "start": 347.648,
@@ -607,23 +427,13 @@
       ]
     },
     {
-      "intervalle_index": 24,
-      "intervalle_debut": 360,
-      "intervalle_fin": 375,
-      "timecode_debut_extrait": 360,
-      "timecode_fin_extrait": 375,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0024_time_360.00s-375.00s.mp4",
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 25,
-      "intervalle_debut": 375,
-      "intervalle_fin": 390,
-      "timecode_debut_extrait": 375,
-      "timecode_fin_extrait": 390,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0025_time_375.00s-390.00s.mp4",
-      "nombre_sous_titres": 3,
+      "intervalle_index": 7,
+      "intervalle_debut": 350,
+      "intervalle_fin": 400,
+      "timecode_debut_extrait": 350,
+      "timecode_fin_extrait": 400,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0007_time_350.00s-400.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 58,
@@ -642,18 +452,7 @@
           "start": 389.223,
           "end": 390.091,
           "text": "Okay."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 26,
-      "intervalle_debut": 390,
-      "intervalle_fin": 405,
-      "timecode_debut_extrait": 390,
-      "timecode_fin_extrait": 405,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0026_time_390.00s-405.00s.mp4",
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 61,
           "start": 391.458,
@@ -663,31 +462,20 @@
       ]
     },
     {
-      "intervalle_index": 27,
-      "intervalle_debut": 405,
-      "intervalle_fin": 420,
-      "timecode_debut_extrait": 405,
-      "timecode_fin_extrait": 420,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0027_time_405.00s-420.00s.mp4",
-      "nombre_sous_titres": 1,
+      "intervalle_index": 8,
+      "intervalle_debut": 400,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 400,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0008_time_400.00s-450.00s.mp4",
+      "nombre_sous_titres": 12,
       "sous_titres": [
         {
           "index": 62,
           "start": 419.086,
           "end": 421.454,
           "text": "Mmm. Can you smell it?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 28,
-      "intervalle_debut": 420,
-      "intervalle_fin": 435,
-      "timecode_debut_extrait": 420,
-      "timecode_fin_extrait": 435,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0028_time_420.00s-435.00s.mp4",
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 63,
           "start": 421.488,
@@ -711,18 +499,7 @@
           "start": 427.194,
           "end": 430.097,
           "text": "With this amount of money, you could start a whole bunch of fucking lives."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 29,
-      "intervalle_debut": 435,
-      "intervalle_fin": 450,
-      "timecode_debut_extrait": 435,
-      "timecode_fin_extrait": 450,
-      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0029_time_435.00s-450.00s.mp4",
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 67,
           "start": 436.704,
@@ -768,13 +545,13 @@
       ]
     },
     {
-      "intervalle_index": 30,
+      "intervalle_index": 9,
       "intervalle_debut": 450,
-      "intervalle_fin": 465,
+      "intervalle_fin": 500,
       "timecode_debut_extrait": 450,
-      "timecode_fin_extrait": 465,
-      "video_path": null,
-      "nombre_sous_titres": 6,
+      "timecode_fin_extrait": 500,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0009_time_450.00s-500.00s.mp4",
+      "nombre_sous_titres": 13,
       "sous_titres": [
         {
           "index": 74,
@@ -811,18 +588,7 @@
           "start": 461.128,
           "end": 463.197,
           "text": "giving me a second chance to be a part of this."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 31,
-      "intervalle_debut": 465,
-      "intervalle_fin": 480,
-      "timecode_debut_extrait": 465,
-      "timecode_fin_extrait": 480,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 80,
           "start": 465.766,
@@ -846,18 +612,7 @@
           "start": 478.779,
           "end": 479.78,
           "text": "What happened to Finn?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 32,
-      "intervalle_debut": 480,
-      "intervalle_fin": 495,
-      "timecode_debut_extrait": 480,
-      "timecode_fin_extrait": 495,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 84,
           "start": 481.148,
@@ -879,31 +634,20 @@
       ]
     },
     {
-      "intervalle_index": 33,
-      "intervalle_debut": 495,
-      "intervalle_fin": 510,
-      "timecode_debut_extrait": 495,
-      "timecode_fin_extrait": 510,
-      "video_path": null,
-      "nombre_sous_titres": 1,
+      "intervalle_index": 10,
+      "intervalle_debut": 500,
+      "intervalle_fin": 550,
+      "timecode_debut_extrait": 500,
+      "timecode_fin_extrait": 550,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0010_time_500.00s-550.00s.mp4",
+      "nombre_sous_titres": 7,
       "sous_titres": [
         {
           "index": 87,
           "start": 508.209,
           "end": 510.277,
           "text": "Come on, come on, come on, come on, come on."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 34,
-      "intervalle_debut": 510,
-      "intervalle_fin": 525,
-      "timecode_debut_extrait": 510,
-      "timecode_fin_extrait": 525,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 88,
           "start": 510.311,
@@ -943,92 +687,22 @@
       ]
     },
     {
-      "intervalle_index": 35,
-      "intervalle_debut": 525,
-      "intervalle_fin": 540,
-      "timecode_debut_extrait": 525,
-      "timecode_fin_extrait": 540,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 36,
-      "intervalle_debut": 540,
-      "intervalle_fin": 555,
-      "timecode_debut_extrait": 540,
-      "timecode_fin_extrait": 555,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 37,
-      "intervalle_debut": 555,
-      "intervalle_fin": 570,
-      "timecode_debut_extrait": 555,
-      "timecode_fin_extrait": 570,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 38,
-      "intervalle_debut": 570,
-      "intervalle_fin": 585,
-      "timecode_debut_extrait": 570,
-      "timecode_fin_extrait": 585,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 39,
-      "intervalle_debut": 585,
+      "intervalle_index": 11,
+      "intervalle_debut": 550,
       "intervalle_fin": 600,
-      "timecode_debut_extrait": 585,
+      "timecode_debut_extrait": 550,
       "timecode_fin_extrait": 600,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0011_time_550.00s-600.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 40,
+      "intervalle_index": 12,
       "intervalle_debut": 600,
-      "intervalle_fin": 615,
+      "intervalle_fin": 650,
       "timecode_debut_extrait": 600,
-      "timecode_fin_extrait": 615,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 41,
-      "intervalle_debut": 615,
-      "intervalle_fin": 630,
-      "timecode_debut_extrait": 615,
-      "timecode_fin_extrait": 630,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 42,
-      "intervalle_debut": 630,
-      "intervalle_fin": 645,
-      "timecode_debut_extrait": 630,
-      "timecode_fin_extrait": 645,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 43,
-      "intervalle_debut": 645,
-      "intervalle_fin": 660,
-      "timecode_debut_extrait": 645,
-      "timecode_fin_extrait": 660,
-      "video_path": null,
+      "timecode_fin_extrait": 650,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0012_time_600.00s-650.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -1040,112 +714,42 @@
       ]
     },
     {
-      "intervalle_index": 44,
-      "intervalle_debut": 660,
-      "intervalle_fin": 675,
-      "timecode_debut_extrait": 660,
-      "timecode_fin_extrait": 675,
-      "video_path": null,
+      "intervalle_index": 13,
+      "intervalle_debut": 650,
+      "intervalle_fin": 700,
+      "timecode_debut_extrait": 650,
+      "timecode_fin_extrait": 700,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0013_time_650.00s-700.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 45,
-      "intervalle_debut": 675,
-      "intervalle_fin": 690,
-      "timecode_debut_extrait": 675,
-      "timecode_fin_extrait": 690,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 46,
-      "intervalle_debut": 690,
-      "intervalle_fin": 705,
-      "timecode_debut_extrait": 690,
-      "timecode_fin_extrait": 705,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 47,
-      "intervalle_debut": 705,
-      "intervalle_fin": 720,
-      "timecode_debut_extrait": 705,
-      "timecode_fin_extrait": 720,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 48,
-      "intervalle_debut": 720,
-      "intervalle_fin": 735,
-      "timecode_debut_extrait": 720,
-      "timecode_fin_extrait": 735,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 49,
-      "intervalle_debut": 735,
+      "intervalle_index": 14,
+      "intervalle_debut": 700,
       "intervalle_fin": 750,
-      "timecode_debut_extrait": 735,
+      "timecode_debut_extrait": 700,
       "timecode_fin_extrait": 750,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0014_time_700.00s-750.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 50,
+      "intervalle_index": 15,
       "intervalle_debut": 750,
-      "intervalle_fin": 765,
+      "intervalle_fin": 800,
       "timecode_debut_extrait": 750,
-      "timecode_fin_extrait": 765,
-      "video_path": null,
+      "timecode_fin_extrait": 800,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0015_time_750.00s-800.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 51,
-      "intervalle_debut": 765,
-      "intervalle_fin": 780,
-      "timecode_debut_extrait": 765,
-      "timecode_fin_extrait": 780,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 52,
-      "intervalle_debut": 780,
-      "intervalle_fin": 795,
-      "timecode_debut_extrait": 780,
-      "timecode_fin_extrait": 795,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 53,
-      "intervalle_debut": 795,
-      "intervalle_fin": 810,
-      "timecode_debut_extrait": 795,
-      "timecode_fin_extrait": 810,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 54,
-      "intervalle_debut": 810,
-      "intervalle_fin": 825,
-      "timecode_debut_extrait": 810,
-      "timecode_fin_extrait": 825,
-      "video_path": null,
+      "intervalle_index": 16,
+      "intervalle_debut": 800,
+      "intervalle_fin": 850,
+      "timecode_debut_extrait": 800,
+      "timecode_fin_extrait": 850,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0016_time_800.00s-850.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -1157,83 +761,23 @@
       ]
     },
     {
-      "intervalle_index": 55,
-      "intervalle_debut": 825,
-      "intervalle_fin": 840,
-      "timecode_debut_extrait": 825,
-      "timecode_fin_extrait": 840,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 56,
-      "intervalle_debut": 840,
-      "intervalle_fin": 855,
-      "timecode_debut_extrait": 840,
-      "timecode_fin_extrait": 855,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 57,
-      "intervalle_debut": 855,
-      "intervalle_fin": 870,
-      "timecode_debut_extrait": 855,
-      "timecode_fin_extrait": 870,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 58,
-      "intervalle_debut": 870,
-      "intervalle_fin": 885,
-      "timecode_debut_extrait": 870,
-      "timecode_fin_extrait": 885,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 59,
-      "intervalle_debut": 885,
+      "intervalle_index": 17,
+      "intervalle_debut": 850,
       "intervalle_fin": 900,
-      "timecode_debut_extrait": 885,
+      "timecode_debut_extrait": 850,
       "timecode_fin_extrait": 900,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0017_time_850.00s-900.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 60,
+      "intervalle_index": 18,
       "intervalle_debut": 900,
-      "intervalle_fin": 915,
+      "intervalle_fin": 950,
       "timecode_debut_extrait": 900,
-      "timecode_fin_extrait": 915,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 61,
-      "intervalle_debut": 915,
-      "intervalle_fin": 930,
-      "timecode_debut_extrait": 915,
-      "timecode_fin_extrait": 930,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 62,
-      "intervalle_debut": 930,
-      "intervalle_fin": 945,
-      "timecode_debut_extrait": 930,
-      "timecode_fin_extrait": 945,
-      "video_path": null,
-      "nombre_sous_titres": 5,
+      "timecode_fin_extrait": 950,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0018_time_900.00s-950.00s.mp4",
+      "nombre_sous_titres": 7,
       "sous_titres": [
         {
           "index": 96,
@@ -1264,18 +808,7 @@
           "start": 942.342,
           "end": 945.446,
           "text": "Honey, 20 years ago, I brought your fever down."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 63,
-      "intervalle_debut": 945,
-      "intervalle_fin": 960,
-      "timecode_debut_extrait": 945,
-      "timecode_fin_extrait": 960,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 101,
           "start": 945.479,
@@ -1287,7 +820,18 @@
           "start": 949.016,
           "end": 951.084,
           "text": "Thank you, Carol. You're a lifesaver."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 950,
+      "intervalle_fin": 1000,
+      "timecode_debut_extrait": 950,
+      "timecode_fin_extrait": 1000,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0019_time_950.00s-1000.00s.mp4",
+      "nombre_sous_titres": 12,
+      "sous_titres": [
         {
           "index": 103,
           "start": 951.118,
@@ -1299,18 +843,7 @@
           "start": 956.39,
           "end": 959.393,
           "text": "You know, your grandmother would have been proud."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 64,
-      "intervalle_debut": 960,
-      "intervalle_fin": 975,
-      "timecode_debut_extrait": 960,
-      "timecode_fin_extrait": 975,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 105,
           "start": 960.394,
@@ -1340,35 +873,13 @@
           "start": 969.537,
           "end": 972.206,
           "text": "You're doing good things, Ani. I know it."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 65,
-      "intervalle_debut": 975,
-      "intervalle_fin": 990,
-      "timecode_debut_extrait": 975,
-      "timecode_fin_extrait": 990,
-      "video_path": null,
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 110,
           "start": 989.356,
           "end": 991.191,
           "text": "And I just wanted to go at it."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 66,
-      "intervalle_debut": 990,
-      "intervalle_fin": 1005,
-      "timecode_debut_extrait": 990,
-      "timecode_fin_extrait": 1005,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 111,
           "start": 992.594,
@@ -1392,7 +903,18 @@
           "start": 999.366,
           "end": 1001.101,
           "text": "-Hi. -She's taking over Tom."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 1000,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1000,
+      "timecode_fin_extrait": 1050,
+      "video_path": null,
+      "nombre_sous_titres": 18,
+      "sous_titres": [
         {
           "index": 115,
           "start": 1001.134,
@@ -1404,18 +926,7 @@
           "start": 1003.805,
           "end": 1006.139,
           "text": "-Oh, wow. Blackfeet? -Blackfoot."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 67,
-      "intervalle_debut": 1005,
-      "intervalle_fin": 1020,
-      "timecode_debut_extrait": 1005,
-      "timecode_fin_extrait": 1020,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 117,
           "start": 1007.207,
@@ -1445,18 +956,7 @@
           "start": 1018.686,
           "end": 1020.755,
           "text": "Right. Come on, cut us some slack here."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 68,
-      "intervalle_debut": 1020,
-      "intervalle_fin": 1035,
-      "timecode_debut_extrait": 1020,
-      "timecode_fin_extrait": 1035,
-      "video_path": null,
-      "nombre_sous_titres": 8,
-      "sous_titres": [
+        },
         {
           "index": 122,
           "start": 1020.788,
@@ -1504,18 +1004,7 @@
           "start": 1032.867,
           "end": 1034.067,
           "text": "It's called weather."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 69,
-      "intervalle_debut": 1035,
-      "intervalle_fin": 1050,
-      "timecode_debut_extrait": 1035,
-      "timecode_fin_extrait": 1050,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 130,
           "start": 1035.135,
@@ -1537,13 +1026,13 @@
       ]
     },
     {
-      "intervalle_index": 70,
+      "intervalle_index": 21,
       "intervalle_debut": 1050,
-      "intervalle_fin": 1065,
+      "intervalle_fin": 1100,
       "timecode_debut_extrait": 1050,
-      "timecode_fin_extrait": 1065,
+      "timecode_fin_extrait": 1100,
       "video_path": null,
-      "nombre_sous_titres": 5,
+      "nombre_sous_titres": 18,
       "sous_titres": [
         {
           "index": 133,
@@ -1574,18 +1063,7 @@
           "start": 1063.765,
           "end": 1065.567,
           "text": "I mean, they bring in good money."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 71,
-      "intervalle_debut": 1065,
-      "intervalle_fin": 1080,
-      "timecode_debut_extrait": 1065,
-      "timecode_fin_extrait": 1080,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 138,
           "start": 1065.6,
@@ -1627,18 +1105,7 @@
           "start": 1079.212,
           "end": 1080.548,
           "text": "But look,"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 72,
-      "intervalle_debut": 1080,
-      "intervalle_fin": 1095,
-      "timecode_debut_extrait": 1080,
-      "timecode_fin_extrait": 1095,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 145,
           "start": 1080.582,
@@ -1678,13 +1145,13 @@
       ]
     },
     {
-      "intervalle_index": 73,
-      "intervalle_debut": 1095,
-      "intervalle_fin": 1110,
-      "timecode_debut_extrait": 1095,
-      "timecode_fin_extrait": 1110,
+      "intervalle_index": 22,
+      "intervalle_debut": 1100,
+      "intervalle_fin": 1150,
+      "timecode_debut_extrait": 1100,
+      "timecode_fin_extrait": 1150,
       "video_path": null,
-      "nombre_sous_titres": 4,
+      "nombre_sous_titres": 13,
       "sous_titres": [
         {
           "index": 151,
@@ -1709,18 +1176,7 @@
           "start": 1109.677,
           "end": 1113.146,
           "text": "-about three miles east of the old mill. -Yeah, I'll head out there now."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 74,
-      "intervalle_debut": 1110,
-      "intervalle_fin": 1125,
-      "timecode_debut_extrait": 1110,
-      "timecode_fin_extrait": 1125,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 155,
           "start": 1113.548,
@@ -1744,18 +1200,7 @@
           "start": 1121.421,
           "end": 1122.255,
           "text": "Rain check, then."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 75,
-      "intervalle_debut": 1125,
-      "intervalle_fin": 1140,
-      "timecode_debut_extrait": 1125,
-      "timecode_fin_extrait": 1140,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 159,
           "start": 1134.569,
@@ -1767,18 +1212,7 @@
           "start": 1139.741,
           "end": 1140.575,
           "text": "I was a sinner."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 76,
-      "intervalle_debut": 1140,
-      "intervalle_fin": 1155,
-      "timecode_debut_extrait": 1140,
-      "timecode_fin_extrait": 1155,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 161,
           "start": 1142.877,
@@ -1796,7 +1230,18 @@
           "start": 1148.215,
           "end": 1149.584,
           "text": "Luke tells us that, uh,"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 1150,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1150,
+      "timecode_fin_extrait": 1200,
+      "video_path": null,
+      "nombre_sous_titres": 19,
+      "sous_titres": [
         {
           "index": 164,
           "start": 1150.852,
@@ -1808,18 +1253,7 @@
           "start": 1152.82,
           "end": 1154.922,
           "text": "But if you do sin, then you gotta repent."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 77,
-      "intervalle_debut": 1155,
-      "intervalle_fin": 1170,
-      "timecode_debut_extrait": 1155,
-      "timecode_fin_extrait": 1170,
-      "video_path": null,
-      "nombre_sous_titres": 8,
-      "sous_titres": [
+        },
         {
           "index": 166,
           "start": 1155.422,
@@ -1867,18 +1301,7 @@
           "start": 1169.937,
           "end": 1170.805,
           "text": "Really, what I'm--"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 78,
-      "intervalle_debut": 1170,
-      "intervalle_fin": 1185,
-      "timecode_debut_extrait": 1170,
-      "timecode_fin_extrait": 1185,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 174,
           "start": 1172.64,
@@ -1896,18 +1319,7 @@
           "start": 1181.716,
           "end": 1184.384,
           "text": "For our Lord has space in his heart for sinners, for sure."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 79,
-      "intervalle_debut": 1185,
-      "intervalle_fin": 1200,
-      "timecode_debut_extrait": 1185,
-      "timecode_fin_extrait": 1200,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 177,
           "start": 1185.62,
@@ -1947,13 +1359,13 @@
       ]
     },
     {
-      "intervalle_index": 80,
+      "intervalle_index": 24,
       "intervalle_debut": 1200,
-      "intervalle_fin": 1215,
+      "intervalle_fin": 1250,
       "timecode_debut_extrait": 1200,
-      "timecode_fin_extrait": 1215,
+      "timecode_fin_extrait": 1250,
       "video_path": null,
-      "nombre_sous_titres": 3,
+      "nombre_sous_titres": 15,
       "sous_titres": [
         {
           "index": 183,
@@ -1972,18 +1384,7 @@
           "start": 1214.849,
           "end": 1217.25,
           "text": "That plane disappeared almost six months ago."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 81,
-      "intervalle_debut": 1215,
-      "intervalle_fin": 1230,
-      "timecode_debut_extrait": 1215,
-      "timecode_fin_extrait": 1230,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 186,
           "start": 1217.284,
@@ -2013,18 +1414,7 @@
           "start": 1229.831,
           "end": 1231.498,
           "text": "We have diving equipment."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 82,
-      "intervalle_debut": 1230,
-      "intervalle_fin": 1245,
-      "timecode_debut_extrait": 1230,
-      "timecode_fin_extrait": 1245,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 191,
           "start": 1231.833,
@@ -2060,24 +1450,24 @@
           "start": 1243.878,
           "end": 1245.747,
           "text": "Help us with your people on the ice."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 83,
-      "intervalle_debut": 1245,
-      "intervalle_fin": 1260,
-      "timecode_debut_extrait": 1245,
-      "timecode_fin_extrait": 1260,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 197,
           "start": 1245.78,
           "end": 1247.014,
           "text": "My people..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 1250,
+      "intervalle_fin": 1300,
+      "timecode_debut_extrait": 1250,
+      "timecode_fin_extrait": 1300,
+      "video_path": null,
+      "nombre_sous_titres": 13,
+      "sous_titres": [
         {
           "index": 198,
           "start": 1254.655,
@@ -2089,18 +1479,7 @@
           "start": 1259.093,
           "end": 1260.427,
           "text": "Sirena and Ellis."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 84,
-      "intervalle_debut": 1260,
-      "intervalle_fin": 1275,
-      "timecode_debut_extrait": 1260,
-      "timecode_fin_extrait": 1275,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 200,
           "start": 1261.428,
@@ -2130,18 +1509,7 @@
           "start": 1273.34,
           "end": 1274.008,
           "text": "Come on."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 85,
-      "intervalle_debut": 1275,
-      "intervalle_fin": 1290,
-      "timecode_debut_extrait": 1275,
-      "timecode_fin_extrait": 1290,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 205,
           "start": 1276.11,
@@ -2159,18 +1527,7 @@
           "start": 1281.549,
           "end": 1282.415,
           "text": "Don't you think?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 86,
-      "intervalle_debut": 1290,
-      "intervalle_fin": 1305,
-      "timecode_debut_extrait": 1290,
-      "timecode_fin_extrait": 1305,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 208,
           "start": 1292.86,
@@ -2188,7 +1545,18 @@
           "start": 1298.065,
           "end": 1299.366,
           "text": "He found me."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 1300,
+      "intervalle_fin": 1350,
+      "timecode_debut_extrait": 1300,
+      "timecode_fin_extrait": 1350,
+      "video_path": null,
+      "nombre_sous_titres": 13,
+      "sous_titres": [
         {
           "index": 211,
           "start": 1300.367,
@@ -2200,18 +1568,7 @@
           "start": 1303.07,
           "end": 1304.639,
           "text": "Milcham's a kind of phoenix."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 87,
-      "intervalle_debut": 1305,
-      "intervalle_fin": 1320,
-      "timecode_debut_extrait": 1305,
-      "timecode_fin_extrait": 1320,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 213,
           "start": 1306.741,
@@ -2241,18 +1598,7 @@
           "start": 1319.587,
           "end": 1320.688,
           "text": "And all that other shit."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 88,
-      "intervalle_debut": 1320,
-      "intervalle_fin": 1335,
-      "timecode_debut_extrait": 1320,
-      "timecode_fin_extrait": 1335,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 218,
           "start": 1321.722,
@@ -2282,18 +1628,7 @@
           "start": 1332.533,
           "end": 1333.901,
           "text": "got some projects of my own now."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 89,
-      "intervalle_debut": 1335,
-      "intervalle_fin": 1350,
-      "timecode_debut_extrait": 1335,
-      "timecode_fin_extrait": 1350,
-      "video_path": null,
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 223,
           "start": 1337.404,
@@ -2303,23 +1638,13 @@
       ]
     },
     {
-      "intervalle_index": 90,
+      "intervalle_index": 27,
       "intervalle_debut": 1350,
-      "intervalle_fin": 1365,
+      "intervalle_fin": 1400,
       "timecode_debut_extrait": 1350,
-      "timecode_fin_extrait": 1365,
+      "timecode_fin_extrait": 1400,
       "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 91,
-      "intervalle_debut": 1365,
-      "intervalle_fin": 1380,
-      "timecode_debut_extrait": 1365,
-      "timecode_fin_extrait": 1380,
-      "video_path": null,
-      "nombre_sous_titres": 3,
+      "nombre_sous_titres": 9,
       "sous_titres": [
         {
           "index": 224,
@@ -2338,18 +1663,7 @@
           "start": 1376.744,
           "end": 1378.112,
           "text": "Could be the current shifting it."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 92,
-      "intervalle_debut": 1380,
-      "intervalle_fin": 1395,
-      "timecode_debut_extrait": 1380,
-      "timecode_fin_extrait": 1395,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 227,
           "start": 1382.917,
@@ -2379,41 +1693,30 @@
           "start": 1394.629,
           "end": 1395.462,
           "text": "Come on, man."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 93,
-      "intervalle_debut": 1395,
-      "intervalle_fin": 1410,
-      "timecode_debut_extrait": 1395,
-      "timecode_fin_extrait": 1410,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 232,
           "start": 1399.7,
           "end": 1400.735,
           "text": "Yeah, all right."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 1400,
+      "intervalle_fin": 1450,
+      "timecode_debut_extrait": 1400,
+      "timecode_fin_extrait": 1450,
+      "video_path": null,
+      "nombre_sous_titres": 15,
+      "sous_titres": [
         {
           "index": 233,
           "start": 1401.802,
           "end": 1402.637,
           "text": "Let's move."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 94,
-      "intervalle_debut": 1410,
-      "intervalle_fin": 1425,
-      "timecode_debut_extrait": 1410,
-      "timecode_fin_extrait": 1425,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 234,
           "start": 1420.521,
@@ -2437,18 +1740,7 @@
           "start": 1424.692,
           "end": 1425.726,
           "text": "warm"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 95,
-      "intervalle_debut": 1425,
-      "intervalle_fin": 1440,
-      "timecode_debut_extrait": 1425,
-      "timecode_fin_extrait": 1440,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 238,
           "start": 1425.76,
@@ -2484,18 +1776,7 @@
           "start": 1439.073,
           "end": 1440.174,
           "text": "Miserable."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 96,
-      "intervalle_debut": 1440,
-      "intervalle_fin": 1455,
-      "timecode_debut_extrait": 1440,
-      "timecode_fin_extrait": 1455,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 244,
           "start": 1440.775,
@@ -2519,7 +1800,18 @@
           "start": 1449.216,
           "end": 1450.184,
           "text": "It's Harlan."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 1450,
+      "intervalle_fin": 1500,
+      "timecode_debut_extrait": 1450,
+      "timecode_fin_extrait": 1500,
+      "video_path": null,
+      "nombre_sous_titres": 20,
+      "sous_titres": [
         {
           "index": 248,
           "start": 1451.252,
@@ -2537,18 +1829,7 @@
           "start": 1454.889,
           "end": 1456.657,
           "text": "I've seen him from time to time."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 97,
-      "intervalle_debut": 1455,
-      "intervalle_fin": 1470,
-      "timecode_debut_extrait": 1455,
-      "timecode_fin_extrait": 1470,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 251,
           "start": 1456.691,
@@ -2578,18 +1859,7 @@
           "start": 1468.803,
           "end": 1471.105,
           "text": "-I see you got help already? -Mm-hmm."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 98,
-      "intervalle_debut": 1470,
-      "intervalle_fin": 1485,
-      "timecode_debut_extrait": 1470,
-      "timecode_fin_extrait": 1485,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 256,
           "start": 1473.174,
@@ -2625,18 +1895,7 @@
           "start": 1483.751,
           "end": 1485.953,
           "text": "-Gonna take a look. -It's just fishing gear, and..."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 99,
-      "intervalle_debut": 1485,
-      "intervalle_fin": 1500,
-      "timecode_debut_extrait": 1485,
-      "timecode_fin_extrait": 1500,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 262,
           "start": 1488.923,
@@ -2676,13 +1935,13 @@
       ]
     },
     {
-      "intervalle_index": 100,
+      "intervalle_index": 30,
       "intervalle_debut": 1500,
-      "intervalle_fin": 1515,
+      "intervalle_fin": 1550,
       "timecode_debut_extrait": 1500,
-      "timecode_fin_extrait": 1515,
+      "timecode_fin_extrait": 1550,
       "video_path": null,
-      "nombre_sous_titres": 4,
+      "nombre_sous_titres": 15,
       "sous_titres": [
         {
           "index": 268,
@@ -2707,18 +1966,7 @@
           "start": 1511.212,
           "end": 1513.18,
           "text": "Place them on the cab of the truck. No sudden movements."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 101,
-      "intervalle_debut": 1515,
-      "intervalle_fin": 1530,
-      "timecode_debut_extrait": 1515,
-      "timecode_fin_extrait": 1530,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 272,
           "start": 1515.916,
@@ -2754,18 +2002,7 @@
           "start": 1529.864,
           "end": 1531.298,
           "text": "Hands behind your back. Come on."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 102,
-      "intervalle_debut": 1530,
-      "intervalle_fin": 1545,
-      "timecode_debut_extrait": 1530,
-      "timecode_fin_extrait": 1545,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 278,
           "start": 1535.102,
@@ -2783,18 +2020,7 @@
           "start": 1543.244,
           "end": 1544.111,
           "text": "Stay there."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 103,
-      "intervalle_debut": 1545,
-      "intervalle_fin": 1560,
-      "timecode_debut_extrait": 1545,
-      "timecode_fin_extrait": 1560,
-      "video_path": null,
-      "nombre_sous_titres": 8,
-      "sous_titres": [
+        },
         {
           "index": 281,
           "start": 1545.846,
@@ -2806,7 +2032,18 @@
           "start": 1548.215,
           "end": 1549.583,
           "text": "You clean out the casino?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 1550,
+      "intervalle_fin": 1600,
+      "timecode_debut_extrait": 1550,
+      "timecode_fin_extrait": 1600,
+      "video_path": null,
+      "nombre_sous_titres": 17,
+      "sous_titres": [
         {
           "index": 283,
           "start": 1550.851,
@@ -2842,18 +2079,7 @@
           "start": 1559.827,
           "end": 1560.694,
           "text": "Fanshaw."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 104,
-      "intervalle_debut": 1560,
-      "intervalle_fin": 1575,
-      "timecode_debut_extrait": 1560,
-      "timecode_fin_extrait": 1575,
-      "video_path": null,
-      "nombre_sous_titres": 8,
-      "sous_titres": [
+        },
         {
           "index": 289,
           "start": 1561.829,
@@ -2901,28 +2127,7 @@
           "start": 1574.909,
           "end": 1576.377,
           "text": "You expecting some more help?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 105,
-      "intervalle_debut": 1575,
-      "intervalle_fin": 1590,
-      "timecode_debut_extrait": 1575,
-      "timecode_fin_extrait": 1590,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 106,
-      "intervalle_debut": 1590,
-      "intervalle_fin": 1605,
-      "timecode_debut_extrait": 1590,
-      "timecode_fin_extrait": 1605,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 297,
           "start": 1596.23,
@@ -2940,24 +2145,24 @@
           "start": 1598.866,
           "end": 1599.7,
           "text": "Early thaw."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 1600,
+      "intervalle_fin": 1650,
+      "timecode_debut_extrait": 1600,
+      "timecode_fin_extrait": 1650,
+      "video_path": null,
+      "nombre_sous_titres": 15,
+      "sous_titres": [
         {
           "index": 300,
           "start": 1604.939,
           "end": 1606.64,
           "text": "You should turn around for your safety."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 107,
-      "intervalle_debut": 1605,
-      "intervalle_fin": 1620,
-      "timecode_debut_extrait": 1605,
-      "timecode_fin_extrait": 1620,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 301,
           "start": 1611.078,
@@ -2975,18 +2180,7 @@
           "start": 1617.284,
           "end": 1618.152,
           "text": "No?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 108,
-      "intervalle_debut": 1620,
-      "intervalle_fin": 1635,
-      "timecode_debut_extrait": 1620,
-      "timecode_fin_extrait": 1635,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 304,
           "start": 1621.355,
@@ -3028,18 +2222,7 @@
           "start": 1634.101,
           "end": 1635.035,
           "text": "Search the truck."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 109,
-      "intervalle_debut": 1635,
-      "intervalle_fin": 1650,
-      "timecode_debut_extrait": 1635,
-      "timecode_fin_extrait": 1650,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 311,
           "start": 1636.904,
@@ -3067,13 +2250,13 @@
       ]
     },
     {
-      "intervalle_index": 110,
+      "intervalle_index": 33,
       "intervalle_debut": 1650,
-      "intervalle_fin": 1665,
+      "intervalle_fin": 1700,
       "timecode_debut_extrait": 1650,
-      "timecode_fin_extrait": 1665,
+      "timecode_fin_extrait": 1700,
       "video_path": null,
-      "nombre_sous_titres": 4,
+      "nombre_sous_titres": 9,
       "sous_titres": [
         {
           "index": 315,
@@ -3098,18 +2281,7 @@
           "start": 1663.497,
           "end": 1665.166,
           "text": "There's... there's more?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 111,
-      "intervalle_debut": 1665,
-      "intervalle_fin": 1680,
-      "timecode_debut_extrait": 1665,
-      "timecode_fin_extrait": 1680,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 319,
           "start": 1666.467,
@@ -3143,43 +2315,13 @@
       ]
     },
     {
-      "intervalle_index": 112,
-      "intervalle_debut": 1680,
-      "intervalle_fin": 1695,
-      "timecode_debut_extrait": 1680,
-      "timecode_fin_extrait": 1695,
+      "intervalle_index": 34,
+      "intervalle_debut": 1700,
+      "intervalle_fin": 1750,
+      "timecode_debut_extrait": 1700,
+      "timecode_fin_extrait": 1750,
       "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 113,
-      "intervalle_debut": 1695,
-      "intervalle_fin": 1710,
-      "timecode_debut_extrait": 1695,
-      "timecode_fin_extrait": 1710,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 114,
-      "intervalle_debut": 1710,
-      "intervalle_fin": 1725,
-      "timecode_debut_extrait": 1710,
-      "timecode_fin_extrait": 1725,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 115,
-      "intervalle_debut": 1725,
-      "intervalle_fin": 1740,
-      "timecode_debut_extrait": 1725,
-      "timecode_fin_extrait": 1740,
-      "video_path": null,
-      "nombre_sous_titres": 2,
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 324,
@@ -3192,18 +2334,7 @@
           "start": 1731.832,
           "end": 1734.301,
           "text": "Ahh!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 116,
-      "intervalle_debut": 1740,
-      "intervalle_fin": 1755,
-      "timecode_debut_extrait": 1740,
-      "timecode_fin_extrait": 1755,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 326,
           "start": 1740.274,
@@ -3221,34 +2352,24 @@
           "start": 1749.116,
           "end": 1750.184,
           "text": "Argh!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 1750,
+      "intervalle_fin": 1800,
+      "timecode_debut_extrait": 1750,
+      "timecode_fin_extrait": 1800,
+      "video_path": null,
+      "nombre_sous_titres": 9,
+      "sous_titres": [
         {
           "index": 329,
           "start": 1754.355,
           "end": 1755.356,
           "text": "Ugh!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 117,
-      "intervalle_debut": 1755,
-      "intervalle_fin": 1770,
-      "timecode_debut_extrait": 1755,
-      "timecode_fin_extrait": 1770,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 118,
-      "intervalle_debut": 1770,
-      "intervalle_fin": 1785,
-      "timecode_debut_extrait": 1770,
-      "timecode_fin_extrait": 1785,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 330,
           "start": 1781.315,
@@ -3260,18 +2381,7 @@
           "start": 1783.35,
           "end": 1784.485,
           "text": "I thought you were dead."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 119,
-      "intervalle_debut": 1785,
-      "intervalle_fin": 1800,
-      "timecode_debut_extrait": 1785,
-      "timecode_fin_extrait": 1800,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 332,
           "start": 1786.887,
@@ -3311,13 +2421,13 @@
       ]
     },
     {
-      "intervalle_index": 120,
+      "intervalle_index": 36,
       "intervalle_debut": 1800,
-      "intervalle_fin": 1815,
+      "intervalle_fin": 1850,
       "timecode_debut_extrait": 1800,
-      "timecode_fin_extrait": 1815,
+      "timecode_fin_extrait": 1850,
       "video_path": null,
-      "nombre_sous_titres": 3,
+      "nombre_sous_titres": 16,
       "sous_titres": [
         {
           "index": 338,
@@ -3336,18 +2446,7 @@
           "start": 1811.145,
           "end": 1813.38,
           "text": "Where's the rest of the money, and who the fuck are they?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 121,
-      "intervalle_debut": 1815,
-      "intervalle_fin": 1830,
-      "timecode_debut_extrait": 1815,
-      "timecode_fin_extrait": 1830,
-      "video_path": null,
-      "nombre_sous_titres": 8,
-      "sous_titres": [
+        },
         {
           "index": 341,
           "start": 1815.349,
@@ -3395,18 +2494,7 @@
           "start": 1828.663,
           "end": 1831.298,
           "text": "Yeah, Jed told me some bullshit about your wife."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 122,
-      "intervalle_debut": 1830,
-      "intervalle_fin": 1845,
-      "timecode_debut_extrait": 1830,
-      "timecode_fin_extrait": 1845,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 349,
           "start": 1831.633,
@@ -3430,24 +2518,24 @@
           "start": 1843.21,
           "end": 1845.58,
           "text": "not shoot and get shot at."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 123,
-      "intervalle_debut": 1845,
-      "intervalle_fin": 1860,
-      "timecode_debut_extrait": 1845,
-      "timecode_fin_extrait": 1860,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 353,
           "start": 1846.581,
           "end": 1848.315,
           "text": "I'm not made for this shit."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 1850,
+      "intervalle_fin": 1900,
+      "timecode_debut_extrait": 1850,
+      "timecode_fin_extrait": 1900,
+      "video_path": null,
+      "nombre_sous_titres": 18,
+      "sous_titres": [
         {
           "index": 354,
           "start": 1853.655,
@@ -3459,18 +2547,7 @@
           "start": 1856.524,
           "end": 1859.093,
           "text": "From the north? I'm on my way, babe."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 124,
-      "intervalle_debut": 1860,
-      "intervalle_fin": 1875,
-      "timecode_debut_extrait": 1860,
-      "timecode_fin_extrait": 1875,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 356,
           "start": 1865.6,
@@ -3512,18 +2589,7 @@
           "start": 1874.308,
           "end": 1875.476,
           "text": "<i>Jed's dead, Raleigh.</i>"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 125,
-      "intervalle_debut": 1875,
-      "intervalle_fin": 1890,
-      "timecode_debut_extrait": 1875,
-      "timecode_fin_extrait": 1890,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 363,
           "start": 1876.21,
@@ -3565,18 +2631,7 @@
           "start": 1888.422,
           "end": 1889.624,
           "text": "Head for station 11."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 126,
-      "intervalle_debut": 1890,
-      "intervalle_fin": 1905,
-      "timecode_debut_extrait": 1890,
-      "timecode_fin_extrait": 1905,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 370,
           "start": 1890.391,
@@ -3592,13 +2647,13 @@
       ]
     },
     {
-      "intervalle_index": 127,
-      "intervalle_debut": 1905,
-      "intervalle_fin": 1920,
-      "timecode_debut_extrait": 1905,
-      "timecode_fin_extrait": 1920,
+      "intervalle_index": 38,
+      "intervalle_debut": 1900,
+      "intervalle_fin": 1950,
+      "timecode_debut_extrait": 1900,
+      "timecode_fin_extrait": 1950,
       "video_path": null,
-      "nombre_sous_titres": 6,
+      "nombre_sous_titres": 15,
       "sous_titres": [
         {
           "index": 372,
@@ -3635,18 +2690,7 @@
           "start": 1919.587,
           "end": 1921.623,
           "text": "-You got a plan? -Get to station 11."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 128,
-      "intervalle_debut": 1920,
-      "intervalle_fin": 1935,
-      "timecode_debut_extrait": 1920,
-      "timecode_fin_extrait": 1935,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 378,
           "start": 1921.656,
@@ -3682,18 +2726,7 @@
           "start": 1933.668,
           "end": 1936.136,
           "text": "If either of us go under, we'll both drown with these on."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 129,
-      "intervalle_debut": 1935,
-      "intervalle_fin": 1950,
-      "timecode_debut_extrait": 1935,
-      "timecode_fin_extrait": 1950,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 384,
           "start": 1937.004,
@@ -3715,13 +2748,13 @@
       ]
     },
     {
-      "intervalle_index": 130,
+      "intervalle_index": 39,
       "intervalle_debut": 1950,
-      "intervalle_fin": 1965,
+      "intervalle_fin": 2000,
       "timecode_debut_extrait": 1950,
-      "timecode_fin_extrait": 1965,
+      "timecode_fin_extrait": 2000,
       "video_path": null,
-      "nombre_sous_titres": 5,
+      "nombre_sous_titres": 14,
       "sous_titres": [
         {
           "index": 387,
@@ -3752,18 +2785,7 @@
           "start": 1964.566,
           "end": 1966.066,
           "text": "Do you believe that bullshit?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 131,
-      "intervalle_debut": 1965,
-      "intervalle_fin": 1980,
-      "timecode_debut_extrait": 1965,
-      "timecode_fin_extrait": 1980,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 392,
           "start": 1970.17,
@@ -3781,18 +2803,7 @@
           "start": 1977.211,
           "end": 1979.279,
           "text": "Soldiers had guns. The natives knew the lake ."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 132,
-      "intervalle_debut": 1980,
-      "intervalle_fin": 1995,
-      "timecode_debut_extrait": 1980,
-      "timecode_fin_extrait": 1995,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 395,
           "start": 1981.348,
@@ -3816,18 +2827,7 @@
           "start": 1992.326,
           "end": 1994.428,
           "text": "God brought his wrath down upon them and,"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 133,
-      "intervalle_debut": 1995,
-      "intervalle_fin": 2010,
-      "timecode_debut_extrait": 1995,
-      "timecode_fin_extrait": 2010,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 399,
           "start": 1995.329,
@@ -3839,24 +2839,24 @@
           "start": 1998.232,
           "end": 2001.068,
           "text": "Their charred bodies found days later, half frozen in the ice."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 2000,
+      "intervalle_fin": 2050,
+      "timecode_debut_extrait": 2000,
+      "timecode_fin_extrait": 2050,
+      "video_path": null,
+      "nombre_sous_titres": 14,
+      "sous_titres": [
         {
           "index": 401,
           "start": 2007.374,
           "end": 2011.144,
           "text": "You've become a fucking bedwetter, Pen."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 134,
-      "intervalle_debut": 2010,
-      "intervalle_fin": 2025,
-      "timecode_debut_extrait": 2010,
-      "timecode_fin_extrait": 2025,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 402,
           "start": 2013.28,
@@ -3886,18 +2886,7 @@
           "start": 2023.725,
           "end": 2027.294,
           "text": "And now that we finally get a hit on the signal, you want to quit?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 135,
-      "intervalle_debut": 2025,
-      "intervalle_fin": 2040,
-      "timecode_debut_extrait": 2025,
-      "timecode_fin_extrait": 2040,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 407,
           "start": 2027.327,
@@ -3927,18 +2916,7 @@
           "start": 2037.572,
           "end": 2038.673,
           "text": "Start walking."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 136,
-      "intervalle_debut": 2040,
-      "intervalle_fin": 2055,
-      "timecode_debut_extrait": 2040,
-      "timecode_fin_extrait": 2055,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 412,
           "start": 2040.508,
@@ -3956,24 +2934,24 @@
           "start": 2048.382,
           "end": 2049.617,
           "text": "You know the consequences."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 2050,
+      "intervalle_fin": 2100,
+      "timecode_debut_extrait": 2050,
+      "timecode_fin_extrait": 2100,
+      "video_path": null,
+      "nombre_sous_titres": 8,
+      "sous_titres": [
         {
           "index": 415,
           "start": 2053.788,
           "end": 2056.724,
           "text": "People have lived on this land for over a thousand years."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 137,
-      "intervalle_debut": 2055,
-      "intervalle_fin": 2070,
-      "timecode_debut_extrait": 2055,
-      "timecode_fin_extrait": 2070,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 416,
           "start": 2056.758,
@@ -3991,18 +2969,7 @@
           "start": 2061.361,
           "end": 2063.731,
           "text": "Those murderers have no idea what they're walking into."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 138,
-      "intervalle_debut": 2070,
-      "intervalle_fin": 2085,
-      "timecode_debut_extrait": 2070,
-      "timecode_fin_extrait": 2085,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 419,
           "start": 2072.84,
@@ -4020,18 +2987,7 @@
           "start": 2075.877,
           "end": 2076.744,
           "text": "Some."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 139,
-      "intervalle_debut": 2085,
-      "intervalle_fin": 2100,
-      "timecode_debut_extrait": 2085,
-      "timecode_fin_extrait": 2100,
-      "video_path": null,
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 422,
           "start": 2093.493,
@@ -4041,13 +2997,13 @@
       ]
     },
     {
-      "intervalle_index": 140,
+      "intervalle_index": 42,
       "intervalle_debut": 2100,
-      "intervalle_fin": 2115,
+      "intervalle_fin": 2150,
       "timecode_debut_extrait": 2100,
-      "timecode_fin_extrait": 2115,
+      "timecode_fin_extrait": 2150,
       "video_path": null,
-      "nombre_sous_titres": 3,
+      "nombre_sous_titres": 14,
       "sous_titres": [
         {
           "index": 423,
@@ -4066,18 +3022,7 @@
           "start": 2111.411,
           "end": 2114.114,
           "text": "No, no, no. The ice will give. Ellis, don't."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 141,
-      "intervalle_debut": 2115,
-      "intervalle_fin": 2130,
-      "timecode_debut_extrait": 2115,
-      "timecode_fin_extrait": 2130,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 426,
           "start": 2116.784,
@@ -4107,18 +3052,7 @@
           "start": 2127.494,
           "end": 2129.329,
           "text": "It's going to sink and take us with it."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 142,
-      "intervalle_debut": 2130,
-      "intervalle_fin": 2145,
-      "timecode_debut_extrait": 2130,
-      "timecode_fin_extrait": 2145,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 431,
           "start": 2131.766,
@@ -4142,18 +3076,7 @@
           "start": 2143.611,
           "end": 2144.912,
           "text": "Ugh, ah!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 143,
-      "intervalle_debut": 2145,
-      "intervalle_fin": 2160,
-      "timecode_debut_extrait": 2145,
-      "timecode_fin_extrait": 2160,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 435,
           "start": 2146.848,
@@ -4165,7 +3088,18 @@
           "start": 2148.716,
           "end": 2150.585,
           "text": "Don't worry, stay calm. We're getting you out."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 2150,
+      "intervalle_fin": 2200,
+      "timecode_debut_extrait": 2150,
+      "timecode_fin_extrait": 2200,
+      "video_path": null,
+      "nombre_sous_titres": 16,
+      "sous_titres": [
         {
           "index": 437,
           "start": 2150.618,
@@ -4189,18 +3123,7 @@
           "start": 2159.292,
           "end": 2160.895,
           "text": "We're going to get you out, stay calm!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 144,
-      "intervalle_debut": 2160,
-      "intervalle_fin": 2175,
-      "timecode_debut_extrait": 2160,
-      "timecode_fin_extrait": 2175,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 441,
           "start": 2161.996,
@@ -4236,18 +3159,7 @@
           "start": 2174.307,
           "end": 2175.308,
           "text": "Ah!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 145,
-      "intervalle_debut": 2175,
-      "intervalle_fin": 2190,
-      "timecode_debut_extrait": 2175,
-      "timecode_fin_extrait": 2190,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 447,
           "start": 2177.545,
@@ -4287,23 +3199,13 @@
       ]
     },
     {
-      "intervalle_index": 146,
-      "intervalle_debut": 2190,
-      "intervalle_fin": 2205,
-      "timecode_debut_extrait": 2190,
-      "timecode_fin_extrait": 2205,
+      "intervalle_index": 44,
+      "intervalle_debut": 2200,
+      "intervalle_fin": 2250,
+      "timecode_debut_extrait": 2200,
+      "timecode_fin_extrait": 2250,
       "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 147,
-      "intervalle_debut": 2205,
-      "intervalle_fin": 2220,
-      "timecode_debut_extrait": 2205,
-      "timecode_fin_extrait": 2220,
-      "video_path": null,
-      "nombre_sous_titres": 5,
+      "nombre_sous_titres": 17,
       "sous_titres": [
         {
           "index": 453,
@@ -4334,18 +3236,7 @@
           "start": 2218.886,
           "end": 2219.754,
           "text": "My wife."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 148,
-      "intervalle_debut": 2220,
-      "intervalle_fin": 2235,
-      "timecode_debut_extrait": 2220,
-      "timecode_fin_extrait": 2235,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 458,
           "start": 2220.555,
@@ -4381,18 +3272,7 @@
           "start": 2232.033,
           "end": 2233.333,
           "text": "We should head there."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 149,
-      "intervalle_debut": 2235,
-      "intervalle_fin": 2250,
-      "timecode_debut_extrait": 2235,
-      "timecode_fin_extrait": 2250,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 464,
           "start": 2237.605,
@@ -4432,31 +3312,20 @@
       ]
     },
     {
-      "intervalle_index": 150,
+      "intervalle_index": 45,
       "intervalle_debut": 2250,
-      "intervalle_fin": 2265,
+      "intervalle_fin": 2300,
       "timecode_debut_extrait": 2250,
-      "timecode_fin_extrait": 2265,
+      "timecode_fin_extrait": 2300,
       "video_path": null,
-      "nombre_sous_titres": 1,
+      "nombre_sous_titres": 14,
       "sous_titres": [
         {
           "index": 470,
           "start": 2250.752,
           "end": 2251.619,
           "text": "Come on."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 151,
-      "intervalle_debut": 2265,
-      "intervalle_fin": 2280,
-      "timecode_debut_extrait": 2265,
-      "timecode_fin_extrait": 2280,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 471,
           "start": 2266.567,
@@ -4492,18 +3361,7 @@
           "start": 2277.612,
           "end": 2280.447,
           "text": "-You can get to them faster. -Put some fucking clothes on."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 152,
-      "intervalle_debut": 2280,
-      "intervalle_fin": 2295,
-      "timecode_debut_extrait": 2280,
-      "timecode_fin_extrait": 2295,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 477,
           "start": 2280.648,
@@ -4533,18 +3391,7 @@
           "start": 2294.629,
           "end": 2296.631,
           "text": "Never tell a suspect you're out of bullets."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 153,
-      "intervalle_debut": 2295,
-      "intervalle_fin": 2310,
-      "timecode_debut_extrait": 2295,
-      "timecode_fin_extrait": 2310,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 482,
           "start": 2296.898,
@@ -4556,7 +3403,18 @@
           "start": 2298.733,
           "end": 2300.367,
           "text": "Whoa, wait. Shit."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 2300,
+      "intervalle_fin": 2350,
+      "timecode_debut_extrait": 2300,
+      "timecode_fin_extrait": 2350,
+      "video_path": null,
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 484,
           "start": 2302.603,
@@ -4568,18 +3426,7 @@
           "start": 2305.338,
           "end": 2308.009,
           "text": "The cars will pull us under. We're going to have to go around."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 154,
-      "intervalle_debut": 2310,
-      "intervalle_fin": 2325,
-      "timecode_debut_extrait": 2310,
-      "timecode_fin_extrait": 2325,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 486,
           "start": 2312.046,
@@ -4601,33 +3448,13 @@
       ]
     },
     {
-      "intervalle_index": 155,
-      "intervalle_debut": 2325,
-      "intervalle_fin": 2340,
-      "timecode_debut_extrait": 2325,
-      "timecode_fin_extrait": 2340,
+      "intervalle_index": 47,
+      "intervalle_debut": 2350,
+      "intervalle_fin": 2400,
+      "timecode_debut_extrait": 2350,
+      "timecode_fin_extrait": 2400,
       "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 156,
-      "intervalle_debut": 2340,
-      "intervalle_fin": 2355,
-      "timecode_debut_extrait": 2340,
-      "timecode_fin_extrait": 2355,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 157,
-      "intervalle_debut": 2355,
-      "intervalle_fin": 2370,
-      "timecode_debut_extrait": 2355,
-      "timecode_fin_extrait": 2370,
-      "video_path": null,
-      "nombre_sous_titres": 2,
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 489,
@@ -4640,28 +3467,7 @@
           "start": 2366.968,
           "end": 2367.835,
           "text": "Yeah."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 158,
-      "intervalle_debut": 2370,
-      "intervalle_fin": 2385,
-      "timecode_debut_extrait": 2370,
-      "timecode_fin_extrait": 2385,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 159,
-      "intervalle_debut": 2385,
-      "intervalle_fin": 2400,
-      "timecode_debut_extrait": 2385,
-      "timecode_fin_extrait": 2400,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 491,
           "start": 2385.686,
@@ -4677,13 +3483,13 @@
       ]
     },
     {
-      "intervalle_index": 160,
+      "intervalle_index": 48,
       "intervalle_debut": 2400,
-      "intervalle_fin": 2415,
+      "intervalle_fin": 2450,
       "timecode_debut_extrait": 2400,
-      "timecode_fin_extrait": 2415,
+      "timecode_fin_extrait": 2450,
       "video_path": null,
-      "nombre_sous_titres": 2,
+      "nombre_sous_titres": 6,
       "sous_titres": [
         {
           "index": 493,
@@ -4696,35 +3502,13 @@
           "start": 2409.877,
           "end": 2411.078,
           "text": "Where did you get these?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 161,
-      "intervalle_debut": 2415,
-      "intervalle_fin": 2430,
-      "timecode_debut_extrait": 2415,
-      "timecode_fin_extrait": 2430,
-      "video_path": null,
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 495,
           "start": 2429.13,
           "end": 2429.964,
           "text": "Do you hear that?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 162,
-      "intervalle_debut": 2430,
-      "intervalle_fin": 2445,
-      "timecode_debut_extrait": 2430,
-      "timecode_fin_extrait": 2445,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 496,
           "start": 2430.531,
@@ -4746,13 +3530,13 @@
       ]
     },
     {
-      "intervalle_index": 163,
-      "intervalle_debut": 2445,
-      "intervalle_fin": 2460,
-      "timecode_debut_extrait": 2445,
-      "timecode_fin_extrait": 2460,
+      "intervalle_index": 49,
+      "intervalle_debut": 2450,
+      "intervalle_fin": 2500,
+      "timecode_debut_extrait": 2450,
+      "timecode_fin_extrait": 2500,
       "video_path": null,
-      "nombre_sous_titres": 2,
+      "nombre_sous_titres": 6,
       "sous_titres": [
         {
           "index": 499,
@@ -4765,18 +3549,7 @@
           "start": 2458.96,
           "end": 2459.827,
           "text": "Run!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 164,
-      "intervalle_debut": 2460,
-      "intervalle_fin": 2475,
-      "timecode_debut_extrait": 2460,
-      "timecode_fin_extrait": 2475,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 501,
           "start": 2461.796,
@@ -4788,18 +3561,7 @@
           "start": 2471.138,
           "end": 2472.006,
           "text": "Ugh!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 165,
-      "intervalle_debut": 2475,
-      "intervalle_fin": 2490,
-      "timecode_debut_extrait": 2475,
-      "timecode_fin_extrait": 2490,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 503,
           "start": 2476.677,
@@ -4815,21 +3577,11 @@
       ]
     },
     {
-      "intervalle_index": 166,
-      "intervalle_debut": 2490,
-      "intervalle_fin": 2505,
-      "timecode_debut_extrait": 2490,
-      "timecode_fin_extrait": 2505,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 167,
-      "intervalle_debut": 2505,
-      "intervalle_fin": 2520,
-      "timecode_debut_extrait": 2505,
-      "timecode_fin_extrait": 2520,
+      "intervalle_index": 50,
+      "intervalle_debut": 2500,
+      "intervalle_fin": 2550,
+      "timecode_debut_extrait": 2500,
+      "timecode_fin_extrait": 2550,
       "video_path": null,
       "nombre_sous_titres": 1,
       "sous_titres": [
@@ -4842,61 +3594,20 @@
       ]
     },
     {
-      "intervalle_index": 168,
-      "intervalle_debut": 2520,
-      "intervalle_fin": 2535,
-      "timecode_debut_extrait": 2520,
-      "timecode_fin_extrait": 2535,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 169,
-      "intervalle_debut": 2535,
-      "intervalle_fin": 2550,
-      "timecode_debut_extrait": 2535,
-      "timecode_fin_extrait": 2550,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 170,
+      "intervalle_index": 51,
       "intervalle_debut": 2550,
-      "intervalle_fin": 2565,
+      "intervalle_fin": 2600,
       "timecode_debut_extrait": 2550,
-      "timecode_fin_extrait": 2565,
+      "timecode_fin_extrait": 2600,
       "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 171,
-      "intervalle_debut": 2565,
-      "intervalle_fin": 2580,
-      "timecode_debut_extrait": 2565,
-      "timecode_fin_extrait": 2580,
-      "video_path": null,
-      "nombre_sous_titres": 1,
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 506,
           "start": 2575.976,
           "end": 2577.011,
           "text": "Ah!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 172,
-      "intervalle_debut": 2580,
-      "intervalle_fin": 2595,
-      "timecode_debut_extrait": 2580,
-      "timecode_fin_extrait": 2595,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 507,
           "start": 2583.851,
@@ -4908,18 +3619,7 @@
           "start": 2586.72,
           "end": 2589.023,
           "text": "Ahhhh! Ahhh!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 173,
-      "intervalle_debut": 2595,
-      "intervalle_fin": 2610,
-      "timecode_debut_extrait": 2595,
-      "timecode_fin_extrait": 2610,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 509,
           "start": 2597.131,
@@ -4931,24 +3631,24 @@
           "start": 2598.899,
           "end": 2600.634,
           "text": "Ah! Ah! Ahhh!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 2600,
+      "intervalle_fin": 2650,
+      "timecode_debut_extrait": 2600,
+      "timecode_fin_extrait": 2650,
+      "video_path": null,
+      "nombre_sous_titres": 9,
+      "sous_titres": [
         {
           "index": 511,
           "start": 2607.908,
           "end": 2610.177,
           "text": "Okay? Are you okay? Are you okay?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 174,
-      "intervalle_debut": 2610,
-      "intervalle_fin": 2625,
-      "timecode_debut_extrait": 2610,
-      "timecode_fin_extrait": 2625,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 512,
           "start": 2611.679,
@@ -4978,18 +3678,7 @@
           "start": 2620.087,
           "end": 2620.955,
           "text": "Come on."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 175,
-      "intervalle_debut": 2625,
-      "intervalle_fin": 2640,
-      "timecode_debut_extrait": 2625,
-      "timecode_fin_extrait": 2640,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 517,
           "start": 2626.06,
@@ -5011,13 +3700,13 @@
       ]
     },
     {
-      "intervalle_index": 176,
-      "intervalle_debut": 2640,
-      "intervalle_fin": 2655,
-      "timecode_debut_extrait": 2640,
-      "timecode_fin_extrait": 2655,
+      "intervalle_index": 53,
+      "intervalle_debut": 2650,
+      "intervalle_fin": 2700,
+      "timecode_debut_extrait": 2650,
+      "timecode_fin_extrait": 2700,
       "video_path": null,
-      "nombre_sous_titres": 2,
+      "nombre_sous_titres": 10,
       "sous_titres": [
         {
           "index": 520,
@@ -5030,18 +3719,7 @@
           "start": 2654.822,
           "end": 2655.856,
           "text": "Where the fuck is he?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 177,
-      "intervalle_debut": 2655,
-      "intervalle_fin": 2670,
-      "timecode_debut_extrait": 2655,
-      "timecode_fin_extrait": 2670,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 522,
           "start": 2658.726,
@@ -5059,18 +3737,7 @@
           "start": 2662.897,
           "end": 2663.731,
           "text": "Sirena?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 178,
-      "intervalle_debut": 2670,
-      "intervalle_fin": 2685,
-      "timecode_debut_extrait": 2670,
-      "timecode_fin_extrait": 2685,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 525,
           "start": 2677.344,
@@ -5094,18 +3761,7 @@
           "start": 2683.35,
           "end": 2684.385,
           "text": "Honey, hey, honey!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 179,
-      "intervalle_debut": 2685,
-      "intervalle_fin": 2700,
-      "timecode_debut_extrait": 2685,
-      "timecode_fin_extrait": 2700,
-      "video_path": null,
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 529,
           "start": 2688.055,
@@ -5115,13 +3771,13 @@
       ]
     },
     {
-      "intervalle_index": 180,
+      "intervalle_index": 54,
       "intervalle_debut": 2700,
-      "intervalle_fin": 2715,
+      "intervalle_fin": 2750,
       "timecode_debut_extrait": 2700,
-      "timecode_fin_extrait": 2715,
+      "timecode_fin_extrait": 2750,
       "video_path": null,
-      "nombre_sous_titres": 4,
+      "nombre_sous_titres": 7,
       "sous_titres": [
         {
           "index": 530,
@@ -5146,18 +3802,7 @@
           "start": 2714.915,
           "end": 2716.083,
           "text": "It's gonna be okay."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 181,
-      "intervalle_debut": 2715,
-      "intervalle_fin": 2730,
-      "timecode_debut_extrait": 2715,
-      "timecode_fin_extrait": 2730,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 534,
           "start": 2716.116,
@@ -5169,18 +3814,7 @@
           "start": 2718.118,
           "end": 2718.986,
           "text": "It's gonna be okay."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 182,
-      "intervalle_debut": 2730,
-      "intervalle_fin": 2745,
-      "timecode_debut_extrait": 2730,
-      "timecode_fin_extrait": 2745,
-      "video_path": null,
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 536,
           "start": 2738.472,
@@ -5190,31 +3824,20 @@
       ]
     },
     {
-      "intervalle_index": 183,
-      "intervalle_debut": 2745,
-      "intervalle_fin": 2760,
-      "timecode_debut_extrait": 2745,
-      "timecode_fin_extrait": 2760,
+      "intervalle_index": 55,
+      "intervalle_debut": 2750,
+      "intervalle_fin": 2800,
+      "timecode_debut_extrait": 2750,
+      "timecode_fin_extrait": 2800,
       "video_path": null,
-      "nombre_sous_titres": 1,
+      "nombre_sous_titres": 7,
       "sous_titres": [
         {
           "index": 537,
           "start": 2759.594,
           "end": 2760.894,
           "text": "I can't feel my fingers."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 184,
-      "intervalle_debut": 2760,
-      "intervalle_fin": 2775,
-      "timecode_debut_extrait": 2760,
-      "timecode_fin_extrait": 2775,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 538,
           "start": 2762.363,
@@ -5232,35 +3855,13 @@
           "start": 2769.036,
           "end": 2769.87,
           "text": "Harlan!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 185,
-      "intervalle_debut": 2775,
-      "intervalle_fin": 2790,
-      "timecode_debut_extrait": 2775,
-      "timecode_fin_extrait": 2790,
-      "video_path": null,
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 541,
           "start": 2788.922,
           "end": 2790.391,
           "text": "The woman!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 186,
-      "intervalle_debut": 2790,
-      "intervalle_fin": 2805,
-      "timecode_debut_extrait": 2790,
-      "timecode_fin_extrait": 2805,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 542,
           "start": 2792.192,
@@ -5272,7 +3873,18 @@
           "start": 2795.896,
           "end": 2796.564,
           "text": "Fuck!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 2800,
+      "intervalle_fin": 2850,
+      "timecode_debut_extrait": 2800,
+      "timecode_fin_extrait": 2850,
+      "video_path": null,
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 544,
           "start": 2800.1,
@@ -5284,18 +3896,7 @@
           "start": 2802.637,
           "end": 2805.072,
           "text": "Ellis! Pen! Let's go!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 187,
-      "intervalle_debut": 2805,
-      "intervalle_fin": 2820,
-      "timecode_debut_extrait": 2805,
-      "timecode_fin_extrait": 2820,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 546,
           "start": 2808.275,
@@ -5307,28 +3908,7 @@
           "start": 2810.978,
           "end": 2812.379,
           "text": "Come on, we have to lose them."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 188,
-      "intervalle_debut": 2820,
-      "intervalle_fin": 2835,
-      "timecode_debut_extrait": 2820,
-      "timecode_fin_extrait": 2835,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 189,
-      "intervalle_debut": 2835,
-      "intervalle_fin": 2850,
-      "timecode_debut_extrait": 2835,
-      "timecode_fin_extrait": 2850,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 548,
           "start": 2837.104,
@@ -5350,41 +3930,20 @@
       ]
     },
     {
-      "intervalle_index": 190,
+      "intervalle_index": 57,
       "intervalle_debut": 2850,
-      "intervalle_fin": 2865,
+      "intervalle_fin": 2900,
       "timecode_debut_extrait": 2850,
-      "timecode_fin_extrait": 2865,
+      "timecode_fin_extrait": 2900,
       "video_path": null,
-      "nombre_sous_titres": 1,
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 551,
           "start": 2851.185,
           "end": 2852.252,
           "text": "That way."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 191,
-      "intervalle_debut": 2865,
-      "intervalle_fin": 2880,
-      "timecode_debut_extrait": 2865,
-      "timecode_fin_extrait": 2880,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 192,
-      "intervalle_debut": 2880,
-      "intervalle_fin": 2895,
-      "timecode_debut_extrait": 2880,
-      "timecode_fin_extrait": 2895,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 552,
           "start": 2892.192,
@@ -5400,31 +3959,20 @@
       ]
     },
     {
-      "intervalle_index": 193,
-      "intervalle_debut": 2895,
-      "intervalle_fin": 2910,
-      "timecode_debut_extrait": 2895,
-      "timecode_fin_extrait": 2910,
+      "intervalle_index": 58,
+      "intervalle_debut": 2900,
+      "intervalle_fin": 2950,
+      "timecode_debut_extrait": 2900,
+      "timecode_fin_extrait": 2950,
       "video_path": null,
-      "nombre_sous_titres": 1,
+      "nombre_sous_titres": 20,
       "sous_titres": [
         {
           "index": 554,
           "start": 2909.076,
           "end": 2910.944,
           "text": "Wait, wait, stop!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 194,
-      "intervalle_debut": 2910,
-      "intervalle_fin": 2925,
-      "timecode_debut_extrait": 2910,
-      "timecode_fin_extrait": 2925,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 555,
           "start": 2910.978,
@@ -5466,18 +4014,7 @@
           "start": 2923.29,
           "end": 2925.392,
           "text": "So what you're saying is we shouldn't be here."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 195,
-      "intervalle_debut": 2925,
-      "intervalle_fin": 2940,
-      "timecode_debut_extrait": 2925,
-      "timecode_fin_extrait": 2940,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 562,
           "start": 2925.426,
@@ -5519,18 +4056,7 @@
           "start": 2936.336,
           "end": 2939.406,
           "text": "-Fuck! Goddamn it. -Get me the fuck out!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 196,
-      "intervalle_debut": 2940,
-      "intervalle_fin": 2955,
-      "timecode_debut_extrait": 2940,
-      "timecode_fin_extrait": 2955,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 569,
           "start": 2940.24,
@@ -5560,7 +4086,18 @@
           "start": 2949.383,
           "end": 2950.984,
           "text": "You have to pull your foot out."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 2950,
+      "intervalle_fin": 3000,
+      "timecode_debut_extrait": 2950,
+      "timecode_fin_extrait": 3000,
+      "video_path": null,
+      "nombre_sous_titres": 16,
+      "sous_titres": [
         {
           "index": 574,
           "start": 2951.018,
@@ -5572,18 +4109,7 @@
           "start": 2953.42,
           "end": 2956.19,
           "text": "-Hey! Hey! Hey! I'll pull you out -Fuck, ah, ah! Oh my God."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 197,
-      "intervalle_debut": 2955,
-      "intervalle_fin": 2970,
-      "timecode_debut_extrait": 2955,
-      "timecode_fin_extrait": 2970,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 576,
           "start": 2958.225,
@@ -5619,18 +4145,7 @@
           "start": 2969.804,
           "end": 2971.038,
           "text": "Okay guys, let's go!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 198,
-      "intervalle_debut": 2970,
-      "intervalle_fin": 2985,
-      "timecode_debut_extrait": 2970,
-      "timecode_fin_extrait": 2985,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 582,
           "start": 2971.506,
@@ -5660,18 +4175,7 @@
           "start": 2977.144,
           "end": 2979.379,
           "text": "I got it. I got it. Ah!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 199,
-      "intervalle_debut": 2985,
-      "intervalle_fin": 3000,
-      "timecode_debut_extrait": 2985,
-      "timecode_fin_extrait": 3000,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 587,
           "start": 2994.495,
@@ -5693,31 +4197,20 @@
       ]
     },
     {
-      "intervalle_index": 200,
+      "intervalle_index": 60,
       "intervalle_debut": 3000,
-      "intervalle_fin": 3015,
+      "intervalle_fin": 3050,
       "timecode_debut_extrait": 3000,
-      "timecode_fin_extrait": 3015,
+      "timecode_fin_extrait": 3050,
       "video_path": null,
-      "nombre_sous_titres": 1,
+      "nombre_sous_titres": 8,
       "sous_titres": [
         {
           "index": 590,
           "start": 3005.64,
           "end": 3006.541,
           "text": "Watch your head."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 201,
-      "intervalle_debut": 3015,
-      "intervalle_fin": 3030,
-      "timecode_debut_extrait": 3015,
-      "timecode_fin_extrait": 3030,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 591,
           "start": 3016.751,
@@ -5747,18 +4240,7 @@
           "start": 3029.296,
           "end": 3031.365,
           "text": "Ah."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 202,
-      "intervalle_debut": 3030,
-      "intervalle_fin": 3045,
-      "timecode_debut_extrait": 3030,
-      "timecode_fin_extrait": 3045,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 596,
           "start": 3036.504,
@@ -5774,13 +4256,13 @@
       ]
     },
     {
-      "intervalle_index": 203,
-      "intervalle_debut": 3045,
-      "intervalle_fin": 3060,
-      "timecode_debut_extrait": 3045,
-      "timecode_fin_extrait": 3060,
+      "intervalle_index": 61,
+      "intervalle_debut": 3050,
+      "intervalle_fin": 3100,
+      "timecode_debut_extrait": 3050,
+      "timecode_fin_extrait": 3100,
       "video_path": null,
-      "nombre_sous_titres": 4,
+      "nombre_sous_titres": 19,
       "sous_titres": [
         {
           "index": 598,
@@ -5805,18 +4287,7 @@
           "start": 3059.192,
           "end": 3060.193,
           "text": "I got it. I got it."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 204,
-      "intervalle_debut": 3060,
-      "intervalle_fin": 3075,
-      "timecode_debut_extrait": 3060,
-      "timecode_fin_extrait": 3075,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 602,
           "start": 3062.262,
@@ -5852,18 +4323,7 @@
           "start": 3072.306,
           "end": 3073.407,
           "text": "-Alright. -Fucking do it!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 205,
-      "intervalle_debut": 3075,
-      "intervalle_fin": 3090,
-      "timecode_debut_extrait": 3075,
-      "timecode_fin_extrait": 3090,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 608,
           "start": 3078.278,
@@ -5893,18 +4353,7 @@
           "start": 3089.256,
           "end": 3090.457,
           "text": "Oh, my God. Ah!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 206,
-      "intervalle_debut": 3090,
-      "intervalle_fin": 3105,
-      "timecode_debut_extrait": 3090,
-      "timecode_fin_extrait": 3105,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 613,
           "start": 3092.359,
@@ -5928,24 +4377,24 @@
           "start": 3099.466,
           "end": 3100.802,
           "text": "I'm gonna fucking kill them!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 3100,
+      "intervalle_fin": 3150,
+      "timecode_debut_extrait": 3100,
+      "timecode_fin_extrait": 3150,
+      "video_path": null,
+      "nombre_sous_titres": 9,
+      "sous_titres": [
         {
           "index": 617,
           "start": 3104.271,
           "end": 3105.105,
           "text": "We lost them."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 207,
-      "intervalle_debut": 3105,
-      "intervalle_fin": 3120,
-      "timecode_debut_extrait": 3105,
-      "timecode_fin_extrait": 3120,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 618,
           "start": 3106.641,
@@ -5957,18 +4406,7 @@
           "start": 3110.277,
           "end": 3111.345,
           "text": "Yeah, well, fuck this."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 208,
-      "intervalle_debut": 3120,
-      "intervalle_fin": 3135,
-      "timecode_debut_extrait": 3120,
-      "timecode_fin_extrait": 3135,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 620,
           "start": 3120.655,
@@ -5986,18 +4424,7 @@
           "start": 3134.535,
           "end": 3135.402,
           "text": "Thank you."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 209,
-      "intervalle_debut": 3135,
-      "intervalle_fin": 3150,
-      "timecode_debut_extrait": 3135,
-      "timecode_fin_extrait": 3150,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 623,
           "start": 3136.303,
@@ -6019,13 +4446,13 @@
       ]
     },
     {
-      "intervalle_index": 210,
+      "intervalle_index": 63,
       "intervalle_debut": 3150,
-      "intervalle_fin": 3165,
+      "intervalle_fin": 3200,
       "timecode_debut_extrait": 3150,
-      "timecode_fin_extrait": 3165,
+      "timecode_fin_extrait": 3200,
       "video_path": null,
-      "nombre_sous_titres": 3,
+      "nombre_sous_titres": 14,
       "sous_titres": [
         {
           "index": 626,
@@ -6044,18 +4471,7 @@
           "start": 3163.598,
           "end": 3164.464,
           "text": "She's dead."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 211,
-      "intervalle_debut": 3165,
-      "intervalle_fin": 3180,
-      "timecode_debut_extrait": 3165,
-      "timecode_fin_extrait": 3180,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 629,
           "start": 3167.568,
@@ -6085,18 +4501,7 @@
           "start": 3178.478,
           "end": 3179.947,
           "text": "And we're stronger as a team."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 212,
-      "intervalle_debut": 3180,
-      "intervalle_fin": 3195,
-      "timecode_debut_extrait": 3180,
-      "timecode_fin_extrait": 3195,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 634,
           "start": 3181.516,
@@ -6126,24 +4531,24 @@
           "start": 3194.796,
           "end": 3196.463,
           "text": "Me and Dax, We were gonna..."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 213,
-      "intervalle_debut": 3195,
-      "intervalle_fin": 3210,
-      "timecode_debut_extrait": 3195,
-      "timecode_fin_extrait": 3210,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 639,
           "start": 3199.499,
           "end": 3200.5,
           "text": "We were gonna..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 3200,
+      "intervalle_fin": 3250,
+      "timecode_debut_extrait": 3200,
+      "timecode_fin_extrait": 3250,
+      "video_path": null,
+      "nombre_sous_titres": 9,
+      "sous_titres": [
         {
           "index": 640,
           "start": 3200.735,
@@ -6155,18 +4560,7 @@
           "start": 3203.871,
           "end": 3206.306,
           "text": "I don't see you wiping no babies' asses."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 214,
-      "intervalle_debut": 3210,
-      "intervalle_fin": 3225,
-      "timecode_debut_extrait": 3210,
-      "timecode_fin_extrait": 3225,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 642,
           "start": 3214.281,
@@ -6184,18 +4578,7 @@
           "start": 3220.054,
           "end": 3221.388,
           "text": "She O-- ODed."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 215,
-      "intervalle_debut": 3225,
-      "intervalle_fin": 3240,
-      "timecode_debut_extrait": 3225,
-      "timecode_fin_extrait": 3240,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 645,
           "start": 3226.728,
@@ -6207,18 +4590,7 @@
           "start": 3234.334,
           "end": 3236.403,
           "text": "We-We lost o-our daughter, Kai."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 216,
-      "intervalle_debut": 3240,
-      "intervalle_fin": 3255,
-      "timecode_debut_extrait": 3240,
-      "timecode_fin_extrait": 3255,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 647,
           "start": 3241.075,
@@ -6230,24 +4602,24 @@
           "start": 3248.683,
           "end": 3250.383,
           "text": "She got some kind of infection."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 3250,
+      "intervalle_fin": 3300,
+      "timecode_debut_extrait": 3250,
+      "timecode_fin_extrait": 3300,
+      "video_path": null,
+      "nombre_sous_titres": 13,
+      "sous_titres": [
         {
           "index": 649,
           "start": 3251.351,
           "end": 3252.419,
           "text": "Lung."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 217,
-      "intervalle_debut": 3255,
-      "intervalle_fin": 3270,
-      "timecode_debut_extrait": 3255,
-      "timecode_fin_extrait": 3270,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 650,
           "start": 3255.422,
@@ -6265,18 +4637,7 @@
           "start": 3269.804,
           "end": 3270.938,
           "text": "I-I came home..."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 218,
-      "intervalle_debut": 3270,
-      "intervalle_fin": 3285,
-      "timecode_debut_extrait": 3270,
-      "timecode_fin_extrait": 3285,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 653,
           "start": 3274.341,
@@ -6300,18 +4661,7 @@
           "start": 3284.085,
           "end": 3285.052,
           "text": "just silent."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 219,
-      "intervalle_debut": 3285,
-      "intervalle_fin": 3300,
-      "timecode_debut_extrait": 3285,
-      "timecode_fin_extrait": 3300,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 657,
           "start": 3285.987,
@@ -6345,13 +4695,13 @@
       ]
     },
     {
-      "intervalle_index": 220,
+      "intervalle_index": 66,
       "intervalle_debut": 3300,
-      "intervalle_fin": 3315,
+      "intervalle_fin": 3350,
       "timecode_debut_extrait": 3300,
-      "timecode_fin_extrait": 3315,
+      "timecode_fin_extrait": 3350,
       "video_path": null,
-      "nombre_sous_titres": 3,
+      "nombre_sous_titres": 8,
       "sous_titres": [
         {
           "index": 662,
@@ -6370,35 +4720,13 @@
           "start": 3314.015,
           "end": 3315.082,
           "text": "This place is..."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 221,
-      "intervalle_debut": 3315,
-      "intervalle_fin": 3330,
-      "timecode_debut_extrait": 3315,
-      "timecode_fin_extrait": 3330,
-      "video_path": null,
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 665,
           "start": 3319.987,
           "end": 3322.355,
           "text": "It's the only place where I feel close to her."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 222,
-      "intervalle_debut": 3330,
-      "intervalle_fin": 3345,
-      "timecode_debut_extrait": 3330,
-      "timecode_fin_extrait": 3345,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 666,
           "start": 3335.736,
@@ -6416,24 +4744,24 @@
           "start": 3344.979,
           "end": 3346.948,
           "text": "You think there's a chance at a second life?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 223,
-      "intervalle_debut": 3345,
-      "intervalle_fin": 3360,
-      "timecode_debut_extrait": 3345,
-      "timecode_fin_extrait": 3360,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 669,
           "start": 3349.449,
           "end": 3351.484,
           "text": "You gotta grab what you can in your first one."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 3350,
+      "intervalle_fin": 3400,
+      "timecode_debut_extrait": 3350,
+      "timecode_fin_extrait": 3400,
+      "video_path": null,
+      "nombre_sous_titres": 10,
+      "sous_titres": [
         {
           "index": 670,
           "start": 3351.519,
@@ -6457,18 +4785,7 @@
           "start": 3359.994,
           "end": 3361.929,
           "text": "Chances are too high he doesn't exist."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 224,
-      "intervalle_debut": 3360,
-      "intervalle_fin": 3375,
-      "timecode_debut_extrait": 3360,
-      "timecode_fin_extrait": 3375,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 674,
           "start": 3368.102,
@@ -6480,18 +4797,7 @@
           "start": 3370.504,
           "end": 3371.739,
           "text": "He exists for sure."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 225,
-      "intervalle_debut": 3375,
-      "intervalle_fin": 3390,
-      "timecode_debut_extrait": 3375,
-      "timecode_fin_extrait": 3390,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 676,
           "start": 3383.15,
@@ -6503,18 +4809,7 @@
           "start": 3384.484,
           "end": 3385.82,
           "text": "Thank the heavens you're here."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 226,
-      "intervalle_debut": 3390,
-      "intervalle_fin": 3405,
-      "timecode_debut_extrait": 3390,
-      "timecode_fin_extrait": 3405,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 678,
           "start": 3396.998,
@@ -6526,7 +4821,18 @@
           "start": 3399.1,
           "end": 3400.668,
           "text": "I know how this looks, but"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 3400,
+      "intervalle_fin": 3450,
+      "timecode_debut_extrait": 3400,
+      "timecode_fin_extrait": 3450,
+      "video_path": null,
+      "nombre_sous_titres": 11,
+      "sous_titres": [
         {
           "index": 680,
           "start": 3401.002,
@@ -6538,18 +4844,7 @@
           "start": 3404.572,
           "end": 3405.706,
           "text": "She begs to differ."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 227,
-      "intervalle_debut": 3405,
-      "intervalle_fin": 3420,
-      "timecode_debut_extrait": 3405,
-      "timecode_fin_extrait": 3420,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 682,
           "start": 3407.141,
@@ -6573,35 +4868,13 @@
           "start": 3418.219,
           "end": 3419.452,
           "text": "They killed Dax."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 228,
-      "intervalle_debut": 3420,
-      "intervalle_fin": 3435,
-      "timecode_debut_extrait": 3420,
-      "timecode_fin_extrait": 3435,
-      "video_path": null,
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 686,
           "start": 3427.828,
           "end": 3428.896,
           "text": "They will pay for this."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 229,
-      "intervalle_debut": 3435,
-      "intervalle_fin": 3450,
-      "timecode_debut_extrait": 3435,
-      "timecode_fin_extrait": 3450,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 687,
           "start": 3442.176,
@@ -6629,13 +4902,13 @@
       ]
     },
     {
-      "intervalle_index": 230,
+      "intervalle_index": 69,
       "intervalle_debut": 3450,
-      "intervalle_fin": 3465,
+      "intervalle_fin": 3500,
       "timecode_debut_extrait": 3450,
-      "timecode_fin_extrait": 3465,
+      "timecode_fin_extrait": 3500,
       "video_path": null,
-      "nombre_sous_titres": 4,
+      "nombre_sous_titres": 14,
       "sous_titres": [
         {
           "index": 691,
@@ -6660,18 +4933,7 @@
           "start": 3462.964,
           "end": 3464.632,
           "text": "Some pretty powerful medicine."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 231,
-      "intervalle_debut": 3465,
-      "intervalle_fin": 3480,
-      "timecode_debut_extrait": 3465,
-      "timecode_fin_extrait": 3480,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 695,
           "start": 3470.204,
@@ -6695,18 +4957,7 @@
           "start": 3478.679,
           "end": 3480.214,
           "text": "It's a bear, too."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 232,
-      "intervalle_debut": 3480,
-      "intervalle_fin": 3495,
-      "timecode_debut_extrait": 3480,
-      "timecode_fin_extrait": 3495,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 699,
           "start": 3482.149,
@@ -6730,18 +4981,7 @@
           "start": 3493.027,
           "end": 3496.097,
           "text": "My people, we have a cleansing ritual."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 233,
-      "intervalle_debut": 3495,
-      "intervalle_fin": 3510,
-      "timecode_debut_extrait": 3495,
-      "timecode_fin_extrait": 3510,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 703,
           "start": 3496.33,
@@ -6753,7 +4993,18 @@
           "start": 3499.233,
           "end": 3500.267,
           "text": "And then afterwards,"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 3500,
+      "intervalle_fin": 3550,
+      "timecode_debut_extrait": 3500,
+      "timecode_fin_extrait": 3550,
+      "video_path": null,
+      "nombre_sous_titres": 20,
+      "sous_titres": [
         {
           "index": 705,
           "start": 3501.168,
@@ -6777,18 +5028,7 @@
           "start": 3507.942,
           "end": 3509.643,
           "text": "But you can let go of the guilt."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 234,
-      "intervalle_debut": 3510,
-      "intervalle_fin": 3525,
-      "timecode_debut_extrait": 3510,
-      "timecode_fin_extrait": 3525,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 709,
           "start": 3511.712,
@@ -6818,18 +5058,7 @@
           "start": 3524.959,
           "end": 3525.826,
           "text": "It's the people."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 235,
-      "intervalle_debut": 3525,
-      "intervalle_fin": 3540,
-      "timecode_debut_extrait": 3525,
-      "timecode_fin_extrait": 3540,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 714,
           "start": 3527.261,
@@ -6865,18 +5094,7 @@
           "start": 3538.739,
           "end": 3539.907,
           "text": "Take our youngest, Ellis."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 236,
-      "intervalle_debut": 3540,
-      "intervalle_fin": 3555,
-      "timecode_debut_extrait": 3540,
-      "timecode_fin_extrait": 3555,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 720,
           "start": 3541.175,
@@ -6906,24 +5124,24 @@
           "start": 3549.05,
           "end": 3551.018,
           "text": "you're still a little young and wild."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 3550,
+      "intervalle_fin": 3600,
+      "timecode_debut_extrait": 3550,
+      "timecode_fin_extrait": 3600,
+      "video_path": null,
+      "nombre_sous_titres": 11,
+      "sous_titres": [
         {
           "index": 725,
           "start": 3552.253,
           "end": 3553.754,
           "text": "Misbehaving at times."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 237,
-      "intervalle_debut": 3555,
-      "intervalle_fin": 3570,
-      "timecode_debut_extrait": 3555,
-      "timecode_fin_extrait": 3570,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 726,
           "start": 3555.79,
@@ -6947,18 +5165,7 @@
           "start": 3569.303,
           "end": 3571.072,
           "text": "in that shithole village by the lake."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 238,
-      "intervalle_debut": 3570,
-      "intervalle_fin": 3585,
-      "timecode_debut_extrait": 3570,
-      "timecode_fin_extrait": 3585,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 730,
           "start": 3573.24,
@@ -6976,18 +5183,7 @@
           "start": 3582.183,
           "end": 3584.218,
           "text": "-Mr. Rhodes. I-- -Shh."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 239,
-      "intervalle_debut": 3585,
-      "intervalle_fin": 3600,
-      "timecode_debut_extrait": 3585,
-      "timecode_fin_extrait": 3600,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 733,
           "start": 3588.289,
@@ -7009,13 +5205,13 @@
       ]
     },
     {
-      "intervalle_index": 240,
+      "intervalle_index": 72,
       "intervalle_debut": 3600,
-      "intervalle_fin": 3615,
+      "intervalle_fin": 3650,
       "timecode_debut_extrait": 3600,
-      "timecode_fin_extrait": 3615,
+      "timecode_fin_extrait": 3650,
       "video_path": null,
-      "nombre_sous_titres": 3,
+      "nombre_sous_titres": 18,
       "sous_titres": [
         {
           "index": 736,
@@ -7034,18 +5230,7 @@
           "start": 3606.841,
           "end": 3608.309,
           "text": "That you had planned this."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 241,
-      "intervalle_debut": 3615,
-      "intervalle_fin": 3630,
-      "timecode_debut_extrait": 3615,
-      "timecode_fin_extrait": 3630,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 739,
           "start": 3615.049,
@@ -7087,18 +5272,7 @@
           "start": 3629.33,
           "end": 3630.231,
           "text": "What does your God say?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 242,
-      "intervalle_debut": 3630,
-      "intervalle_fin": 3645,
-      "timecode_debut_extrait": 3630,
-      "timecode_fin_extrait": 3645,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 746,
           "start": 3632.433,
@@ -7134,18 +5308,7 @@
           "start": 3643.811,
           "end": 3644.645,
           "text": "It's all right."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 243,
-      "intervalle_debut": 3645,
-      "intervalle_fin": 3660,
-      "timecode_debut_extrait": 3645,
-      "timecode_fin_extrait": 3660,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 752,
           "start": 3645.179,
@@ -7157,7 +5320,18 @@
           "start": 3647.448,
           "end": 3648.415,
           "text": "I-I'm sorry."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 3650,
+      "intervalle_fin": 3700,
+      "timecode_debut_extrait": 3650,
+      "timecode_fin_extrait": 3700,
+      "video_path": null,
+      "nombre_sous_titres": 8,
+      "sous_titres": [
         {
           "index": 754,
           "start": 3655.823,
@@ -7169,18 +5343,7 @@
           "start": 3658.459,
           "end": 3660.227,
           "text": "Mercy is weakness."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 244,
-      "intervalle_debut": 3660,
-      "intervalle_fin": 3675,
-      "timecode_debut_extrait": 3660,
-      "timecode_fin_extrait": 3675,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 756,
           "start": 3665.466,
@@ -7198,18 +5361,7 @@
           "start": 3670.371,
           "end": 3672.006,
           "text": "of this group of wonderful people."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 245,
-      "intervalle_debut": 3675,
-      "intervalle_fin": 3690,
-      "timecode_debut_extrait": 3675,
-      "timecode_fin_extrait": 3690,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 759,
           "start": 3686.854,
@@ -7221,61 +5373,30 @@
           "start": 3688.889,
           "end": 3689.89,
           "text": "And then the poacher."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 246,
-      "intervalle_debut": 3690,
-      "intervalle_fin": 3705,
-      "timecode_debut_extrait": 3690,
-      "timecode_fin_extrait": 3705,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 761,
           "start": 3697.431,
           "end": 3698.399,
           "text": "They'll come to us."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 3700,
+      "intervalle_fin": 3750,
+      "timecode_debut_extrait": 3700,
+      "timecode_fin_extrait": 3750,
+      "video_path": null,
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 762,
           "start": 3700.0,
           "end": 3700.801,
           "text": "Don't you worry."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 247,
-      "intervalle_debut": 3705,
-      "intervalle_fin": 3720,
-      "timecode_debut_extrait": 3705,
-      "timecode_fin_extrait": 3720,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 248,
-      "intervalle_debut": 3720,
-      "intervalle_fin": 3735,
-      "timecode_debut_extrait": 3720,
-      "timecode_fin_extrait": 3735,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 249,
-      "intervalle_debut": 3735,
-      "intervalle_fin": 3750,
-      "timecode_debut_extrait": 3735,
-      "timecode_fin_extrait": 3750,
-      "video_path": null,
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 763,
           "start": 3749.95,
@@ -7285,13 +5406,13 @@
       ]
     },
     {
-      "intervalle_index": 250,
+      "intervalle_index": 75,
       "intervalle_debut": 3750,
-      "intervalle_fin": 3765,
+      "intervalle_fin": 3800,
       "timecode_debut_extrait": 3750,
-      "timecode_fin_extrait": 3765,
+      "timecode_fin_extrait": 3800,
       "video_path": null,
-      "nombre_sous_titres": 5,
+      "nombre_sous_titres": 19,
       "sous_titres": [
         {
           "index": 764,
@@ -7322,18 +5443,7 @@
           "start": 3763.565,
           "end": 3764.532,
           "text": "Oz!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 251,
-      "intervalle_debut": 3765,
-      "intervalle_fin": 3780,
-      "timecode_debut_extrait": 3765,
-      "timecode_fin_extrait": 3780,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 769,
           "start": 3767.167,
@@ -7357,18 +5467,7 @@
           "start": 3779.913,
           "end": 3781.549,
           "text": "Him. He tried to kill her."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 252,
-      "intervalle_debut": 3780,
-      "intervalle_fin": 3795,
-      "timecode_debut_extrait": 3780,
-      "timecode_fin_extrait": 3795,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 773,
           "start": 3781.583,
@@ -7410,18 +5509,7 @@
           "start": 3793.528,
           "end": 3795.029,
           "text": "They've been tracking us."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 253,
-      "intervalle_debut": 3795,
-      "intervalle_fin": 3810,
-      "timecode_debut_extrait": 3795,
-      "timecode_fin_extrait": 3810,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 780,
           "start": 3795.329,
@@ -7439,7 +5527,18 @@
           "start": 3798.566,
           "end": 3800.367,
           "text": "You dragged his niece out of the community."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 3800,
+      "intervalle_fin": 3850,
+      "timecode_debut_extrait": 3800,
+      "timecode_fin_extrait": 3850,
+      "video_path": null,
+      "nombre_sous_titres": 19,
+      "sous_titres": [
         {
           "index": 783,
           "start": 3800.401,
@@ -7463,18 +5562,7 @@
           "start": 3809.143,
           "end": 3810.21,
           "text": "We lost our child."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 254,
-      "intervalle_debut": 3810,
-      "intervalle_fin": 3825,
-      "timecode_debut_extrait": 3810,
-      "timecode_fin_extrait": 3825,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 787,
           "start": 3812.079,
@@ -7516,18 +5604,7 @@
           "start": 3824.992,
           "end": 3827.027,
           "text": "We do not have time for this."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 255,
-      "intervalle_debut": 3825,
-      "intervalle_fin": 3840,
-      "timecode_debut_extrait": 3825,
-      "timecode_fin_extrait": 3840,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 794,
           "start": 3827.961,
@@ -7557,18 +5634,7 @@
           "start": 3839.106,
           "end": 3840.24,
           "text": "Not to him."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 256,
-      "intervalle_debut": 3840,
-      "intervalle_fin": 3855,
-      "timecode_debut_extrait": 3840,
-      "timecode_fin_extrait": 3855,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 799,
           "start": 3840.441,
@@ -7590,13 +5656,13 @@
       ]
     },
     {
-      "intervalle_index": 257,
-      "intervalle_debut": 3855,
-      "intervalle_fin": 3870,
-      "timecode_debut_extrait": 3855,
-      "timecode_fin_extrait": 3870,
+      "intervalle_index": 77,
+      "intervalle_debut": 3850,
+      "intervalle_fin": 3900,
+      "timecode_debut_extrait": 3850,
+      "timecode_fin_extrait": 3900,
       "video_path": null,
-      "nombre_sous_titres": 5,
+      "nombre_sous_titres": 14,
       "sous_titres": [
         {
           "index": 802,
@@ -7627,18 +5693,7 @@
           "start": 3868.268,
           "end": 3870.104,
           "text": "Those are the ones we fear the most."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 258,
-      "intervalle_debut": 3870,
-      "intervalle_fin": 3885,
-      "timecode_debut_extrait": 3870,
-      "timecode_fin_extrait": 3885,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 807,
           "start": 3872.507,
@@ -7662,18 +5717,7 @@
           "start": 3884.251,
           "end": 3885.185,
           "text": "See that?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 259,
-      "intervalle_debut": 3885,
-      "intervalle_fin": 3900,
-      "timecode_debut_extrait": 3885,
-      "timecode_fin_extrait": 3900,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 811,
           "start": 3887.02,
@@ -7707,23 +5751,13 @@
       ]
     },
     {
-      "intervalle_index": 260,
+      "intervalle_index": 78,
       "intervalle_debut": 3900,
-      "intervalle_fin": 3915,
+      "intervalle_fin": 3950,
       "timecode_debut_extrait": 3900,
-      "timecode_fin_extrait": 3915,
+      "timecode_fin_extrait": 3950,
       "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 261,
-      "intervalle_debut": 3915,
-      "intervalle_fin": 3930,
-      "timecode_debut_extrait": 3915,
-      "timecode_fin_extrait": 3930,
-      "video_path": null,
-      "nombre_sous_titres": 3,
+      "nombre_sous_titres": 8,
       "sous_titres": [
         {
           "index": 816,
@@ -7742,18 +5776,7 @@
           "start": 3920.622,
           "end": 3922.122,
           "text": "They call it the Empty Quarter."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 262,
-      "intervalle_debut": 3930,
-      "intervalle_fin": 3945,
-      "timecode_debut_extrait": 3930,
-      "timecode_fin_extrait": 3945,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 819,
           "start": 3936.604,
@@ -7771,18 +5794,7 @@
           "start": 3943.711,
           "end": 3944.945,
           "text": "You know,"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 263,
-      "intervalle_debut": 3945,
-      "intervalle_fin": 3960,
-      "timecode_debut_extrait": 3945,
-      "timecode_fin_extrait": 3960,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 822,
           "start": 3945.245,
@@ -7794,7 +5806,18 @@
           "start": 3948.215,
           "end": 3950.25,
           "text": "how many generations"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 3950,
+      "intervalle_fin": 4000,
+      "timecode_debut_extrait": 3950,
+      "timecode_fin_extrait": 4000,
+      "video_path": null,
+      "nombre_sous_titres": 14,
+      "sous_titres": [
         {
           "index": 824,
           "start": 3951.118,
@@ -7812,18 +5835,7 @@
           "start": 3959.092,
           "end": 3960.427,
           "text": "I know the answer."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 264,
-      "intervalle_debut": 3960,
-      "intervalle_fin": 3975,
-      "timecode_debut_extrait": 3960,
-      "timecode_fin_extrait": 3975,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 827,
           "start": 3960.461,
@@ -7859,18 +5871,7 @@
           "start": 3974.274,
           "end": 3976.644,
           "text": "Why don't you help yourself to some food back there?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 265,
-      "intervalle_debut": 3975,
-      "intervalle_fin": 3990,
-      "timecode_debut_extrait": 3975,
-      "timecode_fin_extrait": 3990,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 833,
           "start": 3976.678,
@@ -7882,18 +5883,7 @@
           "start": 3979.146,
           "end": 3980.414,
           "text": "And get the hell out."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 266,
-      "intervalle_debut": 3990,
-      "intervalle_fin": 4005,
-      "timecode_debut_extrait": 3990,
-      "timecode_fin_extrait": 4005,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 835,
           "start": 3993.327,
@@ -7915,13 +5905,13 @@
       ]
     },
     {
-      "intervalle_index": 267,
-      "intervalle_debut": 4005,
-      "intervalle_fin": 4020,
-      "timecode_debut_extrait": 4005,
-      "timecode_fin_extrait": 4020,
+      "intervalle_index": 80,
+      "intervalle_debut": 4000,
+      "intervalle_fin": 4050,
+      "timecode_debut_extrait": 4000,
+      "timecode_fin_extrait": 4050,
       "video_path": null,
-      "nombre_sous_titres": 3,
+      "nombre_sous_titres": 15,
       "sous_titres": [
         {
           "index": 838,
@@ -7940,18 +5930,7 @@
           "start": 4018.352,
           "end": 4020.32,
           "text": "We could hide out here. It's way off track."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 268,
-      "intervalle_debut": 4020,
-      "intervalle_fin": 4035,
-      "timecode_debut_extrait": 4020,
-      "timecode_fin_extrait": 4035,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 841,
           "start": 4021.623,
@@ -7993,18 +5972,7 @@
           "start": 4034.836,
           "end": 4036.671,
           "text": "My land, my people,"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 269,
-      "intervalle_debut": 4035,
-      "intervalle_fin": 4050,
-      "timecode_debut_extrait": 4035,
-      "timecode_fin_extrait": 4050,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 848,
           "start": 4037.204,
@@ -8038,33 +6006,13 @@
       ]
     },
     {
-      "intervalle_index": 270,
+      "intervalle_index": 81,
       "intervalle_debut": 4050,
-      "intervalle_fin": 4065,
+      "intervalle_fin": 4100,
       "timecode_debut_extrait": 4050,
-      "timecode_fin_extrait": 4065,
+      "timecode_fin_extrait": 4100,
       "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 271,
-      "intervalle_debut": 4065,
-      "intervalle_fin": 4080,
-      "timecode_debut_extrait": 4065,
-      "timecode_fin_extrait": 4080,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 272,
-      "intervalle_debut": 4080,
-      "intervalle_fin": 4095,
-      "timecode_debut_extrait": 4080,
-      "timecode_fin_extrait": 4095,
-      "video_path": null,
-      "nombre_sous_titres": 4,
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 853,
@@ -8089,24 +6037,24 @@
           "start": 4093.828,
           "end": 4095.495,
           "text": "-Listen I-I wanna-- -How dare you"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 273,
-      "intervalle_debut": 4095,
-      "intervalle_fin": 4110,
-      "timecode_debut_extrait": 4095,
-      "timecode_fin_extrait": 4110,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 857,
           "start": 4095.53,
           "end": 4098.498,
           "text": "bring your fucking poison back here to my land?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 4100,
+      "intervalle_fin": 4150,
+      "timecode_debut_extrait": 4100,
+      "timecode_fin_extrait": 4150,
+      "video_path": null,
+      "nombre_sous_titres": 13,
+      "sous_titres": [
         {
           "index": 858,
           "start": 4101.501,
@@ -8130,18 +6078,7 @@
           "start": 4109.276,
           "end": 4110.31,
           "text": "It's filled with cash."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 274,
-      "intervalle_debut": 4110,
-      "intervalle_fin": 4125,
-      "timecode_debut_extrait": 4110,
-      "timecode_fin_extrait": 4125,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 862,
           "start": 4112.446,
@@ -8165,18 +6102,7 @@
           "start": 4121.388,
           "end": 4124.191,
           "text": "You know, maybe you, your people, Mia's tribe..."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 275,
-      "intervalle_debut": 4125,
-      "intervalle_fin": 4140,
-      "timecode_debut_extrait": 4125,
-      "timecode_fin_extrait": 4140,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 866,
           "start": 4125.392,
@@ -8200,41 +6126,30 @@
           "start": 4139.574,
           "end": 4140.908,
           "text": "I'm not trying to pay you off."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 276,
-      "intervalle_debut": 4140,
-      "intervalle_fin": 4155,
-      "timecode_debut_extrait": 4140,
-      "timecode_fin_extrait": 4155,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 870,
           "start": 4142.61,
           "end": 4144.177,
           "text": "Trying to do something right."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 4150,
+      "intervalle_fin": 4200,
+      "timecode_debut_extrait": 4150,
+      "timecode_fin_extrait": 4200,
+      "video_path": null,
+      "nombre_sous_titres": 14,
+      "sous_titres": [
         {
           "index": 871,
           "start": 4150.45,
           "end": 4151.485,
           "text": "Ah, shit."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 277,
-      "intervalle_debut": 4155,
-      "intervalle_fin": 4170,
-      "timecode_debut_extrait": 4155,
-      "timecode_fin_extrait": 4170,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 872,
           "start": 4164.532,
@@ -8252,18 +6167,7 @@
           "start": 4169.737,
           "end": 4172.674,
           "text": "where you can get off at any station and then move on to your own liking."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 278,
-      "intervalle_debut": 4170,
-      "intervalle_fin": 4185,
-      "timecode_debut_extrait": 4170,
-      "timecode_fin_extrait": 4185,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 875,
           "start": 4175.409,
@@ -8281,18 +6185,7 @@
           "start": 4183.918,
           "end": 4185.252,
           "text": "About the"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 279,
-      "intervalle_debut": 4185,
-      "intervalle_fin": 4200,
-      "timecode_debut_extrait": 4185,
-      "timecode_fin_extrait": 4200,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 878,
           "start": 4185.285,
@@ -8338,13 +6231,13 @@
       ]
     },
     {
-      "intervalle_index": 280,
+      "intervalle_index": 84,
       "intervalle_debut": 4200,
-      "intervalle_fin": 4215,
+      "intervalle_fin": 4250,
       "timecode_debut_extrait": 4200,
-      "timecode_fin_extrait": 4215,
+      "timecode_fin_extrait": 4250,
       "video_path": null,
-      "nombre_sous_titres": 2,
+      "nombre_sous_titres": 11,
       "sous_titres": [
         {
           "index": 885,
@@ -8357,18 +6250,7 @@
           "start": 4210.945,
           "end": 4213.781,
           "text": "Only God can forgive me or give me the punishment I deserve."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 281,
-      "intervalle_debut": 4215,
-      "intervalle_fin": 4230,
-      "timecode_debut_extrait": 4215,
-      "timecode_fin_extrait": 4230,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 887,
           "start": 4215.717,
@@ -8404,35 +6286,13 @@
           "start": 4229.731,
           "end": 4230.631,
           "text": "Choo-choo!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 282,
-      "intervalle_debut": 4230,
-      "intervalle_fin": 4245,
-      "timecode_debut_extrait": 4230,
-      "timecode_fin_extrait": 4245,
-      "video_path": null,
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 893,
           "start": 4244.377,
           "end": 4245.513,
           "text": "Jesus..."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 283,
-      "intervalle_debut": 4245,
-      "intervalle_fin": 4260,
-      "timecode_debut_extrait": 4245,
-      "timecode_fin_extrait": 4260,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 894,
           "start": 4246.647,
@@ -8444,7 +6304,18 @@
           "start": 4248.683,
           "end": 4250.283,
           "text": "Five guys jumped us, they--"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 4250,
+      "intervalle_fin": 4300,
+      "timecode_debut_extrait": 4250,
+      "timecode_fin_extrait": 4300,
+      "video_path": null,
+      "nombre_sous_titres": 19,
+      "sous_titres": [
         {
           "index": 896,
           "start": 4250.317,
@@ -8474,18 +6345,7 @@
           "start": 4258.526,
           "end": 4259.527,
           "text": "Okay. How much backup?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 284,
-      "intervalle_debut": 4260,
-      "intervalle_fin": 4275,
-      "timecode_debut_extrait": 4260,
-      "timecode_fin_extrait": 4275,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 901,
           "start": 4260.027,
@@ -8521,18 +6381,7 @@
           "start": 4274.742,
           "end": 4276.043,
           "text": "You mentioned it when we"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 285,
-      "intervalle_debut": 4275,
-      "intervalle_fin": 4290,
-      "timecode_debut_extrait": 4275,
-      "timecode_fin_extrait": 4290,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 907,
           "start": 4276.644,
@@ -8556,18 +6405,7 @@
           "start": 4289.389,
           "end": 4290.792,
           "text": "This is a very important moment."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 286,
-      "intervalle_debut": 4290,
-      "intervalle_fin": 4305,
-      "timecode_debut_extrait": 4290,
-      "timecode_fin_extrait": 4305,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 911,
           "start": 4291.358,
@@ -8591,7 +6429,18 @@
           "start": 4299.767,
           "end": 4300.968,
           "text": "Not you, Raleigh..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 4300,
+      "intervalle_fin": 4350,
+      "timecode_debut_extrait": 4300,
+      "timecode_fin_extrait": 4350,
+      "video_path": null,
+      "nombre_sous_titres": 16,
+      "sous_titres": [
         {
           "index": 915,
           "start": 4301.002,
@@ -8603,18 +6452,7 @@
           "start": 4303.771,
           "end": 4306.007,
           "text": "This isn't like you. Why are you doing this?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 287,
-      "intervalle_debut": 4305,
-      "intervalle_fin": 4320,
-      "timecode_debut_extrait": 4305,
-      "timecode_fin_extrait": 4320,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 917,
           "start": 4306.04,
@@ -8644,18 +6482,7 @@
           "start": 4318.719,
           "end": 4321.689,
           "text": "Five percent. I'd gladly split it with you."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 288,
-      "intervalle_debut": 4320,
-      "intervalle_fin": 4335,
-      "timecode_debut_extrait": 4320,
-      "timecode_fin_extrait": 4335,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 922,
           "start": 4321.722,
@@ -8685,18 +6512,7 @@
           "start": 4334.735,
           "end": 4336.904,
           "text": "-Stand down, Oz. -I'm the sheriff, alright?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 289,
-      "intervalle_debut": 4335,
-      "intervalle_fin": 4350,
-      "timecode_debut_extrait": 4335,
-      "timecode_fin_extrait": 4350,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 927,
           "start": 4337.638,
@@ -8724,13 +6540,13 @@
       ]
     },
     {
-      "intervalle_index": 290,
+      "intervalle_index": 87,
       "intervalle_debut": 4350,
-      "intervalle_fin": 4365,
+      "intervalle_fin": 4400,
       "timecode_debut_extrait": 4350,
-      "timecode_fin_extrait": 4365,
+      "timecode_fin_extrait": 4400,
       "video_path": null,
-      "nombre_sous_titres": 3,
+      "nombre_sous_titres": 9,
       "sous_titres": [
         {
           "index": 931,
@@ -8749,18 +6565,7 @@
           "start": 4352.753,
           "end": 4353.588,
           "text": "Get in the car."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 291,
-      "intervalle_debut": 4365,
-      "intervalle_fin": 4380,
-      "timecode_debut_extrait": 4365,
-      "timecode_fin_extrait": 4380,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 934,
           "start": 4365.7,
@@ -8778,18 +6583,7 @@
           "start": 4371.772,
           "end": 4372.773,
           "text": "It's gonna be okay."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 292,
-      "intervalle_debut": 4380,
-      "intervalle_fin": 4395,
-      "timecode_debut_extrait": 4380,
-      "timecode_fin_extrait": 4395,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 937,
           "start": 4383.084,
@@ -8801,24 +6595,24 @@
           "start": 4386.153,
           "end": 4387.955,
           "text": "-Where's the plane? -Fuck you, Raleigh."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 293,
-      "intervalle_debut": 4395,
-      "intervalle_fin": 4410,
-      "timecode_debut_extrait": 4395,
-      "timecode_fin_extrait": 4410,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 939,
           "start": 4397.965,
           "end": 4398.799,
           "text": "You good, man?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 4400,
+      "intervalle_fin": 4450,
+      "timecode_debut_extrait": 4400,
+      "timecode_fin_extrait": 4450,
+      "video_path": null,
+      "nombre_sous_titres": 11,
+      "sous_titres": [
         {
           "index": 940,
           "start": 4400.968,
@@ -8836,18 +6630,7 @@
           "start": 4406.807,
           "end": 4408.743,
           "text": "It's methane, you idiot. You're gonna blow the whole lake."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 294,
-      "intervalle_debut": 4410,
-      "intervalle_fin": 4425,
-      "timecode_debut_extrait": 4410,
-      "timecode_fin_extrait": 4425,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 943,
           "start": 4410.044,
@@ -8877,18 +6660,7 @@
           "start": 4424.926,
           "end": 4425.793,
           "text": "There."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 295,
-      "intervalle_debut": 4425,
-      "intervalle_fin": 4440,
-      "timecode_debut_extrait": 4425,
-      "timecode_fin_extrait": 4440,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 948,
           "start": 4434.101,
@@ -8900,24 +6672,24 @@
           "start": 4436.938,
           "end": 4438.506,
           "text": "You got him to bring them here?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 296,
-      "intervalle_debut": 4440,
-      "intervalle_fin": 4455,
-      "timecode_debut_extrait": 4440,
-      "timecode_fin_extrait": 4455,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 950,
           "start": 4449.817,
           "end": 4450.584,
           "text": "Sheriff."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 4450,
+      "intervalle_fin": 4500,
+      "timecode_debut_extrait": 4450,
+      "timecode_fin_extrait": 4500,
+      "video_path": null,
+      "nombre_sous_titres": 12,
+      "sous_titres": [
         {
           "index": 951,
           "start": 4452.219,
@@ -8929,18 +6701,7 @@
           "start": 4454.522,
           "end": 4456.557,
           "text": "you're giving up millions of dollars."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 297,
-      "intervalle_debut": 4455,
-      "intervalle_fin": 4470,
-      "timecode_debut_extrait": 4455,
-      "timecode_fin_extrait": 4470,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 953,
           "start": 4457.058,
@@ -8952,18 +6713,7 @@
           "start": 4468.602,
           "end": 4470.47,
           "text": "Okay. Where is it?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 298,
-      "intervalle_debut": 4470,
-      "intervalle_fin": 4485,
-      "timecode_debut_extrait": 4470,
-      "timecode_fin_extrait": 4485,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 955,
           "start": 4472.106,
@@ -8999,18 +6749,7 @@
           "start": 4483.818,
           "end": 4485.152,
           "text": "It's in the top pocket."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 299,
-      "intervalle_debut": 4485,
-      "intervalle_fin": 4500,
-      "timecode_debut_extrait": 4485,
-      "timecode_fin_extrait": 4500,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 961,
           "start": 4485.186,
@@ -9026,41 +6765,20 @@
       ]
     },
     {
-      "intervalle_index": 300,
+      "intervalle_index": 90,
       "intervalle_debut": 4500,
-      "intervalle_fin": 4515,
+      "intervalle_fin": 4550,
       "timecode_debut_extrait": 4500,
-      "timecode_fin_extrait": 4515,
+      "timecode_fin_extrait": 4550,
       "video_path": null,
-      "nombre_sous_titres": 1,
+      "nombre_sous_titres": 7,
       "sous_titres": [
         {
           "index": 963,
           "start": 4513.748,
           "end": 4514.615,
           "text": "Damn it!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 301,
-      "intervalle_debut": 4515,
-      "intervalle_fin": 4530,
-      "timecode_debut_extrait": 4515,
-      "timecode_fin_extrait": 4530,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 302,
-      "intervalle_debut": 4530,
-      "intervalle_fin": 4545,
-      "timecode_debut_extrait": 4530,
-      "timecode_fin_extrait": 4545,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 964,
           "start": 4536.203,
@@ -9072,18 +6790,7 @@
           "start": 4543.978,
           "end": 4544.979,
           "text": "You okay?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 303,
-      "intervalle_debut": 4545,
-      "intervalle_fin": 4560,
-      "timecode_debut_extrait": 4545,
-      "timecode_fin_extrait": 4560,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 966,
           "start": 4545.012,
@@ -9107,24 +6814,24 @@
           "start": 4549.25,
           "end": 4550.117,
           "text": "Okay."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 4550,
+      "intervalle_fin": 4600,
+      "timecode_debut_extrait": 4550,
+      "timecode_fin_extrait": 4600,
+      "video_path": null,
+      "nombre_sous_titres": 16,
+      "sous_titres": [
         {
           "index": 970,
           "start": 4555.089,
           "end": 4556.023,
           "text": "Okay. Shh."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 304,
-      "intervalle_debut": 4560,
-      "intervalle_fin": 4575,
-      "timecode_debut_extrait": 4560,
-      "timecode_fin_extrait": 4575,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 971,
           "start": 4565.766,
@@ -9154,18 +6861,7 @@
           "start": 4574.642,
           "end": 4575.709,
           "text": "You betrayed me, Ani."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 305,
-      "intervalle_debut": 4575,
-      "intervalle_fin": 4590,
-      "timecode_debut_extrait": 4575,
-      "timecode_fin_extrait": 4590,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 976,
           "start": 4576.877,
@@ -9201,18 +6897,7 @@
           "start": 4588.222,
           "end": 4589.09,
           "text": "Why?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 306,
-      "intervalle_debut": 4590,
-      "intervalle_fin": 4605,
-      "timecode_debut_extrait": 4590,
-      "timecode_fin_extrait": 4605,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 982,
           "start": 4591.125,
@@ -9240,41 +6925,20 @@
       ]
     },
     {
-      "intervalle_index": 307,
-      "intervalle_debut": 4605,
-      "intervalle_fin": 4620,
-      "timecode_debut_extrait": 4605,
-      "timecode_fin_extrait": 4620,
+      "intervalle_index": 92,
+      "intervalle_debut": 4600,
+      "intervalle_fin": 4650,
+      "timecode_debut_extrait": 4600,
+      "timecode_fin_extrait": 4650,
       "video_path": null,
-      "nombre_sous_titres": 1,
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 986,
           "start": 4607.274,
           "end": 4608.209,
           "text": "Okay. Hey, stay down."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 308,
-      "intervalle_debut": 4620,
-      "intervalle_fin": 4635,
-      "timecode_debut_extrait": 4620,
-      "timecode_fin_extrait": 4635,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 309,
-      "intervalle_debut": 4635,
-      "intervalle_fin": 4650,
-      "timecode_debut_extrait": 4635,
-      "timecode_fin_extrait": 4650,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 987,
           "start": 4637.838,
@@ -9302,13 +6966,13 @@
       ]
     },
     {
-      "intervalle_index": 310,
+      "intervalle_index": 93,
       "intervalle_debut": 4650,
-      "intervalle_fin": 4665,
+      "intervalle_fin": 4700,
       "timecode_debut_extrait": 4650,
-      "timecode_fin_extrait": 4665,
+      "timecode_fin_extrait": 4700,
       "video_path": null,
-      "nombre_sous_titres": 6,
+      "nombre_sous_titres": 12,
       "sous_titres": [
         {
           "index": 991,
@@ -9345,18 +7009,7 @@
           "start": 4664.965,
           "end": 4666.2,
           "text": "-But I thought that-- -Do it."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 311,
-      "intervalle_debut": 4665,
-      "intervalle_fin": 4680,
-      "timecode_debut_extrait": 4665,
-      "timecode_fin_extrait": 4680,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 997,
           "start": 4673.941,
@@ -9374,18 +7027,7 @@
           "start": 4679.446,
           "end": 4680.948,
           "text": "The fuck, Pen?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 312,
-      "intervalle_debut": 4680,
-      "intervalle_fin": 4695,
-      "timecode_debut_extrait": 4680,
-      "timecode_fin_extrait": 4695,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 1000,
           "start": 4682.483,
@@ -9407,31 +7049,20 @@
       ]
     },
     {
-      "intervalle_index": 313,
-      "intervalle_debut": 4695,
-      "intervalle_fin": 4710,
-      "timecode_debut_extrait": 4695,
-      "timecode_fin_extrait": 4710,
+      "intervalle_index": 94,
+      "intervalle_debut": 4700,
+      "intervalle_fin": 4750,
+      "timecode_debut_extrait": 4700,
+      "timecode_fin_extrait": 4750,
       "video_path": null,
-      "nombre_sous_titres": 1,
+      "nombre_sous_titres": 18,
       "sous_titres": [
         {
           "index": 1003,
           "start": 4706.473,
           "end": 4708.042,
           "text": "-Wait, wait, wait, wait! -Rhodes!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 314,
-      "intervalle_debut": 4710,
-      "intervalle_fin": 4725,
-      "timecode_debut_extrait": 4710,
-      "timecode_fin_extrait": 4725,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 1004,
           "start": 4712.046,
@@ -9455,18 +7086,7 @@
           "start": 4724.491,
           "end": 4725.492,
           "text": "Rhodes!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 315,
-      "intervalle_debut": 4725,
-      "intervalle_fin": 4740,
-      "timecode_debut_extrait": 4725,
-      "timecode_fin_extrait": 4740,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 1008,
           "start": 4725.527,
@@ -9508,18 +7128,7 @@
           "start": 4738.405,
           "end": 4741.141,
           "text": "Get on the ground, Rhodes! Get on the ground!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 316,
-      "intervalle_debut": 4740,
-      "intervalle_fin": 4755,
-      "timecode_debut_extrait": 4740,
-      "timecode_fin_extrait": 4755,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 1015,
           "start": 4742.209,
@@ -9559,23 +7168,13 @@
       ]
     },
     {
-      "intervalle_index": 317,
-      "intervalle_debut": 4755,
-      "intervalle_fin": 4770,
-      "timecode_debut_extrait": 4755,
-      "timecode_fin_extrait": 4770,
+      "intervalle_index": 95,
+      "intervalle_debut": 4750,
+      "intervalle_fin": 4800,
+      "timecode_debut_extrait": 4750,
+      "timecode_fin_extrait": 4800,
       "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 318,
-      "intervalle_debut": 4770,
-      "intervalle_fin": 4785,
-      "timecode_debut_extrait": 4770,
-      "timecode_fin_extrait": 4785,
-      "video_path": null,
-      "nombre_sous_titres": 2,
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 1021,
@@ -9588,18 +7187,7 @@
           "start": 4784.985,
           "end": 4785.853,
           "text": "Poacher!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 319,
-      "intervalle_debut": 4785,
-      "intervalle_fin": 4800,
-      "timecode_debut_extrait": 4785,
-      "timecode_fin_extrait": 4800,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 1023,
           "start": 4787.121,
@@ -9621,13 +7209,13 @@
       ]
     },
     {
-      "intervalle_index": 320,
+      "intervalle_index": 96,
       "intervalle_debut": 4800,
-      "intervalle_fin": 4815,
+      "intervalle_fin": 4850,
       "timecode_debut_extrait": 4800,
-      "timecode_fin_extrait": 4815,
+      "timecode_fin_extrait": 4850,
       "video_path": null,
-      "nombre_sous_titres": 6,
+      "nombre_sous_titres": 20,
       "sous_titres": [
         {
           "index": 1026,
@@ -9664,18 +7252,7 @@
           "start": 4813.113,
           "end": 4814.081,
           "text": "Best I can do."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 321,
-      "intervalle_debut": 4815,
-      "intervalle_fin": 4830,
-      "timecode_debut_extrait": 4815,
-      "timecode_fin_extrait": 4830,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 1032,
           "start": 4816.083,
@@ -9711,18 +7288,7 @@
           "start": 4829.664,
           "end": 4831.432,
           "text": "-Left! -Ah!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 322,
-      "intervalle_debut": 4830,
-      "intervalle_fin": 4845,
-      "timecode_debut_extrait": 4830,
-      "timecode_fin_extrait": 4845,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 1038,
           "start": 4831.465,
@@ -9758,18 +7324,7 @@
           "start": 4841.442,
           "end": 4843.11,
           "text": "Fuckin' look at him!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 323,
-      "intervalle_debut": 4845,
-      "intervalle_fin": 4860,
-      "timecode_debut_extrait": 4845,
-      "timecode_fin_extrait": 4860,
-      "video_path": null,
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 1044,
           "start": 4845.112,
@@ -9781,7 +7336,18 @@
           "start": 4849.049,
           "end": 4851.051,
           "text": "-Not me. -Y-you-you'll get what you want."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 97,
+      "intervalle_debut": 4850,
+      "intervalle_fin": 4900,
+      "timecode_debut_extrait": 4850,
+      "timecode_fin_extrait": 4900,
+      "video_path": null,
+      "nombre_sous_titres": 12,
+      "sous_titres": [
         {
           "index": 1046,
           "start": 4851.519,
@@ -9811,18 +7377,7 @@
           "start": 4859.193,
           "end": 4860.127,
           "text": "Ugh!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 324,
-      "intervalle_debut": 4860,
-      "intervalle_fin": 4875,
-      "timecode_debut_extrait": 4860,
-      "timecode_fin_extrait": 4875,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 1051,
           "start": 4861.495,
@@ -9834,18 +7389,7 @@
           "start": 4872.139,
           "end": 4873.107,
           "text": "The plane, poacher."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 325,
-      "intervalle_debut": 4875,
-      "intervalle_fin": 4890,
-      "timecode_debut_extrait": 4875,
-      "timecode_fin_extrait": 4890,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 1053,
           "start": 4875.109,
@@ -9879,23 +7423,13 @@
       ]
     },
     {
-      "intervalle_index": 326,
-      "intervalle_debut": 4890,
-      "intervalle_fin": 4905,
-      "timecode_debut_extrait": 4890,
-      "timecode_fin_extrait": 4905,
+      "intervalle_index": 98,
+      "intervalle_debut": 4900,
+      "intervalle_fin": 4950,
+      "timecode_debut_extrait": 4900,
+      "timecode_fin_extrait": 4950,
       "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 327,
-      "intervalle_debut": 4905,
-      "intervalle_fin": 4920,
-      "timecode_debut_extrait": 4905,
-      "timecode_fin_extrait": 4920,
-      "video_path": null,
-      "nombre_sous_titres": 3,
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 1058,
@@ -9914,18 +7448,7 @@
           "start": 4918.586,
           "end": 4920.387,
           "text": "Where's the fucking plane?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 328,
-      "intervalle_debut": 4920,
-      "intervalle_fin": 4935,
-      "timecode_debut_extrait": 4920,
-      "timecode_fin_extrait": 4935,
-      "video_path": null,
-      "nombre_sous_titres": 2,
-      "sous_titres": [
+        },
         {
           "index": 1061,
           "start": 4920.988,
@@ -9941,61 +7464,21 @@
       ]
     },
     {
-      "intervalle_index": 329,
-      "intervalle_debut": 4935,
-      "intervalle_fin": 4950,
-      "timecode_debut_extrait": 4935,
-      "timecode_fin_extrait": 4950,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 330,
+      "intervalle_index": 99,
       "intervalle_debut": 4950,
-      "intervalle_fin": 4965,
+      "intervalle_fin": 5000,
       "timecode_debut_extrait": 4950,
-      "timecode_fin_extrait": 4965,
+      "timecode_fin_extrait": 5000,
       "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 331,
-      "intervalle_debut": 4965,
-      "intervalle_fin": 4980,
-      "timecode_debut_extrait": 4965,
-      "timecode_fin_extrait": 4980,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 332,
-      "intervalle_debut": 4980,
-      "intervalle_fin": 4995,
-      "timecode_debut_extrait": 4980,
-      "timecode_fin_extrait": 4995,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 333,
-      "intervalle_debut": 4995,
-      "intervalle_fin": 5010,
-      "timecode_debut_extrait": 4995,
-      "timecode_fin_extrait": 5010,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 334,
-      "intervalle_debut": 5010,
-      "intervalle_fin": 5025,
-      "timecode_debut_extrait": 5010,
-      "timecode_fin_extrait": 5025,
+      "intervalle_index": 100,
+      "intervalle_debut": 5000,
+      "intervalle_fin": 5050,
+      "timecode_debut_extrait": 5000,
+      "timecode_fin_extrait": 5050,
       "video_path": null,
       "nombre_sous_titres": 2,
       "sous_titres": [
@@ -10014,41 +7497,20 @@
       ]
     },
     {
-      "intervalle_index": 335,
-      "intervalle_debut": 5025,
-      "intervalle_fin": 5040,
-      "timecode_debut_extrait": 5025,
-      "timecode_fin_extrait": 5040,
+      "intervalle_index": 101,
+      "intervalle_debut": 5050,
+      "intervalle_fin": 5100,
+      "timecode_debut_extrait": 5050,
+      "timecode_fin_extrait": 5100,
       "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 336,
-      "intervalle_debut": 5040,
-      "intervalle_fin": 5055,
-      "timecode_debut_extrait": 5040,
-      "timecode_fin_extrait": 5055,
-      "video_path": null,
-      "nombre_sous_titres": 1,
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": 1065,
           "start": 5050.484,
           "end": 5052.152,
           "text": "Okay, Harlan."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 337,
-      "intervalle_debut": 5055,
-      "intervalle_fin": 5070,
-      "timecode_debut_extrait": 5055,
-      "timecode_fin_extrait": 5070,
-      "video_path": null,
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 1066,
           "start": 5059.594,
@@ -10058,61 +7520,20 @@
       ]
     },
     {
-      "intervalle_index": 338,
-      "intervalle_debut": 5070,
-      "intervalle_fin": 5085,
-      "timecode_debut_extrait": 5070,
-      "timecode_fin_extrait": 5085,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 339,
-      "intervalle_debut": 5085,
-      "intervalle_fin": 5100,
-      "timecode_debut_extrait": 5085,
-      "timecode_fin_extrait": 5100,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 340,
+      "intervalle_index": 102,
       "intervalle_debut": 5100,
-      "intervalle_fin": 5115,
+      "intervalle_fin": 5150,
       "timecode_debut_extrait": 5100,
-      "timecode_fin_extrait": 5115,
+      "timecode_fin_extrait": 5150,
       "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 341,
-      "intervalle_debut": 5115,
-      "intervalle_fin": 5130,
-      "timecode_debut_extrait": 5115,
-      "timecode_fin_extrait": 5130,
-      "video_path": null,
-      "nombre_sous_titres": 1,
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": 1067,
           "start": 5120.287,
           "end": 5121.522,
           "text": "Aaah!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 342,
-      "intervalle_debut": 5130,
-      "intervalle_fin": 5145,
-      "timecode_debut_extrait": 5130,
-      "timecode_fin_extrait": 5145,
-      "video_path": null,
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 1068,
           "start": 5142.51,
@@ -10122,23 +7543,13 @@
       ]
     },
     {
-      "intervalle_index": 343,
-      "intervalle_debut": 5145,
-      "intervalle_fin": 5160,
-      "timecode_debut_extrait": 5145,
-      "timecode_fin_extrait": 5160,
+      "intervalle_index": 103,
+      "intervalle_debut": 5150,
+      "intervalle_fin": 5200,
+      "timecode_debut_extrait": 5150,
+      "timecode_fin_extrait": 5200,
       "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 344,
-      "intervalle_debut": 5160,
-      "intervalle_fin": 5175,
-      "timecode_debut_extrait": 5160,
-      "timecode_fin_extrait": 5175,
-      "video_path": null,
-      "nombre_sous_titres": 2,
+      "nombre_sous_titres": 9,
       "sous_titres": [
         {
           "index": 1069,
@@ -10151,18 +7562,7 @@
           "start": 5174.709,
           "end": 5176.176,
           "text": "Found four million dollars."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 345,
-      "intervalle_debut": 5175,
-      "intervalle_fin": 5190,
-      "timecode_debut_extrait": 5175,
-      "timecode_fin_extrait": 5190,
-      "video_path": null,
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 1071,
           "start": 5178.646,
@@ -10180,18 +7580,7 @@
           "start": 5185.887,
           "end": 5187.287,
           "text": "Did Harlan give it to you?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 346,
-      "intervalle_debut": 5190,
-      "intervalle_fin": 5205,
-      "timecode_debut_extrait": 5190,
-      "timecode_fin_extrait": 5205,
-      "video_path": null,
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 1074,
           "start": 5190.457,
@@ -10215,7 +7604,18 @@
           "start": 5198.666,
           "end": 5199.634,
           "text": "but man"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 104,
+      "intervalle_debut": 5200,
+      "intervalle_fin": 5250,
+      "timecode_debut_extrait": 5200,
+      "timecode_fin_extrait": 5250,
+      "video_path": null,
+      "nombre_sous_titres": 15,
+      "sous_titres": [
         {
           "index": 1078,
           "start": 5200.802,
@@ -10227,18 +7627,7 @@
           "start": 5203.004,
           "end": 5204.672,
           "text": "Hum. Aye."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 347,
-      "intervalle_debut": 5205,
-      "intervalle_fin": 5220,
-      "timecode_debut_extrait": 5205,
-      "timecode_fin_extrait": 5220,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 1080,
           "start": 5208.341,
@@ -10262,18 +7651,7 @@
           "start": 5219.887,
           "end": 5221.556,
           "text": "You wanna see my license?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 348,
-      "intervalle_debut": 5220,
-      "intervalle_fin": 5235,
-      "timecode_debut_extrait": 5220,
-      "timecode_fin_extrait": 5235,
-      "video_path": null,
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 1084,
           "start": 5226.359,
@@ -10297,18 +7675,7 @@
           "start": 5234.635,
           "end": 5235.636,
           "text": "And the yellow one?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 349,
-      "intervalle_debut": 5235,
-      "intervalle_fin": 5250,
-      "timecode_debut_extrait": 5235,
-      "timecode_fin_extrait": 5250,
-      "video_path": null,
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 1088,
           "start": 5237.739,
@@ -10342,11 +7709,11 @@
       ]
     },
     {
-      "intervalle_index": 350,
+      "intervalle_index": 105,
       "intervalle_debut": 5250,
-      "intervalle_fin": 5265,
+      "intervalle_fin": 5300,
       "timecode_debut_extrait": 5250,
-      "timecode_fin_extrait": 5265,
+      "timecode_fin_extrait": 5300,
       "video_path": null,
       "nombre_sous_titres": 6,
       "sous_titres": [
@@ -10389,340 +7756,100 @@
       ]
     },
     {
-      "intervalle_index": 351,
-      "intervalle_debut": 5265,
-      "intervalle_fin": 5280,
-      "timecode_debut_extrait": 5265,
-      "timecode_fin_extrait": 5280,
+      "intervalle_index": 106,
+      "intervalle_debut": 5300,
+      "intervalle_fin": 5350,
+      "timecode_debut_extrait": 5300,
+      "timecode_fin_extrait": 5350,
       "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 352,
-      "intervalle_debut": 5280,
-      "intervalle_fin": 5295,
-      "timecode_debut_extrait": 5280,
-      "timecode_fin_extrait": 5295,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 353,
-      "intervalle_debut": 5295,
-      "intervalle_fin": 5310,
-      "timecode_debut_extrait": 5295,
-      "timecode_fin_extrait": 5310,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 354,
-      "intervalle_debut": 5310,
-      "intervalle_fin": 5325,
-      "timecode_debut_extrait": 5310,
-      "timecode_fin_extrait": 5325,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 355,
-      "intervalle_debut": 5325,
-      "intervalle_fin": 5340,
-      "timecode_debut_extrait": 5325,
-      "timecode_fin_extrait": 5340,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 356,
-      "intervalle_debut": 5340,
-      "intervalle_fin": 5355,
-      "timecode_debut_extrait": 5340,
-      "timecode_fin_extrait": 5355,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 357,
-      "intervalle_debut": 5355,
-      "intervalle_fin": 5370,
-      "timecode_debut_extrait": 5355,
-      "timecode_fin_extrait": 5370,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 358,
-      "intervalle_debut": 5370,
-      "intervalle_fin": 5385,
-      "timecode_debut_extrait": 5370,
-      "timecode_fin_extrait": 5385,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 359,
-      "intervalle_debut": 5385,
+      "intervalle_index": 107,
+      "intervalle_debut": 5350,
       "intervalle_fin": 5400,
-      "timecode_debut_extrait": 5385,
+      "timecode_debut_extrait": 5350,
       "timecode_fin_extrait": 5400,
       "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 360,
+      "intervalle_index": 108,
       "intervalle_debut": 5400,
-      "intervalle_fin": 5415,
+      "intervalle_fin": 5450,
       "timecode_debut_extrait": 5400,
-      "timecode_fin_extrait": 5415,
+      "timecode_fin_extrait": 5450,
       "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 361,
-      "intervalle_debut": 5415,
-      "intervalle_fin": 5430,
-      "timecode_debut_extrait": 5415,
-      "timecode_fin_extrait": 5430,
+      "intervalle_index": 109,
+      "intervalle_debut": 5450,
+      "intervalle_fin": 5500,
+      "timecode_debut_extrait": 5450,
+      "timecode_fin_extrait": 5500,
       "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 362,
-      "intervalle_debut": 5430,
-      "intervalle_fin": 5445,
-      "timecode_debut_extrait": 5430,
-      "timecode_fin_extrait": 5445,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 363,
-      "intervalle_debut": 5445,
-      "intervalle_fin": 5460,
-      "timecode_debut_extrait": 5445,
-      "timecode_fin_extrait": 5460,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 364,
-      "intervalle_debut": 5460,
-      "intervalle_fin": 5475,
-      "timecode_debut_extrait": 5460,
-      "timecode_fin_extrait": 5475,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 365,
-      "intervalle_debut": 5475,
-      "intervalle_fin": 5490,
-      "timecode_debut_extrait": 5475,
-      "timecode_fin_extrait": 5490,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 366,
-      "intervalle_debut": 5490,
-      "intervalle_fin": 5505,
-      "timecode_debut_extrait": 5490,
-      "timecode_fin_extrait": 5505,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 367,
-      "intervalle_debut": 5505,
-      "intervalle_fin": 5520,
-      "timecode_debut_extrait": 5505,
-      "timecode_fin_extrait": 5520,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 368,
-      "intervalle_debut": 5520,
-      "intervalle_fin": 5535,
-      "timecode_debut_extrait": 5520,
-      "timecode_fin_extrait": 5535,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 369,
-      "intervalle_debut": 5535,
+      "intervalle_index": 110,
+      "intervalle_debut": 5500,
       "intervalle_fin": 5550,
-      "timecode_debut_extrait": 5535,
+      "timecode_debut_extrait": 5500,
       "timecode_fin_extrait": 5550,
       "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 370,
+      "intervalle_index": 111,
       "intervalle_debut": 5550,
-      "intervalle_fin": 5565,
+      "intervalle_fin": 5600,
       "timecode_debut_extrait": 5550,
-      "timecode_fin_extrait": 5565,
+      "timecode_fin_extrait": 5600,
       "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 371,
-      "intervalle_debut": 5565,
-      "intervalle_fin": 5580,
-      "timecode_debut_extrait": 5565,
-      "timecode_fin_extrait": 5580,
+      "intervalle_index": 112,
+      "intervalle_debut": 5600,
+      "intervalle_fin": 5650,
+      "timecode_debut_extrait": 5600,
+      "timecode_fin_extrait": 5650,
       "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 372,
-      "intervalle_debut": 5580,
-      "intervalle_fin": 5595,
-      "timecode_debut_extrait": 5580,
-      "timecode_fin_extrait": 5595,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 373,
-      "intervalle_debut": 5595,
-      "intervalle_fin": 5610,
-      "timecode_debut_extrait": 5595,
-      "timecode_fin_extrait": 5610,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 374,
-      "intervalle_debut": 5610,
-      "intervalle_fin": 5625,
-      "timecode_debut_extrait": 5610,
-      "timecode_fin_extrait": 5625,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 375,
-      "intervalle_debut": 5625,
-      "intervalle_fin": 5640,
-      "timecode_debut_extrait": 5625,
-      "timecode_fin_extrait": 5640,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 376,
-      "intervalle_debut": 5640,
-      "intervalle_fin": 5655,
-      "timecode_debut_extrait": 5640,
-      "timecode_fin_extrait": 5655,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 377,
-      "intervalle_debut": 5655,
-      "intervalle_fin": 5670,
-      "timecode_debut_extrait": 5655,
-      "timecode_fin_extrait": 5670,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 378,
-      "intervalle_debut": 5670,
-      "intervalle_fin": 5685,
-      "timecode_debut_extrait": 5670,
-      "timecode_fin_extrait": 5685,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 379,
-      "intervalle_debut": 5685,
+      "intervalle_index": 113,
+      "intervalle_debut": 5650,
       "intervalle_fin": 5700,
-      "timecode_debut_extrait": 5685,
+      "timecode_debut_extrait": 5650,
       "timecode_fin_extrait": 5700,
       "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 380,
+      "intervalle_index": 114,
       "intervalle_debut": 5700,
-      "intervalle_fin": 5715,
+      "intervalle_fin": 5750,
       "timecode_debut_extrait": 5700,
-      "timecode_fin_extrait": 5715,
+      "timecode_fin_extrait": 5750,
       "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 381,
-      "intervalle_debut": 5715,
-      "intervalle_fin": 5730,
-      "timecode_debut_extrait": 5715,
-      "timecode_fin_extrait": 5730,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 382,
-      "intervalle_debut": 5730,
-      "intervalle_fin": 5745,
-      "timecode_debut_extrait": 5730,
-      "timecode_fin_extrait": 5745,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 383,
-      "intervalle_debut": 5745,
-      "intervalle_fin": 5760,
-      "timecode_debut_extrait": 5745,
-      "timecode_fin_extrait": 5760,
-      "video_path": null,
-      "nombre_sous_titres": 0,
-      "sous_titres": []
-    },
-    {
-      "intervalle_index": 384,
-      "intervalle_debut": 5760,
+      "intervalle_index": 115,
+      "intervalle_debut": 5750,
       "intervalle_fin": 5761.76,
-      "timecode_debut_extrait": 5760,
+      "timecode_debut_extrait": 5750,
       "timecode_fin_extrait": 5761.76,
       "video_path": null,
       "nombre_sous_titres": 0,
