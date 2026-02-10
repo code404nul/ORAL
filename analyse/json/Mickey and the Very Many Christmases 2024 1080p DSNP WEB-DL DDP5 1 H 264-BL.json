@@ -2,19 +2,19 @@
   "movie_id": "Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL",
   "movie_path": "E:\\film_oral\\Mickey and the Very Many Christmases (2024)\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL.mkv",
   "subtitle_path": "E:\\film_oral\\Mickey and the Very Many Christmases (2024)\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL.en.srt",
-  "intervalle_secondes": 50,
-  "nombre_intervalles": 26,
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 87,
   "dossier_videos": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL",
-  "date_traitement": "2026-02-10T12:46:32.181151",
+  "date_traitement": "2026-02-10T21:24:37.364994",
   "intervalles": [
     {
       "intervalle_index": 0,
       "intervalle_debut": 0,
-      "intervalle_fin": 50,
+      "intervalle_fin": 15,
       "timecode_debut_extrait": 0,
-      "timecode_fin_extrait": 50,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0000_time_0.00s-50.00s.mp4",
-      "nombre_sous_titres": 21,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 7,
       "sous_titres": [
         {
           "index": 1,
@@ -57,7 +57,18 @@
           "start": 14.64,
           "end": 15.891,
           "text": "[Mickey exclaiming]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 8,
           "start": 16.308,
@@ -99,7 +110,18 @@
           "start": 28.862,
           "end": 29.988,
           "text": "Wait for me!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 15,
           "start": 31.156,
@@ -135,24 +157,24 @@
           "start": 43.502,
           "end": 46.797,
           "text": "and we already have a brand new Christmas memory."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 21,
           "start": 47.339,
           "end": 49.633,
           "text": "[Minnie chuckles] We sure do."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 1,
-      "intervalle_debut": 50,
-      "intervalle_fin": 100,
-      "timecode_debut_extrait": 50,
-      "timecode_fin_extrait": 100,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0001_time_50.00s-100.00s.mp4",
-      "nombre_sous_titres": 21,
-      "sous_titres": [
+        },
         {
           "index": 22,
           "start": 51.093,
@@ -176,7 +198,18 @@
           "start": 59.017,
           "end": 61.103,
           "text": "<i>-♪ In a one-horse open sleigh ♪</i> -[all cheer]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 26,
           "start": 61.186,
@@ -218,7 +251,18 @@
           "start": 74.7,
           "end": 76.451,
           "text": "[chuckles] Cozy mittens."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 33,
           "start": 77.286,
@@ -254,7 +298,18 @@
           "start": 88.672,
           "end": 91.675,
           "text": "It's still a delicious, new Christmas memory."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 39,
           "start": 92.05,
@@ -278,24 +333,24 @@
           "start": 99.975,
           "end": 102.352,
           "text": "It has pictures of the memories we've made"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 2,
-      "intervalle_debut": 100,
-      "intervalle_fin": 150,
-      "timecode_debut_extrait": 100,
-      "timecode_fin_extrait": 150,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0002_time_100.00s-150.00s.mp4",
-      "nombre_sous_titres": 17,
-      "sous_titres": [
+        },
         {
           "index": 43,
           "start": 102.519,
           "end": 105.564,
           "text": "over all the Christmases we've spent together."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 44,
           "start": 106.315,
@@ -325,7 +380,18 @@
           "start": 119.411,
           "end": 121.079,
           "text": "<i>♪ Looking backwards ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 49,
           "start": 121.163,
@@ -361,7 +427,18 @@
           "start": 134.259,
           "end": 136.261,
           "text": "<i>♪ Jolly days from our past ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 55,
           "start": 136.345,
@@ -395,13 +472,13 @@
       ]
     },
     {
-      "intervalle_index": 3,
+      "intervalle_index": 10,
       "intervalle_debut": 150,
-      "intervalle_fin": 200,
+      "intervalle_fin": 165,
       "timecode_debut_extrait": 150,
-      "timecode_fin_extrait": 200,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0003_time_150.00s-200.00s.mp4",
-      "nombre_sous_titres": 21,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 7,
       "sous_titres": [
         {
           "index": 60,
@@ -444,7 +521,18 @@
           "start": 163.83,
           "end": 167.793,
           "text": "<i>♪ I will treasure this book</i> <i>you've given me ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 67,
           "start": 167.876,
@@ -474,7 +562,18 @@
           "start": 179.388,
           "end": 180.389,
           "text": "Aww."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 72,
           "start": 180.472,
@@ -516,7 +615,18 @@
           "start": 193.443,
           "end": 195.07,
           "text": "Hey, how'd you guess?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 79,
           "start": 195.57,
@@ -528,18 +638,7 @@
           "start": 199.282,
           "end": 201.576,
           "text": "There's tons more Christmas Day left."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 4,
-      "intervalle_debut": 200,
-      "intervalle_fin": 250,
-      "timecode_debut_extrait": 200,
-      "timecode_fin_extrait": 250,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0004_time_200.00s-250.00s.mp4",
-      "nombre_sous_titres": 13,
-      "sous_titres": [
+        },
         {
           "index": 81,
           "start": 201.785,
@@ -551,7 +650,18 @@
           "start": 206.415,
           "end": 207.416,
           "text": "Hot dog."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 83,
           "start": 213.755,
@@ -575,7 +685,18 @@
           "start": 224.224,
           "end": 225.225,
           "text": "[horn blows]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 87,
           "start": 229.312,
@@ -599,7 +720,18 @@
           "start": 238.488,
           "end": 241.116,
           "text": "<i>♪ Will bring you</i> <i>Christmas cheer ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 91,
           "start": 241.324,
@@ -617,18 +749,7 @@
           "start": 247.497,
           "end": 250.459,
           "text": "<i>♪ Let memories</i> <i>of this happy place ♪</i>"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 5,
-      "intervalle_debut": 250,
-      "intervalle_fin": 300,
-      "timecode_debut_extrait": 250,
-      "timecode_fin_extrait": 300,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0005_time_250.00s-300.00s.mp4",
-      "nombre_sous_titres": 18,
-      "sous_titres": [
+        },
         {
           "index": 94,
           "start": 250.625,
@@ -640,7 +761,18 @@
           "start": 254.921,
           "end": 255.964,
           "text": "[train horn blows]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 96,
           "start": 260.051,
@@ -664,7 +796,18 @@
           "start": 268.393,
           "end": 270.979,
           "text": "-[chuckles] -And that, my festive friends,"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 100,
           "start": 271.062,
@@ -706,7 +849,18 @@
           "start": 283.074,
           "end": 285.452,
           "text": "in the train party, with a star."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 107,
           "start": 286.161,
@@ -740,13 +894,13 @@
       ]
     },
     {
-      "intervalle_index": 6,
+      "intervalle_index": 20,
       "intervalle_debut": 300,
-      "intervalle_fin": 350,
+      "intervalle_fin": 315,
       "timecode_debut_extrait": 300,
-      "timecode_fin_extrait": 350,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0006_time_300.00s-350.00s.mp4",
-      "nombre_sous_titres": 17,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 112,
@@ -771,7 +925,18 @@
           "start": 313.605,
           "end": 316.024,
           "text": "[chuckles] Another new Christmas memory."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 116,
           "start": 316.566,
@@ -807,7 +972,18 @@
           "start": 327.869,
           "end": 329.996,
           "text": "It sure was a great day."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 122,
           "start": 330.372,
@@ -837,7 +1013,18 @@
           "start": 340.34,
           "end": 342.217,
           "text": "-Oh, wait. -[all] Merry Christmas."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 127,
           "start": 345.762,
@@ -849,18 +1036,7 @@
           "start": 348.265,
           "end": 349.975,
           "text": "I guess that's it, Pluto."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 7,
-      "intervalle_debut": 350,
-      "intervalle_fin": 400,
-      "timecode_debut_extrait": 350,
-      "timecode_fin_extrait": 400,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0007_time_350.00s-400.00s.mp4",
-      "nombre_sous_titres": 14,
-      "sous_titres": [
+        },
         {
           "index": 129,
           "start": 350.308,
@@ -884,7 +1060,18 @@
           "start": 357.44,
           "end": 361.444,
           "text": "Maybe it doesn't have to go."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 133,
           "start": 361.528,
@@ -914,7 +1101,18 @@
           "start": 372.038,
           "end": 375.792,
           "text": "I wish Christmas could last forever."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 138,
           "start": 384.676,
@@ -926,7 +1124,18 @@
           "start": 389.556,
           "end": 391.057,
           "text": "Oh, jingles."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 140,
           "start": 391.766,
@@ -948,20 +1157,31 @@
       ]
     },
     {
-      "intervalle_index": 8,
-      "intervalle_debut": 400,
-      "intervalle_fin": 450,
-      "timecode_debut_extrait": 400,
-      "timecode_fin_extrait": 450,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0008_time_400.00s-450.00s.mp4",
-      "nombre_sous_titres": 14,
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 143,
           "start": 419.419,
           "end": 421.379,
           "text": "[Santa Claus] Merry Christmas!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 144,
           "start": 421.463,
@@ -1003,7 +1223,18 @@
           "start": 434.1,
           "end": 435.268,
           "text": "Wait for me!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 151,
           "start": 436.186,
@@ -1043,13 +1274,13 @@
       ]
     },
     {
-      "intervalle_index": 9,
+      "intervalle_index": 30,
       "intervalle_debut": 450,
-      "intervalle_fin": 500,
+      "intervalle_fin": 465,
       "timecode_debut_extrait": 450,
-      "timecode_fin_extrait": 500,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0009_time_450.00s-500.00s.mp4",
-      "nombre_sous_titres": 21,
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0030_time_450.00s-465.00s.mp4",
+      "nombre_sous_titres": 7,
       "sous_titres": [
         {
           "index": 157,
@@ -1092,7 +1323,18 @@
           "start": 464.714,
           "end": 466.174,
           "text": "Today is Christmas?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 164,
           "start": 466.591,
@@ -1128,7 +1370,18 @@
           "start": 478.77,
           "end": 481.731,
           "text": "And we get to have Christmas all over again."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 170,
           "start": 483.525,
@@ -1158,7 +1411,18 @@
           "start": 493.201,
           "end": 495.662,
           "text": "<i>♪ This holly</i> <i>jolly wonderland ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 175,
           "start": 495.829,
@@ -1176,18 +1440,7 @@
           "start": 499.416,
           "end": 500.5,
           "text": "<i>♪ Oh, whoop-de-do ♪</i>"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 10,
-      "intervalle_debut": 500,
-      "intervalle_fin": 550,
-      "timecode_debut_extrait": 500,
-      "timecode_fin_extrait": 550,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0010_time_500.00s-550.00s.mp4",
-      "nombre_sous_titres": 19,
-      "sous_titres": [
+        },
         {
           "index": 178,
           "start": 500.583,
@@ -1211,7 +1464,18 @@
           "start": 507.382,
           "end": 509.884,
           "text": "<i>♪ Oh, it's Christmas ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 182,
           "start": 510.093,
@@ -1247,7 +1511,18 @@
           "start": 522.856,
           "end": 524.691,
           "text": "<i>♪ I'll cherish every moment ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 188,
           "start": 525.4,
@@ -1277,7 +1552,18 @@
           "start": 538.371,
           "end": 540.623,
           "text": "<i>♪ Magical Christmas ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 193,
           "start": 540.707,
@@ -1301,18 +1587,7 @@
           "start": 548.131,
           "end": 550.133,
           "text": "<i>♪ Christmasy Christmas ♪</i>"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 11,
-      "intervalle_debut": 550,
-      "intervalle_fin": 600,
-      "timecode_debut_extrait": 550,
-      "timecode_fin_extrait": 600,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0011_time_550.00s-600.00s.mp4",
-      "nombre_sous_titres": 21,
-      "sous_titres": [
+        },
         {
           "index": 197,
           "start": 550.675,
@@ -1324,7 +1599,18 @@
           "start": 553.386,
           "end": 555.68,
           "text": "<i>♪ All over again ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 199,
           "start": 555.764,
@@ -1366,7 +1652,18 @@
           "start": 569.611,
           "end": 571.654,
           "text": "-I think it's happening again! -[barks]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 206,
           "start": 571.738,
@@ -1402,7 +1699,18 @@
           "start": 584.125,
           "end": 586.169,
           "text": "[chuckles] I didn't want you to trip on it."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 585,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0039_time_585.00s-600.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 212,
           "start": 586.419,
@@ -1442,13 +1750,13 @@
       ]
     },
     {
-      "intervalle_index": 12,
+      "intervalle_index": 40,
       "intervalle_debut": 600,
-      "intervalle_fin": 650,
+      "intervalle_fin": 615,
       "timecode_debut_extrait": 600,
-      "timecode_fin_extrait": 650,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0012_time_600.00s-650.00s.mp4",
-      "nombre_sous_titres": 21,
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0040_time_600.00s-615.00s.mp4",
+      "nombre_sous_titres": 6,
       "sous_titres": [
         {
           "index": 218,
@@ -1485,7 +1793,18 @@
           "start": 613.53,
           "end": 614.781,
           "text": "Is everything okay?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 630,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0041_time_615.00s-630.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 224,
           "start": 615.323,
@@ -1527,7 +1846,18 @@
           "start": 628.336,
           "end": 630.463,
           "text": "-Anyone wanna guess what-- -It's a sled."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "timecode_debut_extrait": 630,
+      "timecode_fin_extrait": 645,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0042_time_630.00s-645.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 231,
           "start": 632.257,
@@ -1563,7 +1893,18 @@
           "start": 644.519,
           "end": 645.645,
           "text": "I don't know, Pluto."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "timecode_debut_extrait": 645,
+      "timecode_fin_extrait": 660,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0043_time_645.00s-660.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 237,
           "start": 645.854,
@@ -1575,18 +1916,7 @@
           "start": 648.69,
           "end": 650.066,
           "text": "but three in a row is plenty."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 13,
-      "intervalle_debut": 650,
-      "intervalle_fin": 700,
-      "timecode_debut_extrait": 650,
-      "timecode_fin_extrait": 700,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0013_time_650.00s-700.00s.mp4",
-      "nombre_sous_titres": 17,
-      "sous_titres": [
+        },
         {
           "index": 239,
           "start": 650.358,
@@ -1616,7 +1946,18 @@
           "start": 659.993,
           "end": 661.995,
           "text": "Merry Christmas, Mickey!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "timecode_debut_extrait": 660,
+      "timecode_fin_extrait": 675,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0044_time_660.00s-675.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 244,
           "start": 662.078,
@@ -1646,7 +1987,18 @@
           "start": 672.172,
           "end": 674.215,
           "text": "-Merry Christmas! -[Pluto barks]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "timecode_debut_extrait": 675,
+      "timecode_fin_extrait": 690,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0045_time_675.00s-690.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 249,
           "start": 675.925,
@@ -1670,7 +2022,18 @@
           "start": 688.938,
           "end": 690.773,
           "text": "Merry Christmas!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "timecode_debut_extrait": 690,
+      "timecode_fin_extrait": 705,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0046_time_690.00s-705.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 253,
           "start": 690.857,
@@ -1688,24 +2051,24 @@
           "start": 699.532,
           "end": 702.452,
           "text": "-Merry Christmas! -[barks]"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 14,
-      "intervalle_debut": 700,
-      "intervalle_fin": 750,
-      "timecode_debut_extrait": 700,
-      "timecode_fin_extrait": 750,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0014_time_700.00s-750.00s.mp4",
-      "nombre_sous_titres": 25,
-      "sous_titres": [
+        },
         {
           "index": 256,
           "start": 703.161,
           "end": 705.997,
           "text": "<i>♪ ...to ride in a one-horse</i> <i>open sleigh, hey! ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "timecode_debut_extrait": 705,
+      "timecode_fin_extrait": 720,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0047_time_705.00s-720.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
         {
           "index": 257,
           "start": 706.08,
@@ -1753,7 +2116,18 @@
           "start": 719.177,
           "end": 721.095,
           "text": "When I wished Christmas could last forever,"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "timecode_debut_extrait": 720,
+      "timecode_fin_extrait": 735,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0048_time_720.00s-735.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
         {
           "index": 265,
           "start": 721.304,
@@ -1801,7 +2175,18 @@
           "start": 733.775,
           "end": 735.777,
           "text": "Goofy's gonna come running, and he'll shout..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "timecode_debut_extrait": 735,
+      "timecode_fin_extrait": 750,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0049_time_735.00s-750.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
         {
           "index": 273,
           "start": 735.985,
@@ -1853,13 +2238,13 @@
       ]
     },
     {
-      "intervalle_index": 15,
+      "intervalle_index": 50,
       "intervalle_debut": 750,
-      "intervalle_fin": 800,
+      "intervalle_fin": 765,
       "timecode_debut_extrait": 750,
-      "timecode_fin_extrait": 800,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0015_time_750.00s-800.00s.mp4",
-      "nombre_sous_titres": 21,
+      "timecode_fin_extrait": 765,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0050_time_750.00s-765.00s.mp4",
+      "nombre_sous_titres": 8,
       "sous_titres": [
         {
           "index": 281,
@@ -1908,7 +2293,18 @@
           "start": 764.764,
           "end": 766.516,
           "text": "Making memories with my friends"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "timecode_debut_extrait": 765,
+      "timecode_fin_extrait": 780,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0051_time_765.00s-780.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 289,
           "start": 766.766,
@@ -1950,7 +2346,18 @@
           "start": 778.736,
           "end": 781.948,
           "text": "Well, do you think you could un-wish your wish?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "timecode_debut_extrait": 780,
+      "timecode_fin_extrait": 795,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0052_time_780.00s-795.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 296,
           "start": 782.991,
@@ -1974,7 +2381,18 @@
           "start": 793.167,
           "end": 796.087,
           "text": "[gasps] And a jolly, holly hello to you, too."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "timecode_debut_extrait": 795,
+      "timecode_fin_extrait": 810,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0053_time_795.00s-810.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 300,
           "start": 796.587,
@@ -1986,18 +2404,7 @@
           "start": 798.798,
           "end": 801.009,
           "text": "think it over carefully."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 16,
-      "intervalle_debut": 800,
-      "intervalle_fin": 850,
-      "timecode_debut_extrait": 800,
-      "timecode_fin_extrait": 850,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0016_time_800.00s-850.00s.mp4",
-      "nombre_sous_titres": 11,
-      "sous_titres": [
+        },
         {
           "index": 302,
           "start": 801.092,
@@ -2015,7 +2422,18 @@
           "start": 806.055,
           "end": 808.891,
           "text": "[gasps] I know exactly what to wish for."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "timecode_debut_extrait": 810,
+      "timecode_fin_extrait": 825,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0054_time_810.00s-825.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 305,
           "start": 814.23,
@@ -2027,7 +2445,18 @@
           "start": 820.32,
           "end": 821.32,
           "text": "Yes!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "timecode_debut_extrait": 825,
+      "timecode_fin_extrait": 840,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0055_time_825.00s-840.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 307,
           "start": 834.167,
@@ -2045,7 +2474,18 @@
           "start": 838.046,
           "end": 840.339,
           "text": "This is my regular Tuesday sweater."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "timecode_debut_extrait": 840,
+      "timecode_fin_extrait": 855,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0056_time_840.00s-855.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 310,
           "start": 840.548,
@@ -2063,18 +2503,7 @@
           "start": 848.222,
           "end": 850.099,
           "text": "Where'd my Christmas mittens go?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 17,
-      "intervalle_debut": 850,
-      "intervalle_fin": 900,
-      "timecode_debut_extrait": 850,
-      "timecode_fin_extrait": 900,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0017_time_850.00s-900.00s.mp4",
-      "nombre_sous_titres": 21,
-      "sous_titres": [
+        },
         {
           "index": 313,
           "start": 850.433,
@@ -2092,7 +2521,18 @@
           "start": 853.978,
           "end": 855.855,
           "text": "Oh! Our photo album!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "timecode_debut_extrait": 855,
+      "timecode_fin_extrait": 870,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0057_time_855.00s-870.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 316,
           "start": 856.564,
@@ -2134,7 +2574,18 @@
           "start": 869.994,
           "end": 870.995,
           "text": "Um, Mickey."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "timecode_debut_extrait": 870,
+      "timecode_fin_extrait": 885,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0058_time_870.00s-885.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 323,
           "start": 871.287,
@@ -2164,7 +2615,18 @@
           "start": 882.09,
           "end": 885.259,
           "text": "Gawrsh, I think you might have wished Christmas away..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "timecode_debut_extrait": 885,
+      "timecode_fin_extrait": 900,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0059_time_885.00s-900.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 328,
           "start": 885.593,
@@ -2204,13 +2666,13 @@
       ]
     },
     {
-      "intervalle_index": 18,
+      "intervalle_index": 60,
       "intervalle_debut": 900,
-      "intervalle_fin": 950,
+      "intervalle_fin": 915,
       "timecode_debut_extrait": 900,
-      "timecode_fin_extrait": 950,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0018_time_900.00s-950.00s.mp4",
-      "nombre_sous_titres": 22,
+      "timecode_fin_extrait": 915,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0060_time_900.00s-915.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 334,
@@ -2241,7 +2703,18 @@
           "start": 912.328,
           "end": 914.205,
           "text": "then Christmas is gone"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "timecode_debut_extrait": 915,
+      "timecode_fin_extrait": 930,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0061_time_915.00s-930.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 339,
           "start": 915.039,
@@ -2283,7 +2756,18 @@
           "start": 929.47,
           "end": 930.972,
           "text": "From the Christmas train."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "timecode_debut_extrait": 930,
+      "timecode_fin_extrait": 945,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0062_time_930.00s-945.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
         {
           "index": 346,
           "start": 931.055,
@@ -2331,7 +2815,18 @@
           "start": 943.776,
           "end": 945.736,
           "text": "It sounded like the Christmas train."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "timecode_debut_extrait": 945,
+      "timecode_fin_extrait": 960,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0063_time_945.00s-960.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 354,
           "start": 945.82,
@@ -2343,18 +2838,7 @@
           "start": 947.613,
           "end": 950.366,
           "text": "<i>-♪ Boom, boom, boom ♪</i> -[train horn blows]"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 19,
-      "intervalle_debut": 950,
-      "intervalle_fin": 1000,
-      "timecode_debut_extrait": 950,
-      "timecode_fin_extrait": 1000,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0019_time_950.00s-1000.00s.mp4",
-      "nombre_sous_titres": 15,
-      "sous_titres": [
+        },
         {
           "index": 356,
           "start": 950.449,
@@ -2372,7 +2856,18 @@
           "start": 958.833,
           "end": 961.46,
           "text": "<i>♪ Welcome to our village ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "timecode_debut_extrait": 960,
+      "timecode_fin_extrait": 975,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0064_time_960.00s-975.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 359,
           "start": 961.669,
@@ -2396,7 +2891,18 @@
           "start": 973.764,
           "end": 975.349,
           "text": "<i>♪ Christmas cheer ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "timecode_debut_extrait": 975,
+      "timecode_fin_extrait": 990,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0065_time_975.00s-990.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 363,
           "start": 975.433,
@@ -2426,7 +2932,18 @@
           "start": 987.361,
           "end": 992.366,
           "text": "<i>♪ Bring Christmas back</i> <i>to you ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "timecode_debut_extrait": 990,
+      "timecode_fin_extrait": 1005,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0066_time_990.00s-1005.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 368,
           "start": 993.367,
@@ -2444,18 +2961,7 @@
           "start": 998.956,
           "end": 1000.958,
           "text": "It's one of the coins for the train."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 20,
-      "intervalle_debut": 1000,
-      "intervalle_fin": 1050,
-      "timecode_debut_extrait": 1000,
-      "timecode_fin_extrait": 1050,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0020_time_1000.00s-1050.00s.mp4",
-      "nombre_sous_titres": 12,
-      "sous_titres": [
+        },
         {
           "index": 371,
           "start": 1001.209,
@@ -2467,7 +2973,18 @@
           "start": 1003.711,
           "end": 1005.504,
           "text": "I can see your Christmas sweater."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "timecode_debut_extrait": 1005,
+      "timecode_fin_extrait": 1020,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0067_time_1005.00s-1020.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 373,
           "start": 1006.923,
@@ -2491,7 +3008,18 @@
           "start": 1014.513,
           "end": 1016.515,
           "text": "bring Christmas back to you.\""
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "timecode_debut_extrait": 1020,
+      "timecode_fin_extrait": 1035,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0068_time_1020.00s-1035.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 377,
           "start": 1030.863,
@@ -2503,7 +3031,18 @@
           "start": 1033.908,
           "end": 1038.913,
           "text": "<i>♪ Bring Christmas back</i> <i>to you ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1035,
+      "timecode_fin_extrait": 1050,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0069_time_1035.00s-1050.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 379,
           "start": 1040.665,
@@ -2531,13 +3070,13 @@
       ]
     },
     {
-      "intervalle_index": 21,
+      "intervalle_index": 70,
       "intervalle_debut": 1050,
-      "intervalle_fin": 1100,
+      "intervalle_fin": 1065,
       "timecode_debut_extrait": 1050,
-      "timecode_fin_extrait": 1100,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0021_time_1050.00s-1100.00s.mp4",
-      "nombre_sous_titres": 20,
+      "timecode_fin_extrait": 1065,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0070_time_1050.00s-1065.00s.mp4",
+      "nombre_sous_titres": 6,
       "sous_titres": [
         {
           "index": 383,
@@ -2574,7 +3113,18 @@
           "start": 1064.772,
           "end": 1066.107,
           "text": "you can fix all this"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "timecode_debut_extrait": 1065,
+      "timecode_fin_extrait": 1080,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0071_time_1065.00s-1080.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 389,
           "start": 1066.482,
@@ -2616,7 +3166,18 @@
           "start": 1078.744,
           "end": 1080.288,
           "text": "No more and no less?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "timecode_debut_extrait": 1080,
+      "timecode_fin_extrait": 1095,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0072_time_1080.00s-1095.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 396,
           "start": 1080.538,
@@ -2646,7 +3207,18 @@
           "start": 1091.966,
           "end": 1092.967,
           "text": "[all gasp]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "timecode_debut_extrait": 1095,
+      "timecode_fin_extrait": 1110,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0073_time_1095.00s-1110.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 401,
           "start": 1095.219,
@@ -2658,18 +3230,7 @@
           "start": 1098.639,
           "end": 1100.558,
           "text": "[Mickey] We can catch up with the train there."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 22,
-      "intervalle_debut": 1100,
-      "intervalle_fin": 1150,
-      "timecode_debut_extrait": 1100,
-      "timecode_fin_extrait": 1150,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0022_time_1100.00s-1150.00s.mp4",
-      "nombre_sous_titres": 15,
-      "sous_titres": [
+        },
         {
           "index": 403,
           "start": 1100.641,
@@ -2693,7 +3254,18 @@
           "start": 1107.481,
           "end": 1109.859,
           "text": "Yep. And I got you covered."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "timecode_debut_extrait": 1110,
+      "timecode_fin_extrait": 1125,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0074_time_1110.00s-1125.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 407,
           "start": 1113.321,
@@ -2723,7 +3295,18 @@
           "start": 1121.996,
           "end": 1124.123,
           "text": "You've got to save Christmas!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "timecode_debut_extrait": 1125,
+      "timecode_fin_extrait": 1140,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0075_time_1125.00s-1140.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 412,
           "start": 1125.875,
@@ -2753,7 +3336,18 @@
           "start": 1136.052,
           "end": 1137.928,
           "text": "Follow me and hang on."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "timecode_debut_extrait": 1140,
+      "timecode_fin_extrait": 1155,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0076_time_1140.00s-1155.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 417,
           "start": 1144.393,
@@ -2763,13 +3357,13 @@
       ]
     },
     {
-      "intervalle_index": 23,
-      "intervalle_debut": 1150,
-      "intervalle_fin": 1200,
-      "timecode_debut_extrait": 1150,
-      "timecode_fin_extrait": 1200,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0023_time_1150.00s-1200.00s.mp4",
-      "nombre_sous_titres": 14,
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "timecode_debut_extrait": 1155,
+      "timecode_fin_extrait": 1170,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0077_time_1155.00s-1170.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 418,
@@ -2794,7 +3388,18 @@
           "start": 1167.166,
           "end": 1168.167,
           "text": "Easy shot."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "timecode_debut_extrait": 1170,
+      "timecode_fin_extrait": 1185,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0078_time_1170.00s-1185.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 422,
           "start": 1170.002,
@@ -2830,7 +3435,18 @@
           "start": 1184.767,
           "end": 1186.435,
           "text": "Oh. [grunting]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1185,
+      "timecode_fin_extrait": 1200,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0079_time_1185.00s-1200.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 428,
           "start": 1189.772,
@@ -2858,26 +3474,48 @@
       ]
     },
     {
-      "intervalle_index": 24,
+      "intervalle_index": 80,
       "intervalle_debut": 1200,
-      "intervalle_fin": 1250,
+      "intervalle_fin": 1215,
       "timecode_debut_extrait": 1200,
-      "timecode_fin_extrait": 1250,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0024_time_1200.00s-1250.00s.mp4",
-      "nombre_sous_titres": 9,
+      "timecode_fin_extrait": 1215,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0080_time_1200.00s-1215.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 432,
           "start": 1205.287,
           "end": 1207.081,
           "text": "Please go in, please."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "timecode_debut_extrait": 1215,
+      "timecode_fin_extrait": 1230,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0081_time_1215.00s-1230.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 433,
           "start": 1229.52,
           "end": 1231.647,
           "text": "-[train horn blows] -[all cheering]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "timecode_debut_extrait": 1230,
+      "timecode_fin_extrait": 1245,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0082_time_1230.00s-1245.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 434,
           "start": 1232.565,
@@ -2907,7 +3545,18 @@
           "start": 1242.533,
           "end": 1244.869,
           "text": "[Santa] See you next year!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "timecode_debut_extrait": 1245,
+      "timecode_fin_extrait": 1260,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0083_time_1245.00s-1260.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 439,
           "start": 1246.12,
@@ -2919,18 +3568,7 @@
           "start": 1248.789,
           "end": 1250.875,
           "text": "Well, I can't wait to make a whole bunch"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 25,
-      "intervalle_debut": 1250,
-      "intervalle_fin": 1293.856,
-      "timecode_debut_extrait": 1250,
-      "timecode_fin_extrait": 1293.856,
-      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0025_time_1250.00s-1293.86s.mp4",
-      "nombre_sous_titres": 9,
-      "sous_titres": [
+        },
         {
           "index": 441,
           "start": 1250.958,
@@ -2954,7 +3592,18 @@
           "start": 1258.883,
           "end": 1259.967,
           "text": "Aww. [chuckles]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "timecode_debut_extrait": 1260,
+      "timecode_fin_extrait": 1275,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0084_time_1260.00s-1275.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 445,
           "start": 1261.761,
@@ -2966,7 +3615,18 @@
           "start": 1269.185,
           "end": 1270.603,
           "text": "[Pluto barking]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "timecode_debut_extrait": 1275,
+      "timecode_fin_extrait": 1290,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0085_time_1275.00s-1290.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 447,
           "start": 1275.357,
@@ -2986,6 +3646,16 @@
           "text": "[all] Merry Christmas!"
         }
       ]
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1293.856,
+      "timecode_debut_extrait": 1290,
+      "timecode_fin_extrait": 1293.856,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0086_time_1290.00s-1293.86s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
     }
   ]
 }

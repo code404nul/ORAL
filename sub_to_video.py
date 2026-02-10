@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script complet: renommage, sous-titres et extraction de vidéos
+Script complet: renommage, sous-titres et extraction de vidéos (OPTIMISÉ GPU + 8 WORKERS)
 Usage: python movie_processor.py
 Le script traite automatiquement tous les films dans E:\film_oral
 """
@@ -16,6 +16,8 @@ from subliminal import download_best_subtitles, save_subtitles, scan_video
 from babelfish import Language
 import pysrt
 from tqdm import tqdm
+from concurrent.futures import ThreadPoolExecutor
+import multiprocessing
 
 
 class SubtitleInterval:
@@ -54,6 +56,8 @@ class SubtitleInterval:
 
 class Movie:
     """Représente un film avec ses métadonnées"""
+    
+    _codec_cache = None  # Variable de classe pour éviter la redétection
     
     def __init__(self, video_path: Path):
         self.video_path = video_path
@@ -154,17 +158,16 @@ class Movie:
             print(f"   ⚠️  Impossible d'obtenir la durée: {e}")
             return 7200
     
-    def extraire_videos(self, show_progress=True, update_json_every=10):
-        """Extrait les vidéos pour tous les intervalles avec ffmpeg"""
+    def extraire_videos(self, show_progress=True, update_json_every=10, max_workers=8):
+        """Extrait les vidéos en PARALLÈLE avec ffmpeg (GPU) - 8 WORKERS"""
         if not self.dossier_videos:
             self.creer_dossier_videos()
         
+        codec_gpu = self._detecter_codec_gpu()
         videos_reussies = 0
         
-        # Barre de progression pour les segments
-        iterator = tqdm(self.intervalles, desc="   📹 Segments", unit="seg", leave=False) if show_progress else self.intervalles
-        
-        for i, intervalle in enumerate(iterator):
+        # Fonction worker pour l'extraction
+        def extraire_segment(intervalle):
             temps_debut = intervalle.debut
             duree = intervalle.fin - intervalle.debut
             
@@ -172,45 +175,170 @@ class Movie:
             chemin_video = self.dossier_videos / nom_video
             
             try:
-                # Commande ffmpeg pour extraire le segment
-                cmd = [
-                    r'C:\ffmpeg\bin\ffmpeg.exe',
-                    '-ss', str(temps_debut),  # POSITION AVANT -i pour être plus rapide
-                    '-i', str(self.video_path),
-                    '-t', str(duree),
-                    '-c:v', 'libx264',
-                    '-preset', 'ultrafast',  # Plus rapide
-                    '-c:a', 'aac',
-                    '-avoid_negative_ts', 'make_zero',
-                    '-y',  # Overwrite without asking
-                    '-loglevel', 'error',  # Moins de logs
-                    str(chemin_video)
-                ]
+                if codec_gpu:
+                    cmd = self._build_gpu_command(codec_gpu, temps_debut, duree, chemin_video)
+                else:
+                    cmd = self._build_cpu_command(temps_debut, duree, chemin_video)
                 
                 result = subprocess.run(
                     cmd,
                     capture_output=True,
                     text=True,
-                    timeout=60  # Timeout de 60s par segment
+                    timeout=60
                 )
                 
                 if result.returncode == 0 and chemin_video.exists():
                     intervalle.video_path = str(chemin_video)
-                    videos_reussies += 1
-                    
-                    # Sauvegarder le JSON tous les N segments
-                    if (i + 1) % update_json_every == 0:
-                        self.sauvegarder_json()
-                    
-            except subprocess.TimeoutExpired:
-                if show_progress:
-                    tqdm.write(f"   ⚠️  Timeout intervalle {intervalle.index}")
+                    return True
             except Exception as e:
                 if show_progress:
                     tqdm.write(f"   ❌ Erreur intervalle {intervalle.index}: {e}")
+            
+            return False
+        
+        # TRAITEMENT PARALLÈLE AVEC 8 WORKERS
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = []
+            
+            for intervalle in self.intervalles:
+                future = executor.submit(extraire_segment, intervalle)
+                futures.append(future)
+            
+            # Barre de progression
+            if show_progress:
+                for i, future in enumerate(tqdm(futures, desc=f"   📹 Segments ({max_workers} workers)", unit="seg", leave=False)):
+                    if future.result():
+                        videos_reussies += 1
+                    
+                    # Sauvegarder JSON périodiquement
+                    if (i + 1) % update_json_every == 0:
+                        self.sauvegarder_json()
+            else:
+                for future in futures:
+                    if future.result():
+                        videos_reussies += 1
         
         return videos_reussies
-    
+
+    def _detecter_codec_gpu(self) -> Optional[str]:
+        """Détecte le codec GPU (avec cache)"""
+        if Movie._codec_cache is not None:
+            return Movie._codec_cache
+        
+        try:
+            result = subprocess.run(
+                [r'C:\ffmpeg\bin\ffmpeg.exe', '-hide_banner', '-encoders'],
+                capture_output=True,
+                text=True,
+                timeout=5
+            )
+            encoders = result.stdout.lower()
+            
+            if 'h264_nvenc' in encoders:
+                Movie._codec_cache = 'h264_nvenc'
+            elif 'h264_qsv' in encoders:
+                Movie._codec_cache = 'h264_qsv'
+            elif 'h264_amf' in encoders:
+                Movie._codec_cache = 'h264_amf'
+            else:
+                Movie._codec_cache = None
+            
+            if Movie._codec_cache:
+                print(f"   🎮 GPU détecté: {Movie._codec_cache}")
+            else:
+                print(f"   💻 CPU uniquement")
+                
+        except:
+            Movie._codec_cache = None
+        
+        return Movie._codec_cache
+
+    def _build_gpu_command(self, codec: str, temps_debut: float, duree: float, output_path: Path) -> List[str]:
+        """Construit la commande ffmpeg ULTRA-RAPIDE avec GPU"""
+        
+        # Configuration selon le type de GPU
+        if codec == 'h264_nvenc':  # NVIDIA OPTIMISÉ
+            return [
+                r'C:\ffmpeg\bin\ffmpeg.exe',
+                '-hwaccel', 'cuda',
+                '-hwaccel_output_format', 'cuda',
+                '-ss', str(temps_debut),
+                '-i', str(self.video_path),
+                '-t', str(duree),
+                '-c:v', 'h264_nvenc',
+                '-preset', 'p1',              # Plus rapide possible
+                '-tune', 'hq',                # Haute qualité
+                '-rc', 'vbr',                 # Variable bitrate
+                '-cq', '28',                  # Qualité constante (23-28 = bon)
+                '-b:v', '0',                  # Laisse le CQ gérer
+                '-maxrate', '3M',             # Limite max
+                '-bufsize', '6M',             # Buffer
+                '-c:a', 'copy',               # COPIE l'audio (pas de réencodage!)
+                '-movflags', '+faststart',    # Optimisation streaming
+                '-avoid_negative_ts', 'make_zero',
+                '-y',
+                '-loglevel', 'error',
+                '-hide_banner',
+                str(output_path)
+            ]
+        
+        elif codec == 'h264_qsv':  # Intel QuickSync
+            return [
+                r'C:\ffmpeg\bin\ffmpeg.exe',
+                '-hwaccel', 'qsv',
+                '-ss', str(temps_debut),
+                '-i', str(self.video_path),
+                '-t', str(duree),
+                '-c:v', 'h264_qsv',
+                '-preset', 'veryfast',
+                '-global_quality', '23',
+                '-c:a', 'copy',
+                '-movflags', '+faststart',
+                '-avoid_negative_ts', 'make_zero',
+                '-y',
+                '-loglevel', 'error',
+                '-hide_banner',
+                str(output_path)
+            ]
+        
+        elif codec == 'h264_amf':  # AMD
+            return [
+                r'C:\ffmpeg\bin\ffmpeg.exe',
+                '-ss', str(temps_debut),
+                '-i', str(self.video_path),
+                '-t', str(duree),
+                '-c:v', 'h264_amf',
+                '-quality', 'speed',
+                '-rc', 'vbr_latency',
+                '-c:a', 'copy',
+                '-movflags', '+faststart',
+                '-avoid_negative_ts', 'make_zero',
+                '-y',
+                '-loglevel', 'error',
+                '-hide_banner',
+                str(output_path)
+            ]
+        
+        return self._build_cpu_command(temps_debut, duree, output_path)
+
+    def _build_cpu_command(self, temps_debut: float, duree: float, output_path: Path) -> List[str]:
+        """Commande CPU de secours (optimisée)"""
+        return [
+            r'C:\ffmpeg\bin\ffmpeg.exe',
+            '-ss', str(temps_debut),
+            '-i', str(self.video_path),
+            '-t', str(duree),
+            '-c:v', 'libx264',
+            '-preset', 'ultrafast',
+            '-c:a', 'copy',              # Copie audio au lieu de réencoder
+            '-movflags', '+faststart',
+            '-avoid_negative_ts', 'make_zero',
+            '-y',
+            '-loglevel', 'error',
+            '-hide_banner',
+            str(output_path)
+        ]
+        
     def sauvegarder_json(self, base_dir: Path = Path("analyse/json")):
         """Sauvegarde les données du film en JSON"""
         base_dir.mkdir(parents=True, exist_ok=True)
@@ -396,9 +524,9 @@ class MovieProcessor:
         
         return None
     
-    def traiter_films(self, intervalle_secondes: int = 3):
-        """Traite tous les films: analyse, extraction, sauvegarde"""
-        print(f"\n🎬 Étape 3: Traitement des films (intervalle: {intervalle_secondes}s)...\n")
+    def traiter_films(self, intervalle_secondes: int = 3, max_workers: int = 8):
+        """Traite tous les films avec extraction parallèle (8 WORKERS)"""
+        print(f"\n🎬 Étape 3: Traitement des films (intervalle: {intervalle_secondes}s, workers: {max_workers})...\n")
         
         films_traites = 0
         films_sans_sous_titres = 0
@@ -421,8 +549,12 @@ class MovieProcessor:
                 # Créer le dossier vidéos
                 film.creer_dossier_videos()
                 
-                # Extraire les vidéos avec sauvegarde JSON tous les 10 segments
-                videos_extraites = film.extraire_videos(show_progress=True, update_json_every=10)
+                # Extraire les vidéos EN PARALLÈLE avec 8 workers
+                videos_extraites = film.extraire_videos(
+                    show_progress=True, 
+                    update_json_every=10,
+                    max_workers=max_workers
+                )
                 tqdm.write(f"   ✅ {videos_extraites}/{len(film.intervalles)} vidéos extraites")
                 
                 # Sauvegarder le JSON final
@@ -460,26 +592,30 @@ class MovieProcessor:
 def main():
     """Fonction principale"""
     print("=" * 70)
-    print("🎥 Renommage, sous-titres et extraction de vidéos (POO)")
+    print("🎥 Extraction vidéos OPTIMISÉE (GPU + 8 WORKERS PARALLÈLES)")
     print("=" * 70)
     
-    # ==================== CONFIGURATION ====================
+    # ==================== CONFIGURATION OPTIMISÉE ====================
     # Dossier racine contenant TOUS les films
     dossier_racine = r"E:\film_oral"
     
     # Options de traitement
     RENOMMER_AVEC_MNAMER = False  # Mettre True si mnamer fonctionne
     TELECHARGER_SOUS_TITRES = True  # Télécharge les sous-titres manquants
-    INTERVALLE_SECONDES = 50  # Durée de chaque segment vidéo
+    INTERVALLE_SECONDES = 15  # Durée de chaque segment vidéo
     LANGUES_SOUS_TITRES = ['eng']  # Langues des sous-titres
-    # ======================================================
+    MAX_WORKERS = 8  # 🚀 8 extractions en parallèle!
+    # =================================================================
     
     print(f"\n📂 Dossier à traiter: {dossier_racine}")
     print("   Le script va chercher récursivement dans tous les sous-dossiers")
-    print(f"\n⚙️  Configuration:")
+    print(f"\n⚙️  Configuration HAUTE PERFORMANCE:")
     print(f"   • Renommage: {'OUI' if RENOMMER_AVEC_MNAMER else 'NON (ignoré)'}")
     print(f"   • Téléchargement sous-titres: {'OUI' if TELECHARGER_SOUS_TITRES else 'NON (utilise les .srt existants)'}")
     print(f"   • Intervalle: {INTERVALLE_SECONDES}s par segment")
+    print(f"   • Workers parallèles: {MAX_WORKERS} 🚀")
+    print(f"   • Accélération GPU: AUTO-DÉTECTION")
+    print(f"   • Audio: COPIE (pas de réencodage)")
     print()
     
     # Traitement
@@ -497,7 +633,10 @@ def main():
         print("   Le script utilisera les fichiers .srt déjà présents")
     
     processor.charger_films()
-    processor.traiter_films(intervalle_secondes=INTERVALLE_SECONDES)
+    processor.traiter_films(
+        intervalle_secondes=INTERVALLE_SECONDES,
+        max_workers=MAX_WORKERS
+    )
     processor.generer_index_global()
     
     print("\n" + "=" * 70)

@@ -2,26 +2,37 @@
   "movie_id": "Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng",
   "movie_path": "E:\\film_oral\\Lamp Life (2020)\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng.mkv",
   "subtitle_path": "E:\\film_oral\\Lamp Life (2020)\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng.en.srt",
-  "intervalle_secondes": 50,
-  "nombre_intervalles": 14,
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 45,
   "dossier_videos": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng",
-  "date_traitement": "2026-02-10T12:45:54.288379",
+  "date_traitement": "2026-02-10T21:24:07.925587",
   "intervalles": [
     {
       "intervalle_index": 0,
       "intervalle_debut": 0,
-      "intervalle_fin": 50,
+      "intervalle_fin": 15,
       "timecode_debut_extrait": 0,
-      "timecode_fin_extrait": 50,
-      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0000_time_0.00s-50.00s.mp4",
-      "nombre_sous_titres": 12,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 1,
           "start": 3.17,
           "end": 4.796,
           "text": "(SOFT MUSIC PLAYING)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 2,
           "start": 23.357,
@@ -39,7 +50,18 @@
           "start": 29.029,
           "end": 31.114,
           "text": "Whoa, whoa, whoa. Okay, let me get this straight."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 5,
           "start": 31.198,
@@ -75,7 +97,18 @@
           "start": 42.793,
           "end": 45.003,
           "text": "Hey, Bo, why don’t you tell him your story?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 11,
           "start": 45.087,
@@ -87,18 +120,7 @@
           "start": 47.047,
           "end": 50.259,
           "text": "Bo, what happened in all that time? Do you ever miss the lamp?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 1,
-      "intervalle_debut": 50,
-      "intervalle_fin": 100,
-      "timecode_debut_extrait": 50,
-      "timecode_fin_extrait": 100,
-      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0001_time_50.00s-100.00s.mp4",
-      "nombre_sous_titres": 20,
-      "sous_titres": [
+        },
         {
           "index": 13,
           "start": 50.342,
@@ -122,7 +144,18 @@
           "start": 57.391,
           "end": 60.644,
           "text": "So, after we left Molly, we went to the new family."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 17,
           "start": 60.727,
@@ -158,7 +191,18 @@
           "start": 73.198,
           "end": 75.158,
           "text": "BO:<i> We had some nice moments.</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 23,
           "start": 76.118,
@@ -188,7 +232,18 @@
           "start": 87.254,
           "end": 89.131,
           "text": "BO:<i> Playtimes were great.</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 28,
           "start": 90.007,
@@ -218,18 +273,7 @@
           "start": 98.724,
           "end": 102.394,
           "text": "BO: <i>But overall, life on a baby lamp</i> <i>isn’t that exciting.</i>"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 2,
-      "intervalle_debut": 100,
-      "intervalle_fin": 150,
-      "timecode_debut_extrait": 100,
-      "timecode_fin_extrait": 150,
-      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0002_time_100.00s-150.00s.mp4",
-      "nombre_sous_titres": 21,
-      "sous_titres": [
+        },
         {
           "index": 33,
           "start": 102.477,
@@ -241,7 +285,18 @@
           "start": 104.771,
           "end": 105.772,
           "text": "BO: Shh."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 35,
           "start": 105.856,
@@ -283,7 +338,18 @@
           "start": 118.702,
           "end": 119.953,
           "text": "BO:<i> They can love you...</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 42,
           "start": 120.037,
@@ -325,7 +391,18 @@
           "start": 133.967,
           "end": 134.968,
           "text": "WOMAN 1: Shh!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 49,
           "start": 135.052,
@@ -359,13 +436,13 @@
       ]
     },
     {
-      "intervalle_index": 3,
+      "intervalle_index": 10,
       "intervalle_debut": 150,
-      "intervalle_fin": 200,
+      "intervalle_fin": 165,
       "timecode_debut_extrait": 150,
-      "timecode_fin_extrait": 200,
-      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0003_time_150.00s-200.00s.mp4",
-      "nombre_sous_titres": 21,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 54,
@@ -390,7 +467,18 @@
           "start": 161.578,
           "end": 162.871,
           "text": "-(SCREAMING) -Fire! Fire! Fire!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
         {
           "index": 58,
           "start": 167.543,
@@ -438,7 +526,18 @@
           "start": 179.972,
           "end": 183.35,
           "text": "-MAN 1: Ai, ai, ai, girls, I told you... -WOMAN 1: They gotta cry it out."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 66,
           "start": 183.433,
@@ -474,7 +573,18 @@
           "start": 193.485,
           "end": 196.113,
           "text": "<i>Which took us</i> <i>on quite the unexpected journey.</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 72,
           "start": 196.196,
@@ -492,18 +602,7 @@
           "start": 199.783,
           "end": 201.869,
           "text": "-(LAUGHTER) -WOMAN 3: What’s he gonna do with that?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 4,
-      "intervalle_debut": 200,
-      "intervalle_fin": 250,
-      "timecode_debut_extrait": 200,
-      "timecode_fin_extrait": 250,
-      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0004_time_200.00s-250.00s.mp4",
-      "nombre_sous_titres": 18,
-      "sous_titres": [
+        },
         {
           "index": 75,
           "start": 201.952,
@@ -515,7 +614,18 @@
           "start": 204.329,
           "end": 206.957,
           "text": "(MUSIC PLAYING)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 77,
           "start": 211.461,
@@ -557,7 +667,18 @@
           "start": 222.514,
           "end": 223.64,
           "text": "(GROANS)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 84,
           "start": 225.392,
@@ -593,7 +714,18 @@
           "start": 238.655,
           "end": 240.157,
           "text": "<i>just like that, </i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 90,
           "start": 241.742,
@@ -611,18 +743,7 @@
           "start": 248.957,
           "end": 250.25,
           "text": "<i>Life was so simple. </i>"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 5,
-      "intervalle_debut": 250,
-      "intervalle_fin": 300,
-      "timecode_debut_extrait": 250,
-      "timecode_fin_extrait": 300,
-      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0005_time_250.00s-300.00s.mp4",
-      "nombre_sous_titres": 22,
-      "sous_titres": [
+        },
         {
           "index": 93,
           "start": 250.542,
@@ -634,7 +755,18 @@
           "start": 253.921,
           "end": 256.673,
           "text": "<i>And I thought, \"Hey, we’re good.\"</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 95,
           "start": 258.717,
@@ -676,7 +808,18 @@
           "start": 268.977,
           "end": 270.854,
           "text": "BOY 1: Whoa! Cool! Look at all this stuff!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
         {
           "index": 102,
           "start": 270.938,
@@ -730,7 +873,18 @@
           "start": 284.493,
           "end": 287.996,
           "text": "WOMAN 4: Playground. Out the door. Let's go. Let's go. Here we go."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 111,
           "start": 288.08,
@@ -758,13 +912,13 @@
       ]
     },
     {
-      "intervalle_index": 6,
+      "intervalle_index": 20,
       "intervalle_debut": 300,
-      "intervalle_fin": 350,
+      "intervalle_fin": 315,
       "timecode_debut_extrait": 300,
-      "timecode_fin_extrait": 350,
-      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0006_time_300.00s-350.00s.mp4",
-      "nombre_sous_titres": 14,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 115,
@@ -783,7 +937,18 @@
           "start": 314.106,
           "end": 315.399,
           "text": "(GIGGLE MCDIMPLES GROANS)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 118,
           "start": 316.483,
@@ -813,7 +978,18 @@
           "start": 329.955,
           "end": 330.956,
           "text": "(BO GROANS)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 123,
           "start": 331.039,
@@ -843,24 +1019,24 @@
           "start": 342.718,
           "end": 345.012,
           "text": "-Well, not anymore. -(BLEATING)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 128,
           "start": 346.346,
           "end": 347.556,
           "text": "(BLEATING)"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 7,
-      "intervalle_debut": 350,
-      "intervalle_fin": 400,
-      "timecode_debut_extrait": 350,
-      "timecode_fin_extrait": 400,
-      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0007_time_350.00s-400.00s.mp4",
-      "nombre_sous_titres": 19,
-      "sous_titres": [
+        },
         {
           "index": 129,
           "start": 353.854,
@@ -872,7 +1048,18 @@
           "start": 357.691,
           "end": 358.817,
           "text": "(BLEATING)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 131,
           "start": 361.737,
@@ -908,7 +1095,18 @@
           "start": 373.04,
           "end": 375.167,
           "text": "<i>Playtime, all the time!</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 137,
           "start": 375.25,
@@ -944,7 +1142,18 @@
           "start": 389.473,
           "end": 391.225,
           "text": "Well, more or less."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 143,
           "start": 391.308,
@@ -978,62 +1187,182 @@
       ]
     },
     {
-      "intervalle_index": 8,
-      "intervalle_debut": 400,
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
       "intervalle_fin": 450,
-      "timecode_debut_extrait": 400,
+      "timecode_debut_extrait": 435,
       "timecode_fin_extrait": 450,
-      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0008_time_400.00s-450.00s.mp4",
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0029_time_435.00s-450.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 9,
+      "intervalle_index": 30,
       "intervalle_debut": 450,
-      "intervalle_fin": 500,
+      "intervalle_fin": 465,
       "timecode_debut_extrait": 450,
-      "timecode_fin_extrait": 500,
-      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0009_time_450.00s-500.00s.mp4",
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0030_time_450.00s-465.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 10,
-      "intervalle_debut": 500,
-      "intervalle_fin": 550,
-      "timecode_debut_extrait": 500,
-      "timecode_fin_extrait": 550,
-      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0010_time_500.00s-550.00s.mp4",
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0031_time_465.00s-480.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 11,
-      "intervalle_debut": 550,
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
       "intervalle_fin": 600,
-      "timecode_debut_extrait": 550,
+      "timecode_debut_extrait": 585,
       "timecode_fin_extrait": 600,
-      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0011_time_550.00s-600.00s.mp4",
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0039_time_585.00s-600.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 12,
+      "intervalle_index": 40,
       "intervalle_debut": 600,
-      "intervalle_fin": 650,
+      "intervalle_fin": 615,
       "timecode_debut_extrait": 600,
-      "timecode_fin_extrait": 650,
-      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0012_time_600.00s-650.00s.mp4",
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0040_time_600.00s-615.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 13,
-      "intervalle_debut": 650,
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 630,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0041_time_615.00s-630.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "timecode_debut_extrait": 630,
+      "timecode_fin_extrait": 645,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0042_time_630.00s-645.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "timecode_debut_extrait": 645,
+      "timecode_fin_extrait": 660,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0043_time_645.00s-660.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
       "intervalle_fin": 667.008,
-      "timecode_debut_extrait": 650,
+      "timecode_debut_extrait": 660,
       "timecode_fin_extrait": 667.008,
-      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0013_time_650.00s-667.01s.mp4",
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0044_time_660.00s-667.01s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     }

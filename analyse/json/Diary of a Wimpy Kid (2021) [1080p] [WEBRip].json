@@ -2,19 +2,39 @@
   "movie_id": "Diary of a Wimpy Kid (2021) [1080p] [WEBRip]",
   "movie_path": "E:\\film_oral\\Diary of a Wimpy Kid (2021)\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip].mp4",
   "subtitle_path": "E:\\film_oral\\Diary of a Wimpy Kid (2021)\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip].en.srt",
-  "intervalle_secondes": 50,
-  "nombre_intervalles": 68,
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 225,
   "dossier_videos": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]",
-  "date_traitement": "2026-02-10T12:17:59.252448",
+  "date_traitement": "2026-02-10T21:12:44.496682",
   "intervalles": [
     {
       "intervalle_index": 0,
       "intervalle_debut": 0,
-      "intervalle_fin": 50,
+      "intervalle_fin": 15,
       "timecode_debut_extrait": 0,
-      "timecode_fin_extrait": 50,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0000_time_0.00s-50.00s.mp4",
-      "nombre_sous_titres": 6,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": "﻿1",
@@ -39,7 +59,18 @@
           "start": 44.627,
           "end": 47.922,
           "text": "I specifically told her not to get a book that said \"Diary\" on it."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 5,
           "start": 48.006,
@@ -51,18 +82,7 @@
           "start": 49.632,
           "end": 51.634,
           "text": "[video game beeping]"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 1,
-      "intervalle_debut": 50,
-      "intervalle_fin": 100,
-      "timecode_debut_extrait": 50,
-      "timecode_fin_extrait": 100,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0001_time_50.00s-100.00s.mp4",
-      "nombre_sous_titres": 21,
-      "sous_titres": [
+        },
         {
           "index": 7,
           "start": 51.718,
@@ -86,7 +106,18 @@
           "start": 59.851,
           "end": 61.895,
           "text": "[laughs]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 11,
           "start": 61.978,
@@ -122,7 +153,18 @@
           "start": 73.573,
           "end": 74.824,
           "text": "[chattering]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 17,
           "start": 75.617,
@@ -158,7 +200,18 @@
           "start": 89.506,
           "end": 91.299,
           "text": "[Greg] But for now, I'm stuck in middle school…"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 23,
           "start": 91.383,
@@ -188,18 +241,7 @@
           "start": 99.099,
           "end": 102.102,
           "text": "My best friend, Rowley, is in the same grade as me."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 2,
-      "intervalle_debut": 100,
-      "intervalle_fin": 150,
-      "timecode_debut_extrait": 100,
-      "timecode_fin_extrait": 150,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0002_time_100.00s-150.00s.mp4",
-      "nombre_sous_titres": 19,
-      "sous_titres": [
+        },
         {
           "index": 28,
           "start": 102.686,
@@ -211,7 +253,18 @@
           "start": 104.896,
           "end": 106.815,
           "text": "but it's good to have him around for laughs."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 30,
           "start": 107.816,
@@ -247,7 +300,18 @@
           "start": 119.953,
           "end": 121.371,
           "text": "Not sure."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 36,
           "start": 121.454,
@@ -283,7 +347,18 @@
           "start": 132.799,
           "end": 134.3,
           "text": "Heads up!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 42,
           "start": 136.428,
@@ -317,13 +392,13 @@
       ]
     },
     {
-      "intervalle_index": 3,
+      "intervalle_index": 10,
       "intervalle_debut": 150,
-      "intervalle_fin": 200,
+      "intervalle_fin": 165,
       "timecode_debut_extrait": 150,
-      "timecode_fin_extrait": 200,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0003_time_150.00s-200.00s.mp4",
-      "nombre_sous_titres": 21,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 8,
       "sous_titres": [
         {
           "index": 47,
@@ -372,7 +447,18 @@
           "start": 163.955,
           "end": 167.25,
           "text": "so you can just ditch the books you don't need in between periods."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 55,
           "start": 167.334,
@@ -414,7 +500,18 @@
           "start": 179.971,
           "end": 182.599,
           "text": "Are you gonna go, or are you just gonna sit there?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 62,
           "start": 182.682,
@@ -438,7 +535,18 @@
           "start": 194.361,
           "end": 195.362,
           "text": "Woo-hoo!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
         {
           "index": 66,
           "start": 196.237,
@@ -450,18 +558,7 @@
           "start": 199.449,
           "end": 200.658,
           "text": "-[grunts] -[Rowley screaming, laughing]"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 4,
-      "intervalle_debut": 200,
-      "intervalle_fin": 250,
-      "timecode_debut_extrait": 200,
-      "timecode_fin_extrait": 250,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0004_time_200.00s-250.00s.mp4",
-      "nombre_sous_titres": 20,
-      "sous_titres": [
+        },
         {
           "index": 68,
           "start": 200.742,
@@ -497,7 +594,18 @@
           "start": 209.793,
           "end": 211.252,
           "text": "[Rowley] I'm okay."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 74,
           "start": 216.299,
@@ -521,7 +629,18 @@
           "start": 224.349,
           "end": 226.685,
           "text": "In fact, aside from Rowley, there's only really-- [screams]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 78,
           "start": 226.768,
@@ -551,7 +670,18 @@
           "start": 238.071,
           "end": 240.615,
           "text": "I can show you my room."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 83,
           "start": 240.699,
@@ -581,18 +711,7 @@
           "start": 249.958,
           "end": 252.544,
           "text": "[chuckling]"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 5,
-      "intervalle_debut": 250,
-      "intervalle_fin": 300,
-      "timecode_debut_extrait": 250,
-      "timecode_fin_extrait": 300,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0005_time_250.00s-300.00s.mp4",
-      "nombre_sous_titres": 17,
-      "sous_titres": [
+        },
         {
           "index": 88,
           "start": 252.627,
@@ -604,7 +723,18 @@
           "start": 253.795,
           "end": 255.13,
           "text": "-[Rowley laughs] -[Greg screams]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 90,
           "start": 255.213,
@@ -634,7 +764,18 @@
           "start": 268.101,
           "end": 270.353,
           "text": "[woman humming]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 95,
           "start": 270.437,
@@ -658,7 +799,18 @@
           "start": 282.907,
           "end": 285.452,
           "text": "-It tastes better this way. -[baby grunts]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 99,
           "start": 285.535,
@@ -698,13 +850,13 @@
       ]
     },
     {
-      "intervalle_index": 6,
+      "intervalle_index": 20,
       "intervalle_debut": 300,
-      "intervalle_fin": 350,
+      "intervalle_fin": 315,
       "timecode_debut_extrait": 300,
-      "timecode_fin_extrait": 350,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0006_time_300.00s-350.00s.mp4",
-      "nombre_sous_titres": 22,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 105,
@@ -735,7 +887,18 @@
           "start": 312.187,
           "end": 315.231,
           "text": "You weren't playing that game with Rowley, were you?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
         {
           "index": 110,
           "start": 315.315,
@@ -789,7 +952,18 @@
           "start": 329.954,
           "end": 332.04,
           "text": "Okay, there. All clean."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 119,
           "start": 332.123,
@@ -825,7 +999,18 @@
           "start": 343.009,
           "end": 345.47,
           "text": "I think he might be a little nervous, actually."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 125,
           "start": 345.553,
@@ -837,18 +1022,7 @@
           "start": 349.641,
           "end": 352.727,
           "text": "You know, that's all you need to get by in this world."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 7,
-      "intervalle_debut": 350,
-      "intervalle_fin": 400,
-      "timecode_debut_extrait": 350,
-      "timecode_fin_extrait": 400,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0007_time_350.00s-400.00s.mp4",
-      "nombre_sous_titres": 15,
-      "sous_titres": [
+        },
         {
           "index": 127,
           "start": 352.811,
@@ -872,7 +1046,18 @@
           "start": 359.818,
           "end": 363.113,
           "text": "who's already gone through the middle school experience."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 131,
           "start": 363.196,
@@ -896,7 +1081,18 @@
           "start": 371.496,
           "end": 375.125,
           "text": "Why don't you give Greg a pep talk about middle school?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 135,
           "start": 375.208,
@@ -926,7 +1122,18 @@
           "start": 389.889,
           "end": 392.892,
           "text": "First of all, watch where you sit on the first day of school,"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 140,
           "start": 392.976,
@@ -938,18 +1145,7 @@
           "start": 397.522,
           "end": 400.275,
           "text": "Next, don't use the bathroom on the second floor,"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 8,
-      "intervalle_debut": 400,
-      "intervalle_fin": 450,
-      "timecode_debut_extrait": 400,
-      "timecode_fin_extrait": 450,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0008_time_400.00s-450.00s.mp4",
-      "nombre_sous_titres": 23,
-      "sous_titres": [
+        },
         {
           "index": 142,
           "start": 400.358,
@@ -961,7 +1157,18 @@
           "start": 402.527,
           "end": 405.488,
           "text": "-There aren't any doors on those stalls. -[toilet flushes]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 144,
           "start": 405.572,
@@ -997,7 +1204,18 @@
           "start": 419.085,
           "end": 421.171,
           "text": "-for that wonderful pep talk. -[baby babbling]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 150,
           "start": 421.254,
@@ -1033,7 +1251,18 @@
           "start": 434.976,
           "end": 436.561,
           "text": "-or who put it there. -[boy] Don't do it!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
         {
           "index": 156,
           "start": 436.644,
@@ -1091,13 +1320,13 @@
       ]
     },
     {
-      "intervalle_index": 9,
+      "intervalle_index": 30,
       "intervalle_debut": 450,
-      "intervalle_fin": 500,
+      "intervalle_fin": 465,
       "timecode_debut_extrait": 450,
-      "timecode_fin_extrait": 500,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0009_time_450.00s-500.00s.mp4",
-      "nombre_sous_titres": 20,
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0030_time_450.00s-465.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 165,
@@ -1128,7 +1357,18 @@
           "start": 464.923,
           "end": 466.424,
           "text": "He took the Cheese Touch with him."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 170,
           "start": 466.925,
@@ -1164,7 +1404,18 @@
           "start": 478.937,
           "end": 480.939,
           "text": "Middle school's gonna be fun."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 176,
           "start": 481.022,
@@ -1200,7 +1451,18 @@
           "start": 494.577,
           "end": 495.829,
           "text": "[scoffs] Oh, him."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 182,
           "start": 495.912,
@@ -1218,18 +1480,7 @@
           "start": 499.958,
           "end": 501.793,
           "text": "He's the same age as y--"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 10,
-      "intervalle_debut": 500,
-      "intervalle_fin": 550,
-      "timecode_debut_extrait": 500,
-      "timecode_fin_extrait": 550,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0010_time_500.00s-550.00s.mp4",
-      "nombre_sous_titres": 14,
-      "sous_titres": [
+        },
         {
           "index": 185,
           "start": 501.876,
@@ -1247,7 +1498,18 @@
           "start": 508.8,
           "end": 511.052,
           "text": "[laughs] Middle school's gonna eat him alive."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 188,
           "start": 511.136,
@@ -1283,7 +1545,18 @@
           "start": 522.939,
           "end": 524.274,
           "text": "That's enough."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 194,
           "start": 525.525,
@@ -1307,7 +1580,18 @@
           "start": 535.66,
           "end": 536.661,
           "text": "[door closes]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 198,
           "start": 542.876,
@@ -1317,13 +1601,13 @@
       ]
     },
     {
-      "intervalle_index": 11,
-      "intervalle_debut": 550,
-      "intervalle_fin": 600,
-      "timecode_debut_extrait": 550,
-      "timecode_fin_extrait": 600,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0011_time_550.00s-600.00s.mp4",
-      "nombre_sous_titres": 13,
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 199,
@@ -1342,7 +1626,18 @@
           "start": 568.526,
           "end": 571.654,
           "text": "In your face, Greg! That's three in a row."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 202,
           "start": 572.405,
@@ -1378,7 +1673,18 @@
           "start": 581.79,
           "end": 586.419,
           "text": "[imitating chicken clucking]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 585,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0039_time_585.00s-600.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 208,
           "start": 590.882,
@@ -1406,13 +1712,13 @@
       ]
     },
     {
-      "intervalle_index": 12,
+      "intervalle_index": 40,
       "intervalle_debut": 600,
-      "intervalle_fin": 650,
+      "intervalle_fin": 615,
       "timecode_debut_extrait": 600,
-      "timecode_fin_extrait": 650,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0012_time_600.00s-650.00s.mp4",
-      "nombre_sous_titres": 19,
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0040_time_600.00s-615.00s.mp4",
+      "nombre_sous_titres": 6,
       "sous_titres": [
         {
           "index": 212,
@@ -1449,7 +1755,18 @@
           "start": 614.447,
           "end": 617.701,
           "text": "Yeah, I'm jealous that you discovered some stupid pop star"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 630,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0041_time_615.00s-630.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 218,
           "start": 617.784,
@@ -1491,7 +1808,18 @@
           "start": 629.754,
           "end": 632.465,
           "text": "[Joshie] \"Be friendly to one another, yes?\""
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "timecode_debut_extrait": 630,
+      "timecode_fin_extrait": 645,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0042_time_630.00s-645.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 225,
           "start": 632.549,
@@ -1531,13 +1859,13 @@
       ]
     },
     {
-      "intervalle_index": 13,
-      "intervalle_debut": 650,
-      "intervalle_fin": 700,
-      "timecode_debut_extrait": 650,
-      "timecode_fin_extrait": 700,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0013_time_650.00s-700.00s.mp4",
-      "nombre_sous_titres": 16,
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "timecode_debut_extrait": 645,
+      "timecode_fin_extrait": 660,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0043_time_645.00s-660.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 231,
@@ -1568,7 +1896,18 @@
           "start": 659.367,
           "end": 662.871,
           "text": "Middle school's gonna be just fine. In fact, it'll be great."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "timecode_debut_extrait": 660,
+      "timecode_fin_extrait": 675,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0044_time_660.00s-675.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 236,
           "start": 663.705,
@@ -1580,7 +1919,18 @@
           "start": 668.71,
           "end": 670.503,
           "text": "Yeah, friends till the end."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "timecode_debut_extrait": 675,
+      "timecode_fin_extrait": 690,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0045_time_675.00s-690.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 238,
           "start": 678.636,
@@ -1610,7 +1960,18 @@
           "start": 688.772,
           "end": 690.648,
           "text": "[girl 2] Did your mom dress you this morning?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "timecode_debut_extrait": 690,
+      "timecode_fin_extrait": 705,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0046_time_690.00s-705.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 243,
           "start": 690.732,
@@ -1634,24 +1995,24 @@
           "start": 698.99,
           "end": 702.786,
           "text": "-Come on. Let's go. I don't wanna be late. -But what about the-- the cheese?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 14,
-      "intervalle_debut": 700,
-      "intervalle_fin": 750,
-      "timecode_debut_extrait": 700,
-      "timecode_fin_extrait": 750,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0014_time_700.00s-750.00s.mp4",
-      "nombre_sous_titres": 21,
-      "sous_titres": [
+        },
         {
           "index": 247,
           "start": 702.869,
           "end": 705.038,
           "text": "That's just some stupid fairy tale Rodrick made up."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "timecode_debut_extrait": 705,
+      "timecode_fin_extrait": 720,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0047_time_705.00s-720.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 248,
           "start": 705.872,
@@ -1693,7 +2054,18 @@
           "start": 719.302,
           "end": 720.512,
           "text": "-Come on, Rowley. -[grunts]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "timecode_debut_extrait": 720,
+      "timecode_fin_extrait": 735,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0048_time_720.00s-735.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 255,
           "start": 720.595,
@@ -1735,7 +2107,18 @@
           "start": 732.482,
           "end": 734.776,
           "text": "-[boy] But I gotta go to the bathroom! -[pounds on locker]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "timecode_debut_extrait": 735,
+      "timecode_fin_extrait": 750,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0049_time_735.00s-750.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 262,
           "start": 735.652,
@@ -1775,13 +2158,13 @@
       ]
     },
     {
-      "intervalle_index": 15,
+      "intervalle_index": 50,
       "intervalle_debut": 750,
-      "intervalle_fin": 800,
+      "intervalle_fin": 765,
       "timecode_debut_extrait": 750,
-      "timecode_fin_extrait": 800,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0015_time_750.00s-800.00s.mp4",
-      "nombre_sous_titres": 24,
+      "timecode_fin_extrait": 765,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0050_time_750.00s-765.00s.mp4",
+      "nombre_sous_titres": 7,
       "sous_titres": [
         {
           "index": 268,
@@ -1824,7 +2207,18 @@
           "start": 763.805,
           "end": 764.973,
           "text": "-[boy groans] -[shouts]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "timecode_debut_extrait": 765,
+      "timecode_fin_extrait": 780,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0051_time_765.00s-780.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 275,
           "start": 765.056,
@@ -1866,7 +2260,18 @@
           "start": 779.195,
           "end": 780.196,
           "text": "[Greg] Not so bad."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "timecode_debut_extrait": 780,
+      "timecode_fin_extrait": 795,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0052_time_780.00s-795.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 282,
           "start": 780.28,
@@ -1908,7 +2313,18 @@
           "start": 794.753,
           "end": 796.129,
           "text": "[school bell rings]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "timecode_debut_extrait": 795,
+      "timecode_fin_extrait": 810,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0053_time_795.00s-810.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 289,
           "start": 796.212,
@@ -1926,18 +2342,7 @@
           "start": 799.674,
           "end": 800.759,
           "text": "[Greg] We go to homeroom."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 16,
-      "intervalle_debut": 800,
-      "intervalle_fin": 850,
-      "timecode_debut_extrait": 800,
-      "timecode_fin_extrait": 850,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0016_time_800.00s-850.00s.mp4",
-      "nombre_sous_titres": 15,
-      "sous_titres": [
+        },
         {
           "index": 292,
           "start": 801.634,
@@ -1961,7 +2366,18 @@
           "start": 808.391,
           "end": 810.56,
           "text": "-Out of the way, runt. -Move to the side, shrimp."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "timecode_debut_extrait": 810,
+      "timecode_fin_extrait": 825,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0054_time_810.00s-825.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 296,
           "start": 810.643,
@@ -1985,7 +2401,18 @@
           "start": 818.943,
           "end": 821.321,
           "text": "because I needed to focus on my own situation."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "timecode_debut_extrait": 825,
+      "timecode_fin_extrait": 840,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0055_time_825.00s-840.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 300,
           "start": 826.701,
@@ -2009,7 +2436,18 @@
           "start": 838.713,
           "end": 841.8,
           "text": "[Greg] I was glad Rodrick gave me a few pointers, so I knew what not to do."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "timecode_debut_extrait": 840,
+      "timecode_fin_extrait": 855,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0056_time_840.00s-855.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 304,
           "start": 841.883,
@@ -2027,24 +2465,24 @@
           "start": 849.933,
           "end": 850.934,
           "text": "[grunts]"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 17,
-      "intervalle_debut": 850,
-      "intervalle_fin": 900,
-      "timecode_debut_extrait": 850,
-      "timecode_fin_extrait": 900,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0017_time_850.00s-900.00s.mp4",
-      "nombre_sous_titres": 20,
-      "sous_titres": [
+        },
         {
           "index": 307,
           "start": 851.726,
           "end": 852.811,
           "text": "Uh…"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "timecode_debut_extrait": 855,
+      "timecode_fin_extrait": 870,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0057_time_855.00s-870.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 308,
           "start": 855.814,
@@ -2086,7 +2524,18 @@
           "start": 869.661,
           "end": 871.538,
           "text": "-Greg Heffley? -Huh?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "timecode_debut_extrait": 870,
+      "timecode_fin_extrait": 885,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0058_time_870.00s-885.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 315,
           "start": 871.621,
@@ -2122,7 +2571,18 @@
           "start": 884.884,
           "end": 886.761,
           "text": "-[boy] Bro, dude's with the weirdo. -[whimpers]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "timecode_debut_extrait": 885,
+      "timecode_fin_extrait": 900,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0059_time_885.00s-900.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 321,
           "start": 886.845,
@@ -2162,13 +2622,13 @@
       ]
     },
     {
-      "intervalle_index": 18,
+      "intervalle_index": 60,
       "intervalle_debut": 900,
-      "intervalle_fin": 950,
+      "intervalle_fin": 915,
       "timecode_debut_extrait": 900,
-      "timecode_fin_extrait": 950,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0018_time_900.00s-950.00s.mp4",
-      "nombre_sous_titres": 21,
+      "timecode_fin_extrait": 915,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0060_time_900.00s-915.00s.mp4",
+      "nombre_sous_titres": 6,
       "sous_titres": [
         {
           "index": 327,
@@ -2205,7 +2665,18 @@
           "start": 912.746,
           "end": 914.914,
           "text": "and how many followers you have on social media."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "timecode_debut_extrait": 915,
+      "timecode_fin_extrait": 930,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0061_time_915.00s-930.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 333,
           "start": 915.749,
@@ -2235,7 +2706,18 @@
           "start": 926.718,
           "end": 930.68,
           "text": "I'm sure I'm not at the top of the ladder, but at least I'm not at the bottom."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "timecode_debut_extrait": 930,
+      "timecode_fin_extrait": 945,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0062_time_930.00s-945.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 338,
           "start": 930.764,
@@ -2277,7 +2759,18 @@
           "start": 944.652,
           "end": 946.071,
           "text": "-[fly buzzes] -[whistle blows]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "timecode_debut_extrait": 945,
+      "timecode_fin_extrait": 960,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0063_time_945.00s-960.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 345,
           "start": 946.154,
@@ -2295,18 +2788,7 @@
           "start": 949.783,
           "end": 951.117,
           "text": "Get the ball!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 19,
-      "intervalle_debut": 950,
-      "intervalle_fin": 1000,
-      "timecode_debut_extrait": 950,
-      "timecode_fin_extrait": 1000,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0019_time_950.00s-1000.00s.mp4",
-      "nombre_sous_titres": 22,
-      "sous_titres": [
+        },
         {
           "index": 348,
           "start": 951.701,
@@ -2324,7 +2806,18 @@
           "start": 956.915,
           "end": 960.669,
           "text": "-[boy] Hey, what did you get for lunch? -[girl] Today I have a jacket."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "timecode_debut_extrait": 960,
+      "timecode_fin_extrait": 975,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0064_time_960.00s-975.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 351,
           "start": 961.461,
@@ -2366,7 +2859,18 @@
           "start": 974.599,
           "end": 975.6,
           "text": "Hey! Over there."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "timecode_debut_extrait": 975,
+      "timecode_fin_extrait": 990,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0065_time_975.00s-990.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 358,
           "start": 977.143,
@@ -2408,7 +2912,18 @@
           "start": 989.155,
           "end": 990.323,
           "text": "Uh…"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "timecode_debut_extrait": 990,
+      "timecode_fin_extrait": 1005,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0066_time_990.00s-1005.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 365,
           "start": 991.449,
@@ -2438,18 +2953,7 @@
           "start": 998.248,
           "end": 1001.042,
           "text": "Don't use the bathroom on the second floor."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 20,
-      "intervalle_debut": 1000,
-      "intervalle_fin": 1050,
-      "timecode_debut_extrait": 1000,
-      "timecode_fin_extrait": 1050,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0020_time_1000.00s-1050.00s.mp4",
-      "nombre_sous_titres": 19,
-      "sous_titres": [
+        },
         {
           "index": 370,
           "start": 1001.126,
@@ -2461,7 +2965,18 @@
           "start": 1003.753,
           "end": 1006.506,
           "text": "Yeah, I probably should have warned you about that."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "timecode_debut_extrait": 1005,
+      "timecode_fin_extrait": 1020,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0067_time_1005.00s-1020.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 372,
           "start": 1006.589,
@@ -2497,7 +3012,18 @@
           "start": 1018.56,
           "end": 1020.395,
           "text": "so he'll definitely drop a few spots for sure."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "timecode_debut_extrait": 1020,
+      "timecode_fin_extrait": 1035,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0068_time_1020.00s-1035.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 378,
           "start": 1020.478,
@@ -2533,7 +3059,18 @@
           "start": 1034.409,
           "end": 1036.703,
           "text": "But I don't want to go back out there."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1035,
+      "timecode_fin_extrait": 1050,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0069_time_1035.00s-1050.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 384,
           "start": 1036.786,
@@ -2567,13 +3104,13 @@
       ]
     },
     {
-      "intervalle_index": 21,
+      "intervalle_index": 70,
       "intervalle_debut": 1050,
-      "intervalle_fin": 1100,
+      "intervalle_fin": 1065,
       "timecode_debut_extrait": 1050,
-      "timecode_fin_extrait": 1100,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0021_time_1050.00s-1100.00s.mp4",
-      "nombre_sous_titres": 15,
+      "timecode_fin_extrait": 1065,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0070_time_1050.00s-1065.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 389,
@@ -2592,7 +3129,18 @@
           "start": 1063.688,
           "end": 1065.106,
           "text": "[girl] Play."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "timecode_debut_extrait": 1065,
+      "timecode_fin_extrait": 1080,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0071_time_1065.00s-1080.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 392,
           "start": 1065.19,
@@ -2610,7 +3158,18 @@
           "start": 1072.781,
           "end": 1075.784,
           "text": "-[laughing continues] -[shutters clicking]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "timecode_debut_extrait": 1080,
+      "timecode_fin_extrait": 1095,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0072_time_1080.00s-1095.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 395,
           "start": 1080.622,
@@ -2652,7 +3211,18 @@
           "start": 1094.219,
           "end": 1095.845,
           "text": "\"Hang out,\" Rowley."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "timecode_debut_extrait": 1095,
+      "timecode_fin_extrait": 1110,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0073_time_1095.00s-1110.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 402,
           "start": 1095.929,
@@ -2664,18 +3234,7 @@
           "start": 1098.848,
           "end": 1100.642,
           "text": "I've told you that a million times."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 22,
-      "intervalle_debut": 1100,
-      "intervalle_fin": 1150,
-      "timecode_debut_extrait": 1100,
-      "timecode_fin_extrait": 1150,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0022_time_1100.00s-1150.00s.mp4",
-      "nombre_sous_titres": 17,
-      "sous_titres": [
+        },
         {
           "index": 404,
           "start": 1100.725,
@@ -2699,7 +3258,18 @@
           "start": 1108.108,
           "end": 1112.779,
           "text": "So, do you wanna hang out and \"do\" video games?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "timecode_debut_extrait": 1110,
+      "timecode_fin_extrait": 1125,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0074_time_1110.00s-1125.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 408,
           "start": 1112.862,
@@ -2723,7 +3293,18 @@
           "start": 1122.372,
           "end": 1125.834,
           "text": "But by the time Halloween rolled around, Rowley started to slip again."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "timecode_debut_extrait": 1125,
+      "timecode_fin_extrait": 1140,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0075_time_1125.00s-1140.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 412,
           "start": 1126.918,
@@ -2747,7 +3328,18 @@
           "start": 1136.386,
           "end": 1140.056,
           "text": "Right, elementary school. We're in middle school now, remember?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "timecode_debut_extrait": 1140,
+      "timecode_fin_extrait": 1155,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0076_time_1140.00s-1155.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 416,
           "start": 1140.765,
@@ -2777,24 +3369,24 @@
           "start": 1149.315,
           "end": 1152.444,
           "text": "-I guess. -Listen, things are hard enough at school."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 23,
-      "intervalle_debut": 1150,
-      "intervalle_fin": 1200,
-      "timecode_debut_extrait": 1150,
-      "timecode_fin_extrait": 1200,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0023_time_1150.00s-1200.00s.mp4",
-      "nombre_sous_titres": 16,
-      "sous_titres": [
+        },
         {
           "index": 421,
           "start": 1152.527,
           "end": 1154.988,
           "text": "I just don't wanna put a target on our backs, you know?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "timecode_debut_extrait": 1155,
+      "timecode_fin_extrait": 1170,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0077_time_1155.00s-1170.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 422,
           "start": 1155.697,
@@ -2812,7 +3404,18 @@
           "start": 1159.409,
           "end": 1161.953,
           "text": "-Seriously, we have to be invisible. -Got it."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "timecode_debut_extrait": 1170,
+      "timecode_fin_extrait": 1185,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0078_time_1170.00s-1185.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 425,
           "start": 1171.963,
@@ -2848,7 +3451,18 @@
           "start": 1184.934,
           "end": 1186.102,
           "text": "[floatie squeaks]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1185,
+      "timecode_fin_extrait": 1200,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0079_time_1185.00s-1200.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 431,
           "start": 1186.186,
@@ -2888,13 +3502,13 @@
       ]
     },
     {
-      "intervalle_index": 24,
+      "intervalle_index": 80,
       "intervalle_debut": 1200,
-      "intervalle_fin": 1250,
+      "intervalle_fin": 1215,
       "timecode_debut_extrait": 1200,
-      "timecode_fin_extrait": 1250,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0024_time_1200.00s-1250.00s.mp4",
-      "nombre_sous_titres": 18,
+      "timecode_fin_extrait": 1215,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0080_time_1200.00s-1215.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 437,
@@ -2925,7 +3539,18 @@
           "start": 1213.213,
           "end": 1217.676,
           "text": "and Dad is doing that thing that he does on Halloween."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "timecode_debut_extrait": 1215,
+      "timecode_fin_extrait": 1230,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0081_time_1215.00s-1230.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 442,
           "start": 1217.759,
@@ -2955,7 +3580,18 @@
           "start": 1229.688,
           "end": 1231.564,
           "text": "But Manny will just slow us down."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "timecode_debut_extrait": 1230,
+      "timecode_fin_extrait": 1245,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0082_time_1230.00s-1245.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 447,
           "start": 1231.648,
@@ -2991,7 +3627,18 @@
           "start": 1243.034,
           "end": 1244.994,
           "text": "[stammering]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "timecode_debut_extrait": 1245,
+      "timecode_fin_extrait": 1260,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0083_time_1245.00s-1260.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 453,
           "start": 1245.078,
@@ -3003,18 +3650,7 @@
           "start": 1246.83,
           "end": 1251.084,
           "text": "Good. Because you would be in big trouble if you did."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 25,
-      "intervalle_debut": 1250,
-      "intervalle_fin": 1300,
-      "timecode_debut_extrait": 1250,
-      "timecode_fin_extrait": 1300,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0025_time_1250.00s-1300.00s.mp4",
-      "nombre_sous_titres": 20,
-      "sous_titres": [
+        },
         {
           "index": 455,
           "start": 1251.167,
@@ -3044,7 +3680,18 @@
           "start": 1259.342,
           "end": 1261.219,
           "text": "8:00? 8:00 a.m.?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "timecode_debut_extrait": 1260,
+      "timecode_fin_extrait": 1275,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0084_time_1260.00s-1275.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 460,
           "start": 1261.302,
@@ -3080,7 +3727,18 @@
           "start": 1274.024,
           "end": 1275.275,
           "text": "Okay, time to go."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "timecode_debut_extrait": 1275,
+      "timecode_fin_extrait": 1290,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0085_time_1275.00s-1290.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 466,
           "start": 1275.358,
@@ -3116,7 +3774,18 @@
           "start": 1288.163,
           "end": 1289.581,
           "text": "[girl] What a dork."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1305,
+      "timecode_debut_extrait": 1290,
+      "timecode_fin_extrait": 1305,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0086_time_1290.00s-1305.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 472,
           "start": 1291.374,
@@ -3134,18 +3803,7 @@
           "start": 1295.837,
           "end": 1298.715,
           "text": "-Candy. -Aw. Here, take five."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 26,
-      "intervalle_debut": 1300,
-      "intervalle_fin": 1350,
-      "timecode_debut_extrait": 1300,
-      "timecode_fin_extrait": 1350,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0026_time_1300.00s-1350.00s.mp4",
-      "nombre_sous_titres": 20,
-      "sous_titres": [
+        },
         {
           "index": 475,
           "start": 1300.175,
@@ -3169,7 +3827,18 @@
           "start": 1304.929,
           "end": 1306.681,
           "text": "[floatie squeaking]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 87,
+      "intervalle_debut": 1305,
+      "intervalle_fin": 1320,
+      "timecode_debut_extrait": 1305,
+      "timecode_fin_extrait": 1320,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0087_time_1305.00s-1320.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 479,
           "start": 1308.558,
@@ -3199,7 +3868,18 @@
           "start": 1319.444,
           "end": 1320.57,
           "text": "Bye."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 1320,
+      "intervalle_fin": 1335,
+      "timecode_debut_extrait": 1320,
+      "timecode_fin_extrait": 1335,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0088_time_1320.00s-1335.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 484,
           "start": 1320.653,
@@ -3241,7 +3921,18 @@
           "start": 1333.5,
           "end": 1334.709,
           "text": "You guys are killing me."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 1335,
+      "intervalle_fin": 1350,
+      "timecode_debut_extrait": 1335,
+      "timecode_fin_extrait": 1350,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0089_time_1335.00s-1350.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 491,
           "start": 1339.297,
@@ -3269,13 +3960,13 @@
       ]
     },
     {
-      "intervalle_index": 27,
+      "intervalle_index": 90,
       "intervalle_debut": 1350,
-      "intervalle_fin": 1400,
+      "intervalle_fin": 1365,
       "timecode_debut_extrait": 1350,
-      "timecode_fin_extrait": 1400,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0027_time_1350.00s-1400.00s.mp4",
-      "nombre_sous_titres": 23,
+      "timecode_fin_extrait": 1365,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0090_time_1350.00s-1365.00s.mp4",
+      "nombre_sous_titres": 7,
       "sous_titres": [
         {
           "index": 495,
@@ -3318,7 +4009,18 @@
           "start": 1361.986,
           "end": 1363.029,
           "text": "Bubby!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 1365,
+      "intervalle_fin": 1380,
+      "timecode_debut_extrait": 1365,
+      "timecode_fin_extrait": 1380,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0091_time_1365.00s-1380.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 502,
           "start": 1367.492,
@@ -3354,7 +4056,18 @@
           "start": 1378.42,
           "end": 1380.422,
           "text": "-Hmm? -[Manny giggles]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 92,
+      "intervalle_debut": 1380,
+      "intervalle_fin": 1395,
+      "timecode_debut_extrait": 1380,
+      "timecode_fin_extrait": 1395,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0092_time_1380.00s-1395.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
         {
           "index": 508,
           "start": 1380.505,
@@ -3402,7 +4115,18 @@
           "start": 1394.352,
           "end": 1396.563,
           "text": "I can't believe we never thought of bringing Manny."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 93,
+      "intervalle_debut": 1395,
+      "intervalle_fin": 1410,
+      "timecode_debut_extrait": 1395,
+      "timecode_fin_extrait": 1410,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0093_time_1395.00s-1410.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 516,
           "start": 1396.646,
@@ -3414,18 +4138,7 @@
           "start": 1398.94,
           "end": 1401.526,
           "text": "So we'll stop by my house, empty these bags in my room,"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 28,
-      "intervalle_debut": 1400,
-      "intervalle_fin": 1450,
-      "timecode_debut_extrait": 1400,
-      "timecode_fin_extrait": 1450,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0028_time_1400.00s-1450.00s.mp4",
-      "nombre_sous_titres": 21,
-      "sous_titres": [
+        },
         {
           "index": 518,
           "start": 1401.609,
@@ -3443,7 +4156,18 @@
           "start": 1407.574,
           "end": 1409.367,
           "text": "He's fine. Aren't you, Manny?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 94,
+      "intervalle_debut": 1410,
+      "intervalle_fin": 1425,
+      "timecode_debut_extrait": 1410,
+      "timecode_fin_extrait": 1425,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0094_time_1410.00s-1425.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 521,
           "start": 1410.285,
@@ -3485,7 +4209,18 @@
           "start": 1424.215,
           "end": 1427.093,
           "text": "Seriously? You can never have too much candy, Rowley."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 95,
+      "intervalle_debut": 1425,
+      "intervalle_fin": 1440,
+      "timecode_debut_extrait": 1425,
+      "timecode_fin_extrait": 1440,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0095_time_1425.00s-1440.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 528,
           "start": 1427.177,
@@ -3527,7 +4262,18 @@
           "start": 1438.73,
           "end": 1440.94,
           "text": "-We can make a killing. -I don't know."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 96,
+      "intervalle_debut": 1440,
+      "intervalle_fin": 1455,
+      "timecode_debut_extrait": 1440,
+      "timecode_fin_extrait": 1455,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0096_time_1440.00s-1455.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 535,
           "start": 1441.024,
@@ -3551,24 +4297,24 @@
           "start": 1449.866,
           "end": 1452.827,
           "text": "-Don't you remember what your mom said? -She'll never even know."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 29,
-      "intervalle_debut": 1450,
-      "intervalle_fin": 1500,
-      "timecode_debut_extrait": 1450,
-      "timecode_fin_extrait": 1500,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0029_time_1450.00s-1500.00s.mp4",
-      "nombre_sous_titres": 13,
-      "sous_titres": [
+        },
         {
           "index": 539,
           "start": 1452.911,
           "end": 1456.414,
           "text": "Twenty more minutes and we'll be back at my house eating our candy. I promise."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 97,
+      "intervalle_debut": 1455,
+      "intervalle_fin": 1470,
+      "timecode_debut_extrait": 1455,
+      "timecode_fin_extrait": 1470,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0097_time_1455.00s-1470.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 540,
           "start": 1458.166,
@@ -3580,7 +4326,18 @@
           "start": 1463.546,
           "end": 1466.549,
           "text": "[floatie squeaking]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 98,
+      "intervalle_debut": 1470,
+      "intervalle_fin": 1485,
+      "timecode_debut_extrait": 1470,
+      "timecode_fin_extrait": 1485,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0098_time_1470.00s-1485.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 542,
           "start": 1470.178,
@@ -3604,7 +4361,18 @@
           "start": 1481.523,
           "end": 1483.191,
           "text": "[floatie squeaking]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 99,
+      "intervalle_debut": 1485,
+      "intervalle_fin": 1500,
+      "timecode_debut_extrait": 1485,
+      "timecode_fin_extrait": 1500,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0099_time_1485.00s-1500.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 546,
           "start": 1485.777,
@@ -3644,13 +4412,13 @@
       ]
     },
     {
-      "intervalle_index": 30,
+      "intervalle_index": 100,
       "intervalle_debut": 1500,
-      "intervalle_fin": 1550,
+      "intervalle_fin": 1515,
       "timecode_debut_extrait": 1500,
-      "timecode_fin_extrait": 1550,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0030_time_1500.00s-1550.00s.mp4",
-      "nombre_sous_titres": 18,
+      "timecode_fin_extrait": 1515,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0100_time_1500.00s-1515.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 552,
@@ -3681,7 +4449,18 @@
           "start": 1513.847,
           "end": 1517.517,
           "text": "-Rodrick was just trying to scare us. -That's what you said about the cheese."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 101,
+      "intervalle_debut": 1515,
+      "intervalle_fin": 1530,
+      "timecode_debut_extrait": 1515,
+      "timecode_fin_extrait": 1530,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0101_time_1515.00s-1530.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 557,
           "start": 1517.6,
@@ -3711,7 +4490,18 @@
           "start": 1525.442,
           "end": 1528.445,
           "text": "-[wings flapping] -[animals howling]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 102,
+      "intervalle_debut": 1530,
+      "intervalle_fin": 1545,
+      "timecode_debut_extrait": 1530,
+      "timecode_fin_extrait": 1545,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0102_time_1530.00s-1545.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 562,
           "start": 1532.949,
@@ -3747,7 +4537,18 @@
           "start": 1544.586,
           "end": 1547.047,
           "text": "with a goat on the left side and a person on the right?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 103,
+      "intervalle_debut": 1545,
+      "intervalle_fin": 1560,
+      "timecode_debut_extrait": 1545,
+      "timecode_fin_extrait": 1560,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0103_time_1545.00s-1560.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 568,
           "start": 1547.13,
@@ -3759,18 +4560,7 @@
           "start": 1548.214,
           "end": 1550.967,
           "text": "Can we stop talking about this? I think I hear some--"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 31,
-      "intervalle_debut": 1550,
-      "intervalle_fin": 1600,
-      "timecode_debut_extrait": 1550,
-      "timecode_fin_extrait": 1600,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0031_time_1550.00s-1600.00s.mp4",
-      "nombre_sous_titres": 19,
-      "sous_titres": [
+        },
         {
           "index": 570,
           "start": 1551.051,
@@ -3794,7 +4584,18 @@
           "start": 1558.391,
           "end": 1559.476,
           "text": "Teenagers!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 104,
+      "intervalle_debut": 1560,
+      "intervalle_fin": 1575,
+      "timecode_debut_extrait": 1560,
+      "timecode_fin_extrait": 1575,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0104_time_1560.00s-1575.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 574,
           "start": 1560.143,
@@ -3830,7 +4631,18 @@
           "start": 1573.865,
           "end": 1576.785,
           "text": "[bully] Free candy. [laughs]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 105,
+      "intervalle_debut": 1575,
+      "intervalle_fin": 1590,
+      "timecode_debut_extrait": 1575,
+      "timecode_fin_extrait": 1590,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0105_time_1575.00s-1590.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 580,
           "start": 1576.868,
@@ -3872,7 +4684,18 @@
           "start": 1589.631,
           "end": 1593.76,
           "text": "Yeah. Shouldn't you be getting a good night's sleep? [chuckles]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 106,
+      "intervalle_debut": 1590,
+      "intervalle_fin": 1605,
+      "timecode_debut_extrait": 1590,
+      "timecode_fin_extrait": 1605,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0106_time_1590.00s-1605.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 587,
           "start": 1593.843,
@@ -3884,18 +4707,7 @@
           "start": 1599.307,
           "end": 1602.185,
           "text": "Actually, we're in middle school. My bedtime's not until 9:00."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 32,
-      "intervalle_debut": 1600,
-      "intervalle_fin": 1650,
-      "timecode_debut_extrait": 1600,
-      "timecode_fin_extrait": 1650,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0032_time_1600.00s-1650.00s.mp4",
-      "nombre_sous_titres": 15,
-      "sous_titres": [
+        },
         {
           "index": 589,
           "start": 1602.268,
@@ -3907,7 +4719,18 @@
           "start": 1604.688,
           "end": 1607.565,
           "text": "Yeah, we-- we better head home. Have a good night, fellas."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 107,
+      "intervalle_debut": 1605,
+      "intervalle_fin": 1620,
+      "timecode_debut_extrait": 1605,
+      "timecode_fin_extrait": 1620,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0107_time_1605.00s-1620.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 591,
           "start": 1608.65,
@@ -3931,7 +4754,18 @@
           "start": 1617.492,
           "end": 1620.954,
           "text": "We'd really better-- [chuckles] We-- We'd really better get going now."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 108,
+      "intervalle_debut": 1620,
+      "intervalle_fin": 1635,
+      "timecode_debut_extrait": 1620,
+      "timecode_fin_extrait": 1635,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0108_time_1620.00s-1635.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 595,
           "start": 1621.037,
@@ -3949,7 +4783,18 @@
           "start": 1632.048,
           "end": 1635.135,
           "text": "-[bully 2 laughing] -[Greg, Rowley screaming]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 109,
+      "intervalle_debut": 1635,
+      "intervalle_fin": 1650,
+      "timecode_debut_extrait": 1635,
+      "timecode_fin_extrait": 1650,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0109_time_1635.00s-1650.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 598,
           "start": 1635.218,
@@ -3989,13 +4834,13 @@
       ]
     },
     {
-      "intervalle_index": 33,
+      "intervalle_index": 110,
       "intervalle_debut": 1650,
-      "intervalle_fin": 1700,
+      "intervalle_fin": 1665,
       "timecode_debut_extrait": 1650,
-      "timecode_fin_extrait": 1700,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0033_time_1650.00s-1700.00s.mp4",
-      "nombre_sous_titres": 23,
+      "timecode_fin_extrait": 1665,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0110_time_1650.00s-1665.00s.mp4",
+      "nombre_sous_titres": 7,
       "sous_titres": [
         {
           "index": 604,
@@ -4038,7 +4883,18 @@
           "start": 1664.039,
           "end": 1665.331,
           "text": "[squeaks]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 111,
+      "intervalle_debut": 1665,
+      "intervalle_fin": 1680,
+      "timecode_debut_extrait": 1665,
+      "timecode_fin_extrait": 1680,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0111_time_1665.00s-1680.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 611,
           "start": 1668.626,
@@ -4080,7 +4936,18 @@
           "start": 1679.179,
           "end": 1681.014,
           "text": "[both grunting]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 112,
+      "intervalle_debut": 1680,
+      "intervalle_fin": 1695,
+      "timecode_debut_extrait": 1680,
+      "timecode_fin_extrait": 1695,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0112_time_1680.00s-1695.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 618,
           "start": 1683.141,
@@ -4122,7 +4989,18 @@
           "start": 1694.319,
           "end": 1695.236,
           "text": "[bully] Whoo!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 113,
+      "intervalle_debut": 1695,
+      "intervalle_fin": 1710,
+      "timecode_debut_extrait": 1695,
+      "timecode_fin_extrait": 1710,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0113_time_1695.00s-1710.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 625,
           "start": 1695.32,
@@ -4134,18 +5012,7 @@
           "start": 1698.365,
           "end": 1700.867,
           "text": "-[bullies screaming] -[tires squealing]"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 34,
-      "intervalle_debut": 1700,
-      "intervalle_fin": 1750,
-      "timecode_debut_extrait": 1700,
-      "timecode_fin_extrait": 1750,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0034_time_1700.00s-1750.00s.mp4",
-      "nombre_sous_titres": 19,
-      "sous_titres": [
+        },
         {
           "index": 627,
           "start": 1700.95,
@@ -4169,7 +5036,18 @@
           "start": 1709.125,
           "end": 1709.959,
           "text": "[growls]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 114,
+      "intervalle_debut": 1710,
+      "intervalle_fin": 1725,
+      "timecode_debut_extrait": 1710,
+      "timecode_fin_extrait": 1725,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0114_time_1710.00s-1725.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 631,
           "start": 1710.043,
@@ -4199,7 +5077,18 @@
           "start": 1722.514,
           "end": 1724.766,
           "text": "We know where you go to school!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 115,
+      "intervalle_debut": 1725,
+      "intervalle_fin": 1740,
+      "timecode_debut_extrait": 1725,
+      "timecode_fin_extrait": 1740,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0115_time_1725.00s-1740.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 636,
           "start": 1725.767,
@@ -4235,7 +5124,18 @@
           "start": 1739.739,
           "end": 1740.74,
           "text": "Is this…"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 116,
+      "intervalle_debut": 1740,
+      "intervalle_fin": 1755,
+      "timecode_debut_extrait": 1740,
+      "timecode_fin_extrait": 1755,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0116_time_1740.00s-1755.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 642,
           "start": 1741.658,
@@ -4259,18 +5159,7 @@
           "start": 1747.706,
           "end": 1750.0,
           "text": "If you just stick with me, everything will be fine."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 35,
-      "intervalle_debut": 1750,
-      "intervalle_fin": 1800,
-      "timecode_debut_extrait": 1750,
-      "timecode_fin_extrait": 1800,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0035_time_1750.00s-1800.00s.mp4",
-      "nombre_sous_titres": 21,
-      "sous_titres": [
+        },
         {
           "index": 646,
           "start": 1750.083,
@@ -4282,7 +5171,18 @@
           "start": 1753.044,
           "end": 1754.045,
           "text": "[both scream]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 117,
+      "intervalle_debut": 1755,
+      "intervalle_fin": 1770,
+      "timecode_debut_extrait": 1755,
+      "timecode_fin_extrait": 1770,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0117_time_1755.00s-1770.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
         {
           "index": 648,
           "start": 1755.088,
@@ -4330,7 +5230,18 @@
           "start": 1769.602,
           "end": 1770.603,
           "text": "[chuckles]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 118,
+      "intervalle_debut": 1770,
+      "intervalle_fin": 1785,
+      "timecode_debut_extrait": 1770,
+      "timecode_fin_extrait": 1785,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0118_time_1770.00s-1785.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 656,
           "start": 1770.687,
@@ -4366,7 +5277,18 @@
           "start": 1782.615,
           "end": 1783.616,
           "text": "Woo-hoo!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 119,
+      "intervalle_debut": 1785,
+      "intervalle_fin": 1800,
+      "timecode_debut_extrait": 1785,
+      "timecode_fin_extrait": 1800,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0119_time_1785.00s-1800.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 662,
           "start": 1787.954,
@@ -4400,13 +5322,13 @@
       ]
     },
     {
-      "intervalle_index": 36,
+      "intervalle_index": 120,
       "intervalle_debut": 1800,
-      "intervalle_fin": 1850,
+      "intervalle_fin": 1815,
       "timecode_debut_extrait": 1800,
-      "timecode_fin_extrait": 1850,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0036_time_1800.00s-1850.00s.mp4",
-      "nombre_sous_titres": 16,
+      "timecode_fin_extrait": 1815,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0120_time_1800.00s-1815.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 667,
@@ -4437,7 +5359,18 @@
           "start": 1813.688,
           "end": 1817.692,
           "text": "My mom says, \"It's important to belong to something when you're in middle school.\""
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 121,
+      "intervalle_debut": 1815,
+      "intervalle_fin": 1830,
+      "timecode_debut_extrait": 1815,
+      "timecode_fin_extrait": 1830,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0121_time_1815.00s-1830.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 672,
           "start": 1817.776,
@@ -4473,7 +5406,18 @@
           "start": 1829.788,
           "end": 1831.373,
           "text": "I need to change my situation now!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 122,
+      "intervalle_debut": 1830,
+      "intervalle_fin": 1845,
+      "timecode_debut_extrait": 1830,
+      "timecode_fin_extrait": 1845,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0122_time_1830.00s-1845.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 678,
           "start": 1840.59,
@@ -4485,7 +5429,18 @@
           "start": 1843.468,
           "end": 1845.97,
           "text": "[grunts] Whoa!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 123,
+      "intervalle_debut": 1845,
+      "intervalle_fin": 1860,
+      "timecode_debut_extrait": 1845,
+      "timecode_fin_extrait": 1860,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0123_time_1845.00s-1860.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 680,
           "start": 1846.054,
@@ -4503,18 +5458,7 @@
           "start": 1849.14,
           "end": 1850.141,
           "text": "[groans]"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 37,
-      "intervalle_debut": 1850,
-      "intervalle_fin": 1900,
-      "timecode_debut_extrait": 1850,
-      "timecode_fin_extrait": 1900,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0037_time_1850.00s-1900.00s.mp4",
-      "nombre_sous_titres": 18,
-      "sous_titres": [
+        },
         {
           "index": 683,
           "start": 1850.642,
@@ -4538,7 +5482,18 @@
           "start": 1857.482,
           "end": 1859.984,
           "text": "Yeah, I think I might have pulled something myself."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 124,
+      "intervalle_debut": 1860,
+      "intervalle_fin": 1875,
+      "timecode_debut_extrait": 1860,
+      "timecode_fin_extrait": 1875,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0124_time_1860.00s-1875.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
         {
           "index": 687,
           "start": 1860.527,
@@ -4586,7 +5541,18 @@
           "start": 1874.457,
           "end": 1877.335,
           "text": "If my mom found out we were playing this game, she'd go nuts."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 125,
+      "intervalle_debut": 1875,
+      "intervalle_fin": 1890,
+      "timecode_debut_extrait": 1875,
+      "timecode_fin_extrait": 1890,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0125_time_1875.00s-1890.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 695,
           "start": 1877.419,
@@ -4610,7 +5576,18 @@
           "start": 1889.097,
           "end": 1890.098,
           "text": "Got it?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 126,
+      "intervalle_debut": 1890,
+      "intervalle_fin": 1905,
+      "timecode_debut_extrait": 1890,
+      "timecode_fin_extrait": 1905,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0126_time_1890.00s-1905.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 699,
           "start": 1890.682,
@@ -4622,18 +5599,7 @@
           "start": 1898.148,
           "end": 1901.192,
           "text": "-[Greg] So what happened at the hospital? -[Rowley] They took a bunch of X-rays."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 38,
-      "intervalle_debut": 1900,
-      "intervalle_fin": 1950,
-      "timecode_debut_extrait": 1900,
-      "timecode_fin_extrait": 1950,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0038_time_1900.00s-1950.00s.mp4",
-      "nombre_sous_titres": 20,
-      "sous_titres": [
+        },
         {
           "index": 701,
           "start": 1901.276,
@@ -4651,7 +5617,18 @@
           "start": 1904.487,
           "end": 1907.032,
           "text": "Oh, man. I thought it was just bruised or something."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 127,
+      "intervalle_debut": 1905,
+      "intervalle_fin": 1920,
+      "timecode_debut_extrait": 1905,
+      "timecode_fin_extrait": 1920,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0127_time_1905.00s-1920.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 704,
           "start": 1907.115,
@@ -4687,7 +5664,18 @@
           "start": 1918.71,
           "end": 1922.339,
           "text": "I have to put a plastic bag over my arm in the shower for a whole month."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 128,
+      "intervalle_debut": 1920,
+      "intervalle_fin": 1935,
+      "timecode_debut_extrait": 1920,
+      "timecode_fin_extrait": 1935,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0128_time_1920.00s-1935.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 710,
           "start": 1922.422,
@@ -4711,7 +5699,18 @@
           "start": 1933.266,
           "end": 1935.06,
           "text": "-It is? -Yes, Rowley."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 129,
+      "intervalle_debut": 1935,
+      "intervalle_fin": 1950,
+      "timecode_debut_extrait": 1935,
+      "timecode_fin_extrait": 1950,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0129_time_1935.00s-1950.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 714,
           "start": 1935.143,
@@ -4757,13 +5756,13 @@
       ]
     },
     {
-      "intervalle_index": 39,
+      "intervalle_index": 130,
       "intervalle_debut": 1950,
-      "intervalle_fin": 2000,
+      "intervalle_fin": 1965,
       "timecode_debut_extrait": 1950,
-      "timecode_fin_extrait": 2000,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0039_time_1950.00s-2000.00s.mp4",
-      "nombre_sous_titres": 17,
+      "timecode_fin_extrait": 1965,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0130_time_1950.00s-1965.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 721,
@@ -4794,7 +5793,18 @@
           "start": 1961.67,
           "end": 1965.382,
           "text": "-Oh, yeah. Sorry. -We gotta get our story straight,"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 131,
+      "intervalle_debut": 1965,
+      "intervalle_fin": 1980,
+      "timecode_debut_extrait": 1965,
+      "timecode_fin_extrait": 1980,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0131_time_1965.00s-1980.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 726,
           "start": 1965.465,
@@ -4824,7 +5834,18 @@
           "start": 1978.019,
           "end": 1980.689,
           "text": "First you disobey me and go to Snake Road."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 132,
+      "intervalle_debut": 1980,
+      "intervalle_fin": 1995,
+      "timecode_debut_extrait": 1980,
+      "timecode_fin_extrait": 1995,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0132_time_1980.00s-1995.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 731,
           "start": 1980.772,
@@ -4860,24 +5881,24 @@
           "start": 1993.076,
           "end": 1997.539,
           "text": "but telling Rowley to lie to his parents is just-- just--"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 133,
+      "intervalle_debut": 1995,
+      "intervalle_fin": 2010,
+      "timecode_debut_extrait": 1995,
+      "timecode_fin_extrait": 2010,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0133_time_1995.00s-2010.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 737,
           "start": 1998.039,
           "end": 1999.04,
           "text": "[sighs]"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 40,
-      "intervalle_debut": 2000,
-      "intervalle_fin": 2050,
-      "timecode_debut_extrait": 2000,
-      "timecode_fin_extrait": 2050,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0040_time_2000.00s-2050.00s.mp4",
-      "nombre_sous_titres": 18,
-      "sous_titres": [
+        },
         {
           "index": 738,
           "start": 2000.333,
@@ -4907,7 +5928,18 @@
           "start": 2009.968,
           "end": 2011.761,
           "text": "I'm trying to raise a good kid."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 134,
+      "intervalle_debut": 2010,
+      "intervalle_fin": 2025,
+      "timecode_debut_extrait": 2010,
+      "timecode_fin_extrait": 2025,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0134_time_2010.00s-2025.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 743,
           "start": 2011.845,
@@ -4937,7 +5969,18 @@
           "start": 2023.273,
           "end": 2025.608,
           "text": "That boy is such a good friend to you."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 135,
+      "intervalle_debut": 2025,
+      "intervalle_fin": 2040,
+      "timecode_debut_extrait": 2025,
+      "timecode_fin_extrait": 2040,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0135_time_2025.00s-2040.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 748,
           "start": 2026.484,
@@ -4967,7 +6010,18 @@
           "start": 2036.244,
           "end": 2039.914,
           "text": "-But Mom… -Listen to that inner voice, Greg."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 136,
+      "intervalle_debut": 2040,
+      "intervalle_fin": 2055,
+      "timecode_debut_extrait": 2040,
+      "timecode_fin_extrait": 2055,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0136_time_2040.00s-2055.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 753,
           "start": 2041.041,
@@ -4985,18 +6039,7 @@
           "start": 2045.92,
           "end": 2046.921,
           "text": "[door closes]"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 41,
-      "intervalle_debut": 2050,
-      "intervalle_fin": 2100,
-      "timecode_debut_extrait": 2050,
-      "timecode_fin_extrait": 2100,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0041_time_2050.00s-2100.00s.mp4",
-      "nombre_sous_titres": 13,
-      "sous_titres": [
+        },
         {
           "index": 756,
           "start": 2050.175,
@@ -5008,7 +6051,18 @@
           "start": 2052.927,
           "end": 2055.93,
           "text": "She wanted me to tell Rowley's parents the truth about what happened."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 137,
+      "intervalle_debut": 2055,
+      "intervalle_fin": 2070,
+      "timecode_debut_extrait": 2055,
+      "timecode_fin_extrait": 2070,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0137_time_2055.00s-2070.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 758,
           "start": 2056.973,
@@ -5044,7 +6098,18 @@
           "start": 2069.986,
           "end": 2071.78,
           "text": "'cause then he'd be in trouble too."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 138,
+      "intervalle_debut": 2070,
+      "intervalle_fin": 2085,
+      "timecode_debut_extrait": 2070,
+      "timecode_fin_extrait": 2085,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0138_time_2070.00s-2085.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 764,
           "start": 2071.863,
@@ -5056,7 +6121,18 @@
           "start": 2080.872,
           "end": 2083.75,
           "text": "Because telling the truth would make things worse for everybody."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 139,
+      "intervalle_debut": 2085,
+      "intervalle_fin": 2100,
+      "timecode_debut_extrait": 2085,
+      "timecode_fin_extrait": 2100,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0139_time_2085.00s-2100.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 766,
           "start": 2089.297,
@@ -5078,13 +6154,13 @@
       ]
     },
     {
-      "intervalle_index": 42,
+      "intervalle_index": 140,
       "intervalle_debut": 2100,
-      "intervalle_fin": 2150,
+      "intervalle_fin": 2115,
       "timecode_debut_extrait": 2100,
-      "timecode_fin_extrait": 2150,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0042_time_2100.00s-2150.00s.mp4",
-      "nombre_sous_titres": 19,
+      "timecode_fin_extrait": 2115,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0140_time_2100.00s-2115.00s.mp4",
+      "nombre_sous_titres": 6,
       "sous_titres": [
         {
           "index": 769,
@@ -5121,7 +6197,18 @@
           "start": 2114.656,
           "end": 2117.909,
           "text": "[Greg] Just like I predicted, getting a seat at lunch was no problem at all."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 141,
+      "intervalle_debut": 2115,
+      "intervalle_fin": 2130,
+      "timecode_debut_extrait": 2115,
+      "timecode_fin_extrait": 2130,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0141_time_2115.00s-2130.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 775,
           "start": 2119.077,
@@ -5157,7 +6244,18 @@
           "start": 2129.462,
           "end": 2132.882,
           "text": "-[girl imitates airplane] -[imitates airplane, smacks lips]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 142,
+      "intervalle_debut": 2130,
+      "intervalle_fin": 2145,
+      "timecode_debut_extrait": 2130,
+      "timecode_fin_extrait": 2145,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0142_time_2130.00s-2145.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 781,
           "start": 2132.966,
@@ -5181,7 +6279,18 @@
           "start": 2143.727,
           "end": 2145.228,
           "text": "Mmm."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 143,
+      "intervalle_debut": 2145,
+      "intervalle_fin": 2160,
+      "timecode_debut_extrait": 2145,
+      "timecode_fin_extrait": 2160,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0143_time_2145.00s-2160.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
         {
           "index": 785,
           "start": 2145.311,
@@ -5199,18 +6308,7 @@
           "start": 2148.44,
           "end": 2151.234,
           "text": "I'm Greg Heffley, Rowley's best friend."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 43,
-      "intervalle_debut": 2150,
-      "intervalle_fin": 2200,
-      "timecode_debut_extrait": 2150,
-      "timecode_fin_extrait": 2200,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0043_time_2150.00s-2200.00s.mp4",
-      "nombre_sous_titres": 19,
-      "sous_titres": [
+        },
         {
           "index": 788,
           "start": 2151.317,
@@ -5240,7 +6338,18 @@
           "start": 2156.448,
           "end": 2159.075,
           "text": "[chattering, laughing]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 144,
+      "intervalle_debut": 2160,
+      "intervalle_fin": 2175,
+      "timecode_debut_extrait": 2160,
+      "timecode_fin_extrait": 2175,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0144_time_2160.00s-2175.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 793,
           "start": 2160.41,
@@ -5270,7 +6379,18 @@
           "start": 2173.465,
           "end": 2175.508,
           "text": "Yeah. No big deal. [sighs]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 145,
+      "intervalle_debut": 2175,
+      "intervalle_fin": 2190,
+      "timecode_debut_extrait": 2175,
+      "timecode_fin_extrait": 2190,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0145_time_2175.00s-2190.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 798,
           "start": 2175.592,
@@ -5306,7 +6426,18 @@
           "start": 2189.105,
           "end": 2191.858,
           "text": "[Greg] I realized I couldn't compete with Rowley's stupid injury."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 146,
+      "intervalle_debut": 2190,
+      "intervalle_fin": 2205,
+      "timecode_debut_extrait": 2190,
+      "timecode_fin_extrait": 2205,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0146_time_2190.00s-2205.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 804,
           "start": 2192.692,
@@ -5328,13 +6459,13 @@
       ]
     },
     {
-      "intervalle_index": 44,
-      "intervalle_debut": 2200,
-      "intervalle_fin": 2250,
-      "timecode_debut_extrait": 2200,
-      "timecode_fin_extrait": 2250,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0044_time_2200.00s-2250.00s.mp4",
-      "nombre_sous_titres": 16,
+      "intervalle_index": 147,
+      "intervalle_debut": 2205,
+      "intervalle_fin": 2220,
+      "timecode_debut_extrait": 2205,
+      "timecode_fin_extrait": 2220,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0147_time_2205.00s-2220.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 807,
@@ -5365,7 +6496,18 @@
           "start": 2217.926,
           "end": 2220.136,
           "text": "Your comics? For what?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 148,
+      "intervalle_debut": 2220,
+      "intervalle_fin": 2235,
+      "timecode_debut_extrait": 2220,
+      "timecode_fin_extrait": 2235,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0148_time_2220.00s-2235.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 812,
           "start": 2220.22,
@@ -5395,7 +6537,18 @@
           "start": 2234.567,
           "end": 2236.361,
           "text": "[laughing]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 149,
+      "intervalle_debut": 2235,
+      "intervalle_fin": 2250,
+      "timecode_debut_extrait": 2235,
+      "timecode_fin_extrait": 2250,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0149_time_2235.00s-2250.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 817,
           "start": 2236.444,
@@ -5435,13 +6588,13 @@
       ]
     },
     {
-      "intervalle_index": 45,
+      "intervalle_index": 150,
       "intervalle_debut": 2250,
-      "intervalle_fin": 2300,
+      "intervalle_fin": 2265,
       "timecode_debut_extrait": 2250,
-      "timecode_fin_extrait": 2300,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0045_time_2250.00s-2300.00s.mp4",
-      "nombre_sous_titres": 16,
+      "timecode_fin_extrait": 2265,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0150_time_2250.00s-2265.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 823,
@@ -5472,7 +6625,18 @@
           "start": 2263.263,
           "end": 2267.642,
           "text": "[Rowley] \"Hiya, doc! Can I get a new butt? My old one has a crack in it.\""
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 151,
+      "intervalle_debut": 2265,
+      "intervalle_fin": 2280,
+      "timecode_debut_extrait": 2265,
+      "timecode_fin_extrait": 2280,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0151_time_2265.00s-2280.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 828,
           "start": 2267.726,
@@ -5502,7 +6666,18 @@
           "start": 2275.775,
           "end": 2279.738,
           "text": "I think it'd be funnier if he said, \"Zoo-Wee Mama!\""
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 152,
+      "intervalle_debut": 2280,
+      "intervalle_fin": 2295,
+      "timecode_debut_extrait": 2280,
+      "timecode_fin_extrait": 2295,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0152_time_2280.00s-2295.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 833,
           "start": 2282.782,
@@ -5532,24 +6707,24 @@
           "start": 2294.836,
           "end": 2296.838,
           "text": "You can write the comic, and I can draw it."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 153,
+      "intervalle_debut": 2295,
+      "intervalle_fin": 2310,
+      "timecode_debut_extrait": 2295,
+      "timecode_fin_extrait": 2310,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0153_time_2295.00s-2310.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 838,
           "start": 2297.589,
           "end": 2300.175,
           "text": "No offense, Rowley, but you don't even draw noses on people."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 46,
-      "intervalle_debut": 2300,
-      "intervalle_fin": 2350,
-      "timecode_debut_extrait": 2300,
-      "timecode_fin_extrait": 2350,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0046_time_2300.00s-2350.00s.mp4",
-      "nombre_sous_titres": 13,
-      "sous_titres": [
+        },
         {
           "index": 839,
           "start": 2300.258,
@@ -5567,7 +6742,18 @@
           "start": 2309.142,
           "end": 2310.185,
           "text": "Sounds good."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 154,
+      "intervalle_debut": 2310,
+      "intervalle_fin": 2325,
+      "timecode_debut_extrait": 2310,
+      "timecode_fin_extrait": 2325,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0154_time_2310.00s-2325.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 842,
           "start": 2314.314,
@@ -5585,7 +6771,18 @@
           "start": 2323.782,
           "end": 2327.077,
           "text": "-[school bell rings] -[chattering]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 155,
+      "intervalle_debut": 2325,
+      "intervalle_fin": 2340,
+      "timecode_debut_extrait": 2325,
+      "timecode_fin_extrait": 2340,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0155_time_2325.00s-2340.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 845,
           "start": 2327.16,
@@ -5615,7 +6812,18 @@
           "start": 2339.506,
           "end": 2342.634,
           "text": "we've made a decision on the cartoonist for the school paper."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 156,
+      "intervalle_debut": 2340,
+      "intervalle_fin": 2355,
+      "timecode_debut_extrait": 2340,
+      "timecode_fin_extrait": 2355,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0156_time_2340.00s-2355.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 850,
           "start": 2342.717,
@@ -5627,18 +6835,7 @@
           "start": 2345.178,
           "end": 2348.014,
           "text": "-Greg Heffley. -Yes! Yes!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 47,
-      "intervalle_debut": 2350,
-      "intervalle_fin": 2400,
-      "timecode_debut_extrait": 2350,
-      "timecode_fin_extrait": 2400,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0047_time_2350.00s-2400.00s.mp4",
-      "nombre_sous_titres": 21,
-      "sous_titres": [
+        },
         {
           "index": 852,
           "start": 2350.725,
@@ -5656,7 +6853,18 @@
           "start": 2354.729,
           "end": 2357.148,
           "text": "-That's the dude? -He wrote that?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 157,
+      "intervalle_debut": 2355,
+      "intervalle_fin": 2370,
+      "timecode_debut_extrait": 2355,
+      "timecode_fin_extrait": 2370,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0157_time_2355.00s-2370.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 855,
           "start": 2358.4,
@@ -5692,7 +6900,18 @@
           "start": 2368.368,
           "end": 2370.286,
           "text": "[boy] Aren't comics supposed to make you laugh?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 158,
+      "intervalle_debut": 2370,
+      "intervalle_fin": 2385,
+      "timecode_debut_extrait": 2370,
+      "timecode_fin_extrait": 2385,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0158_time_2370.00s-2385.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 861,
           "start": 2370.37,
@@ -5728,7 +6947,18 @@
           "start": 2383.383,
           "end": 2385.677,
           "text": "have Mr. Humphreys show you around"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 159,
+      "intervalle_debut": 2385,
+      "intervalle_fin": 2400,
+      "timecode_debut_extrait": 2385,
+      "timecode_fin_extrait": 2400,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0159_time_2385.00s-2400.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 867,
           "start": 2385.76,
@@ -5768,13 +6998,13 @@
       ]
     },
     {
-      "intervalle_index": 48,
+      "intervalle_index": 160,
       "intervalle_debut": 2400,
-      "intervalle_fin": 2450,
+      "intervalle_fin": 2415,
       "timecode_debut_extrait": 2400,
-      "timecode_fin_extrait": 2450,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0048_time_2400.00s-2450.00s.mp4",
-      "nombre_sous_titres": 20,
+      "timecode_fin_extrait": 2415,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0160_time_2400.00s-2415.00s.mp4",
+      "nombre_sous_titres": 8,
       "sous_titres": [
         {
           "index": 873,
@@ -5823,7 +7053,18 @@
           "start": 2414.164,
           "end": 2415.957,
           "text": "[students booing]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 161,
+      "intervalle_debut": 2415,
+      "intervalle_fin": 2430,
+      "timecode_debut_extrait": 2415,
+      "timecode_fin_extrait": 2430,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0161_time_2415.00s-2430.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 881,
           "start": 2416.041,
@@ -5859,7 +7100,18 @@
           "start": 2428.386,
           "end": 2432.307,
           "text": "[laughing]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 162,
+      "intervalle_debut": 2430,
+      "intervalle_fin": 2445,
+      "timecode_debut_extrait": 2430,
+      "timecode_fin_extrait": 2445,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0162_time_2430.00s-2445.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 887,
           "start": 2432.39,
@@ -5889,24 +7141,24 @@
           "start": 2441.858,
           "end": 2443.568,
           "text": "[boy 3] Zoo-Wee Mama!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 163,
+      "intervalle_debut": 2445,
+      "intervalle_fin": 2460,
+      "timecode_debut_extrait": 2445,
+      "timecode_fin_extrait": 2460,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0163_time_2445.00s-2460.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 892,
           "start": 2447.155,
           "end": 2450.2,
           "text": "[Greg] \"Hey, pretty lady. Do you wanna go on a date?\""
-        }
-      ]
-    },
-    {
-      "intervalle_index": 49,
-      "intervalle_debut": 2450,
-      "intervalle_fin": 2500,
-      "timecode_debut_extrait": 2450,
-      "timecode_fin_extrait": 2500,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0049_time_2450.00s-2500.00s.mp4",
-      "nombre_sous_titres": 17,
-      "sous_titres": [
+        },
         {
           "index": 893,
           "start": 2450.283,
@@ -5930,7 +7182,18 @@
           "start": 2457.29,
           "end": 2461.878,
           "text": "So a kid who can barely draw got his comic in the school paper?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 164,
+      "intervalle_debut": 2460,
+      "intervalle_fin": 2475,
+      "timecode_debut_extrait": 2460,
+      "timecode_fin_extrait": 2475,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0164_time_2460.00s-2475.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 897,
           "start": 2461.961,
@@ -5948,7 +7211,18 @@
           "start": 2473.598,
           "end": 2475.183,
           "text": "You stole my comic."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 165,
+      "intervalle_debut": 2475,
+      "intervalle_fin": 2490,
+      "timecode_debut_extrait": 2475,
+      "timecode_fin_extrait": 2490,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0165_time_2475.00s-2490.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 900,
           "start": 2475.266,
@@ -5990,7 +7264,18 @@
           "start": 2489.197,
           "end": 2491.783,
           "text": "[cheering]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 166,
+      "intervalle_debut": 2490,
+      "intervalle_fin": 2505,
+      "timecode_debut_extrait": 2490,
+      "timecode_fin_extrait": 2505,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0166_time_2490.00s-2505.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 907,
           "start": 2491.866,
@@ -6008,18 +7293,7 @@
           "start": 2497.831,
           "end": 2500.917,
           "text": "This comic, this lunch table, that cast."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 50,
-      "intervalle_debut": 2500,
-      "intervalle_fin": 2550,
-      "timecode_debut_extrait": 2500,
-      "timecode_fin_extrait": 2550,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0050_time_2500.00s-2550.00s.mp4",
-      "nombre_sous_titres": 17,
-      "sous_titres": [
+        },
         {
           "index": 910,
           "start": 2501.001,
@@ -6031,7 +7305,18 @@
           "start": 2503.461,
           "end": 2505.547,
           "text": "Yeah, because you broke my arm."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 167,
+      "intervalle_debut": 2505,
+      "intervalle_fin": 2520,
+      "timecode_debut_extrait": 2505,
+      "timecode_fin_extrait": 2520,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0167_time_2505.00s-2520.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 912,
           "start": 2505.63,
@@ -6055,7 +7340,18 @@
           "start": 2518.56,
           "end": 2520.895,
           "text": "-Zoo-Wee Mama! -[students] Oh!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 168,
+      "intervalle_debut": 2520,
+      "intervalle_fin": 2535,
+      "timecode_debut_extrait": 2520,
+      "timecode_fin_extrait": 2535,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0168_time_2520.00s-2535.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
         {
           "index": 916,
           "start": 2520.979,
@@ -6103,7 +7399,18 @@
           "start": 2534.2,
           "end": 2535.618,
           "text": "I love it."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 169,
+      "intervalle_debut": 2535,
+      "intervalle_fin": 2550,
+      "timecode_debut_extrait": 2535,
+      "timecode_fin_extrait": 2550,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0169_time_2535.00s-2550.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 924,
           "start": 2535.702,
@@ -6125,13 +7432,13 @@
       ]
     },
     {
-      "intervalle_index": 51,
+      "intervalle_index": 170,
       "intervalle_debut": 2550,
-      "intervalle_fin": 2600,
+      "intervalle_fin": 2565,
       "timecode_debut_extrait": 2550,
-      "timecode_fin_extrait": 2600,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0051_time_2550.00s-2600.00s.mp4",
-      "nombre_sous_titres": 10,
+      "timecode_fin_extrait": 2565,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0170_time_2550.00s-2565.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 927,
@@ -6156,7 +7463,18 @@
           "start": 2563.188,
           "end": 2565.19,
           "text": "-You wanna see my room? -Yeah."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 171,
+      "intervalle_debut": 2565,
+      "intervalle_fin": 2580,
+      "timecode_debut_extrait": 2565,
+      "timecode_fin_extrait": 2580,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0171_time_2565.00s-2580.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 931,
           "start": 2565.899,
@@ -6174,13 +7492,35 @@
           "start": 2571.279,
           "end": 2572.28,
           "text": "[sighs]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 172,
+      "intervalle_debut": 2580,
+      "intervalle_fin": 2595,
+      "timecode_debut_extrait": 2580,
+      "timecode_fin_extrait": 2595,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0172_time_2580.00s-2595.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 934,
           "start": 2586.795,
           "end": 2587.796,
           "text": "Yes! Come on!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 173,
+      "intervalle_debut": 2595,
+      "intervalle_fin": 2610,
+      "timecode_debut_extrait": 2595,
+      "timecode_fin_extrait": 2610,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0173_time_2595.00s-2610.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 935,
           "start": 2595.428,
@@ -6192,18 +7532,7 @@
           "start": 2597.138,
           "end": 2601.518,
           "text": "[door creaking]"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 52,
-      "intervalle_debut": 2600,
-      "intervalle_fin": 2650,
-      "timecode_debut_extrait": 2600,
-      "timecode_fin_extrait": 2650,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0052_time_2600.00s-2650.00s.mp4",
-      "nombre_sous_titres": 18,
-      "sous_titres": [
+        },
         {
           "index": 937,
           "start": 2602.894,
@@ -6221,7 +7550,18 @@
           "start": 2608.9,
           "end": 2610.777,
           "text": "[gasps, chuckles]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 174,
+      "intervalle_debut": 2610,
+      "intervalle_fin": 2625,
+      "timecode_debut_extrait": 2610,
+      "timecode_fin_extrait": 2625,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0174_time_2610.00s-2625.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 940,
           "start": 2610.86,
@@ -6263,7 +7603,18 @@
           "start": 2623.998,
           "end": 2626.835,
           "text": "Yeah. Right now. You and me. Just a couple of pals."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 175,
+      "intervalle_debut": 2625,
+      "intervalle_fin": 2640,
+      "timecode_debut_extrait": 2625,
+      "timecode_fin_extrait": 2640,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0175_time_2625.00s-2640.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 947,
           "start": 2626.918,
@@ -6293,7 +7644,18 @@
           "start": 2638.847,
           "end": 2640.265,
           "text": "Hey! [chuckles]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 176,
+      "intervalle_debut": 2640,
+      "intervalle_fin": 2655,
+      "timecode_debut_extrait": 2640,
+      "timecode_fin_extrait": 2655,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0176_time_2640.00s-2655.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 952,
           "start": 2642.726,
@@ -6311,24 +7673,24 @@
           "start": 2649.441,
           "end": 2652.152,
           "text": "You know, maybe we should take this one step at a time."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 53,
-      "intervalle_debut": 2650,
-      "intervalle_fin": 2700,
-      "timecode_debut_extrait": 2650,
-      "timecode_fin_extrait": 2700,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0053_time_2650.00s-2700.00s.mp4",
-      "nombre_sous_titres": 18,
-      "sous_titres": [
+        },
         {
           "index": 955,
           "start": 2652.235,
           "end": 2655.947,
           "text": "How about if we just play a quick game of cards and call it a night?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 177,
+      "intervalle_debut": 2655,
+      "intervalle_fin": 2670,
+      "timecode_debut_extrait": 2655,
+      "timecode_fin_extrait": 2670,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0177_time_2655.00s-2670.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 956,
           "start": 2659.159,
@@ -6364,7 +7726,18 @@
           "start": 2669.878,
           "end": 2672.881,
           "text": "[Fregley's mother] Oh, Fregley. Do you have a playmate over?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 178,
+      "intervalle_debut": 2670,
+      "intervalle_fin": 2685,
+      "timecode_debut_extrait": 2670,
+      "timecode_fin_extrait": 2685,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0178_time_2670.00s-2685.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 962,
           "start": 2672.964,
@@ -6400,7 +7773,18 @@
           "start": 2684.642,
           "end": 2685.685,
           "text": "Woo-hoo!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 179,
+      "intervalle_debut": 2685,
+      "intervalle_fin": 2700,
+      "timecode_debut_extrait": 2685,
+      "timecode_fin_extrait": 2700,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0179_time_2685.00s-2700.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 968,
           "start": 2686.311,
@@ -6434,13 +7818,13 @@
       ]
     },
     {
-      "intervalle_index": 54,
+      "intervalle_index": 180,
       "intervalle_debut": 2700,
-      "intervalle_fin": 2750,
+      "intervalle_fin": 2715,
       "timecode_debut_extrait": 2700,
-      "timecode_fin_extrait": 2750,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0054_time_2700.00s-2750.00s.mp4",
-      "nombre_sous_titres": 18,
+      "timecode_fin_extrait": 2715,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0180_time_2700.00s-2715.00s.mp4",
+      "nombre_sous_titres": 7,
       "sous_titres": [
         {
           "index": 973,
@@ -6483,7 +7867,18 @@
           "start": 2714.13,
           "end": 2715.465,
           "text": "Give me some space here."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 181,
+      "intervalle_debut": 2715,
+      "intervalle_fin": 2730,
+      "timecode_debut_extrait": 2715,
+      "timecode_fin_extrait": 2730,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0181_time_2715.00s-2730.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 980,
           "start": 2715.548,
@@ -6513,7 +7908,18 @@
           "start": 2729.104,
           "end": 2732.565,
           "text": "Fregley! That's the only candy bar I had that wasn't wet."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 182,
+      "intervalle_debut": 2730,
+      "intervalle_fin": 2745,
+      "timecode_debut_extrait": 2730,
+      "timecode_fin_extrait": 2745,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0182_time_2730.00s-2745.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 985,
           "start": 2732.649,
@@ -6537,7 +7943,18 @@
           "start": 2742.659,
           "end": 2746.204,
           "text": "-Fregley, are you okay? Fregley! -[laughing]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 183,
+      "intervalle_debut": 2745,
+      "intervalle_fin": 2760,
+      "timecode_debut_extrait": 2745,
+      "timecode_fin_extrait": 2760,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0183_time_2745.00s-2760.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 989,
           "start": 2746.287,
@@ -6549,18 +7966,7 @@
           "start": 2748.915,
           "end": 2751.376,
           "text": "Hey, Greg."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 55,
-      "intervalle_debut": 2750,
-      "intervalle_fin": 2800,
-      "timecode_debut_extrait": 2750,
-      "timecode_fin_extrait": 2800,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0055_time_2750.00s-2800.00s.mp4",
-      "nombre_sous_titres": 14,
-      "sous_titres": [
+        },
         {
           "index": 991,
           "start": 2751.96,
@@ -6578,7 +7984,18 @@
           "start": 2758.883,
           "end": 2759.926,
           "text": "-[groans] -Hey!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 184,
+      "intervalle_debut": 2760,
+      "intervalle_fin": 2775,
+      "timecode_debut_extrait": 2760,
+      "timecode_fin_extrait": 2775,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0184_time_2760.00s-2775.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 994,
           "start": 2760.51,
@@ -6596,7 +8013,18 @@
           "start": 2765.39,
           "end": 2767.684,
           "text": "while I waited for his sugar high to wear off."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 185,
+      "intervalle_debut": 2775,
+      "intervalle_fin": 2790,
+      "timecode_debut_extrait": 2775,
+      "timecode_fin_extrait": 2790,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0185_time_2775.00s-2790.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 997,
           "start": 2776.818,
@@ -6626,7 +8054,18 @@
           "start": 2788.83,
           "end": 2790.165,
           "text": "What the--"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 186,
+      "intervalle_debut": 2790,
+      "intervalle_fin": 2805,
+      "timecode_debut_extrait": 2790,
+      "timecode_fin_extrait": 2805,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0186_time_2790.00s-2805.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 1002,
           "start": 2790.749,
@@ -6648,20 +8087,31 @@
       ]
     },
     {
-      "intervalle_index": 56,
-      "intervalle_debut": 2800,
-      "intervalle_fin": 2850,
-      "timecode_debut_extrait": 2800,
-      "timecode_fin_extrait": 2850,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0056_time_2800.00s-2850.00s.mp4",
-      "nombre_sous_titres": 9,
+      "intervalle_index": 187,
+      "intervalle_debut": 2805,
+      "intervalle_fin": 2820,
+      "timecode_debut_extrait": 2805,
+      "timecode_fin_extrait": 2820,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0187_time_2805.00s-2820.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 1005,
           "start": 2806.306,
           "end": 2809.309,
           "text": "[chattering continues]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 188,
+      "intervalle_debut": 2820,
+      "intervalle_fin": 2835,
+      "timecode_debut_extrait": 2820,
+      "timecode_fin_extrait": 2835,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0188_time_2820.00s-2835.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 1006,
           "start": 2824.282,
@@ -6673,7 +8123,18 @@
           "start": 2829.496,
           "end": 2831.498,
           "text": "-[chattering] -[grunts]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 189,
+      "intervalle_debut": 2835,
+      "intervalle_fin": 2850,
+      "timecode_debut_extrait": 2835,
+      "timecode_fin_extrait": 2850,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0189_time_2835.00s-2850.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 1008,
           "start": 2836.461,
@@ -6713,13 +8174,13 @@
       ]
     },
     {
-      "intervalle_index": 57,
+      "intervalle_index": 190,
       "intervalle_debut": 2850,
-      "intervalle_fin": 2900,
+      "intervalle_fin": 2865,
       "timecode_debut_extrait": 2850,
-      "timecode_fin_extrait": 2900,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0057_time_2850.00s-2900.00s.mp4",
-      "nombre_sous_titres": 20,
+      "timecode_fin_extrait": 2865,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0190_time_2850.00s-2865.00s.mp4",
+      "nombre_sous_titres": 7,
       "sous_titres": [
         {
           "index": 1014,
@@ -6762,7 +8223,18 @@
           "start": 2864.239,
           "end": 2867.45,
           "text": "You haven't been the same ever since you got that stupid cast."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 191,
+      "intervalle_debut": 2865,
+      "intervalle_fin": 2880,
+      "timecode_debut_extrait": 2865,
+      "timecode_fin_extrait": 2880,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0191_time_2865.00s-2880.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 1021,
           "start": 2867.534,
@@ -6798,7 +8270,18 @@
           "start": 2878.962,
           "end": 2881.881,
           "text": "-[boy 2] Why don't you make a move? -[girl 2] Unless you're chicken."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 192,
+      "intervalle_debut": 2880,
+      "intervalle_fin": 2895,
+      "timecode_debut_extrait": 2880,
+      "timecode_fin_extrait": 2895,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0192_time_2880.00s-2895.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 1027,
           "start": 2881.965,
@@ -6828,7 +8311,18 @@
           "start": 2893.435,
           "end": 2895.937,
           "text": "Who taught you how to fight? Your granny?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 193,
+      "intervalle_debut": 2895,
+      "intervalle_fin": 2910,
+      "timecode_debut_extrait": 2895,
+      "timecode_fin_extrait": 2910,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0193_time_2895.00s-2910.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 1032,
           "start": 2896.021,
@@ -6840,18 +8334,7 @@
           "start": 2899.649,
           "end": 2901.568,
           "text": "Do they even know how to do this?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 58,
-      "intervalle_debut": 2900,
-      "intervalle_fin": 2950,
-      "timecode_debut_extrait": 2900,
-      "timecode_fin_extrait": 2950,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0058_time_2900.00s-2950.00s.mp4",
-      "nombre_sous_titres": 19,
-      "sous_titres": [
+        },
         {
           "index": 1034,
           "start": 2902.235,
@@ -6881,7 +8364,18 @@
           "start": 2909.951,
           "end": 2910.952,
           "text": "[music stops]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 194,
+      "intervalle_debut": 2910,
+      "intervalle_fin": 2925,
+      "timecode_debut_extrait": 2910,
+      "timecode_fin_extrait": 2925,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0194_time_2910.00s-2925.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 1039,
           "start": 2911.745,
@@ -6911,7 +8405,18 @@
           "start": 2924.591,
           "end": 2927.927,
           "text": "But, like, how are they gonna pay?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 195,
+      "intervalle_debut": 2925,
+      "intervalle_fin": 2940,
+      "timecode_debut_extrait": 2925,
+      "timecode_fin_extrait": 2940,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0195_time_2925.00s-2940.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 1044,
           "start": 2928.011,
@@ -6947,7 +8452,18 @@
           "start": 2938.563,
           "end": 2942.359,
           "text": "Okay. Now we're all on the same page. [chuckles]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 196,
+      "intervalle_debut": 2940,
+      "intervalle_fin": 2955,
+      "timecode_debut_extrait": 2940,
+      "timecode_fin_extrait": 2955,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0196_time_2940.00s-2955.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 1050,
           "start": 2943.151,
@@ -6965,18 +8481,7 @@
           "start": 2948.114,
           "end": 2949.991,
           "text": "I am thinking."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 59,
-      "intervalle_debut": 2950,
-      "intervalle_fin": 3000,
-      "timecode_debut_extrait": 2950,
-      "timecode_fin_extrait": 3000,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0059_time_2950.00s-3000.00s.mp4",
-      "nombre_sous_titres": 18,
-      "sous_titres": [
+        },
         {
           "index": 1053,
           "start": 2950.075,
@@ -6994,7 +8499,18 @@
           "start": 2953.453,
           "end": 2960.001,
           "text": "Nah. My mom made me put it back in the house for \"fires.\""
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 197,
+      "intervalle_debut": 2955,
+      "intervalle_fin": 2970,
+      "timecode_debut_extrait": 2955,
+      "timecode_fin_extrait": 2970,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0197_time_2955.00s-2970.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 1056,
           "start": 2960.085,
@@ -7018,7 +8534,18 @@
           "start": 2969.26,
           "end": 2970.261,
           "text": "[gags]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 198,
+      "intervalle_debut": 2970,
+      "intervalle_fin": 2985,
+      "timecode_debut_extrait": 2970,
+      "timecode_fin_extrait": 2985,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0198_time_2970.00s-2985.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 1060,
           "start": 2970.345,
@@ -7054,7 +8581,18 @@
           "start": 2982.691,
           "end": 2984.234,
           "text": "he won't have a chance."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 199,
+      "intervalle_debut": 2985,
+      "intervalle_fin": 3000,
+      "timecode_debut_extrait": 2985,
+      "timecode_fin_extrait": 3000,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0199_time_2985.00s-3000.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 1066,
           "start": 2986.486,
@@ -7088,13 +8626,13 @@
       ]
     },
     {
-      "intervalle_index": 60,
+      "intervalle_index": 200,
       "intervalle_debut": 3000,
-      "intervalle_fin": 3050,
+      "intervalle_fin": 3015,
       "timecode_debut_extrait": 3000,
-      "timecode_fin_extrait": 3050,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0060_time_3000.00s-3050.00s.mp4",
-      "nombre_sous_titres": 12,
+      "timecode_fin_extrait": 3015,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0200_time_3000.00s-3015.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 1071,
@@ -7125,7 +8663,18 @@
           "start": 3013.346,
           "end": 3014.347,
           "text": "[fly buzzing]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 201,
+      "intervalle_debut": 3015,
+      "intervalle_fin": 3030,
+      "timecode_debut_extrait": 3015,
+      "timecode_fin_extrait": 3030,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0201_time_3015.00s-3030.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 1076,
           "start": 3026.276,
@@ -7137,7 +8686,18 @@
           "start": 3029.988,
           "end": 3033.033,
           "text": "-[whistle blows] -Huh?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 202,
+      "intervalle_debut": 3030,
+      "intervalle_fin": 3045,
+      "timecode_debut_extrait": 3030,
+      "timecode_fin_extrait": 3045,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0202_time_3030.00s-3045.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 1078,
           "start": 3033.116,
@@ -7155,7 +8715,18 @@
           "start": 3041.75,
           "end": 3042.751,
           "text": "You boys okay?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 203,
+      "intervalle_debut": 3045,
+      "intervalle_fin": 3060,
+      "timecode_debut_extrait": 3045,
+      "timecode_fin_extrait": 3060,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0203_time_3045.00s-3060.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 1081,
           "start": 3046.921,
@@ -7167,18 +8738,7 @@
           "start": 3048.965,
           "end": 3051.259,
           "text": "-What's going on? -What's going on over here?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 61,
-      "intervalle_debut": 3050,
-      "intervalle_fin": 3100,
-      "timecode_debut_extrait": 3050,
-      "timecode_fin_extrait": 3100,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0061_time_3050.00s-3100.00s.mp4",
-      "nombre_sous_titres": 21,
-      "sous_titres": [
+        },
         {
           "index": 1083,
           "start": 3051.343,
@@ -7208,7 +8768,18 @@
           "start": 3058.558,
           "end": 3061.728,
           "text": "[students gasping, gagging]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 204,
+      "intervalle_debut": 3060,
+      "intervalle_fin": 3075,
+      "timecode_debut_extrait": 3060,
+      "timecode_fin_extrait": 3075,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0204_time_3060.00s-3075.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 1088,
           "start": 3061.811,
@@ -7238,7 +8809,18 @@
           "start": 3072.781,
           "end": 3075.492,
           "text": "That's all you need to get by in this world, you know?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 205,
+      "intervalle_debut": 3075,
+      "intervalle_fin": 3090,
+      "timecode_debut_extrait": 3075,
+      "timecode_fin_extrait": 3090,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0205_time_3075.00s-3090.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 1093,
           "start": 3075.575,
@@ -7280,7 +8862,18 @@
           "start": 3088.129,
           "end": 3092.884,
           "text": "-Greg Heffley has the Cheese Touch! -[all gasping]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 206,
+      "intervalle_debut": 3090,
+      "intervalle_fin": 3105,
+      "timecode_debut_extrait": 3090,
+      "timecode_fin_extrait": 3105,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0206_time_3090.00s-3105.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 1100,
           "start": 3092.967,
@@ -7304,18 +8897,7 @@
           "start": 3098.807,
           "end": 3101.351,
           "text": "[students chattering, screaming]"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 62,
-      "intervalle_debut": 3100,
-      "intervalle_fin": 3150,
-      "timecode_debut_extrait": 3100,
-      "timecode_fin_extrait": 3150,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0062_time_3100.00s-3150.00s.mp4",
-      "nombre_sous_titres": 16,
-      "sous_titres": [
+        },
         {
           "index": 1104,
           "start": 3101.434,
@@ -7327,7 +8909,18 @@
           "start": 3104.437,
           "end": 3107.982,
           "text": "but sometimes you have to do that sort of thing to help a friend."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 207,
+      "intervalle_debut": 3105,
+      "intervalle_fin": 3120,
+      "timecode_debut_extrait": 3105,
+      "timecode_fin_extrait": 3120,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0207_time_3105.00s-3120.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 1106,
           "start": 3108.733,
@@ -7351,7 +8944,18 @@
           "start": 3115.99,
           "end": 3118.243,
           "text": "Yeah. That'd be good."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 208,
+      "intervalle_debut": 3120,
+      "intervalle_fin": 3135,
+      "timecode_debut_extrait": 3120,
+      "timecode_fin_extrait": 3135,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0208_time_3120.00s-3135.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 1110,
           "start": 3125.083,
@@ -7375,7 +8979,18 @@
           "start": 3133.967,
           "end": 3136.094,
           "text": "[Greg] I could've taken you with my eyes closed."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 209,
+      "intervalle_debut": 3135,
+      "intervalle_fin": 3150,
+      "timecode_debut_extrait": 3135,
+      "timecode_fin_extrait": 3150,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0209_time_3135.00s-3150.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 1114,
           "start": 3136.177,
@@ -7415,13 +9030,13 @@
       ]
     },
     {
-      "intervalle_index": 63,
+      "intervalle_index": 210,
       "intervalle_debut": 3150,
-      "intervalle_fin": 3200,
+      "intervalle_fin": 3165,
       "timecode_debut_extrait": 3150,
-      "timecode_fin_extrait": 3200,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0063_time_3150.00s-3200.00s.mp4",
-      "nombre_sous_titres": 17,
+      "timecode_fin_extrait": 3165,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0210_time_3150.00s-3165.00s.mp4",
+      "nombre_sous_titres": 6,
       "sous_titres": [
         {
           "index": 1120,
@@ -7458,7 +9073,18 @@
           "start": 3164.622,
           "end": 3165.623,
           "text": "-Run! -[screams]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 211,
+      "intervalle_debut": 3165,
+      "intervalle_fin": 3180,
+      "timecode_debut_extrait": 3165,
+      "timecode_fin_extrait": 3180,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0211_time_3165.00s-3180.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 1126,
           "start": 3165.707,
@@ -7482,7 +9108,18 @@
           "start": 3178.47,
           "end": 3180.138,
           "text": "[chattering]"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 212,
+      "intervalle_debut": 3180,
+      "intervalle_fin": 3195,
+      "timecode_debut_extrait": 3180,
+      "timecode_fin_extrait": 3195,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0212_time_3180.00s-3195.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 1130,
           "start": 3180.221,
@@ -7506,7 +9143,18 @@
           "start": 3190.44,
           "end": 3193.401,
           "text": "I'll let everyone know who really ate the you-know-what."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 213,
+      "intervalle_debut": 3195,
+      "intervalle_fin": 3210,
+      "timecode_debut_extrait": 3195,
+      "timecode_fin_extrait": 3210,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0213_time_3195.00s-3210.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 1134,
           "start": 3196.154,
@@ -7524,18 +9172,7 @@
           "start": 3199.824,
           "end": 3201.326,
           "text": "-I got you. -[video game beeping]"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 64,
-      "intervalle_debut": 3200,
-      "intervalle_fin": 3250,
-      "timecode_debut_extrait": 3200,
-      "timecode_fin_extrait": 3250,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0064_time_3200.00s-3250.00s.mp4",
-      "nombre_sous_titres": 3,
-      "sous_titres": [
+        },
         {
           "index": 1137,
           "start": 3201.409,
@@ -7557,32 +9194,112 @@
       ]
     },
     {
-      "intervalle_index": 65,
-      "intervalle_debut": 3250,
+      "intervalle_index": 214,
+      "intervalle_debut": 3210,
+      "intervalle_fin": 3225,
+      "timecode_debut_extrait": 3210,
+      "timecode_fin_extrait": 3225,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0214_time_3210.00s-3225.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 215,
+      "intervalle_debut": 3225,
+      "intervalle_fin": 3240,
+      "timecode_debut_extrait": 3225,
+      "timecode_fin_extrait": 3240,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0215_time_3225.00s-3240.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 216,
+      "intervalle_debut": 3240,
+      "intervalle_fin": 3255,
+      "timecode_debut_extrait": 3240,
+      "timecode_fin_extrait": 3255,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0216_time_3240.00s-3255.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 217,
+      "intervalle_debut": 3255,
+      "intervalle_fin": 3270,
+      "timecode_debut_extrait": 3255,
+      "timecode_fin_extrait": 3270,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0217_time_3255.00s-3270.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 218,
+      "intervalle_debut": 3270,
+      "intervalle_fin": 3285,
+      "timecode_debut_extrait": 3270,
+      "timecode_fin_extrait": 3285,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0218_time_3270.00s-3285.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 219,
+      "intervalle_debut": 3285,
       "intervalle_fin": 3300,
-      "timecode_debut_extrait": 3250,
+      "timecode_debut_extrait": 3285,
       "timecode_fin_extrait": 3300,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0065_time_3250.00s-3300.00s.mp4",
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0219_time_3285.00s-3300.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 66,
+      "intervalle_index": 220,
       "intervalle_debut": 3300,
-      "intervalle_fin": 3350,
+      "intervalle_fin": 3315,
       "timecode_debut_extrait": 3300,
-      "timecode_fin_extrait": 3350,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0066_time_3300.00s-3350.00s.mp4",
+      "timecode_fin_extrait": 3315,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0220_time_3300.00s-3315.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 67,
-      "intervalle_debut": 3350,
+      "intervalle_index": 221,
+      "intervalle_debut": 3315,
+      "intervalle_fin": 3330,
+      "timecode_debut_extrait": 3315,
+      "timecode_fin_extrait": 3330,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0221_time_3315.00s-3330.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 222,
+      "intervalle_debut": 3330,
+      "intervalle_fin": 3345,
+      "timecode_debut_extrait": 3330,
+      "timecode_fin_extrait": 3345,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0222_time_3330.00s-3345.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 223,
+      "intervalle_debut": 3345,
+      "intervalle_fin": 3360,
+      "timecode_debut_extrait": 3345,
+      "timecode_fin_extrait": 3360,
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0223_time_3345.00s-3360.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 224,
+      "intervalle_debut": 3360,
       "intervalle_fin": 3370.144,
-      "timecode_debut_extrait": 3350,
+      "timecode_debut_extrait": 3360,
       "timecode_fin_extrait": 3370.144,
-      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0067_time_3350.00s-3370.14s.mp4",
+      "video_path": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]\\interval_0224_time_3360.00s-3370.14s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     }

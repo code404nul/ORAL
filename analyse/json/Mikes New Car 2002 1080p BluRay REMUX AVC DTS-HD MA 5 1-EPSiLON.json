@@ -2,19 +2,29 @@
   "movie_id": "Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON",
   "movie_path": "E:\\film_oral\\Mike's New Car (2002)\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON.mkv",
   "subtitle_path": "E:\\film_oral\\Mike's New Car (2002)\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON.en.srt",
-  "intervalle_secondes": 50,
-  "nombre_intervalles": 5,
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 17,
   "dossier_videos": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON",
-  "date_traitement": "2026-02-10T12:48:01.912121",
+  "date_traitement": "2026-02-10T21:25:34.539948",
   "intervalles": [
     {
       "intervalle_index": 0,
       "intervalle_debut": 0,
-      "intervalle_fin": 50,
+      "intervalle_fin": 15,
       "timecode_debut_extrait": 0,
-      "timecode_fin_extrait": 50,
-      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0000_time_0.00s-50.00s.mp4",
-      "nombre_sous_titres": 9,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 1,
@@ -45,7 +55,18 @@
           "start": 29.948,
           "end": 32.785,
           "text": "Ta-da! What do you think?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 6,
           "start": 33.913,
@@ -63,7 +84,18 @@
           "start": 40.007,
           "end": 42.084,
           "text": "Come on. Get in, get in, get in."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 9,
           "start": 46.685,
@@ -73,13 +105,13 @@
       ]
     },
     {
-      "intervalle_index": 1,
-      "intervalle_debut": 50,
-      "intervalle_fin": 100,
-      "timecode_debut_extrait": 50,
-      "timecode_fin_extrait": 100,
-      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0001_time_50.00s-100.00s.mp4",
-      "nombre_sous_titres": 4,
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": 10,
@@ -92,13 +124,35 @@
           "start": 73.188,
           "end": 75.764,
           "text": "It's like we've released a panther."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 12,
           "start": 76.653,
           "end": 78.528,
           "text": "What? What, what?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 13,
           "start": 90.718,
@@ -108,13 +162,13 @@
       ]
     },
     {
-      "intervalle_index": 2,
-      "intervalle_debut": 100,
-      "intervalle_fin": 150,
-      "timecode_debut_extrait": 100,
-      "timecode_fin_extrait": 150,
-      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0002_time_100.00s-150.00s.mp4",
-      "nombre_sous_titres": 4,
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 14,
@@ -133,7 +187,28 @@
           "start": 119.768,
           "end": 121.726,
           "text": "<i>- Hello. - Push the button.</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 17,
           "start": 147.064,
@@ -143,12 +218,32 @@
       ]
     },
     {
-      "intervalle_index": 3,
+      "intervalle_index": 10,
       "intervalle_debut": 150,
-      "intervalle_fin": 200,
+      "intervalle_fin": 165,
       "timecode_debut_extrait": 150,
-      "timecode_fin_extrait": 200,
-      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0003_time_150.00s-200.00s.mp4",
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0012_time_180.00s-195.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -166,13 +261,13 @@
       ]
     },
     {
-      "intervalle_index": 4,
-      "intervalle_debut": 200,
-      "intervalle_fin": 240.395,
-      "timecode_debut_extrait": 200,
-      "timecode_fin_extrait": 240.395,
-      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0004_time_200.00s-240.40s.mp4",
-      "nombre_sous_titres": 7,
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": 20,
@@ -185,7 +280,18 @@
           "start": 209.421,
           "end": 211.747,
           "text": "I miss my old car."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 22,
           "start": 212.927,
@@ -209,7 +315,18 @@
           "start": 222.902,
           "end": 224.979,
           "text": "You wanna walk?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 26,
           "start": 225.907,
@@ -217,6 +334,16 @@
           "text": "Yes."
         }
       ]
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 240.395,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 240.395,
+      "video_path": null,
+      "nombre_sous_titres": 0,
+      "sous_titres": []
     }
   ]
 }

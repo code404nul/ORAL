@@ -2,37 +2,56 @@
   "movie_id": "Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX",
   "movie_path": "E:\\film_oral\\Tummy Trouble (1989)\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX.mkv",
   "subtitle_path": "E:\\film_oral\\Tummy Trouble (1989)\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX.en.srt",
-  "intervalle_secondes": 50,
-  "nombre_intervalles": 10,
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 33,
   "dossier_videos": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX",
-  "date_traitement": "2026-02-10T14:00:07.867153",
+  "date_traitement": "2026-02-10T22:02:38.089184",
   "intervalles": [
     {
       "intervalle_index": 0,
       "intervalle_debut": 0,
-      "intervalle_fin": 50,
+      "intervalle_fin": 15,
       "timecode_debut_extrait": 0,
-      "timecode_fin_extrait": 50,
-      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0000_time_0.00s-50.00s.mp4",
-      "nombre_sous_titres": 1,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 1,
           "start": 49.175,
           "end": 54.054,
           "text": "Snookums, don't cry, Mommy will only be gone for an hour."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 1,
-      "intervalle_debut": 50,
-      "intervalle_fin": 100,
-      "timecode_debut_extrait": 50,
-      "timecode_fin_extrait": 100,
-      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0001_time_50.00s-100.00s.mp4",
-      "nombre_sous_titres": 8,
-      "sous_titres": [
+        },
         {
           "index": 2,
           "start": 54.138,
@@ -44,7 +63,18 @@
           "start": 59.727,
           "end": 61.978,
           "text": "Not like last time!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 4,
           "start": 62.063,
@@ -62,7 +92,18 @@
           "start": 73.616,
           "end": 77.577,
           "text": "You don't want to get your old pal Roger in trouble, do you?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 7,
           "start": 77.662,
@@ -74,7 +115,18 @@
           "start": 80.831,
           "end": 84.376,
           "text": "Look, it's a bright shiny rattle."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 9,
           "start": 92.718,
@@ -84,13 +136,13 @@
       ]
     },
     {
-      "intervalle_index": 2,
-      "intervalle_debut": 100,
-      "intervalle_fin": 150,
-      "timecode_debut_extrait": 100,
-      "timecode_fin_extrait": 150,
-      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0002_time_100.00s-150.00s.mp4",
-      "nombre_sous_titres": 9,
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 10,
@@ -109,7 +161,18 @@
           "start": 119.495,
           "end": 121.162,
           "text": "To me."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 13,
           "start": 121.872,
@@ -133,7 +196,18 @@
           "start": 131.382,
           "end": 133.675,
           "text": "Oh! Oh! Oh!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 17,
           "start": 138.681,
@@ -149,13 +223,13 @@
       ]
     },
     {
-      "intervalle_index": 3,
+      "intervalle_index": 10,
       "intervalle_debut": 150,
-      "intervalle_fin": 200,
+      "intervalle_fin": 165,
       "timecode_debut_extrait": 150,
-      "timecode_fin_extrait": 200,
-      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0003_time_150.00s-200.00s.mp4",
-      "nombre_sous_titres": 9,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": 19,
@@ -168,7 +242,18 @@
           "start": 163.039,
           "end": 166.333,
           "text": "Baby Herman swallowed rattle."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 21,
           "start": 168.919,
@@ -186,13 +271,35 @@
           "start": 176.302,
           "end": 179.804,
           "text": "You guys are making a big mistake. You don't know who I am."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 24,
           "start": 185.603,
           "end": 187.645,
           "text": "Anesthetic!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 25,
           "start": 195.738,
@@ -210,24 +317,24 @@
           "start": 199.95,
           "end": 200.95,
           "text": "Oh!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 4,
-      "intervalle_debut": 200,
-      "intervalle_fin": 250,
-      "timecode_debut_extrait": 200,
-      "timecode_fin_extrait": 250,
-      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0004_time_200.00s-250.00s.mp4",
-      "nombre_sous_titres": 10,
-      "sous_titres": [
+        },
         {
           "index": 28,
           "start": 208.376,
           "end": 210.335,
           "text": "Bottle. Ah!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 29,
           "start": 211.629,
@@ -251,7 +358,18 @@
           "start": 220.346,
           "end": 224.516,
           "text": "Hey, let go of the cotton, you swab."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 33,
           "start": 234.568,
@@ -263,7 +381,18 @@
           "start": 236.153,
           "end": 238.988,
           "text": "Just give me a bicarb, I'll be fine."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 35,
           "start": 243.494,
@@ -281,18 +410,7 @@
           "start": 249.333,
           "end": 252.544,
           "text": "Hey, it's Baby Herman! Jeepers, am I glad to..."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 5,
-      "intervalle_debut": 250,
-      "intervalle_fin": 300,
-      "timecode_debut_extrait": 250,
-      "timecode_fin_extrait": 300,
-      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0005_time_250.00s-300.00s.mp4",
-      "nombre_sous_titres": 10,
-      "sous_titres": [
+        },
         {
           "index": 38,
           "start": 252.628,
@@ -304,7 +422,18 @@
           "start": 254.338,
           "end": 256.339,
           "text": "Bottle. Oh!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 40,
           "start": 257.007,
@@ -334,13 +463,35 @@
           "start": 269.77,
           "end": 271.604,
           "text": "Wow!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 45,
           "start": 271.689,
           "end": 274.524,
           "text": "Baby Herman, come down from there."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 46,
           "start": 294.503,
@@ -356,20 +507,41 @@
       ]
     },
     {
-      "intervalle_index": 6,
+      "intervalle_index": 20,
       "intervalle_debut": 300,
-      "intervalle_fin": 350,
+      "intervalle_fin": 315,
       "timecode_debut_extrait": 300,
-      "timecode_fin_extrait": 350,
-      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0006_time_300.00s-350.00s.mp4",
-      "nombre_sous_titres": 4,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 48,
           "start": 322.072,
           "end": 323.114,
           "text": "Got you!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 49,
           "start": 331.916,
@@ -381,24 +553,24 @@
           "start": 340.257,
           "end": 342.967,
           "text": "Gruesome, isn't it, folks?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 51,
           "start": 345.513,
           "end": 348.223,
           "text": "Baby Herman. Baby, Baby..."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 7,
-      "intervalle_debut": 350,
-      "intervalle_fin": 400,
-      "timecode_debut_extrait": 350,
-      "timecode_fin_extrait": 400,
-      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0007_time_350.00s-400.00s.mp4",
-      "nombre_sous_titres": 5,
-      "sous_titres": [
+        },
         {
           "index": 52,
           "start": 356.69,
@@ -410,19 +582,52 @@
           "start": 358.859,
           "end": 364.531,
           "text": "Well, Baby Herman, it looks like smooth sailing from now on."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 54,
           "start": 366.951,
           "end": 368.785,
           "text": "Oh, no!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 55,
           "start": 389.431,
           "end": 393.017,
           "text": "Baby Herman, the rattle, we're cured."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 56,
           "start": 393.102,
@@ -432,13 +637,13 @@
       ]
     },
     {
-      "intervalle_index": 8,
-      "intervalle_debut": 400,
-      "intervalle_fin": 450,
-      "timecode_debut_extrait": 400,
-      "timecode_fin_extrait": 450,
-      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0008_time_400.00s-450.00s.mp4",
-      "nombre_sous_titres": 16,
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 57,
@@ -469,7 +674,18 @@
           "start": 418.711,
           "end": 420.753,
           "text": "Jeepers, Baby Herman, calm down."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 62,
           "start": 420.838,
@@ -499,7 +715,18 @@
           "start": 432.641,
           "end": 437.061,
           "text": "Jeepers, what do we play? Tiddlywinks, canasta, Parcheesi?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 67,
           "start": 437.146,
@@ -539,12 +766,12 @@
       ]
     },
     {
-      "intervalle_index": 9,
+      "intervalle_index": 30,
       "intervalle_debut": 450,
-      "intervalle_fin": 483.754,
+      "intervalle_fin": 465,
       "timecode_debut_extrait": 450,
-      "timecode_fin_extrait": 483.754,
-      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0009_time_450.00s-483.75s.mp4",
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0030_time_450.00s-465.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -566,6 +793,26 @@
           "text": "Oh!"
         }
       ]
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 483.754,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 483.754,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0032_time_480.00s-483.75s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
     }
   ]
 }

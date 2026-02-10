@@ -2,26 +2,47 @@
   "movie_id": "The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS",
   "movie_path": "E:\\film_oral\\The Hunchback of Notre Dame II (2002)\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS.mp4",
   "subtitle_path": "E:\\film_oral\\The Hunchback of Notre Dame II (2002)\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS.en.srt",
-  "intervalle_secondes": 50,
-  "nombre_intervalles": 80,
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 264,
   "dossier_videos": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS",
-  "date_traitement": "2026-02-10T13:34:13.046267",
+  "date_traitement": "2026-02-10T21:44:20.869321",
   "intervalles": [
     {
       "intervalle_index": 0,
       "intervalle_debut": 0,
-      "intervalle_fin": 50,
+      "intervalle_fin": 15,
       "timecode_debut_extrait": 0,
-      "timecode_fin_extrait": 50,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0000_time_0.00s-50.00s.mp4",
-      "nombre_sous_titres": 2,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 1,
           "start": 27.19,
           "end": 30.72,
           "text": "Hey, come back! Wait up!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 2,
           "start": 34.2,
@@ -31,13 +52,33 @@
       ]
     },
     {
-      "intervalle_index": 1,
-      "intervalle_debut": 50,
-      "intervalle_fin": 100,
-      "timecode_debut_extrait": 50,
-      "timecode_fin_extrait": 100,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0001_time_50.00s-100.00s.mp4",
-      "nombre_sous_titres": 6,
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": 3,
@@ -50,7 +91,18 @@
           "start": 88.12,
           "end": 90.31,
           "text": "<i>The streets have come alive</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 5,
           "start": 90.46,
@@ -74,24 +126,24 @@
           "start": 99.96,
           "end": 102.43,
           "text": "<i>We just can't wait to celebrate</i>"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 2,
-      "intervalle_debut": 100,
-      "intervalle_fin": 150,
-      "timecode_debut_extrait": 100,
-      "timecode_fin_extrait": 150,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0002_time_100.00s-150.00s.mp4",
-      "nombre_sous_titres": 15,
-      "sous_titres": [
+        },
         {
           "index": 9,
           "start": 102.57,
           "end": 105.66,
           "text": "<i>Our favorite holiday</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 10,
           "start": 105.8,
@@ -127,7 +179,18 @@
           "start": 116.98,
           "end": 120.28,
           "text": "<i>Will soon be ringing clear</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 16,
           "start": 120.38,
@@ -157,7 +220,18 @@
           "start": 132.4,
           "end": 136.92,
           "text": "for the Festival D'Amour is upon us."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 21,
           "start": 140.27,
@@ -179,13 +253,13 @@
       ]
     },
     {
-      "intervalle_index": 3,
+      "intervalle_index": 10,
       "intervalle_debut": 150,
-      "intervalle_fin": 200,
+      "intervalle_fin": 165,
       "timecode_debut_extrait": 150,
-      "timecode_fin_extrait": 200,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0003_time_150.00s-200.00s.mp4",
-      "nombre_sous_titres": 12,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 24,
@@ -210,7 +284,18 @@
           "start": 162.33,
           "end": 166.76,
           "text": "<i>That golden bell, sweet La Fidele</i> <i>will soon be ringing clear</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 28,
           "start": 166.86,
@@ -234,7 +319,18 @@
           "start": 177.78,
           "end": 181.07,
           "text": "<i>The spirits may rise</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 32,
           "start": 181.18,
@@ -252,24 +348,24 @@
           "start": 194.36,
           "end": 197.95,
           "text": "<i>Le Jour D'Amour</i> <i>Your song is in the air</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 35,
           "start": 198.06,
           "end": 201.55,
           "text": "<i>What magic will you make for us</i> <i>What promise will you share</i>"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 4,
-      "intervalle_debut": 200,
-      "intervalle_fin": 250,
-      "timecode_debut_extrait": 200,
-      "timecode_fin_extrait": 250,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0004_time_200.00s-250.00s.mp4",
-      "nombre_sous_titres": 10,
-      "sous_titres": [
+        },
         {
           "index": 36,
           "start": 201.67,
@@ -281,7 +377,28 @@
           "start": 208.07,
           "end": 218.61,
           "text": "<i>The best of all the festivals</i> <i>Le Jour D'Amour is here</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 38,
           "start": 226.39,
@@ -305,7 +422,18 @@
           "start": 235.93,
           "end": 239.96,
           "text": "Ah, yes. Too bad there's only one of me to go around, eh?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 42,
           "start": 240.07,
@@ -329,24 +457,24 @@
           "start": 249.01,
           "end": 251.35,
           "text": "- Take that back! - No!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 5,
-      "intervalle_debut": 250,
-      "intervalle_fin": 300,
-      "timecode_debut_extrait": 250,
-      "timecode_fin_extrait": 300,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0005_time_250.00s-300.00s.mp4",
-      "nombre_sous_titres": 9,
-      "sous_titres": [
+        },
         {
           "index": 46,
           "start": 251.48,
           "end": 254.75,
           "text": "Take that... Back."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 47,
           "start": 258.26,
@@ -370,7 +498,18 @@
           "start": 266.8,
           "end": 270.93,
           "text": "Come on. Let's get the marble out, huh? We have to polish La Fidele."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 51,
           "start": 271.07,
@@ -398,13 +537,23 @@
       ]
     },
     {
-      "intervalle_index": 6,
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 20,
       "intervalle_debut": 300,
-      "intervalle_fin": 350,
+      "intervalle_fin": 315,
       "timecode_debut_extrait": 300,
-      "timecode_fin_extrait": 350,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0006_time_300.00s-350.00s.mp4",
-      "nombre_sous_titres": 13,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": 55,
@@ -417,7 +566,18 @@
           "start": 312.11,
           "end": 315.57,
           "text": "Okay..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 57,
           "start": 315.68,
@@ -441,7 +601,18 @@
           "start": 328.53,
           "end": 331.43,
           "text": "La Fidele, you are magnificent."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 61,
           "start": 331.53,
@@ -471,7 +642,18 @@
           "start": 342.24,
           "end": 346.04,
           "text": "Oh, really? And what makes you think that I'm gonna shout so loudly?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 66,
           "start": 346.14,
@@ -483,24 +665,24 @@
           "start": 348.71,
           "end": 352.55,
           "text": "\"I love Esmeralda!\""
-        }
-      ]
-    },
-    {
-      "intervalle_index": 7,
-      "intervalle_debut": 350,
-      "intervalle_fin": 400,
-      "timecode_debut_extrait": 350,
-      "timecode_fin_extrait": 400,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0007_time_350.00s-400.00s.mp4",
-      "nombre_sous_titres": 8,
-      "sous_titres": [
+        },
         {
           "index": 68,
           "start": 355.02,
           "end": 358.68,
           "text": "- Yuck. - Yeah. Yuck."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 69,
           "start": 365.1,
@@ -518,7 +700,18 @@
           "start": 373.24,
           "end": 376.4,
           "text": "I don't think anyone ever will, Zephyr."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 72,
           "start": 378.94,
@@ -530,7 +723,18 @@
           "start": 387.72,
           "end": 389.58,
           "text": "Quasi."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 74,
           "start": 391.46,
@@ -546,13 +750,13 @@
       ]
     },
     {
-      "intervalle_index": 8,
-      "intervalle_debut": 400,
-      "intervalle_fin": 450,
-      "timecode_debut_extrait": 400,
-      "timecode_fin_extrait": 450,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0008_time_400.00s-450.00s.mp4",
-      "nombre_sous_titres": 10,
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 76,
@@ -571,7 +775,18 @@
           "start": 419.88,
           "end": 420.11,
           "text": "Oh, boy! Wow! It's the circus!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 79,
           "start": 424.66,
@@ -583,7 +798,18 @@
           "start": 429.69,
           "end": 433.79,
           "text": "- Look! - Oh, look at the monkey."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 81,
           "start": 435.1,
@@ -617,13 +843,13 @@
       ]
     },
     {
-      "intervalle_index": 9,
+      "intervalle_index": 30,
       "intervalle_debut": 450,
-      "intervalle_fin": 500,
+      "intervalle_fin": 465,
       "timecode_debut_extrait": 450,
-      "timecode_fin_extrait": 500,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0009_time_450.00s-500.00s.mp4",
-      "nombre_sous_titres": 13,
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0030_time_450.00s-465.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 86,
@@ -642,7 +868,18 @@
           "start": 461.23,
           "end": 465.46,
           "text": "And now, may I present the prettiest ornament on the midway..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 89,
           "start": 466.56,
@@ -666,7 +903,18 @@
           "start": 478.01,
           "end": 480.88,
           "text": "- It's empty! - There's no one there."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 93,
           "start": 480.98,
@@ -690,7 +938,18 @@
           "start": 493.36,
           "end": 495.42,
           "text": "<i>Mesdames</i> and <i>messieurs...</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 97,
           "start": 495.53,
@@ -702,18 +961,7 @@
           "start": 499.0,
           "end": 500.9,
           "text": "as the magnificent Madellaine..."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 10,
-      "intervalle_debut": 500,
-      "intervalle_fin": 550,
-      "timecode_debut_extrait": 500,
-      "timecode_fin_extrait": 550,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0010_time_500.00s-550.00s.mp4",
-      "nombre_sous_titres": 12,
-      "sous_titres": [
+        },
         {
           "index": 99,
           "start": 501.0,
@@ -731,7 +979,18 @@
           "start": 505.9,
           "end": 508.63,
           "text": "Oops. And the crowd goes wild."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 102,
           "start": 511.71,
@@ -743,7 +1002,18 @@
           "start": 522.29,
           "end": 527.35,
           "text": "Madellaine catches her breath having nearly plummeted to her death."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 104,
           "start": 527.46,
@@ -767,7 +1037,18 @@
           "start": 537.27,
           "end": 540.07,
           "text": "Where were you, my little trinket?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 108,
           "start": 541.47,
@@ -785,24 +1066,24 @@
           "start": 548.15,
           "end": 552.91,
           "text": "That would be stupid, I guess. I'm sorry."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 11,
-      "intervalle_debut": 550,
-      "intervalle_fin": 600,
-      "timecode_debut_extrait": 550,
-      "timecode_fin_extrait": 600,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0011_time_550.00s-600.00s.mp4",
-      "nombre_sous_titres": 12,
-      "sous_titres": [
+        },
         {
           "index": 111,
           "start": 554.95,
           "end": 557.68,
           "text": "I-I-I just want to contribute more to the circus."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 112,
           "start": 557.79,
@@ -826,7 +1107,18 @@
           "start": 569.8,
           "end": 574.2,
           "text": "I have the perfect job for a girl like you."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 116,
           "start": 575.44,
@@ -844,7 +1136,18 @@
           "start": 580.95,
           "end": 584.97,
           "text": "I want you to go up there and find out which is the bell called La Fidele."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 585,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0039_time_585.00s-600.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 119,
           "start": 586.55,
@@ -872,13 +1175,13 @@
       ]
     },
     {
-      "intervalle_index": 12,
+      "intervalle_index": 40,
       "intervalle_debut": 600,
-      "intervalle_fin": 650,
+      "intervalle_fin": 615,
       "timecode_debut_extrait": 600,
-      "timecode_fin_extrait": 650,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0012_time_600.00s-650.00s.mp4",
-      "nombre_sous_titres": 9,
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0040_time_600.00s-615.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 123,
@@ -903,7 +1206,18 @@
           "start": 611.48,
           "end": 615.28,
           "text": "Precisely. For it's a cold world out there..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 630,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0041_time_615.00s-630.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 127,
           "start": 615.38,
@@ -927,7 +1241,18 @@
           "start": 626.99,
           "end": 630.39,
           "text": "Smile at him. Wile and beguile him..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "timecode_debut_extrait": 630,
+      "timecode_fin_extrait": 645,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0042_time_630.00s-645.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 131,
           "start": 630.49,
@@ -937,20 +1262,51 @@
       ]
     },
     {
-      "intervalle_index": 13,
-      "intervalle_debut": 650,
-      "intervalle_fin": 700,
-      "timecode_debut_extrait": 650,
-      "timecode_fin_extrait": 700,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0013_time_650.00s-700.00s.mp4",
-      "nombre_sous_titres": 5,
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "timecode_debut_extrait": 645,
+      "timecode_fin_extrait": 660,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0043_time_645.00s-660.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "timecode_debut_extrait": 660,
+      "timecode_fin_extrait": 675,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0044_time_660.00s-675.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "timecode_debut_extrait": 675,
+      "timecode_fin_extrait": 690,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0045_time_675.00s-690.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 132,
           "start": 687.72,
           "end": 689.95,
           "text": "Uh, hello."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "timecode_debut_extrait": 690,
+      "timecode_fin_extrait": 705,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0046_time_690.00s-705.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 133,
           "start": 690.05,
@@ -974,24 +1330,24 @@
           "start": 698.0,
           "end": 700.05,
           "text": "She wants you, big guy."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 14,
-      "intervalle_debut": 700,
-      "intervalle_fin": 750,
-      "timecode_debut_extrait": 700,
-      "timecode_fin_extrait": 750,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0014_time_700.00s-750.00s.mp4",
-      "nombre_sous_titres": 12,
-      "sous_titres": [
+        },
         {
           "index": 137,
           "start": 704.33,
           "end": 706.56,
           "text": "Is anyone here?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "timecode_debut_extrait": 705,
+      "timecode_fin_extrait": 720,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0047_time_705.00s-720.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 138,
           "start": 707.67,
@@ -1021,7 +1377,18 @@
           "start": 719.95,
           "end": 723.32,
           "text": "and, oh, I just love bells."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "timecode_debut_extrait": 720,
+      "timecode_fin_extrait": 735,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0048_time_720.00s-735.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 143,
           "start": 724.86,
@@ -1039,7 +1406,18 @@
           "start": 734.53,
           "end": 738.59,
           "text": "Are-Are you hiding from me?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "timecode_debut_extrait": 735,
+      "timecode_fin_extrait": 750,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0049_time_735.00s-750.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 146,
           "start": 740.97,
@@ -1061,13 +1439,13 @@
       ]
     },
     {
-      "intervalle_index": 15,
+      "intervalle_index": 50,
       "intervalle_debut": 750,
-      "intervalle_fin": 800,
+      "intervalle_fin": 765,
       "timecode_debut_extrait": 750,
-      "timecode_fin_extrait": 800,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0015_time_750.00s-800.00s.mp4",
-      "nombre_sous_titres": 10,
+      "timecode_fin_extrait": 765,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0050_time_750.00s-765.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 149,
@@ -1092,7 +1470,18 @@
           "start": 762.93,
           "end": 765.09,
           "text": "A-A chapeau in C-sharp!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "timecode_debut_extrait": 765,
+      "timecode_fin_extrait": 780,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0051_time_765.00s-780.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 153,
           "start": 773.17,
@@ -1104,7 +1493,18 @@
           "start": 777.01,
           "end": 779.37,
           "text": "Well, they were... they were alive!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "timecode_debut_extrait": 780,
+      "timecode_fin_extrait": 795,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0052_time_780.00s-795.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 155,
           "start": 781.61,
@@ -1116,7 +1516,18 @@
           "start": 784.68,
           "end": 786.58,
           "text": "No."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "timecode_debut_extrait": 795,
+      "timecode_fin_extrait": 810,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0053_time_795.00s-810.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 157,
           "start": 796.09,
@@ -1128,18 +1539,7 @@
           "start": 798.3,
           "end": 800.2,
           "text": "Not at all."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 16,
-      "intervalle_debut": 800,
-      "intervalle_fin": 850,
-      "timecode_debut_extrait": 800,
-      "timecode_fin_extrait": 850,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0016_time_800.00s-850.00s.mp4",
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 159,
           "start": 800.3,
@@ -1157,7 +1557,18 @@
           "start": 808.91,
           "end": 812.43,
           "text": "- What's your name? - Quasimodo."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "timecode_debut_extrait": 810,
+      "timecode_fin_extrait": 825,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0054_time_810.00s-825.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 162,
           "start": 812.54,
@@ -1169,7 +1580,18 @@
           "start": 816.15,
           "end": 818.51,
           "text": "wouldn't you like to come where I can see you?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "timecode_debut_extrait": 825,
+      "timecode_fin_extrait": 840,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0055_time_825.00s-840.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 164,
           "start": 833.73,
@@ -1185,20 +1607,41 @@
       ]
     },
     {
-      "intervalle_index": 17,
-      "intervalle_debut": 850,
-      "intervalle_fin": 900,
-      "timecode_debut_extrait": 850,
-      "timecode_fin_extrait": 900,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0017_time_850.00s-900.00s.mp4",
-      "nombre_sous_titres": 7,
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "timecode_debut_extrait": 840,
+      "timecode_fin_extrait": 855,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0056_time_840.00s-855.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "timecode_debut_extrait": 855,
+      "timecode_fin_extrait": 870,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0057_time_855.00s-870.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 166,
           "start": 864.43,
           "end": 866.4,
           "text": "Oh, poor kid."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "timecode_debut_extrait": 870,
+      "timecode_fin_extrait": 885,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0058_time_870.00s-885.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 167,
           "start": 874.04,
@@ -1216,7 +1659,18 @@
           "start": 879.54,
           "end": 882.31,
           "text": "Well, then, get her to look again, honey."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "timecode_debut_extrait": 885,
+      "timecode_fin_extrait": 900,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0059_time_885.00s-900.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 170,
           "start": 890.52,
@@ -1238,13 +1692,13 @@
       ]
     },
     {
-      "intervalle_index": 18,
+      "intervalle_index": 60,
       "intervalle_debut": 900,
-      "intervalle_fin": 950,
+      "intervalle_fin": 915,
       "timecode_debut_extrait": 900,
-      "timecode_fin_extrait": 950,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0018_time_900.00s-950.00s.mp4",
-      "nombre_sous_titres": 11,
+      "timecode_fin_extrait": 915,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0060_time_900.00s-915.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 173,
@@ -1269,7 +1723,18 @@
           "start": 913.68,
           "end": 916.37,
           "text": "maybe someone could love me."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "timecode_debut_extrait": 915,
+      "timecode_fin_extrait": 930,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0061_time_915.00s-930.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 177,
           "start": 918.38,
@@ -1293,7 +1758,18 @@
           "start": 928.06,
           "end": 932.32,
           "text": "<i>To look in her eyes and see</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "timecode_debut_extrait": 930,
+      "timecode_fin_extrait": 945,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0062_time_930.00s-945.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 181,
           "start": 933.6,
@@ -1305,24 +1781,24 @@
           "start": 941.2,
           "end": 944.94,
           "text": "<i>But it's not so very rare</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "timecode_debut_extrait": 945,
+      "timecode_fin_extrait": 960,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0063_time_945.00s-960.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 183,
           "start": 945.04,
           "end": 948.84,
           "text": "<i>You can find it anywhere</i>"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 19,
-      "intervalle_debut": 950,
-      "intervalle_fin": 1000,
-      "timecode_debut_extrait": 950,
-      "timecode_fin_extrait": 1000,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0019_time_950.00s-1000.00s.mp4",
-      "nombre_sous_titres": 14,
-      "sous_titres": [
+        },
         {
           "index": 184,
           "start": 950.15,
@@ -1340,7 +1816,18 @@
           "start": 958.22,
           "end": 960.12,
           "text": "<i>Or maybe it's just seasonal</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "timecode_debut_extrait": 960,
+      "timecode_fin_extrait": 975,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0064_time_960.00s-975.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 187,
           "start": 960.22,
@@ -1370,7 +1857,18 @@
           "start": 974.17,
           "end": 978.3,
           "text": "<i>Or maybe it's too gradual</i> <i>to catch your eye</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "timecode_debut_extrait": 975,
+      "timecode_fin_extrait": 990,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0065_time_975.00s-990.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 192,
           "start": 978.41,
@@ -1388,7 +1886,18 @@
           "start": 986.52,
           "end": 990.42,
           "text": "<i>Cathedrals rising out of stone</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "timecode_debut_extrait": 990,
+      "timecode_fin_extrait": 1005,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0066_time_990.00s-1005.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 195,
           "start": 990.52,
@@ -1406,18 +1915,7 @@
           "start": 997.53,
           "end": 1000.89,
           "text": "<i>And in love</i>"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 20,
-      "intervalle_debut": 1000,
-      "intervalle_fin": 1050,
-      "timecode_debut_extrait": 1000,
-      "timecode_fin_extrait": 1050,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0020_time_1000.00s-1050.00s.mp4",
-      "nombre_sous_titres": 14,
-      "sous_titres": [
+        },
         {
           "index": 198,
           "start": 1001.0,
@@ -1429,7 +1927,18 @@
           "start": 1004.5,
           "end": 1007.6,
           "text": "<i>Not 10,000 gypsy potions</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "timecode_debut_extrait": 1005,
+      "timecode_fin_extrait": 1020,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0067_time_1005.00s-1020.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 200,
           "start": 1007.7,
@@ -1453,7 +1962,18 @@
           "start": 1017.51,
           "end": 1020.78,
           "text": "<i>But people</i> <i>do take love for granted</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "timecode_debut_extrait": 1020,
+      "timecode_fin_extrait": 1035,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0068_time_1020.00s-1035.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 204,
           "start": 1020.88,
@@ -1477,7 +1997,18 @@
           "start": 1032.9,
           "end": 1037.06,
           "text": "<i>When people fall in love</i> <i>it really beats them all</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1035,
+      "timecode_fin_extrait": 1050,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0069_time_1035.00s-1050.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 208,
           "start": 1037.17,
@@ -1505,13 +2036,13 @@
       ]
     },
     {
-      "intervalle_index": 21,
+      "intervalle_index": 70,
       "intervalle_debut": 1050,
-      "intervalle_fin": 1100,
+      "intervalle_fin": 1065,
       "timecode_debut_extrait": 1050,
-      "timecode_fin_extrait": 1100,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0021_time_1050.00s-1100.00s.mp4",
-      "nombre_sous_titres": 9,
+      "timecode_fin_extrait": 1065,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0070_time_1050.00s-1065.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 212,
@@ -1536,7 +2067,18 @@
           "start": 1064.39,
           "end": 1066.45,
           "text": "<i>It would be</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "timecode_debut_extrait": 1065,
+      "timecode_fin_extrait": 1080,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0071_time_1065.00s-1080.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 216,
           "start": 1068.4,
@@ -1554,7 +2096,28 @@
           "start": 1076.24,
           "end": 1081.91,
           "text": "<i>Me</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "timecode_debut_extrait": 1080,
+      "timecode_fin_extrait": 1095,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0072_time_1080.00s-1095.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "timecode_debut_extrait": 1095,
+      "timecode_fin_extrait": 1110,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0073_time_1095.00s-1110.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 219,
           "start": 1096.16,
@@ -1566,18 +2129,7 @@
           "start": 1098.5,
           "end": 1101.16,
           "text": "Hmm, what does one wear to a carnival event?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 22,
-      "intervalle_debut": 1100,
-      "intervalle_fin": 1150,
-      "timecode_debut_extrait": 1100,
-      "timecode_fin_extrait": 1150,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0022_time_1100.00s-1150.00s.mp4",
-      "nombre_sous_titres": 9,
-      "sous_titres": [
+        },
         {
           "index": 221,
           "start": 1101.3,
@@ -1595,7 +2147,18 @@
           "start": 1106.9,
           "end": 1110.03,
           "text": "Quasi, you can stay here and hope for a miracle..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "timecode_debut_extrait": 1110,
+      "timecode_fin_extrait": 1125,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0074_time_1110.00s-1125.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 224,
           "start": 1110.17,
@@ -1607,13 +2170,35 @@
           "start": 1123.52,
           "end": 1126.89,
           "text": "You're right. I'm off to the circus!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "timecode_debut_extrait": 1125,
+      "timecode_fin_extrait": 1140,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0075_time_1125.00s-1140.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 226,
           "start": 1126.99,
           "end": 1131.12,
           "text": "- Oh, but what am I gonna wear? - I got the perfect thing, kid."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "timecode_debut_extrait": 1140,
+      "timecode_fin_extrait": 1155,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0076_time_1140.00s-1155.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 227,
           "start": 1140.27,
@@ -1631,18 +2216,7 @@
           "start": 1148.78,
           "end": 1151.44,
           "text": "- No, no. I mean... - Of course not."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 23,
-      "intervalle_debut": 1150,
-      "intervalle_fin": 1200,
-      "timecode_debut_extrait": 1150,
-      "timecode_fin_extrait": 1200,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0023_time_1150.00s-1200.00s.mp4",
-      "nombre_sous_titres": 15,
-      "sous_titres": [
+        },
         {
           "index": 230,
           "start": 1151.55,
@@ -1654,7 +2228,18 @@
           "start": 1154.02,
           "end": 1156.35,
           "text": "Quasi, don't worry. You look dashing."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "timecode_debut_extrait": 1155,
+      "timecode_fin_extrait": 1170,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0077_time_1155.00s-1170.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 232,
           "start": 1156.45,
@@ -1678,7 +2263,18 @@
           "start": 1165.33,
           "end": 1167.59,
           "text": "Look at the juggler!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "timecode_debut_extrait": 1170,
+      "timecode_fin_extrait": 1185,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0078_time_1170.00s-1185.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 236,
           "start": 1172.8,
@@ -1696,7 +2292,18 @@
           "start": 1182.75,
           "end": 1185.94,
           "text": "- Wow! - Zephyr, stay close."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1185,
+      "timecode_fin_extrait": 1200,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0079_time_1185.00s-1200.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 239,
           "start": 1186.05,
@@ -1736,13 +2343,13 @@
       ]
     },
     {
-      "intervalle_index": 24,
+      "intervalle_index": 80,
       "intervalle_debut": 1200,
-      "intervalle_fin": 1250,
+      "intervalle_fin": 1215,
       "timecode_debut_extrait": 1200,
-      "timecode_fin_extrait": 1250,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0024_time_1200.00s-1250.00s.mp4",
-      "nombre_sous_titres": 17,
+      "timecode_fin_extrait": 1215,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0080_time_1200.00s-1215.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 245,
@@ -1773,7 +2380,18 @@
           "start": 1213.71,
           "end": 1216.94,
           "text": "You should have thought of that before you stole from me."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "timecode_debut_extrait": 1215,
+      "timecode_fin_extrait": 1230,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0081_time_1215.00s-1230.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 250,
           "start": 1217.05,
@@ -1803,7 +2421,18 @@
           "start": 1229.29,
           "end": 1232.13,
           "text": "And did I turn you over to the authorities?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "timecode_debut_extrait": 1230,
+      "timecode_fin_extrait": 1245,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0082_time_1230.00s-1245.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 255,
           "start": 1232.23,
@@ -1833,7 +2462,18 @@
           "start": 1244.37,
           "end": 1246.37,
           "text": "Oh, yes."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "timecode_debut_extrait": 1245,
+      "timecode_fin_extrait": 1260,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0083_time_1245.00s-1260.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 260,
           "start": 1246.48,
@@ -1845,24 +2485,24 @@
           "start": 1249.78,
           "end": 1252.11,
           "text": "and he'll tell you what I need to know."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 25,
-      "intervalle_debut": 1250,
-      "intervalle_fin": 1300,
-      "timecode_debut_extrait": 1250,
-      "timecode_fin_extrait": 1300,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0025_time_1250.00s-1300.00s.mp4",
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 262,
           "start": 1256.12,
           "end": 1258.28,
           "text": "Mirrors!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "timecode_debut_extrait": 1260,
+      "timecode_fin_extrait": 1275,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0084_time_1260.00s-1275.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 263,
           "start": 1266.83,
@@ -1884,13 +2524,43 @@
       ]
     },
     {
-      "intervalle_index": 26,
-      "intervalle_debut": 1300,
-      "intervalle_fin": 1350,
-      "timecode_debut_extrait": 1300,
-      "timecode_fin_extrait": 1350,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0026_time_1300.00s-1350.00s.mp4",
-      "nombre_sous_titres": 6,
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "timecode_debut_extrait": 1275,
+      "timecode_fin_extrait": 1290,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0085_time_1275.00s-1290.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1305,
+      "timecode_debut_extrait": 1290,
+      "timecode_fin_extrait": 1305,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0086_time_1290.00s-1305.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 87,
+      "intervalle_debut": 1305,
+      "intervalle_fin": 1320,
+      "timecode_debut_extrait": 1305,
+      "timecode_fin_extrait": 1320,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0087_time_1305.00s-1320.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 1320,
+      "intervalle_fin": 1335,
+      "timecode_debut_extrait": 1320,
+      "timecode_fin_extrait": 1335,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0088_time_1320.00s-1335.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 266,
@@ -1909,7 +2579,18 @@
           "start": 1331.76,
           "end": 1334.99,
           "text": "A delight for your soul."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 1335,
+      "intervalle_fin": 1350,
+      "timecode_debut_extrait": 1335,
+      "timecode_fin_extrait": 1350,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0089_time_1335.00s-1350.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 269,
           "start": 1336.83,
@@ -1931,13 +2612,13 @@
       ]
     },
     {
-      "intervalle_index": 27,
+      "intervalle_index": 90,
       "intervalle_debut": 1350,
-      "intervalle_fin": 1400,
+      "intervalle_fin": 1365,
       "timecode_debut_extrait": 1350,
-      "timecode_fin_extrait": 1400,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0027_time_1350.00s-1400.00s.mp4",
-      "nombre_sous_titres": 8,
+      "timecode_fin_extrait": 1365,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0090_time_1350.00s-1365.00s.mp4",
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": 272,
@@ -1950,7 +2631,18 @@
           "start": 1362.59,
           "end": 1365.93,
           "text": "And now, I will astound you with a feat of magic..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 1365,
+      "intervalle_fin": 1380,
+      "timecode_debut_extrait": 1365,
+      "timecode_fin_extrait": 1380,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0091_time_1365.00s-1380.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 274,
           "start": 1366.03,
@@ -1962,7 +2654,18 @@
           "start": 1368.97,
           "end": 1372.06,
           "text": "Behold La Petit!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 92,
+      "intervalle_debut": 1380,
+      "intervalle_fin": 1395,
+      "timecode_debut_extrait": 1380,
+      "timecode_fin_extrait": 1395,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0092_time_1380.00s-1395.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 276,
           "start": 1384.75,
@@ -1980,7 +2683,18 @@
           "start": 1393.22,
           "end": 1395.82,
           "text": "Keep a sharp watch."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 93,
+      "intervalle_debut": 1395,
+      "intervalle_fin": 1410,
+      "timecode_debut_extrait": 1395,
+      "timecode_fin_extrait": 1410,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0093_time_1395.00s-1410.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 279,
           "start": 1395.93,
@@ -1990,20 +2704,31 @@
       ]
     },
     {
-      "intervalle_index": 28,
-      "intervalle_debut": 1400,
-      "intervalle_fin": 1450,
-      "timecode_debut_extrait": 1400,
-      "timecode_fin_extrait": 1450,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0028_time_1400.00s-1450.00s.mp4",
-      "nombre_sous_titres": 8,
+      "intervalle_index": 94,
+      "intervalle_debut": 1410,
+      "intervalle_fin": 1425,
+      "timecode_debut_extrait": 1410,
+      "timecode_fin_extrait": 1425,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0094_time_1410.00s-1425.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 280,
           "start": 1415.75,
           "end": 1418.31,
           "text": "Yeah!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 95,
+      "intervalle_debut": 1425,
+      "intervalle_fin": 1440,
+      "timecode_debut_extrait": 1425,
+      "timecode_fin_extrait": 1440,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0095_time_1425.00s-1440.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 281,
           "start": 1426.49,
@@ -2027,7 +2752,18 @@
           "start": 1435.53,
           "end": 1439.99,
           "text": "Yeah! I could be a juggler. What do you think, Quasi? I'd juggle and I'd..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 96,
+      "intervalle_debut": 1440,
+      "intervalle_fin": 1455,
+      "timecode_debut_extrait": 1440,
+      "timecode_fin_extrait": 1455,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0096_time_1440.00s-1455.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 285,
           "start": 1440.14,
@@ -2045,24 +2781,24 @@
           "start": 1449.51,
           "end": 1453.04,
           "text": "Nothing. You were making goo-goo eyes at your girlfriend."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 29,
-      "intervalle_debut": 1450,
-      "intervalle_fin": 1500,
-      "timecode_debut_extrait": 1450,
-      "timecode_fin_extrait": 1500,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0029_time_1450.00s-1500.00s.mp4",
-      "nombre_sous_titres": 13,
-      "sous_titres": [
+        },
         {
           "index": 288,
           "start": 1453.18,
           "end": 1455.28,
           "text": "Oh, she... she's not my..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 97,
+      "intervalle_debut": 1455,
+      "intervalle_fin": 1470,
+      "timecode_debut_extrait": 1455,
+      "timecode_fin_extrait": 1470,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0097_time_1455.00s-1470.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 289,
           "start": 1455.42,
@@ -2086,7 +2822,18 @@
           "start": 1469.43,
           "end": 1472.23,
           "text": "I mean to have that bell."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 98,
+      "intervalle_debut": 1470,
+      "intervalle_fin": 1485,
+      "timecode_debut_extrait": 1470,
+      "timecode_fin_extrait": 1485,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0098_time_1470.00s-1485.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 293,
           "start": 1476.07,
@@ -2104,7 +2851,18 @@
           "start": 1484.41,
           "end": 1486.31,
           "text": "Always."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 99,
+      "intervalle_debut": 1485,
+      "intervalle_fin": 1500,
+      "timecode_debut_extrait": 1485,
+      "timecode_fin_extrait": 1500,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0099_time_1485.00s-1500.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 296,
           "start": 1487.55,
@@ -2138,13 +2896,13 @@
       ]
     },
     {
-      "intervalle_index": 30,
+      "intervalle_index": 100,
       "intervalle_debut": 1500,
-      "intervalle_fin": 1550,
+      "intervalle_fin": 1515,
       "timecode_debut_extrait": 1500,
-      "timecode_fin_extrait": 1550,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0030_time_1500.00s-1550.00s.mp4",
-      "nombre_sous_titres": 13,
+      "timecode_fin_extrait": 1515,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0100_time_1500.00s-1515.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 301,
@@ -2169,7 +2927,18 @@
           "start": 1513.38,
           "end": 1515.71,
           "text": "<i>It's bubbling blue</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 101,
+      "intervalle_debut": 1515,
+      "intervalle_fin": 1530,
+      "timecode_debut_extrait": 1515,
+      "timecode_fin_extrait": 1530,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0101_time_1515.00s-1530.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 305,
           "start": 1515.81,
@@ -2199,7 +2968,18 @@
           "start": 1529.06,
           "end": 1531.96,
           "text": "- I'm sticking to you. - Hey, no fair."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 102,
+      "intervalle_debut": 1530,
+      "intervalle_fin": 1545,
+      "timecode_debut_extrait": 1530,
+      "timecode_fin_extrait": 1545,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0102_time_1530.00s-1545.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 310,
           "start": 1532.1,
@@ -2227,13 +3007,23 @@
       ]
     },
     {
-      "intervalle_index": 31,
-      "intervalle_debut": 1550,
-      "intervalle_fin": 1600,
-      "timecode_debut_extrait": 1550,
-      "timecode_fin_extrait": 1600,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0031_time_1550.00s-1600.00s.mp4",
-      "nombre_sous_titres": 9,
+      "intervalle_index": 103,
+      "intervalle_debut": 1545,
+      "intervalle_fin": 1560,
+      "timecode_debut_extrait": 1545,
+      "timecode_fin_extrait": 1560,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0103_time_1545.00s-1560.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 104,
+      "intervalle_debut": 1560,
+      "intervalle_fin": 1575,
+      "timecode_debut_extrait": 1560,
+      "timecode_fin_extrait": 1575,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0104_time_1560.00s-1575.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 314,
@@ -2258,7 +3048,18 @@
           "start": 1570.5,
           "end": 1573.77,
           "text": "<i>I'd stick with you</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 105,
+      "intervalle_debut": 1575,
+      "intervalle_fin": 1590,
+      "timecode_debut_extrait": 1575,
+      "timecode_fin_extrait": 1590,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0105_time_1575.00s-1590.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 318,
           "start": 1575.44,
@@ -2282,30 +3083,41 @@
           "start": 1586.18,
           "end": 1592.09,
           "text": "<i>I'd stick with you</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 106,
+      "intervalle_debut": 1590,
+      "intervalle_fin": 1605,
+      "timecode_debut_extrait": 1590,
+      "timecode_fin_extrait": 1605,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0106_time_1590.00s-1605.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 322,
           "start": 1597.16,
           "end": 1599.06,
           "text": "Zephyr."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 32,
-      "intervalle_debut": 1600,
-      "intervalle_fin": 1650,
-      "timecode_debut_extrait": 1600,
-      "timecode_fin_extrait": 1650,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0032_time_1600.00s-1650.00s.mp4",
-      "nombre_sous_titres": 13,
-      "sous_titres": [
+        },
         {
           "index": 323,
           "start": 1602.83,
           "end": 1606.13,
           "text": "- You have a way with kids. - Hi. M-Madellaine, hi."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 107,
+      "intervalle_debut": 1605,
+      "intervalle_fin": 1620,
+      "timecode_debut_extrait": 1605,
+      "timecode_fin_extrait": 1620,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0107_time_1605.00s-1620.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 324,
           "start": 1606.24,
@@ -2335,7 +3147,18 @@
           "start": 1619.28,
           "end": 1622.48,
           "text": "Nothing to it. I just have to stand there and look pretty, you know?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 108,
+      "intervalle_debut": 1620,
+      "intervalle_fin": 1635,
+      "timecode_debut_extrait": 1620,
+      "timecode_fin_extrait": 1635,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0108_time_1620.00s-1635.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 329,
           "start": 1624.12,
@@ -2359,7 +3182,18 @@
           "start": 1634.3,
           "end": 1636.49,
           "text": "hocus their pocus?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 109,
+      "intervalle_debut": 1635,
+      "intervalle_fin": 1650,
+      "timecode_debut_extrait": 1635,
+      "timecode_fin_extrait": 1650,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0109_time_1635.00s-1650.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 333,
           "start": 1636.6,
@@ -2381,13 +3215,13 @@
       ]
     },
     {
-      "intervalle_index": 33,
+      "intervalle_index": 110,
       "intervalle_debut": 1650,
-      "intervalle_fin": 1700,
+      "intervalle_fin": 1665,
       "timecode_debut_extrait": 1650,
-      "timecode_fin_extrait": 1700,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0033_time_1650.00s-1700.00s.mp4",
-      "nombre_sous_titres": 8,
+      "timecode_fin_extrait": 1665,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0110_time_1650.00s-1665.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 336,
@@ -2406,7 +3240,18 @@
           "start": 1664.49,
           "end": 1667.12,
           "text": "Paris is r-really pretty."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 111,
+      "intervalle_debut": 1665,
+      "intervalle_fin": 1680,
+      "timecode_debut_extrait": 1665,
+      "timecode_fin_extrait": 1680,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0111_time_1665.00s-1680.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 339,
           "start": 1667.23,
@@ -2430,7 +3275,18 @@
           "start": 1678.91,
           "end": 1681.14,
           "text": "I'd really like that."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 112,
+      "intervalle_debut": 1680,
+      "intervalle_fin": 1695,
+      "timecode_debut_extrait": 1680,
+      "timecode_fin_extrait": 1695,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0112_time_1680.00s-1695.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 343,
           "start": 1693.92,
@@ -2440,13 +3296,13 @@
       ]
     },
     {
-      "intervalle_index": 34,
-      "intervalle_debut": 1700,
-      "intervalle_fin": 1750,
-      "timecode_debut_extrait": 1700,
-      "timecode_fin_extrait": 1750,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0034_time_1700.00s-1750.00s.mp4",
-      "nombre_sous_titres": 13,
+      "intervalle_index": 113,
+      "intervalle_debut": 1695,
+      "intervalle_fin": 1710,
+      "timecode_debut_extrait": 1695,
+      "timecode_fin_extrait": 1710,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0113_time_1695.00s-1710.00s.mp4",
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": 344,
@@ -2459,7 +3315,18 @@
           "start": 1709.51,
           "end": 1712.0,
           "text": "You're a genius."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 114,
+      "intervalle_debut": 1710,
+      "intervalle_fin": 1725,
+      "timecode_debut_extrait": 1710,
+      "timecode_fin_extrait": 1725,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0114_time_1710.00s-1725.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 346,
           "start": 1713.88,
@@ -2483,7 +3350,18 @@
           "start": 1723.35,
           "end": 1725.95,
           "text": "- My life savings is gone! - All right, all right, have no worry."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 115,
+      "intervalle_debut": 1725,
+      "intervalle_fin": 1740,
+      "timecode_debut_extrait": 1725,
+      "timecode_fin_extrait": 1740,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0115_time_1725.00s-1740.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 350,
           "start": 1726.06,
@@ -2507,7 +3385,18 @@
           "start": 1738.97,
           "end": 1741.3,
           "text": "Wait a minute."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 116,
+      "intervalle_debut": 1740,
+      "intervalle_fin": 1755,
+      "timecode_debut_extrait": 1740,
+      "timecode_fin_extrait": 1755,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0116_time_1740.00s-1755.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 354,
           "start": 1741.4,
@@ -2529,20 +3418,31 @@
       ]
     },
     {
-      "intervalle_index": 35,
-      "intervalle_debut": 1750,
-      "intervalle_fin": 1800,
-      "timecode_debut_extrait": 1750,
-      "timecode_fin_extrait": 1800,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0035_time_1750.00s-1800.00s.mp4",
-      "nombre_sous_titres": 6,
+      "intervalle_index": 117,
+      "intervalle_debut": 1755,
+      "intervalle_fin": 1770,
+      "timecode_debut_extrait": 1755,
+      "timecode_fin_extrait": 1770,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0117_time_1755.00s-1770.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 357,
           "start": 1757.02,
           "end": 1759.72,
           "text": "Achilles, that was a rhetorical question."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 118,
+      "intervalle_debut": 1770,
+      "intervalle_fin": 1785,
+      "timecode_debut_extrait": 1770,
+      "timecode_fin_extrait": 1785,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0118_time_1770.00s-1785.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 358,
           "start": 1770.8,
@@ -2566,7 +3466,18 @@
           "start": 1780.04,
           "end": 1782.91,
           "text": "Well, uh, I'd love to."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 119,
+      "intervalle_debut": 1785,
+      "intervalle_fin": 1800,
+      "timecode_debut_extrait": 1785,
+      "timecode_fin_extrait": 1800,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0119_time_1785.00s-1800.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 362,
           "start": 1795.56,
@@ -2576,20 +3487,41 @@
       ]
     },
     {
-      "intervalle_index": 36,
+      "intervalle_index": 120,
       "intervalle_debut": 1800,
-      "intervalle_fin": 1850,
+      "intervalle_fin": 1815,
       "timecode_debut_extrait": 1800,
-      "timecode_fin_extrait": 1850,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0036_time_1800.00s-1850.00s.mp4",
-      "nombre_sous_titres": 5,
+      "timecode_fin_extrait": 1815,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0120_time_1800.00s-1815.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 363,
           "start": 1802.83,
           "end": 1806.73,
           "text": "- Oh. It's ruined. - No, no. Taste."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 121,
+      "intervalle_debut": 1815,
+      "intervalle_fin": 1830,
+      "timecode_debut_extrait": 1815,
+      "timecode_fin_extrait": 1830,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0121_time_1815.00s-1830.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 122,
+      "intervalle_debut": 1830,
+      "intervalle_fin": 1845,
+      "timecode_debut_extrait": 1830,
+      "timecode_fin_extrait": 1845,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0122_time_1830.00s-1845.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 364,
           "start": 1830.86,
@@ -2617,13 +3549,23 @@
       ]
     },
     {
-      "intervalle_index": 37,
-      "intervalle_debut": 1850,
-      "intervalle_fin": 1900,
-      "timecode_debut_extrait": 1850,
-      "timecode_fin_extrait": 1900,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0037_time_1850.00s-1900.00s.mp4",
-      "nombre_sous_titres": 5,
+      "intervalle_index": 123,
+      "intervalle_debut": 1845,
+      "intervalle_fin": 1860,
+      "timecode_debut_extrait": 1845,
+      "timecode_fin_extrait": 1860,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0123_time_1845.00s-1860.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 124,
+      "intervalle_debut": 1860,
+      "intervalle_fin": 1875,
+      "timecode_debut_extrait": 1860,
+      "timecode_fin_extrait": 1875,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0124_time_1860.00s-1875.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 368,
@@ -2648,7 +3590,18 @@
           "start": 1873.64,
           "end": 1875.76,
           "text": "Close your eyes."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 125,
+      "intervalle_debut": 1875,
+      "intervalle_fin": 1890,
+      "timecode_debut_extrait": 1875,
+      "timecode_fin_extrait": 1890,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0125_time_1875.00s-1890.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 372,
           "start": 1875.87,
@@ -2658,13 +3611,23 @@
       ]
     },
     {
-      "intervalle_index": 38,
-      "intervalle_debut": 1900,
-      "intervalle_fin": 1950,
-      "timecode_debut_extrait": 1900,
-      "timecode_fin_extrait": 1950,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0038_time_1900.00s-1950.00s.mp4",
-      "nombre_sous_titres": 5,
+      "intervalle_index": 126,
+      "intervalle_debut": 1890,
+      "intervalle_fin": 1905,
+      "timecode_debut_extrait": 1890,
+      "timecode_fin_extrait": 1905,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0126_time_1890.00s-1905.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 127,
+      "intervalle_debut": 1905,
+      "intervalle_fin": 1920,
+      "timecode_debut_extrait": 1905,
+      "timecode_fin_extrait": 1920,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0127_time_1905.00s-1920.00s.mp4",
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": 373,
@@ -2677,7 +3640,28 @@
           "start": 1914.24,
           "end": 1916.87,
           "text": "Oh, come on, show me more!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 128,
+      "intervalle_debut": 1920,
+      "intervalle_fin": 1935,
+      "timecode_debut_extrait": 1920,
+      "timecode_fin_extrait": 1935,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0128_time_1920.00s-1935.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 129,
+      "intervalle_debut": 1935,
+      "intervalle_fin": 1950,
+      "timecode_debut_extrait": 1935,
+      "timecode_fin_extrait": 1950,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0129_time_1935.00s-1950.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 375,
           "start": 1943.17,
@@ -2699,13 +3683,13 @@
       ]
     },
     {
-      "intervalle_index": 39,
+      "intervalle_index": 130,
       "intervalle_debut": 1950,
-      "intervalle_fin": 2000,
+      "intervalle_fin": 1965,
       "timecode_debut_extrait": 1950,
-      "timecode_fin_extrait": 2000,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0039_time_1950.00s-2000.00s.mp4",
-      "nombre_sous_titres": 15,
+      "timecode_fin_extrait": 1965,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0130_time_1950.00s-1965.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 378,
@@ -2736,7 +3720,18 @@
           "start": 1964.09,
           "end": 1967.03,
           "text": "<i>And a gar-guy ought to know</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 131,
+      "intervalle_debut": 1965,
+      "intervalle_fin": 1980,
+      "timecode_debut_extrait": 1965,
+      "timecode_fin_extrait": 1980,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0131_time_1965.00s-1980.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 383,
           "start": 1967.16,
@@ -2766,7 +3761,18 @@
           "start": 1979.31,
           "end": 1981.24,
           "text": "<i>Sing a rousing</i> <i>rollicking roundelay</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 132,
+      "intervalle_debut": 1980,
+      "intervalle_fin": 1995,
+      "timecode_debut_extrait": 1980,
+      "timecode_fin_extrait": 1995,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0132_time_1980.00s-1995.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 388,
           "start": 1981.34,
@@ -2790,24 +3796,24 @@
           "start": 1991.99,
           "end": 1997.36,
           "text": "<i>Why should we be blue</i> <i>His love is true, so bid the kid adieu</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 133,
+      "intervalle_debut": 1995,
+      "intervalle_fin": 2010,
+      "timecode_debut_extrait": 1995,
+      "timecode_fin_extrait": 2010,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0133_time_1995.00s-2010.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 392,
           "start": 1998.73,
           "end": 2001.72,
           "text": "<i>Oh, wow</i>"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 40,
-      "intervalle_debut": 2000,
-      "intervalle_fin": 2050,
-      "timecode_debut_extrait": 2000,
-      "timecode_fin_extrait": 2050,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0040_time_2000.00s-2050.00s.mp4",
-      "nombre_sous_titres": 16,
-      "sous_titres": [
+        },
         {
           "index": 393,
           "start": 2001.83,
@@ -2825,7 +3831,18 @@
           "start": 2007.7,
           "end": 2010.67,
           "text": "<i>Love has nailed him</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 134,
+      "intervalle_debut": 2010,
+      "intervalle_fin": 2025,
+      "timecode_debut_extrait": 2010,
+      "timecode_fin_extrait": 2025,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0134_time_2010.00s-2025.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 396,
           "start": 2010.81,
@@ -2855,7 +3872,18 @@
           "start": 2023.42,
           "end": 2026.29,
           "text": "<i>- He's fa-la-la-la fallen in love</i> <i>- Oh, wow</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 135,
+      "intervalle_debut": 2025,
+      "intervalle_fin": 2040,
+      "timecode_debut_extrait": 2025,
+      "timecode_fin_extrait": 2040,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0135_time_2025.00s-2040.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 401,
           "start": 2026.39,
@@ -2885,7 +3913,18 @@
           "start": 2038.57,
           "end": 2041.5,
           "text": "<i>- He's fa-la-la-la fallen in love</i> <i>- Sighing when he talks</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 136,
+      "intervalle_debut": 2040,
+      "intervalle_fin": 2055,
+      "timecode_debut_extrait": 2040,
+      "timecode_fin_extrait": 2055,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0136_time_2040.00s-2055.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 406,
           "start": 2041.6,
@@ -2903,18 +3942,7 @@
           "start": 2047.58,
           "end": 2050.57,
           "text": "<i>Fa-la-la-la, fa-la-la-la</i> <i>la-la-la fallen</i>"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 41,
-      "intervalle_debut": 2050,
-      "intervalle_fin": 2100,
-      "timecode_debut_extrait": 2050,
-      "timecode_fin_extrait": 2100,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0041_time_2050.00s-2100.00s.mp4",
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 409,
           "start": 2050.68,
@@ -2926,7 +3954,28 @@
           "start": 2054.62,
           "end": 2056.74,
           "text": "<i>Quasimodo's fallen in love</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 137,
+      "intervalle_debut": 2055,
+      "intervalle_fin": 2070,
+      "timecode_debut_extrait": 2055,
+      "timecode_fin_extrait": 2070,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0137_time_2055.00s-2070.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 138,
+      "intervalle_debut": 2070,
+      "intervalle_fin": 2085,
+      "timecode_debut_extrait": 2070,
+      "timecode_fin_extrait": 2085,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0138_time_2070.00s-2085.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 411,
           "start": 2073.87,
@@ -2938,7 +3987,18 @@
           "start": 2083.81,
           "end": 2085.84,
           "text": "You can dry off in here."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 139,
+      "intervalle_debut": 2085,
+      "intervalle_fin": 2100,
+      "timecode_debut_extrait": 2085,
+      "timecode_fin_extrait": 2100,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0139_time_2085.00s-2100.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 413,
           "start": 2094.49,
@@ -2954,13 +4014,13 @@
       ]
     },
     {
-      "intervalle_index": 42,
+      "intervalle_index": 140,
       "intervalle_debut": 2100,
-      "intervalle_fin": 2150,
+      "intervalle_fin": 2115,
       "timecode_debut_extrait": 2100,
-      "timecode_fin_extrait": 2150,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0042_time_2100.00s-2150.00s.mp4",
-      "nombre_sous_titres": 10,
+      "timecode_fin_extrait": 2115,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0140_time_2100.00s-2115.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 415,
@@ -2979,7 +4039,18 @@
           "start": 2110.34,
           "end": 2112.86,
           "text": "- Gesundheit! - Oh, thank you."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 141,
+      "intervalle_debut": 2115,
+      "intervalle_fin": 2130,
+      "timecode_debut_extrait": 2115,
+      "timecode_fin_extrait": 2130,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0141_time_2115.00s-2130.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 418,
           "start": 2115.51,
@@ -2991,7 +4062,18 @@
           "start": 2117.78,
           "end": 2119.44,
           "text": "- Shh! - Oh."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 142,
+      "intervalle_debut": 2130,
+      "intervalle_fin": 2145,
+      "timecode_debut_extrait": 2130,
+      "timecode_fin_extrait": 2145,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0142_time_2130.00s-2145.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 420,
           "start": 2134.16,
@@ -3015,30 +4097,41 @@
           "start": 2144.84,
           "end": 2147.27,
           "text": "La Fidele... \"The Faithful One.\""
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 143,
+      "intervalle_debut": 2145,
+      "intervalle_fin": 2160,
+      "timecode_debut_extrait": 2145,
+      "timecode_fin_extrait": 2160,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0143_time_2145.00s-2160.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 424,
           "start": 2148.68,
           "end": 2153.05,
           "text": "But she's even more beautiful on the inside."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 43,
-      "intervalle_debut": 2150,
-      "intervalle_fin": 2200,
-      "timecode_debut_extrait": 2150,
-      "timecode_fin_extrait": 2200,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0043_time_2150.00s-2200.00s.mp4",
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 425,
           "start": 2155.68,
           "end": 2158.38,
           "text": "I-I'll show you."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 144,
+      "intervalle_debut": 2160,
+      "intervalle_fin": 2175,
+      "timecode_debut_extrait": 2160,
+      "timecode_fin_extrait": 2175,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0144_time_2160.00s-2175.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 426,
           "start": 2165.26,
@@ -3050,13 +4143,35 @@
           "start": 2168.26,
           "end": 2170.89,
           "text": "This must be worth a fortune."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 145,
+      "intervalle_debut": 2175,
+      "intervalle_fin": 2190,
+      "timecode_debut_extrait": 2175,
+      "timecode_fin_extrait": 2190,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0145_time_2175.00s-2190.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 428,
           "start": 2181.78,
           "end": 2184.04,
           "text": "You should get warm."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 146,
+      "intervalle_debut": 2190,
+      "intervalle_fin": 2205,
+      "timecode_debut_extrait": 2190,
+      "timecode_fin_extrait": 2205,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0146_time_2190.00s-2205.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 429,
           "start": 2192.35,
@@ -3074,24 +4189,24 @@
           "start": 2199.13,
           "end": 2204.19,
           "text": "Do you really think there's more to me than what you see?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 44,
-      "intervalle_debut": 2200,
-      "intervalle_fin": 2250,
-      "timecode_debut_extrait": 2200,
-      "timecode_fin_extrait": 2250,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0044_time_2200.00s-2250.00s.mp4",
-      "nombre_sous_titres": 10,
-      "sous_titres": [
+        },
         {
           "index": 432,
           "start": 2204.3,
           "end": 2208.03,
           "text": "That I have something else to give?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 147,
+      "intervalle_debut": 2205,
+      "intervalle_fin": 2220,
+      "timecode_debut_extrait": 2205,
+      "timecode_fin_extrait": 2220,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0147_time_2205.00s-2220.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 433,
           "start": 2208.14,
@@ -3109,7 +4224,18 @@
           "start": 2219.98,
           "end": 2223.08,
           "text": "I've never met anyone like you, Quasimodo."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 148,
+      "intervalle_debut": 2220,
+      "intervalle_fin": 2235,
+      "timecode_debut_extrait": 2220,
+      "timecode_fin_extrait": 2235,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0148_time_2220.00s-2235.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 436,
           "start": 2224.92,
@@ -3127,7 +4253,18 @@
           "start": 2232.66,
           "end": 2235.65,
           "text": "Do you really think so?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 149,
+      "intervalle_debut": 2235,
+      "intervalle_fin": 2250,
+      "timecode_debut_extrait": 2235,
+      "timecode_fin_extrait": 2250,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0149_time_2235.00s-2250.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 439,
           "start": 2235.76,
@@ -3149,13 +4286,13 @@
       ]
     },
     {
-      "intervalle_index": 45,
+      "intervalle_index": 150,
       "intervalle_debut": 2250,
-      "intervalle_fin": 2300,
+      "intervalle_fin": 2265,
       "timecode_debut_extrait": 2250,
-      "timecode_fin_extrait": 2300,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0045_time_2250.00s-2300.00s.mp4",
-      "nombre_sous_titres": 11,
+      "timecode_fin_extrait": 2265,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0150_time_2250.00s-2265.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 442,
@@ -3174,7 +4311,18 @@
           "start": 2262.66,
           "end": 2266.92,
           "text": "I-I mean, I-I'd better... I-It's late and, well..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 151,
+      "intervalle_debut": 2265,
+      "intervalle_fin": 2280,
+      "timecode_debut_extrait": 2265,
+      "timecode_fin_extrait": 2280,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0151_time_2265.00s-2280.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 445,
           "start": 2267.06,
@@ -3198,7 +4346,18 @@
           "start": 2277.64,
           "end": 2280.7,
           "text": "No, maybe I'm not."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 152,
+      "intervalle_debut": 2280,
+      "intervalle_fin": 2295,
+      "timecode_debut_extrait": 2280,
+      "timecode_fin_extrait": 2295,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0152_time_2280.00s-2295.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 449,
           "start": 2280.84,
@@ -3216,24 +4375,24 @@
           "start": 2291.49,
           "end": 2296.22,
           "text": "Oh. It does my heart good to see our boy like that."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 153,
+      "intervalle_debut": 2295,
+      "intervalle_fin": 2310,
+      "timecode_debut_extrait": 2295,
+      "timecode_fin_extrait": 2310,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0153_time_2295.00s-2310.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 452,
           "start": 2296.33,
           "end": 2301.49,
           "text": "Yes. He does seem to have a certain savoir faire."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 46,
-      "intervalle_debut": 2300,
-      "intervalle_fin": 2350,
-      "timecode_debut_extrait": 2300,
-      "timecode_fin_extrait": 2350,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0046_time_2300.00s-2350.00s.mp4",
-      "nombre_sous_titres": 10,
-      "sous_titres": [
+        },
         {
           "index": 453,
           "start": 2301.6,
@@ -3251,13 +4410,35 @@
           "start": 2308.07,
           "end": 2310.97,
           "text": "in her dance <i>d'amour.</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 154,
+      "intervalle_debut": 2310,
+      "intervalle_fin": 2325,
+      "timecode_debut_extrait": 2310,
+      "timecode_fin_extrait": 2325,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0154_time_2310.00s-2325.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 456,
           "start": 2311.07,
           "end": 2314.34,
           "text": "Careful, or you may lose your heart."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 155,
+      "intervalle_debut": 2325,
+      "intervalle_fin": 2340,
+      "timecode_debut_extrait": 2325,
+      "timecode_fin_extrait": 2340,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0155_time_2325.00s-2340.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 457,
           "start": 2325.32,
@@ -3275,7 +4456,18 @@
           "start": 2331.09,
           "end": 2334.69,
           "text": "Esmeralda. Esmeralda! You've gotta help me."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 156,
+      "intervalle_debut": 2340,
+      "intervalle_fin": 2355,
+      "timecode_debut_extrait": 2340,
+      "timecode_fin_extrait": 2355,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0156_time_2340.00s-2355.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 460,
           "start": 2343.01,
@@ -3293,24 +4485,24 @@
           "start": 2348.08,
           "end": 2349.98,
           "text": "and then wonderful!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 47,
-      "intervalle_debut": 2350,
-      "intervalle_fin": 2400,
-      "timecode_debut_extrait": 2350,
-      "timecode_fin_extrait": 2400,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0047_time_2350.00s-2400.00s.mp4",
-      "nombre_sous_titres": 15,
-      "sous_titres": [
+        },
         {
           "index": 463,
           "start": 2350.08,
           "end": 2353.78,
           "text": "And then wonderfully awful and-and-and awfully wonderful."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 157,
+      "intervalle_debut": 2355,
+      "intervalle_fin": 2370,
+      "timecode_debut_extrait": 2355,
+      "timecode_fin_extrait": 2370,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0157_time_2355.00s-2370.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 464,
           "start": 2355.12,
@@ -3334,7 +4526,18 @@
           "start": 2365.63,
           "end": 2370.93,
           "text": "- Well, you have to tell her how you feel. - Uh, how can I?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 158,
+      "intervalle_debut": 2370,
+      "intervalle_fin": 2385,
+      "timecode_debut_extrait": 2370,
+      "timecode_fin_extrait": 2385,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0158_time_2370.00s-2385.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 468,
           "start": 2371.03,
@@ -3358,7 +4561,18 @@
           "start": 2379.31,
           "end": 2381.61,
           "text": "Hey, you're ready."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 159,
+      "intervalle_debut": 2385,
+      "intervalle_fin": 2400,
+      "timecode_debut_extrait": 2385,
+      "timecode_fin_extrait": 2400,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0159_time_2385.00s-2400.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 472,
           "start": 2387.48,
@@ -3398,13 +4612,13 @@
       ]
     },
     {
-      "intervalle_index": 48,
+      "intervalle_index": 160,
       "intervalle_debut": 2400,
-      "intervalle_fin": 2450,
+      "intervalle_fin": 2415,
       "timecode_debut_extrait": 2400,
-      "timecode_fin_extrait": 2450,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0048_time_2400.00s-2450.00s.mp4",
-      "nombre_sous_titres": 9,
+      "timecode_fin_extrait": 2415,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0160_time_2400.00s-2415.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 478,
@@ -3435,13 +4649,35 @@
           "start": 2413.84,
           "end": 2418.4,
           "text": "Oh, of course she cou... Yes, anyone could, but look at the facts."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 161,
+      "intervalle_debut": 2415,
+      "intervalle_fin": 2430,
+      "timecode_debut_extrait": 2415,
+      "timecode_fin_extrait": 2430,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0161_time_2415.00s-2430.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 483,
           "start": 2418.51,
           "end": 2420.45,
           "text": "Find some, and I will."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 162,
+      "intervalle_debut": 2430,
+      "intervalle_fin": 2445,
+      "timecode_debut_extrait": 2430,
+      "timecode_fin_extrait": 2445,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0162_time_2430.00s-2445.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 484,
           "start": 2432.63,
@@ -3463,13 +4699,13 @@
       ]
     },
     {
-      "intervalle_index": 49,
-      "intervalle_debut": 2450,
-      "intervalle_fin": 2500,
-      "timecode_debut_extrait": 2450,
-      "timecode_fin_extrait": 2500,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0049_time_2450.00s-2500.00s.mp4",
-      "nombre_sous_titres": 15,
+      "intervalle_index": 163,
+      "intervalle_debut": 2445,
+      "intervalle_fin": 2460,
+      "timecode_debut_extrait": 2445,
+      "timecode_fin_extrait": 2460,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0163_time_2445.00s-2460.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 487,
@@ -3488,7 +4724,18 @@
           "start": 2458.92,
           "end": 2463.05,
           "text": "Oh, did you find out where the monster keeps his bell, trinket?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 164,
+      "intervalle_debut": 2460,
+      "intervalle_fin": 2475,
+      "timecode_debut_extrait": 2460,
+      "timecode_fin_extrait": 2475,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0164_time_2460.00s-2475.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 490,
           "start": 2463.16,
@@ -3518,7 +4765,18 @@
           "start": 2474.74,
           "end": 2477.67,
           "text": "- Quasimodo sees something you don't. - Oh, does he?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 165,
+      "intervalle_debut": 2475,
+      "intervalle_fin": 2490,
+      "timecode_debut_extrait": 2475,
+      "timecode_fin_extrait": 2490,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0165_time_2475.00s-2490.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 495,
           "start": 2477.77,
@@ -3542,7 +4800,18 @@
           "start": 2488.08,
           "end": 2491.42,
           "text": "No! You can't! You... You wouldn't."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 166,
+      "intervalle_debut": 2490,
+      "intervalle_fin": 2505,
+      "timecode_debut_extrait": 2490,
+      "timecode_fin_extrait": 2505,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0166_time_2490.00s-2505.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 499,
           "start": 2491.52,
@@ -3564,30 +4833,61 @@
       ]
     },
     {
-      "intervalle_index": 50,
-      "intervalle_debut": 2500,
-      "intervalle_fin": 2550,
-      "timecode_debut_extrait": 2500,
-      "timecode_fin_extrait": 2550,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0050_time_2500.00s-2550.00s.mp4",
+      "intervalle_index": 167,
+      "intervalle_debut": 2505,
+      "intervalle_fin": 2520,
+      "timecode_debut_extrait": 2505,
+      "timecode_fin_extrait": 2520,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0167_time_2505.00s-2520.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 51,
+      "intervalle_index": 168,
+      "intervalle_debut": 2520,
+      "intervalle_fin": 2535,
+      "timecode_debut_extrait": 2520,
+      "timecode_fin_extrait": 2535,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0168_time_2520.00s-2535.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 169,
+      "intervalle_debut": 2535,
+      "intervalle_fin": 2550,
+      "timecode_debut_extrait": 2535,
+      "timecode_fin_extrait": 2550,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0169_time_2535.00s-2550.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 170,
       "intervalle_debut": 2550,
-      "intervalle_fin": 2600,
+      "intervalle_fin": 2565,
       "timecode_debut_extrait": 2550,
-      "timecode_fin_extrait": 2600,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0051_time_2550.00s-2600.00s.mp4",
-      "nombre_sous_titres": 8,
+      "timecode_fin_extrait": 2565,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0170_time_2550.00s-2565.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 502,
           "start": 2564.39,
           "end": 2566.83,
           "text": "Oh, lovely."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 171,
+      "intervalle_debut": 2565,
+      "intervalle_fin": 2580,
+      "timecode_debut_extrait": 2565,
+      "timecode_fin_extrait": 2580,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0171_time_2565.00s-2580.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 503,
           "start": 2571.17,
@@ -3605,7 +4905,18 @@
           "start": 2577.21,
           "end": 2581.73,
           "text": "I find a little soothing lotion does wonders for the complexion."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 172,
+      "intervalle_debut": 2580,
+      "intervalle_fin": 2595,
+      "timecode_debut_extrait": 2580,
+      "timecode_fin_extrait": 2595,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0172_time_2580.00s-2595.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 506,
           "start": 2581.88,
@@ -3623,24 +4934,24 @@
           "start": 2592.79,
           "end": 2595.19,
           "text": "except some of my hair!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 173,
+      "intervalle_debut": 2595,
+      "intervalle_fin": 2610,
+      "timecode_debut_extrait": 2595,
+      "timecode_fin_extrait": 2610,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0173_time_2595.00s-2610.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 509,
           "start": 2595.29,
           "end": 2598.38,
           "text": "Are you clever enough to retrieve that?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 52,
-      "intervalle_debut": 2600,
-      "intervalle_fin": 2650,
-      "timecode_debut_extrait": 2600,
-      "timecode_fin_extrait": 2650,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0052_time_2600.00s-2650.00s.mp4",
-      "nombre_sous_titres": 14,
-      "sous_titres": [
+        },
         {
           "index": 510,
           "start": 2605.13,
@@ -3652,7 +4963,18 @@
           "start": 2607.64,
           "end": 2610.9,
           "text": "My investigation leads me here."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 174,
+      "intervalle_debut": 2610,
+      "intervalle_fin": 2625,
+      "timecode_debut_extrait": 2610,
+      "timecode_fin_extrait": 2625,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0174_time_2610.00s-2625.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 512,
           "start": 2615.98,
@@ -3670,7 +4992,18 @@
           "start": 2621.82,
           "end": 2625.51,
           "text": "Absolutely. She's my responsibility."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 175,
+      "intervalle_debut": 2625,
+      "intervalle_fin": 2640,
+      "timecode_debut_extrait": 2625,
+      "timecode_fin_extrait": 2640,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0175_time_2625.00s-2640.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 515,
           "start": 2625.62,
@@ -3700,7 +5033,18 @@
           "start": 2638.13,
           "end": 2640.36,
           "text": "- Oh, Madellaine. - Madellaine?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 176,
+      "intervalle_debut": 2640,
+      "intervalle_fin": 2655,
+      "timecode_debut_extrait": 2640,
+      "timecode_fin_extrait": 2655,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0176_time_2640.00s-2655.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 520,
           "start": 2640.47,
@@ -3724,24 +5068,24 @@
           "start": 2648.64,
           "end": 2651.88,
           "text": "- Thank you. - No, thank you, Captain."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 53,
-      "intervalle_debut": 2650,
-      "intervalle_fin": 2700,
-      "timecode_debut_extrait": 2650,
-      "timecode_fin_extrait": 2700,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0053_time_2650.00s-2700.00s.mp4",
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 524,
           "start": 2651.98,
           "end": 2655.78,
           "text": "I'll let you get back to your self."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 177,
+      "intervalle_debut": 2655,
+      "intervalle_fin": 2670,
+      "timecode_debut_extrait": 2655,
+      "timecode_fin_extrait": 2670,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0177_time_2655.00s-2670.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 525,
           "start": 2655.88,
@@ -3753,13 +5097,35 @@
           "start": 2659.62,
           "end": 2663.06,
           "text": "while the girl leads the monster and the captain away."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 178,
+      "intervalle_debut": 2670,
+      "intervalle_fin": 2685,
+      "timecode_debut_extrait": 2670,
+      "timecode_fin_extrait": 2685,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0178_time_2670.00s-2685.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 527,
           "start": 2683.15,
           "end": 2687.05,
           "text": "- Madellaine! I... I-I-I want to talk with you. - Oh, um..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 179,
+      "intervalle_debut": 2685,
+      "intervalle_fin": 2700,
+      "timecode_debut_extrait": 2685,
+      "timecode_fin_extrait": 2700,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0179_time_2685.00s-2700.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 528,
           "start": 2687.15,
@@ -3781,13 +5147,13 @@
       ]
     },
     {
-      "intervalle_index": 54,
+      "intervalle_index": 180,
       "intervalle_debut": 2700,
-      "intervalle_fin": 2750,
+      "intervalle_fin": 2715,
       "timecode_debut_extrait": 2700,
-      "timecode_fin_extrait": 2750,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0054_time_2700.00s-2750.00s.mp4",
-      "nombre_sous_titres": 7,
+      "timecode_fin_extrait": 2715,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0180_time_2700.00s-2715.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 531,
@@ -3806,7 +5172,18 @@
           "start": 2712.74,
           "end": 2716.51,
           "text": "- Ah, the price you pay. - Hey, wait!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 181,
+      "intervalle_debut": 2715,
+      "intervalle_fin": 2730,
+      "timecode_debut_extrait": 2715,
+      "timecode_fin_extrait": 2730,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0181_time_2715.00s-2730.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 534,
           "start": 2718.21,
@@ -3824,7 +5201,18 @@
           "start": 2726.05,
           "end": 2728.92,
           "text": "Do you know where I might find her?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 182,
+      "intervalle_debut": 2730,
+      "intervalle_fin": 2745,
+      "timecode_debut_extrait": 2730,
+      "timecode_fin_extrait": 2745,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0182_time_2730.00s-2745.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 537,
           "start": 2733.13,
@@ -3834,13 +5222,13 @@
       ]
     },
     {
-      "intervalle_index": 55,
-      "intervalle_debut": 2750,
-      "intervalle_fin": 2800,
-      "timecode_debut_extrait": 2750,
-      "timecode_fin_extrait": 2800,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0055_time_2750.00s-2800.00s.mp4",
-      "nombre_sous_titres": 10,
+      "intervalle_index": 183,
+      "intervalle_debut": 2745,
+      "intervalle_fin": 2760,
+      "timecode_debut_extrait": 2745,
+      "timecode_fin_extrait": 2760,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0183_time_2745.00s-2760.00s.mp4",
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": 538,
@@ -3853,7 +5241,18 @@
           "start": 2755.75,
           "end": 2760.21,
           "text": "Madellaine says La Fidele is..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 184,
+      "intervalle_debut": 2760,
+      "intervalle_fin": 2775,
+      "timecode_debut_extrait": 2760,
+      "timecode_fin_extrait": 2775,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0184_time_2760.00s-2775.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 540,
           "start": 2761.42,
@@ -3877,7 +5276,18 @@
           "start": 2773.5,
           "end": 2775.73,
           "text": "Oh. What..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 185,
+      "intervalle_debut": 2775,
+      "intervalle_fin": 2790,
+      "timecode_debut_extrait": 2775,
+      "timecode_fin_extrait": 2790,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0185_time_2775.00s-2790.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 544,
           "start": 2777.17,
@@ -3895,30 +5305,41 @@
           "start": 2785.21,
           "end": 2787.31,
           "text": "Oh! They're stealin' La Fidele!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 186,
+      "intervalle_debut": 2790,
+      "intervalle_fin": 2805,
+      "timecode_debut_extrait": 2790,
+      "timecode_fin_extrait": 2805,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0186_time_2790.00s-2805.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 547,
           "start": 2794.22,
           "end": 2796.62,
           "text": "Here, hold this."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 56,
-      "intervalle_debut": 2800,
-      "intervalle_fin": 2850,
-      "timecode_debut_extrait": 2800,
-      "timecode_fin_extrait": 2850,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0056_time_2800.00s-2850.00s.mp4",
-      "nombre_sous_titres": 10,
-      "sous_titres": [
+        },
         {
           "index": 548,
           "start": 2802.33,
           "end": 2805.49,
           "text": "What part of \"hold this\" was too complex?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 187,
+      "intervalle_debut": 2805,
+      "intervalle_fin": 2820,
+      "timecode_debut_extrait": 2805,
+      "timecode_fin_extrait": 2820,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0187_time_2805.00s-2820.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 549,
           "start": 2813.01,
@@ -3930,7 +5351,18 @@
           "start": 2816.85,
           "end": 2819.91,
           "text": "Madellaine, you know, the festival's tomorrow..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 188,
+      "intervalle_debut": 2820,
+      "intervalle_fin": 2835,
+      "timecode_debut_extrait": 2820,
+      "timecode_fin_extrait": 2835,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0188_time_2820.00s-2835.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 551,
           "start": 2820.02,
@@ -3954,7 +5386,18 @@
           "start": 2833.2,
           "end": 2836.76,
           "text": "But I want to be, more than anything."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 189,
+      "intervalle_debut": 2835,
+      "intervalle_fin": 2850,
+      "timecode_debut_extrait": 2835,
+      "timecode_fin_extrait": 2850,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0189_time_2835.00s-2850.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 555,
           "start": 2836.87,
@@ -3976,20 +5419,31 @@
       ]
     },
     {
-      "intervalle_index": 57,
+      "intervalle_index": 190,
       "intervalle_debut": 2850,
-      "intervalle_fin": 2900,
+      "intervalle_fin": 2865,
       "timecode_debut_extrait": 2850,
-      "timecode_fin_extrait": 2900,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0057_time_2850.00s-2900.00s.mp4",
-      "nombre_sous_titres": 9,
+      "timecode_fin_extrait": 2865,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0190_time_2850.00s-2865.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 558,
           "start": 2863.26,
           "end": 2866.66,
           "text": "They stole it! Dad was right."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 191,
+      "intervalle_debut": 2865,
+      "intervalle_fin": 2880,
+      "timecode_debut_extrait": 2865,
+      "timecode_fin_extrait": 2880,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0191_time_2865.00s-2880.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 559,
           "start": 2866.76,
@@ -4007,7 +5461,18 @@
           "start": 2877.37,
           "end": 2880.14,
           "text": "Something's wrong."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 192,
+      "intervalle_debut": 2880,
+      "intervalle_fin": 2895,
+      "timecode_debut_extrait": 2880,
+      "timecode_fin_extrait": 2895,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0192_time_2880.00s-2895.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 562,
           "start": 2880.24,
@@ -4031,24 +5496,24 @@
           "start": 2892.95,
           "end": 2896.39,
           "text": "Sarousch! How could I have been such a fool?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 193,
+      "intervalle_debut": 2895,
+      "intervalle_fin": 2910,
+      "timecode_debut_extrait": 2895,
+      "timecode_fin_extrait": 2910,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0193_time_2895.00s-2910.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 566,
           "start": 2897.96,
           "end": 2899.89,
           "text": "- Sarousch? - Seal off the city..."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 58,
-      "intervalle_debut": 2900,
-      "intervalle_fin": 2950,
-      "timecode_debut_extrait": 2900,
-      "timecode_fin_extrait": 2950,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0058_time_2900.00s-2950.00s.mp4",
-      "nombre_sous_titres": 11,
-      "sous_titres": [
+        },
         {
           "index": 567,
           "start": 2900.0,
@@ -4072,7 +5537,18 @@
           "start": 2908.67,
           "end": 2911.0,
           "text": "I-I wanted to tell you. I tried."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 194,
+      "intervalle_debut": 2910,
+      "intervalle_fin": 2925,
+      "timecode_debut_extrait": 2910,
+      "timecode_fin_extrait": 2925,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0194_time_2910.00s-2925.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 571,
           "start": 2911.11,
@@ -4108,7 +5584,18 @@
           "start": 2923.79,
           "end": 2928.52,
           "text": "No! No! Quasi, please, just... just let me explain."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 195,
+      "intervalle_debut": 2925,
+      "intervalle_fin": 2940,
+      "timecode_debut_extrait": 2925,
+      "timecode_fin_extrait": 2940,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0195_time_2925.00s-2940.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 577,
           "start": 2928.66,
@@ -4118,13 +5605,33 @@
       ]
     },
     {
-      "intervalle_index": 59,
-      "intervalle_debut": 2950,
-      "intervalle_fin": 3000,
-      "timecode_debut_extrait": 2950,
-      "timecode_fin_extrait": 3000,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0059_time_2950.00s-3000.00s.mp4",
-      "nombre_sous_titres": 6,
+      "intervalle_index": 196,
+      "intervalle_debut": 2940,
+      "intervalle_fin": 2955,
+      "timecode_debut_extrait": 2940,
+      "timecode_fin_extrait": 2955,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0196_time_2940.00s-2955.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 197,
+      "intervalle_debut": 2955,
+      "intervalle_fin": 2970,
+      "timecode_debut_extrait": 2955,
+      "timecode_fin_extrait": 2970,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0197_time_2955.00s-2970.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 198,
+      "intervalle_debut": 2970,
+      "intervalle_fin": 2985,
+      "timecode_debut_extrait": 2970,
+      "timecode_fin_extrait": 2985,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0198_time_2970.00s-2985.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 578,
@@ -4149,7 +5656,18 @@
           "start": 2982.71,
           "end": 2985.44,
           "text": "- We gotta hurry. - Speed is essential. - It wasn't my fault."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 199,
+      "intervalle_debut": 2985,
+      "intervalle_fin": 3000,
+      "timecode_debut_extrait": 2985,
+      "timecode_fin_extrait": 3000,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0199_time_2985.00s-3000.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 582,
           "start": 2985.55,
@@ -4165,13 +5683,13 @@
       ]
     },
     {
-      "intervalle_index": 60,
+      "intervalle_index": 200,
       "intervalle_debut": 3000,
-      "intervalle_fin": 3050,
+      "intervalle_fin": 3015,
       "timecode_debut_extrait": 3000,
-      "timecode_fin_extrait": 3050,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0060_time_3000.00s-3050.00s.mp4",
-      "nombre_sous_titres": 4,
+      "timecode_fin_extrait": 3015,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0200_time_3000.00s-3015.00s.mp4",
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": 584,
@@ -4184,36 +5702,68 @@
           "start": 3005.73,
           "end": 3008.86,
           "text": "Halt! Okay. Come on."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 201,
+      "intervalle_debut": 3015,
+      "intervalle_fin": 3030,
+      "timecode_debut_extrait": 3015,
+      "timecode_fin_extrait": 3030,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0201_time_3015.00s-3030.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 202,
+      "intervalle_debut": 3030,
+      "intervalle_fin": 3045,
+      "timecode_debut_extrait": 3030,
+      "timecode_fin_extrait": 3045,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0202_time_3030.00s-3045.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 586,
           "start": 3040.44,
           "end": 3045.0,
           "text": "Won't be long now till we're home free."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 203,
+      "intervalle_debut": 3045,
+      "intervalle_fin": 3060,
+      "timecode_debut_extrait": 3045,
+      "timecode_fin_extrait": 3060,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0203_time_3045.00s-3060.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 587,
           "start": 3045.11,
           "end": 3048.08,
           "text": "Wha..."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 61,
-      "intervalle_debut": 3050,
-      "intervalle_fin": 3100,
-      "timecode_debut_extrait": 3050,
-      "timecode_fin_extrait": 3100,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0061_time_3050.00s-3100.00s.mp4",
-      "nombre_sous_titres": 12,
-      "sous_titres": [
+        },
         {
           "index": 588,
           "start": 3055.92,
           "end": 3059.44,
           "text": "Come here! Come back! Come back here!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 204,
+      "intervalle_debut": 3060,
+      "intervalle_fin": 3075,
+      "timecode_debut_extrait": 3060,
+      "timecode_fin_extrait": 3075,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0204_time_3060.00s-3075.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 589,
           "start": 3062.26,
@@ -4231,7 +5781,18 @@
           "start": 3072.33,
           "end": 3075.73,
           "text": "Captain, the city is secured, but there is no sign of Sarousch."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 205,
+      "intervalle_debut": 3075,
+      "intervalle_fin": 3090,
+      "timecode_debut_extrait": 3075,
+      "timecode_fin_extrait": 3090,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0205_time_3075.00s-3090.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 592,
           "start": 3075.84,
@@ -4261,7 +5822,18 @@
           "start": 3086.38,
           "end": 3090.37,
           "text": "Sarousch has made a living from illusion, but I can outthink him."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 206,
+      "intervalle_debut": 3090,
+      "intervalle_fin": 3105,
+      "timecode_debut_extrait": 3090,
+      "timecode_fin_extrait": 3105,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0206_time_3090.00s-3105.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 597,
           "start": 3090.49,
@@ -4279,18 +5851,7 @@
           "start": 3098.06,
           "end": 3100.39,
           "text": "He's taken the bell underground."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 62,
-      "intervalle_debut": 3100,
-      "intervalle_fin": 3150,
-      "timecode_debut_extrait": 3100,
-      "timecode_fin_extrait": 3150,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0062_time_3100.00s-3150.00s.mp4",
-      "nombre_sous_titres": 6,
-      "sous_titres": [
+        },
         {
           "index": 600,
           "start": 3100.53,
@@ -4302,7 +5863,18 @@
           "start": 3103.77,
           "end": 3106.43,
           "text": "And she could be saying exactly what Sarousch wants her to."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 207,
+      "intervalle_debut": 3105,
+      "intervalle_fin": 3120,
+      "timecode_debut_extrait": 3105,
+      "timecode_fin_extrait": 3120,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0207_time_3105.00s-3120.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 602,
           "start": 3106.57,
@@ -4320,7 +5892,18 @@
           "start": 3114.61,
           "end": 3118.98,
           "text": "Maybe you should look again like you did with me."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 208,
+      "intervalle_debut": 3120,
+      "intervalle_fin": 3135,
+      "timecode_debut_extrait": 3120,
+      "timecode_fin_extrait": 3135,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0208_time_3120.00s-3135.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 605,
           "start": 3125.22,
@@ -4330,13 +5913,33 @@
       ]
     },
     {
-      "intervalle_index": 63,
+      "intervalle_index": 209,
+      "intervalle_debut": 3135,
+      "intervalle_fin": 3150,
+      "timecode_debut_extrait": 3135,
+      "timecode_fin_extrait": 3150,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0209_time_3135.00s-3150.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 210,
       "intervalle_debut": 3150,
-      "intervalle_fin": 3200,
+      "intervalle_fin": 3165,
       "timecode_debut_extrait": 3150,
-      "timecode_fin_extrait": 3200,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0063_time_3150.00s-3200.00s.mp4",
-      "nombre_sous_titres": 7,
+      "timecode_fin_extrait": 3165,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0210_time_3150.00s-3165.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 211,
+      "intervalle_debut": 3165,
+      "intervalle_fin": 3180,
+      "timecode_debut_extrait": 3165,
+      "timecode_fin_extrait": 3180,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0211_time_3165.00s-3180.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 606,
@@ -4355,7 +5958,18 @@
           "start": 3175.24,
           "end": 3178.1,
           "text": "Hurry, Djali, take us to him!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 212,
+      "intervalle_debut": 3180,
+      "intervalle_fin": 3195,
+      "timecode_debut_extrait": 3180,
+      "timecode_fin_extrait": 3195,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0212_time_3180.00s-3195.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 609,
           "start": 3182.44,
@@ -4373,24 +5987,24 @@
           "start": 3193.92,
           "end": 3196.25,
           "text": "Surrender now!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 213,
+      "intervalle_debut": 3195,
+      "intervalle_fin": 3210,
+      "timecode_debut_extrait": 3195,
+      "timecode_fin_extrait": 3210,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0213_time_3195.00s-3210.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 612,
           "start": 3199.76,
           "end": 3202.25,
           "text": "- You've got no way out! - Oh, really?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 64,
-      "intervalle_debut": 3200,
-      "intervalle_fin": 3250,
-      "timecode_debut_extrait": 3200,
-      "timecode_fin_extrait": 3250,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0064_time_3200.00s-3250.00s.mp4",
-      "nombre_sous_titres": 13,
-      "sous_titres": [
+        },
         {
           "index": 613,
           "start": 3202.36,
@@ -4414,7 +6028,18 @@
           "start": 3209.64,
           "end": 3212.16,
           "text": "Let him go? I think not, Captain."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 214,
+      "intervalle_debut": 3210,
+      "intervalle_fin": 3225,
+      "timecode_debut_extrait": 3210,
+      "timecode_fin_extrait": 3225,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0214_time_3210.00s-3225.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 617,
           "start": 3212.27,
@@ -4444,7 +6069,18 @@
           "start": 3224.72,
           "end": 3226.78,
           "text": "your precious little boy again."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 215,
+      "intervalle_debut": 3225,
+      "intervalle_fin": 3240,
+      "timecode_debut_extrait": 3225,
+      "timecode_fin_extrait": 3240,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0215_time_3225.00s-3240.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 622,
           "start": 3226.89,
@@ -4472,13 +6108,23 @@
       ]
     },
     {
-      "intervalle_index": 65,
-      "intervalle_debut": 3250,
-      "intervalle_fin": 3300,
-      "timecode_debut_extrait": 3250,
-      "timecode_fin_extrait": 3300,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0065_time_3250.00s-3300.00s.mp4",
-      "nombre_sous_titres": 6,
+      "intervalle_index": 216,
+      "intervalle_debut": 3240,
+      "intervalle_fin": 3255,
+      "timecode_debut_extrait": 3240,
+      "timecode_fin_extrait": 3255,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0216_time_3240.00s-3255.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 217,
+      "intervalle_debut": 3255,
+      "intervalle_fin": 3270,
+      "timecode_debut_extrait": 3255,
+      "timecode_fin_extrait": 3270,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0217_time_3255.00s-3270.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 626,
@@ -4503,7 +6149,18 @@
           "start": 3269.56,
           "end": 3271.73,
           "text": "How can I?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 218,
+      "intervalle_debut": 3270,
+      "intervalle_fin": 3285,
+      "timecode_debut_extrait": 3270,
+      "timecode_fin_extrait": 3285,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0218_time_3270.00s-3285.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 630,
           "start": 3271.87,
@@ -4519,13 +6176,23 @@
       ]
     },
     {
-      "intervalle_index": 66,
+      "intervalle_index": 219,
+      "intervalle_debut": 3285,
+      "intervalle_fin": 3300,
+      "timecode_debut_extrait": 3285,
+      "timecode_fin_extrait": 3300,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0219_time_3285.00s-3300.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 220,
       "intervalle_debut": 3300,
-      "intervalle_fin": 3350,
+      "intervalle_fin": 3315,
       "timecode_debut_extrait": 3300,
-      "timecode_fin_extrait": 3350,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0066_time_3300.00s-3350.00s.mp4",
-      "nombre_sous_titres": 5,
+      "timecode_fin_extrait": 3315,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0220_time_3300.00s-3315.00s.mp4",
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": 632,
@@ -4538,42 +6205,75 @@
           "start": 3312.31,
           "end": 3314.9,
           "text": "Mama! Papa!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 221,
+      "intervalle_debut": 3315,
+      "intervalle_fin": 3330,
+      "timecode_debut_extrait": 3315,
+      "timecode_fin_extrait": 3330,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0221_time_3315.00s-3330.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 634,
           "start": 3325.62,
           "end": 3329.65,
           "text": "You hold the rope. I'll do the rest."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 222,
+      "intervalle_debut": 3330,
+      "intervalle_fin": 3345,
+      "timecode_debut_extrait": 3330,
+      "timecode_fin_extrait": 3345,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0222_time_3330.00s-3345.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 635,
           "start": 3336.46,
           "end": 3341.16,
           "text": "A hush comes over the crowd as Madellaine begins her graceful trek."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 223,
+      "intervalle_debut": 3345,
+      "intervalle_fin": 3360,
+      "timecode_debut_extrait": 3345,
+      "timecode_fin_extrait": 3360,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0223_time_3345.00s-3360.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 636,
           "start": 3347.61,
           "end": 3350.94,
           "text": "I can do this. I can do this."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 67,
-      "intervalle_debut": 3350,
-      "intervalle_fin": 3400,
-      "timecode_debut_extrait": 3350,
-      "timecode_fin_extrait": 3400,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0067_time_3350.00s-3400.00s.mp4",
-      "nombre_sous_titres": 8,
-      "sous_titres": [
+        },
         {
           "index": 637,
           "start": 3351.05,
           "end": 3353.61,
           "text": "I know you can."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 224,
+      "intervalle_debut": 3360,
+      "intervalle_fin": 3375,
+      "timecode_debut_extrait": 3360,
+      "timecode_fin_extrait": 3375,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0224_time_3360.00s-3375.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 638,
           "start": 3367.83,
@@ -4585,7 +6285,18 @@
           "start": 3372.87,
           "end": 3375.17,
           "text": "Just standing here looking pretty."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 225,
+      "intervalle_debut": 3375,
+      "intervalle_fin": 3390,
+      "timecode_debut_extrait": 3375,
+      "timecode_fin_extrait": 3390,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0225_time_3375.00s-3390.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 640,
           "start": 3379.51,
@@ -4603,7 +6314,18 @@
           "start": 3388.85,
           "end": 3391.61,
           "text": "Oh, Mom, Dad."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 226,
+      "intervalle_debut": 3390,
+      "intervalle_fin": 3405,
+      "timecode_debut_extrait": 3390,
+      "timecode_fin_extrait": 3405,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0226_time_3390.00s-3405.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 643,
           "start": 3393.52,
@@ -4615,18 +6337,7 @@
           "start": 3395.69,
           "end": 3398.99,
           "text": "- This is not the ending I had in mind. - Get in there!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 68,
-      "intervalle_debut": 3400,
-      "intervalle_fin": 3450,
-      "timecode_debut_extrait": 3400,
-      "timecode_fin_extrait": 3450,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0068_time_3400.00s-3450.00s.mp4",
-      "nombre_sous_titres": 7,
-      "sous_titres": [
+        },
         {
           "index": 645,
           "start": 3400.36,
@@ -4638,7 +6349,28 @@
           "start": 3403.36,
           "end": 3406.33,
           "text": "Did I mention I do birthday parties?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 227,
+      "intervalle_debut": 3405,
+      "intervalle_fin": 3420,
+      "timecode_debut_extrait": 3405,
+      "timecode_fin_extrait": 3420,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0227_time_3405.00s-3420.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 228,
+      "intervalle_debut": 3420,
+      "intervalle_fin": 3435,
+      "timecode_debut_extrait": 3420,
+      "timecode_fin_extrait": 3435,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0228_time_3420.00s-3435.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 647,
           "start": 3422.78,
@@ -4662,7 +6394,18 @@
           "start": 3433.26,
           "end": 3436.36,
           "text": "I love Josette!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 229,
+      "intervalle_debut": 3435,
+      "intervalle_fin": 3450,
+      "timecode_debut_extrait": 3435,
+      "timecode_fin_extrait": 3450,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0229_time_3435.00s-3450.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 651,
           "start": 3438.5,
@@ -4672,13 +6415,13 @@
       ]
     },
     {
-      "intervalle_index": 69,
+      "intervalle_index": 230,
       "intervalle_debut": 3450,
-      "intervalle_fin": 3500,
+      "intervalle_fin": 3465,
       "timecode_debut_extrait": 3450,
-      "timecode_fin_extrait": 3500,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0069_time_3450.00s-3500.00s.mp4",
-      "nombre_sous_titres": 8,
+      "timecode_fin_extrait": 3465,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0230_time_3450.00s-3465.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 652,
@@ -4697,13 +6440,35 @@
           "start": 3462.19,
           "end": 3467.53,
           "text": "I love Esmeralda!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 231,
+      "intervalle_debut": 3465,
+      "intervalle_fin": 3480,
+      "timecode_debut_extrait": 3465,
+      "timecode_fin_extrait": 3480,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0231_time_3465.00s-3480.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 655,
           "start": 3467.63,
           "end": 3471.43,
           "text": "I love Phoebus!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 232,
+      "intervalle_debut": 3480,
+      "intervalle_fin": 3495,
+      "timecode_debut_extrait": 3480,
+      "timecode_fin_extrait": 3495,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0232_time_3480.00s-3495.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 656,
           "start": 3485.51,
@@ -4715,7 +6480,18 @@
           "start": 3488.15,
           "end": 3490.74,
           "text": "- Huh? Hmm. - What is it?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 233,
+      "intervalle_debut": 3495,
+      "intervalle_fin": 3510,
+      "timecode_debut_extrait": 3495,
+      "timecode_fin_extrait": 3510,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0233_time_3495.00s-3510.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 658,
           "start": 3497.16,
@@ -4727,18 +6503,7 @@
           "start": 3499.73,
           "end": 3502.13,
           "text": "that the world is full of miracles."
-        }
-      ]
-    },
-    {
-      "intervalle_index": 70,
-      "intervalle_debut": 3500,
-      "intervalle_fin": 3550,
-      "timecode_debut_extrait": 3500,
-      "timecode_fin_extrait": 3550,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0070_time_3500.00s-3550.00s.mp4",
-      "nombre_sous_titres": 12,
-      "sous_titres": [
+        },
         {
           "index": 660,
           "start": 3502.23,
@@ -4756,7 +6521,18 @@
           "start": 3508.97,
           "end": 3510.37,
           "text": "Yuck."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 234,
+      "intervalle_debut": 3510,
+      "intervalle_fin": 3525,
+      "timecode_debut_extrait": 3510,
+      "timecode_fin_extrait": 3525,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0234_time_3510.00s-3525.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 663,
           "start": 3510.47,
@@ -4786,7 +6562,18 @@
           "start": 3522.15,
           "end": 3525.31,
           "text": "like me!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 235,
+      "intervalle_debut": 3525,
+      "intervalle_fin": 3540,
+      "timecode_debut_extrait": 3525,
+      "timecode_fin_extrait": 3540,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0235_time_3525.00s-3540.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 668,
           "start": 3525.42,
@@ -4804,24 +6591,24 @@
           "start": 3532.49,
           "end": 3534.69,
           "text": "- Wha... - Huh?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 236,
+      "intervalle_debut": 3540,
+      "intervalle_fin": 3555,
+      "timecode_debut_extrait": 3540,
+      "timecode_fin_extrait": 3555,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0236_time_3540.00s-3555.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 671,
           "start": 3548.84,
           "end": 3553.28,
           "text": "I love Madellaine!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 71,
-      "intervalle_debut": 3550,
-      "intervalle_fin": 3600,
-      "timecode_debut_extrait": 3550,
-      "timecode_fin_extrait": 3600,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0071_time_3550.00s-3600.00s.mp4",
-      "nombre_sous_titres": 1,
-      "sous_titres": [
+        },
         {
           "index": 672,
           "start": 3553.38,
@@ -4831,13 +6618,43 @@
       ]
     },
     {
-      "intervalle_index": 72,
+      "intervalle_index": 237,
+      "intervalle_debut": 3555,
+      "intervalle_fin": 3570,
+      "timecode_debut_extrait": 3555,
+      "timecode_fin_extrait": 3570,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0237_time_3555.00s-3570.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 238,
+      "intervalle_debut": 3570,
+      "intervalle_fin": 3585,
+      "timecode_debut_extrait": 3570,
+      "timecode_fin_extrait": 3585,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0238_time_3570.00s-3585.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 239,
+      "intervalle_debut": 3585,
+      "intervalle_fin": 3600,
+      "timecode_debut_extrait": 3585,
+      "timecode_fin_extrait": 3600,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0239_time_3585.00s-3600.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 240,
       "intervalle_debut": 3600,
-      "intervalle_fin": 3650,
+      "intervalle_fin": 3615,
       "timecode_debut_extrait": 3600,
-      "timecode_fin_extrait": 3650,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0072_time_3600.00s-3650.00s.mp4",
-      "nombre_sous_titres": 12,
+      "timecode_fin_extrait": 3615,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0240_time_3600.00s-3615.00s.mp4",
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": 673,
@@ -4850,7 +6667,18 @@
           "start": 3613.47,
           "end": 3617.07,
           "text": "<i>Stories in his eyes</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 241,
+      "intervalle_debut": 3615,
+      "intervalle_fin": 3630,
+      "timecode_debut_extrait": 3615,
+      "timecode_fin_extrait": 3630,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0241_time_3615.00s-3630.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 675,
           "start": 3617.21,
@@ -4874,7 +6702,18 @@
           "start": 3628.12,
           "end": 3631.56,
           "text": "<i>That he turned and looked my way</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 242,
+      "intervalle_debut": 3630,
+      "intervalle_fin": 3645,
+      "timecode_debut_extrait": 3630,
+      "timecode_fin_extrait": 3645,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0242_time_3630.00s-3645.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 679,
           "start": 3631.69,
@@ -4898,7 +6737,18 @@
           "start": 3643.84,
           "end": 3647.54,
           "text": "<i>The shimmer of moonbeams</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 243,
+      "intervalle_debut": 3645,
+      "intervalle_fin": 3660,
+      "timecode_debut_extrait": 3645,
+      "timecode_fin_extrait": 3660,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0243_time_3645.00s-3660.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 683,
           "start": 3647.64,
@@ -4910,18 +6760,7 @@
           "start": 3649.18,
           "end": 3654.44,
           "text": "<i>But now he's helped me see</i>"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 73,
-      "intervalle_debut": 3650,
-      "intervalle_fin": 3700,
-      "timecode_debut_extrait": 3650,
-      "timecode_fin_extrait": 3700,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0073_time_3650.00s-3700.00s.mp4",
-      "nombre_sous_titres": 13,
-      "sous_titres": [
+        },
         {
           "index": 685,
           "start": 3654.55,
@@ -4933,7 +6772,18 @@
           "start": 3658.89,
           "end": 3662.58,
           "text": "<i>His happiness surrounds</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 244,
+      "intervalle_debut": 3660,
+      "intervalle_fin": 3675,
+      "timecode_debut_extrait": 3660,
+      "timecode_fin_extrait": 3675,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0244_time_3660.00s-3675.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 687,
           "start": 3662.69,
@@ -4957,7 +6807,18 @@
           "start": 3674.07,
           "end": 3677.56,
           "text": "<i>For the rest of my life</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 245,
+      "intervalle_debut": 3675,
+      "intervalle_fin": 3690,
+      "timecode_debut_extrait": 3675,
+      "timecode_fin_extrait": 3690,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0245_time_3675.00s-3690.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 691,
           "start": 3677.67,
@@ -4981,7 +6842,18 @@
           "start": 3689.18,
           "end": 3692.68,
           "text": "<i>'Cause my soul would die</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 246,
+      "intervalle_debut": 3690,
+      "intervalle_fin": 3705,
+      "timecode_debut_extrait": 3690,
+      "timecode_fin_extrait": 3705,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0246_time_3690.00s-3705.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 695,
           "start": 3692.79,
@@ -5003,13 +6875,13 @@
       ]
     },
     {
-      "intervalle_index": 74,
-      "intervalle_debut": 3700,
-      "intervalle_fin": 3750,
-      "timecode_debut_extrait": 3700,
-      "timecode_fin_extrait": 3750,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0074_time_3700.00s-3750.00s.mp4",
-      "nombre_sous_titres": 12,
+      "intervalle_index": 247,
+      "intervalle_debut": 3705,
+      "intervalle_fin": 3720,
+      "timecode_debut_extrait": 3705,
+      "timecode_fin_extrait": 3720,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0247_time_3705.00s-3720.00s.mp4",
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 698,
@@ -5034,7 +6906,18 @@
           "start": 3717.75,
           "end": 3723.15,
           "text": "<i>And I saw you differently</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 248,
+      "intervalle_debut": 3720,
+      "intervalle_fin": 3735,
+      "timecode_debut_extrait": 3720,
+      "timecode_fin_extrait": 3735,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0248_time_3720.00s-3735.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 702,
           "start": 3723.25,
@@ -5058,7 +6941,18 @@
           "start": 3733.09,
           "end": 3738.53,
           "text": "<i>That's sure to never end</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 249,
+      "intervalle_debut": 3735,
+      "intervalle_fin": 3750,
+      "timecode_debut_extrait": 3735,
+      "timecode_fin_extrait": 3750,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0249_time_3735.00s-3750.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 706,
           "start": 3738.63,
@@ -5086,13 +6980,13 @@
       ]
     },
     {
-      "intervalle_index": 75,
+      "intervalle_index": 250,
       "intervalle_debut": 3750,
-      "intervalle_fin": 3800,
+      "intervalle_fin": 3765,
       "timecode_debut_extrait": 3750,
-      "timecode_fin_extrait": 3800,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0075_time_3750.00s-3800.00s.mp4",
-      "nombre_sous_titres": 7,
+      "timecode_fin_extrait": 3765,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0250_time_3750.00s-3765.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 710,
@@ -5111,7 +7005,18 @@
           "start": 3761.46,
           "end": 3765.02,
           "text": "<i>You know I'm tellin’ the truth</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 251,
+      "intervalle_debut": 3765,
+      "intervalle_fin": 3780,
+      "timecode_debut_extrait": 3765,
+      "timecode_fin_extrait": 3780,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0251_time_3765.00s-3780.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 713,
           "start": 3765.16,
@@ -5129,7 +7034,18 @@
           "start": 3776.4,
           "end": 3780.13,
           "text": "<i>The rest of my life, baby</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 252,
+      "intervalle_debut": 3780,
+      "intervalle_fin": 3795,
+      "timecode_debut_extrait": 3780,
+      "timecode_fin_extrait": 3795,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0252_time_3780.00s-3795.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 716,
           "start": 3783.58,
@@ -5139,42 +7055,112 @@
       ]
     },
     {
-      "intervalle_index": 76,
-      "intervalle_debut": 3800,
-      "intervalle_fin": 3850,
-      "timecode_debut_extrait": 3800,
-      "timecode_fin_extrait": 3850,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0076_time_3800.00s-3850.00s.mp4",
+      "intervalle_index": 253,
+      "intervalle_debut": 3795,
+      "intervalle_fin": 3810,
+      "timecode_debut_extrait": 3795,
+      "timecode_fin_extrait": 3810,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0253_time_3795.00s-3810.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 77,
-      "intervalle_debut": 3850,
+      "intervalle_index": 254,
+      "intervalle_debut": 3810,
+      "intervalle_fin": 3825,
+      "timecode_debut_extrait": 3810,
+      "timecode_fin_extrait": 3825,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0254_time_3810.00s-3825.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 255,
+      "intervalle_debut": 3825,
+      "intervalle_fin": 3840,
+      "timecode_debut_extrait": 3825,
+      "timecode_fin_extrait": 3840,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0255_time_3825.00s-3840.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 256,
+      "intervalle_debut": 3840,
+      "intervalle_fin": 3855,
+      "timecode_debut_extrait": 3840,
+      "timecode_fin_extrait": 3855,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0256_time_3840.00s-3855.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 257,
+      "intervalle_debut": 3855,
+      "intervalle_fin": 3870,
+      "timecode_debut_extrait": 3855,
+      "timecode_fin_extrait": 3870,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0257_time_3855.00s-3870.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 258,
+      "intervalle_debut": 3870,
+      "intervalle_fin": 3885,
+      "timecode_debut_extrait": 3870,
+      "timecode_fin_extrait": 3885,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0258_time_3870.00s-3885.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 259,
+      "intervalle_debut": 3885,
       "intervalle_fin": 3900,
-      "timecode_debut_extrait": 3850,
+      "timecode_debut_extrait": 3885,
       "timecode_fin_extrait": 3900,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0077_time_3850.00s-3900.00s.mp4",
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0259_time_3885.00s-3900.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 78,
+      "intervalle_index": 260,
       "intervalle_debut": 3900,
-      "intervalle_fin": 3950,
+      "intervalle_fin": 3915,
       "timecode_debut_extrait": 3900,
-      "timecode_fin_extrait": 3950,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0078_time_3900.00s-3950.00s.mp4",
+      "timecode_fin_extrait": 3915,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0260_time_3900.00s-3915.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
     {
-      "intervalle_index": 79,
-      "intervalle_debut": 3950,
+      "intervalle_index": 261,
+      "intervalle_debut": 3915,
+      "intervalle_fin": 3930,
+      "timecode_debut_extrait": 3915,
+      "timecode_fin_extrait": 3930,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0261_time_3915.00s-3930.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 262,
+      "intervalle_debut": 3930,
+      "intervalle_fin": 3945,
+      "timecode_debut_extrait": 3930,
+      "timecode_fin_extrait": 3945,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0262_time_3930.00s-3945.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 263,
+      "intervalle_debut": 3945,
       "intervalle_fin": 3958.517,
-      "timecode_debut_extrait": 3950,
+      "timecode_debut_extrait": 3945,
       "timecode_fin_extrait": 3958.517,
-      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0079_time_3950.00s-3958.52s.mp4",
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0263_time_3945.00s-3958.52s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     }

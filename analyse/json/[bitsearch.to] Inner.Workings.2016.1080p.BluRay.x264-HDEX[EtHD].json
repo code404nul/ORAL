@@ -2,26 +2,37 @@
   "movie_id": "[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]",
   "movie_path": "E:\\film_oral\\Inner Workings (2016)\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD].mkv",
   "subtitle_path": "E:\\film_oral\\Inner Workings (2016)\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD].en.srt",
-  "intervalle_secondes": 50,
-  "nombre_intervalles": 8,
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 26,
   "dossier_videos": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]",
-  "date_traitement": "2026-02-10T12:45:26.931697",
+  "date_traitement": "2026-02-10T21:23:53.536196",
   "intervalles": [
     {
       "intervalle_index": 0,
       "intervalle_debut": 0,
-      "intervalle_fin": 50,
+      "intervalle_fin": 15,
       "timecode_debut_extrait": 0,
-      "timecode_fin_extrait": 50,
-      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0000_time_0.00s-50.00s.mp4",
-      "nombre_sous_titres": 12,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": "﻿1",
           "start": 1.4020000000000001,
           "end": 3.104,
           "text": "(WHISTLING)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 2,
           "start": 17.718,
@@ -45,7 +56,18 @@
           "start": 29.797,
           "end": 31.065,
           "text": "(ALARM STOPS)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 6,
           "start": 32.366,
@@ -69,7 +91,18 @@
           "start": 44.112,
           "end": 44.712,
           "text": "(GROANING)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
         {
           "index": 10,
           "start": 46.314,
@@ -87,18 +120,7 @@
           "start": 49.15,
           "end": 50.184,
           "text": "(UPBEAT SONG PLAYING)"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 1,
-      "intervalle_debut": 50,
-      "intervalle_fin": 100,
-      "timecode_debut_extrait": 50,
-      "timecode_fin_extrait": 100,
-      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0001_time_50.00s-100.00s.mp4",
-      "nombre_sous_titres": 20,
-      "sous_titres": [
+        },
         {
           "index": 13,
           "start": 50.218,
@@ -140,7 +162,18 @@
           "start": 59.16,
           "end": 60.461,
           "text": "(YELPS)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 20,
           "start": 60.494,
@@ -170,7 +203,18 @@
           "start": 72.606,
           "end": 73.607,
           "text": "(BEEPS)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 25,
           "start": 76.377,
@@ -206,7 +250,18 @@
           "start": 89.657,
           "end": 91.259,
           "text": "(PRAYING IN LATIN)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 31,
           "start": 93.794,
@@ -218,18 +273,7 @@
           "start": 96.497,
           "end": 98.132,
           "text": "(CHEWING LOUDLY)"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 2,
-      "intervalle_debut": 100,
-      "intervalle_fin": 150,
-      "timecode_debut_extrait": 100,
-      "timecode_fin_extrait": 150,
-      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0002_time_100.00s-150.00s.mp4",
-      "nombre_sous_titres": 15,
-      "sous_titres": [
+        },
         {
           "index": 33,
           "start": 100.901,
@@ -241,7 +285,18 @@
           "start": 102.536,
           "end": 103.737,
           "text": "Yeah! Whoo-hoo!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 35,
           "start": 106.94,
@@ -265,7 +320,18 @@
           "start": 119.62,
           "end": 120.621,
           "text": "(CHAINSAWS REVVING)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 39,
           "start": 121.755,
@@ -301,7 +367,18 @@
           "start": 134.768,
           "end": 135.869,
           "text": "Oh."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 45,
           "start": 138.539,
@@ -323,13 +400,13 @@
       ]
     },
     {
-      "intervalle_index": 3,
+      "intervalle_index": 10,
       "intervalle_debut": 150,
-      "intervalle_fin": 200,
+      "intervalle_fin": 165,
       "timecode_debut_extrait": 150,
-      "timecode_fin_extrait": 200,
-      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0003_time_150.00s-200.00s.mp4",
-      "nombre_sous_titres": 10,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 5,
       "sous_titres": [
         {
           "index": 48,
@@ -360,7 +437,18 @@
           "start": 164.298,
           "end": 165.333,
           "text": "ALL: Harumph."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 53,
           "start": 165.366,
@@ -378,48 +466,92 @@
           "start": 175.343,
           "end": 175.943,
           "text": "(BEEPS)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 56,
           "start": 180.848,
           "end": 183.517,
           "text": "(COMPUTERS BEEPING IN UNISON)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 57,
           "start": 197.365,
           "end": 198.866,
           "text": "(SORROWFUL MUSIC PLAYING)"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 4,
-      "intervalle_debut": 200,
-      "intervalle_fin": 250,
-      "timecode_debut_extrait": 200,
-      "timecode_fin_extrait": 250,
-      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0004_time_200.00s-250.00s.mp4",
-      "nombre_sous_titres": 4,
-      "sous_titres": [
+        },
         {
           "index": 58,
           "start": 209.71,
           "end": 210.911,
           "text": "(COMPUTER BEEPING)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 59,
           "start": 215.516,
           "end": 216.784,
           "text": "(ALL COMPUTERS BEEPING)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 60,
           "start": 234.668,
           "end": 235.903,
           "text": "(LAUGHTER)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 61,
           "start": 248.682,
@@ -429,20 +561,31 @@
       ]
     },
     {
-      "intervalle_index": 5,
-      "intervalle_debut": 250,
-      "intervalle_fin": 300,
-      "timecode_debut_extrait": 250,
-      "timecode_fin_extrait": 300,
-      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0005_time_250.00s-300.00s.mp4",
-      "nombre_sous_titres": 7,
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 62,
           "start": 255.823,
           "end": 257.425,
           "text": "(ALL CHEWING IN UNISON)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 63,
           "start": 274.842,
@@ -460,7 +603,18 @@
           "start": 283.384,
           "end": 284.618,
           "text": "Aw, man!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 66,
           "start": 291.592,
@@ -482,13 +636,13 @@
       ]
     },
     {
-      "intervalle_index": 6,
+      "intervalle_index": 20,
       "intervalle_debut": 300,
-      "intervalle_fin": 350,
+      "intervalle_fin": 315,
       "timecode_debut_extrait": 300,
-      "timecode_fin_extrait": 350,
-      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0006_time_300.00s-350.00s.mp4",
-      "nombre_sous_titres": 8,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 3,
       "sous_titres": [
         {
           "index": 69,
@@ -507,7 +661,18 @@
           "start": 313.113,
           "end": 314.382,
           "text": "(GASPS)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 72,
           "start": 320.654,
@@ -519,7 +684,18 @@
           "start": 322.39,
           "end": 323.591,
           "text": "(LAUGHING)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 74,
           "start": 335.836,
@@ -531,24 +707,24 @@
           "start": 339.473,
           "end": 341.675,
           "text": "(PLAYING UPBEAT TUNE ON KEYBOARD)"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 76,
           "start": 346.847,
           "end": 348.348,
           "text": "Hmm? Huh?"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 7,
-      "intervalle_debut": 350,
-      "intervalle_fin": 386.23,
-      "timecode_debut_extrait": 350,
-      "timecode_fin_extrait": 386.23,
-      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0007_time_350.00s-386.23s.mp4",
-      "nombre_sous_titres": 14,
-      "sous_titres": [
+        },
         {
           "index": 77,
           "start": 350.818,
@@ -572,7 +748,18 @@
           "start": 359.059,
           "end": 360.894,
           "text": "* When you hit them bongos"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 81,
           "start": 360.928,
@@ -614,7 +801,18 @@
           "start": 371.839,
           "end": 375.676,
           "text": "* Loco, when you hit the bongo..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 386.23,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 386.23,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0025_time_375.00s-386.23s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 88,
           "start": 375.709,

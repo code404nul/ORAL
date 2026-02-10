@@ -2,19 +2,19 @@
   "movie_id": "[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)",
   "movie_path": "E:\\film_oral\\Once Upon a Studio (2023)\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost).mkv",
   "subtitle_path": "E:\\film_oral\\Once Upon a Studio (2023)\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost).en.srt",
-  "intervalle_secondes": 50,
-  "nombre_intervalles": 11,
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 36,
   "dossier_videos": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)",
-  "date_traitement": "2026-02-10T13:04:26.744726",
+  "date_traitement": "2026-02-10T21:35:15.338483",
   "intervalles": [
     {
       "intervalle_index": 0,
       "intervalle_debut": 0,
-      "intervalle_fin": 50,
+      "intervalle_fin": 15,
       "timecode_debut_extrait": 0,
-      "timecode_fin_extrait": 50,
-      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0000_time_0.00s-50.00s.mp4",
-      "nombre_sous_titres": 6,
+      "timecode_fin_extrait": 15,
+      "video_path": null,
+      "nombre_sous_titres": 2,
       "sous_titres": [
         {
           "index": "﻿1",
@@ -27,7 +27,18 @@
           "start": 14.625,
           "end": 18.875,
           "text": "that Walt started Disney Animation 100 years ago today."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": null,
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 3,
           "start": 19.541,
@@ -45,7 +56,18 @@
           "start": 27.166,
           "end": 28.25,
           "text": "Yep."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": null,
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 6,
           "start": 31.416,
@@ -55,20 +77,31 @@
       ]
     },
     {
-      "intervalle_index": 1,
-      "intervalle_debut": 50,
-      "intervalle_fin": 100,
-      "timecode_debut_extrait": 50,
-      "timecode_fin_extrait": 100,
-      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0001_time_50.00s-100.00s.mp4",
-      "nombre_sous_titres": 19,
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": null,
+      "nombre_sous_titres": 1,
       "sous_titres": [
         {
           "index": 7,
           "start": 53.916,
           "end": 56.708,
           "text": "Psst! Tink. Tinker Bell. You there?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": null,
+      "nombre_sous_titres": 8,
+      "sous_titres": [
         {
           "index": 8,
           "start": 60.0,
@@ -116,7 +149,18 @@
           "start": 73.25,
           "end": 75.332,
           "text": "- That's tonight? - That's now."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": null,
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 16,
           "start": 75.333,
@@ -158,7 +202,18 @@
           "start": 86.791,
           "end": 89.207,
           "text": "Okay! Here we come!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": null,
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 23,
           "start": 91.958,
@@ -176,18 +231,7 @@
           "start": 98.125,
           "end": 100.874,
           "text": "Oh, Peter! Get the folks upstairs!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 2,
-      "intervalle_debut": 100,
-      "intervalle_fin": 150,
-      "timecode_debut_extrait": 100,
-      "timecode_fin_extrait": 150,
-      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0002_time_100.00s-150.00s.mp4",
-      "nombre_sous_titres": 15,
-      "sous_titres": [
+        },
         {
           "index": 26,
           "start": 100.875,
@@ -205,7 +249,18 @@
           "start": 103.375,
           "end": 106.083,
           "text": "Here we go!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": null,
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 29,
           "start": 117.458,
@@ -217,7 +272,18 @@
           "start": 119.875,
           "end": 121.958,
           "text": "It's Maui time!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": null,
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 31,
           "start": 123.166,
@@ -247,7 +313,18 @@
           "start": 134.291,
           "end": 136.083,
           "text": "Higher!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": null,
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 36,
           "start": 139.916,
@@ -281,13 +358,13 @@
       ]
     },
     {
-      "intervalle_index": 3,
+      "intervalle_index": 10,
       "intervalle_debut": 150,
-      "intervalle_fin": 200,
+      "intervalle_fin": 165,
       "timecode_debut_extrait": 150,
-      "timecode_fin_extrait": 200,
-      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0003_time_150.00s-200.00s.mp4",
-      "nombre_sous_titres": 17,
+      "timecode_fin_extrait": 165,
+      "video_path": null,
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 41,
@@ -312,7 +389,18 @@
           "start": 163.291,
           "end": 164.957,
           "text": "Hmm. Not all."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": null,
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 45,
           "start": 168.083,
@@ -348,7 +436,18 @@
           "start": 178.583,
           "end": 180.79,
           "text": "Hey, Frosty! Shake a leg, will ya?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": null,
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 51,
           "start": 180.791,
@@ -378,7 +477,18 @@
           "start": 190.208,
           "end": 193.999,
           "text": "<i>♪ Every guy here Would love to be you, Gaston ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": null,
+      "nombre_sous_titres": 5,
+      "sous_titres": [
         {
           "index": 56,
           "start": 196.25,
@@ -390,18 +500,7 @@
           "start": 199.125,
           "end": 201.332,
           "text": "Let's move it, gentlemen!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 4,
-      "intervalle_debut": 200,
-      "intervalle_fin": 250,
-      "timecode_debut_extrait": 200,
-      "timecode_fin_extrait": 250,
-      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0004_time_200.00s-250.00s.mp4",
-      "nombre_sous_titres": 13,
-      "sous_titres": [
+        },
         {
           "index": 58,
           "start": 201.333,
@@ -419,7 +518,18 @@
           "start": 207.291,
           "end": 208.374,
           "text": "Don't eat those."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": null,
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 61,
           "start": 210.541,
@@ -437,7 +547,18 @@
           "start": 223.208,
           "end": 224.5,
           "text": "Whoa!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": null,
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 64,
           "start": 225.666,
@@ -473,7 +594,18 @@
           "start": 239.5,
           "end": 241.082,
           "text": "Oh, come on!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": null,
+      "nombre_sous_titres": 1,
+      "sous_titres": [
         {
           "index": 70,
           "start": 246.375,
@@ -483,13 +615,13 @@
       ]
     },
     {
-      "intervalle_index": 5,
-      "intervalle_debut": 250,
-      "intervalle_fin": 300,
-      "timecode_debut_extrait": 250,
-      "timecode_fin_extrait": 300,
-      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0005_time_250.00s-300.00s.mp4",
-      "nombre_sous_titres": 16,
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": null,
+      "nombre_sous_titres": 8,
       "sous_titres": [
         {
           "index": 71,
@@ -538,7 +670,18 @@
           "start": 269.875,
           "end": 272.083,
           "text": "Hmm."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": null,
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 79,
           "start": 281.541,
@@ -550,7 +693,18 @@
           "start": 284.0,
           "end": 285.29,
           "text": "We're in the lobby!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": null,
+      "nombre_sous_titres": 6,
+      "sous_titres": [
         {
           "index": 81,
           "start": 286.5,
@@ -590,13 +744,13 @@
       ]
     },
     {
-      "intervalle_index": 6,
+      "intervalle_index": 20,
       "intervalle_debut": 300,
-      "intervalle_fin": 350,
+      "intervalle_fin": 315,
       "timecode_debut_extrait": 300,
-      "timecode_fin_extrait": 350,
-      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0006_time_300.00s-350.00s.mp4",
-      "nombre_sous_titres": 16,
+      "timecode_fin_extrait": 315,
+      "video_path": null,
+      "nombre_sous_titres": 4,
       "sous_titres": [
         {
           "index": 87,
@@ -621,7 +775,18 @@
           "start": 312.708,
           "end": 314.54,
           "text": "Oh, great. The ladder!"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": null,
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 91,
           "start": 318.583,
@@ -645,7 +810,18 @@
           "start": 328.083,
           "end": 330.29,
           "text": "Okay, everybody. Get... Get together now."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": null,
+      "nombre_sous_titres": 7,
+      "sous_titres": [
         {
           "index": 95,
           "start": 330.291,
@@ -687,24 +863,24 @@
           "start": 343.666,
           "end": 345.082,
           "text": "Now where's that timer button?"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": null,
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 102,
           "start": 345.083,
           "end": 347.832,
           "text": "Oh, oh! Three, two, one!"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 7,
-      "intervalle_debut": 350,
-      "intervalle_fin": 400,
-      "timecode_debut_extrait": 350,
-      "timecode_fin_extrait": 400,
-      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0007_time_350.00s-400.00s.mp4",
-      "nombre_sous_titres": 9,
-      "sous_titres": [
+        },
         {
           "index": 103,
           "start": 357.541,
@@ -716,7 +892,18 @@
           "start": 359.625,
           "end": 363.375,
           "text": "Maybe we can try again in another hundred years."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": null,
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 105,
           "start": 366.208,
@@ -728,7 +915,18 @@
           "start": 367.75,
           "end": 370.333,
           "text": "It... It... It'll be fine. It'll be..."
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": null,
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 107,
           "start": 384.458,
@@ -740,7 +938,18 @@
           "start": 388.583,
           "end": 392.665,
           "text": "<i>♪ Will come to you ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": null,
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 109,
           "start": 392.666,
@@ -758,24 +967,24 @@
           "start": 398.583,
           "end": 403.29,
           "text": "<i>♪ No request is too extreme ♪</i>"
-        }
-      ]
-    },
-    {
-      "intervalle_index": 8,
-      "intervalle_debut": 400,
-      "intervalle_fin": 450,
-      "timecode_debut_extrait": 400,
-      "timecode_fin_extrait": 450,
-      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0008_time_400.00s-450.00s.mp4",
-      "nombre_sous_titres": 10,
-      "sous_titres": [
+        },
         {
           "index": 112,
           "start": 403.291,
           "end": 405.207,
           "text": "<i>♪ When you wish up... ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": null,
+      "nombre_sous_titres": 2,
+      "sous_titres": [
         {
           "index": 113,
           "start": 407.25,
@@ -787,7 +996,18 @@
           "start": 415.375,
           "end": 419.666,
           "text": "<i>♪ Fate is kind ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": null,
+      "nombre_sous_titres": 3,
+      "sous_titres": [
         {
           "index": 115,
           "start": 420.791,
@@ -805,7 +1025,18 @@
           "start": 429.416,
           "end": 435.583,
           "text": "<i>♪ Their secret longing ♪</i>"
-        },
+        }
+      ]
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": null,
+      "nombre_sous_titres": 4,
+      "sous_titres": [
         {
           "index": 118,
           "start": 436.25,
@@ -833,12 +1064,12 @@
       ]
     },
     {
-      "intervalle_index": 9,
+      "intervalle_index": 30,
       "intervalle_debut": 450,
-      "intervalle_fin": 500,
+      "intervalle_fin": 465,
       "timecode_debut_extrait": 450,
-      "timecode_fin_extrait": 500,
-      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0009_time_450.00s-500.00s.mp4",
+      "timecode_fin_extrait": 465,
+      "video_path": null,
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -850,12 +1081,52 @@
       ]
     },
     {
-      "intervalle_index": 10,
-      "intervalle_debut": 500,
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": null,
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": null,
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": null,
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": null,
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
       "intervalle_fin": 527.834,
-      "timecode_debut_extrait": 500,
+      "timecode_debut_extrait": 525,
       "timecode_fin_extrait": 527.834,
-      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0010_time_500.00s-527.83s.mp4",
+      "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": []
     }

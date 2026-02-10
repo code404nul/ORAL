@@ -1,106 +1,114 @@
 import json
 import os
 from pathlib import Path
-from transformers import AutoProcessor, AutoModelForImageTextToText
-from os.path import normpath
-import torch
-import gc
+import requests
+import base64
 from tqdm import tqdm
+import cv2
+import tempfile
 
 print("🚀 Démarrage du script...")
 
-# Vérifications initiales
-print(f"✓ CUDA disponible : {torch.cuda.is_available()}")
-if torch.cuda.is_available():
-    print(f"✓ GPU : {torch.cuda.get_device_name(0)}")
-    print(f"✓ VRAM totale : {torch.cuda.get_device_properties(0).total_memory / 1024**3:.1f} GB")
-    print(f"✓ VRAM libre : {torch.cuda.mem_get_info()[0] / 1024**3:.1f} GB")
+# Configuration de l'API Fireworks
+API_KEY = "fw_9jPTovViK51DBPKw7ukvDm"
+API_URL = "https://api.fireworks.ai/inference/v1/chat/completions"
+MODEL_ID = "accounts/code404nul/deployments/uizk7clq"
 
-# Nettoyage mémoire avant de commencer
-torch.cuda.empty_cache()
-gc.collect()
+# Configuration extraction frames
+NUM_FRAMES = 6  # Nombre de frames à extraire par vidéo
 
-print("\n📦 Chargement du processeur...")
-model_id = "models/molmo2-4b"
+def extract_frames_from_video(video_path, num_frames=8):
+    """Extrait des frames uniformément réparties d'une vidéo"""
+    cap = cv2.VideoCapture(video_path)
+    
+    if not cap.isOpened():
+        raise Exception(f"Impossible d'ouvrir la vidéo: {video_path}")
+    
+    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+    
+    if total_frames == 0:
+        cap.release()
+        raise Exception(f"La vidéo ne contient aucune frame: {video_path}")
+    
+    # Calculer les indices des frames à extraire
+    frame_indices = [int(i * total_frames / num_frames) for i in range(num_frames)]
+    
+    frames_base64 = []
+    
+    for frame_idx in frame_indices:
+        cap.set(cv2.CAP_PROP_POS_FRAMES, frame_idx)
+        ret, frame = cap.read()
+        
+        if ret:
+            # Encoder la frame en JPEG puis en base64
+            _, buffer = cv2.imencode('.jpg', frame, [cv2.IMWRITE_JPEG_QUALITY, 85])
+            frame_base64 = base64.b64encode(buffer).decode('utf-8')
+            frames_base64.append(frame_base64)
+    
+    cap.release()
+    
+    return frames_base64
 
-try:
-    processor = AutoProcessor.from_pretrained(
-        model_id,
-        trust_remote_code=True,
-        use_fast=True,
-    )
-    print("✓ Processeur chargé")
-except Exception as e:
-    print(f"❌ Erreur processeur : {e}")
-    exit(1)
-
-print("\n🧠 Chargement du modèle (cela peut prendre 1-2 minutes)...")
-try:
-    model = AutoModelForImageTextToText.from_pretrained(
-        model_id,
-        trust_remote_code=True,
-        torch_dtype=torch.float16,
-        device_map="auto",
-        low_cpu_mem_usage=True,
-    )
-    print("✓ Modèle chargé")
-    print(f"✓ Device du modèle : {model.device}")
-except Exception as e:
-    print(f"❌ Erreur modèle : {e}")
-    print("\n💡 Suggestions :")
-    print("  1. Ton GPU manque peut-être de VRAM (besoin ~8-10GB)")
-    print("  2. Ferme les autres programmes utilisant le GPU")
-    print("  3. Essaie de charger en CPU avec device_map='cpu' (beaucoup plus lent)")
-    exit(1)
-
-# Optimisations (optionnelles, à activer après le chargement)
-try:
-    torch.backends.cudnn.benchmark = True
-    torch.backends.cuda.matmul.allow_tf32 = True
-    torch.backends.cudnn.allow_tf32 = True
-    print("✓ Optimisations CUDA activées")
-except:
-    pass
-
-def ask_molmo(text_input, video_path):
-    """Fonction pour interroger Molmo2 avec une vidéo"""
-    messages = [
-        {
-            "role": "user",
-            "content": [
-                dict(type="text", text=text_input),
-                dict(type="video", video=normpath(video_path)),
-            ],
-        }
-    ]
+def ask_molmo_api(text_input, video_path):
+    """Fonction pour interroger Molmo8b via l'API Fireworks avec des frames"""
     
-    inputs = processor.apply_chat_template(
-        messages,
-        tokenize=True,
-        add_generation_prompt=True,
-        return_tensors="pt",
-        return_dict=True,
-    )
+    # Extraire les frames de la vidéo
+    try:
+        frames_base64 = extract_frames_from_video(video_path, NUM_FRAMES)
+    except Exception as e:
+        raise Exception(f"Erreur lors de l'extraction des frames: {e}")
     
-    inputs = {k: v.to(model.device) for k, v in inputs.items()}
+    if not frames_base64:
+        raise Exception("Aucune frame extraite de la vidéo")
     
-    with torch.inference_mode():
-        generated_ids = model.generate(
-            **inputs, 
-            max_new_tokens=512,
-            do_sample=False,
-            num_beams=1,
-            use_cache=True,
-        )
+    # Construire le contenu avec texte + frames
+    content = [{"type": "text", "text": text_input}]
     
-    generated_tokens = generated_ids[0, inputs['input_ids'].size(1):]
-    result = processor.tokenizer.decode(generated_tokens, skip_special_tokens=True)
+    for frame_b64 in frames_base64:
+        content.append({
+            "type": "image_url",
+            "image_url": {
+                "url": f"data:image/jpeg;base64,{frame_b64}"
+            }
+        })
     
-    # Nettoyage
-    del inputs, generated_ids, generated_tokens
-    torch.cuda.empty_cache()
+    payload = {
+        "model": MODEL_ID,
+        "max_tokens": 512,
+        "top_p": 1,
+        "top_k": 40,
+        "presence_penalty": 0,
+        "frequency_penalty": 0,
+        "temperature": 0.6,
+        "messages": [
+            {
+                "role": "user",
+                "content": content
+            }
+        ]
+    }
     
-    return result
+    headers = {
+        "Accept": "application/json",
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {API_KEY}"
+    }
+    
+    try:
+        response = requests.post(API_URL, headers=headers, json=payload, timeout=120)
+        response.raise_for_status()
+        result = response.json()
+        return result['choices'][0]['message']['content']
+    except requests.exceptions.HTTPError as e:
+        # Afficher plus de détails sur l'erreur
+        error_detail = ""
+        try:
+            error_detail = response.json()
+        except:
+            error_detail = response.text
+        raise Exception(f"Erreur API HTTP {response.status_code}: {error_detail}")
+    except requests.exceptions.RequestException as e:
+        raise Exception(f"Erreur API: {e}")
 
 def est_completement_traite(movie_rapport_dir, nb_intervalles_total):
     """Vérifie si tous les intervalles ont été traités"""
@@ -184,7 +192,7 @@ def traiter_films():
         movie_name = json_file.stem
         movie_rapport_dir = rapport_dir / movie_name
         
-        films_pbar.set_description(f"🎬 Films [{movie_name}]")
+        films_pbar.set_description(f"🎬 Films [{movie_name[:40]}...]")
         
         with open(json_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
@@ -249,7 +257,7 @@ def traiter_films():
             if intervalle_index not in style_indices_traites:
                 intervalles_pbar.set_description(f"📹 Intervalles [{timecode}] - Style")
                 try:
-                    style_response = ask_molmo(
+                    style_response = ask_molmo_api(
                         "Explain the cinematographic techniques to me; what emotion did the director want to convey?",
                         video_path
                     )
@@ -275,7 +283,7 @@ def traiter_films():
             if intervalle_index not in action_indices_traites:
                 intervalles_pbar.set_description(f"📹 Intervalles [{timecode}] - Action")
                 try:
-                    action_response = ask_molmo(
+                    action_response = ask_molmo_api(
                         "What is happening in the scene?",
                         video_path
                     )
@@ -306,8 +314,12 @@ def traiter_films():
 
 if __name__ == "__main__":
     print("\n" + "="*60)
-    print("🎬 ANALYSE DE FILMS AVEC MOLMO2")
+    print("🎬 ANALYSE DE FILMS AVEC MOLMO8B (API FIREWORKS)")
     print("="*60)
+    print(f"✓ API configurée")
+    print(f"✓ Modèle : {MODEL_ID}")
+    print(f"✓ Max tokens : 512")
+    print(f"✓ Frames extraites par vidéo : {NUM_FRAMES}")
     
     traiter_films()
     
