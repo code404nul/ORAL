@@ -1,0 +1,482 @@
+{
+  "movie_id": "Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS",
+  "movie_path": "E:\\film_oral\\Far from the Tree (2021)\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS.mp4",
+  "subtitle_path": "E:\\film_oral\\Far from the Tree (2021)\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS.en.srt",
+  "intervalle_secondes": 50,
+  "nombre_intervalles": 9,
+  "dossier_videos": "analyse\\videos\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS",
+  "date_traitement": "2026-02-10T12:22:05.856708",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 50,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 50,
+      "video_path": "analyse\\videos\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS\\interval_0000_time_0.00s-50.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 1,
+          "start": 1.916,
+          "end": 3.958,
+          "text": "(WHISTLING)"
+        },
+        {
+          "index": 2,
+          "start": 15.458,
+          "end": 18.083,
+          "text": "(INSTRUMENTAL MUSIC PLAYING)"
+        },
+        {
+          "index": 3,
+          "start": 21.25,
+          "end": 22.291,
+          "text": "(CHIRPS GLEEFULLY)"
+        },
+        {
+          "index": 4,
+          "start": 27.708,
+          "end": 28.958,
+          "text": "(CHIRPS)"
+        },
+        {
+          "index": 5,
+          "start": 35.458,
+          "end": 37.041,
+          "text": "(PUFFINS GRUNTING)"
+        },
+        {
+          "index": 6,
+          "start": 38.416,
+          "end": 39.458,
+          "text": "(GRUNTS)"
+        },
+        {
+          "index": 7,
+          "start": 42.541,
+          "end": 43.708,
+          "text": "(CHIRPS HAPPILY)"
+        },
+        {
+          "index": 8,
+          "start": 49.583,
+          "end": 50.583,
+          "text": "(SNIFFING)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 50,
+      "intervalle_fin": 100,
+      "timecode_debut_extrait": 50,
+      "timecode_fin_extrait": 100,
+      "video_path": "analyse\\videos\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS\\interval_0001_time_50.00s-100.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 9,
+          "start": 51.666,
+          "end": 54.083,
+          "text": "(SNIFFS, SQUEAKS)"
+        },
+        {
+          "index": 10,
+          "start": 55.75,
+          "end": 57.083,
+          "text": "(CHIRPS, PANTS HAPPILY)"
+        },
+        {
+          "index": 11,
+          "start": 59.333,
+          "end": 60.416,
+          "text": "(SEAGULL SQUAWKS)"
+        },
+        {
+          "index": 12,
+          "start": 63.375,
+          "end": 64.5,
+          "text": "(CHIRPS)"
+        },
+        {
+          "index": 13,
+          "start": 72.166,
+          "end": 73.375,
+          "text": "(ADULT RACCOON CHITTERS)"
+        },
+        {
+          "index": 14,
+          "start": 98.291,
+          "end": 99.458,
+          "text": "(CHIRPS HAPPILY)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 100,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 100,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS\\interval_0002_time_100.00s-150.00s.mp4",
+      "nombre_sous_titres": 11,
+      "sous_titres": [
+        {
+          "index": 15,
+          "start": 102.083,
+          "end": 103.5,
+          "text": "(ADULT RACCOON CHITTERS ANGRILY)"
+        },
+        {
+          "index": 16,
+          "start": 104.458,
+          "end": 105.916,
+          "text": "(PUFFINS GRUNTING)"
+        },
+        {
+          "index": 17,
+          "start": 115.416,
+          "end": 116.583,
+          "text": "(CHITTERS ANGRILY)"
+        },
+        {
+          "index": 18,
+          "start": 121.375,
+          "end": 122.583,
+          "text": "(CHIRPS)"
+        },
+        {
+          "index": 19,
+          "start": 131.291,
+          "end": 132.333,
+          "text": "(CHIRPS)"
+        },
+        {
+          "index": 20,
+          "start": 134.208,
+          "end": 135.833,
+          "text": "(WAVES SPLASHING)"
+        },
+        {
+          "index": 21,
+          "start": 138.791,
+          "end": 139.791,
+          "text": "(GASPS)"
+        },
+        {
+          "index": 22,
+          "start": 140.125,
+          "end": 141.125,
+          "text": "(GROWLING)"
+        },
+        {
+          "index": 23,
+          "start": 142.375,
+          "end": 143.583,
+          "text": "(BABY RACCOON WHINES)"
+        },
+        {
+          "index": 24,
+          "start": 144.333,
+          "end": 145.666,
+          "text": "(ADULT RACCOON GROWLING)"
+        },
+        {
+          "index": 25,
+          "start": 149.375,
+          "end": 151.041,
+          "text": "(GROWLING, CHITTERING)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 150,
+      "intervalle_fin": 200,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 200,
+      "video_path": "analyse\\videos\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS\\interval_0003_time_150.00s-200.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 26,
+          "start": 161.958,
+          "end": 163.166,
+          "text": "(WINGS FLAPPING)"
+        },
+        {
+          "index": 27,
+          "start": 166.458,
+          "end": 167.458,
+          "text": "(SQUAWKS)"
+        },
+        {
+          "index": 28,
+          "start": 172.5,
+          "end": 173.833,
+          "text": "(SQUAWKING)"
+        },
+        {
+          "index": 29,
+          "start": 180.833,
+          "end": 182.5,
+          "text": "(SEAGULLS SQUAWKING)"
+        },
+        {
+          "index": 30,
+          "start": 194.708,
+          "end": 196.0,
+          "text": "(COYOTE GROWLING)"
+        },
+        {
+          "index": 31,
+          "start": 196.458,
+          "end": 197.541,
+          "text": "(BABY RACCOON WHINES)"
+        },
+        {
+          "index": 32,
+          "start": 199.583,
+          "end": 200.666,
+          "text": "(GROWLING)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 200,
+      "intervalle_fin": 250,
+      "timecode_debut_extrait": 200,
+      "timecode_fin_extrait": 250,
+      "video_path": "analyse\\videos\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS\\interval_0004_time_200.00s-250.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 33,
+          "start": 200.75,
+          "end": 201.75,
+          "text": "(CHITTERS)"
+        },
+        {
+          "index": 34,
+          "start": 203.083,
+          "end": 204.458,
+          "text": "(SQUEAKS)"
+        },
+        {
+          "index": 35,
+          "start": 204.791,
+          "end": 206.625,
+          "text": "(ADULT RACCOON CHITTERING FURIOUSLY)"
+        },
+        {
+          "index": 36,
+          "start": 214.166,
+          "end": 215.25,
+          "text": "(CHIRPS)"
+        },
+        {
+          "index": 37,
+          "start": 215.875,
+          "end": 217.875,
+          "text": "(CHITTERING, HISSING)"
+        },
+        {
+          "index": 38,
+          "start": 243.958,
+          "end": 245.166,
+          "text": "(WAVES SPLASHING)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 250,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 250,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS\\interval_0005_time_250.00s-300.00s.mp4",
+      "nombre_sous_titres": 11,
+      "sous_titres": [
+        {
+          "index": 39,
+          "start": 252.208,
+          "end": 253.791,
+          "text": "(SNIFFING)"
+        },
+        {
+          "index": 40,
+          "start": 258.958,
+          "end": 259.958,
+          "text": "(CHIRPS)"
+        },
+        {
+          "index": 41,
+          "start": 261.041,
+          "end": 262.041,
+          "text": "(CHIRPS)"
+        },
+        {
+          "index": 42,
+          "start": 262.125,
+          "end": 263.25,
+          "text": "(CHIRPS HAPPILY)"
+        },
+        {
+          "index": 43,
+          "start": 265.5,
+          "end": 266.5,
+          "text": "(CHITTERS EXCITEDLY)"
+        },
+        {
+          "index": 44,
+          "start": 269.291,
+          "end": 270.666,
+          "text": "(PUFFINS GRUNTING)"
+        },
+        {
+          "index": 45,
+          "start": 275.0,
+          "end": 276.5,
+          "text": "(YAPS EXCITEDLY)"
+        },
+        {
+          "index": 46,
+          "start": 283.458,
+          "end": 284.541,
+          "text": "(CHIRRUPS)"
+        },
+        {
+          "index": 47,
+          "start": 284.833,
+          "end": 285.833,
+          "text": "(CRACKING)"
+        },
+        {
+          "index": 48,
+          "start": 288.375,
+          "end": 289.583,
+          "text": "(GROWLS ANGRILY)"
+        },
+        {
+          "index": 49,
+          "start": 298.458,
+          "end": 299.958,
+          "text": "(CHITTERS)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 300,
+      "intervalle_fin": 350,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 350,
+      "video_path": "analyse\\videos\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS\\interval_0006_time_300.00s-350.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 50,
+          "start": 301.541,
+          "end": 302.541,
+          "text": "(SEAGULLS SQUAWKING)"
+        },
+        {
+          "index": 51,
+          "start": 306.083,
+          "end": 307.541,
+          "text": "(BARKING ANGRILY)"
+        },
+        {
+          "index": 52,
+          "start": 313.291,
+          "end": 314.291,
+          "text": "(WHINES)"
+        },
+        {
+          "index": 53,
+          "start": 323.125,
+          "end": 324.291,
+          "text": "(WHINES)"
+        },
+        {
+          "index": 54,
+          "start": 342.625,
+          "end": 343.666,
+          "text": "(SQUEAKS)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 350,
+      "intervalle_fin": 400,
+      "timecode_debut_extrait": 350,
+      "timecode_fin_extrait": 400,
+      "video_path": "analyse\\videos\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS\\interval_0007_time_350.00s-400.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 55,
+          "start": 363.208,
+          "end": 364.541,
+          "text": "(SNIFFING)"
+        },
+        {
+          "index": 56,
+          "start": 368.75,
+          "end": 369.791,
+          "text": "(CHIRPS)"
+        },
+        {
+          "index": 57,
+          "start": 372.333,
+          "end": 373.5,
+          "text": "(CHIRPS HAPPILY)"
+        },
+        {
+          "index": 58,
+          "start": 373.75,
+          "end": 374.75,
+          "text": "(SNIFFING)"
+        },
+        {
+          "index": 59,
+          "start": 379.875,
+          "end": 381.0,
+          "text": "(CHIRPING HAPPILY)"
+        },
+        {
+          "index": 60,
+          "start": 390.333,
+          "end": 391.5,
+          "text": "(CHIRPS)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 400,
+      "intervalle_fin": 442.144,
+      "timecode_debut_extrait": 400,
+      "timecode_fin_extrait": 442.144,
+      "video_path": "analyse\\videos\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS\\interval_0008_time_400.00s-442.14s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 61,
+          "start": 401.833,
+          "end": 403.041,
+          "text": "(SQUEAKS EXCITEDLY)"
+        },
+        {
+          "index": 62,
+          "start": 404.291,
+          "end": 405.291,
+          "text": "(WAVES SPLASHING)"
+        }
+      ]
+    }
+  ]
+}

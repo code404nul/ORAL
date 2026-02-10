@@ -1,0 +1,639 @@
+{
+  "movie_id": "[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]",
+  "movie_path": "E:\\film_oral\\Inner Workings (2016)\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD].mkv",
+  "subtitle_path": "E:\\film_oral\\Inner Workings (2016)\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD].en.srt",
+  "intervalle_secondes": 50,
+  "nombre_intervalles": 8,
+  "dossier_videos": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]",
+  "date_traitement": "2026-02-10T12:45:26.931697",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 50,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 50,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0000_time_0.00s-50.00s.mp4",
+      "nombre_sous_titres": 12,
+      "sous_titres": [
+        {
+          "index": "﻿1",
+          "start": 1.4020000000000001,
+          "end": 3.104,
+          "text": "(WHISTLING)"
+        },
+        {
+          "index": 2,
+          "start": 17.718,
+          "end": 19.52,
+          "text": "(SNORING)"
+        },
+        {
+          "index": 3,
+          "start": 20.554,
+          "end": 21.789,
+          "text": "(ALARM BEEPING)"
+        },
+        {
+          "index": 4,
+          "start": 24.758,
+          "end": 26.294,
+          "text": "(POWERING UP)"
+        },
+        {
+          "index": 5,
+          "start": 29.797,
+          "end": 31.065,
+          "text": "(ALARM STOPS)"
+        },
+        {
+          "index": 6,
+          "start": 32.366,
+          "end": 34.368,
+          "text": "(HUFFING)"
+        },
+        {
+          "index": 7,
+          "start": 34.402,
+          "end": 35.203,
+          "text": "(YAWNS)"
+        },
+        {
+          "index": 8,
+          "start": 37.438,
+          "end": 38.672,
+          "text": "(BEATING)"
+        },
+        {
+          "index": 9,
+          "start": 44.112,
+          "end": 44.712,
+          "text": "(GROANING)"
+        },
+        {
+          "index": 10,
+          "start": 46.314,
+          "end": 47.581,
+          "text": "(SIGHING)"
+        },
+        {
+          "index": 11,
+          "start": 47.615,
+          "end": 49.117,
+          "text": "(INDISTINCT RADIO CHATTER)"
+        },
+        {
+          "index": 12,
+          "start": 49.15,
+          "end": 50.184,
+          "text": "(UPBEAT SONG PLAYING)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 50,
+      "intervalle_fin": 100,
+      "timecode_debut_extrait": 50,
+      "timecode_fin_extrait": 100,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0001_time_50.00s-100.00s.mp4",
+      "nombre_sous_titres": 20,
+      "sous_titres": [
+        {
+          "index": 13,
+          "start": 50.218,
+          "end": 51.685,
+          "text": "* California loco"
+        },
+        {
+          "index": 14,
+          "start": 51.719,
+          "end": 53.487,
+          "text": "* When you hit them bongos"
+        },
+        {
+          "index": 15,
+          "start": 53.521,
+          "end": 55.156,
+          "text": "* California loco"
+        },
+        {
+          "index": 16,
+          "start": 55.189,
+          "end": 56.757,
+          "text": "* Loco, loco, loco..."
+        },
+        {
+          "index": 17,
+          "start": 56.79,
+          "end": 57.858,
+          "text": "(SINGING) * California loco"
+        },
+        {
+          "index": 18,
+          "start": 57.891,
+          "end": 59.127,
+          "text": "(SQUEAKS)"
+        },
+        {
+          "index": 19,
+          "start": 59.16,
+          "end": 60.461,
+          "text": "(YELPS)"
+        },
+        {
+          "index": 20,
+          "start": 60.494,
+          "end": 61.529,
+          "text": "(EXCLAIMS)"
+        },
+        {
+          "index": 21,
+          "start": 61.562,
+          "end": 63.797,
+          "text": "(PRAYING IN LATIN)"
+        },
+        {
+          "index": 22,
+          "start": 63.831,
+          "end": 64.765,
+          "text": "(ON RADIO) * California loco"
+        },
+        {
+          "index": 23,
+          "start": 65.533,
+          "end": 66.6,
+          "text": "(MUSIC STOPS)"
+        },
+        {
+          "index": 24,
+          "start": 72.606,
+          "end": 73.607,
+          "text": "(BEEPS)"
+        },
+        {
+          "index": 25,
+          "start": 76.377,
+          "end": 77.245,
+          "text": "(WOMAN LAUGHING)"
+        },
+        {
+          "index": 26,
+          "start": 78.879,
+          "end": 80.248,
+          "text": "Oh. (SIGHS) Mmm!"
+        },
+        {
+          "index": 27,
+          "start": 83.451,
+          "end": 84.552,
+          "text": "(GRUMBLING)"
+        },
+        {
+          "index": 28,
+          "start": 87.521,
+          "end": 88.522,
+          "text": "Yum-yum."
+        },
+        {
+          "index": 29,
+          "start": 88.556,
+          "end": 89.623,
+          "text": "(GRUNTS)"
+        },
+        {
+          "index": 30,
+          "start": 89.657,
+          "end": 91.259,
+          "text": "(PRAYING IN LATIN)"
+        },
+        {
+          "index": 31,
+          "start": 93.794,
+          "end": 94.795,
+          "text": "(WHINES)"
+        },
+        {
+          "index": 32,
+          "start": 96.497,
+          "end": 98.132,
+          "text": "(CHEWING LOUDLY)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 100,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 100,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0002_time_100.00s-150.00s.mp4",
+      "nombre_sous_titres": 15,
+      "sous_titres": [
+        {
+          "index": 33,
+          "start": 100.901,
+          "end": 102.503,
+          "text": "(LAUGHING GOOD-NATUREDLY)"
+        },
+        {
+          "index": 34,
+          "start": 102.536,
+          "end": 103.737,
+          "text": "Yeah! Whoo-hoo!"
+        },
+        {
+          "index": 35,
+          "start": 106.94,
+          "end": 108.642,
+          "text": "(SCREAMS)"
+        },
+        {
+          "index": 36,
+          "start": 108.676,
+          "end": 109.81,
+          "text": "(PRAYING IN LATIN)"
+        },
+        {
+          "index": 37,
+          "start": 117.185,
+          "end": 118.452,
+          "text": "(LUNGS GASPING) (BEATING RAPIDLY)"
+        },
+        {
+          "index": 38,
+          "start": 119.62,
+          "end": 120.621,
+          "text": "(CHAINSAWS REVVING)"
+        },
+        {
+          "index": 39,
+          "start": 121.755,
+          "end": 122.79,
+          "text": "Hmm."
+        },
+        {
+          "index": 40,
+          "start": 126.394,
+          "end": 127.561,
+          "text": "(LAUGHING)"
+        },
+        {
+          "index": 41,
+          "start": 127.595,
+          "end": 128.796,
+          "text": "(CHAINSAWS WHIRRING) Ahh!"
+        },
+        {
+          "index": 42,
+          "start": 128.829,
+          "end": 130.531,
+          "text": "Huh?"
+        },
+        {
+          "index": 43,
+          "start": 130.564,
+          "end": 131.899,
+          "text": "(PRAYING IN LATIN)"
+        },
+        {
+          "index": 44,
+          "start": 134.768,
+          "end": 135.869,
+          "text": "Oh."
+        },
+        {
+          "index": 45,
+          "start": 138.539,
+          "end": 139.573,
+          "text": "(BEEPS)"
+        },
+        {
+          "index": 46,
+          "start": 142.543,
+          "end": 143.411,
+          "text": "(GRUNTS)"
+        },
+        {
+          "index": 47,
+          "start": 146.847,
+          "end": 149.149,
+          "text": "(CONTINUES GRUNTING)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 150,
+      "intervalle_fin": 200,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 200,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0003_time_150.00s-200.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 48,
+          "start": 153.621,
+          "end": 154.888,
+          "text": "(STRAINING)"
+        },
+        {
+          "index": 49,
+          "start": 158.759,
+          "end": 160.561,
+          "text": "(ALL GASPING)"
+        },
+        {
+          "index": 50,
+          "start": 160.594,
+          "end": 161.829,
+          "text": "Ahh..."
+        },
+        {
+          "index": 51,
+          "start": 162.73,
+          "end": 164.265,
+          "text": "(CHUCKLES NERVOUSLY)"
+        },
+        {
+          "index": 52,
+          "start": 164.298,
+          "end": 165.333,
+          "text": "ALL: Harumph."
+        },
+        {
+          "index": 53,
+          "start": 165.366,
+          "end": 166.4,
+          "text": "(SHIVERING)"
+        },
+        {
+          "index": 54,
+          "start": 166.434,
+          "end": 167.835,
+          "text": "(PRAYING IN LATIN)"
+        },
+        {
+          "index": 55,
+          "start": 175.343,
+          "end": 175.943,
+          "text": "(BEEPS)"
+        },
+        {
+          "index": 56,
+          "start": 180.848,
+          "end": 183.517,
+          "text": "(COMPUTERS BEEPING IN UNISON)"
+        },
+        {
+          "index": 57,
+          "start": 197.365,
+          "end": 198.866,
+          "text": "(SORROWFUL MUSIC PLAYING)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 200,
+      "intervalle_fin": 250,
+      "timecode_debut_extrait": 200,
+      "timecode_fin_extrait": 250,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0004_time_200.00s-250.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 58,
+          "start": 209.71,
+          "end": 210.911,
+          "text": "(COMPUTER BEEPING)"
+        },
+        {
+          "index": 59,
+          "start": 215.516,
+          "end": 216.784,
+          "text": "(ALL COMPUTERS BEEPING)"
+        },
+        {
+          "index": 60,
+          "start": 234.668,
+          "end": 235.903,
+          "text": "(LAUGHTER)"
+        },
+        {
+          "index": 61,
+          "start": 248.682,
+          "end": 250.784,
+          "text": "(WATCH BEEPING)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 250,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 250,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0005_time_250.00s-300.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 62,
+          "start": 255.823,
+          "end": 257.425,
+          "text": "(ALL CHEWING IN UNISON)"
+        },
+        {
+          "index": 63,
+          "start": 274.842,
+          "end": 276.344,
+          "text": "(UPBEAT MUSIC PLAYING)"
+        },
+        {
+          "index": 64,
+          "start": 279.613,
+          "end": 281.415,
+          "text": "(GULPING)"
+        },
+        {
+          "index": 65,
+          "start": 283.384,
+          "end": 284.618,
+          "text": "Aw, man!"
+        },
+        {
+          "index": 66,
+          "start": 291.592,
+          "end": 292.86,
+          "text": "Yeah!"
+        },
+        {
+          "index": 67,
+          "start": 292.893,
+          "end": 294.328,
+          "text": "(BEATING RAPIDLY)"
+        },
+        {
+          "index": 68,
+          "start": 296.597,
+          "end": 298.332,
+          "text": "Whoo-hoo!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 300,
+      "intervalle_fin": 350,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 350,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0006_time_300.00s-350.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 69,
+          "start": 303.371,
+          "end": 304.372,
+          "text": "Ah!"
+        },
+        {
+          "index": 70,
+          "start": 306.574,
+          "end": 307.575,
+          "text": "Ooh!"
+        },
+        {
+          "index": 71,
+          "start": 313.113,
+          "end": 314.382,
+          "text": "(GASPS)"
+        },
+        {
+          "index": 72,
+          "start": 320.654,
+          "end": 322.356,
+          "text": "Whoo!"
+        },
+        {
+          "index": 73,
+          "start": 322.39,
+          "end": 323.591,
+          "text": "(LAUGHING)"
+        },
+        {
+          "index": 74,
+          "start": 335.836,
+          "end": 336.904,
+          "text": "(COMPUTER BEEPS)"
+        },
+        {
+          "index": 75,
+          "start": 339.473,
+          "end": 341.675,
+          "text": "(PLAYING UPBEAT TUNE ON KEYBOARD)"
+        },
+        {
+          "index": 76,
+          "start": 346.847,
+          "end": 348.348,
+          "text": "Hmm? Huh?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 350,
+      "intervalle_fin": 386.23,
+      "timecode_debut_extrait": 350,
+      "timecode_fin_extrait": 386.23,
+      "video_path": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]\\interval_0007_time_350.00s-386.23s.mp4",
+      "nombre_sous_titres": 14,
+      "sous_titres": [
+        {
+          "index": 77,
+          "start": 350.818,
+          "end": 352.486,
+          "text": "(SONG CONTINUES)"
+        },
+        {
+          "index": 78,
+          "start": 352.52,
+          "end": 354.021,
+          "text": "(ALL CHEERING)"
+        },
+        {
+          "index": 79,
+          "start": 357.057,
+          "end": 359.026,
+          "text": "* California loco"
+        },
+        {
+          "index": 80,
+          "start": 359.059,
+          "end": 360.894,
+          "text": "* When you hit them bongos"
+        },
+        {
+          "index": 81,
+          "start": 360.928,
+          "end": 362.63,
+          "text": "* California loco"
+        },
+        {
+          "index": 82,
+          "start": 362.663,
+          "end": 364.398,
+          "text": "* Loco, loco, loco"
+        },
+        {
+          "index": 83,
+          "start": 364.432,
+          "end": 366.166,
+          "text": "* California loco"
+        },
+        {
+          "index": 84,
+          "start": 366.199,
+          "end": 367.968,
+          "text": "* When you hit them bongos"
+        },
+        {
+          "index": 85,
+          "start": 368.001,
+          "end": 369.97,
+          "text": "* California loco"
+        },
+        {
+          "index": 86,
+          "start": 370.003,
+          "end": 371.805,
+          "text": "* Loco, loco, loco!"
+        },
+        {
+          "index": 87,
+          "start": 371.839,
+          "end": 375.676,
+          "text": "* Loco, when you hit the bongo..."
+        },
+        {
+          "index": 88,
+          "start": 375.709,
+          "end": 378.912,
+          "text": "* When you hit the bongo I can feel the loco"
+        },
+        {
+          "index": 89,
+          "start": 378.946,
+          "end": 381.649,
+          "text": "* Any bongo Any bongo"
+        },
+        {
+          "index": 90,
+          "start": 381.682,
+          "end": 383.116,
+          "text": "* California loco!"
+        }
+      ]
+    }
+  ]
+}

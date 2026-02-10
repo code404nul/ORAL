@@ -5,7 +5,7 @@
   "intervalle_secondes": 50,
   "nombre_intervalles": 116,
   "dossier_videos": "analyse\\videos\\Icefall (2025)",
-  "date_traitement": "2026-01-23T20:40:11.536512",
+  "date_traitement": "2026-02-10T12:39:01.064149",
   "intervalles": [
     {
       "intervalle_index": 0,
@@ -912,7 +912,7 @@
       "intervalle_fin": 1050,
       "timecode_debut_extrait": 1000,
       "timecode_fin_extrait": 1050,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0020_time_1000.00s-1050.00s.mp4",
       "nombre_sous_titres": 18,
       "sous_titres": [
         {
@@ -1031,7 +1031,7 @@
       "intervalle_fin": 1100,
       "timecode_debut_extrait": 1050,
       "timecode_fin_extrait": 1100,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0021_time_1050.00s-1100.00s.mp4",
       "nombre_sous_titres": 18,
       "sous_titres": [
         {
@@ -1150,7 +1150,7 @@
       "intervalle_fin": 1150,
       "timecode_debut_extrait": 1100,
       "timecode_fin_extrait": 1150,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0022_time_1100.00s-1150.00s.mp4",
       "nombre_sous_titres": 13,
       "sous_titres": [
         {
@@ -1239,7 +1239,7 @@
       "intervalle_fin": 1200,
       "timecode_debut_extrait": 1150,
       "timecode_fin_extrait": 1200,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0023_time_1150.00s-1200.00s.mp4",
       "nombre_sous_titres": 19,
       "sous_titres": [
         {
@@ -1364,7 +1364,7 @@
       "intervalle_fin": 1250,
       "timecode_debut_extrait": 1200,
       "timecode_fin_extrait": 1250,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0024_time_1200.00s-1250.00s.mp4",
       "nombre_sous_titres": 15,
       "sous_titres": [
         {
@@ -1465,7 +1465,7 @@
       "intervalle_fin": 1300,
       "timecode_debut_extrait": 1250,
       "timecode_fin_extrait": 1300,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0025_time_1250.00s-1300.00s.mp4",
       "nombre_sous_titres": 13,
       "sous_titres": [
         {
@@ -1554,7 +1554,7 @@
       "intervalle_fin": 1350,
       "timecode_debut_extrait": 1300,
       "timecode_fin_extrait": 1350,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0026_time_1300.00s-1350.00s.mp4",
       "nombre_sous_titres": 13,
       "sous_titres": [
         {
@@ -1643,7 +1643,7 @@
       "intervalle_fin": 1400,
       "timecode_debut_extrait": 1350,
       "timecode_fin_extrait": 1400,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0027_time_1350.00s-1400.00s.mp4",
       "nombre_sous_titres": 9,
       "sous_titres": [
         {
@@ -1708,7 +1708,7 @@
       "intervalle_fin": 1450,
       "timecode_debut_extrait": 1400,
       "timecode_fin_extrait": 1450,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0028_time_1400.00s-1450.00s.mp4",
       "nombre_sous_titres": 15,
       "sous_titres": [
         {
@@ -1809,7 +1809,7 @@
       "intervalle_fin": 1500,
       "timecode_debut_extrait": 1450,
       "timecode_fin_extrait": 1500,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0029_time_1450.00s-1500.00s.mp4",
       "nombre_sous_titres": 20,
       "sous_titres": [
         {
@@ -1940,7 +1940,7 @@
       "intervalle_fin": 1550,
       "timecode_debut_extrait": 1500,
       "timecode_fin_extrait": 1550,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0030_time_1500.00s-1550.00s.mp4",
       "nombre_sous_titres": 15,
       "sous_titres": [
         {
@@ -2041,7 +2041,7 @@
       "intervalle_fin": 1600,
       "timecode_debut_extrait": 1550,
       "timecode_fin_extrait": 1600,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0031_time_1550.00s-1600.00s.mp4",
       "nombre_sous_titres": 17,
       "sous_titres": [
         {
@@ -2154,7 +2154,7 @@
       "intervalle_fin": 1650,
       "timecode_debut_extrait": 1600,
       "timecode_fin_extrait": 1650,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0032_time_1600.00s-1650.00s.mp4",
       "nombre_sous_titres": 15,
       "sous_titres": [
         {
@@ -2255,7 +2255,7 @@
       "intervalle_fin": 1700,
       "timecode_debut_extrait": 1650,
       "timecode_fin_extrait": 1700,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0033_time_1650.00s-1700.00s.mp4",
       "nombre_sous_titres": 9,
       "sous_titres": [
         {
@@ -2320,7 +2320,7 @@
       "intervalle_fin": 1750,
       "timecode_debut_extrait": 1700,
       "timecode_fin_extrait": 1750,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0034_time_1700.00s-1750.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -2361,7 +2361,7 @@
       "intervalle_fin": 1800,
       "timecode_debut_extrait": 1750,
       "timecode_fin_extrait": 1800,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0035_time_1750.00s-1800.00s.mp4",
       "nombre_sous_titres": 9,
       "sous_titres": [
         {
@@ -2426,7 +2426,7 @@
       "intervalle_fin": 1850,
       "timecode_debut_extrait": 1800,
       "timecode_fin_extrait": 1850,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0036_time_1800.00s-1850.00s.mp4",
       "nombre_sous_titres": 16,
       "sous_titres": [
         {
@@ -2533,7 +2533,7 @@
       "intervalle_fin": 1900,
       "timecode_debut_extrait": 1850,
       "timecode_fin_extrait": 1900,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0037_time_1850.00s-1900.00s.mp4",
       "nombre_sous_titres": 18,
       "sous_titres": [
         {
@@ -2652,7 +2652,7 @@
       "intervalle_fin": 1950,
       "timecode_debut_extrait": 1900,
       "timecode_fin_extrait": 1950,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0038_time_1900.00s-1950.00s.mp4",
       "nombre_sous_titres": 15,
       "sous_titres": [
         {
@@ -2753,7 +2753,7 @@
       "intervalle_fin": 2000,
       "timecode_debut_extrait": 1950,
       "timecode_fin_extrait": 2000,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0039_time_1950.00s-2000.00s.mp4",
       "nombre_sous_titres": 14,
       "sous_titres": [
         {
@@ -2848,7 +2848,7 @@
       "intervalle_fin": 2050,
       "timecode_debut_extrait": 2000,
       "timecode_fin_extrait": 2050,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0040_time_2000.00s-2050.00s.mp4",
       "nombre_sous_titres": 14,
       "sous_titres": [
         {
@@ -2943,7 +2943,7 @@
       "intervalle_fin": 2100,
       "timecode_debut_extrait": 2050,
       "timecode_fin_extrait": 2100,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0041_time_2050.00s-2100.00s.mp4",
       "nombre_sous_titres": 8,
       "sous_titres": [
         {
@@ -3002,7 +3002,7 @@
       "intervalle_fin": 2150,
       "timecode_debut_extrait": 2100,
       "timecode_fin_extrait": 2150,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0042_time_2100.00s-2150.00s.mp4",
       "nombre_sous_titres": 14,
       "sous_titres": [
         {
@@ -3097,7 +3097,7 @@
       "intervalle_fin": 2200,
       "timecode_debut_extrait": 2150,
       "timecode_fin_extrait": 2200,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0043_time_2150.00s-2200.00s.mp4",
       "nombre_sous_titres": 16,
       "sous_titres": [
         {
@@ -3204,7 +3204,7 @@
       "intervalle_fin": 2250,
       "timecode_debut_extrait": 2200,
       "timecode_fin_extrait": 2250,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0044_time_2200.00s-2250.00s.mp4",
       "nombre_sous_titres": 17,
       "sous_titres": [
         {
@@ -3317,7 +3317,7 @@
       "intervalle_fin": 2300,
       "timecode_debut_extrait": 2250,
       "timecode_fin_extrait": 2300,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0045_time_2250.00s-2300.00s.mp4",
       "nombre_sous_titres": 14,
       "sous_titres": [
         {
@@ -3412,7 +3412,7 @@
       "intervalle_fin": 2350,
       "timecode_debut_extrait": 2300,
       "timecode_fin_extrait": 2350,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0046_time_2300.00s-2350.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -3453,7 +3453,7 @@
       "intervalle_fin": 2400,
       "timecode_debut_extrait": 2350,
       "timecode_fin_extrait": 2400,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0047_time_2350.00s-2400.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -3488,7 +3488,7 @@
       "intervalle_fin": 2450,
       "timecode_debut_extrait": 2400,
       "timecode_fin_extrait": 2450,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0048_time_2400.00s-2450.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -3535,7 +3535,7 @@
       "intervalle_fin": 2500,
       "timecode_debut_extrait": 2450,
       "timecode_fin_extrait": 2500,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0049_time_2450.00s-2500.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -3582,7 +3582,7 @@
       "intervalle_fin": 2550,
       "timecode_debut_extrait": 2500,
       "timecode_fin_extrait": 2550,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0050_time_2500.00s-2550.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -3599,7 +3599,7 @@
       "intervalle_fin": 2600,
       "timecode_debut_extrait": 2550,
       "timecode_fin_extrait": 2600,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0051_time_2550.00s-2600.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -3640,7 +3640,7 @@
       "intervalle_fin": 2650,
       "timecode_debut_extrait": 2600,
       "timecode_fin_extrait": 2650,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0052_time_2600.00s-2650.00s.mp4",
       "nombre_sous_titres": 9,
       "sous_titres": [
         {
@@ -3705,7 +3705,7 @@
       "intervalle_fin": 2700,
       "timecode_debut_extrait": 2650,
       "timecode_fin_extrait": 2700,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0053_time_2650.00s-2700.00s.mp4",
       "nombre_sous_titres": 10,
       "sous_titres": [
         {
@@ -3776,7 +3776,7 @@
       "intervalle_fin": 2750,
       "timecode_debut_extrait": 2700,
       "timecode_fin_extrait": 2750,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0054_time_2700.00s-2750.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -3829,7 +3829,7 @@
       "intervalle_fin": 2800,
       "timecode_debut_extrait": 2750,
       "timecode_fin_extrait": 2800,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0055_time_2750.00s-2800.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -3882,7 +3882,7 @@
       "intervalle_fin": 2850,
       "timecode_debut_extrait": 2800,
       "timecode_fin_extrait": 2850,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0056_time_2800.00s-2850.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -3935,7 +3935,7 @@
       "intervalle_fin": 2900,
       "timecode_debut_extrait": 2850,
       "timecode_fin_extrait": 2900,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0057_time_2850.00s-2900.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -3964,7 +3964,7 @@
       "intervalle_fin": 2950,
       "timecode_debut_extrait": 2900,
       "timecode_fin_extrait": 2950,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0058_time_2900.00s-2950.00s.mp4",
       "nombre_sous_titres": 20,
       "sous_titres": [
         {
@@ -4095,7 +4095,7 @@
       "intervalle_fin": 3000,
       "timecode_debut_extrait": 2950,
       "timecode_fin_extrait": 3000,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0059_time_2950.00s-3000.00s.mp4",
       "nombre_sous_titres": 16,
       "sous_titres": [
         {
@@ -4202,7 +4202,7 @@
       "intervalle_fin": 3050,
       "timecode_debut_extrait": 3000,
       "timecode_fin_extrait": 3050,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0060_time_3000.00s-3050.00s.mp4",
       "nombre_sous_titres": 8,
       "sous_titres": [
         {
@@ -4261,7 +4261,7 @@
       "intervalle_fin": 3100,
       "timecode_debut_extrait": 3050,
       "timecode_fin_extrait": 3100,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0061_time_3050.00s-3100.00s.mp4",
       "nombre_sous_titres": 19,
       "sous_titres": [
         {
@@ -4386,7 +4386,7 @@
       "intervalle_fin": 3150,
       "timecode_debut_extrait": 3100,
       "timecode_fin_extrait": 3150,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0062_time_3100.00s-3150.00s.mp4",
       "nombre_sous_titres": 9,
       "sous_titres": [
         {
@@ -4451,7 +4451,7 @@
       "intervalle_fin": 3200,
       "timecode_debut_extrait": 3150,
       "timecode_fin_extrait": 3200,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0063_time_3150.00s-3200.00s.mp4",
       "nombre_sous_titres": 14,
       "sous_titres": [
         {
@@ -4546,7 +4546,7 @@
       "intervalle_fin": 3250,
       "timecode_debut_extrait": 3200,
       "timecode_fin_extrait": 3250,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0064_time_3200.00s-3250.00s.mp4",
       "nombre_sous_titres": 9,
       "sous_titres": [
         {
@@ -4611,7 +4611,7 @@
       "intervalle_fin": 3300,
       "timecode_debut_extrait": 3250,
       "timecode_fin_extrait": 3300,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0065_time_3250.00s-3300.00s.mp4",
       "nombre_sous_titres": 13,
       "sous_titres": [
         {
@@ -4700,7 +4700,7 @@
       "intervalle_fin": 3350,
       "timecode_debut_extrait": 3300,
       "timecode_fin_extrait": 3350,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0066_time_3300.00s-3350.00s.mp4",
       "nombre_sous_titres": 8,
       "sous_titres": [
         {
@@ -4759,7 +4759,7 @@
       "intervalle_fin": 3400,
       "timecode_debut_extrait": 3350,
       "timecode_fin_extrait": 3400,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0067_time_3350.00s-3400.00s.mp4",
       "nombre_sous_titres": 10,
       "sous_titres": [
         {
@@ -4830,7 +4830,7 @@
       "intervalle_fin": 3450,
       "timecode_debut_extrait": 3400,
       "timecode_fin_extrait": 3450,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0068_time_3400.00s-3450.00s.mp4",
       "nombre_sous_titres": 11,
       "sous_titres": [
         {
@@ -4907,7 +4907,7 @@
       "intervalle_fin": 3500,
       "timecode_debut_extrait": 3450,
       "timecode_fin_extrait": 3500,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0069_time_3450.00s-3500.00s.mp4",
       "nombre_sous_titres": 14,
       "sous_titres": [
         {
@@ -5002,7 +5002,7 @@
       "intervalle_fin": 3550,
       "timecode_debut_extrait": 3500,
       "timecode_fin_extrait": 3550,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0070_time_3500.00s-3550.00s.mp4",
       "nombre_sous_titres": 20,
       "sous_titres": [
         {
@@ -5133,7 +5133,7 @@
       "intervalle_fin": 3600,
       "timecode_debut_extrait": 3550,
       "timecode_fin_extrait": 3600,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0071_time_3550.00s-3600.00s.mp4",
       "nombre_sous_titres": 11,
       "sous_titres": [
         {
@@ -5210,7 +5210,7 @@
       "intervalle_fin": 3650,
       "timecode_debut_extrait": 3600,
       "timecode_fin_extrait": 3650,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0072_time_3600.00s-3650.00s.mp4",
       "nombre_sous_titres": 18,
       "sous_titres": [
         {
@@ -5329,7 +5329,7 @@
       "intervalle_fin": 3700,
       "timecode_debut_extrait": 3650,
       "timecode_fin_extrait": 3700,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0073_time_3650.00s-3700.00s.mp4",
       "nombre_sous_titres": 8,
       "sous_titres": [
         {
@@ -5388,7 +5388,7 @@
       "intervalle_fin": 3750,
       "timecode_debut_extrait": 3700,
       "timecode_fin_extrait": 3750,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0074_time_3700.00s-3750.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -5411,7 +5411,7 @@
       "intervalle_fin": 3800,
       "timecode_debut_extrait": 3750,
       "timecode_fin_extrait": 3800,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0075_time_3750.00s-3800.00s.mp4",
       "nombre_sous_titres": 19,
       "sous_titres": [
         {
@@ -5536,7 +5536,7 @@
       "intervalle_fin": 3850,
       "timecode_debut_extrait": 3800,
       "timecode_fin_extrait": 3850,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0076_time_3800.00s-3850.00s.mp4",
       "nombre_sous_titres": 19,
       "sous_titres": [
         {
@@ -5661,7 +5661,7 @@
       "intervalle_fin": 3900,
       "timecode_debut_extrait": 3850,
       "timecode_fin_extrait": 3900,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0077_time_3850.00s-3900.00s.mp4",
       "nombre_sous_titres": 14,
       "sous_titres": [
         {
@@ -5756,7 +5756,7 @@
       "intervalle_fin": 3950,
       "timecode_debut_extrait": 3900,
       "timecode_fin_extrait": 3950,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0078_time_3900.00s-3950.00s.mp4",
       "nombre_sous_titres": 8,
       "sous_titres": [
         {
@@ -5815,7 +5815,7 @@
       "intervalle_fin": 4000,
       "timecode_debut_extrait": 3950,
       "timecode_fin_extrait": 4000,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0079_time_3950.00s-4000.00s.mp4",
       "nombre_sous_titres": 14,
       "sous_titres": [
         {
@@ -5910,7 +5910,7 @@
       "intervalle_fin": 4050,
       "timecode_debut_extrait": 4000,
       "timecode_fin_extrait": 4050,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0080_time_4000.00s-4050.00s.mp4",
       "nombre_sous_titres": 15,
       "sous_titres": [
         {
@@ -6011,7 +6011,7 @@
       "intervalle_fin": 4100,
       "timecode_debut_extrait": 4050,
       "timecode_fin_extrait": 4100,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0081_time_4050.00s-4100.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -6052,7 +6052,7 @@
       "intervalle_fin": 4150,
       "timecode_debut_extrait": 4100,
       "timecode_fin_extrait": 4150,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0082_time_4100.00s-4150.00s.mp4",
       "nombre_sous_titres": 13,
       "sous_titres": [
         {
@@ -6141,7 +6141,7 @@
       "intervalle_fin": 4200,
       "timecode_debut_extrait": 4150,
       "timecode_fin_extrait": 4200,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0083_time_4150.00s-4200.00s.mp4",
       "nombre_sous_titres": 14,
       "sous_titres": [
         {
@@ -6236,7 +6236,7 @@
       "intervalle_fin": 4250,
       "timecode_debut_extrait": 4200,
       "timecode_fin_extrait": 4250,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0084_time_4200.00s-4250.00s.mp4",
       "nombre_sous_titres": 11,
       "sous_titres": [
         {
@@ -6313,7 +6313,7 @@
       "intervalle_fin": 4300,
       "timecode_debut_extrait": 4250,
       "timecode_fin_extrait": 4300,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0085_time_4250.00s-4300.00s.mp4",
       "nombre_sous_titres": 19,
       "sous_titres": [
         {
@@ -6438,7 +6438,7 @@
       "intervalle_fin": 4350,
       "timecode_debut_extrait": 4300,
       "timecode_fin_extrait": 4350,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0086_time_4300.00s-4350.00s.mp4",
       "nombre_sous_titres": 16,
       "sous_titres": [
         {
@@ -6545,7 +6545,7 @@
       "intervalle_fin": 4400,
       "timecode_debut_extrait": 4350,
       "timecode_fin_extrait": 4400,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0087_time_4350.00s-4400.00s.mp4",
       "nombre_sous_titres": 9,
       "sous_titres": [
         {
@@ -6610,7 +6610,7 @@
       "intervalle_fin": 4450,
       "timecode_debut_extrait": 4400,
       "timecode_fin_extrait": 4450,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0088_time_4400.00s-4450.00s.mp4",
       "nombre_sous_titres": 11,
       "sous_titres": [
         {
@@ -6687,7 +6687,7 @@
       "intervalle_fin": 4500,
       "timecode_debut_extrait": 4450,
       "timecode_fin_extrait": 4500,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0089_time_4450.00s-4500.00s.mp4",
       "nombre_sous_titres": 12,
       "sous_titres": [
         {
@@ -6770,7 +6770,7 @@
       "intervalle_fin": 4550,
       "timecode_debut_extrait": 4500,
       "timecode_fin_extrait": 4550,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0090_time_4500.00s-4550.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -6823,7 +6823,7 @@
       "intervalle_fin": 4600,
       "timecode_debut_extrait": 4550,
       "timecode_fin_extrait": 4600,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0091_time_4550.00s-4600.00s.mp4",
       "nombre_sous_titres": 16,
       "sous_titres": [
         {
@@ -6930,7 +6930,7 @@
       "intervalle_fin": 4650,
       "timecode_debut_extrait": 4600,
       "timecode_fin_extrait": 4650,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0092_time_4600.00s-4650.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -6971,7 +6971,7 @@
       "intervalle_fin": 4700,
       "timecode_debut_extrait": 4650,
       "timecode_fin_extrait": 4700,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0093_time_4650.00s-4700.00s.mp4",
       "nombre_sous_titres": 12,
       "sous_titres": [
         {
@@ -7054,7 +7054,7 @@
       "intervalle_fin": 4750,
       "timecode_debut_extrait": 4700,
       "timecode_fin_extrait": 4750,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0094_time_4700.00s-4750.00s.mp4",
       "nombre_sous_titres": 18,
       "sous_titres": [
         {
@@ -7173,7 +7173,7 @@
       "intervalle_fin": 4800,
       "timecode_debut_extrait": 4750,
       "timecode_fin_extrait": 4800,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0095_time_4750.00s-4800.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -7214,7 +7214,7 @@
       "intervalle_fin": 4850,
       "timecode_debut_extrait": 4800,
       "timecode_fin_extrait": 4850,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0096_time_4800.00s-4850.00s.mp4",
       "nombre_sous_titres": 20,
       "sous_titres": [
         {
@@ -7345,7 +7345,7 @@
       "intervalle_fin": 4900,
       "timecode_debut_extrait": 4850,
       "timecode_fin_extrait": 4900,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0097_time_4850.00s-4900.00s.mp4",
       "nombre_sous_titres": 12,
       "sous_titres": [
         {
@@ -7428,7 +7428,7 @@
       "intervalle_fin": 4950,
       "timecode_debut_extrait": 4900,
       "timecode_fin_extrait": 4950,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0098_time_4900.00s-4950.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -7469,7 +7469,7 @@
       "intervalle_fin": 5000,
       "timecode_debut_extrait": 4950,
       "timecode_fin_extrait": 5000,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0099_time_4950.00s-5000.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -7479,7 +7479,7 @@
       "intervalle_fin": 5050,
       "timecode_debut_extrait": 5000,
       "timecode_fin_extrait": 5050,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0100_time_5000.00s-5050.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -7502,7 +7502,7 @@
       "intervalle_fin": 5100,
       "timecode_debut_extrait": 5050,
       "timecode_fin_extrait": 5100,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0101_time_5050.00s-5100.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -7525,7 +7525,7 @@
       "intervalle_fin": 5150,
       "timecode_debut_extrait": 5100,
       "timecode_fin_extrait": 5150,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0102_time_5100.00s-5150.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -7548,7 +7548,7 @@
       "intervalle_fin": 5200,
       "timecode_debut_extrait": 5150,
       "timecode_fin_extrait": 5200,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0103_time_5150.00s-5200.00s.mp4",
       "nombre_sous_titres": 9,
       "sous_titres": [
         {
@@ -7613,7 +7613,7 @@
       "intervalle_fin": 5250,
       "timecode_debut_extrait": 5200,
       "timecode_fin_extrait": 5250,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0104_time_5200.00s-5250.00s.mp4",
       "nombre_sous_titres": 15,
       "sous_titres": [
         {
@@ -7714,7 +7714,7 @@
       "intervalle_fin": 5300,
       "timecode_debut_extrait": 5250,
       "timecode_fin_extrait": 5300,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0105_time_5250.00s-5300.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -7761,7 +7761,7 @@
       "intervalle_fin": 5350,
       "timecode_debut_extrait": 5300,
       "timecode_fin_extrait": 5350,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0106_time_5300.00s-5350.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -7771,7 +7771,7 @@
       "intervalle_fin": 5400,
       "timecode_debut_extrait": 5350,
       "timecode_fin_extrait": 5400,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0107_time_5350.00s-5400.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -7781,7 +7781,7 @@
       "intervalle_fin": 5450,
       "timecode_debut_extrait": 5400,
       "timecode_fin_extrait": 5450,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0108_time_5400.00s-5450.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -7791,7 +7791,7 @@
       "intervalle_fin": 5500,
       "timecode_debut_extrait": 5450,
       "timecode_fin_extrait": 5500,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0109_time_5450.00s-5500.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -7801,7 +7801,7 @@
       "intervalle_fin": 5550,
       "timecode_debut_extrait": 5500,
       "timecode_fin_extrait": 5550,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0110_time_5500.00s-5550.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -7811,7 +7811,7 @@
       "intervalle_fin": 5600,
       "timecode_debut_extrait": 5550,
       "timecode_fin_extrait": 5600,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0111_time_5550.00s-5600.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -7821,7 +7821,7 @@
       "intervalle_fin": 5650,
       "timecode_debut_extrait": 5600,
       "timecode_fin_extrait": 5650,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0112_time_5600.00s-5650.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -7831,7 +7831,7 @@
       "intervalle_fin": 5700,
       "timecode_debut_extrait": 5650,
       "timecode_fin_extrait": 5700,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0113_time_5650.00s-5700.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -7841,7 +7841,7 @@
       "intervalle_fin": 5750,
       "timecode_debut_extrait": 5700,
       "timecode_fin_extrait": 5750,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0114_time_5700.00s-5750.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -7851,7 +7851,7 @@
       "intervalle_fin": 5761.76,
       "timecode_debut_extrait": 5750,
       "timecode_fin_extrait": 5761.76,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Icefall (2025)\\interval_0115_time_5750.00s-5761.76s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     }

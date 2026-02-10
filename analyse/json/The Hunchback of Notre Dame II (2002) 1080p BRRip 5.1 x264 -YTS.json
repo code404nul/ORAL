@@ -1,0 +1,5182 @@
+{
+  "movie_id": "The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS",
+  "movie_path": "E:\\film_oral\\The Hunchback of Notre Dame II (2002)\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS.mp4",
+  "subtitle_path": "E:\\film_oral\\The Hunchback of Notre Dame II (2002)\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS.en.srt",
+  "intervalle_secondes": 50,
+  "nombre_intervalles": 80,
+  "dossier_videos": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS",
+  "date_traitement": "2026-02-10T13:34:13.046267",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 50,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 50,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0000_time_0.00s-50.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 1,
+          "start": 27.19,
+          "end": 30.72,
+          "text": "Hey, come back! Wait up!"
+        },
+        {
+          "index": 2,
+          "start": 34.2,
+          "end": 37.17,
+          "text": "Oh, what a beautiful day. Good morning."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 50,
+      "intervalle_fin": 100,
+      "timecode_debut_extrait": 50,
+      "timecode_fin_extrait": 100,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0001_time_50.00s-100.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 3,
+          "start": 85.18,
+          "end": 87.98,
+          "text": "<i>There's music in the marketplace</i>"
+        },
+        {
+          "index": 4,
+          "start": 88.12,
+          "end": 90.31,
+          "text": "<i>The streets have come alive</i>"
+        },
+        {
+          "index": 5,
+          "start": 90.46,
+          "end": 92.48,
+          "text": "<i>The town is in a tizzy</i>"
+        },
+        {
+          "index": 6,
+          "start": 92.62,
+          "end": 95.15,
+          "text": "<i>It's a busy buzzing hive</i>"
+        },
+        {
+          "index": 7,
+          "start": 95.29,
+          "end": 99.82,
+          "text": "<i>There's cause for this commotion</i> <i>and emotional display</i>"
+        },
+        {
+          "index": 8,
+          "start": 99.96,
+          "end": 102.43,
+          "text": "<i>We just can't wait to celebrate</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 100,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 100,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0002_time_100.00s-150.00s.mp4",
+      "nombre_sous_titres": 15,
+      "sous_titres": [
+        {
+          "index": 9,
+          "start": 102.57,
+          "end": 105.66,
+          "text": "<i>Our favorite holiday</i>"
+        },
+        {
+          "index": 10,
+          "start": 105.8,
+          "end": 108.14,
+          "text": "<i>Le Jour D'Amour</i>"
+        },
+        {
+          "index": 11,
+          "start": 108.24,
+          "end": 110.17,
+          "text": "<i>Your song is in the air</i>"
+        },
+        {
+          "index": 12,
+          "start": 110.31,
+          "end": 112.4,
+          "text": "<i>What magic</i> <i>will you make for us</i>"
+        },
+        {
+          "index": 13,
+          "start": 112.54,
+          "end": 114.64,
+          "text": "<i>What promise will you share</i>"
+        },
+        {
+          "index": 14,
+          "start": 114.78,
+          "end": 116.84,
+          "text": "<i>That golden bell</i> <i>sweet La Fidele</i>"
+        },
+        {
+          "index": 15,
+          "start": 116.98,
+          "end": 120.28,
+          "text": "<i>Will soon be ringing clear</i>"
+        },
+        {
+          "index": 16,
+          "start": 120.38,
+          "end": 124.34,
+          "text": "<i>The best of all the festivals</i> <i>Le Jour D'Amour is here</i>"
+        },
+        {
+          "index": 17,
+          "start": 124.49,
+          "end": 127.82,
+          "text": "<i>Mesdames et messieurs,</i> time is short."
+        },
+        {
+          "index": 18,
+          "start": 127.93,
+          "end": 130.05,
+          "text": "You must find your true love."
+        },
+        {
+          "index": 19,
+          "start": 130.16,
+          "end": 132.29,
+          "text": "Find your soul's mate..."
+        },
+        {
+          "index": 20,
+          "start": 132.4,
+          "end": 136.92,
+          "text": "for the Festival D'Amour is upon us."
+        },
+        {
+          "index": 21,
+          "start": 140.27,
+          "end": 144.07,
+          "text": "<i>Some have come in puppy love</i> <i>perchance to steal a kiss</i>"
+        },
+        {
+          "index": 22,
+          "start": 144.18,
+          "end": 147.87,
+          "text": "<i>Some are still enamored</i> <i>after years of wedded bliss</i>"
+        },
+        {
+          "index": 23,
+          "start": 147.98,
+          "end": 151.21,
+          "text": "<i>Everyone's parading</i> <i>down the promenade in pairs</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 150,
+      "intervalle_fin": 200,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 200,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0003_time_150.00s-200.00s.mp4",
+      "nombre_sous_titres": 12,
+      "sous_titres": [
+        {
+          "index": 24,
+          "start": 151.32,
+          "end": 155.05,
+          "text": "<i>To join the celebration</i> <i>at the finest of the fairs</i>"
+        },
+        {
+          "index": 25,
+          "start": 155.15,
+          "end": 158.45,
+          "text": "<i>Le Jour D'Amour</i> <i>Your song is in the air</i>"
+        },
+        {
+          "index": 26,
+          "start": 158.59,
+          "end": 162.22,
+          "text": "<i>What magic will you make for us</i> <i>Whose name shall I declare</i>"
+        },
+        {
+          "index": 27,
+          "start": 162.33,
+          "end": 166.76,
+          "text": "<i>That golden bell, sweet La Fidele</i> <i>will soon be ringing clear</i>"
+        },
+        {
+          "index": 28,
+          "start": 166.86,
+          "end": 170.32,
+          "text": "<i>The best of all the festivals</i> <i>Le Jour D'Amour is here</i>"
+        },
+        {
+          "index": 29,
+          "start": 170.43,
+          "end": 173.84,
+          "text": "<i>Oh, how the stars</i> <i>will sparkle on the water</i>"
+        },
+        {
+          "index": 30,
+          "start": 173.94,
+          "end": 177.67,
+          "text": "<i>As the troubadours sing</i> <i>tales of true romance</i>"
+        },
+        {
+          "index": 31,
+          "start": 177.78,
+          "end": 181.07,
+          "text": "<i>The spirits may rise</i>"
+        },
+        {
+          "index": 32,
+          "start": 181.18,
+          "end": 184.77,
+          "text": "<i>With fire in their eyes</i>"
+        },
+        {
+          "index": 33,
+          "start": 184.88,
+          "end": 188.91,
+          "text": "<i>While gypsy girls</i> <i>enchant you with a dance</i>"
+        },
+        {
+          "index": 34,
+          "start": 194.36,
+          "end": 197.95,
+          "text": "<i>Le Jour D'Amour</i> <i>Your song is in the air</i>"
+        },
+        {
+          "index": 35,
+          "start": 198.06,
+          "end": 201.55,
+          "text": "<i>What magic will you make for us</i> <i>What promise will you share</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 200,
+      "intervalle_fin": 250,
+      "timecode_debut_extrait": 200,
+      "timecode_fin_extrait": 250,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0004_time_200.00s-250.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 36,
+          "start": 201.67,
+          "end": 207.97,
+          "text": "<i>That golden bell, sweet La Fidele</i> <i>will soon be ringing clear</i>"
+        },
+        {
+          "index": 37,
+          "start": 208.07,
+          "end": 218.61,
+          "text": "<i>The best of all the festivals</i> <i>Le Jour D'Amour is here</i>"
+        },
+        {
+          "index": 38,
+          "start": 226.39,
+          "end": 229.48,
+          "text": "Ah, observe the rituals of courtship..."
+        },
+        {
+          "index": 39,
+          "start": 229.59,
+          "end": 232.09,
+          "text": "as citizens gather two by two."
+        },
+        {
+          "index": 40,
+          "start": 232.2,
+          "end": 235.83,
+          "text": "Oh, looks like there's someone for everyone."
+        },
+        {
+          "index": 41,
+          "start": 235.93,
+          "end": 239.96,
+          "text": "Ah, yes. Too bad there's only one of me to go around, eh?"
+        },
+        {
+          "index": 42,
+          "start": 240.07,
+          "end": 243.13,
+          "text": "Ha! One is plenty. Believe me."
+        },
+        {
+          "index": 43,
+          "start": 243.24,
+          "end": 246.04,
+          "text": "Ah, thanks. Hey!"
+        },
+        {
+          "index": 44,
+          "start": 246.18,
+          "end": 248.91,
+          "text": "- Was that a shot? - Maybe."
+        },
+        {
+          "index": 45,
+          "start": 249.01,
+          "end": 251.35,
+          "text": "- Take that back! - No!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 250,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 250,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0005_time_250.00s-300.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 46,
+          "start": 251.48,
+          "end": 254.75,
+          "text": "Take that... Back."
+        },
+        {
+          "index": 47,
+          "start": 258.26,
+          "end": 261.52,
+          "text": "Are you guys gonna fight all day or help me get ready for the festival?"
+        },
+        {
+          "index": 48,
+          "start": 261.66,
+          "end": 264.49,
+          "text": "There he is in his triumphant return."
+        },
+        {
+          "index": 49,
+          "start": 264.6,
+          "end": 266.65,
+          "text": "Dashing gadabout town, eh?"
+        },
+        {
+          "index": 50,
+          "start": 266.8,
+          "end": 270.93,
+          "text": "Come on. Let's get the marble out, huh? We have to polish La Fidele."
+        },
+        {
+          "index": 51,
+          "start": 271.07,
+          "end": 274.0,
+          "text": "- And what's the festival... - Without the bell?"
+        },
+        {
+          "index": 52,
+          "start": 274.14,
+          "end": 277.27,
+          "text": "Or the bell-ringer!"
+        },
+        {
+          "index": 53,
+          "start": 278.51,
+          "end": 280.6,
+          "text": "Toro! Toro!"
+        },
+        {
+          "index": 54,
+          "start": 283.48,
+          "end": 287.32,
+          "text": "- Toro! Toro! - Charge!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 300,
+      "intervalle_fin": 350,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 350,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0006_time_300.00s-350.00s.mp4",
+      "nombre_sous_titres": 13,
+      "sous_titres": [
+        {
+          "index": 55,
+          "start": 308.81,
+          "end": 311.0,
+          "text": "Zephyr, you need to slow down."
+        },
+        {
+          "index": 56,
+          "start": 312.11,
+          "end": 315.57,
+          "text": "Okay..."
+        },
+        {
+          "index": 57,
+          "start": 315.68,
+          "end": 318.62,
+          "text": "Mom."
+        },
+        {
+          "index": 58,
+          "start": 318.72,
+          "end": 322.91,
+          "text": "- Listen to your mother, young man. - Yes, Papa."
+        },
+        {
+          "index": 59,
+          "start": 323.02,
+          "end": 325.42,
+          "text": "Look at her."
+        },
+        {
+          "index": 60,
+          "start": 328.53,
+          "end": 331.43,
+          "text": "La Fidele, you are magnificent."
+        },
+        {
+          "index": 61,
+          "start": 331.53,
+          "end": 333.76,
+          "text": "Are you gonna ring it once for my mom, Quasi?"
+        },
+        {
+          "index": 62,
+          "start": 333.86,
+          "end": 336.36,
+          "text": "You bet he is, and your mother's gonna be down in the square..."
+        },
+        {
+          "index": 63,
+          "start": 336.47,
+          "end": 338.37,
+          "text": "screaming loudly into the night..."
+        },
+        {
+          "index": 64,
+          "start": 338.47,
+          "end": 342.13,
+          "text": "\"I love my husband Phoebus.\""
+        },
+        {
+          "index": 65,
+          "start": 342.24,
+          "end": 346.04,
+          "text": "Oh, really? And what makes you think that I'm gonna shout so loudly?"
+        },
+        {
+          "index": 66,
+          "start": 346.14,
+          "end": 348.61,
+          "text": "You'll have to to be heard over me yelling..."
+        },
+        {
+          "index": 67,
+          "start": 348.71,
+          "end": 352.55,
+          "text": "\"I love Esmeralda!\""
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 350,
+      "intervalle_fin": 400,
+      "timecode_debut_extrait": 350,
+      "timecode_fin_extrait": 400,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0007_time_350.00s-400.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 68,
+          "start": 355.02,
+          "end": 358.68,
+          "text": "- Yuck. - Yeah. Yuck."
+        },
+        {
+          "index": 69,
+          "start": 365.1,
+          "end": 368.29,
+          "text": "Whose name are you gonna yell tomorrow, Quasi?"
+        },
+        {
+          "index": 70,
+          "start": 368.4,
+          "end": 372.06,
+          "text": "- No one, I guess. - Then who's gonna scream your name?"
+        },
+        {
+          "index": 71,
+          "start": 373.24,
+          "end": 376.4,
+          "text": "I don't think anyone ever will, Zephyr."
+        },
+        {
+          "index": 72,
+          "start": 378.94,
+          "end": 381.5,
+          "text": "Well... Well, why not?"
+        },
+        {
+          "index": 73,
+          "start": 387.72,
+          "end": 389.58,
+          "text": "Quasi."
+        },
+        {
+          "index": 74,
+          "start": 391.46,
+          "end": 395.41,
+          "text": "Takes more than looking to really see."
+        },
+        {
+          "index": 75,
+          "start": 397.43,
+          "end": 401.56,
+          "text": "Someday you'll be ready. And when you are, you'll find her."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 400,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 400,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0008_time_400.00s-450.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 76,
+          "start": 409.24,
+          "end": 411.9,
+          "text": "Someday. Nah."
+        },
+        {
+          "index": 77,
+          "start": 413.58,
+          "end": 416.44,
+          "text": "What could possibly ever change?"
+        },
+        {
+          "index": 78,
+          "start": 419.88,
+          "end": 420.11,
+          "text": "Oh, boy! Wow! It's the circus!"
+        },
+        {
+          "index": 79,
+          "start": 424.66,
+          "end": 428.59,
+          "text": "- A giraffe! - Look how tall he is!"
+        },
+        {
+          "index": 80,
+          "start": 429.69,
+          "end": 433.79,
+          "text": "- Look! - Oh, look at the monkey."
+        },
+        {
+          "index": 81,
+          "start": 435.1,
+          "end": 437.12,
+          "text": "Come, <i>mes amis!</i>"
+        },
+        {
+          "index": 82,
+          "start": 437.27,
+          "end": 439.74,
+          "text": "As part of the Festival D'Amour..."
+        },
+        {
+          "index": 83,
+          "start": 439.87,
+          "end": 442.86,
+          "text": "a circus has come to Paris!"
+        },
+        {
+          "index": 84,
+          "start": 447.48,
+          "end": 449.84,
+          "text": "Come one, come all..."
+        },
+        {
+          "index": 85,
+          "start": 449.95,
+          "end": 452.18,
+          "text": "to Cirque de Sarousch!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 450,
+      "intervalle_fin": 500,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 500,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0009_time_450.00s-500.00s.mp4",
+      "nombre_sous_titres": 13,
+      "sous_titres": [
+        {
+          "index": 86,
+          "start": 452.28,
+          "end": 454.84,
+          "text": "See juggling clowns..."
+        },
+        {
+          "index": 87,
+          "start": 454.99,
+          "end": 458.35,
+          "text": "fire-breathers and magic."
+        },
+        {
+          "index": 88,
+          "start": 461.23,
+          "end": 465.46,
+          "text": "And now, may I present the prettiest ornament on the midway..."
+        },
+        {
+          "index": 89,
+          "start": 466.56,
+          "end": 468.79,
+          "text": "I can't see!"
+        },
+        {
+          "index": 90,
+          "start": 468.9,
+          "end": 471.6,
+          "text": "My assistant, Mad..."
+        },
+        {
+          "index": 91,
+          "start": 474.34,
+          "end": 477.9,
+          "text": "Well, my assistant, Made..."
+        },
+        {
+          "index": 92,
+          "start": 478.01,
+          "end": 480.88,
+          "text": "- It's empty! - There's no one there."
+        },
+        {
+          "index": 93,
+          "start": 480.98,
+          "end": 485.54,
+          "text": "Well... Well, of course not! You have to come to the circus to see her."
+        },
+        {
+          "index": 94,
+          "start": 489.22,
+          "end": 491.21,
+          "text": "Where is Madellaine?"
+        },
+        {
+          "index": 95,
+          "start": 491.42,
+          "end": 493.22,
+          "text": "And pull!"
+        },
+        {
+          "index": 96,
+          "start": 493.36,
+          "end": 495.42,
+          "text": "<i>Mesdames</i> and <i>messieurs...</i>"
+        },
+        {
+          "index": 97,
+          "start": 495.53,
+          "end": 498.89,
+          "text": "kindly direct your attention high above..."
+        },
+        {
+          "index": 98,
+          "start": 499.0,
+          "end": 500.9,
+          "text": "as the magnificent Madellaine..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 500,
+      "intervalle_fin": 550,
+      "timecode_debut_extrait": 500,
+      "timecode_fin_extrait": 550,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0010_time_500.00s-550.00s.mp4",
+      "nombre_sous_titres": 12,
+      "sous_titres": [
+        {
+          "index": 99,
+          "start": 501.0,
+          "end": 503.76,
+          "text": "is about to perform her daring high-wire act..."
+        },
+        {
+          "index": 100,
+          "start": 503.87,
+          "end": 505.8,
+          "text": "without a net."
+        },
+        {
+          "index": 101,
+          "start": 505.9,
+          "end": 508.63,
+          "text": "Oops. And the crowd goes wild."
+        },
+        {
+          "index": 102,
+          "start": 511.71,
+          "end": 516.74,
+          "text": "A hush comes over the crowd as Madellaine begins her graceful trek."
+        },
+        {
+          "index": 103,
+          "start": 522.29,
+          "end": 527.35,
+          "text": "Madellaine catches her breath having nearly plummeted to her death."
+        },
+        {
+          "index": 104,
+          "start": 527.46,
+          "end": 530.52,
+          "text": "And the crowd bursts into applause!"
+        },
+        {
+          "index": 105,
+          "start": 530.63,
+          "end": 533.89,
+          "text": "As they scream for more! Encore!"
+        },
+        {
+          "index": 106,
+          "start": 534.03,
+          "end": 537.16,
+          "text": "Thank you. You're too kind."
+        },
+        {
+          "index": 107,
+          "start": 537.27,
+          "end": 540.07,
+          "text": "Where were you, my little trinket?"
+        },
+        {
+          "index": 108,
+          "start": 541.47,
+          "end": 545.37,
+          "text": "Oh, well, I-I-I was, um... I-I was standing."
+        },
+        {
+          "index": 109,
+          "start": 545.48,
+          "end": 548.04,
+          "text": "Well, of-of course I was standing. I mean, I haven't always been sitting."
+        },
+        {
+          "index": 110,
+          "start": 548.15,
+          "end": 552.91,
+          "text": "That would be stupid, I guess. I'm sorry."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 550,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 550,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0011_time_550.00s-600.00s.mp4",
+      "nombre_sous_titres": 12,
+      "sous_titres": [
+        {
+          "index": 111,
+          "start": 554.95,
+          "end": 557.68,
+          "text": "I-I-I just want to contribute more to the circus."
+        },
+        {
+          "index": 112,
+          "start": 557.79,
+          "end": 561.35,
+          "text": "Your job is to stand there and look pretty."
+        },
+        {
+          "index": 113,
+          "start": 561.46,
+          "end": 565.33,
+          "text": "Hello. Oh, lovely."
+        },
+        {
+          "index": 114,
+          "start": 565.43,
+          "end": 569.7,
+          "text": "- I wanna do more. - And so you shall, my little éclair."
+        },
+        {
+          "index": 115,
+          "start": 569.8,
+          "end": 574.2,
+          "text": "I have the perfect job for a girl like you."
+        },
+        {
+          "index": 116,
+          "start": 575.44,
+          "end": 577.34,
+          "text": "Up in the tower of Notre Dame..."
+        },
+        {
+          "index": 117,
+          "start": 577.44,
+          "end": 580.81,
+          "text": "is a bell of extraordinary value."
+        },
+        {
+          "index": 118,
+          "start": 580.95,
+          "end": 584.97,
+          "text": "I want you to go up there and find out which is the bell called La Fidele."
+        },
+        {
+          "index": 119,
+          "start": 586.55,
+          "end": 589.88,
+          "text": "- Why? - Because I mean to steal it, silly."
+        },
+        {
+          "index": 120,
+          "start": 590.02,
+          "end": 594.58,
+          "text": "I'll be rich. I can travel the world in style and comfort."
+        },
+        {
+          "index": 121,
+          "start": 594.73,
+          "end": 599.49,
+          "text": "No. Why must we always steal? I-I was thinking..."
+        },
+        {
+          "index": 122,
+          "start": 599.63,
+          "end": 601.72,
+          "text": "Thinking?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 600,
+      "intervalle_fin": 650,
+      "timecode_debut_extrait": 600,
+      "timecode_fin_extrait": 650,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0012_time_600.00s-650.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 123,
+          "start": 601.87,
+          "end": 605.77,
+          "text": "Not your strong suit, is it, my little bonbon?"
+        },
+        {
+          "index": 124,
+          "start": 605.87,
+          "end": 607.77,
+          "text": "No, it's mine."
+        },
+        {
+          "index": 125,
+          "start": 607.87,
+          "end": 611.33,
+          "text": "- And where would you be without me? - On the streets."
+        },
+        {
+          "index": 126,
+          "start": 611.48,
+          "end": 615.28,
+          "text": "Precisely. For it's a cold world out there..."
+        },
+        {
+          "index": 127,
+          "start": 615.38,
+          "end": 619.04,
+          "text": "For a girl like me. What do I do?"
+        },
+        {
+          "index": 128,
+          "start": 619.15,
+          "end": 621.31,
+          "text": "Oh. Lovely."
+        },
+        {
+          "index": 129,
+          "start": 623.82,
+          "end": 626.85,
+          "text": "There's a bell-ringer that lives in the tower."
+        },
+        {
+          "index": 130,
+          "start": 626.99,
+          "end": 630.39,
+          "text": "Smile at him. Wile and beguile him..."
+        },
+        {
+          "index": 131,
+          "start": 630.49,
+          "end": 633.9,
+          "text": "and he'll tell you exactly what I want to know."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 650,
+      "intervalle_fin": 700,
+      "timecode_debut_extrait": 650,
+      "timecode_fin_extrait": 700,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0013_time_650.00s-700.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 132,
+          "start": 687.72,
+          "end": 689.95,
+          "text": "Uh, hello."
+        },
+        {
+          "index": 133,
+          "start": 690.05,
+          "end": 693.55,
+          "text": "- Damsel alert. - And a lovely vision at that."
+        },
+        {
+          "index": 134,
+          "start": 693.66,
+          "end": 695.65,
+          "text": "What am I, chopped liver?"
+        },
+        {
+          "index": 135,
+          "start": 695.76,
+          "end": 697.89,
+          "text": "I-I'm looking for the bell-ringer."
+        },
+        {
+          "index": 136,
+          "start": 698.0,
+          "end": 700.05,
+          "text": "She wants you, big guy."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 700,
+      "intervalle_fin": 750,
+      "timecode_debut_extrait": 700,
+      "timecode_fin_extrait": 750,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0014_time_700.00s-750.00s.mp4",
+      "nombre_sous_titres": 12,
+      "sous_titres": [
+        {
+          "index": 137,
+          "start": 704.33,
+          "end": 706.56,
+          "text": "Is anyone here?"
+        },
+        {
+          "index": 138,
+          "start": 707.67,
+          "end": 712.04,
+          "text": "- Get out there, sweetie. - I-I-I can't. What would I say?"
+        },
+        {
+          "index": 139,
+          "start": 712.14,
+          "end": 714.51,
+          "text": "Open your mouth. Something will come out."
+        },
+        {
+          "index": 140,
+          "start": 714.61,
+          "end": 717.05,
+          "text": "- I-I-I... - Nothing came out."
+        },
+        {
+          "index": 141,
+          "start": 717.15,
+          "end": 719.84,
+          "text": "My name is Madellaine. I-I'm with the circus..."
+        },
+        {
+          "index": 142,
+          "start": 719.95,
+          "end": 723.32,
+          "text": "and, oh, I just love bells."
+        },
+        {
+          "index": 143,
+          "start": 724.86,
+          "end": 727.52,
+          "text": "Which one is La Fidele?"
+        },
+        {
+          "index": 144,
+          "start": 727.62,
+          "end": 732.46,
+          "text": "The bells, you ding-dong. She likes the bells. Talk shop."
+        },
+        {
+          "index": 145,
+          "start": 734.53,
+          "end": 738.59,
+          "text": "Are-Are you hiding from me?"
+        },
+        {
+          "index": 146,
+          "start": 740.97,
+          "end": 742.94,
+          "text": "No. What's so funny?"
+        },
+        {
+          "index": 147,
+          "start": 743.04,
+          "end": 746.67,
+          "text": "Nothing. It's just... It looks like you're wearing a really big hat."
+        },
+        {
+          "index": 148,
+          "start": 748.41,
+          "end": 752.08,
+          "text": "Oh. That... That sounds silly, doesn't it?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 750,
+      "intervalle_fin": 800,
+      "timecode_debut_extrait": 750,
+      "timecode_fin_extrait": 800,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0015_time_750.00s-800.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 149,
+          "start": 752.22,
+          "end": 755.78,
+          "text": "No. I just never looked at it that way before."
+        },
+        {
+          "index": 150,
+          "start": 757.25,
+          "end": 759.35,
+          "text": "Yes, it's a... It's a brass beret."
+        },
+        {
+          "index": 151,
+          "start": 759.49,
+          "end": 761.46,
+          "text": "A-A 2-ton topper."
+        },
+        {
+          "index": 152,
+          "start": 762.93,
+          "end": 765.09,
+          "text": "A-A chapeau in C-sharp!"
+        },
+        {
+          "index": 153,
+          "start": 773.17,
+          "end": 776.83,
+          "text": "- The gargoyles! - Gargoyles?"
+        },
+        {
+          "index": 154,
+          "start": 777.01,
+          "end": 779.37,
+          "text": "Well, they were... they were alive!"
+        },
+        {
+          "index": 155,
+          "start": 781.61,
+          "end": 783.55,
+          "text": "But that's dumb, isn't it?"
+        },
+        {
+          "index": 156,
+          "start": 784.68,
+          "end": 786.58,
+          "text": "No."
+        },
+        {
+          "index": 157,
+          "start": 796.09,
+          "end": 798.19,
+          "text": "You must think I'm stupid."
+        },
+        {
+          "index": 158,
+          "start": 798.3,
+          "end": 800.2,
+          "text": "Not at all."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 800,
+      "intervalle_fin": 850,
+      "timecode_debut_extrait": 800,
+      "timecode_fin_extrait": 850,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0016_time_800.00s-850.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 159,
+          "start": 800.3,
+          "end": 802.53,
+          "text": "That just means you have an imagination."
+        },
+        {
+          "index": 160,
+          "start": 802.63,
+          "end": 805.66,
+          "text": "- Do you really think so? - I do."
+        },
+        {
+          "index": 161,
+          "start": 808.91,
+          "end": 812.43,
+          "text": "- What's your name? - Quasimodo."
+        },
+        {
+          "index": 162,
+          "start": 812.54,
+          "end": 816.04,
+          "text": "Well, Quasimodo..."
+        },
+        {
+          "index": 163,
+          "start": 816.15,
+          "end": 818.51,
+          "text": "wouldn't you like to come where I can see you?"
+        },
+        {
+          "index": 164,
+          "start": 833.73,
+          "end": 836.39,
+          "text": "I h-h-have to go."
+        },
+        {
+          "index": 165,
+          "start": 836.5,
+          "end": 838.59,
+          "text": "I'm sorry."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 850,
+      "intervalle_fin": 900,
+      "timecode_debut_extrait": 850,
+      "timecode_fin_extrait": 900,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0017_time_850.00s-900.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 166,
+          "start": 864.43,
+          "end": 866.4,
+          "text": "Oh, poor kid."
+        },
+        {
+          "index": 167,
+          "start": 874.04,
+          "end": 875.94,
+          "text": "Are you okay?"
+        },
+        {
+          "index": 168,
+          "start": 876.04,
+          "end": 879.44,
+          "text": "No. You saw the way she looked at me."
+        },
+        {
+          "index": 169,
+          "start": 879.54,
+          "end": 882.31,
+          "text": "Well, then, get her to look again, honey."
+        },
+        {
+          "index": 170,
+          "start": 890.52,
+          "end": 895.72,
+          "text": "- Do you believe in miracles? - Miracles? What kind of miracles?"
+        },
+        {
+          "index": 171,
+          "start": 895.83,
+          "end": 898.45,
+          "text": "Oh, you know, just ordinary miracles."
+        },
+        {
+          "index": 172,
+          "start": 898.56,
+          "end": 900.39,
+          "text": "I'm not following you, kid."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 900,
+      "intervalle_fin": 950,
+      "timecode_debut_extrait": 900,
+      "timecode_fin_extrait": 950,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0018_time_900.00s-950.00s.mp4",
+      "nombre_sous_titres": 11,
+      "sous_titres": [
+        {
+          "index": 173,
+          "start": 900.5,
+          "end": 905.53,
+          "text": "Well, I see people together, couples..."
+        },
+        {
+          "index": 174,
+          "start": 905.64,
+          "end": 910.47,
+          "text": "and it looks so nice being with someone who loves you."
+        },
+        {
+          "index": 175,
+          "start": 910.57,
+          "end": 913.57,
+          "text": "I guess I'm just wondering if..."
+        },
+        {
+          "index": 176,
+          "start": 913.68,
+          "end": 916.37,
+          "text": "maybe someone could love me."
+        },
+        {
+          "index": 177,
+          "start": 918.38,
+          "end": 922.22,
+          "text": "<i>Imagine someone to love</i>"
+        },
+        {
+          "index": 178,
+          "start": 922.35,
+          "end": 924.82,
+          "text": "<i>Who loves you</i>"
+        },
+        {
+          "index": 179,
+          "start": 925.96,
+          "end": 927.92,
+          "text": "<i>Imagine</i>"
+        },
+        {
+          "index": 180,
+          "start": 928.06,
+          "end": 932.32,
+          "text": "<i>To look in her eyes and see</i>"
+        },
+        {
+          "index": 181,
+          "start": 933.6,
+          "end": 938.69,
+          "text": "<i>Imagine how miraculous</i> <i>it seems to be</i>"
+        },
+        {
+          "index": 182,
+          "start": 941.2,
+          "end": 944.94,
+          "text": "<i>But it's not so very rare</i>"
+        },
+        {
+          "index": 183,
+          "start": 945.04,
+          "end": 948.84,
+          "text": "<i>You can find it anywhere</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 950,
+      "intervalle_fin": 1000,
+      "timecode_debut_extrait": 950,
+      "timecode_fin_extrait": 1000,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0019_time_950.00s-1000.00s.mp4",
+      "nombre_sous_titres": 14,
+      "sous_titres": [
+        {
+          "index": 184,
+          "start": 950.15,
+          "end": 952.58,
+          "text": "<i>It's an ordinary miracle</i>"
+        },
+        {
+          "index": 185,
+          "start": 954.32,
+          "end": 958.12,
+          "text": "<i>The kind you find</i> <i>around you every single day</i>"
+        },
+        {
+          "index": 186,
+          "start": 958.22,
+          "end": 960.12,
+          "text": "<i>Or maybe it's just seasonal</i>"
+        },
+        {
+          "index": 187,
+          "start": 960.22,
+          "end": 962.19,
+          "text": "<i>Like spring and May</i>"
+        },
+        {
+          "index": 188,
+          "start": 962.33,
+          "end": 966.06,
+          "text": "<i>They're so many</i>"
+        },
+        {
+          "index": 189,
+          "start": 966.16,
+          "end": 968.96,
+          "text": "<i>The ordinary miracle</i>"
+        },
+        {
+          "index": 190,
+          "start": 970.17,
+          "end": 974.07,
+          "text": "<i>A common kind of miracle</i> <i>that runs right by</i>"
+        },
+        {
+          "index": 191,
+          "start": 974.17,
+          "end": 978.3,
+          "text": "<i>Or maybe it's too gradual</i> <i>to catch your eye</i>"
+        },
+        {
+          "index": 192,
+          "start": 978.41,
+          "end": 980.71,
+          "text": "<i>So you miss it</i>"
+        },
+        {
+          "index": 193,
+          "start": 982.85,
+          "end": 986.41,
+          "text": "<i>A sudden bolt</i> <i>of distant lightning</i>"
+        },
+        {
+          "index": 194,
+          "start": 986.52,
+          "end": 990.42,
+          "text": "<i>Cathedrals rising out of stone</i>"
+        },
+        {
+          "index": 195,
+          "start": 990.52,
+          "end": 994.72,
+          "text": "<i>A baby starts</i> <i>to walk or talk one day</i>"
+        },
+        {
+          "index": 196,
+          "start": 994.83,
+          "end": 997.42,
+          "text": "<i>Then shockingly he's grown</i>"
+        },
+        {
+          "index": 197,
+          "start": 997.53,
+          "end": 1000.89,
+          "text": "<i>And in love</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 1000,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1000,
+      "timecode_fin_extrait": 1050,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0020_time_1000.00s-1050.00s.mp4",
+      "nombre_sous_titres": 14,
+      "sous_titres": [
+        {
+          "index": 198,
+          "start": 1001.0,
+          "end": 1004.4,
+          "text": "<i>That volcano of emotion</i>"
+        },
+        {
+          "index": 199,
+          "start": 1004.5,
+          "end": 1007.6,
+          "text": "<i>Not 10,000 gypsy potions</i>"
+        },
+        {
+          "index": 200,
+          "start": 1007.7,
+          "end": 1010.33,
+          "text": "<i>Can undo</i>"
+        },
+        {
+          "index": 201,
+          "start": 1010.44,
+          "end": 1014.07,
+          "text": "<i>Yes, it's love</i>"
+        },
+        {
+          "index": 202,
+          "start": 1014.18,
+          "end": 1017.41,
+          "text": "<i>Well, of course</i> <i>my view is slanted</i>"
+        },
+        {
+          "index": 203,
+          "start": 1017.51,
+          "end": 1020.78,
+          "text": "<i>But people</i> <i>do take love for granted</i>"
+        },
+        {
+          "index": 204,
+          "start": 1020.88,
+          "end": 1024.51,
+          "text": "<i>Sad but true</i>"
+        },
+        {
+          "index": 205,
+          "start": 1024.62,
+          "end": 1027.32,
+          "text": "<i>Of all the many miracles</i>"
+        },
+        {
+          "index": 206,
+          "start": 1028.63,
+          "end": 1032.79,
+          "text": "<i>Mysterious and marvelous</i> <i>and big and small</i>"
+        },
+        {
+          "index": 207,
+          "start": 1032.9,
+          "end": 1037.06,
+          "text": "<i>When people fall in love</i> <i>it really beats them all</i>"
+        },
+        {
+          "index": 208,
+          "start": 1037.17,
+          "end": 1041.43,
+          "text": "<i>Oh, to see it</i> <i>To feel it</i>"
+        },
+        {
+          "index": 209,
+          "start": 1041.54,
+          "end": 1045.74,
+          "text": "<i>To know it</i>"
+        },
+        {
+          "index": 210,
+          "start": 1045.84,
+          "end": 1049.44,
+          "text": "<i>Imagine someone to love</i>"
+        },
+        {
+          "index": 211,
+          "start": 1049.55,
+          "end": 1051.84,
+          "text": "<i>Who loves you</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1100,
+      "timecode_debut_extrait": 1050,
+      "timecode_fin_extrait": 1100,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0021_time_1050.00s-1100.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 212,
+          "start": 1053.38,
+          "end": 1057.44,
+          "text": "<i>Imagine to look in her eyes</i>"
+        },
+        {
+          "index": 213,
+          "start": 1057.55,
+          "end": 1060.65,
+          "text": "<i>And see</i>"
+        },
+        {
+          "index": 214,
+          "start": 1060.76,
+          "end": 1064.28,
+          "text": "<i>Imagine how extraordinary</i>"
+        },
+        {
+          "index": 215,
+          "start": 1064.39,
+          "end": 1066.45,
+          "text": "<i>It would be</i>"
+        },
+        {
+          "index": 216,
+          "start": 1068.4,
+          "end": 1073.13,
+          "text": "<i>If an ordinary miracle</i>"
+        },
+        {
+          "index": 217,
+          "start": 1073.24,
+          "end": 1076.14,
+          "text": "<i>Happened to</i>"
+        },
+        {
+          "index": 218,
+          "start": 1076.24,
+          "end": 1081.91,
+          "text": "<i>Me</i>"
+        },
+        {
+          "index": 219,
+          "start": 1096.16,
+          "end": 1098.35,
+          "text": "Go to the circus! Make a good impression!"
+        },
+        {
+          "index": 220,
+          "start": 1098.5,
+          "end": 1101.16,
+          "text": "Hmm, what does one wear to a carnival event?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 1100,
+      "intervalle_fin": 1150,
+      "timecode_debut_extrait": 1100,
+      "timecode_fin_extrait": 1150,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0022_time_1100.00s-1150.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 221,
+          "start": 1101.3,
+          "end": 1104.23,
+          "text": "- Nothing. - Daring! Oh!"
+        },
+        {
+          "index": 222,
+          "start": 1104.33,
+          "end": 1106.77,
+          "text": "Maybe a bit pushy for a first date."
+        },
+        {
+          "index": 223,
+          "start": 1106.9,
+          "end": 1110.03,
+          "text": "Quasi, you can stay here and hope for a miracle..."
+        },
+        {
+          "index": 224,
+          "start": 1110.17,
+          "end": 1113.77,
+          "text": "or you can get out there and make a miracle of your own."
+        },
+        {
+          "index": 225,
+          "start": 1123.52,
+          "end": 1126.89,
+          "text": "You're right. I'm off to the circus!"
+        },
+        {
+          "index": 226,
+          "start": 1126.99,
+          "end": 1131.12,
+          "text": "- Oh, but what am I gonna wear? - I got the perfect thing, kid."
+        },
+        {
+          "index": 227,
+          "start": 1140.27,
+          "end": 1142.8,
+          "text": "Well, how do I look?"
+        },
+        {
+          "index": 228,
+          "start": 1145.51,
+          "end": 1147.5,
+          "text": "Uh, too much?"
+        },
+        {
+          "index": 229,
+          "start": 1148.78,
+          "end": 1151.44,
+          "text": "- No, no. I mean... - Of course not."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 1150,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1150,
+      "timecode_fin_extrait": 1200,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0023_time_1150.00s-1200.00s.mp4",
+      "nombre_sous_titres": 15,
+      "sous_titres": [
+        {
+          "index": 230,
+          "start": 1151.55,
+          "end": 1153.91,
+          "text": "- Wow! Great hat, Quasi. - It's a new you."
+        },
+        {
+          "index": 231,
+          "start": 1154.02,
+          "end": 1156.35,
+          "text": "Quasi, don't worry. You look dashing."
+        },
+        {
+          "index": 232,
+          "start": 1156.45,
+          "end": 1160.45,
+          "text": "Welcome, welcome to the Cirque de Sarousch!"
+        },
+        {
+          "index": 233,
+          "start": 1160.56,
+          "end": 1162.79,
+          "text": "Magic! Magic!"
+        },
+        {
+          "index": 234,
+          "start": 1162.89,
+          "end": 1165.23,
+          "text": "Tricks that you cannot ever dream of!"
+        },
+        {
+          "index": 235,
+          "start": 1165.33,
+          "end": 1167.59,
+          "text": "Look at the juggler!"
+        },
+        {
+          "index": 236,
+          "start": 1172.8,
+          "end": 1174.7,
+          "text": "Come one, come all!"
+        },
+        {
+          "index": 237,
+          "start": 1176.47,
+          "end": 1178.96,
+          "text": "Oh, wow!"
+        },
+        {
+          "index": 238,
+          "start": 1182.75,
+          "end": 1185.94,
+          "text": "- Wow! - Zephyr, stay close."
+        },
+        {
+          "index": 239,
+          "start": 1186.05,
+          "end": 1188.95,
+          "text": "I don't want to lose you. I don't trust these people."
+        },
+        {
+          "index": 240,
+          "start": 1189.05,
+          "end": 1191.32,
+          "text": "- What does that mean? - Well, just look at them."
+        },
+        {
+          "index": 241,
+          "start": 1191.42,
+          "end": 1193.65,
+          "text": "I mean, they travel from town to town like-like-like-like..."
+        },
+        {
+          "index": 242,
+          "start": 1193.76,
+          "end": 1195.66,
+          "text": "- Gypsies? - Yes! No!"
+        },
+        {
+          "index": 243,
+          "start": 1195.76,
+          "end": 1197.66,
+          "text": "I mean... I mean... Uh..."
+        },
+        {
+          "index": 244,
+          "start": 1197.76,
+          "end": 1201.25,
+          "text": "Uh, uh, so, Quasi, um..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1250,
+      "timecode_debut_extrait": 1200,
+      "timecode_fin_extrait": 1250,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0024_time_1200.00s-1250.00s.mp4",
+      "nombre_sous_titres": 17,
+      "sous_titres": [
+        {
+          "index": 245,
+          "start": 1201.36,
+          "end": 1203.49,
+          "text": "where's this Madellaine of yours?"
+        },
+        {
+          "index": 246,
+          "start": 1203.6,
+          "end": 1207.8,
+          "text": "I don't know, but I-I'm sure she'll be out soon."
+        },
+        {
+          "index": 247,
+          "start": 1208.24,
+          "end": 1211.5,
+          "text": "You don't understand. You didn't see him."
+        },
+        {
+          "index": 248,
+          "start": 1211.61,
+          "end": 1213.6,
+          "text": "I don't want to be a part of this anymore."
+        },
+        {
+          "index": 249,
+          "start": 1213.71,
+          "end": 1216.94,
+          "text": "You should have thought of that before you stole from me."
+        },
+        {
+          "index": 250,
+          "start": 1217.05,
+          "end": 1220.74,
+          "text": "- But I was only six years old. - And you were starving..."
+        },
+        {
+          "index": 251,
+          "start": 1220.85,
+          "end": 1223.08,
+          "text": "and it was only a few coins."
+        },
+        {
+          "index": 252,
+          "start": 1223.19,
+          "end": 1225.62,
+          "text": "Oh, you cretin, not so tight!"
+        },
+        {
+          "index": 253,
+          "start": 1225.72,
+          "end": 1229.18,
+          "text": "- I made a mistake. - Yes."
+        },
+        {
+          "index": 254,
+          "start": 1229.29,
+          "end": 1232.13,
+          "text": "And did I turn you over to the authorities?"
+        },
+        {
+          "index": 255,
+          "start": 1232.23,
+          "end": 1234.03,
+          "text": "No."
+        },
+        {
+          "index": 256,
+          "start": 1234.13,
+          "end": 1238.03,
+          "text": "- Or the workhouse? - No."
+        },
+        {
+          "index": 257,
+          "start": 1238.13,
+          "end": 1240.69,
+          "text": "And who took you in?"
+        },
+        {
+          "index": 258,
+          "start": 1240.8,
+          "end": 1244.26,
+          "text": "- Looked after you like a true friend? - You did."
+        },
+        {
+          "index": 259,
+          "start": 1244.37,
+          "end": 1246.37,
+          "text": "Oh, yes."
+        },
+        {
+          "index": 260,
+          "start": 1246.48,
+          "end": 1249.64,
+          "text": "All you need to do is to look pretty for him..."
+        },
+        {
+          "index": 261,
+          "start": 1249.78,
+          "end": 1252.11,
+          "text": "and he'll tell you what I need to know."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 1250,
+      "intervalle_fin": 1300,
+      "timecode_debut_extrait": 1250,
+      "timecode_fin_extrait": 1300,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0025_time_1250.00s-1300.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 262,
+          "start": 1256.12,
+          "end": 1258.28,
+          "text": "Mirrors!"
+        },
+        {
+          "index": 263,
+          "start": 1266.83,
+          "end": 1269.26,
+          "text": "I could kiss me..."
+        },
+        {
+          "index": 264,
+          "start": 1269.37,
+          "end": 1271.27,
+          "text": "but I'd fall in love."
+        },
+        {
+          "index": 265,
+          "start": 1273.17,
+          "end": 1276.7,
+          "text": "Come, trinket. We're on."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 1300,
+      "intervalle_fin": 1350,
+      "timecode_debut_extrait": 1300,
+      "timecode_fin_extrait": 1350,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0026_time_1300.00s-1350.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 266,
+          "start": 1326.02,
+          "end": 1329.32,
+          "text": "Boys and girls! Voila!"
+        },
+        {
+          "index": 267,
+          "start": 1329.43,
+          "end": 1331.66,
+          "text": "A treat for your senses."
+        },
+        {
+          "index": 268,
+          "start": 1331.76,
+          "end": 1334.99,
+          "text": "A delight for your soul."
+        },
+        {
+          "index": 269,
+          "start": 1336.83,
+          "end": 1339.13,
+          "text": "Wow! Yeah!"
+        },
+        {
+          "index": 270,
+          "start": 1339.24,
+          "end": 1342.47,
+          "text": "Welcome to Cirque de Sarousch!"
+        },
+        {
+          "index": 271,
+          "start": 1347.11,
+          "end": 1350.24,
+          "text": "- Hubba hubba! - May I present my assistant..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 1350,
+      "intervalle_fin": 1400,
+      "timecode_debut_extrait": 1350,
+      "timecode_fin_extrait": 1400,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0027_time_1350.00s-1400.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 272,
+          "start": 1350.35,
+          "end": 1352.32,
+          "text": "the lovely Madellaine."
+        },
+        {
+          "index": 273,
+          "start": 1362.59,
+          "end": 1365.93,
+          "text": "And now, I will astound you with a feat of magic..."
+        },
+        {
+          "index": 274,
+          "start": 1366.03,
+          "end": 1368.86,
+          "text": "unparalleled in modern times."
+        },
+        {
+          "index": 275,
+          "start": 1368.97,
+          "end": 1372.06,
+          "text": "Behold La Petit!"
+        },
+        {
+          "index": 276,
+          "start": 1384.75,
+          "end": 1387.55,
+          "text": "Do not look away from the beast..."
+        },
+        {
+          "index": 277,
+          "start": 1387.65,
+          "end": 1391.95,
+          "text": "for I shall make it vanish before your very eyes."
+        },
+        {
+          "index": 278,
+          "start": 1393.22,
+          "end": 1395.82,
+          "text": "Keep a sharp watch."
+        },
+        {
+          "index": 279,
+          "start": 1395.93,
+          "end": 1400.19,
+          "text": "See the creature disappear into thin air."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 1400,
+      "intervalle_fin": 1450,
+      "timecode_debut_extrait": 1400,
+      "timecode_fin_extrait": 1450,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0028_time_1400.00s-1450.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 280,
+          "start": 1415.75,
+          "end": 1418.31,
+          "text": "Yeah!"
+        },
+        {
+          "index": 281,
+          "start": 1426.49,
+          "end": 1429.42,
+          "text": "Wow! Wow, wow, wow!"
+        },
+        {
+          "index": 282,
+          "start": 1429.56,
+          "end": 1433.22,
+          "text": "Sarousch is incredible! I wish I could join the circus."
+        },
+        {
+          "index": 283,
+          "start": 1433.36,
+          "end": 1435.39,
+          "text": "Hey, hey, maybe I could join a circus."
+        },
+        {
+          "index": 284,
+          "start": 1435.53,
+          "end": 1439.99,
+          "text": "Yeah! I could be a juggler. What do you think, Quasi? I'd juggle and I'd..."
+        },
+        {
+          "index": 285,
+          "start": 1440.14,
+          "end": 1445.04,
+          "text": "Quasi? Uh, uh, uh, uh, Quasi?"
+        },
+        {
+          "index": 286,
+          "start": 1447.14,
+          "end": 1449.41,
+          "text": "- Hello? - What are you doing?"
+        },
+        {
+          "index": 287,
+          "start": 1449.51,
+          "end": 1453.04,
+          "text": "Nothing. You were making goo-goo eyes at your girlfriend."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 1450,
+      "intervalle_fin": 1500,
+      "timecode_debut_extrait": 1450,
+      "timecode_fin_extrait": 1500,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0029_time_1450.00s-1500.00s.mp4",
+      "nombre_sous_titres": 13,
+      "sous_titres": [
+        {
+          "index": 288,
+          "start": 1453.18,
+          "end": 1455.28,
+          "text": "Oh, she... she's not my..."
+        },
+        {
+          "index": 289,
+          "start": 1455.42,
+          "end": 1458.25,
+          "text": "Who said she was my... That's a..."
+        },
+        {
+          "index": 290,
+          "start": 1458.35,
+          "end": 1460.02,
+          "text": "Zephyr."
+        },
+        {
+          "index": 291,
+          "start": 1466.23,
+          "end": 1469.32,
+          "text": "And where do you think you're going? Get out there."
+        },
+        {
+          "index": 292,
+          "start": 1469.43,
+          "end": 1472.23,
+          "text": "I mean to have that bell."
+        },
+        {
+          "index": 293,
+          "start": 1476.07,
+          "end": 1480.34,
+          "text": "- I thought you forgot about me. - That will never happen."
+        },
+        {
+          "index": 294,
+          "start": 1480.44,
+          "end": 1484.31,
+          "text": "- I'll always be here for you. - Always?"
+        },
+        {
+          "index": 295,
+          "start": 1484.41,
+          "end": 1486.31,
+          "text": "Always."
+        },
+        {
+          "index": 296,
+          "start": 1487.55,
+          "end": 1489.68,
+          "text": "<i>You mean if ever</i>"
+        },
+        {
+          "index": 297,
+          "start": 1489.79,
+          "end": 1493.52,
+          "text": "<i>I'm in any kind of</i> <i>great big mess or trouble</i>"
+        },
+        {
+          "index": 298,
+          "start": 1493.62,
+          "end": 1495.52,
+          "text": "<i>I'd be right there</i>"
+        },
+        {
+          "index": 299,
+          "start": 1495.63,
+          "end": 1497.96,
+          "text": "<i>We'd be a pair</i>"
+        },
+        {
+          "index": 300,
+          "start": 1498.06,
+          "end": 1500.36,
+          "text": "<i>You mean you'll never</i> <i>leave me all alone</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 1500,
+      "intervalle_fin": 1550,
+      "timecode_debut_extrait": 1500,
+      "timecode_fin_extrait": 1550,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0030_time_1500.00s-1550.00s.mp4",
+      "nombre_sous_titres": 13,
+      "sous_titres": [
+        {
+          "index": 301,
+          "start": 1500.46,
+          "end": 1504.26,
+          "text": "<i>We'll always be</i> <i>a double, we two</i>"
+        },
+        {
+          "index": 302,
+          "start": 1504.37,
+          "end": 1508.36,
+          "text": "<i>That's the arithmetic</i> <i>I'd stick with you</i>"
+        },
+        {
+          "index": 303,
+          "start": 1508.47,
+          "end": 1513.27,
+          "text": "<i>Just say we're hanging by a rope</i> <i>above an evil witch's brew pot</i>"
+        },
+        {
+          "index": 304,
+          "start": 1513.38,
+          "end": 1515.71,
+          "text": "<i>It's bubbling blue</i>"
+        },
+        {
+          "index": 305,
+          "start": 1515.81,
+          "end": 1518.37,
+          "text": "<i>With sticky goo</i>"
+        },
+        {
+          "index": 306,
+          "start": 1518.48,
+          "end": 1520.85,
+          "text": "<i>Our rope gives way</i> <i>and then we crash and make a splash</i>"
+        },
+        {
+          "index": 307,
+          "start": 1520.95,
+          "end": 1524.15,
+          "text": "<i>Inside her stew pot of glue</i>"
+        },
+        {
+          "index": 308,
+          "start": 1524.25,
+          "end": 1528.95,
+          "text": "<i>Even if you're sticky slick</i> <i>I'd stick with you</i>"
+        },
+        {
+          "index": 309,
+          "start": 1529.06,
+          "end": 1531.96,
+          "text": "- I'm sticking to you. - Hey, no fair."
+        },
+        {
+          "index": 310,
+          "start": 1532.1,
+          "end": 1534.22,
+          "text": "Can't help that."
+        },
+        {
+          "index": 311,
+          "start": 1534.33,
+          "end": 1536.26,
+          "text": "We're stuck together."
+        },
+        {
+          "index": 312,
+          "start": 1537.67,
+          "end": 1541.63,
+          "text": "- Best friends. - And we always will be."
+        },
+        {
+          "index": 313,
+          "start": 1541.74,
+          "end": 1543.64,
+          "text": "Always."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 1550,
+      "intervalle_fin": 1600,
+      "timecode_debut_extrait": 1550,
+      "timecode_fin_extrait": 1600,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0031_time_1550.00s-1600.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 314,
+          "start": 1560.79,
+          "end": 1564.42,
+          "text": "<i>Through all the thin and thick</i>"
+        },
+        {
+          "index": 315,
+          "start": 1564.53,
+          "end": 1567.99,
+          "text": "<i>Closer than frack and frick</i>"
+        },
+        {
+          "index": 316,
+          "start": 1568.1,
+          "end": 1570.4,
+          "text": "<i>We two will do the trick</i>"
+        },
+        {
+          "index": 317,
+          "start": 1570.5,
+          "end": 1573.77,
+          "text": "<i>I'd stick with you</i>"
+        },
+        {
+          "index": 318,
+          "start": 1575.44,
+          "end": 1579.27,
+          "text": "<i>Fast as the clock can tick</i>"
+        },
+        {
+          "index": 319,
+          "start": 1579.38,
+          "end": 1582.94,
+          "text": "<i>I'd be there just as quick</i>"
+        },
+        {
+          "index": 320,
+          "start": 1583.08,
+          "end": 1586.05,
+          "text": "<i>No one I'd rather pick</i>"
+        },
+        {
+          "index": 321,
+          "start": 1586.18,
+          "end": 1592.09,
+          "text": "<i>I'd stick with you</i>"
+        },
+        {
+          "index": 322,
+          "start": 1597.16,
+          "end": 1599.06,
+          "text": "Zephyr."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 1600,
+      "intervalle_fin": 1650,
+      "timecode_debut_extrait": 1600,
+      "timecode_fin_extrait": 1650,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0032_time_1600.00s-1650.00s.mp4",
+      "nombre_sous_titres": 13,
+      "sous_titres": [
+        {
+          "index": 323,
+          "start": 1602.83,
+          "end": 1606.13,
+          "text": "- You have a way with kids. - Hi. M-Madellaine, hi."
+        },
+        {
+          "index": 324,
+          "start": 1606.24,
+          "end": 1609.23,
+          "text": "I-I-I-I-I-I was just... Hi."
+        },
+        {
+          "index": 325,
+          "start": 1609.37,
+          "end": 1612.47,
+          "text": "He's lucky to have a good friend like you."
+        },
+        {
+          "index": 326,
+          "start": 1612.61,
+          "end": 1614.63,
+          "text": "Oh."
+        },
+        {
+          "index": 327,
+          "start": 1614.78,
+          "end": 1619.18,
+          "text": "- Hey, you were really great up there. - Ah, me?"
+        },
+        {
+          "index": 328,
+          "start": 1619.28,
+          "end": 1622.48,
+          "text": "Nothing to it. I just have to stand there and look pretty, you know?"
+        },
+        {
+          "index": 329,
+          "start": 1624.12,
+          "end": 1627.35,
+          "text": "- No big deal. - No, no, i-it is a big deal."
+        },
+        {
+          "index": 330,
+          "start": 1627.46,
+          "end": 1631.86,
+          "text": "You-You have to make the audience look where they're supposed to, not give away the trick."
+        },
+        {
+          "index": 331,
+          "start": 1631.96,
+          "end": 1634.19,
+          "text": "Hmm. You mean..."
+        },
+        {
+          "index": 332,
+          "start": 1634.3,
+          "end": 1636.49,
+          "text": "hocus their pocus?"
+        },
+        {
+          "index": 333,
+          "start": 1636.6,
+          "end": 1638.76,
+          "text": "Delusion their illusion?"
+        },
+        {
+          "index": 334,
+          "start": 1640.9,
+          "end": 1643.67,
+          "text": "Abra their cadabra?"
+        },
+        {
+          "index": 335,
+          "start": 1645.07,
+          "end": 1650.03,
+          "text": "Actually, I would really like to walk the tightrope."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 1650,
+      "intervalle_fin": 1700,
+      "timecode_debut_extrait": 1650,
+      "timecode_fin_extrait": 1700,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0033_time_1650.00s-1700.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 336,
+          "start": 1650.15,
+          "end": 1653.6,
+          "text": "Oh. But I'm not really very good at it."
+        },
+        {
+          "index": 337,
+          "start": 1653.72,
+          "end": 1658.12,
+          "text": "Oh, I don't believe that. I'm sure you can do anything."
+        },
+        {
+          "index": 338,
+          "start": 1664.49,
+          "end": 1667.12,
+          "text": "Paris is r-really pretty."
+        },
+        {
+          "index": 339,
+          "start": 1667.23,
+          "end": 1671.79,
+          "text": "I-I mean, you... you've probably seen it already, but then, maybe you haven't."
+        },
+        {
+          "index": 340,
+          "start": 1671.9,
+          "end": 1674.67,
+          "text": "A-And if you haven't, then-then maybe we could..."
+        },
+        {
+          "index": 341,
+          "start": 1674.77,
+          "end": 1678.8,
+          "text": "I could, y-you know, show you."
+        },
+        {
+          "index": 342,
+          "start": 1678.91,
+          "end": 1681.14,
+          "text": "I'd really like that."
+        },
+        {
+          "index": 343,
+          "start": 1693.92,
+          "end": 1696.48,
+          "text": "Oh, lovely."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 1700,
+      "intervalle_fin": 1750,
+      "timecode_debut_extrait": 1700,
+      "timecode_fin_extrait": 1750,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0034_time_1700.00s-1750.00s.mp4",
+      "nombre_sous_titres": 13,
+      "sous_titres": [
+        {
+          "index": 344,
+          "start": 1704.53,
+          "end": 1709.4,
+          "text": "I love you, love you, love you, and you."
+        },
+        {
+          "index": 345,
+          "start": 1709.51,
+          "end": 1712.0,
+          "text": "You're a genius."
+        },
+        {
+          "index": 346,
+          "start": 1713.88,
+          "end": 1713.9,
+          "text": "Captain of the Guard, I insist you do something."
+        },
+        {
+          "index": 347,
+          "start": 1716.48,
+          "end": 1721.18,
+          "text": "They took my silver! All my coins to pay my landlord! They'll throw us out!"
+        },
+        {
+          "index": 348,
+          "start": 1721.28,
+          "end": 1723.25,
+          "text": "- My bracelet is gone! - Bracelet. Can you describe the bracelet?"
+        },
+        {
+          "index": 349,
+          "start": 1723.35,
+          "end": 1725.95,
+          "text": "- My life savings is gone! - All right, all right, have no worry."
+        },
+        {
+          "index": 350,
+          "start": 1726.06,
+          "end": 1728.11,
+          "text": "The king's guard is on the case."
+        },
+        {
+          "index": 351,
+          "start": 1728.22,
+          "end": 1730.25,
+          "text": "We'll find the culprits."
+        },
+        {
+          "index": 352,
+          "start": 1731.53,
+          "end": 1733.86,
+          "text": "Where we'll find them, I don't know."
+        },
+        {
+          "index": 353,
+          "start": 1738.97,
+          "end": 1741.3,
+          "text": "Wait a minute."
+        },
+        {
+          "index": 354,
+          "start": 1741.4,
+          "end": 1745.24,
+          "text": "A string of robberies begins the moment the circus comes to town?"
+        },
+        {
+          "index": 355,
+          "start": 1745.34,
+          "end": 1748.64,
+          "text": "Coincidence? I don't think so."
+        },
+        {
+          "index": 356,
+          "start": 1748.78,
+          "end": 1751.18,
+          "text": "How many times have I ever been wrong?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 1750,
+      "intervalle_fin": 1800,
+      "timecode_debut_extrait": 1750,
+      "timecode_fin_extrait": 1800,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0035_time_1750.00s-1800.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 357,
+          "start": 1757.02,
+          "end": 1759.72,
+          "text": "Achilles, that was a rhetorical question."
+        },
+        {
+          "index": 358,
+          "start": 1770.8,
+          "end": 1773.89,
+          "text": "You know, the Festival D'Amour is tomorrow."
+        },
+        {
+          "index": 359,
+          "start": 1774.07,
+          "end": 1777.44,
+          "text": "- Would you, uh, like to go? - Oh, I don't know."
+        },
+        {
+          "index": 360,
+          "start": 1777.54,
+          "end": 1779.94,
+          "text": "Oh, but please. We shall have a good time."
+        },
+        {
+          "index": 361,
+          "start": 1780.04,
+          "end": 1782.91,
+          "text": "Well, uh, I'd love to."
+        },
+        {
+          "index": 362,
+          "start": 1795.56,
+          "end": 1798.08,
+          "text": "Try my famous soufflé, huh?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 1800,
+      "intervalle_fin": 1850,
+      "timecode_debut_extrait": 1800,
+      "timecode_fin_extrait": 1850,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0036_time_1800.00s-1850.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 363,
+          "start": 1802.83,
+          "end": 1806.73,
+          "text": "- Oh. It's ruined. - No, no. Taste."
+        },
+        {
+          "index": 364,
+          "start": 1830.86,
+          "end": 1833.26,
+          "text": "I-I think those are weeds."
+        },
+        {
+          "index": 365,
+          "start": 1833.36,
+          "end": 1835.3,
+          "text": "Oh, no. Smell."
+        },
+        {
+          "index": 366,
+          "start": 1838.03,
+          "end": 1843.23,
+          "text": "Oh, they smell so flowery. They're wonderful."
+        },
+        {
+          "index": 367,
+          "start": 1843.34,
+          "end": 1846.27,
+          "text": "It's rosemary. Come on."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 1850,
+      "intervalle_fin": 1900,
+      "timecode_debut_extrait": 1850,
+      "timecode_fin_extrait": 1900,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0037_time_1850.00s-1900.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 368,
+          "start": 1860.99,
+          "end": 1864.26,
+          "text": "This is one of my favorite spots in all of Paris."
+        },
+        {
+          "index": 369,
+          "start": 1867.13,
+          "end": 1869.43,
+          "text": "Isn't it beautiful?"
+        },
+        {
+          "index": 370,
+          "start": 1870.63,
+          "end": 1873.53,
+          "text": "But I... I can't see anything."
+        },
+        {
+          "index": 371,
+          "start": 1873.64,
+          "end": 1875.76,
+          "text": "Close your eyes."
+        },
+        {
+          "index": 372,
+          "start": 1875.87,
+          "end": 1878.81,
+          "text": "Listen to Paris."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 1900,
+      "intervalle_fin": 1950,
+      "timecode_debut_extrait": 1900,
+      "timecode_fin_extrait": 1950,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0038_time_1900.00s-1950.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 373,
+          "start": 1905.17,
+          "end": 1909.13,
+          "text": "Oh. Quasi, it's wonderful."
+        },
+        {
+          "index": 374,
+          "start": 1914.24,
+          "end": 1916.87,
+          "text": "Oh, come on, show me more!"
+        },
+        {
+          "index": 375,
+          "start": 1943.17,
+          "end": 1946.2,
+          "text": "<i>It's all too sudden</i>"
+        },
+        {
+          "index": 376,
+          "start": 1946.34,
+          "end": 1949.28,
+          "text": "<i>Our boy has grown</i>"
+        },
+        {
+          "index": 377,
+          "start": 1949.41,
+          "end": 1952.38,
+          "text": "<i>- There's nothing more to do</i> <i>- It's true</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 1950,
+      "intervalle_fin": 2000,
+      "timecode_debut_extrait": 1950,
+      "timecode_fin_extrait": 2000,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0039_time_1950.00s-2000.00s.mp4",
+      "nombre_sous_titres": 15,
+      "sous_titres": [
+        {
+          "index": 378,
+          "start": 1952.52,
+          "end": 1955.42,
+          "text": "<i>He's on his own</i>"
+        },
+        {
+          "index": 379,
+          "start": 1955.52,
+          "end": 1958.39,
+          "text": "<i>We've tried to teach him</i>"
+        },
+        {
+          "index": 380,
+          "start": 1958.49,
+          "end": 1961.65,
+          "text": "<i>We've tried to show</i>"
+        },
+        {
+          "index": 381,
+          "start": 1961.79,
+          "end": 1963.99,
+          "text": "<i>The things a gargoyle</i>"
+        },
+        {
+          "index": 382,
+          "start": 1964.09,
+          "end": 1967.03,
+          "text": "<i>And a gar-guy ought to know</i>"
+        },
+        {
+          "index": 383,
+          "start": 1967.16,
+          "end": 1970.26,
+          "text": "<i>- He's gone</i> <i>- He's left</i>"
+        },
+        {
+          "index": 384,
+          "start": 1970.37,
+          "end": 1972.73,
+          "text": "<i>And do we feel bereft</i>"
+        },
+        {
+          "index": 385,
+          "start": 1972.84,
+          "end": 1976.5,
+          "text": "<i>No, he's fa-la-la-la</i> <i>fallen in love</i>"
+        },
+        {
+          "index": 386,
+          "start": 1976.61,
+          "end": 1979.2,
+          "text": "<i>He's fa-la-la-la fallen in love</i>"
+        },
+        {
+          "index": 387,
+          "start": 1979.31,
+          "end": 1981.24,
+          "text": "<i>Sing a rousing</i> <i>rollicking roundelay</i>"
+        },
+        {
+          "index": 388,
+          "start": 1981.34,
+          "end": 1986.01,
+          "text": "<i>For our rip-roaring rhapsody</i>"
+        },
+        {
+          "index": 389,
+          "start": 1986.12,
+          "end": 1988.88,
+          "text": "<i>He's fa-la-la-la fallen in love</i>"
+        },
+        {
+          "index": 390,
+          "start": 1988.99,
+          "end": 1991.85,
+          "text": "<i>He's fa-la-la-la fallen in love</i>"
+        },
+        {
+          "index": 391,
+          "start": 1991.99,
+          "end": 1997.36,
+          "text": "<i>Why should we be blue</i> <i>His love is true, so bid the kid adieu</i>"
+        },
+        {
+          "index": 392,
+          "start": 1998.73,
+          "end": 2001.72,
+          "text": "<i>Oh, wow</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 2000,
+      "intervalle_fin": 2050,
+      "timecode_debut_extrait": 2000,
+      "timecode_fin_extrait": 2050,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0040_time_2000.00s-2050.00s.mp4",
+      "nombre_sous_titres": 16,
+      "sous_titres": [
+        {
+          "index": 393,
+          "start": 2001.83,
+          "end": 2004.86,
+          "text": "<i>Just across the square</i>"
+        },
+        {
+          "index": 394,
+          "start": 2004.97,
+          "end": 2007.6,
+          "text": "<i>Look at Quasi there</i>"
+        },
+        {
+          "index": 395,
+          "start": 2007.7,
+          "end": 2010.67,
+          "text": "<i>Love has nailed him</i>"
+        },
+        {
+          "index": 396,
+          "start": 2010.81,
+          "end": 2014.11,
+          "text": "<i>Oh, wow</i>"
+        },
+        {
+          "index": 397,
+          "start": 2014.21,
+          "end": 2017.04,
+          "text": "<i>Sighing when he talks</i>"
+        },
+        {
+          "index": 398,
+          "start": 2017.15,
+          "end": 2019.94,
+          "text": "<i>Flying when he walks</i>"
+        },
+        {
+          "index": 399,
+          "start": 2020.05,
+          "end": 2023.31,
+          "text": "<i>Love's derailed him</i>"
+        },
+        {
+          "index": 400,
+          "start": 2023.42,
+          "end": 2026.29,
+          "text": "<i>- He's fa-la-la-la fallen in love</i> <i>- Oh, wow</i>"
+        },
+        {
+          "index": 401,
+          "start": 2026.39,
+          "end": 2028.82,
+          "text": "<i>- He's fa-la-la-la fallen in love</i> <i>- Just across the square</i>"
+        },
+        {
+          "index": 402,
+          "start": 2028.92,
+          "end": 2031.48,
+          "text": "<i>- Sing a merry madrigal melody</i> <i>- Look at Quasi there</i>"
+        },
+        {
+          "index": 403,
+          "start": 2031.59,
+          "end": 2035.46,
+          "text": "<i>- For his marvelous malady</i> <i>- Love's derailed him</i>"
+        },
+        {
+          "index": 404,
+          "start": 2035.56,
+          "end": 2038.47,
+          "text": "<i>- He's fa-la-la-la fallen in love</i> <i>- Oh, wow</i>"
+        },
+        {
+          "index": 405,
+          "start": 2038.57,
+          "end": 2041.5,
+          "text": "<i>- He's fa-la-la-la fallen in love</i> <i>- Sighing when he talks</i>"
+        },
+        {
+          "index": 406,
+          "start": 2041.6,
+          "end": 2044.3,
+          "text": "<i>He's fa-la-la-la</i> <i>la-la-la fallen</i>"
+        },
+        {
+          "index": 407,
+          "start": 2044.41,
+          "end": 2047.47,
+          "text": "<i>Fa-la-la-la, fa-la-la-la</i> <i>la-la-la fallen</i>"
+        },
+        {
+          "index": 408,
+          "start": 2047.58,
+          "end": 2050.57,
+          "text": "<i>Fa-la-la-la, fa-la-la-la</i> <i>la-la-la fallen</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 2050,
+      "intervalle_fin": 2100,
+      "timecode_debut_extrait": 2050,
+      "timecode_fin_extrait": 2100,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0041_time_2050.00s-2100.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 409,
+          "start": 2050.68,
+          "end": 2054.51,
+          "text": "<i>Fa-la-la-la</i> <i>Oh, wow</i>"
+        },
+        {
+          "index": 410,
+          "start": 2054.62,
+          "end": 2056.74,
+          "text": "<i>Quasimodo's fallen in love</i>"
+        },
+        {
+          "index": 411,
+          "start": 2073.87,
+          "end": 2078.77,
+          "text": "Oh, oh, they're coming. They're coming. Come on. Go, go, go, go, go. Spread out. Spread out."
+        },
+        {
+          "index": 412,
+          "start": 2083.81,
+          "end": 2085.84,
+          "text": "You can dry off in here."
+        },
+        {
+          "index": 413,
+          "start": 2094.49,
+          "end": 2096.69,
+          "text": "Put 'er there, <i>mon frère!</i>"
+        },
+        {
+          "index": 414,
+          "start": 2099.03,
+          "end": 2102.23,
+          "text": "- So, what's the plan? - Plan? Uh..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 2100,
+      "intervalle_fin": 2150,
+      "timecode_debut_extrait": 2100,
+      "timecode_fin_extrait": 2150,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0042_time_2100.00s-2150.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 415,
+          "start": 2102.36,
+          "end": 2105.96,
+          "text": "- A little soft music? - A little candlelight?"
+        },
+        {
+          "index": 416,
+          "start": 2106.1,
+          "end": 2109.04,
+          "text": "A cozy tête-à-tête by the fire?"
+        },
+        {
+          "index": 417,
+          "start": 2110.34,
+          "end": 2112.86,
+          "text": "- Gesundheit! - Oh, thank you."
+        },
+        {
+          "index": 418,
+          "start": 2115.51,
+          "end": 2117.64,
+          "text": "You're welcome. Hey!"
+        },
+        {
+          "index": 419,
+          "start": 2117.78,
+          "end": 2119.44,
+          "text": "- Shh! - Oh."
+        },
+        {
+          "index": 420,
+          "start": 2134.16,
+          "end": 2138.46,
+          "text": "Oh, it's beautiful."
+        },
+        {
+          "index": 421,
+          "start": 2138.57,
+          "end": 2142.73,
+          "text": "Yes, you are. I-I mean, yes, she is."
+        },
+        {
+          "index": 422,
+          "start": 2142.84,
+          "end": 2144.74,
+          "text": "La Fidele, that is. That's her name."
+        },
+        {
+          "index": 423,
+          "start": 2144.84,
+          "end": 2147.27,
+          "text": "La Fidele... \"The Faithful One.\""
+        },
+        {
+          "index": 424,
+          "start": 2148.68,
+          "end": 2153.05,
+          "text": "But she's even more beautiful on the inside."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 2150,
+      "intervalle_fin": 2200,
+      "timecode_debut_extrait": 2150,
+      "timecode_fin_extrait": 2200,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0043_time_2150.00s-2200.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 425,
+          "start": 2155.68,
+          "end": 2158.38,
+          "text": "I-I'll show you."
+        },
+        {
+          "index": 426,
+          "start": 2165.26,
+          "end": 2167.2,
+          "text": "Whoa."
+        },
+        {
+          "index": 427,
+          "start": 2168.26,
+          "end": 2170.89,
+          "text": "This must be worth a fortune."
+        },
+        {
+          "index": 428,
+          "start": 2181.78,
+          "end": 2184.04,
+          "text": "You should get warm."
+        },
+        {
+          "index": 429,
+          "start": 2192.35,
+          "end": 2194.32,
+          "text": "Here, put this on."
+        },
+        {
+          "index": 430,
+          "start": 2195.96,
+          "end": 2199.02,
+          "text": "You're very kind."
+        },
+        {
+          "index": 431,
+          "start": 2199.13,
+          "end": 2204.19,
+          "text": "Do you really think there's more to me than what you see?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 2200,
+      "intervalle_fin": 2250,
+      "timecode_debut_extrait": 2200,
+      "timecode_fin_extrait": 2250,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0044_time_2200.00s-2250.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 432,
+          "start": 2204.3,
+          "end": 2208.03,
+          "text": "That I have something else to give?"
+        },
+        {
+          "index": 433,
+          "start": 2208.14,
+          "end": 2209.9,
+          "text": "I do."
+        },
+        {
+          "index": 434,
+          "start": 2213.14,
+          "end": 2215.67,
+          "text": "I know I'm not much to look at."
+        },
+        {
+          "index": 435,
+          "start": 2219.98,
+          "end": 2223.08,
+          "text": "I've never met anyone like you, Quasimodo."
+        },
+        {
+          "index": 436,
+          "start": 2224.92,
+          "end": 2229.19,
+          "text": "I mean, you understand the world..."
+        },
+        {
+          "index": 437,
+          "start": 2229.29,
+          "end": 2232.56,
+          "text": "better than anyone I've ever known."
+        },
+        {
+          "index": 438,
+          "start": 2232.66,
+          "end": 2235.65,
+          "text": "Do you really think so?"
+        },
+        {
+          "index": 439,
+          "start": 2235.76,
+          "end": 2237.86,
+          "text": "I do."
+        },
+        {
+          "index": 440,
+          "start": 2240.77,
+          "end": 2242.96,
+          "text": "I made this for you."
+        },
+        {
+          "index": 441,
+          "start": 2249.11,
+          "end": 2252.24,
+          "text": "Now you can always see yourself..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 2250,
+      "intervalle_fin": 2300,
+      "timecode_debut_extrait": 2250,
+      "timecode_fin_extrait": 2300,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0045_time_2250.00s-2300.00s.mp4",
+      "nombre_sous_titres": 11,
+      "sous_titres": [
+        {
+          "index": 442,
+          "start": 2252.35,
+          "end": 2255.32,
+          "text": "through my eyes."
+        },
+        {
+          "index": 443,
+          "start": 2260.66,
+          "end": 2262.56,
+          "text": "Well, I should..."
+        },
+        {
+          "index": 444,
+          "start": 2262.66,
+          "end": 2266.92,
+          "text": "I-I mean, I-I'd better... I-It's late and, well..."
+        },
+        {
+          "index": 445,
+          "start": 2267.06,
+          "end": 2272.59,
+          "text": "I'm... I'm... I'm babbling again."
+        },
+        {
+          "index": 446,
+          "start": 2272.74,
+          "end": 2275.1,
+          "text": "Stupid me."
+        },
+        {
+          "index": 447,
+          "start": 2275.2,
+          "end": 2277.54,
+          "text": "No."
+        },
+        {
+          "index": 448,
+          "start": 2277.64,
+          "end": 2280.7,
+          "text": "No, maybe I'm not."
+        },
+        {
+          "index": 449,
+          "start": 2280.84,
+          "end": 2282.71,
+          "text": "Thank you."
+        },
+        {
+          "index": 450,
+          "start": 2284.48,
+          "end": 2287.71,
+          "text": "I-I-I'll see you tomorrow?"
+        },
+        {
+          "index": 451,
+          "start": 2291.49,
+          "end": 2296.22,
+          "text": "Oh. It does my heart good to see our boy like that."
+        },
+        {
+          "index": 452,
+          "start": 2296.33,
+          "end": 2301.49,
+          "text": "Yes. He does seem to have a certain savoir faire."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 2300,
+      "intervalle_fin": 2350,
+      "timecode_debut_extrait": 2300,
+      "timecode_fin_extrait": 2350,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0046_time_2300.00s-2350.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 453,
+          "start": 2301.6,
+          "end": 2304.36,
+          "text": "I hope it's not contagious."
+        },
+        {
+          "index": 454,
+          "start": 2305.1,
+          "end": 2307.97,
+          "text": "Come see the lovely Esmeralda..."
+        },
+        {
+          "index": 455,
+          "start": 2308.07,
+          "end": 2310.97,
+          "text": "in her dance <i>d'amour.</i>"
+        },
+        {
+          "index": 456,
+          "start": 2311.07,
+          "end": 2314.34,
+          "text": "Careful, or you may lose your heart."
+        },
+        {
+          "index": 457,
+          "start": 2325.32,
+          "end": 2327.79,
+          "text": "- Esmeralda! - Me! I want to play!"
+        },
+        {
+          "index": 458,
+          "start": 2327.89,
+          "end": 2330.05,
+          "text": "- I want to play too! - Can I dance?"
+        },
+        {
+          "index": 459,
+          "start": 2331.09,
+          "end": 2334.69,
+          "text": "Esmeralda. Esmeralda! You've gotta help me."
+        },
+        {
+          "index": 460,
+          "start": 2343.01,
+          "end": 2345.06,
+          "text": "Quasi, wh-what is it? What's wrong?"
+        },
+        {
+          "index": 461,
+          "start": 2345.17,
+          "end": 2347.97,
+          "text": "I think I'm sick. I feel awful..."
+        },
+        {
+          "index": 462,
+          "start": 2348.08,
+          "end": 2349.98,
+          "text": "and then wonderful!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 2350,
+      "intervalle_fin": 2400,
+      "timecode_debut_extrait": 2350,
+      "timecode_fin_extrait": 2400,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0047_time_2350.00s-2400.00s.mp4",
+      "nombre_sous_titres": 15,
+      "sous_titres": [
+        {
+          "index": 463,
+          "start": 2350.08,
+          "end": 2353.78,
+          "text": "And then wonderfully awful and-and-and awfully wonderful."
+        },
+        {
+          "index": 464,
+          "start": 2355.12,
+          "end": 2358.75,
+          "text": "- Euphoria. - I can't eat. I can't sleep."
+        },
+        {
+          "index": 465,
+          "start": 2358.85,
+          "end": 2362.69,
+          "text": "I see, and-and-and it hurts to breathe, but you don't care?"
+        },
+        {
+          "index": 466,
+          "start": 2362.79,
+          "end": 2365.52,
+          "text": "Yes! Yes! Exactly. What do I do?"
+        },
+        {
+          "index": 467,
+          "start": 2365.63,
+          "end": 2370.93,
+          "text": "- Well, you have to tell her how you feel. - Uh, how can I?"
+        },
+        {
+          "index": 468,
+          "start": 2371.03,
+          "end": 2374.03,
+          "text": "- What would she say? - Sorry."
+        },
+        {
+          "index": 469,
+          "start": 2374.14,
+          "end": 2376.83,
+          "text": "I can't help you with this one."
+        },
+        {
+          "index": 470,
+          "start": 2376.94,
+          "end": 2379.2,
+          "text": "- You'll have to find out yourself. - But I..."
+        },
+        {
+          "index": 471,
+          "start": 2379.31,
+          "end": 2381.61,
+          "text": "Hey, you're ready."
+        },
+        {
+          "index": 472,
+          "start": 2387.48,
+          "end": 2390.08,
+          "text": "That circus is responsible for a string of robberies."
+        },
+        {
+          "index": 473,
+          "start": 2390.19,
+          "end": 2392.88,
+          "text": "- What? - I like the circus, Papa."
+        },
+        {
+          "index": 474,
+          "start": 2392.99,
+          "end": 2395.29,
+          "text": "- I want to join and-and... - Absolutely not!"
+        },
+        {
+          "index": 475,
+          "start": 2395.39,
+          "end": 2397.59,
+          "text": "- Those people... - \"Those people\"?"
+        },
+        {
+          "index": 476,
+          "start": 2397.69,
+          "end": 2399.46,
+          "text": "How can you lump people together like that?"
+        },
+        {
+          "index": 477,
+          "start": 2399.56,
+          "end": 2402.89,
+          "text": "But the gypsies weren't guilty of crimes like these circus people."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 2400,
+      "intervalle_fin": 2450,
+      "timecode_debut_extrait": 2400,
+      "timecode_fin_extrait": 2450,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0048_time_2400.00s-2450.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 478,
+          "start": 2403.0,
+          "end": 2405.4,
+          "text": "Madellaine's not. She's different."
+        },
+        {
+          "index": 479,
+          "start": 2405.5,
+          "end": 2406.97,
+          "text": "Well, maybe..."
+        },
+        {
+          "index": 480,
+          "start": 2407.07,
+          "end": 2410.3,
+          "text": "and maybe she's just using you to get something else."
+        },
+        {
+          "index": 481,
+          "start": 2410.41,
+          "end": 2413.74,
+          "text": "You don't think she could be interested in me just for me?"
+        },
+        {
+          "index": 482,
+          "start": 2413.84,
+          "end": 2418.4,
+          "text": "Oh, of course she cou... Yes, anyone could, but look at the facts."
+        },
+        {
+          "index": 483,
+          "start": 2418.51,
+          "end": 2420.45,
+          "text": "Find some, and I will."
+        },
+        {
+          "index": 484,
+          "start": 2432.63,
+          "end": 2435.6,
+          "text": "Achilles, do you believe this? Everybody is mad at me."
+        },
+        {
+          "index": 485,
+          "start": 2435.73,
+          "end": 2437.96,
+          "text": "How often does that happen?"
+        },
+        {
+          "index": 486,
+          "start": 2440.2,
+          "end": 2442.07,
+          "text": "Rhetorical!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 2450,
+      "intervalle_fin": 2500,
+      "timecode_debut_extrait": 2450,
+      "timecode_fin_extrait": 2500,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0049_time_2450.00s-2500.00s.mp4",
+      "nombre_sous_titres": 15,
+      "sous_titres": [
+        {
+          "index": 487,
+          "start": 2451.08,
+          "end": 2454.45,
+          "text": "What are you doing now, my little cabbage?"
+        },
+        {
+          "index": 488,
+          "start": 2455.58,
+          "end": 2458.82,
+          "text": "- Practicing. - Why strain yourself?"
+        },
+        {
+          "index": 489,
+          "start": 2458.92,
+          "end": 2463.05,
+          "text": "Oh, did you find out where the monster keeps his bell, trinket?"
+        },
+        {
+          "index": 490,
+          "start": 2463.16,
+          "end": 2466.79,
+          "text": "He is not a monster, and I am not your trinket."
+        },
+        {
+          "index": 491,
+          "start": 2466.9,
+          "end": 2469.23,
+          "text": "I mean to have that bell."
+        },
+        {
+          "index": 492,
+          "start": 2469.33,
+          "end": 2471.3,
+          "text": "I want nothing more to do with your thefts."
+        },
+        {
+          "index": 493,
+          "start": 2471.43,
+          "end": 2474.63,
+          "text": "Oh, really? And how will you survive out there, hmm? On your looks?"
+        },
+        {
+          "index": 494,
+          "start": 2474.74,
+          "end": 2477.67,
+          "text": "- Quasimodo sees something you don't. - Oh, does he?"
+        },
+        {
+          "index": 495,
+          "start": 2477.77,
+          "end": 2480.9,
+          "text": "Well, what if he were to have an unfortunate accident?"
+        },
+        {
+          "index": 496,
+          "start": 2481.01,
+          "end": 2483.57,
+          "text": "If I have to go up there with my men..."
+        },
+        {
+          "index": 497,
+          "start": 2483.68,
+          "end": 2487.98,
+          "text": "and do it the hard way, the hunchback may get hurt."
+        },
+        {
+          "index": 498,
+          "start": 2488.08,
+          "end": 2491.42,
+          "text": "No! You can't! You... You wouldn't."
+        },
+        {
+          "index": 499,
+          "start": 2491.52,
+          "end": 2496.05,
+          "text": "If you want him alive, then lure the bell-ringer away..."
+        },
+        {
+          "index": 500,
+          "start": 2496.16,
+          "end": 2498.85,
+          "text": "while I steal La Fidele."
+        },
+        {
+          "index": 501,
+          "start": 2498.96,
+          "end": 2501.83,
+          "text": "Lead him out of harm's way."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 2500,
+      "intervalle_fin": 2550,
+      "timecode_debut_extrait": 2500,
+      "timecode_fin_extrait": 2550,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0050_time_2500.00s-2550.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 2550,
+      "intervalle_fin": 2600,
+      "timecode_debut_extrait": 2550,
+      "timecode_fin_extrait": 2600,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0051_time_2550.00s-2600.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 502,
+          "start": 2564.39,
+          "end": 2566.83,
+          "text": "Oh, lovely."
+        },
+        {
+          "index": 503,
+          "start": 2571.17,
+          "end": 2575.07,
+          "text": "- Captain! - I'm here about a rash of robberies."
+        },
+        {
+          "index": 504,
+          "start": 2575.17,
+          "end": 2577.1,
+          "text": "A rash? Oh."
+        },
+        {
+          "index": 505,
+          "start": 2577.21,
+          "end": 2581.73,
+          "text": "I find a little soothing lotion does wonders for the complexion."
+        },
+        {
+          "index": 506,
+          "start": 2581.88,
+          "end": 2585.75,
+          "text": "- I'm talking about thefts in town. - Portraits!"
+        },
+        {
+          "index": 507,
+          "start": 2590.12,
+          "end": 2592.64,
+          "text": "Well, we've had nothing go missing..."
+        },
+        {
+          "index": 508,
+          "start": 2592.79,
+          "end": 2595.19,
+          "text": "except some of my hair!"
+        },
+        {
+          "index": 509,
+          "start": 2595.29,
+          "end": 2598.38,
+          "text": "Are you clever enough to retrieve that?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 2600,
+      "intervalle_fin": 2650,
+      "timecode_debut_extrait": 2600,
+      "timecode_fin_extrait": 2650,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0052_time_2600.00s-2650.00s.mp4",
+      "nombre_sous_titres": 14,
+      "sous_titres": [
+        {
+          "index": 510,
+          "start": 2605.13,
+          "end": 2607.53,
+          "text": "Oh, no, I suppose not."
+        },
+        {
+          "index": 511,
+          "start": 2607.64,
+          "end": 2610.9,
+          "text": "My investigation leads me here."
+        },
+        {
+          "index": 512,
+          "start": 2615.98,
+          "end": 2619.54,
+          "text": "Oh, it's true, Captain. And it's my fault!"
+        },
+        {
+          "index": 513,
+          "start": 2619.68,
+          "end": 2621.67,
+          "text": "You're... You're confessing?"
+        },
+        {
+          "index": 514,
+          "start": 2621.82,
+          "end": 2625.51,
+          "text": "Absolutely. She's my responsibility."
+        },
+        {
+          "index": 515,
+          "start": 2625.62,
+          "end": 2629.49,
+          "text": "See, she's been a thief since she was six."
+        },
+        {
+          "index": 516,
+          "start": 2629.59,
+          "end": 2632.99,
+          "text": "I thought I could break her of it if I gave her a job..."
+        },
+        {
+          "index": 517,
+          "start": 2633.13,
+          "end": 2635.65,
+          "text": "a place to call home."
+        },
+        {
+          "index": 518,
+          "start": 2635.76,
+          "end": 2638.03,
+          "text": "Oh, Madellaine."
+        },
+        {
+          "index": 519,
+          "start": 2638.13,
+          "end": 2640.36,
+          "text": "- Oh, Madellaine. - Madellaine?"
+        },
+        {
+          "index": 520,
+          "start": 2640.47,
+          "end": 2642.1,
+          "text": "- Madellaine. - Where is she?"
+        },
+        {
+          "index": 521,
+          "start": 2642.2,
+          "end": 2644.7,
+          "text": "Gone. She and the hunchback..."
+        },
+        {
+          "index": 522,
+          "start": 2644.81,
+          "end": 2647.43,
+          "text": "are-are strolling about the town."
+        },
+        {
+          "index": 523,
+          "start": 2648.64,
+          "end": 2651.88,
+          "text": "- Thank you. - No, thank you, Captain."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 2650,
+      "intervalle_fin": 2700,
+      "timecode_debut_extrait": 2650,
+      "timecode_fin_extrait": 2700,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0053_time_2650.00s-2700.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 524,
+          "start": 2651.98,
+          "end": 2655.78,
+          "text": "I'll let you get back to your self."
+        },
+        {
+          "index": 525,
+          "start": 2655.88,
+          "end": 2659.51,
+          "text": "Perfect. I make the heist of the century..."
+        },
+        {
+          "index": 526,
+          "start": 2659.62,
+          "end": 2663.06,
+          "text": "while the girl leads the monster and the captain away."
+        },
+        {
+          "index": 527,
+          "start": 2683.15,
+          "end": 2687.05,
+          "text": "- Madellaine! I... I-I-I want to talk with you. - Oh, um..."
+        },
+        {
+          "index": 528,
+          "start": 2687.15,
+          "end": 2690.14,
+          "text": "Let's... Let's go for a walk."
+        },
+        {
+          "index": 529,
+          "start": 2690.25,
+          "end": 2692.41,
+          "text": "- I got it! - Whoa!"
+        },
+        {
+          "index": 530,
+          "start": 2692.52,
+          "end": 2695.15,
+          "text": "- Whoa! Whoa! Whoa! - Whoa!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 2700,
+      "intervalle_fin": 2750,
+      "timecode_debut_extrait": 2700,
+      "timecode_fin_extrait": 2750,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0054_time_2700.00s-2750.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 531,
+          "start": 2702.56,
+          "end": 2705.12,
+          "text": "Oh, oh, oh! Mr. Sarousch!"
+        },
+        {
+          "index": 532,
+          "start": 2705.23,
+          "end": 2707.83,
+          "text": "Can I join your circus?"
+        },
+        {
+          "index": 533,
+          "start": 2712.74,
+          "end": 2716.51,
+          "text": "- Ah, the price you pay. - Hey, wait!"
+        },
+        {
+          "index": 534,
+          "start": 2718.21,
+          "end": 2722.67,
+          "text": "I can join the circus if I want to. Hey, where you guys going?"
+        },
+        {
+          "index": 535,
+          "start": 2722.78,
+          "end": 2725.95,
+          "text": "- Have you seen this woman? - No."
+        },
+        {
+          "index": 536,
+          "start": 2726.05,
+          "end": 2728.92,
+          "text": "Do you know where I might find her?"
+        },
+        {
+          "index": 537,
+          "start": 2733.13,
+          "end": 2735.89,
+          "text": "- What are you doing there? - Uh, nothing."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 2750,
+      "intervalle_fin": 2800,
+      "timecode_debut_extrait": 2750,
+      "timecode_fin_extrait": 2800,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0055_time_2750.00s-2800.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 538,
+          "start": 2753.52,
+          "end": 2755.64,
+          "text": "Hey, who are these clowns?"
+        },
+        {
+          "index": 539,
+          "start": 2755.75,
+          "end": 2760.21,
+          "text": "Madellaine says La Fidele is..."
+        },
+        {
+          "index": 540,
+          "start": 2761.42,
+          "end": 2763.15,
+          "text": "this one!"
+        },
+        {
+          "index": 541,
+          "start": 2763.29,
+          "end": 2765.89,
+          "text": "I smell something rotten in Denmark."
+        },
+        {
+          "index": 542,
+          "start": 2767.63,
+          "end": 2771.73,
+          "text": "Oh, Madellaine. The fool! Look at this ugly thing."
+        },
+        {
+          "index": 543,
+          "start": 2773.5,
+          "end": 2775.73,
+          "text": "Oh. What..."
+        },
+        {
+          "index": 544,
+          "start": 2777.17,
+          "end": 2780.57,
+          "text": "Oh, lovely."
+        },
+        {
+          "index": 545,
+          "start": 2780.71,
+          "end": 2785.11,
+          "text": "I'm rich, rich! I wonder if they make diamond underwear."
+        },
+        {
+          "index": 546,
+          "start": 2785.21,
+          "end": 2787.31,
+          "text": "Oh! They're stealin' La Fidele!"
+        },
+        {
+          "index": 547,
+          "start": 2794.22,
+          "end": 2796.62,
+          "text": "Here, hold this."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 2800,
+      "intervalle_fin": 2850,
+      "timecode_debut_extrait": 2800,
+      "timecode_fin_extrait": 2850,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0056_time_2800.00s-2850.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 548,
+          "start": 2802.33,
+          "end": 2805.49,
+          "text": "What part of \"hold this\" was too complex?"
+        },
+        {
+          "index": 549,
+          "start": 2813.01,
+          "end": 2816.74,
+          "text": "- There's something I need to tell you. - There's something I need to know."
+        },
+        {
+          "index": 550,
+          "start": 2816.85,
+          "end": 2819.91,
+          "text": "Madellaine, you know, the festival's tomorrow..."
+        },
+        {
+          "index": 551,
+          "start": 2820.02,
+          "end": 2823.25,
+          "text": "and-and-and I thought that... I-I mean, we could..."
+        },
+        {
+          "index": 552,
+          "start": 2823.35,
+          "end": 2826.32,
+          "text": "you know, go?"
+        },
+        {
+          "index": 553,
+          "start": 2826.42,
+          "end": 2830.12,
+          "text": "Quasi, I'm not the person you think I am."
+        },
+        {
+          "index": 554,
+          "start": 2833.2,
+          "end": 2836.76,
+          "text": "But I want to be, more than anything."
+        },
+        {
+          "index": 555,
+          "start": 2836.87,
+          "end": 2838.8,
+          "text": "Madellaine, tell me the truth."
+        },
+        {
+          "index": 556,
+          "start": 2845.07,
+          "end": 2846.94,
+          "text": "Hey!"
+        },
+        {
+          "index": 557,
+          "start": 2847.04,
+          "end": 2848.74,
+          "text": "What happened to La Fidele?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 2850,
+      "intervalle_fin": 2900,
+      "timecode_debut_extrait": 2850,
+      "timecode_fin_extrait": 2900,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0057_time_2850.00s-2900.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 558,
+          "start": 2863.26,
+          "end": 2866.66,
+          "text": "They stole it! Dad was right."
+        },
+        {
+          "index": 559,
+          "start": 2866.76,
+          "end": 2869.49,
+          "text": "Come on! We gotta find out where they're taking the bell."
+        },
+        {
+          "index": 560,
+          "start": 2869.6,
+          "end": 2873.03,
+          "text": "All right. I've had enough!"
+        },
+        {
+          "index": 561,
+          "start": 2877.37,
+          "end": 2880.14,
+          "text": "Something's wrong."
+        },
+        {
+          "index": 562,
+          "start": 2880.24,
+          "end": 2882.87,
+          "text": "- We have to hurry! - But... But, Quasimodo, I..."
+        },
+        {
+          "index": 563,
+          "start": 2886.05,
+          "end": 2889.85,
+          "text": "La Fidele! It's gone! The bell has been stolen!"
+        },
+        {
+          "index": 564,
+          "start": 2889.95,
+          "end": 2892.85,
+          "text": "We must find her, or the festival will be ruined!"
+        },
+        {
+          "index": 565,
+          "start": 2892.95,
+          "end": 2896.39,
+          "text": "Sarousch! How could I have been such a fool?"
+        },
+        {
+          "index": 566,
+          "start": 2897.96,
+          "end": 2899.89,
+          "text": "- Sarousch? - Seal off the city..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 2900,
+      "intervalle_fin": 2950,
+      "timecode_debut_extrait": 2900,
+      "timecode_fin_extrait": 2950,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0058_time_2900.00s-2950.00s.mp4",
+      "nombre_sous_titres": 11,
+      "sous_titres": [
+        {
+          "index": 567,
+          "start": 2900.0,
+          "end": 2901.9,
+          "text": "every street, every river, every alley!"
+        },
+        {
+          "index": 568,
+          "start": 2902.0,
+          "end": 2905.06,
+          "text": "They won't get far with a bell that size."
+        },
+        {
+          "index": 569,
+          "start": 2906.43,
+          "end": 2908.56,
+          "text": "Did you know about this?"
+        },
+        {
+          "index": 570,
+          "start": 2908.67,
+          "end": 2911.0,
+          "text": "I-I wanted to tell you. I tried."
+        },
+        {
+          "index": 571,
+          "start": 2911.11,
+          "end": 2912.73,
+          "text": "- You used me! - No!"
+        },
+        {
+          "index": 572,
+          "start": 2912.84,
+          "end": 2914.4,
+          "text": "- \"Which one is La Fidele?\" - Please!"
+        },
+        {
+          "index": 573,
+          "start": 2914.51,
+          "end": 2917.54,
+          "text": "\"Let's... Let's go for a walk.\" You never cared about me."
+        },
+        {
+          "index": 574,
+          "start": 2917.65,
+          "end": 2920.31,
+          "text": "- No! That is not true! - You were right."
+        },
+        {
+          "index": 575,
+          "start": 2920.42,
+          "end": 2923.68,
+          "text": "Quasi, I'm sorry. Take her away."
+        },
+        {
+          "index": 576,
+          "start": 2923.79,
+          "end": 2928.52,
+          "text": "No! No! Quasi, please, just... just let me explain."
+        },
+        {
+          "index": 577,
+          "start": 2928.66,
+          "end": 2932.59,
+          "text": "Look at me! Quasimodo, just look at me!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 2950,
+      "intervalle_fin": 3000,
+      "timecode_debut_extrait": 2950,
+      "timecode_fin_extrait": 3000,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0059_time_2950.00s-3000.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 578,
+          "start": 2973.23,
+          "end": 2975.2,
+          "text": "Quasi! Yo, Quasi!"
+        },
+        {
+          "index": 579,
+          "start": 2977.41,
+          "end": 2979.77,
+          "text": "- Quasi, is that you? - I say, old chap, bit of assistance?"
+        },
+        {
+          "index": 580,
+          "start": 2979.87,
+          "end": 2982.6,
+          "text": "Hey, get us out of here!"
+        },
+        {
+          "index": 581,
+          "start": 2982.71,
+          "end": 2985.44,
+          "text": "- We gotta hurry. - Speed is essential. - It wasn't my fault."
+        },
+        {
+          "index": 582,
+          "start": 2985.55,
+          "end": 2988.07,
+          "text": "- One at a time. - It's Zephyr."
+        },
+        {
+          "index": 583,
+          "start": 2988.18,
+          "end": 2990.31,
+          "text": "He's gone after them."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 3000,
+      "intervalle_fin": 3050,
+      "timecode_debut_extrait": 3000,
+      "timecode_fin_extrait": 3050,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0060_time_3000.00s-3050.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 584,
+          "start": 3000.73,
+          "end": 3002.92,
+          "text": "What happened to the circus?"
+        },
+        {
+          "index": 585,
+          "start": 3005.73,
+          "end": 3008.86,
+          "text": "Halt! Okay. Come on."
+        },
+        {
+          "index": 586,
+          "start": 3040.44,
+          "end": 3045.0,
+          "text": "Won't be long now till we're home free."
+        },
+        {
+          "index": 587,
+          "start": 3045.11,
+          "end": 3048.08,
+          "text": "Wha..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 3050,
+      "intervalle_fin": 3100,
+      "timecode_debut_extrait": 3050,
+      "timecode_fin_extrait": 3100,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0061_time_3050.00s-3100.00s.mp4",
+      "nombre_sous_titres": 12,
+      "sous_titres": [
+        {
+          "index": 588,
+          "start": 3055.92,
+          "end": 3059.44,
+          "text": "Come here! Come back! Come back here!"
+        },
+        {
+          "index": 589,
+          "start": 3062.26,
+          "end": 3065.75,
+          "text": "You won't get away with this! My dad's captain of the guard!"
+        },
+        {
+          "index": 590,
+          "start": 3065.86,
+          "end": 3069.82,
+          "text": "Captain of the guard, eh? Really?"
+        },
+        {
+          "index": 591,
+          "start": 3072.33,
+          "end": 3075.73,
+          "text": "Captain, the city is secured, but there is no sign of Sarousch."
+        },
+        {
+          "index": 592,
+          "start": 3075.84,
+          "end": 3077.83,
+          "text": "- Then we have to look further! - Phoebus!"
+        },
+        {
+          "index": 593,
+          "start": 3077.94,
+          "end": 3080.67,
+          "text": "Zephyr has gone after Sarousch!"
+        },
+        {
+          "index": 594,
+          "start": 3080.78,
+          "end": 3083.04,
+          "text": "- I've looked everywhere. - I've got men all over the city."
+        },
+        {
+          "index": 595,
+          "start": 3083.14,
+          "end": 3086.27,
+          "text": "- We'll find him. - You're looking in all the wrong places."
+        },
+        {
+          "index": 596,
+          "start": 3086.38,
+          "end": 3090.37,
+          "text": "Sarousch has made a living from illusion, but I can outthink him."
+        },
+        {
+          "index": 597,
+          "start": 3090.49,
+          "end": 3092.72,
+          "text": "It's the same as the disappearing elephant."
+        },
+        {
+          "index": 598,
+          "start": 3092.85,
+          "end": 3095.29,
+          "text": "Th-There was always a tunnel under the stage."
+        },
+        {
+          "index": 599,
+          "start": 3098.06,
+          "end": 3100.39,
+          "text": "He's taken the bell underground."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 3100,
+      "intervalle_fin": 3150,
+      "timecode_debut_extrait": 3100,
+      "timecode_fin_extrait": 3150,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0062_time_3100.00s-3150.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 600,
+          "start": 3100.53,
+          "end": 3103.62,
+          "text": "The catacombs. He could be using the catacombs."
+        },
+        {
+          "index": 601,
+          "start": 3103.77,
+          "end": 3106.43,
+          "text": "And she could be saying exactly what Sarousch wants her to."
+        },
+        {
+          "index": 602,
+          "start": 3106.57,
+          "end": 3110.6,
+          "text": "We go underground, and he slips right out of town. Can't you see?"
+        },
+        {
+          "index": 603,
+          "start": 3110.74,
+          "end": 3114.5,
+          "text": "Listen to me. Your son's life is at stake."
+        },
+        {
+          "index": 604,
+          "start": 3114.61,
+          "end": 3118.98,
+          "text": "Maybe you should look again like you did with me."
+        },
+        {
+          "index": 605,
+          "start": 3125.22,
+          "end": 3128.02,
+          "text": "All right! But she's coming along as a prisoner."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 3150,
+      "intervalle_fin": 3200,
+      "timecode_debut_extrait": 3150,
+      "timecode_fin_extrait": 3200,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0063_time_3150.00s-3200.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 606,
+          "start": 3170.06,
+          "end": 3172.53,
+          "text": "Djali!"
+        },
+        {
+          "index": 607,
+          "start": 3172.63,
+          "end": 3175.13,
+          "text": "Where's Zephyr?"
+        },
+        {
+          "index": 608,
+          "start": 3175.24,
+          "end": 3178.1,
+          "text": "Hurry, Djali, take us to him!"
+        },
+        {
+          "index": 609,
+          "start": 3182.44,
+          "end": 3186.24,
+          "text": "Which will go better with my eyes... diamonds or sapphires?"
+        },
+        {
+          "index": 610,
+          "start": 3186.35,
+          "end": 3188.28,
+          "text": "Sarousch!"
+        },
+        {
+          "index": 611,
+          "start": 3193.92,
+          "end": 3196.25,
+          "text": "Surrender now!"
+        },
+        {
+          "index": 612,
+          "start": 3199.76,
+          "end": 3202.25,
+          "text": "- You've got no way out! - Oh, really?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 3200,
+      "intervalle_fin": 3250,
+      "timecode_debut_extrait": 3200,
+      "timecode_fin_extrait": 3250,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0064_time_3200.00s-3250.00s.mp4",
+      "nombre_sous_titres": 13,
+      "sous_titres": [
+        {
+          "index": 613,
+          "start": 3202.36,
+          "end": 3204.83,
+          "text": "I see things a bit differently."
+        },
+        {
+          "index": 614,
+          "start": 3204.93,
+          "end": 3207.66,
+          "text": "Mama! Papa!"
+        },
+        {
+          "index": 615,
+          "start": 3207.77,
+          "end": 3209.53,
+          "text": "Let him go!"
+        },
+        {
+          "index": 616,
+          "start": 3209.64,
+          "end": 3212.16,
+          "text": "Let him go? I think not, Captain."
+        },
+        {
+          "index": 617,
+          "start": 3212.27,
+          "end": 3215.21,
+          "text": "He's my ticket out of here."
+        },
+        {
+          "index": 618,
+          "start": 3215.31,
+          "end": 3217.74,
+          "text": "You're not going anywhere, Sarousch."
+        },
+        {
+          "index": 619,
+          "start": 3217.85,
+          "end": 3219.84,
+          "text": "Now release the boy!"
+        },
+        {
+          "index": 620,
+          "start": 3222.22,
+          "end": 3224.62,
+          "text": "Let me pass safely, and you may see..."
+        },
+        {
+          "index": 621,
+          "start": 3224.72,
+          "end": 3226.78,
+          "text": "your precious little boy again."
+        },
+        {
+          "index": 622,
+          "start": 3226.89,
+          "end": 3231.35,
+          "text": "Quasimodo, he means it. He'll hurt Zephyr, but I know how we can save him."
+        },
+        {
+          "index": 623,
+          "start": 3231.46,
+          "end": 3235.42,
+          "text": "- Please untie me. - Why, so you can escape with Sarousch?"
+        },
+        {
+          "index": 624,
+          "start": 3235.53,
+          "end": 3237.69,
+          "text": "Don't test me, Captain!"
+        },
+        {
+          "index": 625,
+          "start": 3237.83,
+          "end": 3239.93,
+          "text": "Papa!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 3250,
+      "intervalle_fin": 3300,
+      "timecode_debut_extrait": 3250,
+      "timecode_fin_extrait": 3300,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0065_time_3250.00s-3300.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 626,
+          "start": 3257.82,
+          "end": 3259.65,
+          "text": "Lovely."
+        },
+        {
+          "index": 627,
+          "start": 3262.72,
+          "end": 3265.75,
+          "text": "Quasi, listen to me. I know I hurt you."
+        },
+        {
+          "index": 628,
+          "start": 3265.89,
+          "end": 3269.42,
+          "text": "I'm sorry, but I am someone you can trust."
+        },
+        {
+          "index": 629,
+          "start": 3269.56,
+          "end": 3271.73,
+          "text": "How can I?"
+        },
+        {
+          "index": 630,
+          "start": 3271.87,
+          "end": 3273.96,
+          "text": "I've already made that mistake."
+        },
+        {
+          "index": 631,
+          "start": 3274.1,
+          "end": 3277.16,
+          "text": "Quasimodo, there's more to me."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 3300,
+      "intervalle_fin": 3350,
+      "timecode_debut_extrait": 3300,
+      "timecode_fin_extrait": 3350,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0066_time_3300.00s-3350.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 632,
+          "start": 3305.8,
+          "end": 3308.56,
+          "text": "Well done, <i>mon capitaine.</i>"
+        },
+        {
+          "index": 633,
+          "start": 3312.31,
+          "end": 3314.9,
+          "text": "Mama! Papa!"
+        },
+        {
+          "index": 634,
+          "start": 3325.62,
+          "end": 3329.65,
+          "text": "You hold the rope. I'll do the rest."
+        },
+        {
+          "index": 635,
+          "start": 3336.46,
+          "end": 3341.16,
+          "text": "A hush comes over the crowd as Madellaine begins her graceful trek."
+        },
+        {
+          "index": 636,
+          "start": 3347.61,
+          "end": 3350.94,
+          "text": "I can do this. I can do this."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 3350,
+      "intervalle_fin": 3400,
+      "timecode_debut_extrait": 3350,
+      "timecode_fin_extrait": 3400,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0067_time_3350.00s-3400.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 637,
+          "start": 3351.05,
+          "end": 3353.61,
+          "text": "I know you can."
+        },
+        {
+          "index": 638,
+          "start": 3367.83,
+          "end": 3370.8,
+          "text": "What... What are you doing here?"
+        },
+        {
+          "index": 639,
+          "start": 3372.87,
+          "end": 3375.17,
+          "text": "Just standing here looking pretty."
+        },
+        {
+          "index": 640,
+          "start": 3379.51,
+          "end": 3381.1,
+          "text": "Seize him!"
+        },
+        {
+          "index": 641,
+          "start": 3381.21,
+          "end": 3384.77,
+          "text": "No, no, no! Not the face! Watch the face!"
+        },
+        {
+          "index": 642,
+          "start": 3388.85,
+          "end": 3391.61,
+          "text": "Oh, Mom, Dad."
+        },
+        {
+          "index": 643,
+          "start": 3393.52,
+          "end": 3395.58,
+          "text": "- Let's go. - Fools! I am Sarousch!"
+        },
+        {
+          "index": 644,
+          "start": 3395.69,
+          "end": 3398.99,
+          "text": "- This is not the ending I had in mind. - Get in there!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 3400,
+      "intervalle_fin": 3450,
+      "timecode_debut_extrait": 3400,
+      "timecode_fin_extrait": 3450,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0068_time_3400.00s-3450.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 645,
+          "start": 3400.36,
+          "end": 3403.26,
+          "text": "No prison can hold me! Wait, we can work this out."
+        },
+        {
+          "index": 646,
+          "start": 3403.36,
+          "end": 3406.33,
+          "text": "Did I mention I do birthday parties?"
+        },
+        {
+          "index": 647,
+          "start": 3422.78,
+          "end": 3427.62,
+          "text": "And now while Quasimodo rings La Fidele..."
+        },
+        {
+          "index": 648,
+          "start": 3427.76,
+          "end": 3429.85,
+          "text": "come and proclaim your love..."
+        },
+        {
+          "index": 649,
+          "start": 3429.99,
+          "end": 3433.12,
+          "text": "for all of Paris to hear!"
+        },
+        {
+          "index": 650,
+          "start": 3433.26,
+          "end": 3436.36,
+          "text": "I love Josette!"
+        },
+        {
+          "index": 651,
+          "start": 3438.5,
+          "end": 3440.52,
+          "text": "I love Jean Paul!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 3450,
+      "intervalle_fin": 3500,
+      "timecode_debut_extrait": 3450,
+      "timecode_fin_extrait": 3500,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0069_time_3450.00s-3500.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 652,
+          "start": 3454.65,
+          "end": 3457.58,
+          "text": "I was wrong about all of it."
+        },
+        {
+          "index": 653,
+          "start": 3459.62,
+          "end": 3462.05,
+          "text": "- I know. - There's only one thing I can say."
+        },
+        {
+          "index": 654,
+          "start": 3462.19,
+          "end": 3467.53,
+          "text": "I love Esmeralda!"
+        },
+        {
+          "index": 655,
+          "start": 3467.63,
+          "end": 3471.43,
+          "text": "I love Phoebus!"
+        },
+        {
+          "index": 656,
+          "start": 3485.51,
+          "end": 3488.0,
+          "text": "- Huh? Huh. - Huh? Huh. - Wait a minute."
+        },
+        {
+          "index": 657,
+          "start": 3488.15,
+          "end": 3490.74,
+          "text": "- Huh? Hmm. - What is it?"
+        },
+        {
+          "index": 658,
+          "start": 3497.16,
+          "end": 3499.63,
+          "text": "Quasimodo, you've shown me..."
+        },
+        {
+          "index": 659,
+          "start": 3499.73,
+          "end": 3502.13,
+          "text": "that the world is full of miracles."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 3500,
+      "intervalle_fin": 3550,
+      "timecode_debut_extrait": 3500,
+      "timecode_fin_extrait": 3550,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0070_time_3500.00s-3550.00s.mp4",
+      "nombre_sous_titres": 12,
+      "sous_titres": [
+        {
+          "index": 660,
+          "start": 3502.23,
+          "end": 3504.86,
+          "text": "Just ordinary miracles."
+        },
+        {
+          "index": 661,
+          "start": 3504.97,
+          "end": 3506.99,
+          "text": "They happen every day."
+        },
+        {
+          "index": 662,
+          "start": 3508.97,
+          "end": 3510.37,
+          "text": "Yuck."
+        },
+        {
+          "index": 663,
+          "start": 3510.47,
+          "end": 3512.3,
+          "text": "- Yeah. - Yeah."
+        },
+        {
+          "index": 664,
+          "start": 3512.41,
+          "end": 3515.17,
+          "text": "- Yuck. - Yuck."
+        },
+        {
+          "index": 665,
+          "start": 3515.31,
+          "end": 3518.21,
+          "text": "I'm so happy, I could just mildew."
+        },
+        {
+          "index": 666,
+          "start": 3518.31,
+          "end": 3522.04,
+          "text": "Aw, lighten up! Take your heart for granite..."
+        },
+        {
+          "index": 667,
+          "start": 3522.15,
+          "end": 3525.31,
+          "text": "like me!"
+        },
+        {
+          "index": 668,
+          "start": 3525.42,
+          "end": 3530.38,
+          "text": "Aw. She'd better take good care of our boy."
+        },
+        {
+          "index": 669,
+          "start": 3530.49,
+          "end": 3532.39,
+          "text": "Don't worry. I will."
+        },
+        {
+          "index": 670,
+          "start": 3532.49,
+          "end": 3534.69,
+          "text": "- Wha... - Huh?"
+        },
+        {
+          "index": 671,
+          "start": 3548.84,
+          "end": 3553.28,
+          "text": "I love Madellaine!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 3550,
+      "intervalle_fin": 3600,
+      "timecode_debut_extrait": 3550,
+      "timecode_fin_extrait": 3600,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0071_time_3550.00s-3600.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 672,
+          "start": 3553.38,
+          "end": 3557.68,
+          "text": "And I love Quasimodo!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 3600,
+      "intervalle_fin": 3650,
+      "timecode_debut_extrait": 3600,
+      "timecode_fin_extrait": 3650,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0072_time_3600.00s-3650.00s.mp4",
+      "nombre_sous_titres": 12,
+      "sous_titres": [
+        {
+          "index": 673,
+          "start": 3609.6,
+          "end": 3613.37,
+          "text": "<i>Angel in disguise</i>"
+        },
+        {
+          "index": 674,
+          "start": 3613.47,
+          "end": 3617.07,
+          "text": "<i>Stories in his eyes</i>"
+        },
+        {
+          "index": 675,
+          "start": 3617.21,
+          "end": 3620.01,
+          "text": "<i>Love for every true heart</i>"
+        },
+        {
+          "index": 676,
+          "start": 3620.11,
+          "end": 3624.02,
+          "text": "<i>That he sees</i>"
+        },
+        {
+          "index": 677,
+          "start": 3624.12,
+          "end": 3628.02,
+          "text": "<i>Was it just a lucky day</i>"
+        },
+        {
+          "index": 678,
+          "start": 3628.12,
+          "end": 3631.56,
+          "text": "<i>That he turned and looked my way</i>"
+        },
+        {
+          "index": 679,
+          "start": 3631.69,
+          "end": 3634.66,
+          "text": "<i>Or is it heaven right before</i>"
+        },
+        {
+          "index": 680,
+          "start": 3634.8,
+          "end": 3639.7,
+          "text": "<i>My very eyes</i>"
+        },
+        {
+          "index": 681,
+          "start": 3639.83,
+          "end": 3643.74,
+          "text": "<i>He's shown me all new things</i>"
+        },
+        {
+          "index": 682,
+          "start": 3643.84,
+          "end": 3647.54,
+          "text": "<i>The shimmer of moonbeams</i>"
+        },
+        {
+          "index": 683,
+          "start": 3647.64,
+          "end": 3649.08,
+          "text": "<i>I was blind</i>"
+        },
+        {
+          "index": 684,
+          "start": 3649.18,
+          "end": 3654.44,
+          "text": "<i>But now he's helped me see</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 3650,
+      "intervalle_fin": 3700,
+      "timecode_debut_extrait": 3650,
+      "timecode_fin_extrait": 3700,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0073_time_3650.00s-3700.00s.mp4",
+      "nombre_sous_titres": 13,
+      "sous_titres": [
+        {
+          "index": 685,
+          "start": 3654.55,
+          "end": 3658.78,
+          "text": "<i>I was lost, but now I'm found</i>"
+        },
+        {
+          "index": 686,
+          "start": 3658.89,
+          "end": 3662.58,
+          "text": "<i>His happiness surrounds</i>"
+        },
+        {
+          "index": 687,
+          "start": 3662.69,
+          "end": 3665.45,
+          "text": "<i>And now I find that my dreams</i>"
+        },
+        {
+          "index": 688,
+          "start": 3665.56,
+          "end": 3669.79,
+          "text": "<i>Can come true</i>"
+        },
+        {
+          "index": 689,
+          "start": 3669.9,
+          "end": 3673.96,
+          "text": "<i>'Cause I'm gonna love you</i>"
+        },
+        {
+          "index": 690,
+          "start": 3674.07,
+          "end": 3677.56,
+          "text": "<i>For the rest of my life</i>"
+        },
+        {
+          "index": 691,
+          "start": 3677.67,
+          "end": 3680.9,
+          "text": "<i>I'm holding you safe here</i>"
+        },
+        {
+          "index": 692,
+          "start": 3681.01,
+          "end": 3685.0,
+          "text": "<i>In this heart of mine</i>"
+        },
+        {
+          "index": 693,
+          "start": 3685.11,
+          "end": 3689.07,
+          "text": "<i>I can't live without you</i>"
+        },
+        {
+          "index": 694,
+          "start": 3689.18,
+          "end": 3692.68,
+          "text": "<i>'Cause my soul would die</i>"
+        },
+        {
+          "index": 695,
+          "start": 3692.79,
+          "end": 3696.45,
+          "text": "<i>You know I'm tellin' the truth</i>"
+        },
+        {
+          "index": 696,
+          "start": 3696.56,
+          "end": 3699.69,
+          "text": "<i>I'll spend the rest of my life</i>"
+        },
+        {
+          "index": 697,
+          "start": 3699.79,
+          "end": 3703.82,
+          "text": "<i>Loving you</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 3700,
+      "intervalle_fin": 3750,
+      "timecode_debut_extrait": 3700,
+      "timecode_fin_extrait": 3750,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0074_time_3700.00s-3750.00s.mp4",
+      "nombre_sous_titres": 12,
+      "sous_titres": [
+        {
+          "index": 698,
+          "start": 3708.37,
+          "end": 3712.17,
+          "text": "<i>It didn't start this way</i>"
+        },
+        {
+          "index": 699,
+          "start": 3712.27,
+          "end": 3715.97,
+          "text": "<i>It happened just one day</i>"
+        },
+        {
+          "index": 700,
+          "start": 3716.08,
+          "end": 3717.64,
+          "text": "<i>You smiled at me</i>"
+        },
+        {
+          "index": 701,
+          "start": 3717.75,
+          "end": 3723.15,
+          "text": "<i>And I saw you differently</i>"
+        },
+        {
+          "index": 702,
+          "start": 3723.25,
+          "end": 3727.38,
+          "text": "<i>Now I would tremble just to be</i>"
+        },
+        {
+          "index": 703,
+          "start": 3727.49,
+          "end": 3731.22,
+          "text": "<i>Apart of you as we</i>"
+        },
+        {
+          "index": 704,
+          "start": 3731.33,
+          "end": 3732.99,
+          "text": "<i>Begin a life</i>"
+        },
+        {
+          "index": 705,
+          "start": 3733.09,
+          "end": 3738.53,
+          "text": "<i>That's sure to never end</i>"
+        },
+        {
+          "index": 706,
+          "start": 3738.63,
+          "end": 3742.4,
+          "text": "<i>'Cause I'm gonna love you</i>"
+        },
+        {
+          "index": 707,
+          "start": 3742.5,
+          "end": 3746.17,
+          "text": "<i>For the rest of my life</i>"
+        },
+        {
+          "index": 708,
+          "start": 3746.27,
+          "end": 3749.5,
+          "text": "<i>I'm holding you safe here</i>"
+        },
+        {
+          "index": 709,
+          "start": 3749.61,
+          "end": 3753.91,
+          "text": "<i>In this heart of mine</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 3750,
+      "intervalle_fin": 3800,
+      "timecode_debut_extrait": 3750,
+      "timecode_fin_extrait": 3800,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0075_time_3750.00s-3800.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 710,
+          "start": 3754.01,
+          "end": 3757.64,
+          "text": "<i>I can't live without you</i>"
+        },
+        {
+          "index": 711,
+          "start": 3757.79,
+          "end": 3761.28,
+          "text": "<i>'Cause my soul would die</i>"
+        },
+        {
+          "index": 712,
+          "start": 3761.46,
+          "end": 3765.02,
+          "text": "<i>You know I'm tellin’ the truth</i>"
+        },
+        {
+          "index": 713,
+          "start": 3765.16,
+          "end": 3768.09,
+          "text": "<i>I'll spend the rest of my life</i>"
+        },
+        {
+          "index": 714,
+          "start": 3768.23,
+          "end": 3772.63,
+          "text": "<i>Loving you</i>"
+        },
+        {
+          "index": 715,
+          "start": 3776.4,
+          "end": 3780.13,
+          "text": "<i>The rest of my life, baby</i>"
+        },
+        {
+          "index": 716,
+          "start": 3783.58,
+          "end": 3786.88,
+          "text": "<i>Loving you</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 3800,
+      "intervalle_fin": 3850,
+      "timecode_debut_extrait": 3800,
+      "timecode_fin_extrait": 3850,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0076_time_3800.00s-3850.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 3850,
+      "intervalle_fin": 3900,
+      "timecode_debut_extrait": 3850,
+      "timecode_fin_extrait": 3900,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0077_time_3850.00s-3900.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 3900,
+      "intervalle_fin": 3950,
+      "timecode_debut_extrait": 3900,
+      "timecode_fin_extrait": 3950,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0078_time_3900.00s-3950.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 3950,
+      "intervalle_fin": 3958.517,
+      "timecode_debut_extrait": 3950,
+      "timecode_fin_extrait": 3958.517,
+      "video_path": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS\\interval_0079_time_3950.00s-3958.52s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    }
+  ]
+}

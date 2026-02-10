@@ -1,0 +1,4006 @@
+[
+  {
+    "titre": "TRON: Ares",
+    "notes": {
+      "csv": 6.512,
+      "imdb": 6.2,
+      "tmdb": 6.5,
+      "trakt": 6.50742
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Snow White",
+    "notes": {
+      "csv": 4.296,
+      "imdb": 7,
+      "tmdb": 5.5,
+      "trakt": 5.5
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Tangled",
+    "notes": {
+      "csv": 7.611,
+      "imdb": 7.7,
+      "tmdb": 7.611,
+      "trakt": 7.83405
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Lilo & Stitch",
+    "notes": {
+      "csv": 7.232,
+      "imdb": 6.7,
+      "tmdb": 7.218,
+      "trakt": 7.24817
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Pirates of the Caribbean: On Stranger Tides",
+    "notes": {
+      "csv": 6.565,
+      "imdb": 6.6,
+      "tmdb": 6.565,
+      "trakt": 6.99124
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Beauty and the Beast",
+    "notes": {
+      "csv": 7.0,
+      "imdb": 6.4,
+      "tmdb": 6.2,
+      "trakt": 6.71726
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "notes": {
+      "csv": 7.8,
+      "imdb": 8.1,
+      "tmdb": 7.818,
+      "trakt": 8.08666
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "notes": {
+      "csv": 7.137,
+      "imdb": 6.9,
+      "tmdb": 7.137,
+      "trakt": 7.26227
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Explore the Lion King and Jungle Festival",
+    "notes": {
+      "csv": 8.255,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Pirates of the Caribbean: Dead Man's Chest",
+    "notes": {
+      "csv": 7.374,
+      "imdb": 7.4,
+      "tmdb": 7.374,
+      "trakt": 7.62124
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Mufasa: The Lion King",
+    "notes": {
+      "csv": 7.324,
+      "imdb": 6.6,
+      "tmdb": 7.315,
+      "trakt": 7.23524
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Pirates of the Caribbean: At World's End",
+    "notes": {
+      "csv": 7.3,
+      "imdb": 7.1,
+      "tmdb": 7.3,
+      "trakt": 7.45486
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Moana",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Alice in Wonderland",
+    "notes": {
+      "csv": 6.636,
+      "imdb": 6.2,
+      "tmdb": 5.4,
+      "trakt": 6.23333
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Muppet Christmas Carol",
+    "notes": {
+      "csv": 7.437,
+      "imdb": 7.8,
+      "tmdb": 7.44,
+      "trakt": 7.86332
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Cinderella",
+    "notes": {
+      "csv": 6.824,
+      "imdb": 5.9,
+      "tmdb": 5.4,
+      "trakt": 4.83333
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Little Mermaid",
+    "notes": {
+      "csv": 6.278,
+      "imdb": 6.5,
+      "tmdb": 5.6,
+      "trakt": 5.5
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Mulan",
+    "notes": {
+      "csv": 7.903,
+      "imdb": 7.7,
+      "tmdb": 7.9,
+      "trakt": 7.99561
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Maléfique",
+    "notes": {
+      "csv": 7.087,
+      "imdb": 6.2,
+      "tmdb": 5.93,
+      "trakt": 6.50993
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Freakier Friday",
+    "notes": {
+      "csv": 6.87,
+      "imdb": 6.3,
+      "tmdb": 6.8,
+      "trakt": 6.73385
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Emperor's New Groove",
+    "notes": {
+      "csv": 7.558,
+      "imdb": 7.4,
+      "tmdb": 7.559,
+      "trakt": 7.75093
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Cruella",
+    "notes": {
+      "csv": 7.978,
+      "imdb": 7.3,
+      "tmdb": 7.978,
+      "trakt": 7.58783
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "notes": {
+      "csv": 6.655,
+      "imdb": 6.5,
+      "tmdb": 6.654,
+      "trakt": 7.03894
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "TRON: Legacy",
+    "notes": {
+      "csv": 6.533,
+      "imdb": 6.8,
+      "tmdb": 6.5,
+      "trakt": 7.14848
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Tarzan",
+    "notes": {
+      "csv": 7.398,
+      "imdb": 7.3,
+      "tmdb": 7.397,
+      "trakt": 7.51926
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Four Charlots Musketeers 2",
+    "notes": {
+      "csv": 7.216,
+      "imdb": 5.3,
+      "tmdb": 4.7,
+      "trakt": 5.55556
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Cars 2",
+    "notes": {
+      "csv": 6.17,
+      "imdb": 6.2,
+      "tmdb": 6.2,
+      "trakt": 6.59803
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Aladdin",
+    "notes": {
+      "csv": 7.088,
+      "imdb": 8,
+      "tmdb": 7.655,
+      "trakt": 8.01495
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Tomorrowland",
+    "notes": {
+      "csv": 6.29,
+      "imdb": 6.4,
+      "tmdb": 6.3,
+      "trakt": 6.84484
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Muppet Treasure Island",
+    "notes": {
+      "csv": 6.683,
+      "imdb": 6.9,
+      "tmdb": 6.7,
+      "trakt": 7.22203
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Bridge to Terabithia",
+    "notes": {
+      "csv": 7.306,
+      "imdb": 7.2,
+      "tmdb": 7.3,
+      "trakt": 7.41637
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Togo",
+    "notes": {
+      "csv": 8.135,
+      "imdb": 7.9,
+      "tmdb": 8.132,
+      "trakt": 8.10941
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Oliver & Company",
+    "notes": {
+      "csv": 6.7,
+      "imdb": 6.6,
+      "tmdb": 6.7,
+      "trakt": 6.98811
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Flight of the Navigator",
+    "notes": {
+      "csv": 6.9,
+      "imdb": 6.9,
+      "tmdb": 6.9,
+      "trakt": 7.42566
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Sky High",
+    "notes": {
+      "csv": 6.252,
+      "imdb": 6.3,
+      "tmdb": 6.3,
+      "trakt": 6.56891
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Chicken Little",
+    "notes": {
+      "csv": 5.908,
+      "imdb": 5.7,
+      "tmdb": 5.908,
+      "trakt": 6.17882
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "101 Dalmatians",
+    "notes": {
+      "csv": 5.941,
+      "imdb": 5.8,
+      "tmdb": 5.9,
+      "trakt": 6.26874
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Treasure Planet",
+    "notes": {
+      "csv": 7.6,
+      "imdb": 7.2,
+      "tmdb": 7.6,
+      "trakt": 7.6262
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Princess Diaries 3",
+    "notes": {
+      "csv": 7.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Hunchback of Notre Dame",
+    "notes": {
+      "csv": 7.126,
+      "imdb": 7,
+      "tmdb": 7.1,
+      "trakt": 7.25443
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "John Carter",
+    "notes": {
+      "csv": 6.355,
+      "imdb": 6.6,
+      "tmdb": 6.4,
+      "trakt": 6.8342
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Rookie",
+    "notes": {
+      "csv": 6.814,
+      "imdb": 6.9,
+      "tmdb": 6.814,
+      "trakt": 7.25179
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Chronicles of Narnia: Prince Caspian",
+    "notes": {
+      "csv": 6.629,
+      "imdb": 6.5,
+      "tmdb": 6.629,
+      "trakt": 6.8536
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Meet the Robinsons",
+    "notes": {
+      "csv": 6.93,
+      "imdb": 6.8,
+      "tmdb": 6.9,
+      "trakt": 7.21662
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Avalon",
+    "notes": {
+      "csv": 7.3,
+      "imdb": 6.4,
+      "tmdb": 6.5,
+      "trakt": 6.76261
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Cool Runnings",
+    "notes": {
+      "csv": 7.008,
+      "imdb": 7,
+      "tmdb": 7.01,
+      "trakt": 7.44983
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Mars Needs Moms",
+    "notes": {
+      "csv": 5.957,
+      "imdb": 5.4,
+      "tmdb": 6,
+      "trakt": 5.98668
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Maleficent: Mistress of Evil",
+    "notes": {
+      "csv": 7.3,
+      "imdb": 6.6,
+      "tmdb": 7.3,
+      "trakt": 7.15709
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Jungle Book",
+    "notes": {
+      "csv": 6.867,
+      "imdb": 7.6,
+      "tmdb": 7.278,
+      "trakt": 7.59474
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Cheaper by the Dozen",
+    "notes": {
+      "csv": 6.351,
+      "imdb": 5.9,
+      "tmdb": 6.281,
+      "trakt": 6.41875
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Once Upon a Time",
+    "notes": {
+      "csv": 6.843,
+      "imdb": 6.4,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Ice Age Adventures of Buck Wild",
+    "notes": {
+      "csv": 6.6,
+      "imdb": 4.4,
+      "tmdb": 6.568,
+      "trakt": 5.676
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Angels in the Outfield",
+    "notes": {
+      "csv": 5.993,
+      "imdb": 6.2,
+      "tmdb": 6,
+      "trakt": 6.4787
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Flubber",
+    "notes": {
+      "csv": 5.657,
+      "imdb": 5.3,
+      "tmdb": 5.7,
+      "trakt": 6.08232
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Man of the House",
+    "notes": {
+      "csv": 5.4,
+      "imdb": 5.3,
+      "tmdb": 5.4,
+      "trakt": 6.00779
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Bolt",
+    "notes": {
+      "csv": 6.535,
+      "imdb": 6.8,
+      "tmdb": 6.5,
+      "trakt": 6.99622
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The BFG",
+    "notes": {
+      "csv": 6.288,
+      "imdb": 6.3,
+      "tmdb": 6.3,
+      "trakt": 7.16083
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "A Christmas Carol",
+    "notes": {
+      "csv": 6.904,
+      "imdb": 6.8,
+      "tmdb": 6.905,
+      "trakt": 7.0726
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "National Treasure",
+    "notes": {
+      "csv": 6.647,
+      "imdb": 6.9,
+      "tmdb": 6.6,
+      "trakt": 7.18501
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Remember the Titans",
+    "notes": {
+      "csv": 7.645,
+      "imdb": 7.8,
+      "tmdb": 7.642,
+      "trakt": 7.89315
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Jungle Cruise",
+    "notes": {
+      "csv": 7.311,
+      "imdb": 6.5,
+      "tmdb": 7.309,
+      "trakt": 6.94657
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Tangled Ever After",
+    "notes": {
+      "csv": 7.135,
+      "imdb": 7.5,
+      "tmdb": 7.1,
+      "trakt": 7.56397
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Diary of a Wimpy Kid: The Last Straw",
+    "notes": {
+      "csv": 6.6,
+      "imdb": 5.7,
+      "tmdb": 6.6,
+      "trakt": 6.81757
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Trail Mix-Up",
+    "notes": {
+      "csv": 7.0,
+      "imdb": 7.1,
+      "tmdb": 7,
+      "trakt": 7.15663
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Alice Through the Looking Glass",
+    "notes": {
+      "csv": 6.6,
+      "imdb": null,
+      "tmdb": 6,
+      "trakt": 6
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Mater and the Ghostlight",
+    "notes": {
+      "csv": 6.253,
+      "imdb": 6.5,
+      "tmdb": 6.3,
+      "trakt": 6.65494
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Pinocchio",
+    "notes": {
+      "csv": 6.299,
+      "imdb": 7.5,
+      "tmdb": 7.101,
+      "trakt": 7.247
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Dinosaur",
+    "notes": {
+      "csv": 6.549,
+      "imdb": 6,
+      "tmdb": 7,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "L'Apprenti sorcier",
+    "notes": {
+      "csv": 6.136,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Prince of Persia: The Sands of Time",
+    "notes": {
+      "csv": 6.297,
+      "imdb": 6.5,
+      "tmdb": 6.297,
+      "trakt": 6.64143
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Ghosts of the Abyss",
+    "notes": {
+      "csv": 6.848,
+      "imdb": 6.8,
+      "tmdb": 6.848,
+      "trakt": 7.11346
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Hocus Pocus",
+    "notes": {
+      "csv": 7.036,
+      "imdb": 6.9,
+      "tmdb": 7,
+      "trakt": 7.35214
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Muppet Man",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Honey, I Shrunk the Kids",
+    "notes": {
+      "csv": 6.314,
+      "imdb": 6.4,
+      "tmdb": 6.3,
+      "trakt": 6.82874
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "En Avant",
+    "notes": {
+      "csv": 7.648,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "A Kid in King Arthur's Court",
+    "notes": {
+      "csv": 5.0,
+      "imdb": 4.8,
+      "tmdb": 5,
+      "trakt": 5.26937
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Home on the Range",
+    "notes": {
+      "csv": 6.055,
+      "imdb": 5.4,
+      "tmdb": 6.1,
+      "trakt": 6.30026
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Tick Tock Tale",
+    "notes": {
+      "csv": 7.4,
+      "imdb": 7.3,
+      "tmdb": 7.4,
+      "trakt": 7.14198
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Atlantis: The Lost Empire",
+    "notes": {
+      "csv": 7.032,
+      "imdb": 6.9,
+      "tmdb": 7,
+      "trakt": 7.33444
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "George of the Jungle",
+    "notes": {
+      "csv": 5.654,
+      "imdb": 5.6,
+      "tmdb": 5.655,
+      "trakt": 6.01045
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Oz the Great and Powerful",
+    "notes": {
+      "csv": 5.93,
+      "imdb": 6.3,
+      "tmdb": 5.93,
+      "trakt": 6.49158
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Sport Goofy in Soccermania",
+    "notes": {
+      "csv": 6.609,
+      "imdb": 6.7,
+      "tmdb": 6.609,
+      "trakt": 6.4375
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "National Treasure: Book of Secrets",
+    "notes": {
+      "csv": 6.371,
+      "imdb": 6.5,
+      "tmdb": 6.37,
+      "trakt": 6.90397
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "An Extremely Goofy Movie",
+    "notes": {
+      "csv": 7.0,
+      "imdb": 6.4,
+      "tmdb": 6.4,
+      "trakt": 6.809
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Peter Pan & Wendy",
+    "notes": {
+      "csv": 5.44,
+      "imdb": 4.4,
+      "tmdb": 5.4,
+      "trakt": 5.53787
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Secretariat",
+    "notes": {
+      "csv": 7.411,
+      "imdb": 7.2,
+      "tmdb": 7.408,
+      "trakt": 7.69131
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "John Henry",
+    "notes": {
+      "csv": 7.073,
+      "imdb": 3.6,
+      "tmdb": 5.259,
+      "trakt": 5.72093
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "101 Dalmatians: The Further Adventures of Thunderbolt",
+    "notes": {
+      "csv": 7.0,
+      "imdb": 6.4,
+      "tmdb": 7,
+      "trakt": 5.88889
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Princess Diaries 2: Royal Engagement",
+    "notes": {
+      "csv": 6.7,
+      "imdb": 5.9,
+      "tmdb": 6.715,
+      "trakt": 6.77897
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Freaky Friday",
+    "notes": {
+      "csv": 6.575,
+      "imdb": 6.4,
+      "tmdb": 6.6,
+      "trakt": 6.80071
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "All Night Long",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 5.7,
+      "tmdb": 8.7,
+      "trakt": 7.33333
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Meet the Deedles",
+    "notes": {
+      "csv": 4.506,
+      "imdb": 4.1,
+      "tmdb": 4.5,
+      "trakt": 4.60396
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Once Upon a Time in Mexico",
+    "notes": {
+      "csv": 6.692,
+      "imdb": 6.3,
+      "tmdb": 6.297,
+      "trakt": 6.55196
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Valiant",
+    "notes": {
+      "csv": 5.573,
+      "imdb": 5.5,
+      "tmdb": 5.6,
+      "trakt": 5.89632
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Lone Ranger",
+    "notes": {
+      "csv": 6.119,
+      "imdb": 6.4,
+      "tmdb": 6.1,
+      "trakt": 6.57828
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Get a Horse!",
+    "notes": {
+      "csv": 7.606,
+      "imdb": 7.5,
+      "tmdb": 7.6,
+      "trakt": 7.18133
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Blank Check",
+    "notes": {
+      "csv": 5.949,
+      "imdb": 5.3,
+      "tmdb": 6,
+      "trakt": 6.11303
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Glory Road",
+    "notes": {
+      "csv": 7.418,
+      "imdb": 7.2,
+      "tmdb": 7.421,
+      "trakt": 7.41979
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Crater",
+    "notes": {
+      "csv": 6.629,
+      "imdb": 5.4,
+      "tmdb": 6.629,
+      "trakt": 6.20221
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Tigger Movie",
+    "notes": {
+      "csv": 6.578,
+      "imdb": 6.4,
+      "tmdb": 6.6,
+      "trakt": 6.88848
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Pacifier",
+    "notes": {
+      "csv": 6.072,
+      "imdb": 5.6,
+      "tmdb": 6.073,
+      "trakt": 6.26048
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "SuperKlaus",
+    "notes": {
+      "csv": 6.515,
+      "imdb": 4.2,
+      "tmdb": 7.1,
+      "trakt": 5.61667
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Magic Camp",
+    "notes": {
+      "csv": 6.9,
+      "imdb": 6.3,
+      "tmdb": 6.9,
+      "trakt": 6.70588
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Mary Poppins Returns",
+    "notes": {
+      "csv": 6.5,
+      "imdb": 6.7,
+      "tmdb": 6.511,
+      "trakt": 6.93765
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Great Mouse Detective",
+    "notes": {
+      "csv": 7.0,
+      "imdb": 7.1,
+      "tmdb": 7.046,
+      "trakt": 7.23042
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Dumbo",
+    "notes": {
+      "csv": 6.588,
+      "imdb": 7.2,
+      "tmdb": 7,
+      "trakt": 7.16855
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Hannah Montana: The Movie",
+    "notes": {
+      "csv": 6.581,
+      "imdb": 4.8,
+      "tmdb": 6.6,
+      "trakt": 6.42052
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Night at the Museum: Kahmunrah Rises Again",
+    "notes": {
+      "csv": 6.4,
+      "imdb": 5,
+      "tmdb": 6.4,
+      "trakt": 5.94184
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Three Musketeers",
+    "notes": {
+      "csv": 6.395,
+      "imdb": 7,
+      "tmdb": 6,
+      "trakt": 2.25
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "A Dairy Tale",
+    "notes": {
+      "csv": 5.1,
+      "imdb": 5,
+      "tmdb": 5.1,
+      "trakt": 6
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Around the World in 80 Days",
+    "notes": {
+      "csv": 5.949,
+      "imdb": 4.7,
+      "tmdb": 5.808,
+      "trakt": 6.05714
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Rocketman",
+    "notes": {
+      "csv": 5.2,
+      "imdb": 7.3,
+      "tmdb": 7.306,
+      "trakt": 7.43178
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Game Plan",
+    "notes": {
+      "csv": 6.509,
+      "imdb": 6.2,
+      "tmdb": 6.507,
+      "trakt": 6.56783
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "102 Dalmatians",
+    "notes": {
+      "csv": 5.5,
+      "imdb": 4.9,
+      "tmdb": 5.5,
+      "trakt": 5.84647
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Herbie Fully Loaded",
+    "notes": {
+      "csv": 5.8,
+      "imdb": 4.9,
+      "tmdb": 5.8,
+      "trakt": 5.78405
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Hocus Pocus 2",
+    "notes": {
+      "csv": 7.169,
+      "imdb": 6,
+      "tmdb": 7.165,
+      "trakt": 6.57899
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Nutcracker and the Four Realms",
+    "notes": {
+      "csv": 6.1,
+      "imdb": 5.6,
+      "tmdb": 6.1,
+      "trakt": 6.39886
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "High School Musical 3: Senior Year",
+    "notes": {
+      "csv": 6.546,
+      "imdb": 5.1,
+      "tmdb": 6.5,
+      "trakt": 6.49333
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Hollywood Stargirl",
+    "notes": {
+      "csv": 6.6,
+      "imdb": 5.8,
+      "tmdb": 6.6,
+      "trakt": 6.54011
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Planes",
+    "notes": {
+      "csv": 5.932,
+      "imdb": 5.7,
+      "tmdb": 5.9,
+      "trakt": 6.51633
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Race to Witch Mountain",
+    "notes": {
+      "csv": 5.802,
+      "imdb": 5.7,
+      "tmdb": 5.802,
+      "trakt": 6.20564
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Bedtime Stories",
+    "notes": {
+      "csv": 6.2,
+      "imdb": 6,
+      "tmdb": 6.2,
+      "trakt": 6.5031
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Teacher's Pet",
+    "notes": {
+      "csv": 6.066,
+      "imdb": 5.7,
+      "tmdb": 6,
+      "trakt": 6.25424
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "And Still We Will Walk On",
+    "notes": {
+      "csv": 7.819,
+      "imdb": 6.7,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Wild",
+    "notes": {
+      "csv": 5.538,
+      "imdb": 5.2,
+      "tmdb": 5.536,
+      "trakt": 5.81197
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Young Woman and the Sea",
+    "notes": {
+      "csv": 7.853,
+      "imdb": 7.5,
+      "tmdb": 7.8,
+      "trakt": 7.89228
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "McFarland, USA",
+    "notes": {
+      "csv": 7.485,
+      "imdb": 7.4,
+      "tmdb": 7.5,
+      "trakt": 7.57246
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "White Fang",
+    "notes": {
+      "csv": 6.749,
+      "imdb": 6.9,
+      "tmdb": 7.355,
+      "trakt": 7.27157
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Cruella 2",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Invincible",
+    "notes": {
+      "csv": 7.016,
+      "imdb": 7.1,
+      "tmdb": 6.5,
+      "trakt": 6.73529
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "La Belle et Le Clochard",
+    "notes": {
+      "csv": 7.169,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Holes",
+    "notes": {
+      "csv": 6.9,
+      "imdb": 7,
+      "tmdb": 6.894,
+      "trakt": 7.19735
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Tom and Huck",
+    "notes": {
+      "csv": 5.263,
+      "imdb": 5.5,
+      "tmdb": 5.3,
+      "trakt": 5.96212
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Black Cauldron",
+    "notes": {
+      "csv": 6.422,
+      "imdb": 6.3,
+      "tmdb": 6.4,
+      "trakt": 6.54032
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Noelle",
+    "notes": {
+      "csv": 6.59,
+      "imdb": 6.3,
+      "tmdb": 6.6,
+      "trakt": 6.8084
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Diary of a Wimpy Kid: Rodrick Rules",
+    "notes": {
+      "csv": 6.8,
+      "imdb": 6.6,
+      "tmdb": 6.7,
+      "trakt": 7.09779
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Chang Can Dunk",
+    "notes": {
+      "csv": 6.7,
+      "imdb": 6.3,
+      "tmdb": 6.7,
+      "trakt": 6.52778
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Chip 'n Dale: Rescue Rangers",
+    "notes": {
+      "csv": 7.0,
+      "imdb": 6.9,
+      "tmdb": 7,
+      "trakt": 7.05565
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Into the Woods",
+    "notes": {
+      "csv": 5.759,
+      "imdb": 5.9,
+      "tmdb": 5.8,
+      "trakt": 6.19748
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Eight Below",
+    "notes": {
+      "csv": 7.035,
+      "imdb": 7.3,
+      "tmdb": 7.035,
+      "trakt": 7.37661
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Fantasia",
+    "notes": {
+      "csv": 6.971,
+      "imdb": 7.7,
+      "tmdb": 7.3,
+      "trakt": 7.48731
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Man On a Mission: Richard Garriott's Road to the Stars",
+    "notes": {
+      "csv": 5.5,
+      "imdb": 7,
+      "tmdb": 5,
+      "trakt": 6.625
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Once Upon a Studio",
+    "notes": {
+      "csv": 8.28,
+      "imdb": 8.3,
+      "tmdb": 8.3,
+      "trakt": 8.11837
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Finest Hours",
+    "notes": {
+      "csv": 6.599,
+      "imdb": 6.9,
+      "tmdb": 6.3,
+      "trakt": 5.42857
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Shrunk",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Diary of a Wimpy Kid",
+    "notes": {
+      "csv": 6.217,
+      "imdb": 5.1,
+      "tmdb": 6.2,
+      "trakt": 6.21733
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Return to Never Land",
+    "notes": {
+      "csv": 6.476,
+      "imdb": 5.8,
+      "tmdb": 6.5,
+      "trakt": 6.57056
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Olaf's Frozen Adventure",
+    "notes": {
+      "csv": 6.464,
+      "imdb": 5.7,
+      "tmdb": 6.5,
+      "trakt": 7.05717
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Saving Mr. Banks",
+    "notes": {
+      "csv": 7.344,
+      "imdb": 7.5,
+      "tmdb": 7.344,
+      "trakt": 7.51272
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Santa Clause 2",
+    "notes": {
+      "csv": 6.004,
+      "imdb": 5.8,
+      "tmdb": 6,
+      "trakt": 6.74123
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Squanto: A Warrior's Tale",
+    "notes": {
+      "csv": 6.7,
+      "imdb": 6.1,
+      "tmdb": 6.762,
+      "trakt": 6.93182
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The One and Only Ivan",
+    "notes": {
+      "csv": 7.353,
+      "imdb": 6.6,
+      "tmdb": 7.3,
+      "trakt": 7.05671
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Planes with Brains 2",
+    "notes": {
+      "csv": 6.186,
+      "imdb": 7.6,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Santa Clause 3: The Escape Clause",
+    "notes": {
+      "csv": 5.581,
+      "imdb": 4.9,
+      "tmdb": 5.581,
+      "trakt": 6.18179
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Untitled Jane Goodall Film",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Christopher Robin",
+    "notes": {
+      "csv": 7.305,
+      "imdb": 7.2,
+      "tmdb": 7.304,
+      "trakt": 7.46978
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Tower of Terror",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 5.9,
+      "tmdb": 5.625,
+      "trakt": 6.14286
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Toy Story That Time Forgot",
+    "notes": {
+      "csv": 7.0,
+      "imdb": 7.1,
+      "tmdb": 7.005,
+      "trakt": 7.47859
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Haunted Spooks",
+    "notes": {
+      "csv": 6.4,
+      "imdb": 6.6,
+      "tmdb": 6.3,
+      "trakt": 6
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Hunchback of Notre Dame II",
+    "notes": {
+      "csv": 5.371,
+      "imdb": 4.6,
+      "tmdb": 5.4,
+      "trakt": 5.49698
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Muppets",
+    "notes": {
+      "csv": 6.682,
+      "imdb": 7.1,
+      "tmdb": 6.7,
+      "trakt": 7.09064
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Underdog",
+    "notes": {
+      "csv": 5.547,
+      "imdb": 4.8,
+      "tmdb": 5.5,
+      "trakt": 5.68916
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Lizzie McGuire Movie",
+    "notes": {
+      "csv": 6.323,
+      "imdb": 5.6,
+      "tmdb": 6.3,
+      "trakt": 6.46128
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "James and the Giant Peach",
+    "notes": {
+      "csv": 6.582,
+      "imdb": 6.7,
+      "tmdb": 6.588,
+      "trakt": 6.87538
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Jungle 2 Jungle",
+    "notes": {
+      "csv": 5.3,
+      "imdb": 5.2,
+      "tmdb": 5.3,
+      "trakt": 5.97447
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "D2: The Mighty Ducks",
+    "notes": {
+      "csv": 6.196,
+      "imdb": 6.1,
+      "tmdb": 6.196,
+      "trakt": 6.75302
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Les Bleus, un parcours de légende !",
+    "notes": {
+      "csv": 7.305,
+      "imdb": null,
+      "tmdb": 6.5,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Beverly Hills Chihuahua 3: Viva la Fiesta!",
+    "notes": {
+      "csv": 5.382,
+      "imdb": 4.4,
+      "tmdb": 6.278,
+      "trakt": 5.8489
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Pooh's Heffalump Movie",
+    "notes": {
+      "csv": 6.823,
+      "imdb": 6.4,
+      "tmdb": 6.8,
+      "trakt": 7
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Ice Princess",
+    "notes": {
+      "csv": 6.405,
+      "imdb": 6,
+      "tmdb": 4.7,
+      "trakt": 6.78571
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Piglet's Big Movie",
+    "notes": {
+      "csv": 6.73,
+      "imdb": 6.1,
+      "tmdb": 6.7,
+      "trakt": 6.91697
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Mickey and the Very Many Christmases",
+    "notes": {
+      "csv": 7.657,
+      "imdb": 6.1,
+      "tmdb": 6.6,
+      "trakt": 6.66667
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Kid",
+    "notes": {
+      "csv": 6.743,
+      "imdb": 6.1,
+      "tmdb": 6.7,
+      "trakt": 6.42424
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Mike's New Car",
+    "notes": {
+      "csv": 6.882,
+      "imdb": 7,
+      "tmdb": 6.9,
+      "trakt": 7.10786
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Diary of a Wimpy Kid Christmas: Cabin Fever",
+    "notes": {
+      "csv": 6.585,
+      "imdb": 5.9,
+      "tmdb": 6.6,
+      "trakt": 6.43291
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "A Wrinkle in Time",
+    "notes": {
+      "csv": 5.1,
+      "imdb": 4.3,
+      "tmdb": 5.1,
+      "trakt": 5.84131
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Tokyo Mater",
+    "notes": {
+      "csv": 6.337,
+      "imdb": 6.6,
+      "tmdb": 6.3,
+      "trakt": 6.56972
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Snow Dogs",
+    "notes": {
+      "csv": 5.625,
+      "imdb": 5.2,
+      "tmdb": 5.6,
+      "trakt": 6.00393
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Benji the Hunted",
+    "notes": {
+      "csv": 6.561,
+      "imdb": 6.3,
+      "tmdb": 6.561,
+      "trakt": 6.45625
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Homeward Bound II: Lost in San Francisco",
+    "notes": {
+      "csv": 6.6,
+      "imdb": 5.9,
+      "tmdb": 6.6,
+      "trakt": 6.64661
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Le doc Quotidien, un an chez les petits champions",
+    "notes": {
+      "csv": 6.576,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "L'incroyable voyage de Polar Kid",
+    "notes": {
+      "csv": 6.984,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Splash",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 6.3,
+      "tmdb": 6.3,
+      "trakt": 6.56843
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Groovin' with Ken",
+    "notes": {
+      "csv": 6.5,
+      "imdb": null,
+      "tmdb": 6.5,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "White Fang 2: Myth of the White Wolf",
+    "notes": {
+      "csv": 6.898,
+      "imdb": 5.4,
+      "tmdb": 6.9,
+      "trakt": 6.61972
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Muppets Most Wanted",
+    "notes": {
+      "csv": 6.309,
+      "imdb": 6.4,
+      "tmdb": 6.311,
+      "trakt": 6.691
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Honey, I Blew Up the Kid",
+    "notes": {
+      "csv": 5.273,
+      "imdb": 4.9,
+      "tmdb": 5.272,
+      "trakt": 5.76297
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Haunted Mansion",
+    "notes": {
+      "csv": 5.7,
+      "imdb": 5.2,
+      "tmdb": 5.688,
+      "trakt": 6.08869
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Society Of Explorers And Adventurers",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Super Rhino",
+    "notes": {
+      "csv": 6.0,
+      "imdb": 6.2,
+      "tmdb": 6,
+      "trakt": 6.47712
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Frankenweenie",
+    "notes": {
+      "csv": 6.939,
+      "imdb": 6.9,
+      "tmdb": 7,
+      "trakt": 7.09446
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Growing Fangs",
+    "notes": {
+      "csv": 6.6,
+      "imdb": 6.4,
+      "tmdb": 6.6,
+      "trakt": 5.72973
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Untitled LA Youth Orchestra Project",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Mighty Joe Young",
+    "notes": {
+      "csv": 6.307,
+      "imdb": 5.7,
+      "tmdb": 6.3,
+      "trakt": 6.26596
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Recess: School's Out",
+    "notes": {
+      "csv": 6.6,
+      "imdb": 6.5,
+      "tmdb": 6.6,
+      "trakt": 6.90535
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Artemis Fowl",
+    "notes": {
+      "csv": 5.5,
+      "imdb": 4.3,
+      "tmdb": 5.5,
+      "trakt": 5.6753
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Immortals",
+    "notes": {
+      "csv": 6.7,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Inspector Gadget 2",
+    "notes": {
+      "csv": 4.501,
+      "imdb": 3.5,
+      "tmdb": 4.182,
+      "trakt": 4.76381
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "My Favorite Martian",
+    "notes": {
+      "csv": 5.642,
+      "imdb": 5.1,
+      "tmdb": 5.642,
+      "trakt": 5.69352
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "That Darn Cat",
+    "notes": {
+      "csv": 4.985,
+      "imdb": 4.7,
+      "tmdb": 4.985,
+      "trakt": 5.54487
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Black Is King",
+    "notes": {
+      "csv": 7.2,
+      "imdb": 6,
+      "tmdb": 7.2,
+      "trakt": 7.51339
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Violetta: Live in Concert",
+    "notes": {
+      "csv": 7.1,
+      "imdb": 6.8,
+      "tmdb": 7.1,
+      "trakt": 7.46667
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Newsies",
+    "notes": {
+      "csv": 6.7,
+      "imdb": 8.2,
+      "tmdb": 7.989,
+      "trakt": 7.94717
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Mr. Magoo",
+    "notes": {
+      "csv": 4.459,
+      "imdb": 4.1,
+      "tmdb": 4.459,
+      "trakt": 5.09524
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Pirates of the Caribbean: Tales of the Code: Wedlocked",
+    "notes": {
+      "csv": 6.782,
+      "imdb": 6.8,
+      "tmdb": 6.8,
+      "trakt": 6.19704
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "First Kid",
+    "notes": {
+      "csv": 5.7,
+      "imdb": 5.3,
+      "tmdb": 5.7,
+      "trakt": 5.84974
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Recycle Rex",
+    "notes": {
+      "csv": 5.4,
+      "imdb": 6.2,
+      "tmdb": 5.4,
+      "trakt": 5
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Heavyweights",
+    "notes": {
+      "csv": 6.143,
+      "imdb": 6.6,
+      "tmdb": 6.143,
+      "trakt": 6.84173
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Dinner Is Served",
+    "notes": {
+      "csv": 6.0,
+      "imdb": 6,
+      "tmdb": 6,
+      "trakt": 5.71429
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Untitled Pirates of the Caribbean Reboot",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Godmothered",
+    "notes": {
+      "csv": 6.7,
+      "imdb": 6.1,
+      "tmdb": 6.7,
+      "trakt": 6.62525
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Becoming Houdini",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Untitled Fairy Tale Project",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Keeper of the Lost Cities",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Rocketeer",
+    "notes": {
+      "csv": 6.472,
+      "imdb": 6.6,
+      "tmdb": 6.471,
+      "trakt": 6.93755
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Odd Life of Timothy Green",
+    "notes": {
+      "csv": 7.0,
+      "imdb": 6.6,
+      "tmdb": 7,
+      "trakt": 7.02442
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Old Dogs",
+    "notes": {
+      "csv": 5.535,
+      "imdb": 5.3,
+      "tmdb": 5.535,
+      "trakt": 5.88481
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "D3: The Mighty Ducks",
+    "notes": {
+      "csv": 5.945,
+      "imdb": 5.5,
+      "tmdb": 5.945,
+      "trakt": 6.27205
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Raymond",
+    "notes": {
+      "csv": 4.901,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+    "notes": {
+      "csv": 6.206,
+      "imdb": 6.2,
+      "tmdb": 6.2,
+      "trakt": 6.68256
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Max Keeble's Big Move",
+    "notes": {
+      "csv": 5.8,
+      "imdb": 5.5,
+      "tmdb": 5.8,
+      "trakt": 5.5814
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Big Green",
+    "notes": {
+      "csv": 5.6,
+      "imdb": 5.5,
+      "tmdb": 5.6,
+      "trakt": 6.09064
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Prep & Landing: Naughty vs. Nice",
+    "notes": {
+      "csv": 7.038,
+      "imdb": 7.3,
+      "tmdb": 7,
+      "trakt": 7.35256
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Marley",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 6,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Miracle",
+    "notes": {
+      "csv": 7.11,
+      "imdb": 7.5,
+      "tmdb": 7.1,
+      "trakt": 7.64074
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Confessions of a Teenage Drama Queen",
+    "notes": {
+      "csv": 5.7,
+      "imdb": 4.8,
+      "tmdb": 5.709,
+      "trakt": 5.90323
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "TRON: The Next Day",
+    "notes": {
+      "csv": 5.684,
+      "imdb": 6.7,
+      "tmdb": 5.7,
+      "trakt": 6.74502
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Lone Wolf and Cub: White Heaven in Hell",
+    "notes": {
+      "csv": 6.7,
+      "imdb": 7.3,
+      "tmdb": 7.1,
+      "trakt": 7.39752
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Maestro Minnie: Brahm's Lullabye",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Operation Dumbo Drop",
+    "notes": {
+      "csv": 5.198,
+      "imdb": 5.2,
+      "tmdb": 5.198,
+      "trakt": 5.98095
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Stargirl",
+    "notes": {
+      "csv": 7.4,
+      "imdb": 6.2,
+      "tmdb": 7.4,
+      "trakt": 6.71708
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Hunchback",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Paperman",
+    "notes": {
+      "csv": 7.999,
+      "imdb": 8.2,
+      "tmdb": 7.999,
+      "trakt": 8.22931
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Le Festin",
+    "notes": {
+      "csv": 7.839,
+      "imdb": 6.9,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "I'll Be Home for Christmas",
+    "notes": {
+      "csv": 5.972,
+      "imdb": 6.1,
+      "tmdb": 6.1,
+      "trakt": 6.95798
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "College Road Trip",
+    "notes": {
+      "csv": 5.468,
+      "imdb": 4.4,
+      "tmdb": 5.468,
+      "trakt": 5.57521
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Lilo & Stitch",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 7.4,
+      "tmdb": 7.563,
+      "trakt": 7.79822
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Rise",
+    "notes": {
+      "csv": 7.6,
+      "imdb": 7,
+      "tmdb": 7.564,
+      "trakt": 7.40401
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Jack-Jack Attack",
+    "notes": {
+      "csv": 7.293,
+      "imdb": 7.5,
+      "tmdb": 7.293,
+      "trakt": 7.5104
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "20,000 Leagues Under the Sea: Captain Nemo",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Prep & Landing Stocking Stuffer: Operation: Secret Santa",
+    "notes": {
+      "csv": 6.586,
+      "imdb": 6.8,
+      "tmdb": 6.586,
+      "trakt": 6.86175
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Never Cry Wolf",
+    "notes": {
+      "csv": 6.993,
+      "imdb": 7.5,
+      "tmdb": 7,
+      "trakt": 7.27919
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Off His Rockers",
+    "notes": {
+      "csv": 6.5,
+      "imdb": 6.4,
+      "tmdb": 6.5,
+      "trakt": 6.23077
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Prom",
+    "notes": {
+      "csv": 6.094,
+      "imdb": 5.4,
+      "tmdb": 6.094,
+      "trakt": 6.24
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Inner Workings",
+    "notes": {
+      "csv": 7.8,
+      "imdb": 7.7,
+      "tmdb": 7.8,
+      "trakt": 7.61067
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Lamp Life",
+    "notes": {
+      "csv": 7.118,
+      "imdb": 6.7,
+      "tmdb": 7.1,
+      "trakt": 6.90445
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Wild Hearts Can't Be Broken",
+    "notes": {
+      "csv": 7.4,
+      "imdb": 7.2,
+      "tmdb": 7.4,
+      "trakt": 7.68952
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Air Bud: Golden Receiver",
+    "notes": {
+      "csv": 5.108,
+      "imdb": 4.6,
+      "tmdb": 5.098,
+      "trakt": 5.59524
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Waking Sleeping Beauty",
+    "notes": {
+      "csv": 7.173,
+      "imdb": 7.5,
+      "tmdb": 7.173,
+      "trakt": 7.43269
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Pip's Predicament: A Pop-Up Adventure",
+    "notes": {
+      "csv": 3.5,
+      "imdb": 4.8,
+      "tmdb": 3.5,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Journey of Natty Gann",
+    "notes": {
+      "csv": 6.8,
+      "imdb": 7,
+      "tmdb": 6.8,
+      "trakt": 7.22
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Legend of Mor'du",
+    "notes": {
+      "csv": 5.905,
+      "imdb": 6.1,
+      "tmdb": 5.9,
+      "trakt": 6.22976
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Million Dollar Arm",
+    "notes": {
+      "csv": 6.719,
+      "imdb": 7,
+      "tmdb": 6.7,
+      "trakt": 7.08244
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Destino",
+    "notes": {
+      "csv": 7.174,
+      "imdb": 7.5,
+      "tmdb": 7.2,
+      "trakt": 7.11111
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Doug's 1st Movie",
+    "notes": {
+      "csv": 5.545,
+      "imdb": 4.9,
+      "tmdb": 5.545,
+      "trakt": 5.66216
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Safety",
+    "notes": {
+      "csv": 7.54,
+      "imdb": 6.8,
+      "tmdb": 7.538,
+      "trakt": 7.37059
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Runaway Brain",
+    "notes": {
+      "csv": 6.669,
+      "imdb": 7.3,
+      "tmdb": 6.629,
+      "trakt": 6.91667
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Inside Out 3",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Flora & Ulysses",
+    "notes": {
+      "csv": 6.502,
+      "imdb": 6.2,
+      "tmdb": 6.502,
+      "trakt": 6.67211
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip",
+    "notes": {
+      "csv": 6.201,
+      "imdb": 5,
+      "tmdb": 6.2,
+      "trakt": 6.10094
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Country Bears",
+    "notes": {
+      "csv": 4.742,
+      "imdb": 4.3,
+      "tmdb": 4.742,
+      "trakt": 5.25391
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Merlin",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 3.5,
+      "tmdb": 5.5,
+      "trakt": 6.5
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Man From Snowy River II",
+    "notes": {
+      "csv": 6.833,
+      "imdb": 6.6,
+      "tmdb": 6.833,
+      "trakt": 6.68841
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Prince and the Pauper",
+    "notes": {
+      "csv": 6.767,
+      "imdb": 6.3,
+      "tmdb": 7.143,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Tummy Trouble",
+    "notes": {
+      "csv": 6.713,
+      "imdb": 7.2,
+      "tmdb": 6.713,
+      "trakt": 7.09639
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Springtails: The hidden soldiers of Earth",
+    "notes": {
+      "csv": 7.1,
+      "imdb": null,
+      "tmdb": 8,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Timmy Failure: Mistakes Were Made",
+    "notes": {
+      "csv": 6.194,
+      "imdb": 6,
+      "tmdb": 6.203,
+      "trakt": 6.53007
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Extra Terrien",
+    "notes": {
+      "csv": 7.46,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Adventures of Huckleberry Finn",
+    "notes": {
+      "csv": 6.2,
+      "imdb": 6.9,
+      "tmdb": 6.7,
+      "trakt": 1
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Thierry Le Luron - Le meilleur",
+    "notes": {
+      "csv": 6.2,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Endurance",
+    "notes": {
+      "csv": 6.1,
+      "imdb": 6.3,
+      "tmdb": 6.1,
+      "trakt": 6.91667
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Hannah Montana & Miley Cyrus: Best of Both Worlds Concert",
+    "notes": {
+      "csv": 5.9,
+      "imdb": 2.7,
+      "tmdb": 5.9,
+      "trakt": 6.07299
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Prince Charming",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 5.4,
+      "tmdb": 5.6,
+      "trakt": 5.8
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Better Nate Than Ever",
+    "notes": {
+      "csv": 6.447,
+      "imdb": 6.4,
+      "tmdb": 6.417,
+      "trakt": 6.83988
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Once on This Island",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Sons of Mistletoe",
+    "notes": {
+      "csv": 6.122,
+      "imdb": 6.8,
+      "tmdb": 6.692,
+      "trakt": 6.23529
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Ballad of Nessie",
+    "notes": {
+      "csv": 6.66,
+      "imdb": 6.9,
+      "tmdb": 6.6,
+      "trakt": 6.75275
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Mickey's Audition",
+    "notes": {
+      "csv": 4.0,
+      "imdb": 6.6,
+      "tmdb": 4,
+      "trakt": 1
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Far from the Tree",
+    "notes": {
+      "csv": 8.075,
+      "imdb": 7.5,
+      "tmdb": 8.075,
+      "trakt": 7.66667
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Thomas Pesquet : Objectif Mars",
+    "notes": {
+      "csv": 7.2,
+      "imdb": 6.5,
+      "tmdb": 8.4,
+      "trakt": 8
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Circus",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 5.5,
+      "tmdb": 4.9,
+      "trakt": 4.94444
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Front Russe EP02 Zaporijia le fantôme de Tchernobyl",
+    "notes": {
+      "csv": 7.4,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Out",
+    "notes": {
+      "csv": 7.245,
+      "imdb": 6,
+      "tmdb": 5.3,
+      "trakt": 6.25
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Tall Tale: The Unbelievable Adventure",
+    "notes": {
+      "csv": 6.229,
+      "imdb": 5.9,
+      "tmdb": 6.229,
+      "trakt": 6.35849
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Whispers: An Elephant's Tale",
+    "notes": {
+      "csv": 5.8,
+      "imdb": 5,
+      "tmdb": 5.8,
+      "trakt": 5.84615
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "29 Dates",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "According to Plan: The Harrowing and True Story of Dead Man's Chest",
+    "notes": {
+      "csv": 8.4,
+      "imdb": 8.2,
+      "tmdb": 8.4,
+      "trakt": 7
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Kalahari",
+    "notes": {
+      "csv": 6.117,
+      "imdb": 4.4,
+      "tmdb": 3.7,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Frank and Ollie",
+    "notes": {
+      "csv": 7.5,
+      "imdb": 7.6,
+      "tmdb": 7.5,
+      "trakt": 7.61333
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Shipwrecked",
+    "notes": {
+      "csv": 6.7,
+      "imdb": 6.5,
+      "tmdb": 6.7,
+      "trakt": 6.68269
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Monster Jam",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Sartana Kills Them All",
+    "notes": {
+      "csv": 6.7,
+      "imdb": 5.5,
+      "tmdb": 5,
+      "trakt": 4.2
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "How to Hook Up Your Home Theater",
+    "notes": {
+      "csv": 7.224,
+      "imdb": 7.2,
+      "tmdb": 7.224,
+      "trakt": 7.00746
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Molina",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Bluey: The Movie",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "C.S. Lewis: Dreamer of Narnia",
+    "notes": {
+      "csv": 7.5,
+      "imdb": null,
+      "tmdb": 7.5,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Challenger Deep",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Space Mountain",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Cheetah",
+    "notes": {
+      "csv": 6.1,
+      "imdb": 5.9,
+      "tmdb": 6.1,
+      "trakt": 5.80392
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "In the Land of Imagined Things",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Trevor: The Musical",
+    "notes": {
+      "csv": 4.733,
+      "imdb": 6,
+      "tmdb": 4.733,
+      "trakt": 5.83721
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Gatto",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Disney Presents: Main Street Electrical Parade - Farewell Season",
+    "notes": {
+      "csv": 5.4,
+      "imdb": null,
+      "tmdb": 5.4,
+      "trakt": 2
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Aliens of the Deep",
+    "notes": {
+      "csv": 6.104,
+      "imdb": 6.3,
+      "tmdb": 6.104,
+      "trakt": 6.75253
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Beautiful, FL",
+    "notes": {
+      "csv": 5.7,
+      "imdb": 5.7,
+      "tmdb": 5.7,
+      "trakt": 5.33333
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Planes: Meet the Stars",
+    "notes": {
+      "csv": 6.2,
+      "imdb": null,
+      "tmdb": 6.2,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Jonas Brothers: The Concert Experience",
+    "notes": {
+      "csv": 6.4,
+      "imdb": 1.7,
+      "tmdb": 6.4,
+      "trakt": 6.40777
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Wolf Totem",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 6.6,
+      "tmdb": 6.5,
+      "trakt": 6.84424
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Maxine",
+    "notes": {
+      "csv": 5.7,
+      "imdb": 6.5,
+      "tmdb": 5.7,
+      "trakt": 6.71429
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Electric Holiday",
+    "notes": {
+      "csv": 3.6,
+      "imdb": 5.4,
+      "tmdb": 3.6,
+      "trakt": 5
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Winnie the Pooh: A Valentine for You",
+    "notes": {
+      "csv": 6.9,
+      "imdb": 7.1,
+      "tmdb": 6.882,
+      "trakt": 6.52381
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Black Belts",
+    "notes": {
+      "csv": 7.3,
+      "imdb": 5.1,
+      "tmdb": 7.3,
+      "trakt": 5
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Little Prince(ss)",
+    "notes": {
+      "csv": 7.1,
+      "imdb": 7.5,
+      "tmdb": 7.1,
+      "trakt": 7.66154
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Mickey's Safety Club: Street Safe, Street Smart",
+    "notes": {
+      "csv": 9.3,
+      "imdb": 5.1,
+      "tmdb": 9.3,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Red Rose",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Captain Sparky vs. The Flying Saucers",
+    "notes": {
+      "csv": 7.0,
+      "imdb": 6.2,
+      "tmdb": 7,
+      "trakt": 6.49351
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Project CC",
+    "notes": {
+      "csv": 6.5,
+      "imdb": 5.4,
+      "tmdb": 6.5,
+      "trakt": 6.125
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Hand Behind the Mouse: The Ub Iwerks Story",
+    "notes": {
+      "csv": 7.5,
+      "imdb": 7.7,
+      "tmdb": 7.5,
+      "trakt": 6.33333
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Madeline at the Ballet",
+    "notes": {
+      "csv": 2.0,
+      "imdb": null,
+      "tmdb": 2,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Diary of a Wimpy Kid: The Getaway",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Genies",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Hocus Pocus 3",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Knights",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 4.7,
+      "tmdb": 5,
+      "trakt": 4.94737
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Walt: The Man Behind the Myth",
+    "notes": {
+      "csv": 7.9,
+      "imdb": 7.6,
+      "tmdb": 7.9,
+      "trakt": 7.01887
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Reparations",
+    "notes": {
+      "csv": 5.8,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "American Eid",
+    "notes": {
+      "csv": 7.1,
+      "imdb": 6.9,
+      "tmdb": 7.1,
+      "trakt": 6.92593
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Last of the Chupacabras",
+    "notes": {
+      "csv": 6.2,
+      "imdb": 6,
+      "tmdb": 6.2,
+      "trakt": 6.2069
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "1001 Nights",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 5.5,
+      "tmdb": 5.1,
+      "trakt": 6
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Oswald Comes Home",
+    "notes": {
+      "csv": 8.8,
+      "imdb": null,
+      "tmdb": 8.8,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Untitled Pirates of the Caribbean Spin-Off",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Boys: The Sherman Brothers' Story",
+    "notes": {
+      "csv": 7.3,
+      "imdb": 7.7,
+      "tmdb": 7.3,
+      "trakt": 7.55696
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Supercalifragilisticexpialidocious: The Making of 'Mary Poppins'",
+    "notes": {
+      "csv": 8.0,
+      "imdb": 7.9,
+      "tmdb": 8,
+      "trakt": 7.13333
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Tinker Bell",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 6.7,
+      "tmdb": 6.9,
+      "trakt": 7.18567
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Sister Act 3",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 7.8,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Penelope",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 6.7,
+      "tmdb": 6.7,
+      "trakt": 7.02242
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Wish List",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Moonlight Mile: A Journey to Screen",
+    "notes": {
+      "csv": 8.8,
+      "imdb": 5.8,
+      "tmdb": 8.8,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Oilspot and Lipstick",
+    "notes": {
+      "csv": 6.0,
+      "imdb": 6.2,
+      "tmdb": 6,
+      "trakt": 3
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Gummi Bears: A New Beginning",
+    "notes": {
+      "csv": 6.0,
+      "imdb": 7.4,
+      "tmdb": 6,
+      "trakt": 3.66667
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "High School Musical 3: Making Of A Musical",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Haunted Mansion: Enter If You Dare",
+    "notes": {
+      "csv": 4.0,
+      "imdb": null,
+      "tmdb": 4,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Prep & Landing: Tiny's Big Adventure",
+    "notes": {
+      "csv": 7.063,
+      "imdb": 6.2,
+      "tmdb": 7.063,
+      "trakt": 6
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Sade",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 6,
+      "tmdb": 5.514,
+      "trakt": 6.09524
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Esmeralda",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 5,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "America's Heart & Soul",
+    "notes": {
+      "csv": 4.9,
+      "imdb": 5.1,
+      "tmdb": 4.9,
+      "trakt": 5.22727
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Toy Story of Terror!",
+    "notes": {
+      "csv": 7.185,
+      "imdb": 7.4,
+      "tmdb": 7.2,
+      "trakt": 7.55806
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Tomorrowland: The Origins of Plus Ultra",
+    "notes": {
+      "csv": 3.5,
+      "imdb": null,
+      "tmdb": 3.5,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Wouldn’t It Be Nice",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Bob the Musical",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Ocean at the End of the Lane",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Tom Sawyer",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 6.4,
+      "tmdb": 6.3,
+      "trakt": 6.58242
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Marty Sklar, Walt, and EPCOT",
+    "notes": {
+      "csv": 7.0,
+      "imdb": 8.2,
+      "tmdb": 7,
+      "trakt": 8
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Gastón",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 10,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Grimm Legacy",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Haunted Mansion: Swinging Wake",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Magic of the Glass Slipper: A Cinderella Story",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Mary Poppins: From Page to Stage",
+    "notes": {
+      "csv": 0.0,
+      "imdb": 7.5,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Chronicles of Prydain",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Donald Loves Daisy",
+    "notes": {
+      "csv": 5.0,
+      "imdb": null,
+      "tmdb": 5,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Return of the Rocketeer",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "The Paper Magician",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Castle Hangnail",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Untitled 'Muppets' Movie",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  },
+  {
+    "titre": "Beached",
+    "notes": {
+      "csv": 0.0,
+      "imdb": null,
+      "tmdb": 0,
+      "trakt": null
+    },
+    "added": true,
+    "quality_profile": "HD-1080p"
+  }
+]

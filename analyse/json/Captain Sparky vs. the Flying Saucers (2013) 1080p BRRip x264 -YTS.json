@@ -1,0 +1,260 @@
+{
+  "movie_id": "Captain Sparky vs. the Flying Saucers (2013) 1080p BRRip x264 -YTS",
+  "movie_path": "E:\\film_oral\\Captain Sparky vs. The Flying Saucers (2013)\\Captain Sparky vs. the Flying Saucers (2013) 1080p BRRip x264 -YTS.mp4",
+  "subtitle_path": "E:\\film_oral\\Captain Sparky vs. The Flying Saucers (2013)\\Captain Sparky vs. the Flying Saucers (2013) 1080p BRRip x264 -YTS.en.srt",
+  "intervalle_secondes": 50,
+  "nombre_intervalles": 3,
+  "dossier_videos": "analyse\\videos\\Captain Sparky vs. the Flying Saucers (2013) 1080p BRRip x264 -YTS",
+  "date_traitement": "2026-02-10T12:10:22.228913",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 50,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 50,
+      "video_path": "analyse\\videos\\Captain Sparky vs. the Flying Saucers (2013) 1080p BRRip x264 -YTS\\interval_0000_time_0.00s-50.00s.mp4",
+      "nombre_sous_titres": 12,
+      "sous_titres": [
+        {
+          "index": 1,
+          "start": 2.0,
+          "end": 5.76,
+          "text": "VICTOR OVER MOVIE PROJECTOR: <i>The canine will be back. Stay tuned.</i>"
+        },
+        {
+          "index": 2,
+          "start": 6.28,
+          "end": 7.44,
+          "text": "-(SPARKY BARKING) -(VICTOR LAUGHS)"
+        },
+        {
+          "index": 3,
+          "start": 7.76,
+          "end": 9.84,
+          "text": "VICTOR: Which one should we play next, boy?"
+        },
+        {
+          "index": 4,
+          "start": 9.92,
+          "end": 12.04,
+          "text": "Uh, <i>The Monster from Beyond?</i>"
+        },
+        {
+          "index": 5,
+          "start": 12.56,
+          "end": 15.24,
+          "text": "<i>Sheriff Sparky at the O.K. Corral?</i>"
+        },
+        {
+          "index": 6,
+          "start": 15.32,
+          "end": 18.6,
+          "text": "Wait, I know which one you like."
+        },
+        {
+          "index": 7,
+          "start": 21.36,
+          "end": 22.52,
+          "text": "(BARKS)"
+        },
+        {
+          "index": 8,
+          "start": 30.8,
+          "end": 33.44,
+          "text": "(VICTOR READING)"
+        },
+        {
+          "index": 9,
+          "start": 34.64,
+          "end": 37.4,
+          "text": "VICTOR: <i>Earth's long-range telescopes</i> <i>have spotted a fleet</i>"
+        },
+        {
+          "index": 10,
+          "start": 37.44,
+          "end": 41.8,
+          "text": "<i>of hostile Martian spacecraft</i> <i>set on a course for Earth.</i>"
+        },
+        {
+          "index": 11,
+          "start": 42.4,
+          "end": 44.28,
+          "text": "MAN: <i>Oh, my God, it's a UFO.</i>"
+        },
+        {
+          "index": 12,
+          "start": 44.84,
+          "end": 49.08,
+          "text": "<i>Captain Sparky will serve</i> <i>as our last line of defense.</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 50,
+      "intervalle_fin": 100,
+      "timecode_debut_extrait": 50,
+      "timecode_fin_extrait": 100,
+      "video_path": "analyse\\videos\\Captain Sparky vs. the Flying Saucers (2013) 1080p BRRip x264 -YTS\\interval_0001_time_50.00s-100.00s.mp4",
+      "nombre_sous_titres": 14,
+      "sous_titres": [
+        {
+          "index": 13,
+          "start": 51.52,
+          "end": 54.36,
+          "text": "<i>Preparations are now complete</i> <i>at the launch pad.</i>"
+        },
+        {
+          "index": 14,
+          "start": 55.68,
+          "end": 56.68,
+          "text": "(BARKS)"
+        },
+        {
+          "index": 15,
+          "start": 57.64,
+          "end": 63.48,
+          "text": "<i>Five, four, three, two, one,</i> <i>and blastoff!</i>"
+        },
+        {
+          "index": 16,
+          "start": 65.84,
+          "end": 67.8,
+          "text": "VICTOR: <i>All systems are looking good.</i>"
+        },
+        {
+          "index": 17,
+          "start": 68.0,
+          "end": 70.68,
+          "text": "<i>Captain Sparky,</i> <i>you've made it to outer space.</i>"
+        },
+        {
+          "index": 18,
+          "start": 71.36,
+          "end": 74.48,
+          "text": "<i>Radar's picking up a flying saucer</i> <i>fleet just ahead of you.</i>"
+        },
+        {
+          "index": 19,
+          "start": 74.84,
+          "end": 77.6,
+          "text": "<i>Engage and destroy.</i>"
+        },
+        {
+          "index": 20,
+          "start": 83.64,
+          "end": 86.8,
+          "text": "<i>You've done it!</i> <i>The fleet has turned back to Planet X.</i>"
+        },
+        {
+          "index": 21,
+          "start": 87.08,
+          "end": 88.88,
+          "text": "<i>Great job, Captain Sparky.</i>"
+        },
+        {
+          "index": 22,
+          "start": 89.16,
+          "end": 90.32,
+          "text": "(CROWD CHEERING)"
+        },
+        {
+          "index": 23,
+          "start": 92.52,
+          "end": 94.52,
+          "text": "<i>Oh, no. It's the Martian commander.</i>"
+        },
+        {
+          "index": 24,
+          "start": 95.52,
+          "end": 97.6,
+          "text": "<i>You're going to have</i> <i>to take out his ship.</i>"
+        },
+        {
+          "index": 25,
+          "start": 97.92,
+          "end": 99.84,
+          "text": "<i>You've got one shot.</i>"
+        },
+        {
+          "index": 26,
+          "start": 99.88,
+          "end": 100.88,
+          "text": "(SNARLS)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 100,
+      "intervalle_fin": 146.112,
+      "timecode_debut_extrait": 100,
+      "timecode_fin_extrait": 146.112,
+      "video_path": "analyse\\videos\\Captain Sparky vs. the Flying Saucers (2013) 1080p BRRip x264 -YTS\\interval_0002_time_100.00s-146.11s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 27,
+          "start": 101.88,
+          "end": 103.36,
+          "text": "<i>Sparky!</i>"
+        },
+        {
+          "index": 28,
+          "start": 103.4,
+          "end": 104.4,
+          "text": "-(BARKS) -(YOWLS)"
+        },
+        {
+          "index": 29,
+          "start": 104.48,
+          "end": 106.32,
+          "text": "VICTOR: <i>Um, uh...</i>"
+        },
+        {
+          "index": 30,
+          "start": 106.48,
+          "end": 108.32,
+          "text": "<i>Captain Sparky has done it.</i>"
+        },
+        {
+          "index": 31,
+          "start": 108.44,
+          "end": 111.52,
+          "text": "<i>He's destroyed the Martian</i> <i>commander, and the Earth is safe.</i>"
+        },
+        {
+          "index": 32,
+          "start": 111.92,
+          "end": 113.2,
+          "text": "<i>For now.</i>"
+        },
+        {
+          "index": 33,
+          "start": 114.04,
+          "end": 115.04,
+          "text": "(YOWLS)"
+        },
+        {
+          "index": 34,
+          "start": 115.4,
+          "end": 116.72,
+          "text": "<i>Or is it?</i>"
+        },
+        {
+          "index": 35,
+          "start": 119.08,
+          "end": 120.4,
+          "text": "<i>Sparky, no.</i>"
+        },
+        {
+          "index": 36,
+          "start": 120.92,
+          "end": 121.92,
+          "text": "(CLATTERS)"
+        }
+      ]
+    }
+  ]
+}

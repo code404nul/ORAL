@@ -1,0 +1,1041 @@
+{
+  "movie_id": "Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng",
+  "movie_path": "E:\\film_oral\\Lamp Life (2020)\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng.mkv",
+  "subtitle_path": "E:\\film_oral\\Lamp Life (2020)\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng.en.srt",
+  "intervalle_secondes": 50,
+  "nombre_intervalles": 14,
+  "dossier_videos": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng",
+  "date_traitement": "2026-02-10T12:45:54.288379",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 50,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 50,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0000_time_0.00s-50.00s.mp4",
+      "nombre_sous_titres": 12,
+      "sous_titres": [
+        {
+          "index": 1,
+          "start": 3.17,
+          "end": 4.796,
+          "text": "(SOFT MUSIC PLAYING)"
+        },
+        {
+          "index": 2,
+          "start": 23.357,
+          "end": 26.61,
+          "text": "We saw the lamp in the antique store, and that led me here to you."
+        },
+        {
+          "index": 3,
+          "start": 26.693,
+          "end": 28.946,
+          "text": "Wow! That's quite an adventure."
+        },
+        {
+          "index": 4,
+          "start": 29.029,
+          "end": 31.114,
+          "text": "Whoa, whoa, whoa. Okay, let me get this straight."
+        },
+        {
+          "index": 5,
+          "start": 31.198,
+          "end": 33.659,
+          "text": "A giant claw comes down and saves you,"
+        },
+        {
+          "index": 6,
+          "start": 33.951,
+          "end": 37.079,
+          "text": "Andy gives you to Bonnie, and then a fork leads you to Bo?"
+        },
+        {
+          "index": 7,
+          "start": 37.496,
+          "end": 38.497,
+          "text": "Yeah, more or less."
+        },
+        {
+          "index": 8,
+          "start": 38.58,
+          "end": 40.749,
+          "text": "(BLOWS RASPBERRY AND LAUGHS) That's nothing!"
+        },
+        {
+          "index": 9,
+          "start": 41.375,
+          "end": 42.709,
+          "text": "-BO: Whoa. -WOODY: Whoa!"
+        },
+        {
+          "index": 10,
+          "start": 42.793,
+          "end": 45.003,
+          "text": "Hey, Bo, why don’t you tell him your story?"
+        },
+        {
+          "index": 11,
+          "start": 45.087,
+          "end": 46.964,
+          "text": "-Oh, boy. -Oh, yeah!"
+        },
+        {
+          "index": 12,
+          "start": 47.047,
+          "end": 50.259,
+          "text": "Bo, what happened in all that time? Do you ever miss the lamp?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 50,
+      "intervalle_fin": 100,
+      "timecode_debut_extrait": 50,
+      "timecode_fin_extrait": 100,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0001_time_50.00s-100.00s.mp4",
+      "nombre_sous_titres": 20,
+      "sous_titres": [
+        {
+          "index": 13,
+          "start": 50.342,
+          "end": 53.72,
+          "text": "Ah, the lamp. Girls, do we miss the lamp?"
+        },
+        {
+          "index": 14,
+          "start": 54.012,
+          "end": 55.722,
+          "text": "-(BLEATING) -(LAUGHTER)"
+        },
+        {
+          "index": 15,
+          "start": 55.806,
+          "end": 56.807,
+          "text": "That bad, huh?"
+        },
+        {
+          "index": 16,
+          "start": 57.391,
+          "end": 60.644,
+          "text": "So, after we left Molly, we went to the new family."
+        },
+        {
+          "index": 17,
+          "start": 60.727,
+          "end": 61.77,
+          "text": "They had a little girl."
+        },
+        {
+          "index": 18,
+          "start": 62.813,
+          "end": 64.773,
+          "text": "<i>And she loved us.</i>"
+        },
+        {
+          "index": 19,
+          "start": 64.857,
+          "end": 67.15,
+          "text": "MAN 1: Okay. Here it is."
+        },
+        {
+          "index": 20,
+          "start": 67.234,
+          "end": 69.653,
+          "text": "-WOMAN 1: Aw. Look at the pretty lamp. -(BABY COOING)"
+        },
+        {
+          "index": 21,
+          "start": 69.736,
+          "end": 73.115,
+          "text": "-MAN 1: And... Ta-da! -WOMAN 1: Aw."
+        },
+        {
+          "index": 22,
+          "start": 73.198,
+          "end": 75.158,
+          "text": "BO:<i> We had some nice moments.</i>"
+        },
+        {
+          "index": 23,
+          "start": 76.118,
+          "end": 78.036,
+          "text": "<i>In a lamp kind of way.</i>"
+        },
+        {
+          "index": 24,
+          "start": 80.372,
+          "end": 81.373,
+          "text": "(GIGGLES)"
+        },
+        {
+          "index": 25,
+          "start": 82.124,
+          "end": 85.294,
+          "text": "BO:<i> Fairytales, slumber parties,</i> <i>hide and seek...</i>"
+        },
+        {
+          "index": 26,
+          "start": 85.377,
+          "end": 86.712,
+          "text": "Oh, ba-ba."
+        },
+        {
+          "index": 27,
+          "start": 87.254,
+          "end": 89.131,
+          "text": "BO:<i> Playtimes were great.</i>"
+        },
+        {
+          "index": 28,
+          "start": 90.007,
+          "end": 91.967,
+          "text": "<i>When they actually happened.</i>"
+        },
+        {
+          "index": 29,
+          "start": 92.05,
+          "end": 93.051,
+          "text": "-WOMAN 1: No! -(GASPS)"
+        },
+        {
+          "index": 30,
+          "start": 93.135,
+          "end": 95.137,
+          "text": "WOMAN 1: Put that down. This is not a toy."
+        },
+        {
+          "index": 31,
+          "start": 95.345,
+          "end": 97.598,
+          "text": "-No, no, no. -GIRL 1: No, no, no."
+        },
+        {
+          "index": 32,
+          "start": 98.724,
+          "end": 102.394,
+          "text": "BO: <i>But overall, life on a baby lamp</i> <i>isn’t that exciting.</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 100,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 100,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0002_time_100.00s-150.00s.mp4",
+      "nombre_sous_titres": 21,
+      "sous_titres": [
+        {
+          "index": 33,
+          "start": 102.477,
+          "end": 104.146,
+          "text": "(CRYING)"
+        },
+        {
+          "index": 34,
+          "start": 104.771,
+          "end": 105.772,
+          "text": "BO: Shh."
+        },
+        {
+          "index": 35,
+          "start": 105.856,
+          "end": 107.941,
+          "text": "MAN 1: Honey, she’s gotta cry it out."
+        },
+        {
+          "index": 36,
+          "start": 108.025,
+          "end": 109.026,
+          "text": "WOMAN 1: Ugh."
+        },
+        {
+          "index": 37,
+          "start": 109.109,
+          "end": 112.321,
+          "text": "-(CRYING CONTINUES) -BO: <i>Or, maybe, too exciting.</i>"
+        },
+        {
+          "index": 38,
+          "start": 113.989,
+          "end": 115.073,
+          "text": "GIRL 1: Mine!"
+        },
+        {
+          "index": 39,
+          "start": 115.157,
+          "end": 116.533,
+          "text": "BO:<i> See, the thing with babies is...</i>"
+        },
+        {
+          "index": 40,
+          "start": 116.617,
+          "end": 117.993,
+          "text": "WOMAN 1: Whoa!"
+        },
+        {
+          "index": 41,
+          "start": 118.702,
+          "end": 119.953,
+          "text": "BO:<i> They can love you...</i>"
+        },
+        {
+          "index": 42,
+          "start": 120.037,
+          "end": 121.246,
+          "text": "WOMAN 1: No touch."
+        },
+        {
+          "index": 43,
+          "start": 121.33,
+          "end": 123.624,
+          "text": "-(GURGLING) -BO: <i>...a little too much.</i>"
+        },
+        {
+          "index": 44,
+          "start": 123.707,
+          "end": 124.708,
+          "text": "(WOMAN 1 SIGHS)"
+        },
+        {
+          "index": 45,
+          "start": 125.792,
+          "end": 129.213,
+          "text": "MAN 1: (CHUCKLES) That oughta do it. There we go."
+        },
+        {
+          "index": 46,
+          "start": 129.671,
+          "end": 131.131,
+          "text": "BO:<i> We got put up.</i>"
+        },
+        {
+          "index": 47,
+          "start": 131.215,
+          "end": 132.424,
+          "text": "(GIRLS CRYING)"
+        },
+        {
+          "index": 48,
+          "start": 133.967,
+          "end": 134.968,
+          "text": "WOMAN 1: Shh!"
+        },
+        {
+          "index": 49,
+          "start": 135.052,
+          "end": 136.553,
+          "text": "MAN 1: They gotta cry it out."
+        },
+        {
+          "index": 50,
+          "start": 137.262,
+          "end": 139.515,
+          "text": "(CRYING CONTINUES)"
+        },
+        {
+          "index": 51,
+          "start": 141.767,
+          "end": 143.56,
+          "text": "BO:<i> We still tried to get playtime.</i>"
+        },
+        {
+          "index": 52,
+          "start": 145.145,
+          "end": 147.564,
+          "text": "-(GIRLS GIGGLING) -BO:<i> A little risky, but still worth it.</i>"
+        },
+        {
+          "index": 53,
+          "start": 147.981,
+          "end": 150.317,
+          "text": "-(CLATTERING) -GIRLS: Oops."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 150,
+      "intervalle_fin": 200,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 200,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0003_time_150.00s-200.00s.mp4",
+      "nombre_sous_titres": 21,
+      "sous_titres": [
+        {
+          "index": 54,
+          "start": 151.235,
+          "end": 153.82,
+          "text": "-GIRL 1: I think it’s too small. -GIRL 2: It's fine."
+        },
+        {
+          "index": 55,
+          "start": 154.78,
+          "end": 159.201,
+          "text": "BO:<i> Though the absolute biggest challenge </i> <i>was the hazardous working conditions.</i>"
+        },
+        {
+          "index": 56,
+          "start": 159.993,
+          "end": 161.495,
+          "text": "-(SMOKE ALARM BEEPING) -(GIRLS GASP)"
+        },
+        {
+          "index": 57,
+          "start": 161.578,
+          "end": 162.871,
+          "text": "-(SCREAMING) -Fire! Fire! Fire!"
+        },
+        {
+          "index": 58,
+          "start": 167.543,
+          "end": 168.752,
+          "text": "(SIGHS)"
+        },
+        {
+          "index": 59,
+          "start": 168.835,
+          "end": 170.045,
+          "text": "(BLEATING)"
+        },
+        {
+          "index": 60,
+          "start": 172.381,
+          "end": 173.841,
+          "text": "BO:<i> But kids grow up fast.</i>"
+        },
+        {
+          "index": 61,
+          "start": 173.924,
+          "end": 175.467,
+          "text": "Ugh. This is your baby lamp."
+        },
+        {
+          "index": 62,
+          "start": 175.592,
+          "end": 177.177,
+          "text": "-I don’t want it. -Stop!"
+        },
+        {
+          "index": 63,
+          "start": 177.261,
+          "end": 178.554,
+          "text": "-You stop! -You stop!"
+        },
+        {
+          "index": 64,
+          "start": 178.637,
+          "end": 179.888,
+          "text": "-Mom! -Mommy!"
+        },
+        {
+          "index": 65,
+          "start": 179.972,
+          "end": 183.35,
+          "text": "-MAN 1: Ai, ai, ai, girls, I told you... -WOMAN 1: They gotta cry it out."
+        },
+        {
+          "index": 66,
+          "start": 183.433,
+          "end": 184.476,
+          "text": "-(MAN 1 SIGHS) -(DOOR CLOSES)"
+        },
+        {
+          "index": 67,
+          "start": 184.56,
+          "end": 185.561,
+          "text": "GIRLS: Give it away."
+        },
+        {
+          "index": 68,
+          "start": 185.936,
+          "end": 187.145,
+          "text": "I'm too big for that."
+        },
+        {
+          "index": 69,
+          "start": 187.521,
+          "end": 188.981,
+          "text": "(BABY SPEAKING)"
+        },
+        {
+          "index": 70,
+          "start": 190.732,
+          "end": 192.985,
+          "text": "BO:<i> Pretty soon,</i> <i>you’re in the donation box.</i>"
+        },
+        {
+          "index": 71,
+          "start": 193.485,
+          "end": 196.113,
+          "text": "<i>Which took us</i> <i>on quite the unexpected journey.</i>"
+        },
+        {
+          "index": 72,
+          "start": 196.196,
+          "end": 197.197,
+          "text": "WOMAN 2: Hmm."
+        },
+        {
+          "index": 73,
+          "start": 197.656,
+          "end": 199.7,
+          "text": "MAN 2: What? It’s a baby lamp?"
+        },
+        {
+          "index": 74,
+          "start": 199.783,
+          "end": 201.869,
+          "text": "-(LAUGHTER) -WOMAN 3: What’s he gonna do with that?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 200,
+      "intervalle_fin": 250,
+      "timecode_debut_extrait": 200,
+      "timecode_fin_extrait": 250,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0004_time_200.00s-250.00s.mp4",
+      "nombre_sous_titres": 18,
+      "sous_titres": [
+        {
+          "index": 75,
+          "start": 201.952,
+          "end": 204.246,
+          "text": "(MUSIC PLAYING ON HEADPHONES)"
+        },
+        {
+          "index": 76,
+          "start": 204.329,
+          "end": 206.957,
+          "text": "(MUSIC PLAYING)"
+        },
+        {
+          "index": 77,
+          "start": 211.461,
+          "end": 212.671,
+          "text": "(RETCHES)"
+        },
+        {
+          "index": 78,
+          "start": 213.964,
+          "end": 214.965,
+          "text": "(WIND HOWLING)"
+        },
+        {
+          "index": 79,
+          "start": 215.632,
+          "end": 216.633,
+          "text": "(MAN 3 GASPS)"
+        },
+        {
+          "index": 80,
+          "start": 217.426,
+          "end": 218.427,
+          "text": "(GROANS)"
+        },
+        {
+          "index": 81,
+          "start": 218.802,
+          "end": 219.887,
+          "text": "-(MEOWS) -(BO SCREAMS)"
+        },
+        {
+          "index": 82,
+          "start": 219.97,
+          "end": 221.805,
+          "text": "-(BLEATING) -(CAT WHINES)"
+        },
+        {
+          "index": 83,
+          "start": 222.514,
+          "end": 223.64,
+          "text": "(GROANS)"
+        },
+        {
+          "index": 84,
+          "start": 225.392,
+          "end": 226.393,
+          "text": "(SIGHS)"
+        },
+        {
+          "index": 85,
+          "start": 226.768,
+          "end": 227.769,
+          "text": "(BLEATING)"
+        },
+        {
+          "index": 86,
+          "start": 227.853,
+          "end": 231.356,
+          "text": "BO: <i>As you know,</i> <i>appliances have a shelf-life...</i>"
+        },
+        {
+          "index": 87,
+          "start": 231.44,
+          "end": 234.109,
+          "text": "-(BLEATING) <i>-...and we were definitely not on a shelf.</i>"
+        },
+        {
+          "index": 88,
+          "start": 236.111,
+          "end": 237.196,
+          "text": "<i>And then,</i>"
+        },
+        {
+          "index": 89,
+          "start": 238.655,
+          "end": 240.157,
+          "text": "<i>just like that, </i>"
+        },
+        {
+          "index": 90,
+          "start": 241.742,
+          "end": 242.743,
+          "text": "<i>we were settled. </i>"
+        },
+        {
+          "index": 91,
+          "start": 245.245,
+          "end": 246.246,
+          "text": "<i>Safe and sound.</i>"
+        },
+        {
+          "index": 92,
+          "start": 248.957,
+          "end": 250.25,
+          "text": "<i>Life was so simple. </i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 250,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 250,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0005_time_250.00s-300.00s.mp4",
+      "nombre_sous_titres": 22,
+      "sous_titres": [
+        {
+          "index": 93,
+          "start": 250.542,
+          "end": 253.837,
+          "text": "<i>No breaks, or rips, or slobber, no trash.</i>"
+        },
+        {
+          "index": 94,
+          "start": 253.921,
+          "end": 256.673,
+          "text": "<i>And I thought, \"Hey, we’re good.\"</i>"
+        },
+        {
+          "index": 95,
+          "start": 258.717,
+          "end": 259.718,
+          "text": "<i>We’re good.</i>"
+        },
+        {
+          "index": 96,
+          "start": 259.801,
+          "end": 261.595,
+          "text": "-(CAT PURRING SOFTLY) -(BO SIGHS)"
+        },
+        {
+          "index": 97,
+          "start": 261.678,
+          "end": 264.306,
+          "text": "<i>Even if a little stuck.</i>"
+        },
+        {
+          "index": 98,
+          "start": 264.389,
+          "end": 265.39,
+          "text": "(CAT WHINES)"
+        },
+        {
+          "index": 99,
+          "start": 266.141,
+          "end": 267.184,
+          "text": "BO:<i> Till one day...</i>"
+        },
+        {
+          "index": 100,
+          "start": 267.601,
+          "end": 268.852,
+          "text": "(DOOR OPENS)"
+        },
+        {
+          "index": 101,
+          "start": 268.977,
+          "end": 270.854,
+          "text": "BOY 1: Whoa! Cool! Look at all this stuff!"
+        },
+        {
+          "index": 102,
+          "start": 270.938,
+          "end": 273.023,
+          "text": "WOMAN 4: Okay. Look with your eyes, and not your hands."
+        },
+        {
+          "index": 103,
+          "start": 273.106,
+          "end": 274.691,
+          "text": "BOY 1: Look at this! GIRL 2: I wanna see!"
+        },
+        {
+          "index": 104,
+          "start": 274.775,
+          "end": 275.776,
+          "text": "BOY 1: How does this work?"
+        },
+        {
+          "index": 105,
+          "start": 275.859,
+          "end": 276.86,
+          "text": "(OBJECTS CLATTERING)"
+        },
+        {
+          "index": 106,
+          "start": 276.944,
+          "end": 277.945,
+          "text": "BOY 1 AND GIRL 2: Sorry."
+        },
+        {
+          "index": 107,
+          "start": 278.028,
+          "end": 279.78,
+          "text": "WOMAN 4: Okay. How about we go to the playground?"
+        },
+        {
+          "index": 108,
+          "start": 279.863,
+          "end": 281.865,
+          "text": "-BOY 1: Yes! Playground! -GIRL 2: Yeah!"
+        },
+        {
+          "index": 109,
+          "start": 281.949,
+          "end": 284.409,
+          "text": "BOY 1 AND GIRL 2: Playground! Playground!"
+        },
+        {
+          "index": 110,
+          "start": 284.493,
+          "end": 287.996,
+          "text": "WOMAN 4: Playground. Out the door. Let's go. Let's go. Here we go."
+        },
+        {
+          "index": 111,
+          "start": 288.08,
+          "end": 290.541,
+          "text": "BO: <i>I realized... The playground.</i>"
+        },
+        {
+          "index": 112,
+          "start": 290.999,
+          "end": 295.295,
+          "text": "<i>Kids, everywhere, all the time,</i> <i>unlimited playtime.</i>"
+        },
+        {
+          "index": 113,
+          "start": 295.379,
+          "end": 297.089,
+          "text": "<i>We didn’t need the lamp.</i>"
+        },
+        {
+          "index": 114,
+          "start": 297.172,
+          "end": 300.926,
+          "text": "<i>We could be with kids again and be toys.</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 300,
+      "intervalle_fin": 350,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 350,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0006_time_300.00s-350.00s.mp4",
+      "nombre_sous_titres": 14,
+      "sous_titres": [
+        {
+          "index": 115,
+          "start": 301.552,
+          "end": 304.972,
+          "text": "<i>We just had to get off the lamp</i> <i>and out of the antique store.</i>"
+        },
+        {
+          "index": 116,
+          "start": 308.976,
+          "end": 313.897,
+          "text": "<i>We said goodbye to lamp life</i> <i>and initiated the escape plan.</i>"
+        },
+        {
+          "index": 117,
+          "start": 314.106,
+          "end": 315.399,
+          "text": "(GIGGLE MCDIMPLES GROANS)"
+        },
+        {
+          "index": 118,
+          "start": 316.483,
+          "end": 318.694,
+          "text": "-(BO CHUCKLING) -(BLEATING)"
+        },
+        {
+          "index": 119,
+          "start": 319.528,
+          "end": 321.864,
+          "text": "High-five! Or one."
+        },
+        {
+          "index": 120,
+          "start": 322.656,
+          "end": 325.576,
+          "text": "BO:<i> We took what we needed</i> <i>and left the rest behind.</i>"
+        },
+        {
+          "index": 121,
+          "start": 326.702,
+          "end": 327.703,
+          "text": "(BLEATING)"
+        },
+        {
+          "index": 122,
+          "start": 329.955,
+          "end": 330.956,
+          "text": "(BO GROANS)"
+        },
+        {
+          "index": 123,
+          "start": 331.039,
+          "end": 332.124,
+          "text": "Eat glass, dummy!"
+        },
+        {
+          "index": 124,
+          "start": 335.627,
+          "end": 337.838,
+          "text": "BO: <i>Then we took down the security system.</i>"
+        },
+        {
+          "index": 125,
+          "start": 338.338,
+          "end": 339.339,
+          "text": "WOODY: <i>Wait, wait.</i>"
+        },
+        {
+          "index": 126,
+          "start": 339.506,
+          "end": 342.634,
+          "text": "There is no security system in the antique store."
+        },
+        {
+          "index": 127,
+          "start": 342.718,
+          "end": 345.012,
+          "text": "-Well, not anymore. -(BLEATING)"
+        },
+        {
+          "index": 128,
+          "start": 346.346,
+          "end": 347.556,
+          "text": "(BLEATING)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 350,
+      "intervalle_fin": 400,
+      "timecode_debut_extrait": 350,
+      "timecode_fin_extrait": 400,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0007_time_350.00s-400.00s.mp4",
+      "nombre_sous_titres": 19,
+      "sous_titres": [
+        {
+          "index": 129,
+          "start": 353.854,
+          "end": 355.856,
+          "text": "-(SMOKE ALARM BEEPING) -(SIREN WAILING)"
+        },
+        {
+          "index": 130,
+          "start": 357.691,
+          "end": 358.817,
+          "text": "(BLEATING)"
+        },
+        {
+          "index": 131,
+          "start": 361.737,
+          "end": 362.946,
+          "text": "(LAUGHS)"
+        },
+        {
+          "index": 132,
+          "start": 363.03,
+          "end": 365.282,
+          "text": "<i>We're off to be lost toys!</i>"
+        },
+        {
+          "index": 133,
+          "start": 365.365,
+          "end": 367.451,
+          "text": "(BO AND GIGGLE WHOOPING)"
+        },
+        {
+          "index": 134,
+          "start": 367.534,
+          "end": 369.286,
+          "text": "(POLICE SIRENS WAILING)"
+        },
+        {
+          "index": 135,
+          "start": 370.329,
+          "end": 371.914,
+          "text": "BO: <i>A whole new adventure!</i>"
+        },
+        {
+          "index": 136,
+          "start": 373.04,
+          "end": 375.167,
+          "text": "<i>Playtime, all the time!</i>"
+        },
+        {
+          "index": 137,
+          "start": 375.25,
+          "end": 377.252,
+          "text": "BOY 2: Whee! Let's fly!"
+        },
+        {
+          "index": 138,
+          "start": 377.336,
+          "end": 380.005,
+          "text": "(GIGGLE MCDIMPLES EXCLAIMING AND LAUGHING)"
+        },
+        {
+          "index": 139,
+          "start": 380.088,
+          "end": 382.549,
+          "text": "-I love it! So good! Never gets old. -(WOODY AND BO LAUGH)"
+        },
+        {
+          "index": 140,
+          "start": 382.633,
+          "end": 385.844,
+          "text": "Whoa, Bo. That's incredible. That all happened?"
+        },
+        {
+          "index": 141,
+          "start": 385.928,
+          "end": 386.929,
+          "text": "Yeah."
+        },
+        {
+          "index": 142,
+          "start": 389.473,
+          "end": 391.225,
+          "text": "Well, more or less."
+        },
+        {
+          "index": 143,
+          "start": 391.308,
+          "end": 392.851,
+          "text": "-(LAUGHTER) -(BLEATING)"
+        },
+        {
+          "index": 144,
+          "start": 393.101,
+          "end": 394.102,
+          "text": "(CHUCKLES)"
+        },
+        {
+          "index": 145,
+          "start": 394.186,
+          "end": 395.27,
+          "text": "(GROANS)"
+        },
+        {
+          "index": 146,
+          "start": 395.354,
+          "end": 396.355,
+          "text": "GIGGLE: Oh, yeah!"
+        },
+        {
+          "index": 147,
+          "start": 396.772,
+          "end": 398.899,
+          "text": "-WOODY: Whoa! -(BO LAUGHS)"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 400,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 400,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0008_time_400.00s-450.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 450,
+      "intervalle_fin": 500,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 500,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0009_time_450.00s-500.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 500,
+      "intervalle_fin": 550,
+      "timecode_debut_extrait": 500,
+      "timecode_fin_extrait": 550,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0010_time_500.00s-550.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 550,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 550,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0011_time_550.00s-600.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 600,
+      "intervalle_fin": 650,
+      "timecode_debut_extrait": 600,
+      "timecode_fin_extrait": 650,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0012_time_600.00s-650.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 650,
+      "intervalle_fin": 667.008,
+      "timecode_debut_extrait": 650,
+      "timecode_fin_extrait": 667.008,
+      "video_path": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng\\interval_0013_time_650.00s-667.01s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    }
+  ]
+}

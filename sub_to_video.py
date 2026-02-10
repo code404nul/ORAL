@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Script complet: renommage, sous-titres et extraction de vidéos
-Usage: python script.py /chemin/vers/dossier/films
+Usage: python movie_processor.py
+Le script traite automatiquement tous les films dans E:\film_oral
 """
 
 import os
@@ -260,15 +261,17 @@ class MovieProcessor:
         self.dossier = Path(dossier)
         self.films: List[Movie] = []
     
-    def renommer_avec_mnamer(self):
+    def renommer_avec_mnamer(self, skip_if_error=True):
         """Renomme les fichiers avec mnamer"""
         print("\n🎬 Étape 1: Renommage des films avec mnamer...\n")
         
         try:
+            # Essayer d'abord avec python -m mnamer
             result = subprocess.run(
-                ['mnamer', '-b', '-r', str(self.dossier)],
+                ['python', '-m', 'mnamer', '-b', '-r', str(self.dossier)],
                 capture_output=True,
-                text=True
+                text=True,
+                timeout=300  # 5 minutes max
             )
             
             if result.returncode == 0:
@@ -277,14 +280,24 @@ class MovieProcessor:
                 print(f"⚠️  Avertissement mnamer: {result.stderr}")
                 
         except FileNotFoundError:
-            print("❌ Erreur: mnamer n'est pas installé")
-            print("   Installez-le avec: pip install mnamer")
-            sys.exit(1)
+            if skip_if_error:
+                print("⚠️  mnamer non trouvé - étape ignorée")
+                print("   Les films seront traités avec leurs noms actuels")
+            else:
+                print("❌ Erreur: mnamer n'est pas accessible")
+                print("   Installez-le avec: pip install mnamer")
+                sys.exit(1)
+        except subprocess.TimeoutExpired:
+            print("⚠️  Timeout mnamer - étape ignorée (trop long)")
         except Exception as e:
-            print(f"❌ Erreur lors du renommage: {e}")
+            if skip_if_error:
+                print(f"⚠️  Erreur mnamer ({e}) - étape ignorée")
+            else:
+                print(f"❌ Erreur lors du renommage: {e}")
+                sys.exit(1)
     
     def telecharger_sous_titres(self, langues: List[str] = None):
-        """Télécharge les sous-titres pour tous les films"""
+        """Télécharge les sous-titres pour tous les films (uniquement si manquants)"""
         if langues is None:
             langues = ['eng']
         
@@ -293,9 +306,19 @@ class MovieProcessor:
         languages = {Language(lang) for lang in langues}
         videos_traitees = 0
         sous_titres_telecharges = 0
+        sous_titres_deja_presents = 0
         
         for fichier in self.dossier.rglob('*'):
             if fichier.suffix.lower() not in self.EXTENSIONS_VIDEO:
+                continue
+            
+            # Vérifier si les sous-titres existent déjà
+            srt_existant = self._trouver_sous_titres(fichier)
+            if srt_existant:
+                print(f"📁 {fichier.name}")
+                print(f"   ✅ Sous-titres déjà présents: {srt_existant.name}")
+                sous_titres_deja_presents += 1
+                videos_traitees += 1
                 continue
             
             print(f"📁 {fichier.name}")
@@ -326,7 +349,10 @@ class MovieProcessor:
             except Exception as e:
                 print(f"   ❌ Erreur: {e}")
         
-        print(f"\n📊 Résumé: {videos_traitees} vidéos traitées, {sous_titres_telecharges} sous-titres téléchargés")
+        print(f"\n📊 Résumé:")
+        print(f"   • Vidéos traitées: {videos_traitees}")
+        print(f"   • Sous-titres déjà présents: {sous_titres_deja_presents}")
+        print(f"   • Sous-titres téléchargés: {sous_titres_telecharges}")
     
     def charger_films(self):
         """Charge tous les films du dossier"""
@@ -437,17 +463,46 @@ def main():
     print("🎥 Renommage, sous-titres et extraction de vidéos (POO)")
     print("=" * 70)
     
-    dossier = r"E:\\film_oral\\Icefall (2025)"
+    # ==================== CONFIGURATION ====================
+    # Dossier racine contenant TOUS les films
+    dossier_racine = r"E:\film_oral"
+    
+    # Options de traitement
+    RENOMMER_AVEC_MNAMER = False  # Mettre True si mnamer fonctionne
+    TELECHARGER_SOUS_TITRES = True  # Télécharge les sous-titres manquants
+    INTERVALLE_SECONDES = 50  # Durée de chaque segment vidéo
+    LANGUES_SOUS_TITRES = ['eng']  # Langues des sous-titres
+    # ======================================================
+    
+    print(f"\n📂 Dossier à traiter: {dossier_racine}")
+    print("   Le script va chercher récursivement dans tous les sous-dossiers")
+    print(f"\n⚙️  Configuration:")
+    print(f"   • Renommage: {'OUI' if RENOMMER_AVEC_MNAMER else 'NON (ignoré)'}")
+    print(f"   • Téléchargement sous-titres: {'OUI' if TELECHARGER_SOUS_TITRES else 'NON (utilise les .srt existants)'}")
+    print(f"   • Intervalle: {INTERVALLE_SECONDES}s par segment")
+    print()
     
     # Traitement
-    processor = MovieProcessor(dossier)
+    processor = MovieProcessor(dossier_racine)
     
-    processor.renommer_avec_mnamer()
-    processor.telecharger_sous_titres(langues=['eng'])
+    if RENOMMER_AVEC_MNAMER:
+        processor.renommer_avec_mnamer(skip_if_error=True)
+    else:
+        print("\n🎬 Étape 1: Renommage avec mnamer... IGNORÉ")
+    
+    if TELECHARGER_SOUS_TITRES:
+        processor.telecharger_sous_titres(langues=LANGUES_SOUS_TITRES)
+    else:
+        print("\n📥 Étape 2: Téléchargement des sous-titres... IGNORÉ")
+        print("   Le script utilisera les fichiers .srt déjà présents")
+    
     processor.charger_films()
-    processor.traiter_films(intervalle_secondes=50)
+    processor.traiter_films(intervalle_secondes=INTERVALLE_SECONDES)
     processor.generer_index_global()
     
+    print("\n" + "=" * 70)
+    print("✅ Traitement terminé!")
+    print("=" * 70)
 
 
 if __name__ == "__main__":

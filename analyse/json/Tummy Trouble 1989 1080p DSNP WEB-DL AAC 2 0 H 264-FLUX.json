@@ -1,0 +1,571 @@
+{
+  "movie_id": "Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX",
+  "movie_path": "E:\\film_oral\\Tummy Trouble (1989)\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX.mkv",
+  "subtitle_path": "E:\\film_oral\\Tummy Trouble (1989)\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX.en.srt",
+  "intervalle_secondes": 50,
+  "nombre_intervalles": 10,
+  "dossier_videos": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX",
+  "date_traitement": "2026-02-10T14:00:07.867153",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 50,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 50,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0000_time_0.00s-50.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 1,
+          "start": 49.175,
+          "end": 54.054,
+          "text": "Snookums, don't cry, Mommy will only be gone for an hour."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 50,
+      "intervalle_fin": 100,
+      "timecode_debut_extrait": 50,
+      "timecode_fin_extrait": 100,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0001_time_50.00s-100.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 2,
+          "start": 54.138,
+          "end": 59.351,
+          "text": "Uncle Roger will take care of you and everything's going to be just fine."
+        },
+        {
+          "index": 3,
+          "start": 59.727,
+          "end": 61.978,
+          "text": "Not like last time!"
+        },
+        {
+          "index": 4,
+          "start": 62.063,
+          "end": 65.19,
+          "text": "Don't worry about a thing. I've learned my lesson."
+        },
+        {
+          "index": 5,
+          "start": 65.274,
+          "end": 69.486,
+          "text": "I'm a reformed rabbit, a better bunny, a happy hare."
+        },
+        {
+          "index": 6,
+          "start": 73.616,
+          "end": 77.577,
+          "text": "You don't want to get your old pal Roger in trouble, do you?"
+        },
+        {
+          "index": 7,
+          "start": 77.662,
+          "end": 79.788,
+          "text": "I know. Ta-da!"
+        },
+        {
+          "index": 8,
+          "start": 80.831,
+          "end": 84.376,
+          "text": "Look, it's a bright shiny rattle."
+        },
+        {
+          "index": 9,
+          "start": 92.718,
+          "end": 98.181,
+          "text": "Jeepers, somebody call 911, call 911!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 100,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 100,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0002_time_100.00s-150.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 10,
+          "start": 110.695,
+          "end": 113.697,
+          "text": "Please be okay, Baby Herman."
+        },
+        {
+          "index": 11,
+          "start": 114.24,
+          "end": 118.285,
+          "text": "Why does everything happen to you? Why couldn't it happen to me?"
+        },
+        {
+          "index": 12,
+          "start": 119.495,
+          "end": 121.162,
+          "text": "To me."
+        },
+        {
+          "index": 13,
+          "start": 121.872,
+          "end": 123.498,
+          "text": "Oh!"
+        },
+        {
+          "index": 14,
+          "start": 125.042,
+          "end": 127.502,
+          "text": "Baby wants his bottle."
+        },
+        {
+          "index": 15,
+          "start": 127.586,
+          "end": 131.298,
+          "text": "<i>Rock-a-bye, baby On the treetop</i>"
+        },
+        {
+          "index": 16,
+          "start": 131.382,
+          "end": 133.675,
+          "text": "Oh! Oh! Oh!"
+        },
+        {
+          "index": 17,
+          "start": 138.681,
+          "end": 141.141,
+          "text": "Look, it's the rattle!"
+        },
+        {
+          "index": 18,
+          "start": 141.225,
+          "end": 143.81,
+          "text": "Baby Herman, our problems are over."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 150,
+      "intervalle_fin": 200,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 200,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0003_time_150.00s-200.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 19,
+          "start": 150.609,
+          "end": 154.237,
+          "text": "Rattle, rattle, rattle."
+        },
+        {
+          "index": 20,
+          "start": 163.039,
+          "end": 166.333,
+          "text": "Baby Herman swallowed rattle."
+        },
+        {
+          "index": 21,
+          "start": 168.919,
+          "end": 172.13,
+          "text": "- Yep, this is him. - Hey, what's going on here?"
+        },
+        {
+          "index": 22,
+          "start": 173.549,
+          "end": 176.217,
+          "text": "Jeepers, what are you doing?"
+        },
+        {
+          "index": 23,
+          "start": 176.302,
+          "end": 179.804,
+          "text": "You guys are making a big mistake. You don't know who I am."
+        },
+        {
+          "index": 24,
+          "start": 185.603,
+          "end": 187.645,
+          "text": "Anesthetic!"
+        },
+        {
+          "index": 25,
+          "start": 195.738,
+          "end": 197.03,
+          "text": "Oh!"
+        },
+        {
+          "index": 26,
+          "start": 197.114,
+          "end": 198.782,
+          "text": "Bottle."
+        },
+        {
+          "index": 27,
+          "start": 199.95,
+          "end": 200.95,
+          "text": "Oh!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 200,
+      "intervalle_fin": 250,
+      "timecode_debut_extrait": 200,
+      "timecode_fin_extrait": 250,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0004_time_200.00s-250.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 28,
+          "start": 208.376,
+          "end": 210.335,
+          "text": "Bottle. Ah!"
+        },
+        {
+          "index": 29,
+          "start": 211.629,
+          "end": 213.546,
+          "text": "Very serious."
+        },
+        {
+          "index": 30,
+          "start": 213.631,
+          "end": 215.548,
+          "text": "We must operate immediately."
+        },
+        {
+          "index": 31,
+          "start": 215.633,
+          "end": 217.342,
+          "text": "Let's get him onto the table."
+        },
+        {
+          "index": 32,
+          "start": 220.346,
+          "end": 224.516,
+          "text": "Hey, let go of the cotton, you swab."
+        },
+        {
+          "index": 33,
+          "start": 234.568,
+          "end": 235.902,
+          "text": "Okay, let's cut him open."
+        },
+        {
+          "index": 34,
+          "start": 236.153,
+          "end": 238.988,
+          "text": "Just give me a bicarb, I'll be fine."
+        },
+        {
+          "index": 35,
+          "start": 243.494,
+          "end": 244.494,
+          "text": "Lunch!"
+        },
+        {
+          "index": 36,
+          "start": 247.832,
+          "end": 249.249,
+          "text": "Oh!"
+        },
+        {
+          "index": 37,
+          "start": 249.333,
+          "end": 252.544,
+          "text": "Hey, it's Baby Herman! Jeepers, am I glad to..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 250,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 250,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0005_time_250.00s-300.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 38,
+          "start": 252.628,
+          "end": 254.254,
+          "text": "Hey, where are you going?"
+        },
+        {
+          "index": 39,
+          "start": 254.338,
+          "end": 256.339,
+          "text": "Bottle. Oh!"
+        },
+        {
+          "index": 40,
+          "start": 257.007,
+          "end": 258.508,
+          "text": "Big bottle."
+        },
+        {
+          "index": 41,
+          "start": 258.843,
+          "end": 263.763,
+          "text": "Hey, Baby, that's not your bottle. Come back, come back."
+        },
+        {
+          "index": 42,
+          "start": 263.848,
+          "end": 266.266,
+          "text": "That's not your bottle!"
+        },
+        {
+          "index": 43,
+          "start": 266.35,
+          "end": 269.686,
+          "text": "Don't worry, Baby, I'll get you."
+        },
+        {
+          "index": 44,
+          "start": 269.77,
+          "end": 271.604,
+          "text": "Wow!"
+        },
+        {
+          "index": 45,
+          "start": 271.689,
+          "end": 274.524,
+          "text": "Baby Herman, come down from there."
+        },
+        {
+          "index": 46,
+          "start": 294.503,
+          "end": 295.837,
+          "text": "Look out!"
+        },
+        {
+          "index": 47,
+          "start": 295.921,
+          "end": 298.047,
+          "text": "- Oh! - I'll catch you!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 300,
+      "intervalle_fin": 350,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 350,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0006_time_300.00s-350.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 48,
+          "start": 322.072,
+          "end": 323.114,
+          "text": "Got you!"
+        },
+        {
+          "index": 49,
+          "start": 331.916,
+          "end": 334.167,
+          "text": "Baby Herman, I'll catch you."
+        },
+        {
+          "index": 50,
+          "start": 340.257,
+          "end": 342.967,
+          "text": "Gruesome, isn't it, folks?"
+        },
+        {
+          "index": 51,
+          "start": 345.513,
+          "end": 348.223,
+          "text": "Baby Herman. Baby, Baby..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 350,
+      "intervalle_fin": 400,
+      "timecode_debut_extrait": 350,
+      "timecode_fin_extrait": 400,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0007_time_350.00s-400.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 52,
+          "start": 356.69,
+          "end": 358.191,
+          "text": "Wow!"
+        },
+        {
+          "index": 53,
+          "start": 358.859,
+          "end": 364.531,
+          "text": "Well, Baby Herman, it looks like smooth sailing from now on."
+        },
+        {
+          "index": 54,
+          "start": 366.951,
+          "end": 368.785,
+          "text": "Oh, no!"
+        },
+        {
+          "index": 55,
+          "start": 389.431,
+          "end": 393.017,
+          "text": "Baby Herman, the rattle, we're cured."
+        },
+        {
+          "index": 56,
+          "start": 393.102,
+          "end": 395.562,
+          "text": "Thank goodness for modern medicine."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 400,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 400,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0008_time_400.00s-450.00s.mp4",
+      "nombre_sous_titres": 16,
+      "sous_titres": [
+        {
+          "index": 57,
+          "start": 411.036,
+          "end": 412.62,
+          "text": "Cut. That was great."
+        },
+        {
+          "index": 58,
+          "start": 412.705,
+          "end": 415.039,
+          "text": "If I have to swallow that rattle one more time,"
+        },
+        {
+          "index": 59,
+          "start": 415.124,
+          "end": 417.333,
+          "text": "I'm gonna puke my guts out."
+        },
+        {
+          "index": 60,
+          "start": 417.418,
+          "end": 418.626,
+          "text": "Get me out of this thing."
+        },
+        {
+          "index": 61,
+          "start": 418.711,
+          "end": 420.753,
+          "text": "Jeepers, Baby Herman, calm down."
+        },
+        {
+          "index": 62,
+          "start": 420.838,
+          "end": 423.214,
+          "text": "- This ain't funny, call my agent. - You'll give yourself a heart attack."
+        },
+        {
+          "index": 63,
+          "start": 423.299,
+          "end": 424.424,
+          "text": "This is no way to treat a star."
+        },
+        {
+          "index": 64,
+          "start": 424.508,
+          "end": 427.51,
+          "text": "All right, Baby Herman, you were stupendous. Oh!"
+        },
+        {
+          "index": 65,
+          "start": 427.678,
+          "end": 432.515,
+          "text": "Roger, honey bunny, let's go home and play."
+        },
+        {
+          "index": 66,
+          "start": 432.641,
+          "end": 437.061,
+          "text": "Jeepers, what do we play? Tiddlywinks, canasta, Parcheesi?"
+        },
+        {
+          "index": 67,
+          "start": 437.146,
+          "end": 440.815,
+          "text": "Oh, how about a little patty-cake instead?"
+        },
+        {
+          "index": 68,
+          "start": 440.899,
+          "end": 443.276,
+          "text": "Patty-cake? Jeepers."
+        },
+        {
+          "index": 69,
+          "start": 443.36,
+          "end": 445.111,
+          "text": "Good night, Larry."
+        },
+        {
+          "index": 70,
+          "start": 445.195,
+          "end": 447.196,
+          "text": "Okay, that's a wrap, folks."
+        },
+        {
+          "index": 71,
+          "start": 447.531,
+          "end": 448.531,
+          "text": "All right, great, great."
+        },
+        {
+          "index": 72,
+          "start": 448.616,
+          "end": 450.033,
+          "text": "- Save the lights. - Good night."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 450,
+      "intervalle_fin": 483.754,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 483.754,
+      "video_path": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX\\interval_0009_time_450.00s-483.75s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 73,
+          "start": 450.367,
+          "end": 452.035,
+          "text": "Good night, Tweet-o."
+        },
+        {
+          "index": 74,
+          "start": 452.87,
+          "end": 453.995,
+          "text": "Good night."
+        },
+        {
+          "index": 75,
+          "start": 454.663,
+          "end": 455.663,
+          "text": "Oh!"
+        }
+      ]
+    }
+  ]
+}

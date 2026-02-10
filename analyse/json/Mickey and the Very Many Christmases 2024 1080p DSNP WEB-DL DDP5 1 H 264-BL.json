@@ -1,0 +1,2991 @@
+{
+  "movie_id": "Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL",
+  "movie_path": "E:\\film_oral\\Mickey and the Very Many Christmases (2024)\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL.mkv",
+  "subtitle_path": "E:\\film_oral\\Mickey and the Very Many Christmases (2024)\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL.en.srt",
+  "intervalle_secondes": 50,
+  "nombre_intervalles": 26,
+  "dossier_videos": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL",
+  "date_traitement": "2026-02-10T12:46:32.181151",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 50,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 50,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0000_time_0.00s-50.00s.mp4",
+      "nombre_sous_titres": 21,
+      "sous_titres": [
+        {
+          "index": 1,
+          "start": 1.7930000000000001,
+          "end": 3.378,
+          "text": "[Mickey reading]"
+        },
+        {
+          "index": 2,
+          "start": 5.756,
+          "end": 7.216,
+          "text": "[Santa Claus] Ho! Ho! Ho!"
+        },
+        {
+          "index": 3,
+          "start": 7.716,
+          "end": 9.76,
+          "text": "Merry Christmas!"
+        },
+        {
+          "index": 4,
+          "start": 9.843,
+          "end": 10.844,
+          "text": "[yawns]"
+        },
+        {
+          "index": 5,
+          "start": 11.22,
+          "end": 12.304,
+          "text": "Pluto! Wake up!"
+        },
+        {
+          "index": 6,
+          "start": 12.471,
+          "end": 14.556000000000001,
+          "text": "-It's Christmas! -[Pluto barks]"
+        },
+        {
+          "index": 7,
+          "start": 14.64,
+          "end": 15.891,
+          "text": "[Mickey exclaiming]"
+        },
+        {
+          "index": 8,
+          "start": 16.308,
+          "end": 17.726,
+          "text": "Okay, boy. Okay. [chuckles]"
+        },
+        {
+          "index": 9,
+          "start": 18.393,
+          "end": 19.686,
+          "text": "Ooh, hot dog."
+        },
+        {
+          "index": 10,
+          "start": 20.27,
+          "end": 22.94,
+          "text": "The best day of the year is finally here!"
+        },
+        {
+          "index": 11,
+          "start": 23.148,
+          "end": 24.233,
+          "text": "-[barks] -[doorbell rings]"
+        },
+        {
+          "index": 12,
+          "start": 24.316,
+          "end": 26.485,
+          "text": "[all] Merry Christmas, Mickey!"
+        },
+        {
+          "index": 13,
+          "start": 26.568,
+          "end": 28.57,
+          "text": "Oh, [chuckles] Merry Christmas!"
+        },
+        {
+          "index": 14,
+          "start": 28.862,
+          "end": 29.988,
+          "text": "Wait for me!"
+        },
+        {
+          "index": 15,
+          "start": 31.156,
+          "end": 32.658,
+          "text": "[exclaims]"
+        },
+        {
+          "index": 16,
+          "start": 34.743,
+          "end": 36.036,
+          "text": "Yahoo!"
+        },
+        {
+          "index": 17,
+          "start": 37.162,
+          "end": 38.956,
+          "text": "Thanks for the save, Donald."
+        },
+        {
+          "index": 18,
+          "start": 39.289,
+          "end": 41.333,
+          "text": "You bet. [chuckles]"
+        },
+        {
+          "index": 19,
+          "start": 42.125,
+          "end": 43.418,
+          "text": "The day just started,"
+        },
+        {
+          "index": 20,
+          "start": 43.502,
+          "end": 46.797,
+          "text": "and we already have a brand new Christmas memory."
+        },
+        {
+          "index": 21,
+          "start": 47.339,
+          "end": 49.633,
+          "text": "[Minnie chuckles] We sure do."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 50,
+      "intervalle_fin": 100,
+      "timecode_debut_extrait": 50,
+      "timecode_fin_extrait": 100,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0001_time_50.00s-100.00s.mp4",
+      "nombre_sous_titres": 21,
+      "sous_titres": [
+        {
+          "index": 22,
+          "start": 51.093,
+          "end": 53.053,
+          "text": "-Your sweater... -It's on backwards."
+        },
+        {
+          "index": 23,
+          "start": 53.595,
+          "end": 56.223,
+          "text": "[chuckles] Make that two new Christmas memories."
+        },
+        {
+          "index": 24,
+          "start": 57.266,
+          "end": 58.934,
+          "text": "[all singing] <i>♪ Oh, what fun is to ride ♪</i>"
+        },
+        {
+          "index": 25,
+          "start": 59.017,
+          "end": 61.103,
+          "text": "<i>-♪ In a one-horse open sleigh ♪</i> -[all cheer]"
+        },
+        {
+          "index": 26,
+          "start": 61.186,
+          "end": 63.48,
+          "text": "Anyone wants some more hot cocoa?"
+        },
+        {
+          "index": 27,
+          "start": 63.563,
+          "end": 66.441,
+          "text": "I could drink hot cocoa all day."
+        },
+        {
+          "index": 28,
+          "start": 67.401,
+          "end": 69.695,
+          "text": "Now let's open some presents."
+        },
+        {
+          "index": 29,
+          "start": 69.778,
+          "end": 70.862,
+          "text": "[Donald] All right!"
+        },
+        {
+          "index": 30,
+          "start": 71.446,
+          "end": 72.531,
+          "text": "Silly socks."
+        },
+        {
+          "index": 31,
+          "start": 72.614,
+          "end": 74.366,
+          "text": "[chuckles] Love 'em!"
+        },
+        {
+          "index": 32,
+          "start": 74.7,
+          "end": 76.451,
+          "text": "[chuckles] Cozy mittens."
+        },
+        {
+          "index": 33,
+          "start": 77.286,
+          "end": 78.954,
+          "text": "Toy boat."
+        },
+        {
+          "index": 34,
+          "start": 79.413,
+          "end": 80.789,
+          "text": "And this one's for you, Minnie."
+        },
+        {
+          "index": 35,
+          "start": 81.29,
+          "end": 83.959,
+          "text": "Ooh. My favorite chocolates."
+        },
+        {
+          "index": 36,
+          "start": 85.127,
+          "end": 86.336,
+          "text": "Uh-oh. [chuckles nervously]"
+        },
+        {
+          "index": 37,
+          "start": 86.795,
+          "end": 88.589,
+          "text": "I guess the fire was kind of hot."
+        },
+        {
+          "index": 38,
+          "start": 88.672,
+          "end": 91.675,
+          "text": "It's still a delicious, new Christmas memory."
+        },
+        {
+          "index": 39,
+          "start": 92.05,
+          "end": 93.468,
+          "text": "-[slurps] -[camera shutter clicks]"
+        },
+        {
+          "index": 40,
+          "start": 94.177,
+          "end": 96.513,
+          "text": "Ooh, let's give Mickey his present."
+        },
+        {
+          "index": 41,
+          "start": 98.348,
+          "end": 99.349,
+          "text": "[Goofy chuckles]"
+        },
+        {
+          "index": 42,
+          "start": 99.975,
+          "end": 102.352,
+          "text": "It has pictures of the memories we've made"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 100,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 100,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0002_time_100.00s-150.00s.mp4",
+      "nombre_sous_titres": 17,
+      "sous_titres": [
+        {
+          "index": 43,
+          "start": 102.519,
+          "end": 105.564,
+          "text": "over all the Christmases we've spent together."
+        },
+        {
+          "index": 44,
+          "start": 106.315,
+          "end": 109.067,
+          "text": "We know how much you love your Christmas memories, Mickey"
+        },
+        {
+          "index": 45,
+          "start": 109.151,
+          "end": 111.278,
+          "text": "They're the best part of Christmas."
+        },
+        {
+          "index": 46,
+          "start": 111.57,
+          "end": 115.032,
+          "text": "[singing] <i>♪ There was that time</i> <i>when we got snowed inside ♪</i>"
+        },
+        {
+          "index": 47,
+          "start": 115.115,
+          "end": 119.328,
+          "text": "<i>♪ And remember the year</i> <i>of that epic sleigh ride ♪</i>"
+        },
+        {
+          "index": 48,
+          "start": 119.411,
+          "end": 121.079,
+          "text": "<i>♪ Looking backwards ♪</i>"
+        },
+        {
+          "index": 49,
+          "start": 121.163,
+          "end": 122.956,
+          "text": "<i>♪ I just love to see ♪</i>"
+        },
+        {
+          "index": 50,
+          "start": 123.373,
+          "end": 126.209,
+          "text": "<i>♪ All our Christmas memories ♪</i>"
+        },
+        {
+          "index": 51,
+          "start": 126.293,
+          "end": 128.503,
+          "text": "<i>♪ Christmas memories ♪</i>"
+        },
+        {
+          "index": 52,
+          "start": 128.879,
+          "end": 131.715,
+          "text": "<i>♪ A snowball fight</i> <i>How we played and we laughed ♪</i>"
+        },
+        {
+          "index": 53,
+          "start": 131.798,
+          "end": 133.425,
+          "text": "<i>♪ Brings a smile to my face ♪</i>"
+        },
+        {
+          "index": 54,
+          "start": 134.259,
+          "end": 136.261,
+          "text": "<i>♪ Jolly days from our past ♪</i>"
+        },
+        {
+          "index": 55,
+          "start": 136.345,
+          "end": 140.015,
+          "text": "[Mickey] <i>♪ Hope you know</i> <i>how much it means to me ♪</i>"
+        },
+        {
+          "index": 56,
+          "start": 140.098,
+          "end": 141.975,
+          "text": "<i>♪ All our Christmas memories ♪</i>"
+        },
+        {
+          "index": 57,
+          "start": 142.351,
+          "end": 144.561,
+          "text": "[all] <i>♪ Christmas memories ♪</i>"
+        },
+        {
+          "index": 58,
+          "start": 144.645,
+          "end": 146.48,
+          "text": "[Mickey] <i>♪ Christmas comes</i> <i>just once a year ♪</i>"
+        },
+        {
+          "index": 59,
+          "start": 146.563,
+          "end": 149.399,
+          "text": "<i>♪ Making memories</i> <i>we'll hold dear forever ♪</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 150,
+      "intervalle_fin": 200,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 200,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0003_time_150.00s-200.00s.mp4",
+      "nombre_sous_titres": 21,
+      "sous_titres": [
+        {
+          "index": 60,
+          "start": 150.4,
+          "end": 152.319,
+          "text": "<i>♪ But when it ends</i> <i>don't shed a tear ♪</i>"
+        },
+        {
+          "index": 61,
+          "start": 152.402,
+          "end": 154.529,
+          "text": "<i>♪ Just think of all</i> <i>the joy and cheer ♪</i>"
+        },
+        {
+          "index": 62,
+          "start": 154.613,
+          "end": 157.074,
+          "text": "<i>♪ We shared together... ♪</i>"
+        },
+        {
+          "index": 63,
+          "start": 157.157,
+          "end": 159.66,
+          "text": "[Minnie] <i>♪ A day on ice</i> <i>I will never forget ♪</i>"
+        },
+        {
+          "index": 64,
+          "start": 159.868,
+          "end": 161.703,
+          "text": "[Daisy] <i>♪ Could have been yesterday ♪</i>"
+        },
+        {
+          "index": 65,
+          "start": 161.787,
+          "end": 163.747,
+          "text": "<i>♪ Still feel cold,</i> <i>still feel wet ♪</i>"
+        },
+        {
+          "index": 66,
+          "start": 163.83,
+          "end": 167.793,
+          "text": "<i>♪ I will treasure this book</i> <i>you've given me ♪</i>"
+        },
+        {
+          "index": 67,
+          "start": 167.876,
+          "end": 170.212,
+          "text": "<i>♪ All our Christmas memories ♪</i>"
+        },
+        {
+          "index": 68,
+          "start": 170.379,
+          "end": 173.59,
+          "text": "<i>♪ Christmas memories ♪</i>"
+        },
+        {
+          "index": 69,
+          "start": 173.799,
+          "end": 176.843,
+          "text": "<i>♪ All our Christmas memories ♪</i>"
+        },
+        {
+          "index": 70,
+          "start": 177.719,
+          "end": 179.054,
+          "text": "-[all laughing] -[howls]"
+        },
+        {
+          "index": 71,
+          "start": 179.388,
+          "end": 180.389,
+          "text": "Aww."
+        },
+        {
+          "index": 72,
+          "start": 180.472,
+          "end": 182.391,
+          "text": "Another great Christmas."
+        },
+        {
+          "index": 73,
+          "start": 182.641,
+          "end": 185.06,
+          "text": "Whoa, whoa, whoa, wait. It can't be over yet."
+        },
+        {
+          "index": 74,
+          "start": 185.519,
+          "end": 187.187,
+          "text": "Um, what about this present?"
+        },
+        {
+          "index": 75,
+          "start": 187.604,
+          "end": 189.022,
+          "text": "That's from me to the gang."
+        },
+        {
+          "index": 76,
+          "start": 189.564,
+          "end": 191.733,
+          "text": "You'll never guess what it is."
+        },
+        {
+          "index": 77,
+          "start": 191.817,
+          "end": 193.11,
+          "text": "-[all] A sled? -A sled."
+        },
+        {
+          "index": 78,
+          "start": 193.443,
+          "end": 195.07,
+          "text": "Hey, how'd you guess?"
+        },
+        {
+          "index": 79,
+          "start": 195.57,
+          "end": 198.824,
+          "text": "Say, let's take a ride together right now."
+        },
+        {
+          "index": 80,
+          "start": 199.282,
+          "end": 201.576,
+          "text": "There's tons more Christmas Day left."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 200,
+      "intervalle_fin": 250,
+      "timecode_debut_extrait": 200,
+      "timecode_fin_extrait": 250,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0004_time_200.00s-250.00s.mp4",
+      "nombre_sous_titres": 13,
+      "sous_titres": [
+        {
+          "index": 81,
+          "start": 201.785,
+          "end": 203.412,
+          "text": "[all cheering]"
+        },
+        {
+          "index": 82,
+          "start": 206.415,
+          "end": 207.416,
+          "text": "Hot dog."
+        },
+        {
+          "index": 83,
+          "start": 213.755,
+          "end": 216.758,
+          "text": "The decorations look just as great as they did last year."
+        },
+        {
+          "index": 84,
+          "start": 217.259,
+          "end": 219.928,
+          "text": "-I don't remember seeing that before. -[train horn blows]"
+        },
+        {
+          "index": 85,
+          "start": 220.72,
+          "end": 222.347,
+          "text": "[Minnie] I wonder what it is."
+        },
+        {
+          "index": 86,
+          "start": 224.224,
+          "end": 225.225,
+          "text": "[horn blows]"
+        },
+        {
+          "index": 87,
+          "start": 229.312,
+          "end": 231.857,
+          "text": "<i>♪ Welcome to our village ♪</i>"
+        },
+        {
+          "index": 88,
+          "start": 232.023,
+          "end": 234.86,
+          "text": "<i>♪ Good friends</i> <i>from far and near ♪</i>"
+        },
+        {
+          "index": 89,
+          "start": 235.152,
+          "end": 238.28,
+          "text": "<i>♪ We hope</i> <i>our magic wonderland ♪</i>"
+        },
+        {
+          "index": 90,
+          "start": 238.488,
+          "end": 241.116,
+          "text": "<i>♪ Will bring you</i> <i>Christmas cheer ♪</i>"
+        },
+        {
+          "index": 91,
+          "start": 241.324,
+          "end": 244.453,
+          "text": "<i>♪ And when the season's over ♪</i>"
+        },
+        {
+          "index": 92,
+          "start": 244.536,
+          "end": 246.705,
+          "text": "<i>♪ Remember what to do ♪</i>"
+        },
+        {
+          "index": 93,
+          "start": 247.497,
+          "end": 250.459,
+          "text": "<i>♪ Let memories</i> <i>of this happy place ♪</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 250,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 250,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0005_time_250.00s-300.00s.mp4",
+      "nombre_sous_titres": 18,
+      "sous_titres": [
+        {
+          "index": 94,
+          "start": 250.625,
+          "end": 254.838,
+          "text": "<i>♪ Bring Christmas</i> <i>back to you ♪</i>"
+        },
+        {
+          "index": 95,
+          "start": 254.921,
+          "end": 255.964,
+          "text": "[train horn blows]"
+        },
+        {
+          "index": 96,
+          "start": 260.051,
+          "end": 262.763,
+          "text": "Wow, that is some model train."
+        },
+        {
+          "index": 97,
+          "start": 263.472,
+          "end": 265.766,
+          "text": "-[Donald gasps] -It's no ordinary model train."
+        },
+        {
+          "index": 98,
+          "start": 266.224,
+          "end": 268.31,
+          "text": "I'm Twinkles."
+        },
+        {
+          "index": 99,
+          "start": 268.393,
+          "end": 270.979,
+          "text": "-[chuckles] -And that, my festive friends,"
+        },
+        {
+          "index": 100,
+          "start": 271.062,
+          "end": 273.732,
+          "text": "is a chance to make your Christmas wishes come true."
+        },
+        {
+          "index": 101,
+          "start": 273.815,
+          "end": 275.817,
+          "text": "-Really? -Let me at it."
+        },
+        {
+          "index": 102,
+          "start": 275.901,
+          "end": 277.319,
+          "text": "Uh-uh-uh. [chuckles]"
+        },
+        {
+          "index": 103,
+          "start": 277.652,
+          "end": 279.196,
+          "text": "Now, hang on a merry minute."
+        },
+        {
+          "index": 104,
+          "start": 279.529,
+          "end": 280.739,
+          "text": "Before you make that wish,"
+        },
+        {
+          "index": 105,
+          "start": 280.906,
+          "end": 282.532,
+          "text": "you gotta land one of these coins"
+        },
+        {
+          "index": 106,
+          "start": 283.074,
+          "end": 285.452,
+          "text": "in the train party, with a star."
+        },
+        {
+          "index": 107,
+          "start": 286.161,
+          "end": 287.662,
+          "text": "It's a tricky shot."
+        },
+        {
+          "index": 108,
+          "start": 287.996,
+          "end": 291.333,
+          "text": "But if you make it, whatever you wish will come true."
+        },
+        {
+          "index": 109,
+          "start": 291.625,
+          "end": 293.084,
+          "text": "[Minnie] Ooh, let's try it."
+        },
+        {
+          "index": 110,
+          "start": 296.421,
+          "end": 297.589,
+          "text": "Oh."
+        },
+        {
+          "index": 111,
+          "start": 297.672,
+          "end": 298.673,
+          "text": "Hmm."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 300,
+      "intervalle_fin": 350,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 350,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0006_time_300.00s-350.00s.mp4",
+      "nombre_sous_titres": 17,
+      "sous_titres": [
+        {
+          "index": 112,
+          "start": 300.967,
+          "end": 301.968,
+          "text": "Gawrsh."
+        },
+        {
+          "index": 113,
+          "start": 311.019,
+          "end": 312.229,
+          "text": "[exclaims]"
+        },
+        {
+          "index": 114,
+          "start": 312.521,
+          "end": 313.522,
+          "text": "Hey!"
+        },
+        {
+          "index": 115,
+          "start": 313.605,
+          "end": 316.024,
+          "text": "[chuckles] Another new Christmas memory."
+        },
+        {
+          "index": 116,
+          "start": 316.566,
+          "end": 318.443,
+          "text": "Mickey, aren't you going to try?"
+        },
+        {
+          "index": 117,
+          "start": 318.527,
+          "end": 321.029,
+          "text": "Oh, gosh, what would I even wish for?"
+        },
+        {
+          "index": 118,
+          "start": 321.696,
+          "end": 322.697,
+          "text": "Today is Christmas."
+        },
+        {
+          "index": 119,
+          "start": 323.156,
+          "end": 324.991,
+          "text": "The best day of the year."
+        },
+        {
+          "index": 120,
+          "start": 325.283,
+          "end": 327.786,
+          "text": "[chuckles] I can't wish for anything better than that."
+        },
+        {
+          "index": 121,
+          "start": 327.869,
+          "end": 329.996,
+          "text": "It sure was a great day."
+        },
+        {
+          "index": 122,
+          "start": 330.372,
+          "end": 332.707,
+          "text": "[yawns] Good night, everyone."
+        },
+        {
+          "index": 123,
+          "start": 333.124,
+          "end": 334.209,
+          "text": "Why are we stopping?"
+        },
+        {
+          "index": 124,
+          "start": 334.292,
+          "end": 336.545,
+          "text": "Well, it's getting kind of late."
+        },
+        {
+          "index": 125,
+          "start": 336.628,
+          "end": 340.257,
+          "text": "Yeah, it's bedtime for me. Merry Christmas, everyone."
+        },
+        {
+          "index": 126,
+          "start": 340.34,
+          "end": 342.217,
+          "text": "-Oh, wait. -[all] Merry Christmas."
+        },
+        {
+          "index": 127,
+          "start": 345.762,
+          "end": 346.763,
+          "text": "Oh."
+        },
+        {
+          "index": 128,
+          "start": 348.265,
+          "end": 349.975,
+          "text": "I guess that's it, Pluto."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 350,
+      "intervalle_fin": 400,
+      "timecode_debut_extrait": 350,
+      "timecode_fin_extrait": 400,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0007_time_350.00s-400.00s.mp4",
+      "nombre_sous_titres": 14,
+      "sous_titres": [
+        {
+          "index": 129,
+          "start": 350.308,
+          "end": 352.644,
+          "text": "Another great Christmas come and gone."
+        },
+        {
+          "index": 130,
+          "start": 352.727,
+          "end": 354.062,
+          "text": "[train horn blows]"
+        },
+        {
+          "index": 131,
+          "start": 355.605,
+          "end": 357.357,
+          "text": "[dolls singing]"
+        },
+        {
+          "index": 132,
+          "start": 357.44,
+          "end": 361.444,
+          "text": "Maybe it doesn't have to go."
+        },
+        {
+          "index": 133,
+          "start": 361.528,
+          "end": 362.529,
+          "text": "Oh."
+        },
+        {
+          "index": 134,
+          "start": 362.612,
+          "end": 364.531,
+          "text": "All I gotta do is make a wish,"
+        },
+        {
+          "index": 135,
+          "start": 364.906,
+          "end": 368.159,
+          "text": "and land this coin in the car with the star."
+        },
+        {
+          "index": 136,
+          "start": 369.953,
+          "end": 371.037,
+          "text": "[breathes deeply]"
+        },
+        {
+          "index": 137,
+          "start": 372.038,
+          "end": 375.792,
+          "text": "I wish Christmas could last forever."
+        },
+        {
+          "index": 138,
+          "start": 384.676,
+          "end": 386.136,
+          "text": "Come on. Come on."
+        },
+        {
+          "index": 139,
+          "start": 389.556,
+          "end": 391.057,
+          "text": "Oh, jingles."
+        },
+        {
+          "index": 140,
+          "start": 391.766,
+          "end": 395.103,
+          "text": "I guess we have to wait another whole year for Christmas."
+        },
+        {
+          "index": 141,
+          "start": 395.52,
+          "end": 396.521,
+          "text": "[sighs]"
+        },
+        {
+          "index": 142,
+          "start": 396.605,
+          "end": 397.939,
+          "text": "[wind blowing]"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 400,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 400,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0008_time_400.00s-450.00s.mp4",
+      "nombre_sous_titres": 14,
+      "sous_titres": [
+        {
+          "index": 143,
+          "start": 419.419,
+          "end": 421.379,
+          "text": "[Santa Claus] Merry Christmas!"
+        },
+        {
+          "index": 144,
+          "start": 421.463,
+          "end": 422.714,
+          "text": "Huh? [mumbles]"
+        },
+        {
+          "index": 145,
+          "start": 422.797,
+          "end": 424.674,
+          "text": "-You say something, Pluto? -[barks]"
+        },
+        {
+          "index": 146,
+          "start": 425.175,
+          "end": 427.218,
+          "text": "Oh, not again. [laughs]"
+        },
+        {
+          "index": 147,
+          "start": 427.302,
+          "end": 429.346,
+          "text": "Merry Christmas, Mickey!"
+        },
+        {
+          "index": 148,
+          "start": 429.596,
+          "end": 431.306,
+          "text": "Ha-ha. Very funny."
+        },
+        {
+          "index": 149,
+          "start": 431.64,
+          "end": 434.017,
+          "text": "I think you mean, \"Very festive.\""
+        },
+        {
+          "index": 150,
+          "start": 434.1,
+          "end": 435.268,
+          "text": "Wait for me!"
+        },
+        {
+          "index": 151,
+          "start": 436.186,
+          "end": 438.021,
+          "text": "[exclaiming]"
+        },
+        {
+          "index": 152,
+          "start": 438.772,
+          "end": 440.148,
+          "text": "Yahoo!"
+        },
+        {
+          "index": 153,
+          "start": 441.191,
+          "end": 443.026,
+          "text": "Thanks for the save, Donald."
+        },
+        {
+          "index": 154,
+          "start": 443.318,
+          "end": 444.819,
+          "text": "You bet. [chuckles]"
+        },
+        {
+          "index": 155,
+          "start": 445.111,
+          "end": 448.99,
+          "text": "Huh. How could something so silly happen two days in a row?"
+        },
+        {
+          "index": 156,
+          "start": 449.824,
+          "end": 450.909,
+          "text": "[all laughing]"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 450,
+      "intervalle_fin": 500,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 500,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0009_time_450.00s-500.00s.mp4",
+      "nombre_sous_titres": 21,
+      "sous_titres": [
+        {
+          "index": 157,
+          "start": 451.242,
+          "end": 452.535,
+          "text": "What? What's so funny?"
+        },
+        {
+          "index": 158,
+          "start": 452.619,
+          "end": 454.162,
+          "text": "Your sweater's on backwards."
+        },
+        {
+          "index": 159,
+          "start": 454.496,
+          "end": 458.291,
+          "text": "Again? But I only wear my special Christmas sweater on Christmas."
+        },
+        {
+          "index": 160,
+          "start": 458.5,
+          "end": 460.46,
+          "text": "Yes, and today's Christmas."
+        },
+        {
+          "index": 161,
+          "start": 461.002,
+          "end": 462.212,
+          "text": "No, it isn't. It's..."
+        },
+        {
+          "index": 162,
+          "start": 463.004,
+          "end": 464.005,
+          "text": "Christmas?"
+        },
+        {
+          "index": 163,
+          "start": 464.714,
+          "end": 466.174,
+          "text": "Today is Christmas?"
+        },
+        {
+          "index": 164,
+          "start": 466.591,
+          "end": 468.802,
+          "text": "Yup! Christmas!"
+        },
+        {
+          "index": 165,
+          "start": 469.094,
+          "end": 471.346,
+          "text": "Well, in that case, come on, gang."
+        },
+        {
+          "index": 166,
+          "start": 471.596,
+          "end": 473.723,
+          "text": "Let's open presents!"
+        },
+        {
+          "index": 167,
+          "start": 474.14,
+          "end": 476.685,
+          "text": "The coin must have fallen into the train car, Pluto."
+        },
+        {
+          "index": 168,
+          "start": 477.185,
+          "end": 478.52,
+          "text": "My wish came true."
+        },
+        {
+          "index": 169,
+          "start": 478.77,
+          "end": 481.731,
+          "text": "And we get to have Christmas all over again."
+        },
+        {
+          "index": 170,
+          "start": 483.525,
+          "end": 485.527,
+          "text": "<i>♪ When I woke this morning ♪</i>"
+        },
+        {
+          "index": 171,
+          "start": 485.819,
+          "end": 487.779,
+          "text": "<i>♪ I thought that it would be ♪</i>"
+        },
+        {
+          "index": 172,
+          "start": 488.279,
+          "end": 490.073,
+          "text": "<i>♪ December 26th ♪</i>"
+        },
+        {
+          "index": 173,
+          "start": 490.365,
+          "end": 492.867,
+          "text": "<i>♪ But instead,</i> <i>what do I see? ♪</i>"
+        },
+        {
+          "index": 174,
+          "start": 493.201,
+          "end": 495.662,
+          "text": "<i>♪ This holly</i> <i>jolly wonderland ♪</i>"
+        },
+        {
+          "index": 175,
+          "start": 495.829,
+          "end": 497.622,
+          "text": "<i>♪ Can only mean one thing ♪</i>"
+        },
+        {
+          "index": 176,
+          "start": 498.123,
+          "end": 499.332,
+          "text": "<i>♪ My wish came true ♪</i>"
+        },
+        {
+          "index": 177,
+          "start": 499.416,
+          "end": 500.5,
+          "text": "<i>♪ Oh, whoop-de-do ♪</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 500,
+      "intervalle_fin": 550,
+      "timecode_debut_extrait": 500,
+      "timecode_fin_extrait": 550,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0010_time_500.00s-550.00s.mp4",
+      "nombre_sous_titres": 19,
+      "sous_titres": [
+        {
+          "index": 178,
+          "start": 500.583,
+          "end": 502.502,
+          "text": "<i>♪ And now my heart</i> <i>can't help but sing ♪</i>"
+        },
+        {
+          "index": 179,
+          "start": 502.752,
+          "end": 504.629,
+          "text": "<i>♪ 'Cause it's Christmas ♪</i>"
+        },
+        {
+          "index": 180,
+          "start": 505.004,
+          "end": 507.215,
+          "text": "<i>♪ Yeah, it's Christmas ♪</i>"
+        },
+        {
+          "index": 181,
+          "start": 507.382,
+          "end": 509.884,
+          "text": "<i>♪ Oh, it's Christmas ♪</i>"
+        },
+        {
+          "index": 182,
+          "start": 510.093,
+          "end": 512.22,
+          "text": "<i>♪ All over again ♪</i>"
+        },
+        {
+          "index": 183,
+          "start": 513.054,
+          "end": 514.848,
+          "text": "<i>♪ No need to wait a year ♪</i>"
+        },
+        {
+          "index": 184,
+          "start": 514.931,
+          "end": 517.809,
+          "text": "<i>♪ To do more Christmas stuff</i> <i>we love ♪</i>"
+        },
+        {
+          "index": 185,
+          "start": 517.892,
+          "end": 520.228,
+          "text": "<i>♪ Like singing around</i> <i>the fireplace ♪</i>"
+        },
+        {
+          "index": 186,
+          "start": 520.311,
+          "end": 522.397,
+          "text": "<i>♪ While snow falls</i> <i>from above ♪</i>"
+        },
+        {
+          "index": 187,
+          "start": 522.856,
+          "end": 524.691,
+          "text": "<i>♪ I'll cherish every moment ♪</i>"
+        },
+        {
+          "index": 188,
+          "start": 525.4,
+          "end": 527.402,
+          "text": "<i>♪ As special as the first ♪</i>"
+        },
+        {
+          "index": 189,
+          "start": 527.736,
+          "end": 529.821,
+          "text": "<i>♪ The cocoas,</i> <i>sled ride, presents ♪</i>"
+        },
+        {
+          "index": 190,
+          "start": 529.904,
+          "end": 534.409,
+          "text": "<i>♪ Oh, my spirit</i> <i>just might burst ♪</i>"
+        },
+        {
+          "index": 191,
+          "start": 535.91,
+          "end": 538.288,
+          "text": "<i>♪ Because it's Christmas ♪</i>"
+        },
+        {
+          "index": 192,
+          "start": 538.371,
+          "end": 540.623,
+          "text": "<i>♪ Magical Christmas ♪</i>"
+        },
+        {
+          "index": 193,
+          "start": 540.707,
+          "end": 542.751,
+          "text": "<i>♪ Beautiful Christmas ♪</i>"
+        },
+        {
+          "index": 194,
+          "start": 543.501,
+          "end": 545.754,
+          "text": "<i>♪ All over again ♪</i>"
+        },
+        {
+          "index": 195,
+          "start": 546.087,
+          "end": 547.839,
+          "text": "<i>♪ Yes, it's Christmas ♪</i>"
+        },
+        {
+          "index": 196,
+          "start": 548.131,
+          "end": 550.133,
+          "text": "<i>♪ Christmasy Christmas ♪</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 550,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 550,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0011_time_550.00s-600.00s.mp4",
+      "nombre_sous_titres": 21,
+      "sous_titres": [
+        {
+          "index": 197,
+          "start": 550.675,
+          "end": 552.844,
+          "text": "<i>♪ Oh, boy, it's Christmas ♪</i>"
+        },
+        {
+          "index": 198,
+          "start": 553.386,
+          "end": 555.68,
+          "text": "<i>♪ All over again ♪</i>"
+        },
+        {
+          "index": 199,
+          "start": 555.764,
+          "end": 557.974,
+          "text": "<i>♪ All over again ♪</i>"
+        },
+        {
+          "index": 200,
+          "start": 558.224,
+          "end": 561.77,
+          "text": "<i>♪ All over again ♪</i>"
+        },
+        {
+          "index": 201,
+          "start": 562.687,
+          "end": 563.813,
+          "text": "Whoo!"
+        },
+        {
+          "index": 202,
+          "start": 564.355,
+          "end": 566.357,
+          "text": "Well, that was another great..."
+        },
+        {
+          "index": 203,
+          "start": 566.441,
+          "end": 567.442,
+          "text": "Christmas!"
+        },
+        {
+          "index": 204,
+          "start": 568.193,
+          "end": 569.277,
+          "text": "[gasps] Pluto!"
+        },
+        {
+          "index": 205,
+          "start": 569.611,
+          "end": 571.654,
+          "text": "-I think it's happening again! -[barks]"
+        },
+        {
+          "index": 206,
+          "start": 571.738,
+          "end": 572.989,
+          "text": "[laughs]"
+        },
+        {
+          "index": 207,
+          "start": 573.073,
+          "end": 575.075,
+          "text": "Merry Christmas, Mickey!"
+        },
+        {
+          "index": 208,
+          "start": 575.45,
+          "end": 577.744,
+          "text": "Merry Christmas again. [chuckles]"
+        },
+        {
+          "index": 209,
+          "start": 578.119,
+          "end": 579.954,
+          "text": "-Huh? -Wait for me!"
+        },
+        {
+          "index": 210,
+          "start": 582.165,
+          "end": 583.583,
+          "text": "What'd you do that for?"
+        },
+        {
+          "index": 211,
+          "start": 584.125,
+          "end": 586.169,
+          "text": "[chuckles] I didn't want you to trip on it."
+        },
+        {
+          "index": 212,
+          "start": 586.419,
+          "end": 588.046,
+          "text": "Oh. Thanks, buddy."
+        },
+        {
+          "index": 213,
+          "start": 589.547,
+          "end": 591.758,
+          "text": "Huh. I guess when nothing new happens,"
+        },
+        {
+          "index": 214,
+          "start": 591.841,
+          "end": 593.843,
+          "text": "it's not much of a Christmas memory, is it?"
+        },
+        {
+          "index": 215,
+          "start": 594.135,
+          "end": 596.012,
+          "text": "<i>♪ Oh what fun it is to ride ♪</i>"
+        },
+        {
+          "index": 216,
+          "start": 596.096,
+          "end": 598.598,
+          "text": "<i>♪ In a one-horse</i> <i>open sleigh, hey! ♪</i>"
+        },
+        {
+          "index": 217,
+          "start": 598.807,
+          "end": 600.308,
+          "text": "Oh, Minnie."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 600,
+      "intervalle_fin": 650,
+      "timecode_debut_extrait": 600,
+      "timecode_fin_extrait": 650,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0012_time_600.00s-650.00s.mp4",
+      "nombre_sous_titres": 21,
+      "sous_titres": [
+        {
+          "index": 218,
+          "start": 600.85,
+          "end": 604.479,
+          "text": "I got you something that I did not leave by the hot fire."
+        },
+        {
+          "index": 219,
+          "start": 604.854,
+          "end": 606.648,
+          "text": "My favorite chocolates."
+        },
+        {
+          "index": 220,
+          "start": 606.731,
+          "end": 608.024,
+          "text": "Oh, thank you."
+        },
+        {
+          "index": 221,
+          "start": 608.108,
+          "end": 611.903,
+          "text": "Yep. Just normal, unmelted chocolates."
+        },
+        {
+          "index": 222,
+          "start": 612.278,
+          "end": 613.279,
+          "text": "Hmm."
+        },
+        {
+          "index": 223,
+          "start": 613.53,
+          "end": 614.781,
+          "text": "Is everything okay?"
+        },
+        {
+          "index": 224,
+          "start": 615.323,
+          "end": 617.867,
+          "text": "You've hardly taken any pictures today."
+        },
+        {
+          "index": 225,
+          "start": 618.159,
+          "end": 620.203,
+          "text": "The thing is, there just haven't been"
+        },
+        {
+          "index": 226,
+          "start": 620.286,
+          "end": 621.788,
+          "text": "many new Christmas memories."
+        },
+        {
+          "index": 227,
+          "start": 622.872,
+          "end": 624.958,
+          "text": "But you're right. Let's take a picture."
+        },
+        {
+          "index": 228,
+          "start": 625.041,
+          "end": 626.501,
+          "text": "-[camera beeping] -Huh."
+        },
+        {
+          "index": 229,
+          "start": 627.043,
+          "end": 628.044,
+          "text": "It's not working."
+        },
+        {
+          "index": 230,
+          "start": 628.336,
+          "end": 630.463,
+          "text": "-Anyone wanna guess what-- -It's a sled."
+        },
+        {
+          "index": 231,
+          "start": 632.257,
+          "end": 634.217,
+          "text": "[gasps] Uh, lucky guess? [chuckles]"
+        },
+        {
+          "index": 232,
+          "start": 635.26,
+          "end": 637.679,
+          "text": "[all cheering]"
+        },
+        {
+          "index": 233,
+          "start": 638.304,
+          "end": 640.056,
+          "text": "It's getting kind of late."
+        },
+        {
+          "index": 234,
+          "start": 640.14,
+          "end": 641.766,
+          "text": "Good night, everyone."
+        },
+        {
+          "index": 235,
+          "start": 642.058,
+          "end": 643.518,
+          "text": "[all] Merry Christmas!"
+        },
+        {
+          "index": 236,
+          "start": 644.519,
+          "end": 645.645,
+          "text": "I don't know, Pluto."
+        },
+        {
+          "index": 237,
+          "start": 645.854,
+          "end": 647.897,
+          "text": "Having Christmas every day is fun and all,"
+        },
+        {
+          "index": 238,
+          "start": 648.69,
+          "end": 650.066,
+          "text": "but three in a row is plenty."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 650,
+      "intervalle_fin": 700,
+      "timecode_debut_extrait": 650,
+      "timecode_fin_extrait": 700,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0013_time_650.00s-700.00s.mp4",
+      "nombre_sous_titres": 17,
+      "sous_titres": [
+        {
+          "index": 239,
+          "start": 650.358,
+          "end": 654.445,
+          "text": "I mean, [chuckles] this can't just keep happening forever. Right?"
+        },
+        {
+          "index": 240,
+          "start": 654.529,
+          "end": 656.531,
+          "text": "Merry Christmas!"
+        },
+        {
+          "index": 241,
+          "start": 656.781,
+          "end": 658.283,
+          "text": "-Oh, no. -[barks]"
+        },
+        {
+          "index": 242,
+          "start": 658.366,
+          "end": 659.701,
+          "text": "Not again!"
+        },
+        {
+          "index": 243,
+          "start": 659.993,
+          "end": 661.995,
+          "text": "Merry Christmas, Mickey!"
+        },
+        {
+          "index": 244,
+          "start": 662.078,
+          "end": 663.163,
+          "text": "Wait for me!"
+        },
+        {
+          "index": 245,
+          "start": 663.58,
+          "end": 665.373,
+          "text": "[exclaiming]"
+        },
+        {
+          "index": 246,
+          "start": 667.375,
+          "end": 669.21,
+          "text": "That's a new Christmas memory."
+        },
+        {
+          "index": 247,
+          "start": 669.544,
+          "end": 671.379,
+          "text": "Not to me. [sighs]"
+        },
+        {
+          "index": 248,
+          "start": 672.172,
+          "end": 674.215,
+          "text": "-Merry Christmas! -[Pluto barks]"
+        },
+        {
+          "index": 249,
+          "start": 675.925,
+          "end": 676.926,
+          "text": "[grumbles]"
+        },
+        {
+          "index": 250,
+          "start": 684.058,
+          "end": 686.019,
+          "text": "[all singing] <i>♪ Oh, what fun is to ride ♪</i>"
+        },
+        {
+          "index": 251,
+          "start": 686.102,
+          "end": 688.771,
+          "text": "<i>♪ In a one-horse</i> <i>open sleigh, hey! ♪</i>"
+        },
+        {
+          "index": 252,
+          "start": 688.938,
+          "end": 690.773,
+          "text": "Merry Christmas!"
+        },
+        {
+          "index": 253,
+          "start": 690.857,
+          "end": 691.858,
+          "text": "[barks]"
+        },
+        {
+          "index": 254,
+          "start": 697.113,
+          "end": 698.823,
+          "text": "-You'll never guess. -Sled."
+        },
+        {
+          "index": 255,
+          "start": 699.532,
+          "end": 702.452,
+          "text": "-Merry Christmas! -[barks]"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 700,
+      "intervalle_fin": 750,
+      "timecode_debut_extrait": 700,
+      "timecode_fin_extrait": 750,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0014_time_700.00s-750.00s.mp4",
+      "nombre_sous_titres": 25,
+      "sous_titres": [
+        {
+          "index": 256,
+          "start": 703.161,
+          "end": 705.997,
+          "text": "<i>♪ ...to ride in a one-horse</i> <i>open sleigh, hey! ♪</i>"
+        },
+        {
+          "index": 257,
+          "start": 706.08,
+          "end": 707.832,
+          "text": "[Santa] Ho! Ho! Ho!"
+        },
+        {
+          "index": 258,
+          "start": 708.416,
+          "end": 709.626,
+          "text": "-[barks] -Whoa!"
+        },
+        {
+          "index": 259,
+          "start": 709.959,
+          "end": 711.92,
+          "text": "-Merry Christmas, Mickey! -No!"
+        },
+        {
+          "index": 260,
+          "start": 712.17,
+          "end": 713.171,
+          "text": "No, it's not."
+        },
+        {
+          "index": 261,
+          "start": 713.463,
+          "end": 715.84,
+          "text": "There is nothing merry about Christmas anymore."
+        },
+        {
+          "index": 262,
+          "start": 715.924,
+          "end": 716.966,
+          "text": "-[gasps] -Huh?"
+        },
+        {
+          "index": 263,
+          "start": 717.217,
+          "end": 718.885,
+          "text": "What are you talking about?"
+        },
+        {
+          "index": 264,
+          "start": 719.177,
+          "end": 721.095,
+          "text": "When I wished Christmas could last forever,"
+        },
+        {
+          "index": 265,
+          "start": 721.304,
+          "end": 723.348,
+          "text": "I didn't mean the exact same day"
+        },
+        {
+          "index": 266,
+          "start": 723.598,
+          "end": 724.933,
+          "text": "over and over again."
+        },
+        {
+          "index": 267,
+          "start": 725.266,
+          "end": 726.267,
+          "text": "[Mickey sighs]"
+        },
+        {
+          "index": 268,
+          "start": 726.559,
+          "end": 727.977,
+          "text": "I should have never made a wish"
+        },
+        {
+          "index": 269,
+          "start": 728.061,
+          "end": 729.687,
+          "text": "on that magic Christmas train."
+        },
+        {
+          "index": 270,
+          "start": 729.771,
+          "end": 732.44,
+          "text": "Magic Christmas train?"
+        },
+        {
+          "index": 271,
+          "start": 732.69,
+          "end": 733.691,
+          "text": "Watch."
+        },
+        {
+          "index": 272,
+          "start": 733.775,
+          "end": 735.777,
+          "text": "Goofy's gonna come running, and he'll shout..."
+        },
+        {
+          "index": 273,
+          "start": 735.985,
+          "end": 737.403,
+          "text": "[both] Wait for me!"
+        },
+        {
+          "index": 274,
+          "start": 737.612,
+          "end": 739.405,
+          "text": "[Mickey] Then he'll slip on my welcome mat."
+        },
+        {
+          "index": 275,
+          "start": 739.489,
+          "end": 740.698,
+          "text": "[exclaiming]"
+        },
+        {
+          "index": 276,
+          "start": 740.782,
+          "end": 742.2,
+          "text": "[Mickey] Minnie will catch the mat,"
+        },
+        {
+          "index": 277,
+          "start": 742.283,
+          "end": 743.576,
+          "text": "I'll catch the present,"
+        },
+        {
+          "index": 278,
+          "start": 743.826,
+          "end": 746.955,
+          "text": "and Donald will catch Goofy inside his sweater."
+        },
+        {
+          "index": 279,
+          "start": 747.33,
+          "end": 748.373,
+          "text": "Then he'll say..."
+        },
+        {
+          "index": 280,
+          "start": 748.456,
+          "end": 750.124,
+          "text": "[both chuckle] Thanks for the save, Donald."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 750,
+      "intervalle_fin": 800,
+      "timecode_debut_extrait": 750,
+      "timecode_fin_extrait": 800,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0015_time_750.00s-800.00s.mp4",
+      "nombre_sous_titres": 21,
+      "sous_titres": [
+        {
+          "index": 281,
+          "start": 750.458,
+          "end": 751.459,
+          "text": "[both] You bet."
+        },
+        {
+          "index": 282,
+          "start": 751.834,
+          "end": 752.835,
+          "text": "-[Donald gasps] -Gosh."
+        },
+        {
+          "index": 283,
+          "start": 752.919,
+          "end": 753.92,
+          "text": "[sighs]"
+        },
+        {
+          "index": 284,
+          "start": 754.128,
+          "end": 756.214,
+          "text": "I even know what my special present is."
+        },
+        {
+          "index": 285,
+          "start": 756.881,
+          "end": 758.633,
+          "text": "It's a photo album with pictures"
+        },
+        {
+          "index": 286,
+          "start": 758.716,
+          "end": 761.469,
+          "text": "of all of our special Christmas memories."
+        },
+        {
+          "index": 287,
+          "start": 761.97,
+          "end": 764.681,
+          "text": "[gasps] You really do know."
+        },
+        {
+          "index": 288,
+          "start": 764.764,
+          "end": 766.516,
+          "text": "Making memories with my friends"
+        },
+        {
+          "index": 289,
+          "start": 766.766,
+          "end": 768.81,
+          "text": "used to be the best part of Christmas."
+        },
+        {
+          "index": 290,
+          "start": 769.686,
+          "end": 773.147,
+          "text": "-But now I can't make any new ones. -[camera beeps]"
+        },
+        {
+          "index": 291,
+          "start": 773.231,
+          "end": 774.732,
+          "text": "And this is all because you wished"
+        },
+        {
+          "index": 292,
+          "start": 774.941,
+          "end": 776.484,
+          "text": "Christmas could last forever?"
+        },
+        {
+          "index": 293,
+          "start": 776.567,
+          "end": 777.568,
+          "text": "Uh-huh."
+        },
+        {
+          "index": 294,
+          "start": 777.652,
+          "end": 778.653,
+          "text": "[all gasp]"
+        },
+        {
+          "index": 295,
+          "start": 778.736,
+          "end": 781.948,
+          "text": "Well, do you think you could un-wish your wish?"
+        },
+        {
+          "index": 296,
+          "start": 782.991,
+          "end": 783.992,
+          "text": "Huh."
+        },
+        {
+          "index": 297,
+          "start": 786.452,
+          "end": 788.246,
+          "text": "[train horn blowing]"
+        },
+        {
+          "index": 298,
+          "start": 789.455,
+          "end": 791.666,
+          "text": "Hello, you beautiful gold coin."
+        },
+        {
+          "index": 299,
+          "start": 793.167,
+          "end": 796.087,
+          "text": "[gasps] And a jolly, holly hello to you, too."
+        },
+        {
+          "index": 300,
+          "start": 796.587,
+          "end": 798.715,
+          "text": "Now, if you're gonna make another wish,"
+        },
+        {
+          "index": 301,
+          "start": 798.798,
+          "end": 801.009,
+          "text": "think it over carefully."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 800,
+      "intervalle_fin": 850,
+      "timecode_debut_extrait": 800,
+      "timecode_fin_extrait": 850,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0016_time_800.00s-850.00s.mp4",
+      "nombre_sous_titres": 11,
+      "sous_titres": [
+        {
+          "index": 302,
+          "start": 801.092,
+          "end": 802.552,
+          "text": "[humming]"
+        },
+        {
+          "index": 303,
+          "start": 802.635,
+          "end": 805.847,
+          "text": "A Christmas wish is a powerful thing."
+        },
+        {
+          "index": 304,
+          "start": 806.055,
+          "end": 808.891,
+          "text": "[gasps] I know exactly what to wish for."
+        },
+        {
+          "index": 305,
+          "start": 814.23,
+          "end": 815.356,
+          "text": "[train horn blows]"
+        },
+        {
+          "index": 306,
+          "start": 820.32,
+          "end": 821.32,
+          "text": "Yes!"
+        },
+        {
+          "index": 307,
+          "start": 834.167,
+          "end": 835.209,
+          "text": "Did it work?"
+        },
+        {
+          "index": 308,
+          "start": 835.293,
+          "end": 837.628,
+          "text": "[gasps] Mickey! Your sweater!"
+        },
+        {
+          "index": 309,
+          "start": 838.046,
+          "end": 840.339,
+          "text": "This is my regular Tuesday sweater."
+        },
+        {
+          "index": 310,
+          "start": 840.548,
+          "end": 843.885,
+          "text": "And this is our regular Tuesday town. It worked!"
+        },
+        {
+          "index": 311,
+          "start": 843.968,
+          "end": 847.472,
+          "text": "-It's a no-Christmas miracle! -[Daisy] Hey!"
+        },
+        {
+          "index": 312,
+          "start": 848.222,
+          "end": 850.099,
+          "text": "Where'd my Christmas mittens go?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 850,
+      "intervalle_fin": 900,
+      "timecode_debut_extrait": 850,
+      "timecode_fin_extrait": 900,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0017_time_850.00s-900.00s.mp4",
+      "nombre_sous_titres": 21,
+      "sous_titres": [
+        {
+          "index": 313,
+          "start": 850.433,
+          "end": 852.185,
+          "text": "There goes our sled."
+        },
+        {
+          "index": 314,
+          "start": 852.268,
+          "end": 853.728,
+          "text": "And my toy boat!"
+        },
+        {
+          "index": 315,
+          "start": 853.978,
+          "end": 855.855,
+          "text": "Oh! Our photo album!"
+        },
+        {
+          "index": 316,
+          "start": 856.564,
+          "end": 858.399,
+          "text": "The pictures are disappearing."
+        },
+        {
+          "index": 317,
+          "start": 858.733,
+          "end": 861.069,
+          "text": "From all of our Christmases together."
+        },
+        {
+          "index": 318,
+          "start": 861.319,
+          "end": 862.32,
+          "text": "Huh?"
+        },
+        {
+          "index": 319,
+          "start": 862.612,
+          "end": 864.697,
+          "text": "Twinkles, what's going on?"
+        },
+        {
+          "index": 320,
+          "start": 865.698,
+          "end": 868.034,
+          "text": "Your wish came true, Mickey."
+        },
+        {
+          "index": 321,
+          "start": 868.493,
+          "end": 869.494,
+          "text": "[gasps]"
+        },
+        {
+          "index": 322,
+          "start": 869.994,
+          "end": 870.995,
+          "text": "Um, Mickey."
+        },
+        {
+          "index": 323,
+          "start": 871.287,
+          "end": 873.623,
+          "text": "What exactly did you wish for?"
+        },
+        {
+          "index": 324,
+          "start": 873.79,
+          "end": 877.21,
+          "text": "I, uh, wished it would stop being Christmas."
+        },
+        {
+          "index": 325,
+          "start": 877.46,
+          "end": 879.712,
+          "text": "Until next year, right?"
+        },
+        {
+          "index": 326,
+          "start": 880.254,
+          "end": 881.756,
+          "text": "I might have left that part out."
+        },
+        {
+          "index": 327,
+          "start": 882.09,
+          "end": 885.259,
+          "text": "Gawrsh, I think you might have wished Christmas away..."
+        },
+        {
+          "index": 328,
+          "start": 885.593,
+          "end": 887.386,
+          "text": "[gulps] forever!"
+        },
+        {
+          "index": 329,
+          "start": 887.762,
+          "end": 890.264,
+          "text": "No more Christmas?"
+        },
+        {
+          "index": 330,
+          "start": 890.807,
+          "end": 893.768,
+          "text": "[yelping]"
+        },
+        {
+          "index": 331,
+          "start": 893.976,
+          "end": 895.103,
+          "text": "Oh, jingles."
+        },
+        {
+          "index": 332,
+          "start": 895.603,
+          "end": 897.522,
+          "text": "There's gotta be a way to get Christmas back."
+        },
+        {
+          "index": 333,
+          "start": 898.94,
+          "end": 901.692,
+          "text": "Quick. Back to the Christmas train!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 900,
+      "intervalle_fin": 950,
+      "timecode_debut_extrait": 900,
+      "timecode_fin_extrait": 950,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0018_time_900.00s-950.00s.mp4",
+      "nombre_sous_titres": 22,
+      "sous_titres": [
+        {
+          "index": 334,
+          "start": 901.776,
+          "end": 903.444,
+          "text": "[dolls singing]"
+        },
+        {
+          "index": 335,
+          "start": 905.279,
+          "end": 906.28,
+          "text": "It's gone."
+        },
+        {
+          "index": 336,
+          "start": 906.823,
+          "end": 909.951,
+          "text": "Without that train, I can't un-wish my wish."
+        },
+        {
+          "index": 337,
+          "start": 910.451,
+          "end": 911.828,
+          "text": "And if I can't un-wish my wish,"
+        },
+        {
+          "index": 338,
+          "start": 912.328,
+          "end": 914.205,
+          "text": "then Christmas is gone"
+        },
+        {
+          "index": 339,
+          "start": 915.039,
+          "end": 916.04,
+          "text": "forever!"
+        },
+        {
+          "index": 340,
+          "start": 917.625,
+          "end": 918.626,
+          "text": "[gasps]"
+        },
+        {
+          "index": 341,
+          "start": 919.961,
+          "end": 922.171,
+          "text": "Well, at least we still have"
+        },
+        {
+          "index": 342,
+          "start": 922.255,
+          "end": 924.674,
+          "text": "our wonderful Christmas memories."
+        },
+        {
+          "index": 343,
+          "start": 925.299,
+          "end": 928.136,
+          "text": "Yep, just like in that song."
+        },
+        {
+          "index": 344,
+          "start": 928.386,
+          "end": 929.387,
+          "text": "What song?"
+        },
+        {
+          "index": 345,
+          "start": 929.47,
+          "end": 930.972,
+          "text": "From the Christmas train."
+        },
+        {
+          "index": 346,
+          "start": 931.055,
+          "end": 933.266,
+          "text": "The one all those carolers were singing."
+        },
+        {
+          "index": 347,
+          "start": 933.641,
+          "end": 936.31,
+          "text": "<i>♪ Let memories</i> <i>of this something place ♪</i>"
+        },
+        {
+          "index": 348,
+          "start": 936.644,
+          "end": 937.687,
+          "text": "<i>♪ Something ♪</i>"
+        },
+        {
+          "index": 349,
+          "start": 937.77,
+          "end": 939.689,
+          "text": "<i>♪ Christmas, something ♪</i>"
+        },
+        {
+          "index": 350,
+          "start": 939.772,
+          "end": 940.898,
+          "text": "[humming]"
+        },
+        {
+          "index": 351,
+          "start": 940.982,
+          "end": 942.15,
+          "text": "-[train horn blows] -Hang on."
+        },
+        {
+          "index": 352,
+          "start": 942.692,
+          "end": 943.693,
+          "text": "Did you hear that?"
+        },
+        {
+          "index": 353,
+          "start": 943.776,
+          "end": 945.736,
+          "text": "It sounded like the Christmas train."
+        },
+        {
+          "index": 354,
+          "start": 945.82,
+          "end": 946.904,
+          "text": "[Goofy continues humming]"
+        },
+        {
+          "index": 355,
+          "start": 947.613,
+          "end": 950.366,
+          "text": "<i>-♪ Boom, boom, boom ♪</i> -[train horn blows]"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 950,
+      "intervalle_fin": 1000,
+      "timecode_debut_extrait": 950,
+      "timecode_fin_extrait": 1000,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0019_time_950.00s-1000.00s.mp4",
+      "nombre_sous_titres": 15,
+      "sous_titres": [
+        {
+          "index": 356,
+          "start": 950.449,
+          "end": 952.201,
+          "text": "[gasps] It's getting closer."
+        },
+        {
+          "index": 357,
+          "start": 952.869,
+          "end": 956.706,
+          "text": "[gasps] Maybe the song is bringing the train back!"
+        },
+        {
+          "index": 358,
+          "start": 958.833,
+          "end": 961.46,
+          "text": "<i>♪ Welcome to our village ♪</i>"
+        },
+        {
+          "index": 359,
+          "start": 961.669,
+          "end": 965.006,
+          "text": "<i>♪ Good friends</i> <i>from far and near ♪</i>"
+        },
+        {
+          "index": 360,
+          "start": 966.507,
+          "end": 969.719,
+          "text": "<i>♪ We hope</i> <i>our magic wonderland ♪</i>"
+        },
+        {
+          "index": 361,
+          "start": 969.802,
+          "end": 971.22,
+          "text": "<i>♪ Will bring you ♪</i>"
+        },
+        {
+          "index": 362,
+          "start": 973.764,
+          "end": 975.349,
+          "text": "<i>♪ Christmas cheer ♪</i>"
+        },
+        {
+          "index": 363,
+          "start": 975.433,
+          "end": 976.934,
+          "text": "-[train horn blows] -Keep going!"
+        },
+        {
+          "index": 364,
+          "start": 977.56,
+          "end": 979.979,
+          "text": "<i>♪ And when the season's over ♪</i>"
+        },
+        {
+          "index": 365,
+          "start": 980.73,
+          "end": 983.441,
+          "text": "<i>♪ Remember what to do ♪</i>"
+        },
+        {
+          "index": 366,
+          "start": 983.983,
+          "end": 987.028,
+          "text": "<i>♪ Let memories</i> <i>of this happy place ♪</i>"
+        },
+        {
+          "index": 367,
+          "start": 987.361,
+          "end": 992.366,
+          "text": "<i>♪ Bring Christmas back</i> <i>to you ♪</i>"
+        },
+        {
+          "index": 368,
+          "start": 993.367,
+          "end": 994.702,
+          "text": "[train horn blows]"
+        },
+        {
+          "index": 369,
+          "start": 996.495,
+          "end": 997.496,
+          "text": "[gasps]"
+        },
+        {
+          "index": 370,
+          "start": 998.956,
+          "end": 1000.958,
+          "text": "It's one of the coins for the train."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 1000,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1000,
+      "timecode_fin_extrait": 1050,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0020_time_1000.00s-1050.00s.mp4",
+      "nombre_sous_titres": 12,
+      "sous_titres": [
+        {
+          "index": 371,
+          "start": 1001.209,
+          "end": 1002.877,
+          "text": "[gasps] Mickey, look!"
+        },
+        {
+          "index": 372,
+          "start": 1003.711,
+          "end": 1005.504,
+          "text": "I can see your Christmas sweater."
+        },
+        {
+          "index": 373,
+          "start": 1006.923,
+          "end": 1009.008,
+          "text": "[Daisy] Through the coin, it's still Christmas."
+        },
+        {
+          "index": 374,
+          "start": 1009.425,
+          "end": 1010.843,
+          "text": "Just like we remember it."
+        },
+        {
+          "index": 375,
+          "start": 1011.844,
+          "end": 1013.971,
+          "text": "\"Let memories of this happy place"
+        },
+        {
+          "index": 376,
+          "start": 1014.513,
+          "end": 1016.515,
+          "text": "bring Christmas back to you.\""
+        },
+        {
+          "index": 377,
+          "start": 1030.863,
+          "end": 1033.824,
+          "text": "<i>♪ Let memories</i> <i>of this happy place ♪</i>"
+        },
+        {
+          "index": 378,
+          "start": 1033.908,
+          "end": 1038.913,
+          "text": "<i>♪ Bring Christmas back</i> <i>to you ♪</i>"
+        },
+        {
+          "index": 379,
+          "start": 1040.665,
+          "end": 1042.75,
+          "text": "[Mickey] I think we're inside the model village."
+        },
+        {
+          "index": 380,
+          "start": 1043.084,
+          "end": 1045.253,
+          "text": "There's Christmas everywhere!"
+        },
+        {
+          "index": 381,
+          "start": 1045.503,
+          "end": 1047.63,
+          "text": "-Oh, yeah! -[gasps]"
+        },
+        {
+          "index": 382,
+          "start": 1048.047,
+          "end": 1050.091,
+          "text": "The photo album! It's back!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1100,
+      "timecode_debut_extrait": 1050,
+      "timecode_fin_extrait": 1100,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0021_time_1050.00s-1100.00s.mp4",
+      "nombre_sous_titres": 20,
+      "sous_titres": [
+        {
+          "index": 383,
+          "start": 1050.591,
+          "end": 1052.593,
+          "text": "And there's the star car."
+        },
+        {
+          "index": 384,
+          "start": 1052.677,
+          "end": 1054.095,
+          "text": "[train horn blows]"
+        },
+        {
+          "index": 385,
+          "start": 1056.138,
+          "end": 1058.724,
+          "text": "-[barks] -And you, Christmas cookie,"
+        },
+        {
+          "index": 386,
+          "start": 1059.016,
+          "end": 1062.103,
+          "text": "-have my very last gold coin. -[gasps]"
+        },
+        {
+          "index": 387,
+          "start": 1063.563,
+          "end": 1064.689,
+          "text": "If you make this shot,"
+        },
+        {
+          "index": 388,
+          "start": 1064.772,
+          "end": 1066.107,
+          "text": "you can fix all this"
+        },
+        {
+          "index": 389,
+          "start": 1066.482,
+          "end": 1068.15,
+          "text": "and bring Christmas back."
+        },
+        {
+          "index": 390,
+          "start": 1068.776,
+          "end": 1069.944,
+          "text": "You better not miss."
+        },
+        {
+          "index": 391,
+          "start": 1070.903,
+          "end": 1072.363,
+          "text": "Well, you heard Twinkles."
+        },
+        {
+          "index": 392,
+          "start": 1072.572,
+          "end": 1074.115,
+          "text": "It's the last coin."
+        },
+        {
+          "index": 393,
+          "start": 1074.574,
+          "end": 1075.866,
+          "text": "But no pressure."
+        },
+        {
+          "index": 394,
+          "start": 1075.95,
+          "end": 1078.536,
+          "text": "Promise you're going to wish for Christmas to come once a year?"
+        },
+        {
+          "index": 395,
+          "start": 1078.744,
+          "end": 1080.288,
+          "text": "No more and no less?"
+        },
+        {
+          "index": 396,
+          "start": 1080.538,
+          "end": 1081.914,
+          "text": "Yep, once a year."
+        },
+        {
+          "index": 397,
+          "start": 1082.331,
+          "end": 1084.125,
+          "text": "That way, we can make new memories"
+        },
+        {
+          "index": 398,
+          "start": 1084.292,
+          "end": 1085.418,
+          "text": "each and every time."
+        },
+        {
+          "index": 399,
+          "start": 1085.96,
+          "end": 1088.671,
+          "text": "-Now, help me get to that train. -[train horn blows]"
+        },
+        {
+          "index": 400,
+          "start": 1091.966,
+          "end": 1092.967,
+          "text": "[all gasp]"
+        },
+        {
+          "index": 401,
+          "start": 1095.219,
+          "end": 1096.262,
+          "text": "[train horn blows]"
+        },
+        {
+          "index": 402,
+          "start": 1098.639,
+          "end": 1100.558,
+          "text": "[Mickey] We can catch up with the train there."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 1100,
+      "intervalle_fin": 1150,
+      "timecode_debut_extrait": 1100,
+      "timecode_fin_extrait": 1150,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0022_time_1100.00s-1150.00s.mp4",
+      "nombre_sous_titres": 15,
+      "sous_titres": [
+        {
+          "index": 403,
+          "start": 1100.641,
+          "end": 1103.394,
+          "text": "But how did we get past the snowball fight?"
+        },
+        {
+          "index": 404,
+          "start": 1103.728,
+          "end": 1104.729,
+          "text": "Goofy."
+        },
+        {
+          "index": 405,
+          "start": 1104.812,
+          "end": 1107.148,
+          "text": "Remember how you won our big Christmas snowball fight?"
+        },
+        {
+          "index": 406,
+          "start": 1107.481,
+          "end": 1109.859,
+          "text": "Yep. And I got you covered."
+        },
+        {
+          "index": 407,
+          "start": 1113.321,
+          "end": 1115.156,
+          "text": "Wa-hoo-hoo-hoo!"
+        },
+        {
+          "index": 408,
+          "start": 1115.531,
+          "end": 1116.866,
+          "text": "I think we're gonna make it."
+        },
+        {
+          "index": 409,
+          "start": 1117.158,
+          "end": 1118.242,
+          "text": "[train horn blows]"
+        },
+        {
+          "index": 410,
+          "start": 1120.369,
+          "end": 1121.495,
+          "text": "Keep moving!"
+        },
+        {
+          "index": 411,
+          "start": 1121.996,
+          "end": 1124.123,
+          "text": "You've got to save Christmas!"
+        },
+        {
+          "index": 412,
+          "start": 1125.875,
+          "end": 1126.917,
+          "text": "[gasps]"
+        },
+        {
+          "index": 413,
+          "start": 1127.001,
+          "end": 1128.794,
+          "text": "[all quacking]"
+        },
+        {
+          "index": 414,
+          "start": 1130.88,
+          "end": 1133.049,
+          "text": "We can get past them if we form a chain."
+        },
+        {
+          "index": 415,
+          "start": 1133.382,
+          "end": 1135.384,
+          "text": "-Like we did... -[both] Last Christmas."
+        },
+        {
+          "index": 416,
+          "start": 1136.052,
+          "end": 1137.928,
+          "text": "Follow me and hang on."
+        },
+        {
+          "index": 417,
+          "start": 1144.393,
+          "end": 1147.021,
+          "text": "Get ready, Mickey! Let go!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 1150,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1150,
+      "timecode_fin_extrait": 1200,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0023_time_1150.00s-1200.00s.mp4",
+      "nombre_sous_titres": 14,
+      "sous_titres": [
+        {
+          "index": 418,
+          "start": 1158.074,
+          "end": 1160.701,
+          "text": "I've got to get up high enough to have a good shot."
+        },
+        {
+          "index": 419,
+          "start": 1163.829,
+          "end": 1164.997,
+          "text": "[Goofy] Careful, Mick."
+        },
+        {
+          "index": 420,
+          "start": 1166.082,
+          "end": 1167.083,
+          "text": "Perfect."
+        },
+        {
+          "index": 421,
+          "start": 1167.166,
+          "end": 1168.167,
+          "text": "Easy shot."
+        },
+        {
+          "index": 422,
+          "start": 1170.002,
+          "end": 1171.295,
+          "text": "[train horn blows]"
+        },
+        {
+          "index": 423,
+          "start": 1171.379,
+          "end": 1172.38,
+          "text": "[exclaims]"
+        },
+        {
+          "index": 424,
+          "start": 1173.589,
+          "end": 1175.091,
+          "text": "[train horn blows]"
+        },
+        {
+          "index": 425,
+          "start": 1179.136,
+          "end": 1181.138,
+          "text": "No! Come back!"
+        },
+        {
+          "index": 426,
+          "start": 1181.43,
+          "end": 1183.224,
+          "text": "You can do it, Mickey!"
+        },
+        {
+          "index": 427,
+          "start": 1184.767,
+          "end": 1186.435,
+          "text": "Oh. [grunting]"
+        },
+        {
+          "index": 428,
+          "start": 1189.772,
+          "end": 1191.148,
+          "text": "[train horn blows]"
+        },
+        {
+          "index": 429,
+          "start": 1191.399,
+          "end": 1193.567,
+          "text": "I wish for Christmas Day"
+        },
+        {
+          "index": 430,
+          "start": 1194.11,
+          "end": 1195.945,
+          "text": "to come once a year."
+        },
+        {
+          "index": 431,
+          "start": 1199.824,
+          "end": 1202.034,
+          "text": "Oh, come on. Come on."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1250,
+      "timecode_debut_extrait": 1200,
+      "timecode_fin_extrait": 1250,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0024_time_1200.00s-1250.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 432,
+          "start": 1205.287,
+          "end": 1207.081,
+          "text": "Please go in, please."
+        },
+        {
+          "index": 433,
+          "start": 1229.52,
+          "end": 1231.647,
+          "text": "-[train horn blows] -[all cheering]"
+        },
+        {
+          "index": 434,
+          "start": 1232.565,
+          "end": 1233.941,
+          "text": "-We did it! -Hooray!"
+        },
+        {
+          "index": 435,
+          "start": 1234.108,
+          "end": 1236.235,
+          "text": "[Santa chuckles]"
+        },
+        {
+          "index": 436,
+          "start": 1236.736,
+          "end": 1239.28,
+          "text": "Merry Christmas, Mickey Mouse!"
+        },
+        {
+          "index": 437,
+          "start": 1239.447,
+          "end": 1241.782,
+          "text": "Ha-ha! Nice shot!"
+        },
+        {
+          "index": 438,
+          "start": 1242.533,
+          "end": 1244.869,
+          "text": "[Santa] See you next year!"
+        },
+        {
+          "index": 439,
+          "start": 1246.12,
+          "end": 1248.08,
+          "text": "Next year. [chuckles]"
+        },
+        {
+          "index": 440,
+          "start": 1248.789,
+          "end": 1250.875,
+          "text": "Well, I can't wait to make a whole bunch"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 1250,
+      "intervalle_fin": 1293.856,
+      "timecode_debut_extrait": 1250,
+      "timecode_fin_extrait": 1293.856,
+      "video_path": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL\\interval_0025_time_1250.00s-1293.86s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 441,
+          "start": 1250.958,
+          "end": 1252.585,
+          "text": "of new Christmas memories."
+        },
+        {
+          "index": 442,
+          "start": 1253.461,
+          "end": 1255.379,
+          "text": "Merry Christmas, Mickey."
+        },
+        {
+          "index": 443,
+          "start": 1255.963,
+          "end": 1257.631,
+          "text": "Merry Christmas."
+        },
+        {
+          "index": 444,
+          "start": 1258.883,
+          "end": 1259.967,
+          "text": "Aww. [chuckles]"
+        },
+        {
+          "index": 445,
+          "start": 1261.761,
+          "end": 1263.137,
+          "text": "[upbeat music playing]"
+        },
+        {
+          "index": 446,
+          "start": 1269.185,
+          "end": 1270.603,
+          "text": "[Pluto barking]"
+        },
+        {
+          "index": 447,
+          "start": 1275.357,
+          "end": 1276.692,
+          "text": "[all laughing]"
+        },
+        {
+          "index": 448,
+          "start": 1283.866,
+          "end": 1285.868,
+          "text": "Say, \"Merry Christmas!\""
+        },
+        {
+          "index": 449,
+          "start": 1286.243,
+          "end": 1288.37,
+          "text": "[all] Merry Christmas!"
+        }
+      ]
+    }
+  ]
+}

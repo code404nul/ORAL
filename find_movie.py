@@ -4,8 +4,8 @@ from pyarr import RadarrAPI
 import time
 
 # Configuration Radarr
-host_url = "http://172.20.2.37:7878"
-api_key = "141bca2beaac40c18a4caea80371f57a"
+host_url = "http://192.168.1.188:7878"
+api_key = "f9bc647e11a64b4c8e313f177941eb68"
 radarr = RadarrAPI(host_url, api_key)
 
 def lookup_and_add_movie(titre, note_csv):
@@ -67,7 +67,7 @@ def lookup_and_add_movie(titre, note_csv):
         # Ajout du film avec la bonne syntaxe
         radarr.add_movie(
             movie=movie,
-            root_dir="/home/user/Téléchargements/radarr",
+            root_dir="E:\\film_oral",
             quality_profile_id=hd_profile['id'],
             monitored=True,
             search_for_movie=True
@@ -124,7 +124,7 @@ def process_csv(csv_file, output_json='films_notes.json'):
 
 if __name__ == "__main__":
     # Nom de votre fichier CSV
-    csv_file = "films_populaires.csv"
+    csv_file = "disney_movies.csv"
     
     # Lancement du traitement
     process_csv(csv_file)

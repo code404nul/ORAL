@@ -1,0 +1,863 @@
+{
+  "movie_id": "[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)",
+  "movie_path": "E:\\film_oral\\Once Upon a Studio (2023)\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost).mkv",
+  "subtitle_path": "E:\\film_oral\\Once Upon a Studio (2023)\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost).en.srt",
+  "intervalle_secondes": 50,
+  "nombre_intervalles": 11,
+  "dossier_videos": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)",
+  "date_traitement": "2026-02-10T13:04:26.744726",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 50,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 50,
+      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0000_time_0.00s-50.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": "﻿1",
+          "start": 13.0,
+          "end": 14.624,
+          "text": "It's so incredible to think"
+        },
+        {
+          "index": 2,
+          "start": 14.625,
+          "end": 18.875,
+          "text": "that Walt started Disney Animation 100 years ago today."
+        },
+        {
+          "index": 3,
+          "start": 19.541,
+          "end": 24.04,
+          "text": "To think of all those talented artists and wonderful characters"
+        },
+        {
+          "index": 4,
+          "start": 24.041,
+          "end": 27.165,
+          "text": "who have been a part of the studio over the years."
+        },
+        {
+          "index": 5,
+          "start": 27.166,
+          "end": 28.25,
+          "text": "Yep."
+        },
+        {
+          "index": 6,
+          "start": 31.416,
+          "end": 33.416,
+          "text": "If these walls could talk."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 50,
+      "intervalle_fin": 100,
+      "timecode_debut_extrait": 50,
+      "timecode_fin_extrait": 100,
+      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0001_time_50.00s-100.00s.mp4",
+      "nombre_sous_titres": 19,
+      "sous_titres": [
+        {
+          "index": 7,
+          "start": 53.916,
+          "end": 56.708,
+          "text": "Psst! Tink. Tinker Bell. You there?"
+        },
+        {
+          "index": 8,
+          "start": 60.0,
+          "end": 61.416,
+          "text": "Is that it? They all gone?"
+        },
+        {
+          "index": 9,
+          "start": 62.541,
+          "end": 63.749,
+          "text": "Oh, boy!"
+        },
+        {
+          "index": 10,
+          "start": 63.75,
+          "end": 65.749,
+          "text": "Come on, Minnie! This is it!"
+        },
+        {
+          "index": 11,
+          "start": 65.75,
+          "end": 67.415,
+          "text": "Let's get the gang!"
+        },
+        {
+          "index": 12,
+          "start": 67.416,
+          "end": 70.582,
+          "text": "- Yoo-hoo! - There's the signal."
+        },
+        {
+          "index": 13,
+          "start": 70.583,
+          "end": 71.874,
+          "text": "All right, y'all!"
+        },
+        {
+          "index": 14,
+          "start": 71.875,
+          "end": 73.249,
+          "text": "It's picture time."
+        },
+        {
+          "index": 15,
+          "start": 73.25,
+          "end": 75.332,
+          "text": "- That's tonight? - That's now."
+        },
+        {
+          "index": 16,
+          "start": 75.333,
+          "end": 76.957,
+          "text": "100-year group photo."
+        },
+        {
+          "index": 17,
+          "start": 76.958,
+          "end": 78.332,
+          "text": "And the sun's going down."
+        },
+        {
+          "index": 18,
+          "start": 78.333,
+          "end": 79.707,
+          "text": "Come on. Let's hop to it!"
+        },
+        {
+          "index": 19,
+          "start": 79.708,
+          "end": 81.165,
+          "text": "Ooh, a bunny pun."
+        },
+        {
+          "index": 20,
+          "start": 81.166,
+          "end": 82.957,
+          "text": "Got to like that."
+        },
+        {
+          "index": 21,
+          "start": 85.208,
+          "end": 86.79,
+          "text": "Picture time, guys!"
+        },
+        {
+          "index": 22,
+          "start": 86.791,
+          "end": 89.207,
+          "text": "Okay! Here we come!"
+        },
+        {
+          "index": 23,
+          "start": 91.958,
+          "end": 93.415,
+          "text": "Wake up! Wake up!"
+        },
+        {
+          "index": 24,
+          "start": 94.791,
+          "end": 96.707,
+          "text": "Awesome!"
+        },
+        {
+          "index": 25,
+          "start": 98.125,
+          "end": 100.874,
+          "text": "Oh, Peter! Get the folks upstairs!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 100,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 100,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0002_time_100.00s-150.00s.mp4",
+      "nombre_sous_titres": 15,
+      "sous_titres": [
+        {
+          "index": 26,
+          "start": 100.875,
+          "end": 102.249,
+          "text": "Aye, aye, Captain."
+        },
+        {
+          "index": 27,
+          "start": 102.25,
+          "end": 103.374,
+          "text": "Come on, everybody."
+        },
+        {
+          "index": 28,
+          "start": 103.375,
+          "end": 106.083,
+          "text": "Here we go!"
+        },
+        {
+          "index": 29,
+          "start": 117.458,
+          "end": 119.166,
+          "text": "Whoo-hoo!"
+        },
+        {
+          "index": 30,
+          "start": 119.875,
+          "end": 121.958,
+          "text": "It's Maui time!"
+        },
+        {
+          "index": 31,
+          "start": 123.166,
+          "end": 124.957,
+          "text": "We're meeting in the lobby!"
+        },
+        {
+          "index": 32,
+          "start": 124.958,
+          "end": 126.04,
+          "text": "Okay!"
+        },
+        {
+          "index": 33,
+          "start": 126.041,
+          "end": 127.874,
+          "text": "See you there!"
+        },
+        {
+          "index": 34,
+          "start": 127.875,
+          "end": 130.957,
+          "text": "- Whoa! - Whoo-hoo!"
+        },
+        {
+          "index": 35,
+          "start": 134.291,
+          "end": 136.083,
+          "text": "Higher!"
+        },
+        {
+          "index": 36,
+          "start": 139.916,
+          "end": 142.165,
+          "text": "Water."
+        },
+        {
+          "index": 37,
+          "start": 142.166,
+          "end": 144.082,
+          "text": "- No! There's no time for tea. - Mmm."
+        },
+        {
+          "index": 38,
+          "start": 144.083,
+          "end": 145.54,
+          "text": "Merlin! A little help?"
+        },
+        {
+          "index": 39,
+          "start": 145.541,
+          "end": 147.124,
+          "text": "Oh! Uh, oh, ah."
+        },
+        {
+          "index": 40,
+          "start": 147.125,
+          "end": 149.499,
+          "text": "- Chapeauious Bowlious! - Oh!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 150,
+      "intervalle_fin": 200,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 200,
+      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0003_time_150.00s-200.00s.mp4",
+      "nombre_sous_titres": 17,
+      "sous_titres": [
+        {
+          "index": 41,
+          "start": 151.125,
+          "end": 154.415,
+          "text": "Oh, waiter, there's a carp in my cap."
+        },
+        {
+          "index": 42,
+          "start": 158.791,
+          "end": 160.29,
+          "text": "Yikes!"
+        },
+        {
+          "index": 43,
+          "start": 160.291,
+          "end": 163.29,
+          "text": "Do you think all the villains will show up?"
+        },
+        {
+          "index": 44,
+          "start": 163.291,
+          "end": 164.957,
+          "text": "Hmm. Not all."
+        },
+        {
+          "index": 45,
+          "start": 168.083,
+          "end": 169.083,
+          "text": "Going down?"
+        },
+        {
+          "index": 46,
+          "start": 169.875,
+          "end": 170.875,
+          "text": "Hold the..."
+        },
+        {
+          "index": 47,
+          "start": 172.666,
+          "end": 173.999,
+          "text": "elevator."
+        },
+        {
+          "index": 48,
+          "start": 174.0,
+          "end": 175.082,
+          "text": "Huh?"
+        },
+        {
+          "index": 49,
+          "start": 176.666,
+          "end": 178.582,
+          "text": "<i>♪ I'm in the mood to help you, dude ♪</i>"
+        },
+        {
+          "index": 50,
+          "start": 178.583,
+          "end": 180.79,
+          "text": "Hey, Frosty! Shake a leg, will ya?"
+        },
+        {
+          "index": 51,
+          "start": 180.791,
+          "end": 183.207,
+          "text": "The leg won't make a difference. It's all in the wrist."
+        },
+        {
+          "index": 52,
+          "start": 183.208,
+          "end": 184.874,
+          "text": "Oi!"
+        },
+        {
+          "index": 53,
+          "start": 184.875,
+          "end": 186.832,
+          "text": "I haven't seen a fall like that since Rome."
+        },
+        {
+          "index": 54,
+          "start": 188.708,
+          "end": 190.207,
+          "text": "Oh! Much better."
+        },
+        {
+          "index": 55,
+          "start": 190.208,
+          "end": 193.999,
+          "text": "<i>♪ Every guy here Would love to be you, Gaston ♪</i>"
+        },
+        {
+          "index": 56,
+          "start": 196.25,
+          "end": 197.25,
+          "text": "Huh?"
+        },
+        {
+          "index": 57,
+          "start": 199.125,
+          "end": 201.332,
+          "text": "Let's move it, gentlemen!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 200,
+      "intervalle_fin": 250,
+      "timecode_debut_extrait": 200,
+      "timecode_fin_extrait": 250,
+      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0004_time_200.00s-250.00s.mp4",
+      "nombre_sous_titres": 13,
+      "sous_titres": [
+        {
+          "index": 58,
+          "start": 201.333,
+          "end": 204.082,
+          "text": "Ooh! Ooh, help, and bother."
+        },
+        {
+          "index": 59,
+          "start": 205.5,
+          "end": 207.29,
+          "text": "Uh-huh. Meeting in the lobby."
+        },
+        {
+          "index": 60,
+          "start": 207.291,
+          "end": 208.374,
+          "text": "Don't eat those."
+        },
+        {
+          "index": 61,
+          "start": 210.541,
+          "end": 211.75,
+          "text": "Zuk, zuk!"
+        },
+        {
+          "index": 62,
+          "start": 217.083,
+          "end": 219.333,
+          "text": "Come on, puppies. You're gonna have nightmares."
+        },
+        {
+          "index": 63,
+          "start": 223.208,
+          "end": 224.5,
+          "text": "Whoa!"
+        },
+        {
+          "index": 64,
+          "start": 225.666,
+          "end": 226.833,
+          "text": "Oo-De-Lally."
+        },
+        {
+          "index": 65,
+          "start": 228.333,
+          "end": 229.458,
+          "text": "Thank you..."
+        },
+        {
+          "index": 66,
+          "start": 230.333,
+          "end": 232.125,
+          "text": "for holding..."
+        },
+        {
+          "index": 67,
+          "start": 233.833,
+          "end": 236.625,
+          "text": "the elevator."
+        },
+        {
+          "index": 68,
+          "start": 237.166,
+          "end": 239.499,
+          "text": "- I am also going to the lobby. - Huh?"
+        },
+        {
+          "index": 69,
+          "start": 239.5,
+          "end": 241.082,
+          "text": "Oh, come on!"
+        },
+        {
+          "index": 70,
+          "start": 246.375,
+          "end": 248.791,
+          "text": "Oh, no, no, no, no, no, no..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 250,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 250,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0005_time_250.00s-300.00s.mp4",
+      "nombre_sous_titres": 16,
+      "sous_titres": [
+        {
+          "index": 71,
+          "start": 255.166,
+          "end": 256.54,
+          "text": "Hey, Max!"
+        },
+        {
+          "index": 72,
+          "start": 256.541,
+          "end": 258.874,
+          "text": "- Eric, get your dog! - Go, Max, go!"
+        },
+        {
+          "index": 73,
+          "start": 259.958,
+          "end": 261.54,
+          "text": "<i>♪ Trust in me Just in me ♪</i>"
+        },
+        {
+          "index": 74,
+          "start": 261.541,
+          "end": 263.665,
+          "text": "Kaa? Kaa! You... You stop that now, Kaa!"
+        },
+        {
+          "index": 75,
+          "start": 263.666,
+          "end": 264.749,
+          "text": "Don't worry, Mickey."
+        },
+        {
+          "index": 76,
+          "start": 264.75,
+          "end": 266.541,
+          "text": "I got this."
+        },
+        {
+          "index": 77,
+          "start": 268.291,
+          "end": 269.375,
+          "text": "Huh."
+        },
+        {
+          "index": 78,
+          "start": 269.875,
+          "end": 272.083,
+          "text": "Hmm."
+        },
+        {
+          "index": 79,
+          "start": 281.541,
+          "end": 283.999,
+          "text": "Oh, Mickey, where are you?"
+        },
+        {
+          "index": 80,
+          "start": 284.0,
+          "end": 285.29,
+          "text": "We're in the lobby!"
+        },
+        {
+          "index": 81,
+          "start": 286.5,
+          "end": 289.041,
+          "text": "Got to go, but thanks."
+        },
+        {
+          "index": 82,
+          "start": 289.958,
+          "end": 291.166,
+          "text": "On with the show."
+        },
+        {
+          "index": 83,
+          "start": 292.958,
+          "end": 294.915,
+          "text": "Oh!"
+        },
+        {
+          "index": 84,
+          "start": 294.916,
+          "end": 297.582,
+          "text": "- Coast is clear, Mick. - Great!"
+        },
+        {
+          "index": 85,
+          "start": 297.583,
+          "end": 299.207,
+          "text": "Right this way!"
+        },
+        {
+          "index": 86,
+          "start": 299.208,
+          "end": 301.207,
+          "text": "Oh! Ralph, you okay?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 300,
+      "intervalle_fin": 350,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 350,
+      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0006_time_300.00s-350.00s.mp4",
+      "nombre_sous_titres": 16,
+      "sous_titres": [
+        {
+          "index": 87,
+          "start": 301.208,
+          "end": 303.29,
+          "text": "Never better, Garfield."
+        },
+        {
+          "index": 88,
+          "start": 305.458,
+          "end": 308.624,
+          "text": "- I'm surrounded by idiots. - Tally ho!"
+        },
+        {
+          "index": 89,
+          "start": 308.625,
+          "end": 311.624,
+          "text": "Whee! I'll show you the world!"
+        },
+        {
+          "index": 90,
+          "start": 312.708,
+          "end": 314.54,
+          "text": "Oh, great. The ladder!"
+        },
+        {
+          "index": 91,
+          "start": 318.583,
+          "end": 322.499,
+          "text": "I don't recollect if I've ever mentioned Old Reliable before."
+        },
+        {
+          "index": 92,
+          "start": 322.5,
+          "end": 324.333,
+          "text": "- He'd say, uh... - Make it pink."
+        },
+        {
+          "index": 93,
+          "start": 326.083,
+          "end": 328.082,
+          "text": "Make it blue."
+        },
+        {
+          "index": 94,
+          "start": 328.083,
+          "end": 330.29,
+          "text": "Okay, everybody. Get... Get together now."
+        },
+        {
+          "index": 95,
+          "start": 330.291,
+          "end": 332.165,
+          "text": "Oh! After you."
+        },
+        {
+          "index": 96,
+          "start": 332.166,
+          "end": 333.874,
+          "text": "No touchy!"
+        },
+        {
+          "index": 97,
+          "start": 333.875,
+          "end": 336.249,
+          "text": "- Huh? - It is time."
+        },
+        {
+          "index": 98,
+          "start": 336.25,
+          "end": 338.249,
+          "text": "Thank you."
+        },
+        {
+          "index": 99,
+          "start": 339.916,
+          "end": 340.999,
+          "text": "Goofy, careful!"
+        },
+        {
+          "index": 100,
+          "start": 342.583,
+          "end": 343.665,
+          "text": "All right."
+        },
+        {
+          "index": 101,
+          "start": 343.666,
+          "end": 345.082,
+          "text": "Now where's that timer button?"
+        },
+        {
+          "index": 102,
+          "start": 345.083,
+          "end": 347.832,
+          "text": "Oh, oh! Three, two, one!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 350,
+      "intervalle_fin": 400,
+      "timecode_debut_extrait": 350,
+      "timecode_fin_extrait": 400,
+      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0007_time_350.00s-400.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 103,
+          "start": 357.541,
+          "end": 359.624,
+          "text": "Well, that was fun."
+        },
+        {
+          "index": 104,
+          "start": 359.625,
+          "end": 363.375,
+          "text": "Maybe we can try again in another hundred years."
+        },
+        {
+          "index": 105,
+          "start": 366.208,
+          "end": 367.749,
+          "text": "Oh, no, no, no. Come back."
+        },
+        {
+          "index": 106,
+          "start": 367.75,
+          "end": 370.333,
+          "text": "It... It... It'll be fine. It'll be..."
+        },
+        {
+          "index": 107,
+          "start": 384.458,
+          "end": 388.582,
+          "text": "<i>♪ Anything your heart desires ♪</i>"
+        },
+        {
+          "index": 108,
+          "start": 388.583,
+          "end": 392.665,
+          "text": "<i>♪ Will come to you ♪</i>"
+        },
+        {
+          "index": 109,
+          "start": 392.666,
+          "end": 394.249,
+          "text": "I knew this was gonna happen."
+        },
+        {
+          "index": 110,
+          "start": 394.25,
+          "end": 398.582,
+          "text": "<i>♪ If your heart Is in your dream ♪</i>"
+        },
+        {
+          "index": 111,
+          "start": 398.583,
+          "end": 403.29,
+          "text": "<i>♪ No request is too extreme ♪</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 400,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 400,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0008_time_400.00s-450.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 112,
+          "start": 403.291,
+          "end": 405.207,
+          "text": "<i>♪ When you wish up... ♪</i>"
+        },
+        {
+          "index": 113,
+          "start": 407.25,
+          "end": 413.666,
+          "text": "<i>♪ As dreamers do ♪</i>"
+        },
+        {
+          "index": 114,
+          "start": 415.375,
+          "end": 419.666,
+          "text": "<i>♪ Fate is kind ♪</i>"
+        },
+        {
+          "index": 115,
+          "start": 420.791,
+          "end": 425.083,
+          "text": "<i>♪ She brings to those who love ♪</i>"
+        },
+        {
+          "index": 116,
+          "start": 426.125,
+          "end": 429.415,
+          "text": "<i>♪ The sweet fulfillment of ♪</i>"
+        },
+        {
+          "index": 117,
+          "start": 429.416,
+          "end": 435.583,
+          "text": "<i>♪ Their secret longing ♪</i>"
+        },
+        {
+          "index": 118,
+          "start": 436.25,
+          "end": 441.79,
+          "text": "<i>♪ Like a bolt out of the blue ♪</i>"
+        },
+        {
+          "index": 119,
+          "start": 441.791,
+          "end": 443.499,
+          "text": "<i>♪ Fate steps in ♪</i>"
+        },
+        {
+          "index": 120,
+          "start": 444.583,
+          "end": 446.875,
+          "text": "<i>♪ And sees you through ♪</i>"
+        },
+        {
+          "index": 121,
+          "start": 447.5,
+          "end": 452.499,
+          "text": "<i>♪ When you wish upon a star ♪</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 450,
+      "intervalle_fin": 500,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 500,
+      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0009_time_450.00s-500.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 122,
+          "start": 452.5,
+          "end": 459.541,
+          "text": "<i>♪ Your dreams come true ♪</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 500,
+      "intervalle_fin": 527.834,
+      "timecode_debut_extrait": 500,
+      "timecode_fin_extrait": 527.834,
+      "video_path": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)\\interval_0010_time_500.00s-527.83s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    }
+  ]
+}

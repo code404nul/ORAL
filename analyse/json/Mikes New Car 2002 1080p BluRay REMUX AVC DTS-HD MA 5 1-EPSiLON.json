@@ -1,0 +1,222 @@
+{
+  "movie_id": "Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON",
+  "movie_path": "E:\\film_oral\\Mike's New Car (2002)\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON.mkv",
+  "subtitle_path": "E:\\film_oral\\Mike's New Car (2002)\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON.en.srt",
+  "intervalle_secondes": 50,
+  "nombre_intervalles": 5,
+  "dossier_videos": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON",
+  "date_traitement": "2026-02-10T12:48:01.912121",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 50,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 50,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0000_time_0.00s-50.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 1,
+          "start": 21.517,
+          "end": 23.594,
+          "text": "- OK, come on. - Oh, Mike."
+        },
+        {
+          "index": 2,
+          "start": 23.687,
+          "end": 26.263,
+          "text": "Follow the sultry sound of my voice."
+        },
+        {
+          "index": 3,
+          "start": 26.359,
+          "end": 28.02,
+          "text": "- No peeking. - Mike?"
+        },
+        {
+          "index": 4,
+          "start": 28.112,
+          "end": 29.856,
+          "text": "And open them."
+        },
+        {
+          "index": 5,
+          "start": 29.948,
+          "end": 32.785,
+          "text": "Ta-da! What do you think?"
+        },
+        {
+          "index": 6,
+          "start": 33.913,
+          "end": 35.872,
+          "text": "What was wrong with your old car?"
+        },
+        {
+          "index": 7,
+          "start": 37.127,
+          "end": 39.916,
+          "text": "<i>Three little words, Sulley: six wheel drive.</i>"
+        },
+        {
+          "index": 8,
+          "start": 40.007,
+          "end": 42.084,
+          "text": "Come on. Get in, get in, get in."
+        },
+        {
+          "index": 9,
+          "start": 46.685,
+          "end": 48.56,
+          "text": "It's adjustable."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 50,
+      "intervalle_fin": 100,
+      "timecode_debut_extrait": 50,
+      "timecode_fin_extrait": 100,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0001_time_50.00s-100.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 10,
+          "start": 67.512,
+          "end": 69.506,
+          "text": "Will you cut it out?!"
+        },
+        {
+          "index": 11,
+          "start": 73.188,
+          "end": 75.764,
+          "text": "It's like we've released a panther."
+        },
+        {
+          "index": 12,
+          "start": 76.653,
+          "end": 78.528,
+          "text": "What? What, what?"
+        },
+        {
+          "index": 13,
+          "start": 90.718,
+          "end": 92.962,
+          "text": "Don't just sit there. Push the button."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 100,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 100,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0002_time_100.00s-150.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 14,
+          "start": 105.953,
+          "end": 107.614,
+          "text": "I'll get it."
+        },
+        {
+          "index": 15,
+          "start": 110.21,
+          "end": 112.085,
+          "text": "Sorry, sorry, sorry."
+        },
+        {
+          "index": 16,
+          "start": 119.768,
+          "end": 121.726,
+          "text": "<i>- Hello. - Push the button.</i>"
+        },
+        {
+          "index": 17,
+          "start": 147.064,
+          "end": 151.361,
+          "text": "Don't touch anything. I'll do it."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 150,
+      "intervalle_fin": 200,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 200,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0003_time_150.00s-200.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 18,
+          "start": 186.507,
+          "end": 189.675,
+          "text": "Get out of the car, please. Get out, out, out, out, out."
+        },
+        {
+          "index": 19,
+          "start": 189.762,
+          "end": 191.84,
+          "text": "- Hey, Mike! - Get out of my car!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 200,
+      "intervalle_fin": 240.395,
+      "timecode_debut_extrait": 200,
+      "timecode_fin_extrait": 240.395,
+      "video_path": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0004_time_200.00s-240.40s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 20,
+          "start": 202.367,
+          "end": 205.37,
+          "text": "That's weird. The air bag didn't go off."
+        },
+        {
+          "index": 21,
+          "start": 209.421,
+          "end": 211.747,
+          "text": "I miss my old car."
+        },
+        {
+          "index": 22,
+          "start": 212.927,
+          "end": 214.386,
+          "text": "You know..."
+        },
+        {
+          "index": 23,
+          "start": 214.471,
+          "end": 216.845,
+          "text": "...the vroom, vroom and the clang, clang"
+        },
+        {
+          "index": 24,
+          "start": 216.933,
+          "end": 219.853,
+          "text": "and the bang, bang."
+        },
+        {
+          "index": 25,
+          "start": 222.902,
+          "end": 224.979,
+          "text": "You wanna walk?"
+        },
+        {
+          "index": 26,
+          "start": 225.907,
+          "end": 227.236,
+          "text": "Yes."
+        }
+      ]
+    }
+  ]
+}

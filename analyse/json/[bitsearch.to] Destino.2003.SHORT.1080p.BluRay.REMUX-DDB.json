@@ -1,0 +1,368 @@
+{
+  "movie_id": "[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB",
+  "movie_path": "E:\\film_oral\\Destino (2003)\\[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB.mkv",
+  "subtitle_path": "E:\\film_oral\\Destino (2003)\\[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB.en.srt",
+  "intervalle_secondes": 50,
+  "nombre_intervalles": 8,
+  "dossier_videos": "analyse\\videos\\[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB",
+  "date_traitement": "2026-02-10T12:17:29.356449",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 50,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 50,
+      "video_path": "analyse\\videos\\[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB\\interval_0000_time_0.00s-50.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": "﻿1",
+          "start": 49.948,
+          "end": 57.543,
+          "text": "♪ Now I can smile and say ♪"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 50,
+      "intervalle_fin": 100,
+      "timecode_debut_extrait": 50,
+      "timecode_fin_extrait": 100,
+      "video_path": "analyse\\videos\\[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB\\interval_0001_time_50.00s-100.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 2,
+          "start": 59.071,
+          "end": 64.36,
+          "text": "♪ Destino ♪"
+        },
+        {
+          "index": 3,
+          "start": 64.72,
+          "end": 68.82,
+          "text": "♪ My heart was sad and lonely ♪"
+        },
+        {
+          "index": 4,
+          "start": 69.974,
+          "end": 74.543,
+          "text": "♪ In knowing that you only ♪"
+        },
+        {
+          "index": 5,
+          "start": 75.36,
+          "end": 79.36,
+          "text": "♪ Could bring my love to me ♪"
+        },
+        {
+          "index": 6,
+          "start": 81.496,
+          "end": 84.783,
+          "text": "♪ Destino ♪"
+        },
+        {
+          "index": 7,
+          "start": 85.497,
+          "end": 90.1,
+          "text": "♪ This heart of mine is thrilled now ♪"
+        },
+        {
+          "index": 8,
+          "start": 90.758,
+          "end": 95.7,
+          "text": "♪ My empty arms are filled now ♪"
+        },
+        {
+          "index": 9,
+          "start": 96.008,
+          "end": 100.698,
+          "text": "♪ As they were meant to be ♪"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 100,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 100,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB\\interval_0002_time_100.00s-150.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 10,
+          "start": 102.628,
+          "end": 106.106,
+          "text": "♪ For you came along ♪"
+        },
+        {
+          "index": 11,
+          "start": 106.48,
+          "end": 110.93,
+          "text": "♪ Out of a dream I recall ♪"
+        },
+        {
+          "index": 12,
+          "start": 111.702,
+          "end": 115.789,
+          "text": "♪ Yes you came along ♪"
+        },
+        {
+          "index": 13,
+          "start": 115.926,
+          "end": 121.433,
+          "text": "♪ To answer my call ♪"
+        },
+        {
+          "index": 14,
+          "start": 121.585,
+          "end": 124.943,
+          "text": "♪ I know now ♪"
+        },
+        {
+          "index": 15,
+          "start": 125.805,
+          "end": 130.505,
+          "text": "♪ that you are my destino ♪"
+        },
+        {
+          "index": 16,
+          "start": 130.885,
+          "end": 135.003,
+          "text": "♪ We'll be as one for we know ♪"
+        },
+        {
+          "index": 17,
+          "start": 135.595,
+          "end": 144.701,
+          "text": "♪ Our destiny of love ♪"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 150,
+      "intervalle_fin": 200,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 200,
+      "video_path": "analyse\\videos\\[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB\\interval_0003_time_150.00s-200.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 200,
+      "intervalle_fin": 250,
+      "timecode_debut_extrait": 200,
+      "timecode_fin_extrait": 250,
+      "video_path": "analyse\\videos\\[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB\\interval_0004_time_200.00s-250.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 18,
+          "start": 211.255,
+          "end": 212.445,
+          "text": "♪ Destiny, destiny, destiny... ♪"
+        },
+        {
+          "index": 19,
+          "start": 212.726,
+          "end": 214.474,
+          "text": "♪ ever I follow, ♪"
+        },
+        {
+          "index": 20,
+          "start": 214.614,
+          "end": 215.965,
+          "text": "♪ follow, ♪"
+        },
+        {
+          "index": 21,
+          "start": 216.087,
+          "end": 222.465,
+          "text": "♪ follow my Destino... ♪"
+        },
+        {
+          "index": 22,
+          "start": 222.965,
+          "end": 227.164,
+          "text": "♪ My heart was sad and lonely ♪"
+        },
+        {
+          "index": 23,
+          "start": 227.767,
+          "end": 232.865,
+          "text": "♪ In knowing that you only ♪"
+        },
+        {
+          "index": 24,
+          "start": 233.465,
+          "end": 236.578,
+          "text": "♪ Could bring my love to me ♪"
+        },
+        {
+          "index": 25,
+          "start": 239.055,
+          "end": 243.865,
+          "text": "♪ Destino ♪"
+        },
+        {
+          "index": 26,
+          "start": 244.265,
+          "end": 248.763,
+          "text": "♪ This heart of mine is thrilled now ♪"
+        },
+        {
+          "index": 27,
+          "start": 248.88,
+          "end": 253.265,
+          "text": "♪ My empty arms are filled now ♪"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 250,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 250,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB\\interval_0005_time_250.00s-300.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 28,
+          "start": 253.694,
+          "end": 257.842,
+          "text": "♪ As they were meant to be ♪"
+        },
+        {
+          "index": 29,
+          "start": 260.105,
+          "end": 263.653,
+          "text": "♪ For you came along ♪"
+        },
+        {
+          "index": 30,
+          "start": 264.211,
+          "end": 268.06,
+          "text": "♪ Out of a dream I recall ♪"
+        },
+        {
+          "index": 31,
+          "start": 269.689,
+          "end": 273.16,
+          "text": "♪ Yes you came along ♪"
+        },
+        {
+          "index": 32,
+          "start": 273.751,
+          "end": 280.21,
+          "text": "♪ To answer my call ♪"
+        },
+        {
+          "index": 33,
+          "start": 280.624,
+          "end": 284.123,
+          "text": "♪ I know now ♪"
+        },
+        {
+          "index": 34,
+          "start": 284.621,
+          "end": 289.223,
+          "text": "♪ that you are my destino ♪"
+        },
+        {
+          "index": 35,
+          "start": 289.492,
+          "end": 293.543,
+          "text": "♪ We'll be as one for we know ♪"
+        },
+        {
+          "index": 36,
+          "start": 294.118,
+          "end": 301.218,
+          "text": "♪ Our destiny of love ♪"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 300,
+      "intervalle_fin": 350,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 350,
+      "video_path": "analyse\\videos\\[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB\\interval_0006_time_300.00s-350.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 37,
+          "start": 302.736,
+          "end": 306.136,
+          "text": "♪ For you came along ♪"
+        },
+        {
+          "index": 38,
+          "start": 306.618,
+          "end": 311.535,
+          "text": "♪ Out of a dream I recall ♪"
+        },
+        {
+          "index": 39,
+          "start": 311.911,
+          "end": 315.945,
+          "text": "♪ Yes you came along ♪"
+        },
+        {
+          "index": 40,
+          "start": 316.065,
+          "end": 322.335,
+          "text": "♪ To answer my call ♪"
+        },
+        {
+          "index": 41,
+          "start": 322.98,
+          "end": 326.533,
+          "text": "♪ I know now ♪"
+        },
+        {
+          "index": 42,
+          "start": 326.933,
+          "end": 331.806,
+          "text": "♪ that you are my destino ♪"
+        },
+        {
+          "index": 43,
+          "start": 332.375,
+          "end": 336.533,
+          "text": "♪ We'll be as one for we know ♪"
+        },
+        {
+          "index": 44,
+          "start": 337.753,
+          "end": 345.087,
+          "text": "♪ Our destiny of love ♪"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 350,
+      "intervalle_fin": 391.392,
+      "timecode_debut_extrait": 350,
+      "timecode_fin_extrait": 391.392,
+      "video_path": "analyse\\videos\\[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB\\interval_0007_time_350.00s-391.39s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 45,
+          "start": 385.639,
+          "end": 387.34,
+          "text": "Subtitle Created By : <font color=\"#ff80c0\">Araf</font>"
+        }
+      ]
+    }
+  ]
+}
