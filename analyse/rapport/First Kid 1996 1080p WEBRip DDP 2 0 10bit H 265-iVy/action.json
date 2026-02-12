@@ -3042,6 +3042,1104 @@
         "completion_tokens": 140,
         "total_tokens": 2894
       }
+    },
+    {
+      "intervalle_index": 286,
+      "intervalle_debut": 4290,
+      "intervalle_fin": 4305,
+      "analyse_action": "It appears they are rehearsing or practicing a dance routine together - the taller man is giving the younger boy clear, deliberate direction with his movements. The chatty, playful nature of their interaction, combined with them moving their bodies in sync and responding to each other, suggests they're going through choreographed steps. This training session likely serves as a bonding activity between the two, where they're working together to perfect a dance performance or drill for their full school recital.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 95,
+        "total_tokens": 2849
+      }
+    },
+    {
+      "intervalle_index": 287,
+      "intervalle_debut": 4305,
+      "intervalle_fin": 4320,
+      "analyse_action": "In the scene, two men are dancing together in an enthusiastic, playful manner in a cozy bedroom. The room has warm, cluttered details with various personal items, including a computer monitor glowing blue on the left side and a bicycle leaning nearby. Throughout their dance, they move with animated energy, jumping up and down as they enjoy themselves.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 69,
+        "total_tokens": 2823
+      }
+    },
+    {
+      "intervalle_index": 288,
+      "intervalle_debut": 4320,
+      "intervalle_fin": 4335,
+      "analyse_action": "Will Smith and Martin Lawrence, who are dancing. They move around in a bedroom together, standing on a red carpet in front of a bed with dark wooden posts, dancing. Their arms sway and shift as they dance across the floor in sync.  They move behind the desk and into the bathroom.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 61,
+        "total_tokens": 2815
+      }
+    },
+    {
+      "intervalle_index": 289,
+      "intervalle_debut": 4335,
+      "intervalle_fin": 4350,
+      "analyse_action": "The scene shows two men standing inside the White House at night. They're positioned around a desk—the man on the left is standing slightly farther to the side, while the other man is seated at the desk facing him. Both are wearing gray suits and appear to be engaged in conversation.\n\nThe room is well-lit, with the yellow walls illuminated by the interior lighting. Behind them, the space has a lived-in feel with a computer monitor, desk lamp, books, and framed pictures. There's a white-framed window, and a door is visible in the background. A curtain moves occasionally in the room.\n\nAs the camera pulls back, you can see the scale of the building revealed—this is the illuminated White House exterior at night. The windows glow warmly against the dark surroundings, while trees with silhouetted leaves frame the building and chimneys rise above the roofline. Despite the grand architectural view, the focus remains on these two men inside the office, hushed and focused on their conversation amid the quiet stillness of the closed-down building.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 214,
+        "total_tokens": 2968
+      }
+    },
+    {
+      "intervalle_index": 290,
+      "intervalle_debut": 4350,
+      "intervalle_fin": 4365,
+      "analyse_action": "The scene shows a nighttime aerial view of the White House as the central focus of a vast Washington, D.C. skyline. The White House is illuminated, ringed by tall trees and roads, with its light shining brilliantly against the dark sky.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 50,
+        "total_tokens": 2804
+      }
+    },
+    {
+      "intervalle_index": 291,
+      "intervalle_debut": 4365,
+      "intervalle_fin": 4380,
+      "analyse_action": "The scene takes place in an active security operations room at night, where people are working around various computer monitors and large video screens. Multiple personnel are present, including someone wearing a white shirt and badge, a man in a gray suit, and a man in a white shirt with black pants who walks through the scene.\n\nThe energy is concentrated around a large screen displaying what appears to be aerial security imagery - a green field with a structure at night. Nearby, there are control panels with blinking red lights, suggesting active monitoring and control operations. People are positioned around the equipment, some sitting, others standing and observing the displays.\n\nThe camera work moves through different perspectives, showing both the interior of the security facility and exterior nighttime views, including shots of the White House as it passes through the lens. The lighting is dim with cool blue tones, creating an atmosphere of heightened attention and active monitoring. Two men in dark suits stride briskly across the frame, which emphasizes the sense of urgency and ongoing operations.\n\nThis appears to be a professional security monitoring environment where teams are actively watching and coordinating, with emphasis on nighttime surveillance activities.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 224,
+        "total_tokens": 2978
+      }
+    },
+    {
+      "intervalle_index": 292,
+      "intervalle_debut": 4380,
+      "intervalle_fin": 4395,
+      "analyse_action": "In the nighttime control room, several men in polished suits gather around glowing computer monitors displaying various maps and data. Two men have their arms crossed as they watch the screens. One of them turns to his colleague with a tense, contemplative expression - his brow furrowed, mouth pulled into a concerned line, and eyes narrowed against the dim room. The flickering display behind him shows muted greens, reds, and blues with blinking lights and dots, suggesting ongoing operations or surveillance.\n\nThis high-stakes, serious atmosphere in the control room abruptly contrasts with the change of scene, which takes place in a bright, casual bedroom. Inside, two adults appear disheveled and cheerful - a man in a blue shirt with a red-and-white dotted tie and gray pants, and a brown-skinned man in a white shirt with a black-and-gray striped tie who is slightly hunched forward and laughing from exertion. Childlike props, colorful posters, and playthings on the bed and floor create a playful environment that stands in sharp opposition to the tense nighttime work being conducted in the control room.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 220,
+        "total_tokens": 2974
+      }
+    },
+    {
+      "intervalle_index": 293,
+      "intervalle_debut": 4395,
+      "intervalle_fin": 4410,
+      "analyse_action": "In the scene, three people are standing in a bedroom. The young boy has been hit with a skateboard and is speaking. \n\nThe two adult men are engaged in what appears to be a tense exchange or conversation. One of them is the tall African-American man wearing a light blue button-down shirt and white tie with red dots, gripping a black jacket while gesturing emphatically. The other adult is Will Ferrell, dressed in a gray suit with a white shirt and gray tie, positioned between the two. He appears highly agitated, moving around impatiently and reacting strongly to whatever is being said or happening in the room.\n\nThe overall atmosphere seems charged and confrontational, with the adults exchanging heated words while the boy speaks from in front of them. The bedroom setting—with its yellow walls, various posters, and bedroom furniture—provides the backdrop for this intense interaction between the three characters.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 180,
+        "total_tokens": 2934
+      }
+    },
+    {
+      "intervalle_index": 294,
+      "intervalle_debut": 4410,
+      "intervalle_fin": 4425,
+      "analyse_action": "The younger character in the white shirt and black tie initially appears confused or uncertain, rubbing his head and trying to process what he's being told. He eventually tries to leave with a backpack, but this angers the two other men in the room who follow closely behind. \n\nWithout warning, the boy suddenly pulls a rope tied to an object behind him. This triggers a loud bang that startles everyone, causing intense reactions of fear and shock from all the characters present.\n\nAfter the blast, the boy regains his composure, adjusts his tie, and sits on the yellow and blue patterned bed in the bedroom holding what looks like a toy gun. He ends up facing the two men who were chasing him, now standing face-to-face with them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 152,
+        "total_tokens": 2906
+      }
+    },
+    {
+      "intervalle_index": 295,
+      "intervalle_debut": 4425,
+      "intervalle_fin": 4440,
+      "analyse_action": "The scene shows an intense conversation between two men standing in a doorway. One man in a suit is gesturing passionately while speaking to another man in a blue button-down shirt who listens with a serious expression. The setting has a lived-in, personal feel with warm decor and multiple lamps lit throughout the room. Later in the scene, a young boy with a neatly parted hairstyle sits quietly in a bed with colored sheets, wearing a white button-down shirt and black pants. His left arm rests over his right forearm, and he gazes down intently at something in his hands holding his concentration and composure. The interaction appears formal, like a work setting, while the visual composition creates an intimate, domestic atmosphere with bright, even lighting throughout the room.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 151,
+        "total_tokens": 2905
+      }
+    },
+    {
+      "intervalle_index": 296,
+      "intervalle_debut": 4440,
+      "intervalle_fin": 4455,
+      "analyse_action": "A teenage boy is sitting on a bed in a bedroom while his father enters through an open door and picks up a black trash bag. The boy also grabs a trash bag and hands it to an adult who is walking toward the camera.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 48,
+        "total_tokens": 2802
+      }
+    },
+    {
+      "intervalle_index": 297,
+      "intervalle_debut": 4455,
+      "intervalle_fin": 4470,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 298,
+      "intervalle_debut": 4470,
+      "intervalle_fin": 4485,
+      "analyse_action": "The scene takes place in a high school gymnasium decorated for what appears to be a school dance. Decorations include a colorful poster on one wall, balloons, streamers, and a tent-like structure with multicolored stripes.\n\nThe setting is bustling with typical senior high school social energy. Most of the activity is focused on the dancing area. Students in formal attire are moving around, talking in small groups, and navigating through the crowded dance floor. There's a boy in a blue and white striped shirt who is walking in a circle while holding hands with a girl, which is characteristic of the kind of social interactions that often happen at school dances.\n\nThe overall atmosphere is lively and energetic, with students milling about, chatting, and participating in the dance festivities. The setting captures the essence of high school social events with its mix of queued lines, casual conversation spots, and the main dance floor with its colorful decorations.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 185,
+        "total_tokens": 2939
+      }
+    },
+    {
+      "intervalle_index": 299,
+      "intervalle_debut": 4485,
+      "intervalle_fin": 4500,
+      "analyse_action": "This is the school formal dance, \"Gaylord\" which happens to be the dorky guy and his girlfriend flee from an aggressive crowd of people who teases them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 36,
+        "total_tokens": 2790
+      }
+    },
+    {
+      "intervalle_index": 300,
+      "intervalle_debut": 4500,
+      "intervalle_fin": 4515,
+      "analyse_action": "The scene takes place at an elementary school celebration or party filled with colorful decorations including balloons in green, red, and yellow bunches. The room is lively and bustling with children in various clothes—girls in dresses, boys in suits and ties, some wearing necklaces—alongside adults including a man and woman standing near a refreshment table with party cups.\n\nAt the center of the activity, children are sitting at tables during what appears to be a game involving red cups. A man with glasses watches the group, and a boy in a green vest and brown suit is handing out cupcakes.\n\nThroughout the room, there's an ongoing conversation between children in suits and a girl with a red ribbon in her blonde hair. People stand, sit, and mingle around the space near the display table where the red cups are set out.\n\nThe atmosphere is energetic and social, with the kids moving between conversations, examining the refreshments, and participating in the party activities while adults oversee the proceedings. The decorations and the focused attention on the cup arrangement give the celebration a structured, organized party feel typical of school events.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 221,
+        "total_tokens": 2975
+      }
+    },
+    {
+      "intervalle_index": 301,
+      "intervalle_debut": 4515,
+      "intervalle_fin": 4530,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 302,
+      "intervalle_debut": 4530,
+      "intervalle_fin": 4545,
+      "analyse_action": "In the scene, several different activities are occurring simultaneously. \n\nThe first part shows a darkened home office with an old-style computer setup running \"ParentGuard 2.3,\" where someone is getting notified with sleeping uyarings about another person being hungry at night.\n\nThe second part shifts to a lively school gymnasium transformed for a community event. Young people in 1990s-style clothing are gathered, with a dance happening in the center where a boy in a suit dances with a girl and other students are watching and smiling. Adults in suits are present, including one giving a thumbs-up.\n\nMaximum concentration seems to be shown with the snake wrapped around the desk and keyboard, slithering away with the egg, as part of the sleep-related incident in the office.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 158,
+        "total_tokens": 2912
+      }
+    },
+    {
+      "intervalle_index": 303,
+      "intervalle_debut": 4545,
+      "intervalle_fin": 4560,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 304,
+      "intervalle_debut": 4560,
+      "intervalle_fin": 4575,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 305,
+      "intervalle_debut": 4575,
+      "intervalle_fin": 4590,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 306,
+      "intervalle_debut": 4590,
+      "intervalle_fin": 4605,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 307,
+      "intervalle_debut": 4605,
+      "intervalle_fin": 4620,
+      "analyse_action": "The scene takes place during an evening, vampiric celebration featuring Black children at the center and others of various races dancing together, singing, and socializing at the gymnasium.\n\nThe gym is decorated with warm lights, balloons, streamers, and long cloth draped from the rafters, creating a festive party atmosphere. Many of the children are holding hands and dancing together in pairs while others form small clusters, swaying and participating in the celebration.\n\nAdult adults are actively participating alongside the children. Calculate Marie and MC are having an intense conversation, with Calculate shaking his head and extending his arm as if he's about to push MC away. MC is facing Marie now and still looking very mysterious.\n\nElsewhere in the scene, we can see Calculate MC and Faye McDLex through a glass window with some people inside. MC appears to be looking at Faye sadly, possibly trying to say something.\n\nThe overall atmosphere is celebratory yet has underlying tension or seriousness, particularly in the adult interactions. The gathering has a distinctly cult-like quality to it, with its unconventional evening activity and deliberately festive decor creating an unsettling contrast with the serious expressions and dynamic interactions taking place.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 236,
+        "total_tokens": 2990
+      }
+    },
+    {
+      "intervalle_index": 308,
+      "intervalle_debut": 4620,
+      "intervalle_fin": 4635,
+      "analyse_action": "The scene shows a formal dance party taking place in a well-lit indoor venue with a checkered dance floor. Couples are dancing around the central space in coordinated movements, with partners holding each other's waists or shoulders and swaying closely together.\n\nThe atmosphere is lively and celebratory, featuring a diverse group of dancers who are cleanly separated into male-female pairs. steadier pace of coordinated dance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 82,
+        "total_tokens": 2836
+      }
+    },
+    {
+      "intervalle_index": 309,
+      "intervalle_debut": 4635,
+      "intervalle_fin": 4650,
+      "analyse_action": "The video is a montage of three different scenes. \n\nFirst, it shows a dimly lit room where a snake is moving slowly and deliberately across a cluttered tabletop, its coiled body shifting through various positions as it travels from right to left across the screen.\n\nThe second scene cuts to a computer screen interface displaying a \"Parent Guard 2.3 Settings\" menu with various text options for controlling behavior or managing screen time.\n\nThe third scene returns to a dance theme where a young girl with a red bow in her blonde hair is embracing a boy with short brown hair at a school dance. The room is initially blurry before clearing up, revealing other children in formal attire dancing and moving behind them. The two main figures stand facing each other, with the girl's arms wrapped around the boy's neck as he appears to look toward her.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 169,
+        "total_tokens": 2923
+      }
+    },
+    {
+      "intervalle_index": 310,
+      "intervalle_debut": 4650,
+      "intervalle_fin": 4665,
+      "analyse_action": "The scene takes place at what appears to be a high school dance or prom in a bustling, festive room. Multiple couples are dancing around the floor, creating an energetic atmosphere with laughter and chatter drifting through the space.\n\nA particularly notable moment shows two boys sitting and watching the dance floor. One boy has long hair and is looking directly toward the camera, while the other has short brown hair and is smiling and looking off to the side. Their casual, relaxed postures contrast with the excitement on the dance floor around them.\n\nThe party is going strong with hundreds of people filling the space - couples dancing close together, others mingling near the food table and balloon arch, and a carpet with a circular design covering the floor. There's a mix of dancers in various clothing styles, including a girl in a blue dress holding onto her dance partner in green and white stripes, and another couple where a girl in a red and white striped shirt is partner dancing with a boy in a black suit.\n\nThe overall mood is energetic, social, and celebratory, with an air of youthful freedom and excitement characteristic of high school dances from that era.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 227,
+        "total_tokens": 2981
+      }
+    },
+    {
+      "intervalle_index": 311,
+      "intervalle_debut": 4665,
+      "intervalle_fin": 4680,
+      "analyse_action": "The scene is set at a formal wedding reception. Couples are gathered in a controlled swing, holding each other's backs as they move rhythmically with their arms extended. The dance floor is filled with formally dressed guests - men in suits and women in dresses - all participating in the slow, steady movements.\n\nThe room itself is elegantly decorated for the celebration, with red and gold curtains creating a festive atmosphere. Balloons in blue, yellow, and red colors are tied to the red curtain, adding to the celebratory mood. A balloon boy is visible in the background as part of the event's decorations.\n\nThe gathering appears to have progressed beyond just the dance itself - guests are congregating in small groups, talking and interacting.\n\nThere's an interesting juxtaposition between different elements of the celebration. While the reception continues with the ballroom full of dancing guests, there's also a separate moment showing men in formal suits gathered in a hallway engaged in what seems to be a more serious or important conversation among themselves.\n\nThe overall atmosphere is lively and celebratory, capturing the essence of a formal wedding celebration in full swing.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 224,
+        "total_tokens": 2978
+      }
+    },
+    {
+      "intervalle_index": 312,
+      "intervalle_debut": 4680,
+      "intervalle_fin": 4695,
+      "analyse_action": "The scene shows several men in matching gray suits entering a colorful, personal room decorated with posters on yellow walls and a red carpet. \n\nUpon entering, they split into two groups—one with a black man and another with a white man. The first man who enters carefully shuts the door behind him and heads toward a computer monitor that displays \"ParentGuard 2.2 Settings\" on the screen, gesturing toward it as the others begin conversing among themselves.\n\nDuring their discussion, the group becomes more animated, with one person gesturing as they speak. Shortly after, another man in a gray suit rushes into the room from another direction while looking around in apparent surprise.\n\nIn the foreground of the computer display, there's a red marker that says \"Do Not Cross\" positioned on the screen.\n\nThe room itself is quite distinct from typical formal spaces—with posters covering the walls, a red carpet, and various items visible throughout the space, making it feel more personal or lived-in in contrast to the uniform gray suits of the suited group.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 208,
+        "total_tokens": 2962
+      }
+    },
+    {
+      "intervalle_index": 313,
+      "intervalle_debut": 4695,
+      "intervalle_fin": 4710,
+      "analyse_action": "The scene takes place at a high school dance with the main focus on two young men engaged in a lively conversation over Coca-Cola cups while dancing. \n\nIn the background, several students can be seen dancing together at a fast and energetic pace, contributing to the dance's vibrant atmosphere.\n\nSeparately, outside at night, a man dressed in a dark suit jacket, white shirt, and red tie is performing an impromptu tap dance routine in front of a building entrance. He's alone on the wet pavement, exhibiting his performance skills with confident, theatrical movements while dancing in front of the school's illuminated red-brick facade with decorative lights framing the door frame. The building features dark green double doors with glass panes and a bush beside one of the doorways.\n\nThis dual scene captures both the social, lively interior of the school dance and a striking, solitary nighttime performance, with both activities occurring simultaneously in different locations.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 185,
+        "total_tokens": 2939
+      }
+    },
+    {
+      "intervalle_index": 314,
+      "intervalle_debut": 4710,
+      "intervalle_fin": 4725,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 315,
+      "intervalle_debut": 4725,
+      "intervalle_fin": 4740,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 316,
+      "intervalle_debut": 4740,
+      "intervalle_fin": 4755,
+      "analyse_action": "The scene takes place in a crowded school hallway where two young boys are staging a mock boxing match. One boy with short blond hair wears a black jacket over a black shirt, while his opponent has short light brown hair and is dressed in a black jacket and white shirt. \n\nThey face off in the center of the frame, each raising a fist as they square up against each other. The atmosphere is highly charged—it appears to be a playful but intense showdown between friends, with the surrounding students forming a spectator ring around them. Everyone in the hallway pauses and watches, their stunned reactions adding to the drama of the moment.\n\nThe confrontation escalates when the blond-haired boy delivers a punch to his opponent's face. Blood immediately begins to flow from the impact, causing the light brown-haired boy to cover his face with his hand while several shocked classmates stare in disbelief. Behind them, other students in school uniforms can be seen watching in the moment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 189,
+        "total_tokens": 2943
+      }
+    },
+    {
+      "intervalle_index": 317,
+      "intervalle_debut": 4755,
+      "intervalle_fin": 4770,
+      "analyse_action": "This scene is set at a school gym or auditorium during a dance or social gathering. The larger context shows a school setting with children in clean, neat clothing—boys in suits and girls in dresses—standing in two groups facing each other as they clap and sing together in what appears to be a school performance or celebration.\n\nWithin this formal, organized setting, there's a more dramatic moment unfolding in the foreground. A young boy with blond hair and blue eyes, wearing a black jacket over a white collared shirt, becomes the center of attention. His nose appears red and bloody, which causes concern.\n\nA large, taller man with very short black hair in a dark blue pinstripe suit quickly approaches him with obvious concern on his face. He wraps his arms around the boy and helps him move down through the crowd of students.\n\nAs they navigate through the line of classmates, people begin to part or turn to follow the commotion. Some students' reactions range from curiosity to surprised looks on their faces. The boy glances off to the side as he's guided through the group.\n\nThis creates a jarring contrast between the formal, ceremonial atmosphere of the clapping, singing children and the sudden, urgent moment requiring adult intervention for the injured boy.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 252,
+        "total_tokens": 3006
+      }
+    },
+    {
+      "intervalle_index": 318,
+      "intervalle_debut": 4770,
+      "intervalle_fin": 4785,
+      "analyse_action": "The scene takes place in what appears to be a school hallway or auditorium decorated for an event. There's a doorway visible at the far end of the space, and people are gathered around it as a procession moves through. Among the group is a black gentleman standing with a white man dressed in a blue pinstripe suit, who is conversing with a boy who looks upset or frustrated. \n\nA woman in a brown shirt is holding a bouquet of balloons, and small crowds of people—some in striped shirts and ties—are scattered throughout the space. As the procession continues, more men become visible wearing suits and ties, each with name tags on their lapels. The room is lively with activity, filled with movement and conversation between students and staff.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 152,
+        "total_tokens": 2906
+      }
+    },
+    {
+      "intervalle_index": 319,
+      "intervalle_debut": 4785,
+      "intervalle_fin": 4800,
+      "analyse_action": "In the scene, a man in a pinstripe suit is giving a formal presentation or speech to a crowd of children and adults gathered around him.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 31,
+        "total_tokens": 2785
+      }
+    },
+    {
+      "intervalle_index": 320,
+      "intervalle_debut": 4800,
+      "intervalle_fin": 4815,
+      "analyse_action": "The scene shows two children engaged in a serious conversation. One child wears a gray jacket and turns his body slightly toward the other child, who is a girl dressed in a pink dress with a red bow in her hair. They stand facing each other very closely with what appears to be a tense standoff between them.\n\nBehind them, other students can be seen as part of a larger group of children. The interaction has a distinctly somber and intense atmosphere, with the boys in suits and ties and the girls in dresses looking serious and displaying concern and worry.\n\nThe setting is a gymnasium decorated for a celebration, evident from the colorful balloons and table nearby.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 132,
+        "total_tokens": 2886
+      }
+    },
+    {
+      "intervalle_index": 321,
+      "intervalle_debut": 4815,
+      "intervalle_fin": 4830,
+      "analyse_action": "The scene depicts a tense confrontation taking place in an office environment. Two adult men are having an intense discussion - one wearing a vertically striped white shirt with an earpiece, and the other in a blue pinstripe suit who appears slightly taller but is looking down at him.\n\nThe tension is palpable with their serious expressions and body language as they face each other across a desk. The setting is formal, indicated by the office furniture that's visible, including a black bookshelf filled with books and several framed pictures on the walls that add character to the space.\n\nIn the doorway behind them, a security guard wearing a white shirt and uniform hat stands watch, and his presence, along with the dim room lighting and bookshelf contents which seem to include notable items like a police badge and possibly a transparent sphere trophy, suggests this is an important office or administrative space where something significant is being discussed or resolved.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 181,
+        "total_tokens": 2935
+      }
+    },
+    {
+      "intervalle_index": 322,
+      "intervalle_debut": 4830,
+      "intervalle_fin": 4845,
+      "analyse_action": "In the scene, two men in suits are standing in an office-like room facing a man in a gray-and-white striped shirt with a hearing aid. Throughout the interaction, the striped-shirted man and the suited man exchange stern, tense glances while they talk. The suited man occasionally snaps his fingers, the office lamp provides a warm glow over the tense conversation, and the uniformed officer maintains a neutral watchful posture, observing the exchange from the doorway and partitioned area.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 97,
+        "total_tokens": 2851
+      }
+    },
+    {
+      "intervalle_index": 323,
+      "intervalle_debut": 4845,
+      "intervalle_fin": 4860,
+      "analyse_action": "The scene depicts an intense interrogation taking place in an official police or correctional facility room. The actor wearing the black pinstripe suit stands facing the other man across a tense space. A police officer in uniform is positioned in a doorway between them, maintaining a watchful presence throughout the exchange.\n\nThe suited man is speaking forcefully and emphatically toward the man in the white-and-gray striped shirt, who leans slightly forward as he responds, appearing concerned about the conversation. The suited man's confident body language and conversational tone suggest he's taking a dominant role in the exchange, while his opponent maintains a more cautious, defensive posture.\n\nThe atmosphere is clearly formal and confrontational, with the institutional setting visible through details like the earpiece wires on the striped-shirt man, the formal uniforms, the coat rack, shelf with awards, framed pictures on the wall, and the doorway leading to another room. An official standing watch in the doorway reinforces the serious, controlled nature of this meeting between two high-ranking officers in what appears to be an official investigation or disciplinary conversation. The scene between the two men involved contains an aggressive or challenging tone.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 227,
+        "total_tokens": 2981
+      }
+    },
+    {
+      "intervalle_index": 324,
+      "intervalle_debut": 4860,
+      "intervalle_fin": 4875,
+      "analyse_action": "The scene shows a tense confrontation unfolding. Two men are visible - one in a formal black pinstripe suit with a serious, likely authoritative demeanor, and another wearing an earpiece on a corded headset.\n\nThe setting indicates this is some kind of official or law enforcement environment, possibly an interrogation room or evidence review area. There's a police officer in uniform present in the background, which adds to the official capacity of the space.\n\nThe officer in the headset appears to be speaking and gesturing, suggesting he's giving instructions or debriefing someone. The suited man maintains a stern, professional stance, watching carefully. His body language and the positioning of both figures suggest this is some kind of procedural, authoritative exchange - possibly a police briefing, case discussion, or evidence-related conversation.\n\nThe overall atmosphere is formal and controlled, with the authority figure (the suited man) dominating the space while the officer provides what appears to be official commentary or direction.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 191,
+        "total_tokens": 2945
+      }
+    },
+    {
+      "intervalle_index": 325,
+      "intervalle_debut": 4875,
+      "intervalle_fin": 4890,
+      "analyse_action": "In the scene, a young boy in a white button-down shirt with rolled-up sleeves and dark pants is addressing four adult men standing in a room. The scene unfolds at night, with the adults positioned in a semi-circle around the boy during what appears to be some kind of formal or serious business meeting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 62,
+        "total_tokens": 2816
+      }
+    },
+    {
+      "intervalle_index": 326,
+      "intervalle_debut": 4890,
+      "intervalle_fin": 4905,
+      "analyse_action": "The scene is set in a dimly lit room where a girl wearing a white button-down shirt and necklace is typing on an old computer keyboard at a white desk. As she types, someone enters the room, causing a brief moment of shock that makes her jump slightly. \n\nAfter the initial surprise passes, the camera moves in to frame her face as she looks back at the screen she's been typing on. The monitor displays an active chat interface on a green background with purple border and snake design, labeled \"SnakeChat\". The conversation on the screen shows two participants having a lively virtual interaction, with one person named \"Mongoose12\" mentioning a fictional place called \"Virtual Village\". The person identified as \"ViperBoi\" responds with quick, enthusiastic agreement.\n\nThe overall atmosphere is quite dark and intimate, with warm light coming from behind the seated figure and casting shadows across the room. The girl's expression suggests a mix of concentration and slight amusement as she engages with the virtual text conversation that's taking place.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 207,
+        "total_tokens": 2961
+      }
+    },
+    {
+      "intervalle_index": 327,
+      "intervalle_debut": 4905,
+      "intervalle_fin": 4920,
+      "analyse_action": "The scene shows a conversation taking place in a chat window between two users, Mongoose 12 and Viper Boy, in what appears to be a casual gaming chat room.\n\nYou can see their dialogue scrolling upward as they discuss video games - specifically mentioning a virtual reality game called \"Virtual Village.\" The chat interface is clearly visible, with their conversation displayed in black text against a clean white background.\n\nThe chat interface has a distinctive blue-and-brown color scheme throughout, and there's a subtle pattern visible at the bottom edge of the screen. On one side, there's what looks like a cursor that appears when you're typing.\n\nThe scene captures a typical online gaming community interaction, with the users casually asking about virtual reality games and location-based adventures, revealing their gaming interests through their conversation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 160,
+        "total_tokens": 2914
+      }
+    },
+    {
+      "intervalle_index": 328,
+      "intervalle_debut": 4920,
+      "intervalle_fin": 4935,
+      "analyse_action": "McDowell is working on an old-style computer on a desk in a house. He's typing into the system and reviewing text messages that appear on the screen, with sections of dialogue being shown up close. The messages include someone questioning \"could get it off?\" The conversation is displayed on a blue-toned background with a green border that resembles a plant pattern, suggesting this could be some kind of video game or interactive communication program.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 88,
+        "total_tokens": 2842
+      }
+    },
+    {
+      "intervalle_index": 329,
+      "intervalle_debut": 4935,
+      "intervalle_fin": 4950,
+      "analyse_action": "The video shows a boy sitting at a desk working on an old CRT computer terminal in a dimly lit bedroom inside what appears to be the White House at night. The camera then pans away from the boy's workspace and begins to reveal more of the surrounding area.\n\nAs the night progresses, the view expands outward to show the broader exterior setting. Bright exterior lights illuminate a white fence, walls, and front lawn area, while a large white building with numerous windows—consistent with the White House's appearance—comes into full view in the distance.\n\nThe nighttime scene involves people moving through the illuminated outdoor area, walking along the illuminated path and moving behind the fence in the ghostly, nocturnal atmosphere. The exterior lights create a stark contrast against the dark night sky and surrounding darkness.\n\nThe sequence moves from the controlled, dimly lit interior where the young boy is studying at his computer, through the transitional spaces of the house, and finally out to the grand exterior of the White House at night with its official lights and security perimeter.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 207,
+        "total_tokens": 2961
+      }
+    },
+    {
+      "intervalle_index": 330,
+      "intervalle_debut": 4950,
+      "intervalle_fin": 4965,
+      "analyse_action": "In the scene, a young boy is in a car at night, seated near a steering wheel, using a white laptop that's propped up against a black steering wheel. He's looking at the laptop screen, which shows text formatted like an instant message conversation.\n\nThe screen displays a conversation between characters called \"MONGOOSE12\" and \"VIPERBOY\" where MONGOOSE12 is planning to visit a mall with a virtual reality option and asks VIPERBOY \"Why don't you want to go?\" The text on the screen includes dialogue with messages about getting a tracker off and other short, conversation-style messages.\n\nThe boy's gaze is fixed on the glowing screen, and there's a close-up showing his concerned expression—his mouth is slightly open and his eyes are looking downward toward the device. The scene has a somber, indoor nighttime atmosphere, with the blue glow of the screen illuminating his face and the interior around him.\n\nThe boy appears to be using the computer for what looks like a virtual communication exchange, possibly involving tracking or some kind of online multiplayer interaction, and he seems troubled by something he's reading on the screen.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 236,
+        "total_tokens": 2990
+      }
+    },
+    {
+      "intervalle_index": 331,
+      "intervalle_debut": 4965,
+      "intervalle_fin": 4980,
+      "analyse_action": "The scene appears to be showing a conversation or text exchange between two people.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 16,
+        "total_tokens": 2770
+      }
+    },
+    {
+      "intervalle_index": 332,
+      "intervalle_debut": 4980,
+      "intervalle_fin": 4995,
+      "analyse_action": "The scene shows the gradual progression from night to daylight over the White House. At first, it's completely dark with the iconic Washington Monument flaring blue and purple, then it begins to brighten until the building is clearly illuminated. The view widens to show details of the grounds—trees framing the lawn with a four-pillared facade featuring a triangular pediment and a circular flagpole displaying the American flag. \n\nA fountain is visible in the foreground, with grass and flowers around it, surrounded by trees. The sky transitions from deep blue at the horizon to lighter blue higher up, with a faint purple tint low on the shot, and eventually the Washington Monument appears white.\n\nLater, the footage shifts indoors to a bedroom where a large shaggy dog with gray-and-white fur lies sleeping on a yellow-and-blue striped bedspread wearing a brown collar. The room has a cozy setup with walls covered by family photos and movies, posters, and decorative elements like a string of clear and blue disco balls suspended from the ceiling. By the end, a man walks in and slowly turns around to look at the camera.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 224,
+        "total_tokens": 2978
+      }
+    },
+    {
+      "intervalle_index": 333,
+      "intervalle_debut": 4995,
+      "intervalle_fin": 5010,
+      "analyse_action": "In the scene, a young boy is heading downstairs after grabbing his backpack and jacket. As he walks down the staircase, a dog follows him. The camera then pulls back to reveal that this entire scene is being shown on one of several small surveillance monitors in what appears to be a security control room. The setting has an older, more nostalgic feel to it, with vintage equipment like VHS tape players and multiple security screens arranged around the room, suggesting this footage is being monitored from some kind of control center.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 103,
+        "total_tokens": 2857
+      }
+    },
+    {
+      "intervalle_index": 334,
+      "intervalle_debut": 5010,
+      "intervalle_fin": 5025,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 335,
+      "intervalle_debut": 5025,
+      "intervalle_fin": 5040,
+      "analyse_action": "A young boy wearing a black baseball cap and hoodie is walking his dog through a busy plaza outside a white government building. He carries a blue backpack and keeps casually checking the leash as he moves. The dog is a large, fluffy black-and-white breed of larger size. At one point, he kneels down on the concrete steps to pet the dog, then gets up and continues walking it through the bustling area.\n\nAround him, there's substantial daily activity: people walk across the plaza, someone climbs the broad stone steps of the building while others descend, security personnel are visible, and various people add to the mix. Security and government staff are wearing black and safety carries briefcases. Parked cars line the street across the way, and anyone else nearby walks along the sidewalk. The scene has a lived-in feel with pedestrians moving in multiple directions, bags on their shoulders, briefcases swinging at their sides.\n\nThe boy moves at his own unhurried pace, glancing back at his dog occasionally as he navigates around other people, blending into the everyday traffic of the plaza while maintaining an easy, relaxed presence in what appears to be a busy government district.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 234,
+        "total_tokens": 2988
+      }
+    },
+    {
+      "intervalle_index": 336,
+      "intervalle_debut": 5040,
+      "intervalle_fin": 5055,
+      "analyse_action": "In the video, a man in a dark blue suit, white shirt, and a blue-and-black striped tie is standing in a cozy beach-themed living room momentarily staring at the big painting with smile and then turns to his two friends while gripping his gun with both hands and pointing it at them. Suddenly the friend on the left points his gun at the man and the man turns around in defense on the right while the other friend stares at the big painting as well.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 94,
+        "total_tokens": 2848
+      }
+    },
+    {
+      "intervalle_index": 337,
+      "intervalle_debut": 5055,
+      "intervalle_fin": 5070,
+      "analyse_action": "The scene shows three suited men in a hastily fleeing situation. The lead man charges through a bedroom doorway, with two men in gray suits chasing after him. They pass through a living or workspace area and rush into the bedroom, where they run toward a dark brown door.\n\nThe bedroom is a cluttered, whimsical space filled with various items including a blue couch, bed with blue and gray striped bedding, posters and pictures, a hanging dreamcatcher, skateboard, lamp with a dangling shark puppet, and action figures. The room has hardwood floors and yellow walls.\n\nThe man leading the escape swings open the door and goes through, with the two pursuing men in close pursuit. The scene ends with the scene pulling back to show the running figures on the other side of the door, indicating they've reached their destination.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 164,
+        "total_tokens": 2918
+      }
+    },
+    {
+      "intervalle_index": 338,
+      "intervalle_debut": 5070,
+      "intervalle_fin": 5085,
+      "analyse_action": "The scene depicts official law enforcement activity at what appears to be a government or police facility. The setting is formal and structured, featuring an official hallway with a professional atmosphere and color-coded corridors.\n\nSeveral individuals in suits are moving through the hallway - some carrying a small dog on a leash. A woman in police uniform stands in the doorway. The people are wearing identification badges, suggesting this is an interior of a government building or police precinct.\n\nThe scene shifts from the hallway into what appears to be an office area. Several people are gathered in discussion - this includes a man in a gray suit positioned on the left, a man in a blue suit with a striped tie at the center, and others including a woman with a white name tag and name badge and a person wearing a blue hoodie with a blue t-shirt underneath.\n\nThe setting has a professional but somewhat dim atmosphere, with gray walls, a ceiling light fixture, a gray desk, and various technological equipment like computer monitors and digital displays visible in the background. The overall color scheme is gray, black, white, blue, green, yellow, and red.\n\nThis appears to be an official police or government investigation or meeting taking place - the presence of multiple suited personnel, the police officer on duty, and the discussion in the office area all indicate formal law enforcement business being conducted at what is likely a police station or government facility.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 276,
+        "total_tokens": 3030
+      }
+    },
+    {
+      "intervalle_index": 339,
+      "intervalle_debut": 5085,
+      "intervalle_fin": 5100,
+      "analyse_action": "The scene takes place in a busy, high-tech operations center with dark gray walls and gray flooring, filled with computer displays glowשלם",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 27,
+        "total_tokens": 2781
+      }
+    },
+    {
+      "intervalle_index": 340,
+      "intervalle_debut": 5100,
+      "intervalle_fin": 5115,
+      "analyse_action": "In the scene, taskforce members are discussing their next steps with Frank.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 16,
+        "total_tokens": 2770
+      }
+    },
+    {
+      "intervalle_index": 341,
+      "intervalle_debut": 5115,
+      "intervalle_fin": 5130,
+      "analyse_action": "It's a high-stakes moment centered around a serious investigation. Detective Tim McGee from NCIS appears to have his attention grabbed by some unfolding information, while Detective Danny Williams looks visibly upset and is actively talking to a man in a blue suit who seems caught in the middle of something complicated. \n\nThe scene then shows officers moving quickly through secure entrances, running past security and into their building with urgency. This sudden rush suggests an emergency or crisis situation breaking out - it looks like McGee might get called to action or respond to whatever's happening outside.\n\nAmid all this tension, forensic accountant Don Flanagan is present, suggesting this investigation involves complex financial elements. The combination of McGee's focused demeanor, Danny's visible agitation, police officers on full alert, and presence of the forensic accountant points to a serious case developing that requires multiple aspects of law enforcement and forensic analysis to handle properly.\n\nThe office setting with its computers and charts, along with the hallway scene of officers racing through secure doors, creates a sense of criminal activity or a major investigative breakthrough occurring just outside the station at the moment the scene takes place.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 225,
+        "total_tokens": 2979
+      }
+    },
+    {
+      "intervalle_index": 342,
+      "intervalle_debut": 5130,
+      "intervalle_fin": 5145,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 343,
+      "intervalle_debut": 5145,
+      "intervalle_fin": 5160,
+      "analyse_action": "The scene is a bustling multi-level shopping mall. From an elevated perspective, you can see the bright atrium filled with people moving in all directions - some strolling in groups, others examining storefronts in the distance, and some sitting at tables below. The space is organized with marbled and tiled flooring in the atrium, and the mall features metal staircases connecting the various levels.\n\nThe camera then shows a young boy walking through one of the walkways on an upper floor. He's wearing a backwards black baseball cap, a black sweater over a green shirt, and has a backpack on. He's looking downward as he walks, then glances toward the camera with a surprised expression before continuing on his path.\n\nIn the walkway, there's a box containing a brown monkey stuffed animal in the foreground. The boy moves past this display with his group, and family members can be seen accompanying him - including a man in a red and blue striped shirt, someone in a white suit carrying a briefcase, and a woman holding a child. The scene captures the typical energy of a busy shopping center with people shopping, riding escalators, and going about their day.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 236,
+        "total_tokens": 2990
+      }
+    },
+    {
+      "intervalle_index": 344,
+      "intervalle_debut": 5160,
+      "intervalle_fin": 5175,
+      "analyse_action": "The scene takes place in a busy shopping mall food court and shows a lively gaming area. A boy wearing a black baseball cap turned backwards approaches and interacts with arcade-style racing machines on the floor.\n\nBehind him stands a man in a white lab coat or long white jacket. The boy demonstrates the attraction by performing precise, deliberate maneuvers on the game's controls. During this display, he glances back toward the camera with a small, confident smirk before continuing to work the controls.\n\nThe surrounding food court is bustling with activity, with many people standing around observing the activity, milling about, and dining. A large screen sits in the space displaying a pink-and-blue graphic. Multiple arcade machines are positioned in the area, including one marked with an orange triangle featuring a yellow figure, another glowing with a green symbol, and a black racing vehicle-style unit with red accents.\n\nWhile the boy engages with the machine, a gentleman in a white lab coat stands nearby, holding a piece of paper. He then approaches the boy, gestures toward the machine, and they talk together. The background continues to show a crowded, active environment with customers dressed casually in hoodies and jeans drifting about, creating a typical energetic mall atmosphere centered around gaming and entertainment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 247,
+        "total_tokens": 3001
+      }
+    },
+    {
+      "intervalle_index": 345,
+      "intervalle_debut": 5175,
+      "intervalle_fin": 5190,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 346,
+      "intervalle_debut": 5190,
+      "intervalle_fin": 5205,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 347,
+      "intervalle_debut": 5205,
+      "intervalle_fin": 5220,
+      "analyse_action": "The scene takes place inside what appears to be a store, with a gray wall featuring a red sign that reads \"I used to be, I was late,\" a brown door with a window, a brown shelf with a black-and-white object, and another shelf holding a black-and-silver device.\n\nTwo men are engaged in what looks like a serious confrontation or heated discussion. One man is wearing a black, white, and green floral-patterned shirt over a black T-shirt and appears to be the aggressor - he's standing aggressively, projecting intensity and possession as he discusses and argues with the other man. He's holding a black object and gestures forcefully with his left hand.\n\nThe other man, wearing a dark blue jacket over a gray shirt, stands close to the aggressor but doesn't seem particularly alarmed. At one point, he picks up from the wall and puts on his glasses. As the confrontation continues, the other man eventually pushes toward the door, suggesting he may be attempting to leave or gain some physical distance from the argument.\n\nThe relationship between the two men appears strained, their body language tense and confrontational, creating an atmosphere of communication gone wrong or an unresolved disagreement escalating in what looks like a store environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 247,
+        "total_tokens": 3001
+      }
+    },
+    {
+      "intervalle_index": 348,
+      "intervalle_debut": 5220,
+      "intervalle_fin": 5235,
+      "analyse_action": "The scene takes place in a large, bright mall mall where the character played by Kevin Smith quickly runs through the crowded space, which is full of activity - there are shoppers on all three levels, including a man in a white shirt with a black vest near a restroom toilet, a woman with short brown hair inside a collection of cameras in a store, people walking by in purple outfits and blue-and-white striped shirts, and someone in a wheelchair moving past the camera. Kevin Smith's character heads toward a store called \"counter intelligence,\" marked by signage showing locations including Beverly Hills, Miami, and Honolulu. \n\nHe enters this store which contains various mannequins and is decorated with colorful artwork. Inside, he encounters another man seated in a wheelchair, wearing a black shirt with a green and red pattern. After this brief exchange, he continues moving through the busy mall environment, with the glass entrance doors from the store visible to one side and the lively atmosphere maintained by all the people coming in and out.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 202,
+        "total_tokens": 2956
+      }
+    },
+    {
+      "intervalle_index": 349,
+      "intervalle_debut": 5235,
+      "intervalle_fin": 5250,
+      "analyse_action": "In the scene, there's a bustling multi-level shopping mall centered around a fountain with a golden dome. The space is filled with shoppers moving throughout the atrium, including a blonde woman in a red coat and black purse, a woman in a blue jacket, and a woman in a black dress with a white jacket.\n\nAlex is walking through this busy mall environment. More shoppers and retail spaces come into view, creating a vibrant public shopping atmosphere with gold railings, decorative plants, and brick accents.\n\nThere's a brief moment of tension or surprise as a person in a black shirt briefly appears at the right side of the frame with their eyes closed and head slightly tilted back.\n\nThe scene then zooms in on the man in the wheelchair, now clearly visible wearing a colorful floral shirt in pink, green, and white. He's raising his right hand while holding a black object, which he examines with a serious expression against the backdrop of the lively mall.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 192,
+        "total_tokens": 2946
+      }
+    },
+    {
+      "intervalle_index": 350,
+      "intervalle_debut": 5250,
+      "intervalle_fin": 5265,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 351,
+      "intervalle_debut": 5265,
+      "intervalle_fin": 5280,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 352,
+      "intervalle_debut": 5280,
+      "intervalle_fin": 5295,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 353,
+      "intervalle_debut": 5295,
+      "intervalle_fin": 5310,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 354,
+      "intervalle_debut": 5310,
+      "intervalle_fin": 5325,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 355,
+      "intervalle_debut": 5325,
+      "intervalle_fin": 5340,
+      "analyse_action": "In this scene, a young man is being confronted at a crowded shopping mall. He's approached by a man wearing a blue zip-up hoodie with short brown hair and a mustache who looks angry and confrontational. The young man, who's wearing a black jacket—later shown with a black baseball cap—backs up as he's singled out in what appears to be a tense exchange.\n\nThe confrontation escalates quickly when the boy pulls out a gun and shoots at someone's head. This shocking moment occurs amid the bright, busy mall environment with its glass ceiling, colorful booths, and people dragging rolling luggage, creating a striking contrast between everyday shopping activity and this violent incident.\n\nAfter the shooting, surveillance footage captures the aftermath. Security personnel are walking toward the young man while he's seen lowering a backpack, clearly under observation.\n\nThe scene suggests this confrontation takes place on a neon-lit street, possibly in Tokyo, given the urban setting with the crowded malls, fruit stands, and surrounding buildings visible throughout the area.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 204,
+        "total_tokens": 2958
+      }
+    },
+    {
+      "intervalle_index": 356,
+      "intervalle_debut": 5340,
+      "intervalle_fin": 5355,
+      "analyse_action": "In the scene, a man with a reddish mustache is engaged in a serious conversation with a young boy wearing a black baseball cap. The man appears to be addressing or counseling the boy, leaning forward and at one moment gripping the boy's cheeks firmly to emphasize his point. The boy stands with his mouth slightly open, absorbing the man's words and looking up at him with a mix of curiosity and uncertainty.\n\nThe setting is a lively shopping mall, creating a stark contrast between the bustle of the environment—filled with people browsing storefronts and illuminated signs—and the intimate, tense exchange between the two central figures.\n\nThis appears to be a pivotal moment in the story, with the rough manner of the older man's grip on the child's face suggesting some kind of confrontation or difficult discussion is taking place amid the typical commotion of everyday public life.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 172,
+        "total_tokens": 2926
+      }
+    },
+    {
+      "intervalle_index": 357,
+      "intervalle_debut": 5355,
+      "intervalle_fin": 5370,
+      "analyse_action": "The scene takes place in a bustling public space resembling a mall with multiple levels and commercial areas. People are crowded throughout the space, moving between various sections including what appears to be a gaming arcade area and retail storefronts.\n\nA man in a distinctive black floral shirt leans on a metal railing while using a black device with gold accents to monitor the surrounding crowd. He's focused and intent, scanning the space.\n\nElsewhere, a man in a gray trench coat escorts a young boy wearing a black jacket and backward baseball cap into a room or area within the venue.\n\nAdditionally, a tall man in a blue sweater and blue jeans surveys the scene from behind a railing.\n\nThe atmosphere is tense and alert, as if there's some kind of surveillance or observation taking place. Various patrons are seen throughout, including someone seated in a silver chair wearing a blue mask, and another woman pushing a stroller near the arcade area.\n\nOverall, it appears to be a scenario of careful monitoring or covert observation within an busy, multi-level commercial environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 206,
+        "total_tokens": 2960
+      }
+    },
+    {
+      "intervalle_index": 358,
+      "intervalle_debut": 5370,
+      "intervalle_fin": 5385,
+      "analyse_action": "The scene takes place in a busy multi-level mall with a modern, bustling atmosphere. Larry David is showing up in a wheelchair and appears to be reacting to something in his surroundings. The mall is filled with various shoppers and bystanders moving through the space. A large yellow neon sign reading \"Virtual Reality Center\" glows prominently, positioned above gray tiled floors.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 73,
+        "total_tokens": 2827
+      }
+    },
+    {
+      "intervalle_index": 359,
+      "intervalle_debut": 5385,
+      "intervalle_fin": 5400,
+      "analyse_action": "The scene takes place in a bustling indoor shopping mall that serves as both the opening and closing setting. In the beginning, there's a dramatic moment with black-clad figures visible on an upper balcony looking down over sprawling planters arranged below—plants cascading through brown railing panels as pedestrians move beneath a white ceiling supported by white pillars. A Ferris wheel is illuminated on the lower level, bright lights flicker in a large square opening near floor level, and there's a well-lit stairwell with a glass-and-metal railing. The activity suggests some tense atmosphere or occurrence happening in the space.\n\nAs the camera largely focuses on the black man's point of view, he rotates around and appears to fall over before people begin rushing toward him, creating a sense of urgency.\n\nThe scene concludes by returning to this same mall environment from a different angle, where passersby are walking from right to left past storefront windows and hanging lights. The architecture remains consistent throughout—white walls and pillars, the multi-level layout with landings and connections between levels, and the various retail spaces making up this large, busy commercial space.\n\nOverall, it's a sequence that establishes this mall as both a quiet backdrop at the start and an active, bustling location that later becomes filled with people moving quickly through the space.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 261,
+        "total_tokens": 3015
+      }
+    },
+    {
+      "intervalle_index": 360,
+      "intervalle_debut": 5400,
+      "intervalle_fin": 5415,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 361,
+      "intervalle_debut": 5415,
+      "intervalle_fin": 5430,
+      "analyse_action": "The scene takes place in a busy indoor mall, showcasing a variety of activities and interactions unfolding across different areas. \n\nThe space is bustling with crowds moving in both directions along the corridors and toward glass doors. People wear different colored clothing—blue, red, white, and other combinations—while young children are being pushed at the front of the crowd. \n\nThe environment features mall infrastructure including glass walls, wooden railings, benches, a white column, and potted plants. A seating area with a green plant is where some people are sitting while others come and go.\n\nThere are multiple focal points:\n• A woman in a white shirt with a black purse walking away from the camera\n• A man in a wheelchair wearing a Hawaiian shirt being pushed across a section of the mall\n• People in wheelchairs moving through the space, including one being pushed by someone in white pants\n• A man in a gray jacket holding the wrist of a young boy wearing a backward baseball cap and black hoodie\n\nThe scene captures the everyday bustle and diverse crowd of a lively shopping center, with people in wheelchairs being helped through the space alongside able-bodied individuals moving in their daily routines. The activity flows through different areas of the mall, from the busy corridors to the more open seating sections.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 259,
+        "total_tokens": 3013
+      }
+    },
+    {
+      "intervalle_index": 362,
+      "intervalle_debut": 5430,
+      "intervalle_fin": 5445,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 363,
+      "intervalle_debut": 5445,
+      "intervalle_fin": 5460,
+      "analyse_action": "The scene takes place in a bustling shopping mall's atrium, capturing a tense moment amid normal daily activity. A blue-clad man makes a sudden, urgent dash toward an escalator to an upper level, stopping the motion of a raised hand from a woman with long black hair in a red shirt who had been walking just behind him.\n\nAt the same time, two other men stand anxiously visible in the foreground—one in a gray jacket over a blue collared shirt, and another wearing a black baseball cap with a backwards orientation—who look on with worried expressions.\n\nThe incident unfolds against the context of regular mall life, with shoppers going about their routines—some pausing and reacting to the sudden event, while others continue their shopping or conversations. The cords of the malware with Dave and Carter begin to move as they weave through the chaos in the background.\n\nThe scene captures the contrast between this unexpected moment of urgency and the surrounding humdrum of a busy commercial space, with people shifting from casual activity to alert attention as the situation develops.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 209,
+        "total_tokens": 2963
+      }
+    },
+    {
+      "intervalle_index": 364,
+      "intervalle_debut": 5460,
+      "intervalle_fin": 5475,
+      "analyse_action": "The scene takes place inside a busy mall where Will Ferrell is having what appears to be an intense, confrontational interaction with Doug Jones, who has his arm around his son, Asa Butterfield.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 42,
+        "total_tokens": 2796
+      }
+    },
+    {
+      "intervalle_index": 365,
+      "intervalle_debut": 5475,
+      "intervalle_fin": 5490,
+      "analyse_action": "The scene takes place in a busy shopping mall where a conversation is unfolding between several people. The man in gray jacket and boy in black clothes are having a discussion with Will Smith, who's wearing his dark blue sweatshirt and jeans, in front of a gift shop.\n\nAround them, you can see the typical mall atmosphere with lots of foot traffic - shoppers weaving past storefronts including the one displaying gift boxes under its sign. The floor has that varied pattern of black, gray, and white tiles common in malls.\n\nAs the conversation progresses, the camera catches different angles - showing the exchange between the speakers, Has the camera maintains focus on the main interaction while the mall's commercial environment remains active in the background with people moving through their shopping routines.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 150,
+        "total_tokens": 2904
+      }
+    },
+    {
+      "intervalle_index": 366,
+      "intervalle_debut": 5490,
+      "intervalle_fin": 5505,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 367,
+      "intervalle_debut": 5505,
+      "intervalle_fin": 5520,
+      "analyse_action": "In the scene, a dramatic confrontation is unfolding in a shopping mall. Carl Weathers, played by Eddie Murphy, is addressing the situation by speaking seriously. His natural charisma and distinctive mustache make his presence particularly notable as he stands near storefront windows in what appears to be a \"Customer Service\" area, with items visible on display behind glass.\n\nMeanwhile, a tense standoff is taking place involving two other characters. A man with reddish-brown hair and mustache, wearing a gray jacket over a blue-and-white striped shirt, is aggressively pointing a black pistol at another person. Alongside him is a younger child or young man wearing a black hat turned backwards, a black coat, and a gold necklace, who stands with the weapon pointed.\n\nThe entire scene takes place in the chaotic environment of a busy mall, complete with tiled floors, potted plants, and various storefronts in the background. People can be seen moving through the space, creating an atmosphere of tension and unpredictability typical of heated confrontations in public places.\n\nBoth Carl Weathers and the man with the gun appear to be speaking as they navigate this volatile situation, with the aggressive pointing of the weapon and the presence of another armed character creating a palpable sense of danger and urgency in the confined public space.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 257,
+        "total_tokens": 3011
+      }
+    },
+    {
+      "intervalle_index": 368,
+      "intervalle_debut": 5520,
+      "intervalle_fin": 5535,
+      "analyse_action": "The scene unfolds in what appears to be a tense, high-stakes situation inside a mall. \n\nA middle-aged man with reddish hair and a mustache is holding a gun and urgently points it while speaking. His behavior is agitated and tense - he gestures sharply with the weapon as he addresses someone off-camera to his left.\n\nNext to him is a young boy wearing a black baseball cap backward and black hoodie, who looks extremely distressed and frightened. The boy clings tightly to the man's arm, tears streaming down his face, clearly shaken by the confrontation. His body language—crouching closer and clinging to the adult—shows he's trying to reassure himself despite his fear.\n\nThe mall setting includes typical elements like potted plants, tiled flooring with a brown square mat, an escalator, and buildings in the background. There are also shoppers visible in the background - one person walks away while another stands nearby - suggesting this chaotic moment is unfolding amid regular mall activities.\n\nThe overall atmosphere is charged with urgency and tension. The man's aggressive pointing, combined with the boy's visible distress, indicates this is likely some sort of confrontation or standoff situation happening in an unexpected location where violence is not typical. The combination of the mall environment with all this intensity creates a dramatically unsettling scenario.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 260,
+        "total_tokens": 3014
+      }
+    },
+    {
+      "intervalle_index": 369,
+      "intervalle_debut": 5535,
+      "intervalle_fin": 5550,
+      "analyse_action": "The scene takes place inside a bright, bustling mall with large windows and green plants visible. It shows a tense confrontation involving a red-haired man with a mustache in a gray jacket, a blonde boy in a black baseball cap, and a Black man in a blue hoodie.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 56,
+        "total_tokens": 2810
+      }
+    },
+    {
+      "intervalle_index": 370,
+      "intervalle_debut": 5550,
+      "intervalle_fin": 5565,
+      "analyse_action": "The scene takes place in a mall where tension is escalating into a confrontation. A man with a mustache and reddish-brown hair is standing in a threatening stance, wearing a gray jacket over a blue-and-white striped button-up shirt, as he points a black pistol at another man in a blue zip-up jacket who is stepping forward with his hands raised in surrender.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 75,
+        "total_tokens": 2829
+      }
+    },
+    {
+      "intervalle_index": 371,
+      "intervalle_debut": 5565,
+      "intervalle_fin": 5580,
+      "analyse_action": "A chaotic gunfight is taking place in the coffee shop. One of the men is kneeling on the ground defensively while another stands nearby, shots being fired at people around the establishment. It appears to be an intense moment of confrontation in the venue.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 50,
+        "total_tokens": 2804
+      }
+    },
+    {
+      "intervalle_index": 372,
+      "intervalle_debut": 5580,
+      "intervalle_fin": 5595,
+      "analyse_action": "The scene depicts a tense gun training or weapon instruction session taking place in a mall setting. A man with reddish-brown hair wearing a gray trench coat is demonstrating marksmanship with a black handgun. He's working with a young boy wearing a black baseball cap and dark jacket, who's following along with the instruction.\n\nThe focus periodically shifts to a Black man with short hair and a mustache who's reacting to what's happening. This man is shown reacting with concern when he sees the gun situation occurring.\n\nThe demonstration appears to include the use of a bullet casing positioned on the ground, which the man in the trench coat points at and gestures toward during the instruction. The scene also incorporates elements of chaos, as there's a moment where something drops and triggers an alarm or sprayer, causing visible smoke to rise in the area.\n\nThe setting shows various mall features including a bench with bottles of water, a glass door, and gold and silver metal poles supporting fixtures, creating an interesting contrast between a public space and what appears to be a weapons demonstration.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 213,
+        "total_tokens": 2967
+      }
+    },
+    {
+      "intervalle_index": 373,
+      "intervalle_debut": 5595,
+      "intervalle_fin": 5610,
+      "analyse_action": "In a mall atrium, a chaotic chase and confrontation unfolds. A man in a gray trench coat and pants aims a gun at a much shorter man wearing a blue hoodie over a dark green t-shirt who drops to the ground and rolls away. The gunman unleashes a volley of gunfire into the air, which ricochets back and strikes the man in the blue hoodie.\n\nAs the blue Hoodie man scrambles to escape, a third person—a red-haired man in a gray jacket—bursts into the scene, tackling the gunman face-first into the floor and taking down the blue Hoodie man as well. The blue Hoodie man gets back on his feet, grabs the fallen red-haired man by the arm, and captures the gunman. All three end up crouched behind a shopping cart together, bracing themselves with their hands on the cart's lower portion for cover.\n\nThe scene takes place in a busy mall atrium featuring a white tile floor broken by a circular marble feature, a glass-enclosed staircase rising along one side, a potted green tree, and a white stanchion nearby.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 225,
+        "total_tokens": 2979
+      }
+    },
+    {
+      "intervalle_index": 374,
+      "intervalle_debut": 5610,
+      "intervalle_fin": 5625,
+      "analyse_action": "In the scene, two men are engaged in a physical confrontation in what appears to be a mall environment. One man is grabbing the other around the neck, essentially choking him. Despite this aggression, rather than fleeing or breaking free, the man being attacked actually walks out of the situation.\n\nThe attacked man is wearing a blue jacket over a blue shirt with black hair and a mustache. His hands are raised in a tense, fighting posture as he moves forward and walks away from the person choking him.\n\nThe aggressor is a man in a gray jacket over a white button-up shirt who's gripping his opponent from behind with one hand around his neck. The setting includes mall elements like a glass railing, a white wall with a gray border, a green plant, and the red \"K-Lite Coffee\" sign visible in the background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 168,
+        "total_tokens": 2922
+      }
+    },
+    {
+      "intervalle_index": 375,
+      "intervalle_debut": 5625,
+      "intervalle_fin": 5640,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 376,
+      "intervalle_debut": 5640,
+      "intervalle_fin": 5655,
+      "analyse_action": "In the mall scene, Denzel Washington and the young boy are having what appears to be a serious conversation or interaction while crouched low on the floor. Denzel is offering support by extending his hand and resting a hand on the boy's shoulder, suggesting he may be older or mentoring the younger boy. The setting is quite luxurious with large glass storefronts, wooden shelving, and elevated balconies with greenery visible in the background, creating a contrasting atmosphere for their discussion.\n\nThe interaction seems to be meaningful between the two, though it's not a playful moment—they're positioned close together, kneeling on the white floor in what looks like a focused exchange. Denzel ultimately stands and prepares to walk away, implying this conversation may have reached some conclusion.\n\nThe scene then shifts dramatically to a completely different setting where a middle-aged man with a receding hairline is shown submerged in shallow, murky brown water. He's wearing a blue-and-white striped button-up shirt that's wet and darkened with what appears to be blood covering his mouth and jaw, with dark liquid dripping down his chin and over his shirt. His eyes are closed and head tilted back in what looks like a struggle or injury.\n\nThis stark contrast between the calm, introspective conversation in the upscale mall and the violent, clearly escalated situation with the injured man creates a dramatic juxtaposition in the narrative.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 276,
+        "total_tokens": 3030
+      }
+    },
+    {
+      "intervalle_index": 377,
+      "intervalle_debut": 5655,
+      "intervalle_fin": 5670,
+      "analyse_action": "The scene depicts an intense confrontation in a mall setting. A man wearing a black leather jacket and blue shirt is wading in a small indoor pool with a gun pointed toward the ground. A young boy in a black sweatshirt and backwards black baseball cap watches from nearby with a stunned expression.\n\nThe adult then begins speaking while aiming the handgun, as a man in a blue sweatshirt drops his phone and runs away. Meanwhile, the younger boy opens his mouth in alarm while looking at the man who remains standing in the pool.\n\nThis appears to be a high-tension situation, with the armed man directing attention through his positioning and the boy's startled reaction, while another person nearby shows sudden fear and retreats.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 143,
+        "total_tokens": 2897
+      }
+    },
+    {
+      "intervalle_index": 378,
+      "intervalle_debut": 5670,
+      "intervalle_fin": 5685,
+      "analyse_action": "The scene is from the movie \"Scary Movie\".\n\nWill Smith's character is rushing through the mall corridors in a frantic chase through a brightly lit, deserted shopping center. He's wearing his distinctive layered outfit - hoodie, blue shirt, and blue jeans - and his face shows visible shock and distress.\n\nThe chase takes them past a shop sign for \"The Galleria at Tyson's\" and escalators in the background, with Smith sprinting along the white tiled floors while keeping alert.\n\nMeanwhile, John Abrams follows behind him up the stairs, visibly exhausted from the entire ordeal. He's dressed in a business suit with a blue shirt underneath and a blue jacket on top.\n\nA secondary pursuer runs up the stairs and confronts Abrams, pointing a gun at him. The calm and sterile atmosphere of the quiet, nearly deserted mall space contrasts sharply with the high-tension, frantic chase unfolding through it.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 182,
+        "total_tokens": 2936
+      }
+    },
+    {
+      "intervalle_index": 379,
+      "intervalle_debut": 5685,
+      "intervalle_fin": 5700,
+      "analyse_action": "An escalation of conflict is taking place in what appears to be an indoor corn mall. Multiple gunmen are locked in a standoff. \n\nThe tension is at its peak with a man standing in a blazer, white shirt, and brown tie maintaining his aim, surrounded by armed bodyguards. The situation involves armed individuals with drawn firearms confronting and shooting at police officers in what has developed into an intense, violent conflict.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 83,
+        "total_tokens": 2837
+      }
+    },
+    {
+      "intervalle_index": 380,
+      "intervalle_debut": 5700,
+      "intervalle_fin": 5715,
+      "analyse_action": "The scene depicts an intense gunfight unfolding in a mall atrium. A blue-collar worker in a trench coat and blue shirt is being confronted by what appears to be a professional security team.\n\nThe confrontation escalates dramatically - the man in the trench coat is ambushed, seizes a gun and shoots, causing chaos throughout the tiled mall corridor. His actions trigger a broader panic as shoppers flee the area.\n\nThe security team is systematically apprehending armed individuals. One agent restraint依法追究 a man on the ground who's in distress after being shot, subduing him through full compliance with police handcuffs. This arrest is part of a larger operation by the team in suits and glasses, who are methodically going through the scene to arrest or detain all the open-gunned individuals.\n\nThe entire sequence portrays a ruthless, high-stakes standoff between armed criminals and a well-organized security force carrying out their arrest duties in what appears to be a Krispy Kreme-themed mall setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 196,
+        "total_tokens": 2950
+      }
+    },
+    {
+      "intervalle_index": 381,
+      "intervalle_debut": 5715,
+      "intervalle_fin": 5730,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 382,
+      "intervalle_debut": 5730,
+      "intervalle_fin": 5745,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 383,
+      "intervalle_debut": 5745,
+      "intervalle_fin": 5760,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 384,
+      "intervalle_debut": 5760,
+      "intervalle_fin": 5775,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 385,
+      "intervalle_debut": 5775,
+      "intervalle_fin": 5790,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 386,
+      "intervalle_debut": 5790,
+      "intervalle_fin": 5805,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 387,
+      "intervalle_debut": 5805,
+      "intervalle_fin": 5820,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 388,
+      "intervalle_debut": 5820,
+      "intervalle_fin": 5835,
+      "analyse_action": "The scene shows a large, lively gathering in front of the White House where people are celebrating and skating. Individuals are wearing yellow, white, blue, and gray uniforms, with many children in bright outfits, some with ice skates on. Others are watching the activity. The fountain and grassy areas surrounding the White House are visible as part of the festive atmosphere, with a lamppost marking the circular space. The event appears chaotic and joyful, with skaters gliding across the open area while onlookers observe from the sidelines.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 109,
+        "total_tokens": 2863
+      }
+    },
+    {
+      "intervalle_index": 389,
+      "intervalle_debut": 5835,
+      "intervalle_fin": 5850,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 390,
+      "intervalle_debut": 5850,
+      "intervalle_fin": 5865,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 391,
+      "intervalle_debut": 5865,
+      "intervalle_fin": 5880,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 392,
+      "intervalle_debut": 5880,
+      "intervalle_fin": 5895,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 393,
+      "intervalle_debut": 5895,
+      "intervalle_fin": 5910,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 394,
+      "intervalle_debut": 5910,
+      "intervalle_fin": 5925,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 395,
+      "intervalle_debut": 5925,
+      "intervalle_fin": 5940,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 396,
+      "intervalle_debut": 5940,
+      "intervalle_fin": 5955,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 397,
+      "intervalle_debut": 5955,
+      "intervalle_fin": 5970,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 398,
+      "intervalle_debut": 5970,
+      "intervalle_fin": 5985,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 399,
+      "intervalle_debut": 5985,
+      "intervalle_fin": 6000,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 400,
+      "intervalle_debut": 6000,
+      "intervalle_fin": 6015,
+      "analyse_action": "ERREUR: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 401,
+      "intervalle_debut": 6015,
+      "intervalle_fin": 6030,
+      "analyse_action": "The scene is a classic end credit sequence displaying white text credits on a black background. The credits roll showing information about the movie's production, including details about the filmography company, the songwriters who created the music, and company names associated with both production and distribution. The sequence concludes with studio and audio information, production and distribution details, a copyright notice, and an identification of the picture maker and distributor.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 83,
+        "total_tokens": 2837
+      }
+    },
+    {
+      "intervalle_index": 402,
+      "intervalle_debut": 6030,
+      "intervalle_fin": 6045,
+      "analyse_action": "The scene shows a classic end card sequence from a Walt Disney Pictures production. It begins with copyright information displayed at the top in white text, followed by credits indicating distribution by Buena Vista Pictures Distribution, Inc. at the bottom on a black screen in a serif font. The sequence then transitions to the iconic Walt Disney Pictures opening logo.\n\nThe logo features the familiar light blue castle silhouette with narrow towers and small white flags, along with the bold, white cursive \"Walt Disney\" script and the horizontal \"PICTURES\" wordmark. A decorative white circle sweeps gracefully around the castle emblem as the screen transitions from black to a bold dark blue field. A bright white starburst emerges from the center of the castle, creating a striking, dramatic effect for the final logo reveal. This is the classic branding sequence that signals the end of a Disney film.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 173,
+        "total_tokens": 2927
+      }
+    },
+    {
+      "intervalle_index": 403,
+      "intervalle_debut": 6045,
+      "intervalle_fin": 6046.749,
+      "analyse_action": "The scene shows the classic Walt Disney Pictures logo being presented. The logo appears on a solid black background, featuring the iconic Disney castle silhouette in light blue. The familiar script \"Walt Disney\" is displayed prominently in white cursive across the front of the castle, with \"PIC TURES\" written beneath it in smaller light blue capitalized letters. After this logo is displayed, the scene transitions to complete blackness, indicating the end of this title sequence.",
+      "tokens": {
+        "prompt_tokens": 455,
+        "completion_tokens": 92,
+        "total_tokens": 547
+      }
     }
   ]
 }

@@ -1,0 +1,584 @@
+{
+  "movie_id": "The Ice Age Adventures of Buck Wild [2022, WEB-DL 1080p] 2 MVO (HDRezka Studio, Flarrow Films) + Sub Rus, Eng",
+  "date_analyse": "2026-02-10T21:47:01.672639",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "analyse_action": "The scene depicts a breathtaking nighttime aerial view of a vast landscape transitioning from celestial to terrestrial beauty.\n\nIt begins with the deep, dark blue starry sky and a prominent small green star at a golden spike point that stands out. As the camera descends, it reveals a winding river flowing through the landscape, a small island and a single boat traveling along its course, with tiny points of white light marking villages, cities, and homes scattered across the terrain.\n\nThe view continues to showcase this picturesque setting with mountain ranges providing dramatic backdrops, forests and green grassy fields dotting the land, and a distinctive bridge with smoke rising from it as part of a larger dark structure. Natural light gently cascades down through the clouds, creating a luminous rays effect that bathes everything in a subtle, ethereal glow.\n\nThe scene culminates in fireworks celebrations, with yellow, pink, and red explosions lighting up the sky, swirling smoke, and golden spires of a tall tower visible against a deep, star-sprinkled blue backdrop.\n\nOverall, this appears to be a grand European city or castle at night, sweeping from the cosmic beauty of the sky down to the detailed, lively cityscape below, celebrating with fireworks and radiating a sense of majesty and wonder.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 257,
+        "total_tokens": 3011
+      }
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "analyse_action": "The scene depicts the iconic Disney castle at nighttime in a theatrical fireworks display. The castle is brilliantly illuminated with warm yellow and orange lights, its stone walls and spires shining brightly against the deep blue sky. Fireworks in vibrant colors—green, pink, blue, purple, and yellow—explode and trail across the sky above the castle. \n\nA sparkling arch made of light sweeps above the turrets and spirals downward in front of the castle, creating a magical reveal effect. People can be seen walking along pathways in the foreground. The castle sits on a small island connected to the surrounding area by bridges that cross water, with reflections shimmering on the surface. The entire scene has a cinematic quality, as if it's the opening of a special event or feature footage, culminating in the appearance of the Disney logo at the bottom of the screen.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 172,
+        "total_tokens": 2926
+      }
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "analyse_action": "The scene opens on a fixed, picturesque view of a grand illuminated castle at sunset. The tallest central tower is crowned with a pointed spire and ringed by smaller pyramidal towers, all glowing warmly against a vibrant sky blending deep blue into orange and pink hues with teal streaks. A starry sky opens above the blue-toned foreground. This classic Disney castle vista then fades away and the view transitions to an abstract sequence: the background becomes a textured brown surface as a narrow line of blue ink squiggles begin to trace the outline of a mountainous range. Birds suddenly streak quickly from the bottom of the frame past the worker, and the mountain gradually takes form with additional blue and white strokes, rising on the left and descending on the right into a darker, more rugged terrain before the view settles into a dreamlike composition dominated by white geometric forms edged in deep blue.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 178,
+        "total_tokens": 2932
+      }
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "analyse_action": "The scene shows a prehistoric illustration with cave-like qualities, featuring a simple white contour drawing of an elephantine figure composed of basic shapes. The focus is on this animal form, which is rendered though unfinished with a simple head and trunk shape and one visible leg, blending into a faded, weathered brown textured background.\n\nLater in the sequence, the outline is completed with dark brown pencil-like lines. An elephant appears standing facing right with large curved tusks, a long trunk, small simple eyes, and trunk that hangs down. Its coloring shows two shades with browns forming the legs and body with a lighter brown on the trunk and ears. The image maintains a cave-like, hand-drawn quality with edges fading into the background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 148,
+        "total_tokens": 2902
+      }
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "analyse_action": "The video shows cave paintings depicting prehistoric animals. A brown woolly mammoth stands at center, surrounded by other animals including a saber-toothed cat, bird, monkeys, and sloths, all rendered with primitive, child-like simplicity in earthy tones. At the end, a sloth appears, sleeping peacefully on a tree branch, followed by a burst of blue sparkles as the scene fades away.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 84,
+        "total_tokens": 2838
+      }
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "analyse_action": "ERREUR: 502 Server Error: Bad Gateway for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "analyse_action": "The scene depicts an ancient, prehistoric world illustrated on a cave-like wall. The imagery shows a confrontation between primitive predators and prey, followed by what appears to be a moment of survival and community among early humans and their animals.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 47,
+        "total_tokens": 2801
+      }
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "analyse_action": "The scene depicts an ancient cave painting or illustrated illustration focused on a woolly mammoth. The mammoth is visually prominent, shown in profile facing to the right with simple solid brown coloring, floppy ears hanging down, and distinctive curled white tusks that sweep outward. The painting has an aged appearance with light brown, faded tones and visible brush strokes that give it a roughly textured, antiquated quality typical of early cave art or primitive artwork.\n\nThis appears to be a representation of prehistoric wildlife, likely illustrating the woolly mammoth as a subject of interest, either as part of historical documentation of ancient species or as an artistic interpretation of early human depictions of large animals.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 136,
+        "total_tokens": 2890
+      }
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "analyse_action": "The scene depicts a chaotic caveman-era battle occurring on a rocky, brown ground. \n\nTwo large horned animals are locked in combat, their massive curved tusks and horns clashing together fiercely. On the ground nearby, a brown animal is being attacked alongside a small, long-tailed creature with a large tail, both in the heat of the scrum.\n\nAdding to the pandemonium, a gray, long-tailed creature with sharp teeth is leaping through blue-outlined water and swinging a weapon toward one of the horned animals. Other horned beasts stand ominously in the background, while to the right a brown, werewolf-like creature with long pointed teeth appears to be in pursuit of what looks like a green horse.\n\nThe entire scene has a primitive, cave-drawing quality with its bold shapes and dramatic action, evoking a prehistoric struggle where various animals and creatures are engaged in a violent confrontation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 187,
+        "total_tokens": 2941
+      }
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "analyse_action": "The scene is a slideshow-style presentation of a human-era painted cave artwork shown in slow motion with the camera zooming in to reveal specific details.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 30,
+        "total_tokens": 2784
+      }
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "analyse_action": "The video shows a complete sequence of artistic drawing on a brown wall that begins with the two striped mice being drawn together on the left side in a cheerful, playful style. The scene transforms into an illustration of a brown world with various wildlife and human figures. To the right, an arm holding a gray piece of wood with a dark brown finger attached is actively drawing or etching these animal scenes—including elephants, bears, wolves, horses, deer, and human hunters on horseback—across the brown surface. The piece concludes with the final revealed drawing of just the two striped mice again, now positioned prominently in the frame as the centerpiece of the artwork.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 132,
+        "total_tokens": 2886
+      }
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "analyse_action": "In this scene, a playful moment unfolds with a large brown furred opponent using a sharpened stick as a tool. The fluffy creatures react joyfully, laughing and leaping around. They work together by placing their back paws onto the opponent's fur in a synchronized movement. When this action takes place, their fur shifts from dark on top to grey underneath, changing color as they step onto forces from the opponent. The opponent responds with visible eye movements, reacting to this clever coordinated move.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 100,
+        "total_tokens": 2854
+      }
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "analyse_action": "In this hilarious winter adventure scene, two brown-and-white striped mice are racing to catch a wooden surfboard that's zipping across a steep, snowy mountainside. The board glides quickly up and over a snowy ledge and then slides down the other side.\n\nOne mouse rips off a branch from the snowy bank, while the other grabs onto a tree's roots and tries to climb up to catch up. As they race down the powdery slope, they swing dangerously over the edge, then manage to jump back onto the branch with the shopping bag swinging perilously.\n\nThe chase continues as the board keeps cruising between two towering icy cliffs, their skis kicking up powdery snow. After catching the board again, they repurpose it, quipping to each other about becoming \"ski brothers\" while facing off against the tremendous forces trying to slam them off course—one mouse struggles to hang on while the other leaps up ahead.\n\nThroughout the entire sequence, they're limited to using whatever they can grab from the snow— branches, tree roots, and fallen limbs—to help them stay balanced and keep chasing that fast-moving wooden board across the mountain's face. The entire scene is an over-the-top winter frolic with these two mice engaged in their own absurd ski-filled pursuit.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 257,
+        "total_tokens": 3011
+      }
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "analyse_action": "The scene shows Leif and Diego, the voles from Ice Age, sliding down a massive glacier. Diego is on top, swimming above the snow in a brown board with blue shadow on it. Leif is below, stabilizing the journey beneath. Smoke with some blue color appears in the snowy mountains.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 63,
+        "total_tokens": 2817
+      }
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "analyse_action": "In the scene, two gray rodents with brown stripes are riding a simple brown sled down a snowy hill against a clear blue sky with clouds. The animal riding front, which has a brown face with a white nose and brown neck, grips the edges of the sled intently, their eyes wide with determined focus as they carve a path across the smooth white surface.\n\nThe animal riding behind, with a grayish-brown face and a pink nose, has long pink legs draping over the sled. They suddenly lose their grip and tumble backward, while the front rider keeps going smoothly and safely.\n\nFollowing this mishap, the fallen animal in the back recovers and stands up. They appear to be engaging in conversation with the front rider as they look up toward the sky together, facing one another directly. In front of them rests their broken, broken wooden sled pieces scattered on the snow.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 178,
+        "total_tokens": 2932
+      }
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "analyse_action": "In the scene, two brown-furred creatures with pink noses and tails are communicating expressively. At first, one gestures energetically, occasionally pointing at the other with his pink nose. The other creature responds with head movements and lifted arms, while additional characters with brown and white fur join in and smile warmly. The interaction remains lighthearted and animated, with the two main actors playing to each other on what appears to be a white circular surface under a bright blue sky with white clouds. Their movements convey a meaningful exchange between the pair as they continue their conversation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 117,
+        "total_tokens": 2871
+      }
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "analyse_action": "The video presents two distinct scenes from Ice Age.\n\nThe opening scene is a calm, stationary wide shot showing three animals standing on the edge of a massive white ice glacier. The group consists of what appears to be an adult mammoth, its trunk hanging down, along with a smaller lighter individual and a darker-colored companion. The sky is bright blue with wispy white clouds drifting across it, creating a serene yet striking atmosphere. The camera remains fixed on this composed moment, with no movement or action taking place.\n\nThe second scene changes completely in style and presentation. It's a vibrant cutscene featuring a single brown-furred mammal with distinctive pinkish features against a clear blue sky with scattered white clouds. The creature has a pink nose, a long pink tail, brown fur covering most of its body, and a gray chest with a white chin.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 171,
+        "total_tokens": 2925
+      }
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "analyse_action": "In the scene, two beige-furred characters arehaving a lively conversation and playing with each other in a bright, whimsical world. They stand close together beneath a clear blue sky with white clouds, touching shoulders and smiling with visible teeth. Their playful energy shows as one character extends its paw outward while the other wraps its arms around the first's arm.\n\nThe scene then shifts to an underground ice kingdom ruled by a polar bear named Borat, where these characters are shown in a more dramatic moment - running for their lives through a fantastical icy environment marked by striking blue and purple hues. The chase takes place past colorful pathways and impressive blue and white ice structures with rainbows overhead. As they first burst into this snowy realm, their smiles and expressions appear surprised, but they bounce happily across the icy landscape, moving swiftly from one end to the other while outwitting Borat and the other characters.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 182,
+        "total_tokens": 2936
+      }
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "analyse_action": "The scene shows two opossums dancing enthusiastically, celebrating and basking in their win.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 20,
+        "total_tokens": 2774
+      }
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "analyse_action": "In the scene, two light brown, rat-like creatures with gray stripes and long curly tails are interacting on a white curved platform under a clear blue sky with a few clouds. One begins by embracing the other warmly, then separates in an amused manner. They place their hands on each other's shoulders and speak to each other.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 66,
+        "total_tokens": 2820
+      }
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "analyse_action": "The scene shows a humorous moment with the two animated rodents on a large, white, egg-shaped platform. One brown rodent with darker brown stripes is acting comically on the left side of the scene, holding a brown stick in his right hand in a proud stance with his other hand on his hip, while his left partner looks on with concern from the right side. They're standing with their arms slightly outstretched against a clear blue sky with a few white clouds floating by.\n\nThe comedic tone quickly escalates when the large, egg-shaped platform they're on begins to crack and crumble apart. Thecharacters slam into a rugged, rocky cliffside during this sequence, with the stocked character landing in the middle of the crack while his partner lands on the right side.\n\nTheir attention is then abruptly drawn upwards as they freeze mid-air in a wide shot. Both rodents extend their arms in alarm, and they recoil in visible fright at something massive and light blue looming in the sky—either a glacier or an iceberg. The piece ends with a bright blue sky as the light blue iceberg drops.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 221,
+        "total_tokens": 2975
+      }
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "analyse_action": "The video shows an animated snowy wilderness and winter camp scene from a prehistoric era that includes a cameleopard. The landscape features a large brown mammoth with long white tusks in the foreground setting a flat, grassy area among tall conifer trees dusted with snow. The camp consists of two sheltered sections - one with a large white dog-like animal with brown spots and an underbelly lying down on a flat-topped rock under a thatched umbrella made of green leaves and brown straw, and another covered area with a round rock pillow, large flat rock, and massive leafy canopy. A small furry green creature is standing on this rug-like area near the mammoth.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 140,
+        "total_tokens": 2894
+      }
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "analyse_action": "The scene opens with a tranquil moment on a grassy knoll dotted with stones. A yellow-furred saber-toothed tiger with a white belly is sleeping under a simple leaf-and-stick umbrella, resting on a flat rock with several pine cones around it. Nearby, a large brown elephant with long white tusks is seated under its own leafy canopy, positioned on another flat rock with its tusks pointing upward.\n\nIn the foreground, a green sloth with lighter green spots and a darker green tail is standing upright on its hind legs. It's engaging in a conversation where it gestures animatedly while talking, creating a lively interaction with the peacefully sleeping fauna around it.\n\nThe setting is an open field with patches of snow visible in the distance, surrounded by tall pine trees and bordered by a white stone wall. Smaller rocks and tufts of grass create texture in the area where the animals are gathered.\n\nThere's a sense of contrast between the sloth's active, conversational presence and the stillness of the creatures lying beneath their canopies. Eventually, the brown elephant stirs from its drowsy state and stretches its trunk, which sends the green sloth tumbling off-screen, adding a touch of physical comedy to the idyllic outdoorsy setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 258,
+        "total_tokens": 3012
+      }
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "analyse_action": "The scene depicts a sheele買った and two children celebrating at snow village in the village.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 19,
+        "total_tokens": 2773
+      }
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "analyse_action": "The scene takes place during daylight in an icy, snowy mountain setting full of a dust snow avalanche. Two squirrel-like animals are going downhill on wooden rafts, Using their arms to stay on the raft. They struggle to remain stable on the wooden slabs. One of them is standing upright while the other is lying across it, arms flailing as they try to maintain their balance while going downhill as fast as possible.\n\nIn the final moments, they're gliding on a steep snowy slope using primitive skis that they made. The background shows a mixture of snow-covered ground and patches of green vegetation below. The animals appear to be navigating this precarious descent with what might get them to the bottom, even as the snowy terrain treacherous.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 150,
+        "total_tokens": 2904
+      }
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "analyse_action": "This moment appears to take place after the initial events of the scene, and wزم",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 18,
+        "total_tokens": 2772
+      }
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "analyse_action": "The scene begins with a close view of a large brown-haired mammoth with tusks tilted its head down toward two small gray rodents. The rodents act agitated and scared, with wide eyes, raised paws, and their bodies tense as they recoil in fear of the mammoth's presence. The two are clearly startled—one ends up standing with its belly pressed against the mammoth's fur for safety, while the other remains very cautious.\n\nThe encounter then shifts to a rocky beach setting where the same two rodents are standing upright on their hind legs. One has a pink nose and open mouth (showing teeth), while the other has a darker brown nose. Their tails curve upward in a characteristic shape and their shadows are cast onto the rocks, contrasting with a pale blue sky in the background.\n\nFinally, the scene returns to a snowy setting. The mammoth dominates the foreground, facing forward with its long curved white tusks visible. The snowy landscape features leafless trees and a clear blue sky overhead, with a mountain range visible in the distance. In the lower right, a small figure that appears to be running toward the mammoth can be seen.\n\nThis progression shows the rodents from their initial frightened state near the mammoth, through an scene on the rocky beach where they seem to be escaping or reacting strongly to something, and back to the snowy setting where the mammoth is clearly prominent once again.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 282,
+        "total_tokens": 3036
+      }
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "analyse_action": "The scene features two large woolly mammoths facing each other in a winter landscape. The main focus is on a bold brown mammoth standing with its towering tusks, while a smaller squirrel-like creature scampers around on the ground nearby. The setting shows a snow-covered environment with a white mountain in the background, green trees, and patches of snow throughout. Twigs, a pile of snow, a broken branch on the ground, and trees poking up through the snow add to the natural, wintry atmosphere. The colors create a cool palette with the white snow and blue sky contrasting with the brown fur of the mammoth and the tan coloring of the smaller creature.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 137,
+        "total_tokens": 2891
+      }
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "analyse_action": "The scene takes place in a wintry, arctic-like landscape during the day. Small animated animals are chatting among themselves in a social gathering. The group includes a towering woolly mammoth, a saber-toothed tiger, a tall, thin lemur-like creature with claws, and a small squirrel-like animal with a bushy tail. Another small brown creature with a white belly is also present among the group. The animals appear to be engaged in some kind of interaction or conversation within this icy setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 103,
+        "total_tokens": 2857
+      }
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "analyse_action": "The scene takes place in a cold, prehistoric Arctic landscape during daytime. A mammoth stands in the foreground with its head slightly lowered, alert and focused with wide eyes and perked ears, its distinctive long curved tusks prominent. A lone wolf keeps a steady post in the background to his left, appearing to watch over the scene with wary attention.\n\nThe ground is blanketed in pristine white snow, scattered with a few fallen tree branches, and there's a large snow-covered boulder visible. A snowy mountain range rises in the distance, and across the sky is a vibrant blue canvas dotted with fluffy white clouds that bathing everything in soft, diffused daylight.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 134,
+        "total_tokens": 2888
+      }
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "analyse_action": "In the scene, two saber-toothed tigers are positioned on either side of the frame - one with a brown coat with a white face on the left, and another brown-coated saber-toothed tiger with a white face and large fangs on the right. Between them are two brown-furred, long-tailed horned mammals with long snouts, each with red-colored hair on top of their heads. All four animals are looking directly at the camera with wide, curious expressions.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 101,
+        "total_tokens": 2855
+      }
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "analyse_action": "Two woolly mammoths with thick brown hair stood on a snowy surface with crisp snow and large snow-capped mountains in the background ahead of a bright blue sky with a thick ruling of clouds. \n\nThe one on the left is larger than the one on the right. They seem to be talking about something. \n\nA small, light brown sloth with a white chest, large pink nose, and long arms stood directly between them. The sloth's front claws rested on the ground above its head with its back legs planted firmly on the snow as it scanned up into the sky.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 119,
+        "total_tokens": 2873
+      }
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "analyse_action": "In this scene from Ice Age, the two meerkat-like characters are standing upright on a wooden platform engaged in an animated conversation. The character on the left is doing most of the speaking, using expressive hand gestures - at one point pointing upward, then clenching his fists, and finally moving his hands back and forth. His companion on the right is listening attentively, looking between him and off to the side with a concerned or puzzled expression.\n\nThe setting is a simple indoor space with a white wall behind them and the wooden floor visible below. Their body language is quite animated, with both characters swaying slightly as they talk. Their pink noses, curled tails, and light skin with brown stripes are clearly visible, contributing to their expressive movements as they communicate.\n\nLater in the sequence, their exchange becomes even more dynamic. One meerkat lunges toward the other with an angry expression and a clenched fist, while the second meerkat's response is much calmer, with wide eyes and slightly open mouth showing alarm or surprise. Both characters cast concerned glances toward the background, keeping their alert posture matching the intensity of their exchange.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 232,
+        "total_tokens": 2986
+      }
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "analyse_action": "The scene is split between two environments. \n\nIn one setting, two small striped rodents with pink noses and curly pink tails are performing a synchronized dance routine on a light brown, sandy surface against a white textured background. They're standing upright on their hind legs with their front legs raised near their chest, appearing engaged in a cheerful, practiced performance.\n\nIn the other setting, a large prehistoric woolly mammoth with thick brown fur and long white tusks is facing the viewer directly in a snowy winter landscape with snow-capped mountains and sparse green pine trees surrounding it.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 115,
+        "total_tokens": 2869
+      }
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "analyse_action": "In the scene, a lively prehistoric gathering takes place. A large brown woolly mammoth with long white tusks stands alongside a brown peccary, a smaller brown squirrel-like creature in the foreground, and a yellow and white saber-toothed tiger at the edge of the group. All four animals are positioned on a snowy surface near bare winter trees under a clear blue sky with white clouds and mountains in the distance, forming a cohesive group composition.\n\nThe scene then transitions indoors to two small, striped rodents - likely hamsters or mice - standing upright on a brown circular rug. They appear startled and animated, waving their hands as they interact animatedly with each other while facing opposite directions.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 141,
+        "total_tokens": 2895
+      }
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "analyse_action": "The scene shows the sloth-like characters engaging in energetic, playful chanting behavior. They're standing upright on the snowy surface, bouncing and hopping in place with animated enthusiasm. One of them is actively dancing, waving his arms widely while throwing quick glances toward his companion and the rushing river nearby.\n\nBetween their bursts of rhythmic movement, they briefly grab the passing pebble and toss it behind them, continuing their animated performance with theatrical gestures. One character points emphatically into the air at intervals, as if delivering an important line in their chant.\n\nThere's an element of competition in their behavior as they trade glances with each other during the performance. The river appears to be flowing rapidly throughout their routine, and their movements shift slightly as the landscape changes—some moments they're near brown, rocky ground, others near the snowy path.\n\nOverall, it's a lively, buoyant scene where these creatures are performing an energetic, dramatic routine that alternates between coordinated motion and brief bursts of action like bouncing and tossing the stone.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 206,
+        "total_tokens": 2960
+      }
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "analyse_action": "Two woolly mammoths, a bear, a fox, and a large rabbit share a quiet moment together around a campfire in a prehistoric forest at night. The mammoths are lying on the ground near the fire in the foreground, while smaller animals gather quiet near another mammoth.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 61,
+        "total_tokens": 2815
+      }
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "analyse_action": "In the scene, a family of woolly mammoths is gathered around a cozy campfire at night in a forested clearing. The mother mammoth is holding a baby close while the father stands protectively nearby, all watching the small fire crackle with warmth against the deep blue night sky. \n\nThe atmosphere feels peaceful and intimate, with the flickering flames providing the only light in the surrounding darkness. The adult elephants appear to be keeping watch or sharing a quiet moment together while the baby elephant, nestled close to his mother, seems calm and comfortable in their safe, sheltered spot.\n\nLater in the scene, the father mammoth begins to pick his way around the fire and moves into the trees, while the mother continues tending to the campfire and keeping an eye on the surroundings, maintaining the peaceful nighttime atmosphere of their forest home.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 171,
+        "total_tokens": 2925
+      }
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "analyse_action": "The scene takes place in a nocturnal forest setting with dim, eerie lighting broken only by the warm glow of a smoldering campfire. A large woolly mammoth stands by the fire, positioned to its left and slightly behind it. The mammoth has distinctive features including a brown fur-covered body with a mane-like tuft of hair on its head, a prominent trunk that curls slightly at the ends, and striking turquoise eyes with black pupils.\n\nThe mammoth moves its trunk slowly, causing the curls at the ends to shift and move with the motion. It directs its gaze off to one side from time to time, giving it an attentive, watchful quality. The fire flickers and sends tendrils of smoke drifting upward into the dark blue night sky, its orange glow casting warm light across the area around the mammoth.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 169,
+        "total_tokens": 2923
+      }
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "analyse_action": "The scene takes place in a nighttime forest with a dark, shadowy atmosphere showing a brown woolly mammoth with a mohawk-like tuft of fur who squints in the low light before moving forward and demanding to know the whereabouts of a human. This mammoth is voiced by Alan Tudyk. The setting transitions to a forest clearing where Sid the Sloth lies sprawled on rich, dark brown dirt among round brown rocks and green bushes. Sid stretches his long, heavy-limbed body in the dim light, raising his thick, shaggy brown arms with long white claws, lifting his brown tail lined with white underneath, and arching his long neck toward the camera with his face briefly visible. Behind him are green trees and bushes under a dark blue sky, suggesting sunset or moonlight. The final portion returns to the mammoth, who suddenly wakes with wide, yellowish-green eyes as it stares directly at the camera against a nighttime landscape filled with trees, rocks, water, and distant mountains.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 207,
+        "total_tokens": 2961
+      }
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "analyse_action": "Two woolly mammoths are gathered around a glowing campfire on a rocky clearing under a dark blue night sky. Their amber eyes glow in the firelight as they stand facing each other, leaning in subtly toward the warm flames as if sharing an intense conversation.\n\nIn the middle of this evening, a playful squirrel darts in carrying a twig and eagerly throws it into the fire, adding a burst of sparks to the warm glow. After tossing the twig, the squirrel moves to stand between the two mammoths, possibly seeking comfort or trying to bridge the gap between them. The mammoths seem to release a small sigh at the creature's sudden appearance.\n\nThe entire scene has a lighter, warmer tone compared to what came before—it's a peaceful moment where these animals have found each other amid danger and the harshness of the freezing landscape. The fire provides not just warmth, but seems to create a temporary sanctuary where they can pause from their struggles. The rocky ground, tall pine trees, and scattered greenery in the background all reinforce this sense of an outdoor wilderness clearing during the dark of night, with the firelight being both their beacon and their shield.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 235,
+        "total_tokens": 2989
+      }
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "analyse_action": "The scene shows a small woolly mammoth standing alone in a quiet, wintry landscape. The creature has brown fur, a flat face with broad nostrils, pink fur on top of its head and tail, and raised ears as it stands on snow-covered ground.\n\nThe atmosphere is calm but windswept, with snowflakes drifting through the cold air. In the background, there's a cloudy sky with patches of blue visible through gray and white clouds, along with a distant snow-covered hill.\n\nLater in the scene, the environment becomes more defined. The mammoth is positioned in an open, snow-blanketed area without any other features visible. The scene is rendered in soft, light colors with gentle shading. \n\nThe overall impression is of a peaceful winter setting, likely at dusk given the muted lighting, with the young mammoth as the sole focus in this serene, frozen environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 181,
+        "total_tokens": 2935
+      }
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "analyse_action": "The scene takes place on a cold, snow-covered surface under a pale gray sky in a snowy, arctic-like landscape, where the focus is on two baby mammoths, one brown with white eyes and another grey with a pink nose, who are playing and interacting together. One is climbing down from a tree trunk while resting in the snow, and the other marks the snowy ground with its trunk.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 82,
+        "total_tokens": 2836
+      }
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "analyse_action": "A small striped squirrel-like creature with a long pink tail is lifting off from a gritty plateau of sandy dirt and pebbles, raising its tail behind it with its head tilted upward. The animal has a distinctive pink nose, black-and-brown striped body, and white cheeks. As it climbs, its shadow falls across the sandy ground among scattered rocks of various sizes, with a large gray rock visible nearby along the edge of the area. The setting features brown plains surrounding lush, dense forest, where a woolly mammoth is seen standing among the trees. During this climb, a group of baby squirrels can be seen digging at the sand. The striped creature continues ascending, explores the landscape, jumps across the terrain, and encounters another striped animal. The larger one has a long pink tail, two white front teeth, and wears a mischievous expression, baring its teeth in a grin while standing on its hind legs with its tongue sticking out, appearing ready to play or tease the smaller animal it encounters during this sandy-dirt exploration.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 212,
+        "total_tokens": 2966
+      }
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "analyse_action": "This is an animated scene featuring a group of small, striped rodents rolling on a sandy surface. One larger striped rodent is on its back with its paws and legs spread out, while two smaller striped rodents are rolling beside it.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 48,
+        "total_tokens": 2802
+      }
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "analyse_action": "In the scene, we see a peaceful interaction between two characters while resting outdoors. The smaller brown mouse-like creature with gray stripes is calmly lying on a log across the elephant's horns, sleeping with its tail visible and arms resting. Meanwhile, the large brown elephant with white tusks and a pinkish mane is standing nearby at rest with its eyes closed, looking relaxed and content. The setting is tranquil, featuring a pink sky and green trees, creating a serene atmosphere.\n\nLater in the scene, the mouse suddenly opens its eyes and lifts its head, appearing startled as it takes in its surroundings. This adds a moment of alertness to the otherwise quiet scene. After a brief interaction where the mouse turns to face the elephant, the elephant responds with visible delight. Finally, the mouse appears particularly happy, standing near a leafy tree and bringing its front paws together with a slight smile, holding a peaceful and joyful expression as the scene comes to a close.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 193,
+        "total_tokens": 2947
+      }
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "analyse_action": "The scene takes place outdoors in a warm, autumn-like forest setting. A pink elephant stands on the left side of the frame with large tusks and a tuft of straight hair on its head, surrounded by yellow leaves against a blue sky backdrop.\n\nIn front of the elephant are two small gray-and-white striped furry characters that appear to be tickling the elephant's legs. Yellow leaves can be seen drifting down through the air throughout the scene.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 90,
+        "total_tokens": 2844
+      }
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "analyse_action": "In the scene, two small, lemur-like sloths are embracing a brown, furry tree trunk and looking worriedly upward. They're concentrating on watching the sky intently, which is gray and clouded with a few yellow leaves drifting down. Suddenly, one of the sloths gasps in surprise, and they turn their gaze toward each other with startled expressions.\n\nThe camera then cuts to a woolly mammoth facing forward in the same gray, clouded sky. The mammoth has a reddish-brown head with white tusks and a tuft of reddish hair on top. Initially appearing concerned, the mammoth then licks its lips and extends its trunk into a darkened forest below, creating a brief shift from the gray cloudscape to a shadowed woodland setting with palm-like leaves visible.\n\nThe scene returns to the sloths, still gripping the tree trunk, continuing to look upward as they maintain their watchful posture against the same moody, overcast sky background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 201,
+        "total_tokens": 2955
+      }
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "analyse_action": "This scene from \"Ice Age,\" depicting what appears to be the events after the saber-toothed tiger encounters the two human babies hanging from the tree and brings them down and drops them.\n\nWe first see the side view of the saber-toothed tiger, who watches the tree branch in as the babies are swinging. He drops them, which leads to him being chased around by the little mammoth in front of him in a chase scene? Meanwhile, on the left corner of the screen, we see cave lion eyes looking at the tigers feet.\n\nThe overall atmosphere is dark, cold, and somber with a heavy melancholic mood - lined with the use of deep blues and blacks for shadows, along with cool LED tones from the fire and moonlit sky. The scene captures a significant emotional weight to the story, taking place in nature at midnight.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 173,
+        "total_tokens": 2927
+      }
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "analyse_action": "The scene takes place at night around a campfire in a dark, snowy forest. It starts with two small brown-furred animal companions—a saber-toothed cat with prominent fangs and another shorter furred animal—standing by a campfire with a large woolly mammoth nearby. The small animal hugs and kisses the mammoth's long tusks, and the mammoth watches with a serene expression.\n\nAs night deepens, the three continue by the fire. Suddenly, danger appears when two striped saber-toothed tigers drop from above, hanging down toward the campfire. The large mammoth reacts immediately, maintaining a vigilant stance. The camp is surrounded by rocks, trees, and bushes with patches of snow visible in the darkness, creating a tense atmosphere as the group braces for this unexpected threat in their wintry forest setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 170,
+        "total_tokens": 2924
+      }
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "analyse_action": "The scene shows an animal and a bat hanging upside down in a tranquil forest setting, possibly having a conversation or interacting with each other while suspended from the tree.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 33,
+        "total_tokens": 2787
+      }
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "analyse_action": "The scene takes place at night in a forest clearing, with two star tasarats hanging from a tree branch. They're engaging in a lively, animated conversation while suspended there, eventually bouncing down to the ground where they continue their talk before climbing into their hole. \n\nThe setting is quite atmospheric, with the starry night sky visible overhead and green foliage surrounding the area. \n\nInterestingly, the star tasars seem mostly focused on talking to each other—there's minimal direct action beyond their conversation. It appears they might be sharing a story or planning something, as their expressions convey that kind of engaged listening and animated discussion you'd expect from friends having a good chat.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 134,
+        "total_tokens": 2888
+      }
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "analyse_action": "Two small striped tree-dwelling mammals are perched on a tree at night under a starry sky. They're watching another one with a spiral tail  approach, talk and fall from the sky. The one with a spiral tail touches the face of the larger furry animal that had been asleep on the ground, causing it to wake up. The tree-dwelling mammals then scurry behind a large brown furry animal that lurches forward and throws them off balance, sending them sliding to the right across a dirt path. They quickly roll onto their stomachs and look over their shoulders back at the fallen animal. In another location, the two tree-dwelling rodents scamper through a dim forest clearing, weaving between large bushes with their tails lifted high as they pass a massive two-toed sloth lying on its back in the shadows among forest vegetation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 174,
+        "total_tokens": 2928
+      }
+    }
+  ]
+}
