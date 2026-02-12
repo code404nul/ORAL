@@ -1,0 +1,959 @@
+{
+  "movie_id": "Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL",
+  "date_analyse": "2026-02-10T21:24:37.364994",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "analyse_action": "The scene is a Christmas-themed storybook title sequence that unfolds in a festive, winter wonderland setting. It opens with a two-dimensional cartoon-style display of the Disney Mickey and the Very Merry Christmasmakers title framed between candy canes, with snow-covered landscapes, trees decorated with ornaments and Christmas trees, and presents scattered across a snowy ground.\n\nThe scene then transitions to an animated, 3D winter village where snow-dusted hills and candy cane striped poles surround a yellow house with a green roof and red door. Mickey Mouse peeks from the roofline while donkeys pull a sleigh around the house, creating a playful holiday atmosphere.\n\nThe focus then shifts to Mickey in a cozy bedroom. He's sitting on his bed wearing red Christmas-themed pajamas, positioned before a curtained window whose multicolored lights create a glowing frame. The room is decorated with a wreath on the door, wooden beams, and holiday elements including a red stocking and small presents.\n\nMickey pulls the curtains back with excitement, revealing the outside world. The camera lingers on him as his posture relaxes into a peaceful, smiling expression, appearing happy and calm in his festive surroundings as the scene concludes.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 240,
+        "total_tokens": 2994
+      }
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "analyse_action": "The scene shows Mickey Mouse and Pluto together in a cozy holiday setting. They're dressed in festive Christmas outfits - Mickey in a red long-sleeve shirt with green trim and blue shoes, while Pluto wears a green sweater decorated with candy canes and wears a red Santa hat. The two friends are interacting warmly in a warmly decorated room where the walls are brown with lush garlands, red curtains, and a prominent red ribbon. Mickey is cracking up at the situation, and both characters are smiling, clearly enjoying each other's company. They're sharing some type of festive, comical interaction that seems to be bringing them joy during the Christmas season together.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 132,
+        "total_tokens": 2886
+      }
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "analyse_action": "In this holiday scene, Goofy is doing a joyful cartwheel from the back doorstep of Mickey's house but his back foot hits the welcome mat, losing his balance. In the process of the cartwheel he bumps into a green Christmas gift and flings it out the back window. It falls onto Mickey and his toys, who's trying to hide from the camera below. \n\nMeanwhile, Donald Duck and Daisy Duck are standing with him outside in the snow, watching what unfolds in the yard. Goofy and Donald share focused remarks about something happening outside the house.\n\nInside, Mickey is present with a Polaroid camera, capturing the moment. The interior is decorated for Christmas, with garlands along the walls and decorations surrounding the space. The whole scene captures a playful, holiday-themed moment with all the classic Disney characters participating in the festivities and activities together.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 174,
+        "total_tokens": 2928
+      }
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "analyse_action": " Mice are taking family photos.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 8,
+        "total_tokens": 2762
+      }
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "analyse_action": "The scene takes place in a cozy living room decorated for Christmas on a winter holiday. A group of classic Disney characters are gathered together around a fireplace, enjoying a festive gathering.\n\nThe family is dressed in colorful holiday attire with Christmas-themed accessories. Mickey and Minnie Mouse, Donald and Daisy Duck are sitting together on a red couch, holding white teacups. Pluto is on the green carpet nearby, also wearing festive clothes and dipping his cup into a thermos. Goofy is in his own space across the room, wearing his own Christmas sweater and actively pouring tea into someone's mug.\n\nThe room features warm holiday decorations, including a garland of red bows and green leaves hung on the wall. A smiling portrait of Mickey, Minnie, Goofy, Donald, and Daisy hangs on the wall, looking down at the gathering below. A large Christmas tree stands nearby with colorful ornaments, twinkle lights, and a red bow, creating a bright and cheerful atmosphere.\n\nThe characters are all engaged in conversation, creating a warm and cheerful holiday gathering with cups of hot cocoa and tea. It's a classic winter celebration scene where Mickey, Minnie, Donald, Daisy, Pluto, and Goofy come together to relax in the festive surroundings during Christmas time.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 255,
+        "total_tokens": 3009
+      }
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "analyse_action": "The scene shows Donald Duck wrapping presents in the living room. Donald is sitting in a red chair wearing a red-and-green striped Christmas sweater while carefully securing the tape around a present that's wrapped with a red bow.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 44,
+        "total_tokens": 2798
+      }
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "analyse_action": "The scene shows Mickey and Minnie enjoying Christmas together in a festive living room. After savoring some treats from a box of chocolates, they open a charming photo album. The album has a bright red cover decorated with elegant yellow swirls or vines and captures the characters gathered together in another festive space. Everyone is dressed in Christmas attire—in Mickey's case, a red sweater and green pants—with Goofy wearing light blue clothing featuring a snowman and red-and-blue stripes, while Minnie completes the holiday look.\n\nThe room is warmly decorated with Christmas elements like wreaths, bows, and lights. They're sitting together on a cozy red couch surrounded by the holiday decor, smiling and clearly enjoying each other's company. It's a heartwarming moment of holiday celebration where they're reminiscing through the family photo album, taking pictures, and savoring Christmas treats together in the comfortable living room decorated to the brim with seasonal décor.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 191,
+        "total_tokens": 2945
+      }
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "analyse_action": "A group of close friends is coming together for a heartwarming holiday gathering centered around books and festive cheer. They're seated together in a cozy, Christmas-decorated room, gathered around a red couch with Minnie on the left wearing her yellow dress and red flower, Mickey seated in the middle dressed in red, and Daisy on the right with her poofy dress, white hat, and green bow. The remaining friends stand behind and around them in their winter attire, passing around a red book and sharing warm laughter in this inviting space adorned with festive decorations including strings of Christmas lights and wreaths.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 123,
+        "total_tokens": 2877
+      }
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "analyse_action": "The video is a light, festive holiday sing-along of sorts with the Disney characters gathered together in a cozy room wrapped in Christmas decorations. They're seated on a red couch, with Mickey reading from an open red book as Minnie listens nearby.\n\nAll the characters are dressed in their best Christmas attire, showing off their seasonal wardrobe. \n\nThe scene ends with a playful snowball fight providing a lighthearted conclusion to the gathering.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 90,
+        "total_tokens": 2844
+      }
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "analyse_action": "The scene depicts a lively winter celebration among Disney characters. Mickey Mouse is engaging in playful snowball fights with Pluto, Goofy, and Minnie Mouse bundled in colorful winter outfits. Daisy Duck joins in, enjoying the snow with a warm cup of cocoa at hand. The cheerful atmosphere continues into a cozy indoor setting by the fireplace, where Donald Duck, Daffy Duck, and Daisy are wrapped in Christmas wreaths and scarves, enjoying festive drinks and cookies. Natural sunlight streams through the windows, creating a bright and festive ambiance that perfectly captures the holiday spirit of playful snow fun and warm indoor celebrations, all set against a backdrop of snow-covered hills, snow-laden trees, and colorful Christmas ornaments and decorations.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 145,
+        "total_tokens": 2899
+      }
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "analyse_action": "Two characters are shown closing the bottom edge of a picture frame with a bow.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 17,
+        "total_tokens": 2771
+      }
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "analyse_action": "In this storybook scene, six Disney characters are gathered in a warmly decorated living room during Christmastime. They are enjoying a cozy moment together, with a decorated Christmas tree shimmering nearby and twinkling lights creating a festive atmosphere.\n\nMost of the group is seated on a plush red couch, while one character sits on the floor near them. They appear comfortable and relaxed in this cheerful holiday setting, dressed in festive Christmas outfits that match the season. The characters seem to be spending quality time together, sharing a book between them.\n\nAt one point, they're all leaning together with their eyes closed, creating a moment of quiet connection and closeness. The overall atmosphere is warm, joyous, and full of holiday spirit as the characters enjoy being together in this storybook Christmas scene.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 158,
+        "total_tokens": 2912
+      }
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "analyse_action": "In the scene, Mickey Mouse is sitting in a festive living room decorated for Christmas, reading a red book while wrapped presents are nearby and a Christmas tree glows with colorful lights and ornaments behind him. Daisy Duck appears wearing a holiday outfit with a large green bow holding carnival-like handles, prompting Mickey to place a large bag on the floor and motion toward it.\n\nThe setting shows other familiar holiday decorations including another table draped in a red cloth with gold tinsel and topped with a candy cane, alongside red-and-green garlands, a present tied with a red ribbon beneath the tree, and a window in the cozy room. The atmosphere is cheerful and clearly Christmas-themed throughout.\n\nDaisy presents Mickey with the bag that holds a wrapped present, and the rest of Mickey's family comes to join—including Minnie, Pluto, and Donald Duck—all dressed in their Christmas-themed outfits. Everyone gathers around to celebrate the holiday together, clearly engaged in the merriment of opening Christmas presents and enjoying the festive gathering.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 202,
+        "total_tokens": 2956
+      }
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "analyse_action": "In this scene, Mickey Mouse and his friends are celebrating Christmas together in a festive room decorated for the holiday. A beautifully decorated Christmas tree topped with a star and wrapped presents surround them, while everyone is dressed in cheerful winter outfits with holiday hats, scarves, and clothing.\n\nMinnie is prominently featured rearranging and examining the presents, checking the Christmas gifts with care. There's a big wrapped gift box arranged nearby for everyone to enjoy.\n\nAfter finishing with the presents, they gather for a winter sledding adventure. They gleefully ride a red sled down a snowy hill together under a starry night sky. The sledding path winds through a charming holiday village, passing town buildings adorned with colorful Christmas lights in shades of blue, green, red, pink, and yellow. Snow cloaks the rooftops and sidewalks, adding to the festive atmosphere.\n\nIt's a warm, cheerful holiday celebration that combines gift-giving with outdoor winter fun, driven by the magic of Christmas cheer and friendship.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 201,
+        "total_tokens": 2955
+      }
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "analyse_action": "In the scene, a vibrant Christmas celebration is taking place with friends gathering in a snowy, festive town. Mickey and Minnie stand in the foreground with Goofy and Pluto, all dressed in festive winter clothing with Santa hats, smiling and watching something to the right.\n\nA beautifully decorated Christmas tree twinkles nearby, and the town is alive with holiday spirit—houses glow warmly, with colorful candy canes, rails, and ornaments adorning the landscape. The star on the tree shines brightly above gently falling snow against a clear blue sky.\n\nThe group appears to be enjoying together in what looks like a magical, dreamlike wonderland full of holiday cheer, decorations, and snow-covered scenery. The atmosphere is warm and joyful, with everyone gathered to celebrate the season in this enchanting winter environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 160,
+        "total_tokens": 2914
+      }
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "analyse_action": "The scene features various Disney characters in a festive winter setting. Mickey Mouse, Goofy, Donald Duck, Daisy Duck, Minnie Mouse, and Chip and Dale are gathered outside in a charming snowy village, wearing warm winter clothing as they admire the magical surroundings.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 54,
+        "total_tokens": 2808
+      }
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "analyse_action": "In this scene, Santa's reindeer are flying overhead past a Christmas village and tree as presents are being delivered into the train.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 27,
+        "total_tokens": 2781
+      }
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "analyse_action": "The scene is a cheerful holiday celebration taking place in a magical, festive setting. Several beloved Disney characters are gathered in a cozy countryside town decorated for Christmas, with snowflakes falling gently across the scene.\n\nVarious partygoers can be seen: a small party animal in a green dress and yellow boots gazes up toward the sky, watching something noteworthy happen above. Nearby, Mickey Mouse and Minnie Mouse stand together, with Minnie holding a red ribbon.\n\nThe characters are dressed in festive attire—Winter Santa hats and red and green sweaters—reflecting the holiday spirit. They appear to be enjoying themselves among the snow-covered decorations.\n\nThroughout the scene, a lively atmosphere prevails with lights twinkling and snow falling, capturing the magical essence of a Christmas celebration in this winter wonderland setting. The characters seem to be milling about, partaking in the festivities and taking in the beauty of the holiday decorations.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 184,
+        "total_tokens": 2938
+      }
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "analyse_action": "A young female anthropomorphic fox with light brown fur and red hair is singing and dancing animatedly in a wintry town setting. She's positioned next to a red band with a candy cane pole on the left side of the shot. The scene shows a festive Christmas atmosphere with a large building visible behind her, decorated for the season. The fox appears to be celebrating or performing for the holiday, moving expressively throughout the winter-themed environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 89,
+        "total_tokens": 2843
+      }
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "analyse_action": "This is a magical holiday scene centered around a Christmas train journey through a winter wonderland. A green train with a red stripe and candy cane-striped pole glides along snow-covered tracks past snowmen, a decorated Christmas tree, and snow-laden pine trees.\n\nThe fox character is at the heart of the adventure. She's dressed in festive red, green, and white clothes, wearing a Santa hat and gloves, and she rides at the front of the train as it navigates through the snowy landscape. During the trip, she drops star-shaped coins from a silver bowl she's carrying, and both Mickey and Minnie Mouse pick these up from the snow.\n\nThe warm blue sky adds to the cheerful, whimsical atmosphere as the train continues its journey, with other colorful characters appearing and joining in the festive fun. The whole scene has a lively, animated quality that captures the magical spirit of Christmas.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 181,
+        "total_tokens": 2935
+      }
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "analyse_action": "The scene features Donald Duck standing outside on a snow-covered ground in front of a snow-covered storefront at night under a starry sky. He is wearing cheerful winter clothing including a blue sweater, a green scarf, earmuffs, and red mittens.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 51,
+        "total_tokens": 2805
+      }
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "analyse_action": "The scene opens with Donald Duck playfully walking backward through snow, a Santa hat bobbing on his head. The festivities transition to Mickey Mouse and Minnie Mouse along with Daisy Duck, all dressed up for Christmas in red and green winter attire. They gather around a large decorated Christmas tree while making cheerful hand gestures and moving through the winter landscape.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 70,
+        "total_tokens": 2824
+      }
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "analyse_action": "The scene takes place in a wintry Christmas setting with a decorated Christmas tree, where a group of friends including Donald Duck, Goofy, Mickey Mouse, Huey, Dewey, and Louie gather for holiday festivities. Mickey leads a smaller group of girls along a snowy path decorated with garland and ribbon, while Goofy adjusts his gloves and pets Pluto.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 76,
+        "total_tokens": 2830
+      }
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "analyse_action": "The scene shows Mickey Mouse and Pluto posing for a picture in front of a decorated Christmas setting. Mickey appears to be explaining something to Pluto as they stand together near what looks like a Christmas town or market. They're positioned near a candy cane that has a large red bow tied to it, with various snowy houses and a small building visible in the background that has a wreath and a candy cane-shaped sign above its door.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 86,
+        "total_tokens": 2840
+      }
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "analyse_action": "Mickey Mouse is holding a gold coin topped with a blue star and a red star and dangling a combined red and green bauble from it, causing presents wrapped with bows to hang from the festive pole. In the snowy village setting, Mickey is showing his Christmas-themed attire- a red sweater with green Christmas trees and yellow stripes, blue mittens decorated with green Christmas trees, and a yellow skirt with a red stripe, all illuminated by warm lights that cast a cozy glow over the winter street lined with candy canes and snow-covered Christmas trees.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 110,
+        "total_tokens": 2864
+      }
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "analyse_action": "The scene shows Mickey Mouse having his gold coin swallow up by a train taking it trip in a ride.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 22,
+        "total_tokens": 2776
+      }
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "analyse_action": "",
+      "tokens": {}
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "analyse_action": "In the scene, a Christmas-themed train journey unfolds through a magical winter wonderland. A train with a red engine decorated with a green-and-white striped bow pulls cargo cars loaded with gifts down snowy rails beneath colorful strings of lights.\n\nThe entire setting is covered in snow, with snow-covered mountains, houses with snow-blanketed roofs, and festive decorations throughout. As the train travels through tunnels decorated with lights, passing through landscapes dotted with glittering snowflakes and candy canes, it eventually reaches a cozy bedroom where Mickey Mouse is sleeping peacefully.\n\nThis warm, festive scene creates a transition from the exciting outdoor adventure through the snowy Christmas world to a serene indoor moment of rest, making for a complete holiday narrative centered around the train journey.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 149,
+        "total_tokens": 2903
+      }
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "analyse_action": "In the scene, Mickey Mouse is sleeping peacefully in a cozy Christmas-decorated bedroom. The room is adorned with festive decorations including blue walls with a Christmas wreath, colorful holiday lights around a window, and a beautifully decorated Christmas tree. Mickey is resting on a blue Christmas tree-patterned blanket, with festive holiday clothing and a bright yellow pillow completing the cheerful holiday atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 76,
+        "total_tokens": 2830
+      }
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "analyse_action": "The scene takes place in a cheerful Santa's workshop at Christmastime, centered around activity in a festive kitchen. \n\nMickey Mouse is in his church outfit hanging a large Christmas tree-shaped candy cane ornament on a red wire rack. Minnie Mouse is dressed in festive yellow with a red polka-dotted green bow holding a purple present wrapped with a blue bow. Donald Duck wears a blue snowflake-patterned sweater and white mitten. A green wrapped package with a yellow bow and candy canes is visible nearby along with garlands hung along a yellow wall with a calendar showing the number 25.\n\nThe setting is colorful and lively, capturing characters engaged in decorating and preparing for Christmas.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 141,
+        "total_tokens": 2895
+      }
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "analyse_action": "The scene opens with Mickey, Minnie, Donald, and Daisy gathered together in what appears to be a warm, cozy room decorated for the holidays, with garlands, wreaths, and a Christmas tree creating a festive atmosphere surrounding the Christmas decorations being shown. \n\nMickey then stands between Minnie and Donald, looking to his left with a surprised expression. All four continue to look toward this direction as they observe something together during their time together in the decorated room.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 95,
+        "total_tokens": 2849
+      }
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "analyse_action": "A festive Christmas scene unfolds in a cozy home decorated for the holiday season. Mickey Mouse stands at the center, wearing a red holiday sweater with a white collar, green pants, and blue shoes, with his hands raised in a warm, greeting gesture.\n\nThe celebration features familiar characters gathered together in a beautifully decorated room filled with holiday elements like garlands, presents, and Christmas lights. Mickey's reactions shift from attention and surprise to a bright smile with outstretched hands.\n\nTrumpet music plays softly in the background throughout the scene, adding to the joyful atmosphere as this cheerful Christmas gathering unfolds in the warmly decorated space.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 124,
+        "total_tokens": 2878
+      }
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "analyse_action": "In this scene, Mickey Mouse is having a cheerful conversation with Pluto near a decorated Christmas tree in an warmly festive room. The conversation happens to be about the number 25 as they look around the room which is filled with Christmas presents.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 49,
+        "total_tokens": 2803
+      }
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "analyse_action": "The scene takes place in a charming, decorated home where Mickey Mouse is having a cozy Christmas gathering with friends. The living area is beautifully set up for the holidays, with garlands draped across the room, a red blanket trimmed with green**, and a tabletop adorned with a red teapot.\n\nMickey is wearing his own festive Christmas sweater while the group enjoys a warm tea party together. Goofy serves tea from the kettle, passing cups to the others, and Minnie is dressed up in holiday attire as she sits on the couch. Donald is in a blue bathrobe patterned with snowflakes, and Daisy appears to be following up on wrapping a Christmas gift.\n\nThe scene captures the joyful spirit of a Disney Christmas celebration with beloved characters coming together to share tea, toast to the holidays, and celebrate the festive season in a warm, inviting home decorated from top to bottom with holiday cheer.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 181,
+        "total_tokens": 2935
+      }
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "analyse_action": "In the scene, Mickey and Minnie are celebrating Christmas together in their warmly decorated living room. After having their cups of hot chocolate, they drift off into a peaceful nap on a bright red couch near the Christmas tree, which is beautifully adorned with colorful lights and ornaments.\n\nLater, they wake up to find that their Mickey-shaped gingerbread man has become a chocolate lava cake. Minnie is surprised by this sweet change while Mickey regrets the cookies having been eaten.\n\nThe celebration then wraps up with the whole gang returning to the room. Mickey is shown sitting on the red couch in his festive Christmas sweater, gazing most happily at the Christmas tree, with Goofy in his reindeer outfit resting nearby on the floor. They've gathered together in their cozy, decorated space for a festive holiday moment full of warmth, friendship, and Christmas cheer.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 170,
+        "total_tokens": 2924
+      }
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "analyse_action": "This is a warm, festive sequence from a Disney Channel holiday special featuring classic Mickey Mouse characters celebrating the Christmas season together. Mickey is surrounded by Goofy, Pluto, Minnie, Donald, Daisy, and Jiminy Cricket as daylight turns to night, creating a cozy holiday atmosphere.\n\nThe scenes show the group at home in front of their decorated Christmas tree, toasting with hot chocolate in cups, dressing up for winter with mugs, scarves, and hats, taking a sleigh ride through the snow, and gathering outside under the decorated tree at night. They're enjoying various Christmas traditions together - storytelling, watching the sunset, enjoying holiday treats, and celebrating with each other.\n\nThe special concludes with everyone gathered outside at dusk, their silhouettes visible against the sky as they wave goodbye, with Goofy and Mickey looking out from behind their hands in this festive holiday finale.\n\nThe whole sequence captures the joyful spirit of Disney's traditional holiday movies with its friendship and holiday cheer.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 199,
+        "total_tokens": 2953
+      }
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "analyse_action": "The scene takes place during a magicalwinter celebration in a cheerful, storybook-like town. Mickey Mouse, dressed in festive holiday attire, is at the center of joyous activity alongside a colorful cast of characters, including Goofy, Minnie Mouse, Donald Duck, Pluto, menachers, and animals wearing Santa hats.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 66,
+        "total_tokens": 2820
+      }
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "analyse_action": "The scenes show Mickey Mouse experiencing two moments - one in a snowy animated city at night, and another in his cozy bedroom during Christmas time.\n\nIn the snowy city, Mickey is posing happily - spreading his arms wide, bouncing, and celebrating with his eyes closed. He appears joyful and festive, surrounded by snow on the ground and falling from the sky. Snow-laden trees and illuminated buildings donate a cheerful holiday atmosphere to the nighttime setting.\n\nLater, Mickey is sitting in bed in his warmly decorated room during Christmas holiday. The bedroom is filled with festive cheer, with colorful Christmas lights hanging on the walls near a window where Santa's sleigh flies by in the distance. Mickey is resting peacefully, looking happy and content as he watches the holiday celebration unfold outside his window.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 154,
+        "total_tokens": 2908
+      }
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "analyse_action": "The video shows Disney characters celebrating Christmas in two festive locations. First, there's a cozy bedroom scene where Mickey's bed is decorated for the holiday with twinkling lights and a wreath. Mickey is on his bed pointing at something off to the side as Donkey Goofy hops onto the bed beside him.\n\nThe scene then shifts outdoors to a winter wonderland where Pluto is sledding through snow, jumping over candy canes while holding a large Christmas present, creating a playful and festive atmosphere.\n\nBack inside, more characters are gathered in celebration - Daisy Duck, Donald Duck, Minnie Mouse, and Pluto are all present, some holding presents and greeting one another warmly. Mickey stands watching while Pluto continues his energetic snowy antics with the present, continuing the joyful holiday gatherings and holiday decor throughout the scenes.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 163,
+        "total_tokens": 2917
+      }
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "analyse_action": "The scene shows a cozy Christmas gathering with Disney friends in a festive living room. The celebration features wine glasses of chocolate, gift-giving, and a warm holiday atmosphere. Mickey's friend receives a large green-wrapped presents from Goofy, who delivers it wearing holiday clothes and green slippers, and the recipient thanks him for the gift. Donald Duck, Goofy, Cleopatra, Minnie Mouse, Mickey Mouse, Goofy, Daisy Duck all gather in a circle, raising their coffee cups for a cheerful toast. In the foreground, someone holds a beautifully wrapped green gift with a red ribbon and bow.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 127,
+        "total_tokens": 2881
+      }
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "analyse_action": "In the scene, Minnie and Mickey Mouse are sitting together and exchanging Christmas gifts. Minnie receives a golden square gift from Mickey that's decorated with a red ribbon and features Mickey-shaped ears, which she opens to reveal a box of chocolates inside. She examines the chocolate box thoughtfully before smiling.\n\nThe brightly decorated living room includes a decorated Christmas tree, presents scattered on the floor underneath the tree, and a cozy fireplace with a garland and stockings on the mantle. The atmosphere is warm and festive.\n\nLater, Minnie is sitting on a red couch holding three different boxes of chocolates while Daisy Duck appears beside her, wearing a festive green and red striped Christmas shirt, a green bow with red holly berries in her hair, and speaking to Minnie with her hands raised and mouth open.\n\nThroughout the scene, the characters interact warmly, exchanging gifts and sharing in the holiday spirit of Christmas. The cozy, decorated living room and Christmas decorations around the fireplace create a cheerful holiday atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 198,
+        "total_tokens": 2952
+      }
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "analyse_action": "The scene captures three sequential Christmas moments featuring different Disney characters.\n\nIt opens with Minnie Mouse relaxing on a red couch, wearing a vintage polka-dotted dress with a red hair bow and holding a box of chocolates.\n\nThe scene then transitions to Mickey Mouse standing in front of a fireplace and Christmas tree, wearing a red Christmas sweater as he adjusts his camera with a concerned expression, preparing to take a photo of something out of view.\n\nFinally, the scene shifts to Goofy lifting a green-wrapped gift package tied with a yellow ribbon, while Heffalump is being held by four fictional baby pigs.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 124,
+        "total_tokens": 2878
+      }
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "analyse_action": "This is a charming festive Disney Christmas scene centered around Mickey Mouse during the holiday season.\n\nIn the living room, Mickey is standing in front of a decorated Christmas tree, wearing a cozy red sweater with yellow cuffs. He's holding a camera and appears to be sharing or experiencing the holiday spirit with the characters around him. The room has a warm, inviting atmosphere with a fireplace burning behind him, green garlands, and holiday decorations covering various surfaces.\n\nThe scene shows group moments of the cartoon characters together:\n- Mickey and Daisy Duck are standing together, conversing and interacting\n- Goofy arrives in his blue snowsuit and holds a red Santa hat\n- Pluto joins the gathering, completing the holiday group \n- All the characters seem to be enjoying time together\n- Christmas lights complete the festive atmosphere\n\nMickey's role as the cheerful host continues as the scene briefly shifts outdoors to a snowy, winter night setting. Now wearing a Christmas sweater, he stands next to Pluto near a colorful Christmas tree, a candy cane, and a wrapped gift. After this moment outdoors, the video returns to the snowy night time setting, where the characters are gathered around a red sled.\n\nThe scene has that classic Disney holiday warmth - full of holiday cheer, visual holiday decor, and friendly interactions between Mickey and his companion characters. It captures the spirit of spending time together and making merry during Christmas season.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 279,
+        "total_tokens": 3033
+      }
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "analyse_action": "Mickey Mouse and Pluto are standing together indoors on festive holidays. Mickey is dressed in a red Christmas sweater with a green tree design and blue mittens, while Pluto wears a green Santa hat, matching green sweater with white candy cane patterns, a red collar with a gold bell, and a red-and-white striped candy cane tail.\n\nBehind them, there's a snow-covered Christmas tree bordered in red with lights and ornaments, and a lit-up window with a heart-shaped wreath on a blue wall. The scene captures a joyful holiday moment between the two characters.\n\nLater, the scene shifts to show Mickey lying in bed in his bedroom. He's sleeping peacefully on his left side, propped on a yellow pillow, with a blue blanket covered in white snowflakes pulled up to his chest. Above his bed is a framed picture of Santa Claus in his sleigh filled with reindeer, surrounded by colorful Christmas lights in red, green, yellow, purple, and pink. A wreath adorns the brown headboard, and there's a small table with knick-knacks visible in the cozy, festive bedroom setting.\n\nDuring a morning scene, Mickey wakes up in bed and looks around the holiday-decorated room. He gets up with a cheerful demeanor and heads outside, where Minnie Mouse and Daisy Duck are waiting, with Minnie carrying a wrapped gift, suggesting they've come to celebrate together after his restful sleep.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 289,
+        "total_tokens": 3043
+      }
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "analyse_action": "The scene shows a festive Christmas celebration gathering. Mickey, Minnie, Donald, Daisy, and Goofy are all present, each dressed in holiday outfits and holding brightly colored presents. They're standing near a decorated tree in a cozy room with windows showing a snowy landscape outside.\n\nThe moment freezes on Donald wearing green shoes while he runs through the snow, with Mickey peering inside a room. The scene then transitions to a quiet night view, showing Santa and his sleigh passing by in the darkness, capturing the magic and excitement of the Christmas season. The gathering appears to be celebrating this time of year together.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 124,
+        "total_tokens": 2878
+      }
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "analyse_action": "The scene is taking place during Christmas time, as evidenced by the festive red ribbons and green wreaths with red bows decorating the doorway, the red Christmas tree drawn on Mickey's sweater, and the wreath and \"25\" sign on the wall. \n\nMickey is standing in a living room that has been decorated for the holiday, with a red tablecloth, yellow wall with brown trim, brown door, cabinet, and Christmas tree with ornaments. The mood is quite dramatic and emotional. \n\nMickey's expression shifts from surprised to angry, with their eyebrows furrowing and mouth forming a thin line. The tears in their eyes indicate they're feeling deep emotion. During this tense moment, Mickey turns to look at a calendar page marked with the number \"25\" and pulls it down. Then they draw a line between the two \"25\" days on the displayed calendar.\n\nAfter this decision is made, the scene cuts to a group of the characters celebrating together in front of the fireplace, suggesting Mickey chose to celebrate Christmas. The superimposition of the group over Mickey indicates the different emotional states - the somber, tearful Mickey in the foreground looks down sadly, while his friends laugh and smile around the fireplace with their eyes closed and mouths open, fully immersed in the cheerful holiday moment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 264,
+        "total_tokens": 3018
+      }
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "analyse_action": "The scene opens with a festive animated Christmas setting featuring Mickey Mouse lying in bed. He's wearing a red reindeer-themed outfit with a Santa hat and is initially resting with his head on a bright yellow pillow. But he's surprised by something – his eyes widen in shock and he props himself up against the headboard.\n\nThe atmosphere is cheerful and Christmassy, with colorful string lights glowing along the wall and ornaments sparkling on the doorway, creating a warm holiday ambiance. Mickey then gets out of bed, throwing a look of frustration or annoyance to Pluto, who's sitting there wearing a Santa hat. This moment captures the classic Christmas morning dynamic where the excitement of Santa's arrival contrasts with the usual reminders about chores or responsibilities that come with opening presents.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 151,
+        "total_tokens": 2905
+      }
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "analyse_action": "In the scene, Mickey Mouse is sitting alone on a bed in a Christmas-themed bedroom, looking disheartened as he opens his presents. The festive room is decorated with green garlands, a yellow pillow, Christmas lights, and a window covered in a magenta-red curtain, creating a cheerful holiday atmosphere that contrasts with Mickey's gloomy expression.\n\nThere's a pleasant exchange between Mickey and Minnie Mouse where they're offering gifts to one another. The scene celebrates the Christmas season with the characters engaged in gift-giving activities, surrounded by holiday decorations and wrapped presents scattered throughout the space.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 119,
+        "total_tokens": 2873
+      }
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "analyse_action": "A cheerful Christmas scene is taking place where Mickey Mouse is standing in a festive living room decorated with holiday cheer. Around him are Minnie Mouse, Daisy Duck, Donald Duck, and another duck dressed in green. They're all holding wrapped presents—Minnie has a pink box, Donald wears a blue coat and holds a blue-and-white box, and the green-clad duck carries a green box with a red ribbon.\n\nThe room is beautifully decorated with a Christmas tree, wreaths along the walls, garlands, ornaments, and a number \"25\" displayed in red-and-green striping next to a wreath. Through an open door, you can see a snowy landscape outside with a blue sky.\n\nThe characters appear festive and are engaged together, holding their wrapped gifts in what looks like a friendly, holiday gathering scene. The atmosphere is bright and jolly, with everyone dressed in seasonal attire featuring colors like red, green, blue, white, yellow, and pink.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 197,
+        "total_tokens": 2951
+      }
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "analyse_action": "The scene opens with Mickey Mouse standing indoors beside an open wooden door. He's positioned in front of the festive holiday room where a camera sits on a nearby table, a camera-related sign hangs on the wall, and Christmas decorations adorn the space, including garland and red curtains.\n\nThrough the doorway, you can see a snowy landscape outside. The winter setting features a blue sky scattered with white clouds, a small white house with a yellow roof partially covered in snow, and several candy cane poles emerging from the snow scattered throughout the landscape. Presents wrapped in red-and-white striped paper and green paper with red bows are visible around the area.\n\nOutside, Daffy Duck and Goofy are present, adding to the wintry holiday atmosphere. The scene maintains a festive, Christmas-themed mood with the indoor and outdoor settings contrasting nicely - warm, decorated interior space connected to the wintry outdoor scene.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 180,
+        "total_tokens": 2934
+      }
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "analyse_action": "In the scene buttercup are in a christmas decorated room",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 12,
+        "total_tokens": 2766
+      }
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "analyse_action": "In the scene, Mickey Mouse is sitting among a cheerful group of Disney characters in a festive room decorated for Christmas. He's positioned on a red couch wearing his clerical outfit - a red sweater over his usual red shirt, blue shoes, and a white collar. The room features festive details like a garland with a large red bow above him, Christmas lights around a window, and a colorful painting on the wall showing a snowy mountain scene with an animal house.\n\nMickey is surrounded by other Christmas-decorated characters alongside Donald Duck and Daisy Duck, and Goofy. There's also a dog wearing a Santa hat near the group. On the wall hangs a vintage-style color television with a snowy mountain and a house image, adding to the cozy holiday atmosphere.\n\nThe overall mood is warm and festive, with everyone dressed up for the season and the room filled with Christmas decorations like garlands, lights, and holiday arrangements that contribute to the cheerful, celebratory atmosphere typical of Disney's Christmas specials.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 202,
+        "total_tokens": 2956
+      }
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "analyse_action": "In this scene, two Mickey Mouse characters are having a conversation while standing together in a festive Christmas setting. They are flanked by dogs in small green houses.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 33,
+        "total_tokens": 2787
+      }
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "analyse_action": "The scene takes place in a winter wonderland where Mickey Mouse stands on a red sled surrounded by festive Christmas decorations including wrapped presents topped with bows, a Christmas tree with colorful lights, and even a railroad track with a train. Gifts are scattered around Mickey. A fox-like companion stands nearby in festive winter attire. The seasonal setting glows with holiday cheer throughout the wintry landscape.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 77,
+        "total_tokens": 2831
+      }
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "analyse_action": "The scene shows a festive Christmas spectacle where Mickey Mouse delivers presents in a magical winter wonderland.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 20,
+        "total_tokens": 2774
+      }
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "analyse_action": "The scene shows a lively holiday celebration in a 3D animated winter wonderland. A cheerful yellowish building with snow-covered walls is decorated with strings of colorful festive lights in gold, blue, green, and white. This structure features a prominent triangular window with a red-framed doorway, decorated with a green wreath topped with a pink bow. The roof is piled high with snow, and a small balcony stretches across the front supported by white columns. Below, the deep blue sky and snow-covered ground create a magical winter atmosphere.\n\nThe view then shifts to a holiday tree adorned with lights transitioning from yellow to red, creating a soft glowing effect.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 131,
+        "total_tokens": 2885
+      }
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "analyse_action": "The scene takes place in Frosty Town during a snowy nighttime setting. Mickey Mouse is the central figure, warmly dressed in a yellow sweater and brown pants, smiling and gesturing toward a young elf-like girl who wears a red-and-white hat and a green outfit with black polka dots.\n\nMickey is speaking to this elf girl, while Minnie Mouse and Daisy Duck stand nearby in their coordinating winter outfits, listening intently. A cheerful group of five friends—assemble together in the snow, watching the interaction between Mickey and the elf.\n\nThe group consists of Goofy wearing his signature brown jacket and blue pants with a winter hat, Donald Duck dressed in his blue jacket, red scarf, and winter hat, Daisy in her purple coat with matching earmuffs, Minnie in her purple hoodie with a hood and her purple bow, and another character in a blue jacket.\n\nAs the scene progresses, Minnie and Daisy in purple outfits examine books—one holds a red volume with gold designs, while the other looks up with concern. The focus then returns to Mickey, who continues talking to the elf girl in front of the warmly lit, snow-powdered houses, with the festive, magical winter atmosphere throughout. The flowering onde尔斯 uses their hands to show a connected glowing thing, showing a connection between characters",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 263,
+        "total_tokens": 3017
+      }
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "analyse_action": "In the scene, Minnie Mouse is holding an open book on her lap, with its pages glowing softly from magical sparkles. On the left page, there is a framed photo showing Mickey, Minnie, Donald, Daisy, and Pluto bundled up together inside a snow-covered home. On the right page, a separate image shows the same group outdoors in colorful winter clothing, standing together outside.\n\nMickey is sitting nearby, dressed in a green long-sleeve shirt and white gloves, with his hands raised to his head as he looks on. He glances down at Minnie with a concerned expression while she flips through the glowing book.\n\nThe scene appears to take place during a winter holiday setting, with snow covering everything and a blue door visible in the background. Minnie and Mickey are reviewing these special memories and photos from when they all spent time together, with the magical sparkles adding a festive, enchanted quality to the moment as they remember their holiday reunions.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 196,
+        "total_tokens": 2950
+      }
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "analyse_action": "In the scene, a winter conversation unfolds between two anthropomorphic characters. One character with pinkish-peach skin, black hair, and a purple bow is seated with hands extended outward in a gesture of openness or explanation, while the other character—a Mouse with black round ears, a pink face, black nose, white gloves, and wearing a brown sweater—stands nearby looking at the first character.\n\nDaffy Duck joins them in the conversation, wearing a purple coat with a bow in her hair and earuffs, appearing to lean in with a somewhat stern or concerned expression, hands on her hips.\n\nLater, a separate character—a pink-hued figure with a brown hat, brown hoodie, and blue gloves—makes a quiet remark, lowering its head with raised brows beside a blue door with a half-crescent window design, sitting serenely in a quiet indoor setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 177,
+        "total_tokens": 2931
+      }
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "analyse_action": "Goofy is standing by the doorway in his outdoor snow gear when Donald Duck appears running up, making a comical display by jumping and spinning around Goofy in surprise. After the animated greeting, the scene then shifts to Minnie and Mickey Mouse, who are frozen in worry while watching the commotion, adding a dramatic contrast between Donald's exuberant behavior and the other characters' concerned reactions.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 83,
+        "total_tokens": 2837
+      }
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "analyse_action": "In this scene, Mickey is on an ice-skating rink at night, looking around and gesturing toward the winter village scene filled with sparkling lights and snow-covered buildings. He's alone on the ice, patting his head and speaking to someone off-screen as he continues to explore the festive surroundings. Mickey is wearing a brown sweater, purple pants, and white gloves. The snowy village features accented buildings, a fence, and a prominent chimney with a warmly lit window, all creating a magical winter atmosphere as Mickey strolls across the ice, examining the enchanting holiday setting. In the distance, you can see snow-covered hills, a small snow bridge, and trees, all illuminated to enhance the cozy, festive spirit of this winter wonderland.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 152,
+        "total_tokens": 2906
+      }
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "analyse_action": "The video takes place in a snowy winter wonderland that serves as the main setting. The scene features an enchanting winter landscape with snow-covered ground, rolling snowbanks, festive street lamps decorated with Minnie Mouse heads, pine trees dusted with snow, and tall buildings in the background including structures with triangular roofs and arched windows. The entire setting is cast in a wintry purple tone beneath a blue-gray sky, creating a cold, festive, and magical atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 95,
+        "total_tokens": 2849
+      }
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "analyse_action": "The scene takes place in a snowy outdoor setting under a clear night sky. Mickey and Minnie Mouse stand close together, facing left, as a group of four bundled-up friends gathers around them - Daisy Duck and Donald Duck are positioned on one side while Goofy stands nearby with his gloved hands by his sides. They're all surrounded by bright yellow star-like points of light that float and twinkle beside them, creating an enchanting magical atmosphere. The friends appear engaged in a conversation as these shimmering sparks drift through the air around them, with the sparkling lights also floating into the night sky above, enhancing the magical winter wonderland feel of the gathering.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 134,
+        "total_tokens": 2888
+      }
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "analyse_action": "In the scene, Mickey Mouse and Minnie Mouse are outside in the snowy night, bundled up in winter clothing against the cold. Minnie is wearing a purple coat, bow, and matching hat while Mickey has on his trademark green long-sleeve shirt. After hearing a sound, they turn to see Goofy—the Snow White house's front door begins to sparkle with a magical effect. Goofy himself is completely surrounded by bright sparkling lights that make him look like he's enveloped in tiny flames of light.\n\nThe pair, standing in front of the warmly lit, snow-covered house with its purple and white striped awning and illuminated windows, watch with concern and curiosity as the unusual phenomenon unfolds. The magical glow emanating from Goofy creates an enchanting winter atmosphere in the snowy cityscape around them. The two friends appear unfazed by the magical effect, instead seem intrigued while keeping Goofy in their sights.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 189,
+        "total_tokens": 2943
+      }
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "analyse_action": "In this scene, Mickey Mouse is standing in the center of a quiet, snow-covered town at nighttime with his eyes closed and hands gesturing as if speaking. Behind him is a festive winter village with snow-covered houses and grass. The scene transitions to show Minnie Mouse in the village wearing a purple snowsuit with matching earmuffs and gloves. The view then shifts to Goofy, dressed in a brown coat, blue sweater, and green wool hat with a brown brim, who is nodding in agreement while walking and conversing with Daisy Duck.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 113,
+        "total_tokens": 2867
+      }
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "analyse_action": "The scene takes place in a cheerful winter wonderland under a dark blue night sky filled with twinkling yellow stars that sparkle down onto the wintry landscape. Mickey and Minnie are showing the three friends Donald Duck, Daisy Duck, and Goofy around what looks like the town square or a neighborhood ice skating rink.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 66,
+        "total_tokens": 2820
+      }
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "analyse_action": "In this scene, Mickey and his friends are gathered together outdoors in the winter night with Goofy raising his arms and a shooting star streaking across the sky, transforming into a golden star-shaped medal with a Christmas tree.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 46,
+        "total_tokens": 2800
+      }
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "analyse_action": "In the scene, a group of Disney characters are gathered together around a collectible gold coin with a star design, which Minnie holds as they all converse. They're surrounded by a snowy winter setting with buildings and bare trees in the background. Everyone appears cheerful and engaged in animated conversation, then the views show the coin rotating, revealing colored snow that creates dancing light swirls all around the characters, and the scene transitions to the characters flying on brooms.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 93,
+        "total_tokens": 2847
+      }
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "analyse_action": "The scene is centered around a festive heart-shaped message display.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 13,
+        "total_tokens": 2767
+      }
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "analyse_action": "The scene depicts a festive winter celebration in a cheerful Christmas village. Snowy mountains surround the cozy settlement under a starry sky, with warmly lit houses trimmed with wreaths and Christmas lights creating a magical winter wonderland atmosphere.\n\nA group of beloved Disney characters is walking together through the snowy village, bundled up in their Christmas winter outfits. Many are holding gloved hands as they stroll along the snow-covered paths. The melting snow creates a glistening effect that adds to the enchanting mood.\n\nThe characters gather together, creating a circle around a large decorated Christmas tree. As they assemble, Mickey Mouse and Minnie Mouse lean together briefly, sharing a warm exchanged look before returning their attention to the group. A hand lifts a red, gold-edged book decorated with a holiday photo of the same characters wearing seasonal clothing, which appears magical with sparkling snowflakes floating around it.\n\nThe entire scene conveys a sense of holiday togetherness, magic, and nostalgia as the characters celebrate this wintertime gathering in their charming, snow-covered Christmas village setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 213,
+        "total_tokens": 2967
+      }
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "analyse_action": "The scene takes place in a warm and festive winter setting. Goofy is speaking to Minnie, who is standing near a large Christmas tree decorated with green lights. A beautifully illuminated train passes by, moving through the picturesque snow-covered landscape and through a small nearby village while playing music. Mickey Mouse appears dressed in holiday attire and is shown pulling a golden star. A playful group moment occurs where Pluto is wearing a Santa hat as he stands beside both Mickey, who is dressed in red with a green Christmas tree design, and a fox character in an elf outfit with red-and-white striped stockings. They're all gathered together, smiling and sharing a cheerful holiday atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 134,
+        "total_tokens": 2888
+      }
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "analyse_action": "The scene shows Christmas decorations in progress inside a house decorated with festive lights and holiday accents.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 19,
+        "total_tokens": 2773
+      }
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "analyse_action": "In this scene, Mickey and Minnie are playing a lighthearted game of frisbee with the other characters in a festive winter village. The entire group is bundled up in colorful holiday clothing and cheerful spirits as they huddle together and take turns tossing a bright yellow frisbee between them.\n\nThe mood is festive and joyful—everyone is smiling and laughing together as they enjoy the snowy day and each other's company. It's a classic Disney holiday gathering moment where friends come together to celebrate and have fun in a beautiful snow-covered setting.\n\nAfter the game, the energy shifts to sledding. The entire group piles together on a colorful sled bedecked with a \"Merry Christmas\" banner and rides downhill. Their sled narrows as it speeds along, creating a thrilling, carefree winter adventure typical of Disney's wholesome seasonal stories. The playful atmosphere fills the air as they zigzag through the snow on their festive Christmas ride.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 193,
+        "total_tokens": 2947
+      }
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "analyse_action": "The scene is set during a playful winter gathering in a snowy, mountainous holiday landscape. Snowmen are dotting the ground while a colorful train winds its way through the wintry forest, passing snow-covered pine trees and a wooden bridge. \n\nThe festivities are taking place as everyone is having fun at the holiday party.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 65,
+        "total_tokens": 2819
+      }
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "analyse_action": "A snowy winter scene unfolds with the dog character making a makeshift swing using tree branches and a red-orange rope. He jumps back and forth enthusiastically in his winter attire, playing in the snow-covered landscape.\n\nMeanwhile, Mickey Mouse appears carrying a yellow shield and a small bag while running toward a brown bridge under Christmas lights. A snowman rolls down a slope, revealing Goofy's head inside its body with eyes, a nose, and a hat, as Mickey follows curiously.\n\nThe journey continues with Mickey walking along a snow-covered path , accompanied by Minnie Mouse and Donald Duck in winter clothing. Mickey then pauses with the snowman containing Goofy's head before resuming his exploration.\n\nThe scene concludes with Disney characters moving through a bridge covered in snow.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 154,
+        "total_tokens": 2908
+      }
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "analyse_action": "The video shows a whimsical winter scene where Mickey Mouse and Minnie Mouse are ice skating together across a frozen lake. Mickey is wearing red with a Christmas tree design on his shirt and blue mittens, while Minnie is in a red, white, and green outfit with a poinsettia in her hair.\n\nThey're holding hands as they skate together and move through the snowy landscape. The Christmas theme is evident throughout, with snow-laden pine trees bordering the ice and a purple-and-blue sky overhead that gives the scene a magical atmosphere.\n\nOn the ice, there are also penguins skating around, with one penguin falling near a figure of Mickey. Later, the scene shows a decorated Christmas tree with gift boxes and presents beneath it surrounded by red and white curling decorations, with colorful ornaments hanging nearby.\n\nThe video then shows them standing together by the bright blue sky, holding hands with an open book that features their images on its cover.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 193,
+        "total_tokens": 2947
+      }
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "analyse_action": "In this festive winter scene, Mickey Mouse, Minnie Mouse, Donald Duck, Daisy Duck, Goofy and Pluto are in a playful chase as they glide across an icy landscape. Everyone is dressed in bright, colorful holiday-themed clothing, including knit caps, earmuffs, and festive sweaters.\n\nThe friends are moving at different speeds across the sparkling ice, causing trails of white bubbles to leave behind them as they swish through the snow-like particles in the air. Puffling black-and-white penguins with bright yellow feet are frolicking around, skating and moving to the rhythm alongside the animated characters.\n\nThe setting is magical - there's a snowy watermark visible in the background along with assisting trees dusted with snow. As the energy builds, the scenery expands to reveal the full scope of the winter wonderland, with a purple-and-green sky above snow-capped mountains.\n\nThe action comes to a cheerful climax when Mickey runs toward a narrow wooden train track. A festive green train approaches along the snow-covered rails, and Mickey jumps up, catching a gleaming gold coin mid-air as he reaches for it. The classic Disney magic continues with the action culminating with a view of the train crossing the snow-covered bridge in the winter landscape.\n\nThe entire scene radiates joy and holiday spirit, with the characters in their celebratory outfits moving with exuberant energy through the sparkling, snow-dusted setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 283,
+        "total_tokens": 3037
+      }
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "analyse_action": "The scene takes place during a midday winter celebration with Mickey Mouse at the center of a joyful gathering. Mickey stands atop a snow-covered hill surrounded by predominantly green trees decorated with snow, with a small brown building nearby. There are figures of dogs and birds visible, creating a festive winter atmosphere with a colorful, magical quality to the setting.\n\nMickey is actively engaged in decorating, holding a golden star ornament in one hand while reaching up with the other to adjust it on trees. He's dressed warmly in a red winter sweater decorated with a Christmas tree motif, with collar and sleeve detailing in golden color and a yellow-toned interior. His blue gloves feature a green holly leaf and crimson berry attached at an angle.\n\nAs the celebration continues, Mickey moves among clusters of friends, gliding and running through the thick snow on his gold star sled—with a tiny card visible through its cutout—cracking up while maintaining the festive atmosphere. The scene captures the height of the holiday festivities, combining the magic of snow-covered landscapes with cheerful Mickey Mouse enjoying his winter celebrations with friends.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 217,
+        "total_tokens": 2971
+      }
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "analyse_action": "In the scene, a festive Disney winter adventure is unfolding as Christmas-themed characters gather on a snowy hillside to watch a colorful holiday train pass by. Mickey Mouse, Carol, Donald Duck, Daisy Duck, Minnie Mouse, and Goofy are all bundled up in winter clothing and are positioned together, creating a cheerful winter tableau. Mickey appears to be prominently featured alongside the others in this group during what seems to be the final moments of the video. The overall atmosphere is bright and festive, capturing the magical essence of Disney's holiday spirit in a winter wonderland setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 116,
+        "total_tokens": 2870
+      }
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "analyse_action": "The scene shows a wintry Christmas-themed moment featuring Mickey Mouse in festive apparel. Mickey is kneeling on a snow-covered branch high above snowy mountains, holding a gold star-shaped disc in one hand and a sprig of pine branches in the other.\n\nMickey places the gold star on top of a tall snow-covered tree, bringing his hand to his mouth as if deep in thought while considering his next move. He's wearing a red shirt with yellow cuffs and collar, decorated with a green Christmas tree patterned with white and red ornaments, green pants, and blue gloves.\n\nThe backdrop features a brilliant sky with shifting purple and blue tones that look like northern lights, creating a magical atmosphere. The setting is entirely winter-themed with snow-covered trees and mountains throughout.\n\nThe scene has a contemplative quality, with Mickey appearing to carefully consider his actions in this fantastical winter wonderland setting, surrounded by snow banks, trees, and shimmering aurora-lit skies.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 193,
+        "total_tokens": 2947
+      }
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "analyse_action": "The scene opens in a wintry, northern landscape beneath a purple-blue sky streaked with auroras, focusing on Minnie Mouse who is wearing a warm red dress, white gloves, and a green hat topped with a red poinsettia flower. She appears to be sharing something while standing amid snow-covered pine trees and rugged terrain. \n\nThe scene then transitions to show a Christmas-themed gift box on snowy ground. This box is wrapped in gold paper with a green ribbon and string, decorated with colorful multicolored lights around its edges. On top of the box sits a coin slot, into which a gold coin bearing a star shape magically appears and drops. As the coin slides into the slot, bright yellow stars burst out and radiate from the box, creating a sparkling effect.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 159,
+        "total_tokens": 2913
+      }
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "analyse_action": "The scene is a lively, holiday celebration in a snowy town square teeming with Disney characters dressed for Christmas. Mickey and Minnie are greeting the warm wishes of Pluto, Donald Duck, Daisy Duck, and Goofy, all wearing festive winter outfits decorated with holly berries and bows.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 59,
+        "total_tokens": 2813
+      }
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "analyse_action": "A festive holiday celebration is taking place against a magical backdrop. A group of cheerful Disney characters are gathered together in a joyous moment, dressed in warm winter clothing and holiday wraps. They're singing in harmony as one person is holding a gift box.\n\nThe scene captures the warmth of holiday traditions - the characters are looking happy and content as they create these Christmas memories together. Minnie is holding a gift box, they're smiling in a festive mood and seem to be singing Christmas music. The atmosphere is filled with the spirit of the season, creating a heartwarming display of friendship and celebration.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 120,
+        "total_tokens": 2874
+      }
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "analyse_action": "The scene takes place on a frozen pond ringed with sparkling snow, where Mickey Mouse—who's bundled up in a festive Santa outfit with blue mittens featuring green Christmas trees—stands among a cheerful group of Disney characters. \n\nMickey is the central figure, holding a gift and wearing a radiant grin. Behind him, an excited dog in a festive base shaking sparkles with Mickey. The assembled gathering includes multiple characters: a duck in a green coat paired with someone wearing a blue sparkly sweater and green boots, another duck wearing a Santa hat and blue mittens, a duck in a green outfit with pink earmuffs and a green hat adorned with a red bow, and a mouse in a red dress topped with a green hat featuring a red flower. \n\nThe group joins together in a joyful group hug, with Goofy wearing a brown hat crowded in alongside everyone, as golden sparkles drift through the air. Mickey opens a red book while the others gather close, exchanging smiles and warm glances. The celebration feels very much like exchanging Christmas cheer and togetherness, with Mickey at the heart of this festive gathering on the sparkling winter pond, the golden sparkles reflecting the festive mood for all assembled.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 245,
+        "total_tokens": 2999
+      }
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "analyse_action": "The scene shows a classic cartoon-style list of credits rolling across the screen. Mickey Mouse is featured prominently, who is surrounded by various other Disney characters including Donald Duck, Daisy Duck, Goofy, Minnie Mouse, Chip, Dale, and Pluto, all dressed in festive holiday outfits like Santa hats and Christmas-themed clothing. The production credits are displayed in red text that scrolls upward one by one, starting with Executive Producers Tom Rogers and Rachel Ruderman, then listing Supervising Director Greg Rankin and Director Janice Rim, along with names for Voice Talents of Twinkles, Short Additional Voices, and Voices for the Male and Female Carolers.\n\nThroughout the rolling credits, Mickey engages in Christmas-themed activities—playing near a Christmas tree in a living room, waiting on a couch, and playfully interacting with Goofy, whose face is being covered by a feathered book, with both characters breaking into giggles. The credits continue to enumerate the production team and talent contributors against a festive holiday design backdrop.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 207,
+        "total_tokens": 2961
+      }
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "analyse_action": "The scene is showing closing credits for an animated Disney short film. The credits roll against a festive red-and-green striped Christmas wrapping-paper background with a light green rectangle in the center.\n\nDuring the credits, various Disney characters appear in simple vignettes, including Mickey holding a camera, Daisy wearing a Christmas hat, and Goofy looking into a gift box. There's also a scene featuring Mickey, Minnie, Daisy, Donald, Goofy, and Pluto gathered together as they open a gift in a holiday setting with a Christmas tree, fireplace, wreath, and stockings in the background.\n\nThe credits acknowledge contributors from the film's production, lists the soundtrack score and music, and displays the production company's logo. It concludes with the Disney brand mark appearing in a blue rectangle, along with the official Disney logo, following the playful holiday character interactions that bookend the closing sequence.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 178,
+        "total_tokens": 2932
+      }
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1293.856,
+      "analyse_action": "The scene depicts a peaceful winter holiday moment. An anthropomorphic fox character, dressed in a festive green sweater with a white pom-pom and a white collar, is sitting in a cozy red armchair, holding a red book with gold decorations. The fox is positioned in front of a crackling fireplace, creating a warm and inviting atmosphere.\n\nThe fireplace itself is beautifully decorated for the season, with stockings hanging from the mantle and garlands draped above. A wreath hangs on one of the walls, further emphasizing the Christmas theme. Everything about the setting suggests a comfortable, cheerful home environment during the holiday season.\n\nThe character appears to be relaxing in this cozy space, likely reading from the book, as it looks down at it while seated in the armchair. The warm colors and festive decorations, combined with the crackling fire, create a tranquil winter holiday scene.",
+      "tokens": {
+        "prompt_tokens": 807,
+        "completion_tokens": 174,
+        "total_tokens": 981
+      }
+    }
+  ]
+}

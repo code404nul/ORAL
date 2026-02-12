@@ -1,0 +1,182 @@
+{
+  "movie_id": "Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON",
+  "date_analyse": "2026-02-10T21:25:34.539948",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "analyse_action": "The scene is a classic animated film opening sequence that establishes the collaboration between two studios.\n\nIt begins with a clean presentation of the Walt Disney and Pixar logos against a calm, neutral background, establishing these two major animated studios are behind the production. The graphic design is crisp and balanced, with the Disney castle shown in white and blue above the text, and Pixar's stylized lamp logo prominently featured.\n\nThe tone then shifts dramatically from the formal studio logos to a vibrant and playful animated title card. Two simplified, character-like creatures appear against a bright orange-and-yellow sunburst background, framed by a hand-drawn style border. This energetic, poster-like composition introduces the film itself.\n\nFinally, the title \"Mike's New Car\" appears in large purple letters, clearly announcing the story. The title card is further decorated with the two creatures in different positions around the frame—one green monster-like character in the upper left and one blue one in the lower right. At the very top, \"DreamWorks, Inc.\" is displayed as well, identifying the production company behind the film.\n\nThis opening sequence moves from professional studio branding through a playful animated introduction to present the collaborative feature film starring characters from DreamWorks produced by Walt Disney and Pixar Animation Studios.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 248,
+        "total_tokens": 3002
+      }
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "analyse_action": "The scene begins with a playful, illustrated intro showcasing \"Mike's New Car\" along with giant, friendly monster characters against a bright, starburst-styled backdrop. This transitions into a live-action moment where a large blue monster with purple spots and white horns stands inside a wooden door, seen from behind as he scratches his head with a look of confusion. Sunlight illuminates him as he glances around, searching for something or someone. \n\nFollowing this is a final clip at the end, showing one of the Monsters Inc monsters",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 107,
+        "total_tokens": 2861
+      }
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "analyse_action": "In this scene, Mike Wazowski and Sulley are interacting in a city setting. Mike is standing down on the sidewalk beside a bright yellow muscle car, appearing excited and animated with his arms outstretched and eyes wide open in surprise or celebration. \n\nMike then gets into the driver's seat of the car, steering toward Sulley who is standing by the open door. After settling into the driver's seat and gripping the steering wheel, Sulley gets into the passenger seat beside him, humorously patted by Mike.\n\nThe pair are then shown inside the yellow muscle car together, positioned in front of a brown brick building with red leaves visible in the background. They appear to be preparing to leave the scene together in the distinctive yellow car with its black wheels and sporty rear spoiler.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 160,
+        "total_tokens": 2914
+      }
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "analyse_action": "In this scene, two monster friends are traveling together in a small yellow car. Mike Wazowski is driving on the left side while his friend (a large, shaggy companion) is riding shotgun. Mike is focused and steady at the wheel, while his passenger is very drowsy—closing his eyes, shaking his head at one point, and then propping his chin on the window with a sleepy, troubled expression. During the ride, something called \"cloud monster\" happens.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 100,
+        "total_tokens": 2854
+      }
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "analyse_action": "In the scene, the two monster characters are riding together in their yellow taxi through the city. Sulley sits in the front passenger seat while Mike (the one-eyed monster) is driving. As they travel, Mike is actively interacting with the steering wheel — his right hand is raised near his face with his mouth open as if he's talking or remembering something, and his head is turned from side to side with a slightly confused or deep-in-thought expression, suggesting he's occasionally glancing through the windshield and reacting to what they're seeing on their route.\n\nSulley, however, shows none of this engagement. He's sprawled in the passenger seat, resting his head and arm across the middle console, and keeping his gaze forward in a far more relaxed and inactive manner, almost dozing off. Their body language creates an interesting contrast between the two - while Mike is focused intently on the driving, actively checking his surroundings and participants, Sulley is completely disengaged, content to sit idle and rest.\n\nThe taxi continues through the city streets, passing red autumn leaves lining the road and tall brown buildings under a clear, bright blue sky with scattered clouds as they ride together.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 240,
+        "total_tokens": 2994
+      }
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "analyse_action": "In the scene, Mike Wazowski and James P. Sullivan are driving together in a yellow taxi on a bright autumn day. They're maneuvering through city streets lined with buildings constructed of red brick and gray stone.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 45,
+        "total_tokens": 2799
+      }
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "analyse_action": "In this scene from Monsters, Inc., Sulley is driving jack-o'-lantern car with Bozer nearby. Sulley gets distracted by some cars behind theirs breaking down in the fall cityscape, which takes his attention away from the road for a moment. \n\nBozer unexpectedly moves into Sulley's path and Sulley abruptly hits the steering wheel, which sends him into a startled reaction. We then see Bozer emerging from the right side of the car, inspecting the interior components as if checking something. He seems intent on examining the vehicle's details while Sulley remains in the driver's seat.\n\nThe scene captures a moment of interaction and momentary tension between the two creatures as they navigate through the city together.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 146,
+        "total_tokens": 2900
+      }
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "analyse_action": "In this scene, Mike Wazowski and Sulley are engaged in the classic pursuit-and-escape sequence that defines their playful dynamic throughout Monsters, Inc.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 32,
+        "total_tokens": 2786
+      }
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "analyse_action": "The scene shows a tense situation between the three monster friends. One of them is sitting in a yellow taxi with the headlights on, preparing to continue their uneasy road trip. Meanwhile, a much smaller one‑eyed monster is standing nearby on a sidewalk in what appears to be New York City during autumn.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 61,
+        "total_tokens": 2815
+      }
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "analyse_action": "In this scene from Monsters, Inc., Mike Wazowski, the small green one-eyed monster who is also Sulley's friend (rather than the main character), is getting into the yellow taxi while Sulley is already seated in the driver's seat. The environment is a city with buildings lining the street and a warm autumn atmosphere, with trees displaying orange and red leaves. As Sulley sits in the taxi, he closes his eyes and leans back with his arms relaxed, appearing very calm with a gentle smile on his face. Meanwhile, Mike enters the taxi and takes his place in the passenger seat. Once both are settled inside the vehicle, Mike sits upright and turns his gaze toward Sulley in the driver's seat. At this point, Mike looks frustrated and wiggles about in his seat, while the windshield wipers flutter slightly in the brisk autumn air as the taxi comes to a stop.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 182,
+        "total_tokens": 2936
+      }
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "analyse_action": "Monsters are driving a bright yellow taxi.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 10,
+        "total_tokens": 2764
+      }
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "analyse_action": "The scene shows Sulley swinging around the back of the taxi frantically. This chaotic movement suggests something is extremely wrong and causing them significant distress, likely in response to a dangerous situation or unexpected problem they're facing while driving through the city streets.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 50,
+        "total_tokens": 2804
+      }
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "analyse_action": "Mike Wazowski is driving Sulley along a tree-lined street in a yellow taxi cab. Mike is steering while Sulley sits in the passenger seat looking amazed at the city around them. \n\nSulley then raises his left hand and begins counting with his fingers, pointing to each one in turn as if going through a checklist or recalling information. Mike glances up at Sulley during this, then takes his hand back, puts it on the steering wheel, and keeps driving.\n\nLater in the scene, Sulley invites Mike out of the taxi. A white door unlocks, and Sulley climbs out of the car while Mike remains inside.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 130,
+        "total_tokens": 2884
+      }
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "analyse_action": "Sulley, a towering green monster with purple accents, is standing on the sidewalk in front of a brick house. He's looking toward the street with an intent, serious expression. His wide, somewhat surprised eyes and slightly open mouth give him an alert, focused appearance as he seems to be searching for something.\n\nAfter a moment, Sulley flicks his left arm into a fist-bouncing motion subtly. He is holding Mike Wazowski, the little green one-eyed monster, in his left hand. Sulley extends his arm and slams it face-first into a car tire on the street with great force, shattering it into smaller pieces. Another car tire flies in from the left, narrowly avoiding Sulley's body as it passes by.\n\nHe then brings Mike close to his face, looking intently at him. After some time, Sulley releases Mike, who quickly flies off through the air against a black background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 188,
+        "total_tokens": 2942
+      }
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "analyse_action": "A brown end card appears listing cast and creators involved in a fictional story.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 16,
+        "total_tokens": 2770
+      }
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "analyse_action": "The scene shows a computer-generated title card with a gradient orange background and gold ornamental frame elements. The card displays various production credits in white text, including music, sound design, special effects, and numerous crew roles from different departments. The end credits are arranged in three columns, with additional acknowledgments at the bottom about funding. After the credits roll, the screen fades to black.",
+      "tokens": {
+        "prompt_tokens": 807,
+        "completion_tokens": 78,
+        "total_tokens": 885
+      }
+    }
+  ]
+}

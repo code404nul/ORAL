@@ -1963,6 +1963,644 @@
       "intervalle_debut": 4890,
       "intervalle_fin": 4905,
       "analyse_action": "The scene shows a tense moment unfolding at night in what appears to be a cemetery or graveyard setting. A red SUV is parked in front of a wrought iron gate with a stone base, and people are emerging from the vehicle.\n\nThe atmosphere is dark and eerie, with the gate's lights casting an ominous glow over the area. As the people step out of the SUV, they seem to be moving toward the gate, but their movements are interrupted by a frightening encounter.\n\nA woman with long brown hair, wearing a white shirt and blue jeans, is being grabbed by a man in a black suit. Nearby, a young boy in a brown jacket and blue jeans is running away from the scene, while a little girl in a red jacket with yellow circles is looking at him with concern.\n\nThe most disturbing moment occurs when a man in a brown jacket grabs the boy by the neck and pulls him toward the gate. The boy struggles and tries to escape, but the man's grip is too strong. The woman who was grabbed by the suited man also appears to be in distress, her face contorted in fear.\n\nThis scene depicts a frightening encounter between the people emerging from the SUV and what seems to be a threatening figure or group, creating a sense of danger and urgency in the graveyard setting."
+    },
+    {
+      "intervalle_index": 327,
+      "intervalle_debut": 4905,
+      "intervalle_fin": 4920,
+      "analyse_action": "The scene takes place at night in a very dark, foreboding graveyard, creating an atmosphere of terror and escape. Two frightened children—a girl in a red, long-sleeved blouse with a pattern and blue jeans and a boy in a white sweater and blue jeans—run through the cemetery, screaming as they flee from a zombie-like monster chasing them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 73,
+        "total_tokens": 2827
+      }
+    },
+    {
+      "intervalle_index": 328,
+      "intervalle_debut": 4920,
+      "intervalle_fin": 4935,
+      "analyse_action": "The scene depicts a frightening and terrifying encounter in what appears to be a graveyard or old cemetery at night. A young boy, likely around 12 years old and dressed in a brown jacket, is being held hostage by a grotesque, zombie-like creature with a pale, greenish-gray face, long black hair, and ragged fingers in tattered clothing. The creature has its arms wrapped tightly around the boy and appears to be actively abusing him by thrusting him in and out.\n\nThe setting includes a gray stone statue with a face positioned near the victims, reinforcing the cemetery atmosphere. The environment is shrouded in darkness with murky green and black tones that heighten the horror of the scene.\n\nMeanwhile, outside the gate in the background, there is a red-haired woman in a green dress who is yelling and pointing at the terrified boy inside. Her open mouth suggests she's trying to alert someone or warn others about the danger happening there.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 191,
+        "total_tokens": 2945
+      }
+    },
+    {
+      "intervalle_index": 329,
+      "intervalle_debut": 4935,
+      "intervalle_fin": 4950,
+      "analyse_action": "In the scene, an unsettling supernatural encounter unfolds in a gothic, nighttime setting. A woman with fiery red hair tied in a bun, wearing a long green coat, stands behind an ornate black metal gate decorated with swirls and classical bars. The gate is tipped with vine and leafy plants, with a white mansion featuring numerous windows visible in the background.\n\nThe woman appears to be yelling at a dark, decayed creature with grotesque features—a white face with jagged teeth, a painted black mouth, and wild black hair.\n\nThe scene then intensifies with a young boy wearing a brown shirt who is being held in a terrifying embrace by a ghostly figure dressed in tattered, dark clothing. This haunting presence has light green skin with black streaks, stringy dark hair, and a ragged coat, gripping the boy tightly in an oppressive, threatening manner.\n\nA further glimpse shows another young boy with short brown hair wearing a brown jacket over a white shirt, his distressed face turned toward the right side of the frame.\n\nThe sequence captures a relentlessly eerie atmosphere, building through a progression of nightmare-vision imagery that includes a creature with a half-screen and vampire-like features, ultimately culminating in the choking, clenching grip of a ghastly entity on its helpless victim.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 261,
+        "total_tokens": 3015
+      }
+    },
+    {
+      "intervalle_index": 330,
+      "intervalle_debut": 4950,
+      "intervalle_fin": 4965,
+      "analyse_action": "The scene takes place in a dimly lit cemetery at night with several people and characters gathered near a black gate. A woman with red hair wearing a green jacket and black dress stands behind the ornate iron gate, gesturing passionately, her face contorted with anger or urgency.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 57,
+        "total_tokens": 2811
+      }
+    },
+    {
+      "intervalle_index": 331,
+      "intervalle_debut": 4965,
+      "intervalle_fin": 4980,
+      "analyse_action": "Three casually dressed kids are running through a graveyard at night with someone chasing them. They stop to attack them with sticks and scare them away.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 29,
+        "total_tokens": 2783
+      }
+    },
+    {
+      "intervalle_index": 332,
+      "intervalle_debut": 4980,
+      "intervalle_fin": 4995,
+      "analyse_action": "The scene takes place in a graveyard at night, where two teenagers approach a homemade monster setup. They're dressed casually in jeans and long-sleeved shirts. The teens discover a girl with long brown hair wearing a bright red top, who is laughing and being friendly with another costumed monster nearby.\n\nThis appears to be an orchestrated prank or Halloween activity. After the monster girl laughs with her, the prank begins to unfold—someone grabs the girl and drags her away while she screams, making the setup successful. The teenagers who built it immediately react by ducking behind a tree to hide.\n\nFrom their concealed position, they gather what looks like snacks, including canned soup, ready to watch the next phase of the prank or simply enjoy their own little moment in the dark cemetery after pulling off the surprise. The entire encounter captures the playful, slightly mischievous spirit of a group getting together to create and enjoy a spooky, humorous experience in an eerie graveyard setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 194,
+        "total_tokens": 2948
+      }
+    },
+    {
+      "intervalle_index": 333,
+      "intervalle_debut": 4995,
+      "intervalle_fin": 5010,
+      "analyse_action": "The scene depicts a graveyard encounter with a classic \"dumb zombie\" trope. A young girl in a red jacket with pumpkin motifs is standing near gravestones and vegetation at night, facing a grotesque figure that appears to be a mummified corpse with shaggy black hair, ragged clothing, and pale, sores-exposed skin.\n\nThe girl reacts to her surroundings in typical zombie-comedy fashion - she turns and speaks with an exaggerated, nervous expression before stiffening as the zombie keeps watching her. The zombie then grabs her and begins dragging her away from the gravestones through the night.\n\nThis appears to be from a horror-comedy - the over-the-top zombie characteristics and the girl's dramatic reactions suggest a comedic take on zombie fiction with a Halloween setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 158,
+        "total_tokens": 2912
+      }
+    },
+    {
+      "intervalle_index": 334,
+      "intervalle_debut": 5010,
+      "intervalle_fin": 5025,
+      "analyse_action": "The scene takes place at night in a cemetery and depicts an eerie Halloween moment between two characters. The young man in gray is standing in the foreground with his back turned to the camera, gripping a brown object like a bat while gazing to the right at the woman beside him. She has long brown hair and is wearing a white sweater with black designs, along with a white-and-black necklace featuring a black pendant and diamond-shaped pattern towards the lapels. She's holding a can in one hand and resting the other hand on her hip with a slight smile on her face. As she lies down on the ground, bats suddenly rush out of the sky, making her jump in alarm. The setting features overcast skies, green trees and grass, and scattered gravestones contributing to the spooky atmosphere of the abandoned cemetery at night.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 167,
+        "total_tokens": 2921
+      }
+    },
+    {
+      "intervalle_index": 335,
+      "intervalle_debut": 5025,
+      "intervalle_fin": 5040,
+      "analyse_action": "Two humans are in a cemetery, fighting a witch.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 12,
+        "total_tokens": 2766
+      }
+    },
+    {
+      "intervalle_index": 336,
+      "intervalle_debut": 5040,
+      "intervalle_fin": 5055,
+      "analyse_action": "In the scene, a young man with short brown hair in a blue sweatshirt is swinging a baseball bat down through the air in the woods during an apparent self-defense situation unfolding in a graveyard. \n\nHe's actively attacking a witch who is riding by on a broomstick wearing a green cape. The man is trying to hit the red-haired witch as she passes by, with one hand raised and the other bracing himself, clearly in mid-attack.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 93,
+        "total_tokens": 2847
+      }
+    },
+    {
+      "intervalle_index": 337,
+      "intervalle_debut": 5055,
+      "intervalle_fin": 5070,
+      "analyse_action": "The scene takes place in a graveyard during night. Several young people are gathered around a circular arrangement of tombstones as the centerpiece. The atmosphere is eerie and supernatural, with the moonlit background revealing scattered tombstones, a stone bench, a playing card sculpture, and ivy-covered branches.\n\nThe group appears to be engaged in some sort of ritual or confrontation. A woman with spiky red hair, dressed in a dark outfit and cape, holds a staff and approaches the group with a menacing presence, seemingly threatening them with magical intent. Meanwhile, one girl in a red jacket looks deeply concerned, glancing toward a hole in the ground lined with white chalk.\n\nThe tension is heightened by other figures nearby - someone lies motionless on the ground while another person is outlined by a purple glow. A girl with long hair in a dark blue jacket sits cross-legged, watching with an intent expression. The gathering has a distinctly witchcraft or supernatural quality, with what appears to be a child-talked girl or being in the middle of the circle, suggesting this may involve some kind of spell or magical confrontation taking place in this ominous, moonlit graveyard setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 232,
+        "total_tokens": 2986
+      }
+    },
+    {
+      "intervalle_index": 338,
+      "intervalle_debut": 5070,
+      "intervalle_fin": 5085,
+      "analyse_action": "A witch is fighting off an undead zombie creature that approaches her in an eerie cemetery.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 18,
+        "total_tokens": 2772
+      }
+    },
+    {
+      "intervalle_index": 339,
+      "intervalle_debut": 5085,
+      "intervalle_fin": 5100,
+      "analyse_action": "A young woman with long brown hair has an uneasy flashback in a dark forest graveyard, where she stands among shadows and tombstones, turning around with worry and fear as she surveys a foreboding, foggy environment. She then suddenly drops backwards onto the ground, falling impossibly over the side of a steep embankment beyond a small wooden fence.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 72,
+        "total_tokens": 2826
+      }
+    },
+    {
+      "intervalle_index": 340,
+      "intervalle_debut": 5100,
+      "intervalle_fin": 5115,
+      "analyse_action": "The scene takes place in a grim, atmospheric graveyard at night. A young girl in a red top with yellow and white designs and a black skirt is crawling on hands and knees on the ground between tombstones. As she crawls, a tableau appears where a mannequin-like figure in a tattered black suit with a long brown coat and white shirt bends over near her, while a small brown dog-like creature peeks from beside the girl.\n\nThe action then shifts to show two young teenagers in the same graveyard surrounded by American Gothic-style statues with placid faces and grassy ground. The girl, now wearing a white coat, is being grabbed from behind by a monstrous figure in a brown jacket holding a chainsaw. Behind them, gray statues stand eerie silhouettes against a dark purple sky among gnarled trees, creating a tense atmosphere of fear and danger.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 176,
+        "total_tokens": 2930
+      }
+    },
+    {
+      "intervalle_index": 341,
+      "intervalle_debut": 5115,
+      "intervalle_fin": 5130,
+      "analyse_action": "The scene takes place in a cemetery at night under a purplish sky, where a spooky and dangerous confrontation is unfolding.\n\nAt the center of the action, a young woman in blue jeans and white shirt is engaged in what appears to be a struggle with a monstrous zombie-like figure with red hair and dark clothes. This creature is being pursued by two other young people running through the cemetery.\n\nThe atmosphere is tense and supernatural, with gravestones and dense trees surrounding the characters. Throughout the scene, various figures move through the cemetery - including a young woman in red paired with long black boots and a witch with red hair wearing a green robe. There's also a black cat with bright yellow eyes and another figure with long, tangled white hair in a white shirt and black jacket.\n\nThe chase and struggle create a climactic moment in the cemetery setting, with the characters darting between gravestones and foliage as the high-strung zombie pursuer gives chase.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 193,
+        "total_tokens": 2947
+      }
+    },
+    {
+      "intervalle_index": 342,
+      "intervalle_debut": 5130,
+      "intervalle_fin": 5145,
+      "analyse_action": "This is a scene from the movie Hocus Pocus, showing the iconic witch character carrying a terrified child through a dark cemetery.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 27,
+        "total_tokens": 2781
+      }
+    },
+    {
+      "intervalle_index": 343,
+      "intervalle_debut": 5145,
+      "intervalle_fin": 5160,
+      "analyse_action": "In this scene, a group of young people are gathered together at night in an outdoor setting, likely during some kind of Halloween or ghostly celebration. The cat is jumping around energetically among them, chasing the flashlight beam in circles and darting through the dimly lit area near the (possibly) tree and murky branch.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 67,
+        "total_tokens": 2821
+      }
+    },
+    {
+      "intervalle_index": 344,
+      "intervalle_debut": 5160,
+      "intervalle_fin": 5175,
+      "analyse_action": "The scene depicts a tense moment from a horror movie. A young man in a purple sweatshirt lifts a small glass vial containing green liquid and drinks it with growing panic. While he's doing this, a woman in a white shirt and tan sweater being held by a sinister man with a tattered cloak – who has a green, decayed face, rotting teeth, and long, stringy black hair – along with a woman in a green cloak looking terrified, start screaming and are being sent flying and gripped at the chest.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 109,
+        "total_tokens": 2863
+      }
+    },
+    {
+      "intervalle_index": 345,
+      "intervalle_debut": 5175,
+      "intervalle_fin": 5190,
+      "analyse_action": "In this scene, three teenagers are confronted by a menacing witch in a dark, eerie forest setting. The action unfolds as a face-off between the teens and the witch.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 35,
+        "total_tokens": 2789
+      }
+    },
+    {
+      "intervalle_index": 346,
+      "intervalle_debut": 5190,
+      "intervalle_fin": 5205,
+      "analyse_action": "This appears to be a Halloween-themed horror scene. A pale, red-haired woman dressed as a vampire in a long black cape is being pursued through a dark, foreboding graveyard by multiple others dressed as classic Halloween characters and monsters.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 48,
+        "total_tokens": 2802
+      }
+    },
+    {
+      "intervalle_index": 347,
+      "intervalle_debut": 5205,
+      "intervalle_fin": 5220,
+      "analyse_action": "In this scene, a dramatic confrontation is unfolding under moonlight in a leafless, winter-like forest at night. A man in a gray sweater, blue jeans, and a white T-shirt, with a red bandana tied around his head, is wrestled to the ground by a woman with red hair wearing a green dress or cloak. They grapple fiercely, rolling on the dirt-littered ground as the man struggles to free himself, while she ascends on top of him, appearing to have the upper hand in what looks like a violent struggle.\n\nThe setting is eerie and spooky—a graveyard filled with scattered headstones and tombstones, surrounded by barren trees. At the edge of the graveyard, a woman wearing a brown witch's costume can be seen watching the scene unfold, keeping a silent, watchful gaze from the darkness, suggesting she may be an observer or possibly involved in the situation, as she touches her hair.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 188,
+        "total_tokens": 2942
+      }
+    },
+    {
+      "intervalle_index": 348,
+      "intervalle_debut": 5220,
+      "intervalle_fin": 5235,
+      "analyse_action": "The scene shows a young girl in a red dress capturing a woman wearing a flowing red cape and dark hat who is being pulled through the air by a rope held by another young girl with pale skin in a green robe.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 45,
+        "total_tokens": 2799
+      }
+    },
+    {
+      "intervalle_index": 349,
+      "intervalle_debut": 5235,
+      "intervalle_fin": 5250,
+      "analyse_action": "In the scene, a dramatic, dark confrontation is unfolding in a ruined cemetery that has been overtaken by nature. \n\nAt the center of the action, a powerful blonde woman dressed entirely in purple is launching an assault on a dark-haired woman who is wearing a red cape and a plaid dress. They're locked in a struggle, fighting and wrestling together in the gloomy, overgrown graveyard setting. \n\nThe purple-caped woman then turns her attention downward and connects with a small child wearing a jacket. The impact cuts the child down to their knees, where they're suddenly grabbed and dragged in the opposite direction by a long line.\n\nMeanwhile, in the background, additional combat is taking place. The cemetery is filled with various figures - twisted and skeletal-looking creatures alongside people dressed in dark, tattered clothing. The purple-clad woman appears again, this time chasing after and catching a second figure who's wearing a black robe and has long blonde hair, and they grapple together while still in the deteriorating graveyard setting.\n\nThe entire scene takes place under a purple twilight sky, with statue-topped mausoleums breaking through the thick vines that encroach upon the ruins. The atmosphere is chaotic and menacing, with the characters engaging in what appears to be a magical battle across this crumbling, enchanted graveyard landscape.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 265,
+        "total_tokens": 3019
+      }
+    },
+    {
+      "intervalle_index": 350,
+      "intervalle_debut": 5250,
+      "intervalle_fin": 5265,
+      "analyse_action": "The scene shows a chaotic supernatural battle unfolding in a dark, wooded forest at night. Multiple supernatural characters are engaged in action sequences throughout.\n\nSpecifically, a witch in a green cloak with red hair is being lifted into the air by a boy in a blue shirt and jeans while another woman with a staff beats at her. Separate confrontations occur simultaneously, with a red-cloaked figure attacking a purple-cloaked character, and a ghostly woman in a sheer gown being propelled through the air.\n\nThe action takes place under a dark, ominous purple sky with silhouetted trees, creating a very spooky and eerie atmosphere. The combat involves flying, getting thrown through the air, striking, and repositioning as the mystical fighters clash in this spooky forest setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 155,
+        "total_tokens": 2909
+      }
+    },
+    {
+      "intervalle_index": 351,
+      "intervalle_debut": 5265,
+      "intervalle_fin": 5280,
+      "analyse_action": "In this scene from Practical Magic, the red-haired witch is in a dark graveyard at night, surrounded by stone monuments and gravestones. She lies motionless on the ground initially, surrounded by fallen leaves and dead grass, with white vines and roots snaked around her.\n\nAfter lying there, she stirs and pushes herself up using her hands, crouched low beside a roundedgravestone. Her skin is pale and looks wrinkled, and she wears a green cap and green-and-purple hooded outfit. She is gazing off to the left, appearing weary but alert.\n\nThe scene conveys a tense, supernatural atmosphere that suggests she may have just emerged from an intense situation—possibly resurrection or another mystical ordeal—while trapped in this eerie, overgrown graveyard setting. The mix of vivid color contrasts with the dark, moonlit environment heightens the unsettling mood and magical undertones of Practical Magic's world.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 185,
+        "total_tokens": 2939
+      }
+    },
+    {
+      "intervalle_index": 352,
+      "intervalle_debut": 5280,
+      "intervalle_fin": 5295,
+      "analyse_action": "The scene shows a spooky encounter taking place in a cemetery with a woman with red hair and pale skin - she's wearing a green cloak and is crawling on hands and knees through the misty graveyard, her hair sticking up in the breeze. There's a young man lying on the ground nearby with brown hair who suddenly bolts upright in shock with his mouth open and eyes wide. \n\nThe woman has a malevolent expression as she closes in on him, then seizes him by the shirt and lifts him from the ground, restraining him with her right hand while her left hand clamps the cloth at his neck. The confrontation takes place with tombstones, a tree trunk, and a fallen branch visible in the misty, nighttime setting. The entire sequence appears to be a tense, supernatural confrontation between the two characters in this eerie graveyard.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 168,
+        "total_tokens": 2922
+      }
+    },
+    {
+      "intervalle_index": 353,
+      "intervalle_debut": 5295,
+      "intervalle_fin": 5310,
+      "analyse_action": "In the scene, a dialogue exchange is taking place in a graveyard between two characters. \n\nThe interaction begins with a visual establishing shot of the setting - a grassy cemetery with scattered tombstones and a stark tree lined with sparse leaves against a smooth, gray stone wall.\n\nThe focus then shifts to a woman on the left side of the frame. She has striking red, curly hair and is wearing a green cape with a high collar decorated with gold trim. Her light green eyes are wide with an intense, worried expression as she speaks, her mouth opening to reveal her teeth and tongue. \n\nOn the right side, there's a man whose back faces the camera. He has short brown hair and is wearing a gray t-shirt with white shorts and beige shoes. His face isn't visible to the viewer, but he appears to be responding to the woman's dialogue.\n\nThe scene maintains this tense, concerned energy throughout, with the woman's wide-eyed expression conveying deep emotion or urgency as she looks at the man opposite her in the quiet cemetery setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 210,
+        "total_tokens": 2964
+      }
+    },
+    {
+      "intervalle_index": 354,
+      "intervalle_debut": 5310,
+      "intervalle_fin": 5325,
+      "analyse_action": "In the scene, a humorous supernatural encounter unfolds in a graveyard at sunset. A girl with brown hair is lying on the grass, and a large ornate statue with its elegant collar and heavy draping begins to show movement. A character with pale skin dressed in flowing robes and with dramatic hair approaches first - what appears to be the woman from earlier.\n\nThe girl notices this just as she is about to get up. The old figure recoils with shock and fear, rapidly transforming into a frightened woman. Still visibly terrified, she immediately flings her arms up and back defensively, then backs away and sprints off quickly, leaving her cloak fluttering.\n\nThis creates a comedic moment where the initial eerie encounter turns into a surprising retreat, adding humor to what would have otherwise been a spooky graveyard scene. The depiction concludes with the sun dipping below the horizon.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 171,
+        "total_tokens": 2925
+      }
+    },
+    {
+      "intervalle_index": 355,
+      "intervalle_debut": 5325,
+      "intervalle_fin": 5340,
+      "analyse_action": "In the scene, there's an intense confrontation between two formidable characters in a cemetery setting.\n\nThe first character, a heavyset woman with shoulder-length, dark, curly hair worn up in a bun, is commanding presence with her dramatic appearance—she's wearing a large red velvet cloak that drapes dramatically over red-and-black plaid clothing. Standing with her back to the camera, she holds a knife in one hand and stares down at another figure lying on the ground, which causes a brief visual flash of light. Her posture and the way she's facing down suggests she's in control of the moment.\n\nThe atmosphere is thick with foreboding elements—the sky is dark and ominous above the grave-marked cemetery, creating an eerie nighttime setting filled with tombstones and scattered branches on the ground.\n\nOverall, it appears to be the climax of a confrontation, with the cloaked woman asserting dominance over someone who's at her mercy. The flashing light adds to the tense, supernatural quality of what seems to be taking place in this eerie graveyard.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 209,
+        "total_tokens": 2963
+      }
+    },
+    {
+      "intervalle_index": 356,
+      "intervalle_debut": 5340,
+      "intervalle_fin": 5355,
+      "analyse_action": "The scene takes place in a dark, wooded cemetery at night. A young man with long brown hair, wearing a gray sweatshirt and blue jeans, is lying prone on the ground. He's surrounded by gravestones, with a few scattered gravestones visible ahead of him. An ominous green fog or smoke is drifting through the area, adding to the eerie atmosphere.\n\nThroughout the scene, you can hear several people shouting in the distance—it sounds like a group of children or teenagers carrying on, and someone is laughing as they make their way through the cemetery. The night sky has a deep, dark purple tone that casts everything in muted, shadowy lighting.\n\nThe camera stays close to the man on the ground as he remains motionless, seemingly unresponsive to whatever situation is unfolding in the cemetery. The combination of the fog, the scattered gravestones, and the distant voices creates a sense of unease and foreboding.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 189,
+        "total_tokens": 2943
+      }
+    },
+    {
+      "intervalle_index": 357,
+      "intervalle_debut": 5355,
+      "intervalle_fin": 5370,
+      "analyse_action": "The scene takes place in a graveyard at night, featuring a group of young children playing and interacting around a boy named Simon. In front of a gravestone, Tanya is playing heart-rate games with a zombie-like monster creature. She pulls open the creature's mouth while a dark-colored dog stands near her. Elsewhere in the graveyard, a young girl with long reddish-brown hair in a red jacket is running quickly and looks startled, while a red-haired boy in a red shirt stands nearby watching. In the background, Simon notices a man crouched behind a marker. The other children also become aware of him.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 127,
+        "total_tokens": 2881
+      }
+    },
+    {
+      "intervalle_index": 358,
+      "intervalle_debut": 5370,
+      "intervalle_fin": 5385,
+      "analyse_action": "In the scene, two teens are having an intimate conversation in a dimly lit cemetery at night. One boy is sitting up on the grass beneath the pale light of moonlight, attentively listening to the girl beside him. The girl has dimples and is speaking, gesturing with her hands as she talks, while the boy wears a slight smile as he responds to her words.\n\nThe cemetery setting, with its trees, grass, scattered tombstones, and graveyard stones nearby, creates a hushed, almost magical atmosphere against the darkness. After their peaceful conversation in the cemetery, the scene later shifts to show them lying side by side on a grassy hill shoulder to shoulder, quietly together in companionable silence with the cemetery—complete with its gravestones and tree—to their side.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 160,
+        "total_tokens": 2914
+      }
+    },
+    {
+      "intervalle_index": 359,
+      "intervalle_debut": 5385,
+      "intervalle_fin": 5400,
+      "analyse_action": "In the scene, two people are lying side-by-side on grass in an outdoor, wooded or park-like setting. They're in a peaceful, intimate moment—the man has his hands folded over his face with a slight smile, and the other person has their hand on his shoulder while hugging him. The background shows tree trunks and grass.\n\nThe atmosphere then shifts dramatically. A tall, pale figure with disheveled dark hair crawls up between two tombstones in a dim, gloomy cemetery. This is a ghastly, zombie-like creature with an eerie presence—its pale face with dark eyes and mouth, gaunt features, and rotting, pale clothing that's torn and tattered. The creature opens its mouth, revealing what appears to be teeth or fangs.\n\nThe scene then returns to the natural, peaceful setting with the people lying on the grass, creating a juxtaposition between the calm, affectionate moment and the sudden appearance of the supernatural horror in the cemetery.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 200,
+        "total_tokens": 2954
+      }
+    },
+    {
+      "intervalle_index": 360,
+      "intervalle_debut": 5400,
+      "intervalle_fin": 5415,
+      "analyse_action": "The video presents a stark contrast between two related scenes that appear to be from science fiction or horror contexts.\n\nThe first scene takes place in a cemetery during the night, where a grotesque, decayed figure with severely damaged pale skin reminiscent of a zombie emergence stands among weathered headstones and crosses. This unsettling creature is clearly supernatural in nature.\n\nThe second scene shifts dramatically to an outdoor setting with tall trees and a scattered arrangement of weathered headstones. In this somber environment, a family unit is shown with a young man in gray wearing a distinctive white shirt, accompanied by two young women—one in a white sweater over a dark top, and the other in a red puffy jacket with a floral pattern. This scene appears contemplative or memorial in nature.\n\nThe video then returns to the cemetery setting with the decomposed figure, who reaches upward and appears to raise its arms in a dramatic gesture, likely a significant moment in whatever supernatural narrative is unfolding.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 193,
+        "total_tokens": 2947
+      }
+    },
+    {
+      "intervalle_index": 361,
+      "intervalle_debut": 5415,
+      "intervalle_fin": 5430,
+      "analyse_action": "The scene takes place in a misty graveyard at night. A man, woman, and young girl are standing among weathered tombstones with twisting dead trees surrounding them. The girl in the red dress is initially facing away from her companions, then turns to reveal her expression as she notices what appears to be a black cat nearby. Her Papa notices this as well, indicated by his raised eyebrows.\n\nThe trio is standing at night in the cemetery, with the girl in red occasionally glancing around and making small movements as if something has caught her attention. Her father notices what she notices and the camera focuses on him for a moment.\n\nThe entire scene has a hushed, eerie quality to it, set against the dark, gothic atmosphere of the graveyard with its misty air, ancient tombstones, and twisted tree branches.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 166,
+        "total_tokens": 2920
+      }
+    },
+    {
+      "intervalle_index": 362,
+      "intervalle_debut": 5430,
+      "intervalle_fin": 5445,
+      "analyse_action": "The scene depicts a somber moment in a graveyard at night. A young girl with long wavy light brown hair is kneeling in the grass beside a mausoleum, leaning against a weathered tombstone that's partially overgrown with green ivy. She's wearing a red jacket with intricate designs and appears deeply contemplative, gazing very closely at the inscription on the stone.\n\nAnother girl with long blonde hair in a light sweater is standing nearby with a serious, concerned expression as she observes the scene from a distance.\n\nA boy with short dark hair is also present in the graveyard, standing with a serious expression. He's wearing a gray sweater over a white shirt and appears to be looking at the stone near the girl in red with some curiosity.\n\nThe atmosphere is quite eerie and atmospheric, with the glowing tombstone, the darkness of the night, and the various tombstones surrounding them all contributing to the mood. The moment feels tense and meaningful, as these young characters gather to pay respects to someone who was buried there, each of them reacting with different mixtures of curiosity and concern to what they see. The scene captures a quiet, emotional moment of remembrance during what seems to be a chance encounter in the graveyard.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 248,
+        "total_tokens": 3002
+      }
+    },
+    {
+      "intervalle_index": 363,
+      "intervalle_debut": 5445,
+      "intervalle_fin": 5460,
+      "analyse_action": "The scene unfolds in a cement arena where a group of people have gathered around a young girl who is the focal point of the gathering. The girl is lying on the ground among scattered stones near a headstone, dressed in vivid red clothing and wearing a silver watch on her left wrist. Her reaction is one of fear as she looks up at three standing individuals—two girls and one boy—who are positioned around her. Another girl with reddish hair and pigtails, wearing a red-and-black outfit, is positioned to one side of the group.\n\nThe boy among the group is reacting with fear or shock at something happening. Meanwhile, the adults appear distressed and almost unconscious, with one woman's hair disheveled as she falls backward in shock. The eerie cemetery setting contributes to the tense and unsettling atmosphere of the scene, as the gathered individuals respond with alarm to whatever frightening event is occurring.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 180,
+        "total_tokens": 2934
+      }
+    },
+    {
+      "intervalle_index": 364,
+      "intervalle_debut": 5460,
+      "intervalle_fin": 5475,
+      "analyse_action": "In the scene, a young girl with long blonde hair walks through an old, quiet cemetery at night. She's wearing a red-and-black outfit with black pants and carries a black bag. The cemetery is filled with headstones, dead trees, and creeping vines, creating a spooky atmosphere.\n\nAs she moves through the graveyard, she encounters an older man dressed as a skeleton wearing a white shirt and brown pants. The girl walks behind him and then stops, turning and smiling as they look at each other. She Faints in the man's arms. \n\nThe two of them share a moment of connection in the eerie setting, with their concerned and calm expressions contrasting with the cemetery's dark and mysterious surroundings. The scene shows their brief interaction in this cemetery during nighttime.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 155,
+        "total_tokens": 2909
+      }
+    },
+    {
+      "intervalle_index": 365,
+      "intervalle_debut": 5475,
+      "intervalle_fin": 5490,
+      "analyse_action": "In this scene, several people appear to be gathered in a forest. The initial focus is on a young boy with red hair wearing a white shirt with thin white strings crisscrossing in front. He's in the midst of speaking to someone standing beside him, with his mouth open as he engages in conversation. Behind them, other individuals are visible as well, including a girl wearing a red dress with yellow markings.\n\nThe atmosphere is quite dim and dramatic, with the lighting creating a mysterious ambiance throughout the forest setting. After the speaking child finishes, his attention shifts away and toward the left, possibly looking at or reacting to something or someone else present in the shadows of the woods.\n\nThe other figures in the forest include a child in a white cap and long-sleeved white shirt who stands quietly near a tree, and two young women listening to the conversation—one in a white shirt with brown sleeves who's looking directly toward the speaker, and another with long dark hair who has her eyes closed and is also focused on the exchange. The forest itself appears dense and slightly eerie, with tree trunks and branches visible throughout the frame, creating an atmosphere of enchantment mixed with a hint of tension in this twilight woodland gathering.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 246,
+        "total_tokens": 3000
+      }
+    },
+    {
+      "intervalle_index": 366,
+      "intervalle_debut": 5490,
+      "intervalle_fin": 5505,
+      "analyse_action": "In the scene, a warm and affectionate interaction is taking place between three characters. The opening shows a young blond young man from Enlightenment in a white short-sleeved shirt talking to a young bull tied up with white ropes.\n\nThe focus then shifts to a young redheaded girl in a red coat with yellow symbols and a black leather necklace embellished with silver stars and crescent moons. She reacts emotionally, smiling and laughing softly during a tender moment where a troupe member in a white shirt leans in close to her and breaks into warm laughter.\n\nThe scene then cuts to two other girls sharing a joyful moment—both have wide smiles, relaxed laughter, and long flowing hair—the one on the left in a tan sweater and white blouse, the other in a blue sweater over white with short brown hair.\n\nThe connection between the characters feels intimate and heartfelt, with each moment capturing different expressions of warmth and affection in this group interaction.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 187,
+        "total_tokens": 2941
+      }
+    },
+    {
+      "intervalle_index": 367,
+      "intervalle_debut": 5505,
+      "intervalle_fin": 5520,
+      "analyse_action": "In this scene, several moments unfold:\n\nA young girl facing the camera, slightly off to one side, is speaking while blowing on her hair.\n\nThe scene shifts to a hauntingly beautiful sunset view where a person in white stands at an ornate wrought-iron gate as the bright sun sets behind the gate while casting a dark red glow across the sky.\n\nThe camera returns to show two people looking directly at the camera and smiling cheerfully.\n\nThe shot then cuts back to the first girl from the beginning, who appears at a different angle from her original position.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 113,
+        "total_tokens": 2867
+      }
+    },
+    {
+      "intervalle_index": 368,
+      "intervalle_debut": 5520,
+      "intervalle_fin": 5535,
+      "analyse_action": "The scene unfolds in two connected moments. In the first, an eerie, spectral version of the girl appears walking through an open gate of a wrought-iron enclosure at what looks like a graveyard or cemetery. A bright orb of light—representing the sun—sits prominently in the sky during this encounter. The girl's spectral appearance is significant, drawing a parallel between her physical counterpart and this supernatural presence.\n\nThe second part shows the girl in the present, standing outdoors at night among trees and bushes. She's wearing a red jacket and standing on the left side beside her family: her mother in a beige sweater over a white shirt, and her older brother in a dark purple sweater over a white shirt. All three are smiling and engaged in conversation against the dark, wooded landscape with patches of moonlight filtering through.\n\nThese scenes connect through their tension between happiness and unease, linking the girl's more somber experiences with her family's warmth, while the supernatural elements and grave-like setting create a haunting, reflective atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 206,
+        "total_tokens": 2960
+      }
+    },
+    {
+      "intervalle_index": 369,
+      "intervalle_debut": 5535,
+      "intervalle_fin": 5550,
+      "analyse_action": "In the scene, three people—a young girl in a red shirt and two teenagers, a boy and a girl—are standing together in a forest clearing with dappled sunlight filtering through the trees. They're positioned closely together and smiling warmly at the camera, but there's a surprised or startled look in their eyes. The girl in red stands between the other two, and they all appear to be posing together appreciatively, looking at something off-camera to the right from their perspective while remaining in their natural forest setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 105,
+        "total_tokens": 2859
+      }
+    },
+    {
+      "intervalle_index": 370,
+      "intervalle_debut": 5550,
+      "intervalle_fin": 5565,
+      "analyse_action": "The scenes appear to be from two different productions showing contrasting atmospheres.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 15,
+        "total_tokens": 2769
+      }
+    },
+    {
+      "intervalle_index": 371,
+      "intervalle_debut": 5565,
+      "intervalle_fin": 5580,
+      "analyse_action": "The scene features a horror film with a large group of characters dressed in full Halloween-themed costumes gathering in a doorway. The costumes include a Dracula-like figure with a high collar, bunny suit, feathered hat, mask, vampire cape, and punk-inspired looks with masks and leather jackets. A man in a bowtie costume stands out as laughter erupts among the costumed cast members. The scene appears to be a comedic or dramatic moment in the film rather than a genuinely frightening sequence. Credits are displayed throughout the scene.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 108,
+        "total_tokens": 2862
+      }
+    },
+    {
+      "intervalle_index": 372,
+      "intervalle_debut": 5580,
+      "intervalle_fin": 5595,
+      "analyse_action": "Several people appear in a dimly lit room, dressed in elaborate costumes with the one in center wearing a black cape and white shirt, while others sport black hats,-yellow shirts and some have white-and-black masks. A woman looks distressingly toward the camera as the group appears to be in the midst of an animated performance or skit, likely part of a comedy film scene.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 77,
+        "total_tokens": 2831
+      }
+    },
+    {
+      "intervalle_index": 373,
+      "intervalle_debut": 5595,
+      "intervalle_fin": 5610,
+      "analyse_action": "In this scene, a grotesque leathery book—or bound object—lies flat against a wall and slowly opens to reveal a grotesque closing eye in the center. The eye blinks several times before closing again. The final portion of the segment displays a white over-screen displaying various names, including Bette Midler, Barbara Sarah Jessica Parker, and others, labelled as \"Cast.\"",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 79,
+        "total_tokens": 2833
+      }
+    },
+    {
+      "intervalle_index": 374,
+      "intervalle_debut": 5610,
+      "intervalle_fin": 5625,
+      "analyse_action": "The scene is a credits roll revealing a full cast list for a production. The names appear in white text arranged in three columns against a brown, leather-like background with curved stitching patterns and a metallic pendant-like piece of jewelry. The credits scroll upward, displaying first the main cast with principal character names, followed by additional cast members, then crew and staff roles including stunt performers, with production roles like stunt coordinator appearing at the end. Throughout the sequence, the titles \"COSTUME\" and \"STUNT VOICES\" are shown to categorize the different types of performers and crew being acknowledged. This is a standard end-credit presentation format used to formally recognize all the people involved in a film or TV production.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 144,
+        "total_tokens": 2898
+      }
+    },
+    {
+      "intervalle_index": 375,
+      "intervalle_debut": 5625,
+      "intervalle_fin": 5640,
+      "analyse_action": "The scene displays a full-credits roll text scrolling across a leather-bound book background while the camera pans upward from a metallic buckle and carnival-themed pin area near the top of the book cover. The leather cover is shown in brown tones with visible stitching and hardware details, featuring a metallic clasp and a knocker, while a single eyeball is partially visible near the bottom edge of the frame against a darker background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 84,
+        "total_tokens": 2838
+      }
+    },
+    {
+      "intervalle_index": 376,
+      "intervalle_debut": 5640,
+      "intervalle_fin": 5655,
+      "analyse_action": "The scene is showing a credits sequence for a film, displaying text naming the entire post-production and technical crew who worked on the project. The credits are scrolling in a vertical orientation down the screen, listing categories such as makeup artists, hairstylists, camera operators, key makeup artists, digital supervisors, visual effects supervises, and digital engineering team members. This is the formal acknowledgment of all the technical and creative professionals who contributed to the film's production and post-production work.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 96,
+        "total_tokens": 2850
+      }
+    },
+    {
+      "intervalle_index": 377,
+      "intervalle_debut": 5655,
+      "intervalle_fin": 5670,
+      "analyse_action": "The scene shows a post-production credit roll appearing on screen after the movie has finished playing. The credits are displayed against a dark, warm background that features fabric-like texture with subtle darker brown accents and a small gold circular object on the right side. The white textots scrolls upward in a column listing all the crew members who worked on the film, including the director, composers, writers, producers, and specific departments like visual effects, editing, and lighting teams. This brown-and-black credit template is shown until the scrolling text reaches the bottom of the screen and then fades out.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 116,
+        "total_tokens": 2870
+      }
+    },
+    {
+      "intervalle_index": 378,
+      "intervalle_debut": 5670,
+      "intervalle_fin": 5685,
+      "analyse_action": "The scene shows a closing credits sequence for a film or television production. White text is displayed against a solid black background as various production roles are rolled out in neatly organized lists, starting with high-level positions like Best Boy Grip and Property Master and continuing down through editors, assistants, sound departments, and specialized roles including animatronics, creature effects, and ADR (Automated Dialogue Replacement). Each credit category is followed by the associated names aligned vertically, creating a professional, formal presentation typical at the end of entertainment productions.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 105,
+        "total_tokens": 2859
+      }
+    },
+    {
+      "intervalle_index": 379,
+      "intervalle_debut": 5685,
+      "intervalle_fin": 5700,
+      "analyse_action": "The scene shows a rolling end credits sequence displaying sequential text in white serif type against a black background, moving upward as new lines appear. The credits begin with major Post-Production Department roles including Supervising ADR Editors, Supervising Foley Editor, Foley Editors, Assistant Sound Editors, Sound Effects Editors, Voice Casting, and Recording Mixers. As the rolling continues, it reveals additional departments and staff, progressing through roles such as Security Coordinator, Associate Editor to Mr. Kimble, Assistants to Mr. Kirshner, Social Assistants, Assistants to Mr. Winter, Assistant to Mr. Hafft, Assistants to Mr. Bruckheimer, Assistants to Mr. Ortega, and Casting Staff including Casting Assistants and Crew Assistants.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 154,
+        "total_tokens": 2908
+      }
+    },
+    {
+      "intervalle_index": 380,
+      "intervalle_debut": 5700,
+      "intervalle_fin": 5715,
+      "analyse_action": "A single scrolling credit sequence is unfolding during post-production. The list is presented in a monochrome design on a black background, with white text arranged in two symmetrical columns. Each entry in the sequence builds on the previous one, systematically moving downward through cast members, crew departments, and specialized production roles—all common practices in the film industry for acknowledging those who contributed to the project.\n\nThe scrolling appears steady and organized, designed for a post-production environment where comprehensive crew acknowledgment is essential. As it progresses, the formatting shifts from names of directors and producers at the top to office staff, then moves through production departments including cast assistants, location managers, set designers, construction, graphics, and curation—all the typical levels of acknowledgment found in professional film credits. By the end, the scroll reaches professional knitting and film recording studios before concluding.\n\nThe simple, utilitarian presentation—black background with clean white text—is intentionally straightforward, making the extensive list of names and job titles visible and readable for those involved in the project review process.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 205,
+        "total_tokens": 2959
+      }
+    },
+    {
+      "intervalle_index": 381,
+      "intervalle_debut": 5715,
+      "intervalle_fin": 5730,
+      "analyse_action": "The scene is a scrolling end credits sequence for the film. Credits are moving upward across a black background in white text, revealing production and crew information.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 31,
+        "total_tokens": 2785
+      }
+    },
+    {
+      "intervalle_index": 382,
+      "intervalle_debut": 5730,
+      "intervalle_fin": 5745,
+      "analyse_action": "The video is displaying a complete end credits sequence for a film, rolling up the television screen from bottom to top against a black background. The credits list the performances of various actors in an unreadable font, followed by acknowledgments for animal trainers Gary Gero, Larry Madrid, and Stacy M. Bysell for Birds & Animals Unlimited.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 69,
+        "total_tokens": 2823
+      }
+    },
+    {
+      "intervalle_index": 383,
+      "intervalle_debut": 5745,
+      "intervalle_fin": 5760,
+      "analyse_action": "The scene shows classic end-credit legal and technical information appearing on a black screen with white text, with each line slowly scrolling from top to bottom. The credits deliver a complete package of information including film music and music production details, technical specifications about the photography and projection, and copyright information. The presentation concludes with a final card highlighting who distributed the picture, closing out the formal 1950s-style credits sequence. The stark black background with white text and vertical scrolling remains consistent throughout, creating an elegant and straightforward roll of essential technical and legal data that's typical for films from that era.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 121,
+        "total_tokens": 2875
+      }
+    },
+    {
+      "intervalle_index": 384,
+      "intervalle_debut": 5760,
+      "intervalle_fin": 5768.137375,
+      "analyse_action": "The scene shows a classic Walt Disney Pictures end card animation. A dark navy-blue background displays the iconic castle and \"Walt Disney Pictures\" logo in a bright sky-blue color. The studio branding appears, then the card fades to black.",
+      "tokens": {
+        "prompt_tokens": 1599,
+        "completion_tokens": 49,
+        "total_tokens": 1648
+      }
     }
   ]
 }

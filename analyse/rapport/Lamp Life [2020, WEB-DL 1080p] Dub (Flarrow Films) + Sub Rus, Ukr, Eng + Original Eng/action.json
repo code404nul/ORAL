@@ -1,0 +1,501 @@
+{
+  "movie_id": "Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng",
+  "date_analyse": "2026-02-10T21:24:07.925587",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "analyse_action": "The scene is a credit sequence for a Disney-Pixar production, specifically introducing a movie called \"Lamp Life.\"",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 25,
+        "total_tokens": 2779
+      }
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "analyse_action": "The scene shows a lively nighttime festival setting transitioning from an earlier moment where a girl from Toy Story is standing at a carousel table beside her lambs, each marked with a star. The atmosphere shifts to a nighttime urban celebration with a bright, colorful ferris wheel at its center. The Ferris wheel displays a vibrant starburst pattern.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 68,
+        "total_tokens": 2822
+      }
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "analyse_action": "The scene takes place at night on a carnival ride with Woody, Bo Peep, and a group of sheep. They're all riding together on the illuminated structure, which features a golden light-covered metal section at the back with green and red balls, and a silver section with bolts and a blue circle.\n\nWoody leads the group, walking toward the front of the ride while swinging his hat and talking with a cheerful demeanor. Bo Peep rides just behind him with her characteristic blonde hair in a ponytail, and a tiny sheep stands behind her. Ahead of them, two other sheep are positioned in a way that makes it look as if they're holding a bar.\n\nThe vibrant carnival setting—with its variety of colors like black, dark blue, gray, white, brown, yellow, red, green, and orange—creates a festive atmosphere as the group makes their way along the illuminated ride.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 180,
+        "total_tokens": 2934
+      }
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "analyse_action": "The scene shows a quiet, caring moment between two characters, toy artisans with extensive experience, deeply engaged in their craft and conversation during what appears to be a work break.\n\nSetting:\nThe background features metallic structures with steel beams and handles visible, a green floor, and a brown wall,",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 58,
+        "total_tokens": 2812
+      }
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "analyse_action": "In the scene, a family of parents and their children are gathered in a bedroom with a young boy standing near the bed and watching a figurine of a girl with a pink hat, pink and white dress, and blue staff who is holding a group of sheep on a small stand. The boy looks at the figurine with a happy and amazed expression.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 72,
+        "total_tokens": 2826
+      }
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "analyse_action": "In the scene,Andy's baby sister comes into Andy's room at night, searches for the bedtime sheep figurine, then discovers and takes the lamb doll instead.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 34,
+        "total_tokens": 2788
+      }
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "analyse_action": "In the scene, a young girl with pigtails is deeply engaged in imaginative play around a life-sized dollhouse scene. She's kneeling on a white surface at a table or surface, holding a doll with a pink bonnet and holding a blue staff. She's facing a small figurine that resembles a sheep standing on a base.\n\nA woman enters the scene wearing a green shirt and blue skirt. She picks up the girl and carries her off-screen through a window while holding the doll in her left hand.\n\nThroughout this interaction, a model of a small village with a barn and house spins on a green circular base, and she interacts with three sheep gathered nearby. There's also a small lamp decorated with animal motifs standing beside the sheep.\n\nAt one point, something appears to catch her attention or distress her, causing her to jump in surprise. The scene then transitions from bright daytime to nighttime inside the dollhouse play space, with colorful lights illuminating the miniature furniture and figures.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 198,
+        "total_tokens": 2952
+      }
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "analyse_action": "In this scene, a young girl is playing in a cozy toddler's bedroom at night. She's working on putting away a collection of dolls, carefully arranging them on a bedside table. A small toddler bed nearby holds a yellow toy duck, while a crib with a mobile featuring planets hangs above.\n\nThe room is warmly lit by a whimsical blue lamp decorated with clouds and green ground. This lamp interestingly doubles as a nightlight, casting warm yellow light across the walls and creating a gentle, dreamy atmosphere with halo-like patterns on the beige wall.\n\nThe girl is wearing a gray long-sleeve shirt with green cuffs and is shown in profile reaching toward the bedside table. Through a nearby window dressed with purple curtains, you can see a peaceful view of a house, trees with vivid red and orange foliage, and a clear blue sky dotted with soft clouds.\n\nThe scene captures a tranquil moment of organized play and bedtime routines in a child's carefully crafted space designed with both functionality and imagination in mind, clearly built for a toddler of this little girl's age.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 214,
+        "total_tokens": 2968
+      }
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "analyse_action": "In this scene, Andy and his little sister Annie are enjoying a playful interaction in their toy-filled bedroom. Andy, who is disassembling a toy as part of his curiosity and exploratory play, eventually reaches a conclusion about the toy's function. Annie, who has a pacifier in her mouth, observes Andy's actions curiously.\n\nAs the video progresses, the scene shifts dramatically. The familiar, colorful bedroom transforms into a magical nighttime display. A soft light casts patterns and sparkles across the white walls and ceiling, creating a dreamlike atmosphere. Toys begin to animate magically, coming to life in what appears to be a transition to nighttime.\n\nThe room takes on a whimsical quality, with various toy figures scattered around— Açira is specifically visible among the shelved toys. A window now shows a starry sky outside, and a plush pink unicorn toy is clearly visible. The room's decorative elements, including the blue lamp with its farmyard design and the framed picture of clouds, retain their presence while adding to the enchanting feel of this magical nighttime tableau.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 216,
+        "total_tokens": 2970
+      }
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "analyse_action": "Two girls are playing while slamming the window open, making noise that.Upset a doll.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 19,
+        "total_tokens": 2773
+      }
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "analyse_action": "The scene shows two children, a small girl and a small boy, sitting in their white desk chairs in a dimly lit room, carefully inserting and screwing a light bulb into a small lamp on their white desk. The lamp features an animal-shaped base and has a tiny figurine of a girl wearing a blue dress with pink dots and a hat holding a staff positioned beside the base.\n\nAs the children work to fix the bulb, the light struggles to come on. They persist with their efforts, with the girl concentrating on the screwing motion while the boy observes. Their faces are illuminated by the soft glow from the partially lit lamp as they focus on their task.\n\nWhen the bulb eventually clicks into place, the light flickers and briefly comes on, casting a warm glow that partially reveals the dark room and distant nighttime silhouettes seen through the window with its purple curtains.\n\nHowever, success turns to disaster almost immediately. Instead of settling into a stable, lit lamp, the bulb overheats dramatically. The tiny figurine on the lamp suddenly catches fire, with flames licking up around her hat and hair. \n\nThis small fire quickly draws the attention of the two children at the desk. They sit up straight, seemingly reacting to the sudden appearance of the flame on their figurine, alarm replacing concentration. The overhead lamp continues to cast a glow for a moment longer, revealing more of the quiet, suburban nighttime view outside the window, before the light goes out and the room returns to the previous dim state.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 303,
+        "total_tokens": 3057
+      }
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "analyse_action": "The scene shows children playing in their room with two distinctive dolls. One doll stands on a platform with a green base sprinkled with white flowers, positioned in front of a window showing a dark night sky with a house visible outside. The other doll stands behind a green-patterned table as pink lamps move position around them, suggesting playful interaction with the toys.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 72,
+        "total_tokens": 2826
+      }
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "analyse_action": "The scene shows two small dolls extending a playful greeting to each other across the nightstand. One doll on the left lifts its right foot, while the other doll facing it lifts its left foot, and their feet meet at the center of the table in what appears to be a friendly toe-touch greeting or high-five.\n\nThe setting is a softly lit bedroom at night, with a green-themed nightstand adorned with a shepherd figurine holding a rooster, a pink lamp, and a camera. The blue wall with a window showing stars and a house contributes to the calm atmosphere.\n\nThe dolls sit side by side on their beds, reaching across to greet each other in this charming nighttime moment that emphasizes the warmth of their friendship even in sleep.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 148,
+        "total_tokens": 2902
+      }
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "analyse_action": "The scene takes place at a Christmas gathering where someone is greating a box with a lamp type uh under write and a sheep and an animal rending a stuffed item in a party.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 38,
+        "total_tokens": 2792
+      }
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "analyse_action": "The scene takes place inside a bedroom where Andy is holding Bo Peep on the wooden floor amid toys.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 22,
+        "total_tokens": 2776
+      }
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "analyse_action": "The scene shows a quiet, almost melancholic outdoor moment. A small wooden lamb toy is lying motionless on a patch of pavement next to a small flower pot. Beside it sits a broken toy lamp with a blue handle, green patterned base, and light blue top featuring a pink sheep motif that's lying spilled on its side, its string tangled around the lamb's body.\n\nA soft light falls across the pavement scattered with green and yellow leaves, creating a small illuminated area amid the darkness around it. In the lower corner, a pair of feet wearing gray pants and white shoes enters the frame, then does not move for a moment as they focus on the scattered items. The toy arrangement remains as the camera lingers on it, capturing the stillness and gentle light that creates an intimate atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 162,
+        "total_tokens": 2916
+      }
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "analyse_action": "In the scene, someone in a purple shirt and gray vest is working with a collection of figurines arranged on a shelf. They polish and clean the figures by first running their left hand over the display and then using a green rag to wipe down and groom two of the figurines.\n\nThe scene includes several small figurines arranged around a central playing card character wearing a white dress with pink polka dots. There's a woman in a light blue dress nearby, as well as various other figures like sheep and figurines dressed in blue and yellow outfits dancing. The arrangement appears to be part of a decorative display, with the main figures being given special attention as part of the maintenance or exhibition preparation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 140,
+        "total_tokens": 2894
+      }
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "analyse_action": "In this scene, a magical moment unfolds on a toy shelf where five small figurines are arranged in a circle—all except the animatronic sheep and shepherd. A bright light from the baaing sheep casts shimmering patterns across the display, and when the light falls on the figures, they come to life and dance in place.\n\nThe figurines—representing a blonde woman with a crook, a man in a blue waistcoat, and two women in green dresses—sway and move rhythmically. They continue their little celebration as the light playfully shifts, keeping the scene lively and enchanting.\n\nA live cat then enters from the side and settles down on the shelf's right side, curling up near the lamp base with its tail raised and eyes peeking open. Another cat enters from the side as well.\n\nAs the animated figures spin energetically, the lamps tilt side-to-side slightly. Just before everything fades back to stillness at the end, the heads of a few real children appear in the background, watching the magical scene unfold before them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 217,
+        "total_tokens": 2971
+      }
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "analyse_action": "The scene appears to be taking place in a toy-themed or play area with a pegboard wall and toy figurines arranged throughout the space.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 29,
+        "total_tokens": 2783
+      }
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "analyse_action": "The scene shows a doll standing on display in a shop. She's positioned in front of a colorful cartoon₂ sheep‑themed lamp with a painted backdrop behind her, all set against a pale wall with a pegboard and wooden shelf. The doll holds her shepherd's staff and moves as if speaking or reacting.  The scene appears to be an animation from \"Toy Story 4\"",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 79,
+        "total_tokens": 2833
+      }
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "analyse_action": "In the scene, we see a vibrant seaside animation where multiple appearances of a Barbie doll with blonde hair, blue eyes, and pink clothing holding a white-and-blue toy sword appears three times. Once, she's on green grass, playfully stabbing her toy sword into the ground. The scene has a warm, painted quality with playful colors and a casual, carefree atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 76,
+        "total_tokens": 2830
+      }
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "analyse_action": "The scene shows animated plastic soldiers from Andy's collection gathered around a small, lamp-shaped grassy hill. The figures are posed in formation with exaggerated stiff movements, their antique-style costumes emphasized by the plasticine lighting on their helmets and uniforms.\n\nThe action is centered on a blonde-haired figure in a pink dress holding a shepherd's crook. With a determined expression, this leader figure waves her hand and appears to give instruction. Around her, other figures raise their arms in formation and follow her directives.\n\nThe setting has a distinctly toy-shop quality, with pegboard walls, shelves stocked with additional toys and containers, scattered boxes, and wardrobe-like elements visible in the background. A small water pitcher and yellow post-it notes can also be seen among the surrounding items.\n\nAt one point, a tiny female figure with brown hair appears briefly, perches on someone's head before darting away. Later, attention turns to a small plastic child with orange-red hair wearing a yellow dress with curly strands and a yellow bow, captured in profile against the pegboard wall.\n\nOverall, it's a playfully dramatic gathering of plastic soldiers engaged in what appears to be a mini military maneuver or drill, set against the backdrop of a shop-like storage area filled with various toy items.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 253,
+        "total_tokens": 3007
+      }
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "analyse_action": "This is a scene from Toy Story 4. The scene takes place in a dimly lit, shadowy space with a wood-toned floor and a brown cabinet in view. \n\nThe scene opens with a close-up shot of a glass front displaying vases and bottles, with a tiny crowned figurine drawing attention. The view widens to reveal a small dollhouse with a yellow roof and colorful interior lights. A girl in a pink dress rides a tricycle through the space, with a lamb perched on the back seat.\n\nThe scene then shifts to a more dramatic, stage-like setting. A girl doll in a long white dress adorned with pink polka dots stands at the center of a sparse, theatrical space. She's holding a white object that appears to be hanging from above. Three white sheep with pink noses are visible nearby—an adult sheep and two smaller ones. The backdrop is a white wall with black polka dots, decorated with a shelf of assorted items.\n\nThroughout the scene, several other toys populate the space: two girls in green dresses wearing yellow aprons who appear to be playing kitchen in the background, and a white lamb with a shepherd's crook standing among pots and pans arranged on the floor.\n\nThe overall composition creates a contrast between the dark, mysterious exterior-like setting and the brightly lit, colorful interior spaces where toys are animatedly living their imaginative lives.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 279,
+        "total_tokens": 3033
+      }
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "analyse_action": "A group of small figurine characters is gathered in what appears to be a bar or kitchen area. A blonde girl figure hoists a lamp for light as surrounding figures with cheerful expressions raise their hands above their heads in what looks like a lively celebration or party scene.\n\nThe location then transitions outside into the night. A dimly lit building appears with both glass windows and doors featuring distinctive white zigzag patterns. Red lights crisscross and flicker across the glass surfaces, which reflect the night sky and scattered city lights.\n\nThe view finally settles on a figure—likely the blonde girl from the earlier scene—who is shown holding a small black dog while wearing what appears to be a pink outfit. The mood seems to shift from the indoor festivity to an outdoor nighttime setting, possibly the exterior of the same building or another location nearby, but the reflective glass surfaces and crisscrossing red lights suggest a connection between the indoor and outdoor scenes that wrap up this sequence.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 194,
+        "total_tokens": 2948
+      }
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "analyse_action": "The scene shows a woman and a toy wooden figure trapped under the ground. ={\n\"narrating\": {\" content\": \"The woman begins running, then leans to the right and groans with pain. Footsteps can be heard approaching as red and blue lights flash. A white police station suddenly appears and pulls over on both sides of the street. The woman walks while glancing over her shoulder, adjusting her pink dress skirt with her right hand. The woman is holding a white picket fence in her left hand, which contains a white sheep.\", \"speed\": \"1.5x\"}}\n",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 120,
+        "total_tokens": 2874
+      }
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "analyse_action": "Bo Peep takes center frame in a triumphant pose, wearing her cape, holding her staff, and standing on a pink hat as sheep drape around her. She confidently moves into position, shifts left, and pauses facing the viewer.\n\nThe scene transitions to an intimate moment with Woody on the left and Bo Peep on the right. She has a gentle, content expression as she cradles a staff and looks over at Woody. Behind them, Aaron, the bird with a brown body and red head, perches on the staff. Three sheep stand together nearby, their heads lowered in quiet companionship.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 124,
+        "total_tokens": 2878
+      }
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "analyse_action": "The scene shows a lively nighttime carnival or fair scene with Toy Story characters. Woody appears with a worried expression, sitting alongside a sheep and a doll in a brightly lit environment filled with colorful attractions.\n\nThe sequence transitions to show their adventures at the carnival - they ride what looks like a lively carousel or merry-go-round, looking upwards with exhilaration as they move through the colorful rides. After riding, Woody is seen parachuting down from one of the carnival rides.\n\nThe scene captures the magic of the carnival atmosphere, complete with vibrant green, red, and yellow lights illuminating the rides and attractions. People can be seen walking throughout the bustling fairground, and there's even a vendor selling cotton candy. The setting is completely outdoors at night, creating an energetic, colorful, and adventurous playground atmosphere that reflects the movie's fantastical world.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 168,
+        "total_tokens": 2922
+      }
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "analyse_action": "The scene is a nighttime closing sequence featuring a spinning amusement park ride with bright, neon-colored lights (blue, red, yellow) set against a dark sky with faint stars and distant mountains. On the left side, a prominent circular carousel or Ferris wheel-like display appears with a spiral at its center, surrounded by circular disc-like panels and colorful bands, while a lit tower with a red top is visible on the right. This festive, lit-up fairground scenery provides the backdrop as credits roll, with the credits text displayed in white and yellow. The sequence then transitions to a more polished credits presentation showing the main production team in a three-column layout with names highlighted in yellow. The inclusion of the animated ride in the credits suggests credit greeting. Overall, it appears to be the end of a story as the spotlight shifts to the people responsible for creating it.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 173,
+        "total_tokens": 2927
+      }
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "analyse_action": "The scene presents cropped segments from a circular Ferris wheel that reveal patterns within each individual section—some display blooms while others show more abstract elements.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 30,
+        "total_tokens": 2784
+      }
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "analyse_action": "The scene doesn't show any actual action or people performing—there is no video content playing. Instead, it features a black screen with white text displaying credits in Danish at various moments. These credits appear in standard title-card format, showing different production elements like version information, stemmer (likely track credit), roles such as director, overdubs, and production teams. The text changes between different credit screens in a straightforward, static fashion, but no people, storyboards, or any other narrative elements are present. It's purely a sequence of read-only credit information.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 114,
+        "total_tokens": 2868
+      }
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "analyse_action": "The scene shows a simple end credits sequence for a German-language Disney production, displayed as white text on a solid black background. The credits appear in a clean, organized layout with sliding transitions, moving from one panel to the next.\n\nThe credits cycle through several sections:\n- Opening credits that include the German version producer agency (Dansk Version/Deutsche Fassung), credit the \"Danish Version Creative Executive,\" and show production and distribution information with an STUDIO GIBBS mention\n- A cast credit scene listing various characters and their German voice actors, including familiar names like Zootopia characters and Moana characters\n- Role credits for production and technical positions such as dialogue coach, prosthetic designer, dialect coach, script supervisor, and lighting/property master\n\nThe entire sequence maintains a simple, text-only presentation typical of film end credits, formatted for easy reading with clear headings and organized groupings of information.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 185,
+        "total_tokens": 2939
+      }
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "analyse_action": "This scene shows text-only slides displaying credits for a Disney production. The video opens with credits in German identifying key contributors including the German narration, production roles, cast members, and studios involved. Following this, the credits expand to Spanish-language versions shown on black slides with white text. These Spanish credits present both American (Español Americano) and Latinoamerican versions, listing the cast and omitting adaptation credits for those versions. The presentation remains entirely without any visual elements or action—just the text-based credits displayed on screen.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 107,
+        "total_tokens": 2861
+      }
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "analyse_action": "The video shows a Spanish-language end credits sequence displaying the production information and voice talent for a Disney Character Voices International, Inc. production. The credits are presented in a series of slide-like title cards on a black background with white text, arranged in clean, organized layouts with underlined headers and two-column formatting for performer lists.\n\nThe production credits reveal that the film features both English dialogue translated and dubbed into Spanish. It also indicates Disney operator involvement (starting with a Spanish operator) and mentions the names of the creators and speakers. The sequence concludes with a credit acknowledging Bonnie Arnold among the contributors. It appears to be for a computer-based video game.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 130,
+        "total_tokens": 2884
+      }
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "analyse_action": "The scene shows a series of still informational slides presented as simple title cards with white text on black backgrounds. Each slide displays centered headings at the top with underlined titles using bold fonts. Below these headings, brief lines of text are presented in two columns. The layout remains clean and professional throughout, with consistent formatting where each item appears as its own line.\n\nThe sequence progresses through at least two distinct pieces of text: first, a slide with the underlined title \"Versión Castellana\" followed by additional content in two columns, and then a second slide with its own underlined heading and accompanying text arranged similarly in two columns. The style is unmistakably that of professional presentation graphics intended to deliver information succinctly and clearly through visual text alone.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 151,
+        "total_tokens": 2905
+      }
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "analyse_action": "The scene displays end-credit text only. White lettering appears centered on a solid black background, with each screen showing a different set of information.\n\nThe first screen presents a list of credits with names in what appears to be Finnish, arranged in columns, beginning with \"MUSIKA RUOLEISSO\" at the top.\n\nThe second screen shows production and company credits including \"Aarni Studio-SOJ Media,\" \"MUSIKA,\" \"Firm of Version Creative Executive Michael Rudolph,\" and \"Disney Character Voices International, Inc.\"\n\nThe final screen contains Quebec language credits, featuring \"Version Québécoise,\" \"Distribution,\" and lists of roles such as \"Baba Reepcrood,\" \"Woody,\" \"Jingle McDimple,\" \"Billy, the Bobblehead Kid,\" \"Gears,\" and \"Gruff,\" along with corresponding French actor names.\n\nAll of these are typical theatrical end credits sequences listing the contributors and production companies involved in the film.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 202,
+        "total_tokens": 2956
+      }
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "analyse_action": "The scene is displaying French-language version end credits for Disney content. It shows a country-of-origin identification followed by a list of production and distribution credits, including traditional French studio titles like Studio De Montage and Dubbing Brothers, along with voice direction and creative supervision credits. The sequence then presents a full credits card naming the French voice performers for specific characters from Bambi, including actors like Jean-Pierre DuPont, Caroline Agasse, and many others, before concluding with the credit \"Disney Character Voices International, Inc.\" This is a standard end-credits screen that acknowledges the international voice cast and production teams responsible for the French version of the Disney animated film Bambi.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 135,
+        "total_tokens": 2889
+      }
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "analyse_action": "The scene is a sequence of title card credits displayed on a solid black background with white text in different languages, specifically French and Italian.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 28,
+        "total_tokens": 2782
+      }
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "analyse_action": "The scene shows a sequence of title cards displaying credit information in multiple languages.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 16,
+        "total_tokens": 2770
+      }
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "analyse_action": "The video shows a sequence of closing credits for a Disney production. It begins with text appearing in an Asian language (Japanese) on a black background, followed by a panel displaying additional Japanese text along with the English credit \"DISNEY CHARACTER VOICES INTERNATIONAL, INC.\" The credits then transition to a section in Dutch that lists the cast and crew, including names like Beate Sluiter, Jeroen van Lexmond, Louis Coekster, Tik P. Follens, William McDInnerley, Dik Wietsma, Victoria CALARUS, Camille TOWNESMAN, Barbara Tisser, and Victor Dijkstal. The video concludes with additional production credits primarily in Dutch, covering roles such as Opera Studio, Creative Sounds BW, Dubbing Brothers, Creative Director, Creative Sound Supervisor, along with names like Barbara Tisser, Koosmie Lem fine, and Adriana Sacino, and finally ends with the same \"Disney Character Voices International, Inc.\" credit.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 201,
+        "total_tokens": 2955
+      }
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "analyse_action": "The scene shows a sequence of minimalist title cards displaying credits for different language versions of what appears to be a Disney Character Voices International, Inc. production. Each card follows a simple format with white text on a black background, presenting the version name at the top (Nederlands Versie, Norsk Version, and ELLERS MED/VIRKET), followed by credits for roles like narrator, songster, songs, actors, director, and productions supervision. The presentation maintains a consistent clean design throughout, progressing through each language card in turn to acknowledge all the contributors involved in the international production.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 121,
+        "total_tokens": 2875
+      }
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "analyse_action": "The scene shows end Credits screens for a Disney animated film. It begins with aNorwegian version of the credits displayed on a black background, followed by Polish and then Russian credits. All versions share the same simple visual design with left-aligned text lists under unbolded headline titles, alternating the character and voice actor's names. These final credits roll after the film's main content has concluded.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 79,
+        "total_tokens": 2833
+      }
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "analyse_action": "The video shows a sequence of title cards displaying credits in different languages. It begins with a Polish credits screen featuring \"WERSJA POLSKA\" at the top and shows roles like \"Doplikacje muzicalne\" and \"Producent.\" It then transitions to a Portuguese/Brazilian version with sections for \"DIALOGO\" and \"ADAPTAÇÃO,\" followed by credits for additional characters under \"VOZES ADICIONAIS.\" These cards appear on a plain black background with white, centered text, moving through multiple pages with underlined headers and left-aligned contributor lists. This is a standard end-credit roll for what appears to be a Disney production with multiple language releases.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 144,
+        "total_tokens": 2898
+      }
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "analyse_action": "The scene shows a brief continuation of the credits sequence that was just seen, with consistent visual style elements being recycled. This includes credits for organizations, roles, and individual voice actors.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 37,
+        "total_tokens": 2791
+      }
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "analyse_action": "Several credits are displayed on a black background in white text, focusing primarily on the Portuguese version information. There's text showing \"Versão Portuguesa\" at the top, followed by production details like \"Edição de Brasília\" and \"Estúdio de Mix,\" along with production company credits \"PTS 1 Media\" and \"3DOI Media Latina,\" and director credits \"Câmila Lopez.\" Additional credits mention \"Disney Character Voices International Inc.\"\n\nLater in the sequence, the language changes to show Swedish version credits where \"Berättare\" refers to the narrator, and \"Omvårdnad Om Röster\" is the assistant voice director credit. Throughout, the presentation maintains a simple, minimal style by keeping the white text centered against the black background without showing any performers, buildings, vehicles, or other scenes. The entire sequence focuses solely on rolling through the text-based credits.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 182,
+        "total_tokens": 2936
+      }
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 667.008,
+      "analyse_action": "The scene shows a closed captions-style end card or credits screen appearing on a black background. It displays centered white text organized in neat columns, presenting Swedish version layout information and acknowledgments. The text includes roles like Producer, Production Coordinator, Swedish Version Creative Executive, Mix Studio, and features various Swedish and English names throughout. This is a concluding title page providing formal credit and information specific to the Swedish version of the content, with all text styled uniformly in white on black.",
+      "tokens": {
+        "prompt_tokens": 1335,
+        "completion_tokens": 95,
+        "total_tokens": 1430
+      }
+    }
+  ]
+}

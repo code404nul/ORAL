@@ -1,0 +1,959 @@
+{
+  "movie_id": "Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL",
+  "date_analyse": "2026-02-10T21:24:37.364994",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "analyse_style": "The director employs classic animated storytelling techniques to convey warmth, nostalgia, and holiday cheer. The use of bright, saturated colors serves multiple purposes: it creates an eye-catching visual appeal that captures attention while also evoking feelings of comfort and festivity.\n\nThe composition carefully directs focus to Mickey as the central character through strategic positioning - placing him both sleeping peacefully (to establish his innocence and nervousness) and then later jumping up surprised during the sunlit scene. This movement sequences from vulnerability to excitement. The framing emphasizes Mickey during key moments, while background elements like Christmas lights, presents, and Santa's sleigh pass by peripherally to create a festive atmosphere without distraction.\n\nThe lighting shows a deliberate shift - darker shades initially, then transitioning to the bright, natural light of the sunbeams streaming through the window. This visual metaphor helps convey Mickey's emotional journey from unease or shyness while asleep, to awakening and suddenly experiencing something exciting or remarkable.\n\nThe setting itself layers meaning through its placement. The window serves as a portal of opportunity for Mickey, catching his interest and symbolizing new possibilities. The picture frame with the sleigh shadow inside adds to this sense of magical discovery.\n\nThe director wants viewers to feel the same classic holiday emotions: joy, wonder, and that comfortable feeling of childhood memories. The overall visual story aims to evoke nostalgia for the magic of Christmas while also creating anticipation - much like the excitement of opening presents or the thrill of a magical Christmas morning.\n\nThe celebration of motion in the various shots - the swinging lights, the moving sleigh, and Mickey's animated reactions - adds energy and keeps the pace lively. This complements the emotional arc of transitioning from a state of stillness/unease (sleeping) to alertness and excitement (awakening), guiding the viewer's emotional journey through the holiday adventure.\n\nThe Director wants the viewer to understand that anything is possible during Christmas and be happy.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 386,
+        "total_tokens": 3151
+      }
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "analyse_style": "The director employs several warm and playful cinematic techniques to create a festive, joyous holiday atmosphere between Mickey and Goofy.\n\nThe color palette is saturated with Christmas reds, greens, yellows, and golds throughout the scene, immediately evoking holiday cheer. The decorations—mistletoe garlands, garlands with gold balls, candy cane-striped rugs, and wreaths—are carefully arranged to frame the characters and create cozy, intimate spaces.\n\nThe cinematography uses extreme close-ups on faces. Mickey is shown with his eyes closed and corners turned up, conveying genuine happiness and contentment. Goofy's animated expressions during their conversation show enthusiasm and lightheartedness.\n\nThere's a playful physical dynamic—Goofy leaning over Mickey on the brown surface, both bursting into laughter. This physical comedy, combined with wide shots showing the surrounding decorations, emphasizes their friendship and teamwork.\n\nThe final sequence dramatically shifts tone with a cut to Goofy leaping across a snowy landscape, celebrating in isolation. This stark contrast to the intimate gift exchange scene suggests wistfulness and adds depth to the narrative.\n\nThroughout, the abundance of Christmas decorations, the composition of the gift exchange scene with colorful packages and festive hats, and the overall bright, saturated color scheme all work together to create a sense of warmth, togetherness, and holiday wonder. The director aims to convey joy, friendship, and excitement about Christmas time, while also hinting at variation in how the holiday is experienced by different characters.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 306,
+        "total_tokens": 3071
+      }
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "analyse_style": "This sequence employs several deliberate cinematographic techniques to create a sense of light-hearted mischief and holiday joy:\n\n**Action Choreography:**\nThe camera follows Goofy's energetic entry through the doorway, capturing his comedic fall in a dynamic way. The shot composition uses the environment - the candy cane posts, gift boxes, and snow outside - as framing elements, enhancing the playful chaos of the moment. The green scarf he kicks off emphasizes the cartoon physics at work.\n\n**Panning Movement:**\nThe low-angle shot that tilts upward from the floor to capture Goofy's hangable state creates a sense of vertical comedy while showcasing the decorated interior space around them.\n\n**Parallax and Panning:**\nThe moment Mickey looks up and the camera pans along with the flying gift box demonstrates effective use of panning to follow the action. This keeps the viewer engaged and maintains the comedic momentum as the objects and characters interact in mid-air.\n\n**Focus Changes:**\nThe quick shift from the falling Goofy to Mickey holding the dropped mug and camera, then to the action outside in the snow, creates a playful rhythm. This rapid cut sequence establishes the fast-paced, humorous nature of the mishap while immediately generating response from the characters (Goofy's surprised expression, Donald's curious reaction).\n\n**Multi-Perspective Shot:**\nThe closing shot through the open door provides a frame-within-a-frame effect, showing both the festive indoor party and the outdoor snowy scene simultaneously. This composition reinforces the holiday theme and the connection between inside and outside spaces in their celebration.\n\nThe overall tone is exuberant and celebratory. The director appears to be conveying laughter and holiday cheer through the characters' reactions and the comedic timing. Goofy's exaggerated physical comedy (flying through the air, dropping gifts) paired with Mickey's delighted response (camera ready) creates a feeling of joy and the carefree spirit of gift-giving. The concluding shot with Goofy and Donald hanging there, punctuated by the comical look on their faces, captures the essence of festive chaos - the anticipation mixed with the gentle amusement of friends encountering a mishap together.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 432,
+        "total_tokens": 3197
+      }
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "analyse_style": "The director employs several classic cinematographic techniques with anthropomorphic settings that work together to create a warm, celebratory mood while highlighting playful character dynamics.\n\nThe camera work is characterized by smooth, deliberate movements that allow for clear visibility of each character's expressions and costume details. We start with framing that centers Mickey and Minnie in an intimate close-up, which establishes a personal connection with the audience and gives us direct access to their emotional state. The shot then widens as they turn to the camera together, creating a sense of shared experience and togetherness.\n\nA particularly effective technique is the use of framed imagery within frames - when Minnie lifts a photo she's taken, the shot around it's own framed by a green, classic movie camera border. This creates a metanarrative effect, reminding viewers that we're watching a story about characters who themselves are watching and documenting their own memories. It's a clever nod to audience awareness that makes their domestic rituals feel both real and theatrical.\n\nThe warm golden lighting throughout the scenes is crucial - it bathes the entire set in a cozy, inviting glow that communicates comfort and joy rather than coldivity. Combined with the proper seasonal decorations - the Christmas tree, wreaths, ornaments, and fireplace - this establishes the setting as a celebratory home environment rather than just any interior space.\n\nColor saturation plays a big role as well. While the outfits (Mickey's red sweater with yellow cuffs and Minnie's gold top with red flower) pop against the background, there's an overall balanced approach that maintains warmth without overwhelming intensity. This keeps focus on the characters and their interactions rather than any single color element.\n\nThe pacing flow is measured and rhythmic, moving from intimate exchanges between Mickey and Minnie, to showing the larger celebration with family members, and then landing on the beautifully decorated Christmas tree as the final establishing shot. This progression takes us from personal moments to shared experience to the grand, symbolic center of the holiday.\n\nOverall, the mood being conveyed is one of festive joy, togetherness, and lightheartedness. The director weaves domestic authenticity with playful character quirks in a way that feels both modern and nostalgic, creating an atmosphere where holiday celebration and character document-making become one seamless, heartwarming experience. The energy remains fun and buoyant throughout, tapping into viewers' own associations with family Traditions and seasonal cheer.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 484,
+        "total_tokens": 3249
+      }
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "analyse_style": "The Director wanted to convey a warm, cozy, and affectionate holiday atmosphere throughout this scene, using several cinematographic techniques to achieve that feeling:\n\n**Color Palette and Lighting**\nThe vivid reds, greens, and bright holiday decorations create a cheerful, festive mood. The soft, even lighting warms the room and makes the characters really pop without harsh shadows, sustaining that inviting headphone enclosure to the viewer. The blue-sky sky adds a sense of optimism and holiday magic.\n\n**Close-ups and Framing**\nThe tight framing on Goofy and his open-mouthed reaction captures genuine excitement - that surprised, delighted look communicates pure joy and childhood wonder at receiving a gift. The shot lingers on Goofy, giving the moment weight and affection.\n\n**Character Motion and Expression**\nSmall gestures - Goofy holding up the red cup and striped mittens, Donald's expressive face - add charm and warmth. The dynamic, slightly blurred moment of the gifts flying creates energy and celebration.\n\n**Packing Details into the Scene**\nThe abundance of holiday touches (stockings with green trees, monkey-shaped ornaments, green Christmas lights, decorated boxes) all work together to fill the screen with festive warmth that's heartwarming, Hearth and Home comfort.\n\n**Overall Mood**\nThe mix of surprise, love, and celebration - all in a familiar holiday setting - creates emotional warmth. The Director wanted to make viewers feel involved in this tender family moment, evoking nostalgia, joy, and the sweetness of togetherness during the holidays.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 308,
+        "total_tokens": 3073
+      }
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "analyse_style": "The most evident cinematic technique used is camera focus, alternating between different characters and locations. It starts with focus on the first character, a girl, then moves to another character, a duck, opening a gift in a different room, and then shows Mickey Mouse next to Mickey Mouse figurines. Finally, it cuts to a woman closing what appears to be a Mickey Mouse gift box. The Christmas-themed decor and the enthusiastic reactions of the characters suggest that the director wanted to convey a feeling of joy and excitement, capturing the youthful and carefree spirit of the moment.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 113,
+        "total_tokens": 2878
+      }
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "analyse_style": "The cinematographic techniques used create a gentle, warm, and festive holiday mood that emphasizes celebration and togetherness. \n\nThe first scene uses warm lighting combined with cozy interior details like the wooden cabin, red couch, and Christmas decorations including lights, ornaments, trees, and candy gifts. This creates a sense of comfort and warmth. The static shots and stable camera work keep the focus on the group and their interaction, while the framing captures both the room's Christmas spirit and clearly shows the hands picking up and examining the book, drawing attention to its significance.\n\nIn the following group scene, the camera takes a wider perspective, establishing all the guests together in the warmly decorated, light-filled room. The various festive elements - the Christmas tree, wreaths with red bows and yellow ribbons, colorful Christmas lights, the fireplace, and presents - all contribute to maintaining a celebratory atmosphere. Miniature Christmas lights and garland framing parts of the view add a magical, enchanting quality to the environment.\n\nThe director wants to convey emotions of joy, warmth, nostalgia, and celebration. The cozy setting and interpersonal interactions suggest a moment of gathering with loved ones - friends or family - during the holiday season. The act of examining the book together implies making memories or reminiscing, adding a layer of sentimentality and emotional connection to the scene.\n\nThe overall style feels approachable and heartwarming, typical of family-friendly holiday animation that aims to evoke feelings of cheer, togetherness, and the special emotions associated with Christmas traditions.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 307,
+        "total_tokens": 3072
+      }
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "analyse_style": "The director uses warm, festive cinematography to create a cozy holiday atmosphere. Soft lighting warm because it's from ceiling fixtures, and intimate framing brings the characters close to the camera during their interactions.\n\nThe camera delivers a sense of intimate family togetherness by pointing out several elements:\n\n**Framing & Composition:**\nThe characters are perfectly arranged, keeping the open book central to convey storytelling and shared experiences. Wide-angle captures the entire group on the couch, establishing community and connection. Tight close-ups when the book is opened create focus and intimacy during this shared moment.\n\n**Lighting:**\nThe yellow-brown walls and colorful Christmas lights establish a cheerful, inviting setting. Soft, warm lighting enhances the comforting nature of the gathering.\n\n**Camera Movement:**\nThere is a slow zoom on Mickey as he opens the book, drawing attention to this pivotal action and building anticipation for what the story contains.\n\n**Color Palette:**\nThe vibrant reds, greens, golds, and blues of the decorations, clothing, and book cover reinforce festive joy and warmth. The warm tones across the set contribute to a cozy holiday mood.\n\n**Technical Choices:**\nThe split view briefly showing Mickey and Goofy conversing through the window adds a layer of depth and invites viewers closer to the story's emotional content.\n\n**Emotion Conveyed:**\nThe director wants to express feelings of warmth, togetherness, joy, and nostalgia. The happy, involved group of characters, especially the children nestled in the center, creates a sense of familial comfort and shared celebration. The book serves as a metaphor for cherished traditions and stories that bring people together during the holidays. The entire scene evokes the happiness and comfort of spending quality time with loved ones during Christmas celebrations.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 355,
+        "total_tokens": 3120
+      }
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "analyse_style": "The director employs several cozy and playful animated techniques throughout this Christmas scene that work together to create a warm, festive atmosphere.\n\n**Composition and Perspective:**\nThe camera uses intimate framing, positioning the characters close together around a red red couch and book. This creates a sense of warmth and community, inviting viewers into the group's celebration. Mickey taking center stage as he reads, surrounded by the others looking up at him, establishes him as the casual leader of their holiday gathering.\n\n**Lighting and Setting:**\nThe soft Christmas lights visible along the right side and the red accent light diffuse gentle, festive illumination across the scene. The beige wall backdrop adds warmth without distraction, while the red couch provides a bold pop of holiday color that ties all the characters' outfits together cohesively.\n\n**Expression and Animation:**\nThe characters' exaggerated facial expressions - their open mouths showing joy, the way they look up curiously at Mickey's book, and Goofy's playful tilting of his head - capture genuine holiday cheer and familial warmth. The fact that Mickey and Minnie close their eyes while reading adds a moment of childlike wonder and concentration.\n\n**Camera Movement:**\nThe steady framing allows the viewer to absorb each detail of the group and their festive attire, while the zoom-in at the end on the book's page focuses attention on the holiday activity they're engaged in, emphasizing the seasonal celebration around the fireplace.\n\n**Emotional Tone:**\nThe director clearly wants to convey nostalgia, comfort, and togetherness. The simple act of reading together around a cozy fireplace - with everyone in festive winter clothing, smiling and leaning in - creates a feeling of family tradition and warmth. The intimate setting, comfortable faces, and soft lighting all work together to make viewers feel like they've been invited into a cherished holiday memory with colorful Disney friends.\n\nThe camera's choice to revisit the group's joyful expressions and their close arrangement reinforces the lasting impression of shared happiness and connection during this special seasonal gathering.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 400,
+        "total_tokens": 3165
+      }
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "analyse_style": "The director employs several charming cinematographic techniques to create a warm, nostalgic holiday atmosphere and convey a sense of childlike wonder and playful mischief.\n\n**Animated for Warmth:** The fully animated style uses soft, curved lines and rich colors to create an inviting, dreamlike winter world. The snow-covered landscapes, pine trees, and figurative elements all contribute to a sense of comfort and whimsy.\n\n**Dynamic Movement:** Energy is injected through movement - characters jumping, sliding on snowy surfaces, and rushing into frame. Mickey's scarf-throwing shot and Goofy's snowball swing add physical comedy to the whimsical tone.\n\n**Surprise Elements:** The revealed Mickey face in the framed photo, and Goofy holding a gigantic snowball create moments of playful surprise that enhance the fun holiday spirit.\n\n**Focus on Celebration:** The interior scenes with the Christmas tree, fireplace, and Santa sketch emphasize sharing and warmth - typical of the Christmas season's themes of family, togetherness, and surprising joys.\n\nThe underlying emotion the director conveys is pure, unfiltered holiday joy and lighthearted mischief. There's a feeling of carefree childhood fun rather than deep sentimentality - the snowball fights and playful pranks aren't meant to be humorous at others' expense, but rather as part of the merry, shared spirit of the season. The emotions range from excited anticipation of winter activities to the delight of simple celebrations together, creating an overall mood that's bright, happy, and reminiscent of classic holiday stories.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 308,
+        "total_tokens": 3073
+      }
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "analyse_style": "The director beautifully combines watchful humor and tenderness, crafting an affectionate, heartwarming holiday mood. The composition alternates between whimsical and sincere moments, placing familiar characters in celebratory, festive settings that evoke warmth and nostalgia.\n\nThe warm Christmas room establish an atmosphere of comfort and joy. Close-up shots of the children chatting around the decorated tree capture candid, genuine-hearted interactions that feel intimate and personal. The final shot in particular is especially effective - a wide vertical view showing Goofy, Donald, Daisy, Mickey, Minnie, and Pluto gathered together smiling as they hold hands on the snowy ground. This simple, grouping composition communicates unity, celebration, and shared happiness.\n\nThe entire sequence works as a playful, affectionate tribute to family and friendship during the holiday season. The relaxed, unhurried pacing allows viewers to absorb each moment and emotional beat. The result is a festive story that feels like a warm greeting for the holidays - not just holiday cheer, but an invitation to enjoy the simple pleasure of togetherness with loved ones. It feels like a wholesome, friendly invitation to celebrate with friends and family.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 229,
+        "total_tokens": 2994
+      }
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "analyse_style": "The video employs several classic Disney animation techniques and design choices that work together to create a warm, festive atmosphere and convey feelings of joy, comfort, and togetherness.\n\nThe technical approach is straightforward but effective:\n\n**Static composition with natural movement**: The camera maintains a stable, centered shot throughout, allowing the characters' animated expressions and body language to do the storytelling. This creates an intimate, sociable atmosphere where the viewer feels like they're being invited into the characters' world.\n\n**Color palette**: The scene is dominated by rich reds, greens, and blues that immediately establish a Christmas theme. The saturated, cheerful colors work with subtle Easter egg patterns to create an inviting, jovial mood.\n\n**Character positioning**: The characters are arranged naturally throughout the scene—some standing, some perched on the couch, others sitting closely together. This arrangement makes the group feel like friends gathered for comfort and celebration.\n\n**Close-up focus**: At the end, the camera cuts to a close-up of Mickey and Minnie together. This intimate framing reinforces the themes of companionship and cherished holiday memories, isolating their interaction to highlight their connection.\n\nThe director's aim is clearly to evoke feelings of warmth, nostalgia, and holiday cheer. The cozy living room setting with all the classic holiday decorations tells a story of friends coming together to celebrate the season, helping one another, and creating lasting memories together. The overall effect is one of simple happiness and comfort—the kind of feeling you get when you're among people you love during a special time of year. It's a warm, inviting emotional experience that celebrates family, friendship, and the spirit of the holidays.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 332,
+        "total_tokens": 3097
+      }
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "analyse_style": "The scene uses several cinematographic techniques to create a warm, festive, and heartwarming holiday atmosphere.\n\nLighting plays a key role throughout. Soft, ambient light creates an inviting glow across the room, while the recently opened Christmas tree with its colorful lights and ornaments serves as a bright focal point that fills the space with a magical holiday quality. The window light adding softness to the overall scene.\n\nComposition uses a wide shot that establishes the entire cheerful room – the decorated tree, festive decor, sofa, and ribbon-hung chairs – before cutting to tighter shots with the main characters. This wide establishing view creates a sense of the larger Christmas celebration environment before focusing attention on the characters and their interaction.\n\nIn the dance scene, the camera likely creates compositional movement that matches the rhythm of Goofy's arm waves, possibly using slightly faster cuts or a more unstable, panning shot to give a sense of motion and energy.\n\nAbing the close-ups, the frame works to show character expressions and gestures clearly – Mickey's downward gaze and Goofy's surprised reaction create emotion through subtle movements and facial expressions, while Donald Duck's raised thumb maintains a visual beam across keep the storyline anchored.\n\nThe multi-character wide shot at the end effectively frames all the holiday characters together, emphasizing the community and togetherness aspect of the celebration.\n\nOverall, the camera work aims to evoke warmth, excitement, and festive cheer – classic holiday emotions – while highlighting important character relationships and the enchanting nature of the Christmas setting.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 304,
+        "total_tokens": 3069
+      }
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "analyse_style": "The video uses several cinematic techniques to create warmth, joy, and a sense of wonder typical of holiday animation. The compositions are centered around the family of characters in intimate groupings, creating a feeling of unity and celebration. Wide shots establish the festive setting—the decorated Christmas tree, holiday decorations, and town square—but the camera narrows in on the children at play, heightening intimacy and connection.\n\nThe visual style is classic Disney with smooth animation, vibrant colors, and charming holiday props like the red sled and candy canes. Key framing choices include keeping Mickey front and center in several shots, giving him prominence as the focal point and hero of the adventure.\n\nThe pacing alternates between calm, cozy moments—like shooting the sleigh sliding down the snowy hill—and the exciting climax of sledding through the colorful town. This creates a mix of comfort and excitement.\n\nMusical accompaniment (even if unspoken) would likely complement these visuals with festive melodies, enhancing the warm, cheerful mood.\n\nThe director seems aiming to convey feelings of happiness, family togetherness, childhood excitement, and wonder at holiday magic. The cozy indoor scenes and then the outdoor adventure work together to evoke the sense of making memories during special times with loved ones.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 251,
+        "total_tokens": 3016
+      }
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "analyse_style": "This festive Christmas scene employs several cinematographic techniques to create warmth and holiday cheer. The wide establishing shots immediately immerse viewers in the magical winter wonderland, revealing the carefully crafted miniature Christmas village with its scale model train, snowy landscapes, and bright holiday decorations.\n\nThe camera work features gentle panning movements that sweep across different elements—Mickey and Minnie beneath the grand Christmas tree, the train set, and the charming candy cane fence surrounding the displays—all in that evocative Pixar style. These sweeping movements help establish depth and space within the scene, showing both the tiny details and the overall festive setup.\n\nClose-up shots will have been used strategically, particularly on the Christmas tree and characters' faces, to emphasize the shiny ornaments, twinkling lights, and the warmth of Mickey and Minnie's expressions as they pose together. Extreme close-ups would capture characters framed against the sparkling lights, their red outfits contrasting beautifully against the cool purple-blue sky and snowy background.\n\nThe perspective shifts, moving from wide shots that showcase the miniature city to compositions that hug the candy cane fence line, drawing viewers into this celebration. There may also be selective focus techniques that highlight particular toys or characters as they come into view, creating a sense of discovery and invitation.\n\nOverall, the director's emotional intent is to evoke joy, wonder, and holiday magic. The colorful palette, carefully arranged decorations, and the warm interactions between characters all work together to create a feeling of nostalgia, love for the holiday season, and the enchanting beauty of a Christmas wonderland.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 309,
+        "total_tokens": 3074
+      }
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "analyse_style": "The video uses several warm cinematographic techniques to create a sense of nostalgia, wonder, and celebration. The low-angle shots of the snow-covered village and the dramatic zoom toward the Christmas tree focus attention on the magical setting, while the slow pans across the scene allow the viewer to absorb the festive details—whether it's the twinkling red garlands, the colored string lights, or the Say Cheese family looking on with delight.\n\nThe cinematography works closely with the visual design to build a feeling of joy and holiday spirit. Wide establishing shots of the twinkling village create a communal, uplifting atmosphere, while closer framings of the dancing toy soldiers along the fence line emphasize their charming, whimsical nature and the vibrant colors of their costumes.\n\nThe final sequence uses a gentle, soothing visual rhythm with the slowly zooming camera and the soft focus, creating a sense of peaceful celebration and leaving a lasting impression of holiday enchantment. The overall technique encourages the viewer to feel warmth, magic, and community—the director wanted you to experience a nostalgic, joy-filled sense of wonder about Christmas.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 216,
+        "total_tokens": 2981
+      }
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "analyse_style": "The video employs several cinematic techniques to create a warm, inviting holiday atmosphere through:\n\n**Color Palette and Lighting**  \nDeep blues contrasted with bright yellows, reds, and greens establish both the nighttime setting and festive cheer. The animated snowflakes drifting across the purplish-blue background add texture and movement to the otherwise still winter landscape.\n\n**Composition**  \nSanta's sleigh is positioned moving down the hill, with the reindeer leading the way. This diagonal movement draws the viewer's eye across the frame from bottom left to top right, giving a sense of excitement and movement.\n\n**Background Details**  \nThe sprawling winter wonderland provides countless charming details - from snowmen scattered throughout the landscape to the lights near the train tracks that create depth and warmth in the cold environment.\n\n**Framing**  \nThe tight framing on Santa's sleigh emphasizes the importance of this single moment, focusing attention on the magic of Santa's journey before pulling back to reveal the wider celebration.\n\n**Overall Emotional Impact**  \nThe director aims to evoke feelings of:  \n• **Delight and excitement** - Through the vibrant holiday colors and Santa's motion  \n• **Peace and warmth** - Through the soft, drifting snow and twinkling lights  \n• **Joy and togetherness** - Implying a community celebration of Christmas  \n• **Wonder** - Particularly in the final shot of Santa flying among sparkling snowflakes beneath a starry sky\n\nThe technique of showing Santa's arrival after revealing so much of the festive landscape creates a sense of culmination and fulfillment, with every carefully crafted detail - from the frolicking snowmen to the warmly lit houses - coming together in a harmonious display of holiday magic.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 345,
+        "total_tokens": 3110
+      }
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "analyse_style": "The film employs several handcrafted cinematic techniques to create warmth, whimsy, and community spirit:\n\n**Stable, intimate framing** allows viewers to study each character's expression and reaction, drawing us into their world.\n\n**Dynamic camera movements** punctuate the storytelling. The camera swings side to side as the ensemble groups together, creating an energetic rhythm that follows the characters' shared celebrations. It then traces large, broad movements across the entire town square, effectively conveying the community's festive scale—the whole town joining in together.\n\n**Kinetic transitions** add playfulness, moving the entire town scene and characters around as voices sing and the townsfolk listen. These aren't just cuts, but actual sweeping motions that make the space feel alive.\n\n**Yearning and excitement** are the primary emotions conveyed. The close-up of Daisy looking adorably sad at the red velvet rope establishes a longing for something just out of reach. Then the sudden, startling reveal of Tiana pops into everyone's minds—combining astonishment with delight at how their shared feelings about her brought them together.\n\nThe camera's adeptness at moving from intimate character reactions to sweeping establishing shots shows how all these personal moments connect to create a larger, joyful communal experience. The entire approach feels handcrafted and heartwarming, celebrating friendship, nostalgia, and creative unity.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 268,
+        "total_tokens": 3033
+      }
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "analyse_style": "The director employs severalcinematographic techniques to convey warmth, joy, and enchantment through these scenes.\n\n**Camera Angles and Framing:**\nThe camera uses shallow depth of field to gently blur the background, creating a dreamy, soft-catching effect that makes the characters feel like they're suspended in a fantastical bubble. This technique helps draw the viewer into the magical holiday atmosphere rather than drawing attention to the environment.\n\n**Character Placement and Composition:**\nThe shots are carefully composed to bring the characters together visually. Mickey and the female deer are framed face-to-face, with her gently resting her head on his shoulder. This positioning creates intimacy and a feeling of trust between them. Similarly, when Goofy jumps playfully between Daisy and Donald, the camera captures him centered between them, emphasizing the comic relief and friendship dynamics.\n\n**Color Palette:**\nThe filmmakers heavily rely on rich, saturated Christmas colors - reds, greens, whites, golds, and blues - which immediately evoke festive cheer and warmth. The snowy backgrounds add cool blue and white tones that balance the warmth of the holiday clothing and decorations.\n\n**Angles and Energy:**\nLower angles occasionally used when capturing characters like Daisy and Donald looking upward create a sense of awe and wonder. When the characters are shown idyllic settings like the snow-topped buildings or the candy cane decorations, these shots feel like establishing shots designed to immerse the audience in this miniature winter world.\n\n**Body Language and Expressisons:**\nMuch of the emotion is expressed through the characters' physical movements. The deer lifting her finger to indicate the star evokes magical wonder, while Mickey's easy smile creates familiarity and comfort. Goofy's leap conveys playful energy.\n\nOverall, the director seems aiming to create feelings of warmth, togetherness, playful joy, and holiday magic through these carefully composed animated moments.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 376,
+        "total_tokens": 3141
+      }
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "analyse_style": "The cinematographic techniques in this animation work together to create a whimsical, festive atmosphere with several key emotional elements:\n\n**Cinematography:**\n- **Wide establishing shots**: The opening scene uses a wide view to establish the entire wintry landscape, including the connected train track, snowy terrain, and the whole festive setting.\n- **Close-up interactions**: The video alternates between wide shots and tighter framing on characters' facial expressions, allowing viewers to see their reactions and emotions.\n- **Stability and smooth movement**: The camera moves smoothly, often panning from left to right or keeping steady shots that enhance the magical quality of the setting.\n- **Transition shots**: The scene transitions from the snowy landscape to a close-up of Minnie Mouse, then to Goofy with Minnie, creating a logical flow.\n- **Perspective shifts**: Shots alternate between the point of view of the approaching train and broader establishing views, creating a sense of movement and engagement.\n- **Symmetrical composition**: Characters are arranged nicely on the snowy stage, creating a balanced and inviting tableau.\n\n**Emotion conveyed:**\n- **Reverence and awe**: The characters' facial expressions—the fox's initial surprise and Goofy's enthusiastic reactions—convey a sense of wonder at the star-shaped coins.\n- **Celebratory joy**: The colorful, festively decorated setting with garlands, lights, and trees creates an atmosphere of holiday cheer.\n- **Giggly, lighthearted fun**: The mischievous golden star and the characters' playful banter (evident in their body language and expressions) inject a sense of humor.\n- **Childlike fascination**: The characters' curiosity and excitement about the star coins evoke a sense of discovery and amazement.\n\nOverall, the director wants to create a feeling of joy, wonder, and holiday magic, making viewers feel as if they've stumbled upon a magical, colorful world full of surprises and celebration.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 397,
+        "total_tokens": 3162
+      }
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "analyse_style": "The cinematography uses several techniques to create a festive, whimsical holiday atmosphere.\n\n**Visual Style:**\nThe 3D animation has a smooth, polished digital aesthetic with saturated colors and clean lines, reminiscent of modern children's content. Jeffsimilar visual style.\n\n**Camera Work:**\nThe shots are composed with wide, establishing views to showcase the expansive winter wonderland setting - capturing Goofy grinning in his winter gear against the snow-covered village. The camera briefly pans or moves to reveal all the main characters gathered around the decorated Christmas tree, creating a sense of inclusion and celebration.\n\n**Color Palette:**\nRich, warm tones dominate - greens, golds, blues, and reds that evoke traditional Christmas colors. The deep purple night sky with golden twinkling stars creates a magical, storybook quality.\n\n**Symbolism:**\nThe framing emphasizes the ritual of decorating - showing characters breaking away from winter activities to work together, with ornaments being passed and hung around the tree. Each character occupies their own space in the composition, suggesting teamwork and holiday spirit.\n\n**Emotional Conveyance:**\nThe director aims to evoke feelings of warmth, joy, and holiday spirit. The wide shots celebrating the village setting convey a sense of community and togetherness. The close-up on the decorated tree symbolizes bringing people together, while the group poses suggests celebration and unity. \n\nThe editing choices - cutting from individual characters to the collaborative moment - highlight themes of friendship, cooperation, and the magic of holiday traditions. The overall mood is festive and heartwarming, inviting viewers to feel the excitement and cheer of the season through these carefully composed, bright, and cheerful scenes.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 337,
+        "total_tokens": 3102
+      }
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "analyse_style": "The director uses several casting techniques to convey warmth, celebration, and community. Colorful lighting and festive costumes create an inviting seasonal atmosphere.\n\nMickey's natural gestures—outstretched arms, glad handshakes, and dancing—transmit open joy. The villain's dramatic poses and storm-like expression contrast with village lightness, adding visual drama through framing and scale.\n\nFamily and friends connected through shared moments: the group handshake, close views of faces, and collective scene composition build intimacy. Returning to Mickey at the castle reinforces his role as a unifying, imaginative center surrounded by his trusted companions.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 121,
+        "total_tokens": 2886
+      }
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "analyse_style": "The cinematography employs several techniques that work together to convey a sense of holiday warmth, unity, and celebration.\n\nThe framing throughout uses the festive Christmas tree as a central backdrop, creating a natural anchor and emphasizing the festive gathering. This vertical composition draws the eye upward, enhancing the feeling of celebration and twinkling lights. Behind the characters, there are houses and snowy hills visible, adding depth to the scene and reinforcing the cozy winter setting.\n\nThe camera creates a balanced composition that centers Mickey, Minnie, and Daisy as the primary figures, while giving additional characters like Goofy space in the frame. This equality in framing suggests their equal importance in the celebration. The use of wide shots allows all animated characters to be visible together, emphasizing the communal nature of the gathering.\n\nThe color palette reinforces the mood—vibrant reds, greens, blues, and soft whites create a cheerful, inviting atmosphere. Goofy's playful, raised-arm gesture introduces a lighthearted, joyful tone that matches the overall holiday spirit.\n\nBy presenting all the characters together in these well-framed, brightly colored compositions, the director wants viewers to feel happy, festive, and heartwarming. The scenes collectively evoke nostalgia, togetherness, and the essence of a joyful family gathering during the Christmas season, with the animated style amplifying these emotions through its bright, saturated visuals and inviting camera work.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 282,
+        "total_tokens": 3047
+      }
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "analyse_style": "The director employs whimsical, enchanting cinematography filled with dreamlike details throughout the scene. The floating candy cane bow adds a fantastical element, while the snowball effect and shimmering lights across the rooftops create a magical, almost storybook quality.\n\nMickey uses expressive hand gestures that feel honest and earnest—the raised hands showing uncertainty or realization, and the reaching forward toward the light suggest genuine warmth and discovery. This body language conveys vulnerability and hope, inviting viewers into his emotional state.\n\nThe close-up at the end intensifies that feeling. By focusing on Mickey's outstretched hand and the gleaming gold star in his palm, the director draws attention to this pivotal moment of connection and perhaps realization. The soft background blur for Mickey and Pluto creates intimacy, making their faces the emotional center while the snowy town glows around them like a dream.\n\nThe overall atmosphere—มากๆ dark blue night sky dotted with stars, snowy rooftops, the candy cane tree, and the magical lantern train—combines to evoke wonderment, holiday warmth, and a sense of discover. It feels like living in a frozen fantasy world where emotion and magic bloom in the quiet hush of winter.\n\nThe director appears to want viewers to experience a sense of childlike awe, sentimental warmth, and sweet hope through what seems like Mickey's personal emotional journey in this festive landscape.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 275,
+        "total_tokens": 3040
+      }
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "analyse_style": "The filmmaker skillfully uses close-up cinematography to establish an intimate tone between Mickey and Pluto. The framing keeps both characters centered and at eye level, creating a sense of connection and warmth. Slow, expressive arm movements, particularly Mickey's gestures with the star ring, introduce a gentle rhythm that's soothing to watch.\n\nThe use of small, deliberate hand motions—the way Mickey rotates the gold ring and holds up each view for Pluto to see—creates a tactile, almost storybook quality. This unhurried pacing invites viewers to lean in and observe the details, mimicking how children might watch their favorite characters share special toys or presents.\n\nThe overall technique builds anticipation and genuine affection. The filmmaker wants to convey heartfelt warmth and childhood wonder, suggesting that offering this special, decorated star ring is a meaningful gesture. There's an emotional atmosphere of slow realization—Mickey's soft smiles as he presents each angle of the ring to Pluto, and Pluto's attentive, curious expression—creating a moment that feels pure and sincerely loving, like a holiday memory being gently recalled.\n\nThe result is to make viewers feel nostalgic for those small, simple moments of connection where looking at something together becomes more special than getting it itself. The piece seems to honor the warmth of genuine, unhurried friendship.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 257,
+        "total_tokens": 3022
+      }
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "analyse_style": "The cinematography employs expressive animation techniques that create a sense of magical wonder and playful surprise. The visual storytelling takes viewers on a journey alongside Mickey's actions, from the grounding close-up of him examining the gold coin, to the dynamic perspective that tracks the coin's flight through the wintry nighttime sky and onto the Christmas tree.\n\nThe backdrop serves to establish mood and story context. The deep blue night sky dotted with white stars and soft pink clouds provides a dreamlike atmosphere that contrasts beautifully with the more saturated foreground elements - the snow, the green tree, and the colorful coin. This creates a sense of magic and possibility.\n\nThe use of framing is important throughout. When focusing tightly on Mickey's face, particularly during his reactions of surprise and excitement, we draw the audience into his emotional experience. The wider shots that reveal the full Christmas scene, complete with the snowy landscape and tree decorations, create a feeling of discovery and celebration.\n\nThe lighting also plays a crucial role. Natural snowfall being visible suggests gentle movement and adds texture, while the golden coin glinting against the cool blue tones emphasizes its special, magical quality.\n\nThe director seems to be conveying several emotions:\n\n1. Joy and excitement - this is particularly evident during Mickey's wide-eyed reactions and the triumphant reveal of the perfect fit.\n\n2. Playfulness - the way the coin tumbles through the air and \"accidentally\" lands perfectly suggests a game-like quality to the moment.\n\n3. Surprise and wonder - Mickey's exaggerated responses as he encounters these magical, unexpected events.\n\n4. Festivity and cheerfulness - the Christmas setting with decorated trees and snow covering everything reinforces feelings of holiday joy.\n\n5. Triumph - ultimately, Mickey's realization that his \"mistake\" had creative potential conveys a feeling of satisfying accomplishment.\n\nOverall, the techniques work together to create an enchanting, festive atmosphere where small actions feel important and magical, inviting viewers to share in the character's delight and discovery.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 393,
+        "total_tokens": 3158
+      }
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "analyse_style": "The director uses several cinematographic techniques to create a warm, festive atmosphere and convey specific emotions through the imagery and pacing:\n\n**Visual Composition:** The camera creates an intimate perspective by staying close to Mickey's shoulders and head, focusing on his face and upper body. This framing emphasizes his emotional state while positioning him as the central character. The warm, golden light blending with what appears to be the night creates a cozy, intimate ambiance rather than stark artificial lighting.\n\n**Natural Movement:** Both Mickey and Pluto's movements are fluid and natural rather than rigid. Mickey's fingertips barely touch Pluto's head, which conveys affection and gentleness. The shot of them walking together in the snow creates a sense of companionship and togetherness. The dolly or panning shot that reveals Pluto's departure from the frame adds a gentle moment of separation without creating discomfort.\n\n**Upbeat Color Palette:** The red sweaters and Christmas attire, combined with the unified color scheme, create a cohesive visual identity that evokes warmth, celebration, and holiday cheer. The lighting is bright and even throughout the outdoor scenes, reinforcing the film's cheerful, positive mood.\n\n**Seasonal Symbolism:** The snow-covered hills, twinkling Christmas lights, and present-covered Santa house in the background establish a clear festive setting. The gold coin with a star shape, which spins playfully while positioned prominently, represents joy, celebration, and perhaps a magical possibility—teasing that there might be special presents or wishes to be found.\n\n**Emotional Throughline:** The scene as a whole builds upon the idea of navigating seasonal surprises and festivities. Mickey's curious, slightly worried expression when held up to the camera suggests he may be experiencing some uncertainty or anticipation about the winter wonderland ahead. This, combined with Pluto's departure and the playful gold star coin, creates a tone of both excitement and light-hearted concern about new experiences.\n\n**Overall Mood:** The director aims to evoke feelings of warmth, companionship, gentle wonder, and the bittersweet nature of changing seasons. There's affection in the animal interaction, celebration in the festive setting, and a touch of anticipation in Mickey's expression—as if preparing for new experiences that come with the holidays, even though some familiar companions may drift away. The mood is ultimately one of joy interwoven with the subtle complexities of celebration and change.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 472,
+        "total_tokens": 3237
+      }
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "analyse_style": "The video employs several cinematographic techniques to create a whimsical and festive holiday atmosphere.\n\nCamera movements include close-up shots on the golden coin, wide establishing shots of the railroad tunnel environment, and dynamic tracking shots following the colorful train through the snowy landscape. These varied angles help emphasize different elements of the magical winter train sequence while maintaining visual engagement.\n\nThe lighting design is particularly effective, with the golden coin and train car topped by star motifs catching the light among colorful lights hanging from the archway, creating a sparkling, enchanting effect. This lighting complemented the snow falling through the night sky, reinforcing the dreamlike quality of the scene.\n\nThe framing choices and soft, smooth transitions contribute to a dream-like quality, helping establish a fantastical winter wonderland setting.\n\nOverall, these techniques work together to create a warm, festive, and magical Christmas mood. The director seems to be aiming to evoke feelings of wonder, nostalgia, and holiday cheer—the kind of emotions associated with childhood wonder at holiday magic and the special warmth of the Christmas season. The whimsical, fantastical quality suggests an attempt to inspire joy and celebration of the festive period.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 228,
+        "total_tokens": 2993
+      }
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "analyse_style": "The director employs several cinematographic techniques to convey warmth, nostalgia, and holiday joy throughout this scene.\n\n**Visual Style and Composition:**\nThe camera uses cozy, intimate framing that places Mickey and Goofy as the focal point against a festive, fully decorated room. The Christmas lights create a soft glow that envelops the characters, while the window behind them establishes depth and a sense of holiday winter wonderland outside. This composition enhances the warm, homey atmosphere.\n\n**Color Palette:**\nThe rich, vibrant colors - reds, greens, blues, yellows, and golds - fill the frame and evoke the spirit of Christmas. The festive garlands, wreaths, and holiday-wrapped presents all contribute to this seasonal color scheme, reinforcing the cheerful mood.\n\n**Lighting:**\nThe multi-colored string lights serve a dual purpose. They illuminate the space with a soft, welcoming glow that creates intimacy, while their retro, circular pattern adds visual interest to the background. Their twinkling quality helps maintain the magical holiday feeling throughout the scene.\n\n**Soundtrack and Music:**\nWhile not a visual technique, the Christmas song playing in the background reinforces the emotional direction. The music underscores the scenes of gift-giving and celebration, adding a layer of warmth and tradition.\n\n**Emotional Conveyance:**\nThe director wanted to evoke **cozy home feelings, familial warmth, and the magic of Christmas celebrations**. Several elements support this emotional direction:\n\n• The intimate framing of Mickey and Goofy creates a sense of comfort and companionship\n• The fully decorated room and visible window to the snowy outside provide complete immersion in the holiday setting\n• The presentation of wrapped gifts reinforces the tradition of giving and togetherness\n• The closed doors isolating the characters in their festive home while images of outside gifts being delivered maintain a feeling of unity and anticipation\n\nOverall, the cinematography, lighting, and composition work together to create an inviting, heartwarming atmosphere that captures the essence of a joyful Christmas celebration centered around loved ones and the simple pleasures of the season.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 418,
+        "total_tokens": 3183
+      }
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "analyse_style": "The video uses several cinematographic techniques to create a lively, festive atmosphere centered on sharing and cheer.\n\nThe camera employs steady, medium close-ups that capture the characters' faces clearly and communicate the warmth of their holiday interactions. This framing allows viewers to read the genuine, emotional expressions and eye contact between the characters as they celebrate together.\n\nThe visual composition focuses on establishing shots that show the complete room setting—the snow-covered landscape outside, Christmas decorations like garlands and ornaments, and the warmly decorated interior. These wide establishing shots help convey the scale of the celebration and the abundance of holiday cheer.\n\nUpright, thoughtful framing is used when showing characters like Mickey working to place presents, emphasizing the care and effort put into the festivities. The transitions between characters are smooth and unhurried, allowing each character's contribution to the celebration to be appreciated individually before coming together in the final group shot.\n\nA narrator with an English accent adds to the documentary style, providing context and framing the events as a shared holiday memory. This storytelling approach, combined with the warm, steady cinematography, communicates the director's desire to evoke feelings of nostalgia, unity, and heartfelt enthusiasm for the Christmas holiday spirit.\n\nThe overall aesthetic and pacing create an immersive experience that celebrates friendship, togetherness, and the joy of exchanging gifts and creating shared memories during Christmastime.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 270,
+        "total_tokens": 3035
+      }
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "analyse_style": "Looking at this scene, the director appears to be using several cinematographic techniques to convey warmth, friendliness, and celebration through the holiday decor and character interactions.\n\nThe framing emphasizes the cozy, playfully festive atmosphere with the holiday decorations filling the background. One noticeable technique is the use of color—particularly the reds, greens, and golds of the wreaths, garlands, and ornaments—which creates a warm, inviting mood typical of Christmas celebrations.\n\nThe camera seems to deliberately showcase Mickey and Minnie together in this festive setting, with the wreaths on both sides of the frame and the green garlands with gold ornaments creating a symmetrical composition that reinforces the theme of joy and togetherness. This symmetry helps establish a sense of balance and harmony in the holiday spirit.\n\nThe director likely wanted to convey emotions of happiness, love, and nostalgia. The Christmas decorations and festive sweaters worn by the mice emphasize celebration and warmth. The box marked \"25\" on the wall suggests preparation for Santa, which reinforces feelings of anticipation and excitement.\n\nThe overall presence of multiple seasons (Mickey, Minnie, and Donald Disney) together in this holiday setting creates a sense of community and shared family celebration. The director wants viewers to feel happy and excited about the holidays, evoking feelings of care, cheer, and togetherness. The scene invites viewers to remember special family moments during the Christmas season through its cozy interior and warm color palette.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 293,
+        "total_tokens": 3058
+      }
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "analyse_style": "The cinematography in this scene employs several techniques to reinforce the festive and joyful atmosphere:\n\nThe camera maintains a cozy, intimate perspective, placed close to the characters' floor level, which makes the celebration feel warm and inviting. This low-angle framing draws viewers into the magical world of the cartoon, creating an immersive experience.\n\nWide shots of the entire room capture the full holiday setup - the sparkling Christmas tree, garlands, presents, and the gathered family. This technique helps emphasize the communal nature of the celebration and conveys a sense of togetherness.\n\nClose-ups on individual faces and animals allow the viewer to connect emotionally with the characters' reactions. The gentle camera movements and medium shots create a rhythm between group interaction shots and more personal moments.\n\nThe use of bright, saturated colors and soft light throughout enhances the cheerful, festive mood. The way the camera pans across the scene helps show the scope of the celebration and the number of characters involved.\n\nThe cinematographic choices work together to convey warmth, joy, and the spirit of holiday comfort. The director seems aiming to evoke feelings of nostalgia, happiness, and the pleasure of social gatherings during the Christmas season. These techniques create a welcoming environment that makes viewers feel part of the celebration and appreciate the beauty of festive traditions.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 254,
+        "total_tokens": 3019
+      }
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "analyse_style": "The director employs several cinematic techniques to evoke warmth, wonder, and celebration:\n\n**Cinematographic Techniques:**\n\n**Camera Movements:** The camera expertly transitions from close-up interactions between Mickey and Goofy to wide establishing shots of the entire living room. These sweeping transitions help ground the characters in their festive environment while emphasizing the grandeur of the Christmas decorations. The close-ups on Mickey and Goofy capture their intimacy, while wider shots reveal the magical, sparkly atmosphere.\n\n**Color Palette:** The filmmakers use rich reds, greens, golds, and yellows throughout the scene—colors traditionally associated with Christmas. Mickey's red sweater with gold and green trim, the green trees, gold ornaments, and Santa hats all create a warm, inviting holiday palette that instantly evokes festive cheer.\n\n**Composition:** Mickey and Goofy are often centered or off-center in duality, creating a conversational rhythm. The Christmas tree, decorations, and framed \"25\" sign serve as visual anchors that reinforce the holiday theme.\n\n**Lighting:** Soft, natural-looking light bathes the room, giving it a cozy, welcoming quality. Contrast is used with brighter lighting on the decorated areas, drawing attention to the sparkle of ornaments and the glow of holiday elements.\n\n**Details and Texture:** The camera lingers on specific tactile details—the ribbons, cloves, striped present, and candlestick on the table—to create authenticity and immerse the viewer in the Christmas setting. The \"25\" sign with the wreath design is singled out, emphasizing the anticipation of Christmas Day.\n\n**Winter Imagery (13.0-14.0):** The shift to the stone facade with falling snow and \"WOW\" written in the window uses the visual of snow to represent magic and special moments. Looking out the window at falling snow on a snowy day is a classic technique for conveying a feeling of peaceful wonder and connection to the season.\n\n**Emotion and Tone:**\nThe primary emotions conveyed are:\n- **Joy and Happiness:** The festive setting, bright colors, and animated celebration create an infectious sense of cheer.\n- **Excitement:** Every gesture—the waving, stretching arms—suggests anticipation and enthusiasm.\n- **Warmth and Comfort:** The cozy living room with its abundant holiday decor provides a feeling of safety and togetherness.\n- **Nostalgia:** The traditional holiday elements (trees, ornaments, \"25\" sign) evoke a classic Christmas spirit, likely stirring fond memories in viewers.\n- **Awe:** The transitional snow scene outside transforms the mood into a more magical, dreamlike wonder.\n\nOverall, the director crafts a lovingly detailed holiday vignette that celebrates friendship, joy, and the anticipation of Christmas Day in a warm, festive atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 565,
+        "total_tokens": 3330
+      }
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "analyse_style": "The director employs several cinematic techniques to create a cheerful, festive atmosphere while conveying lighthearted, celebratory emotions.\n\nThe deep blue sky with white drifting snow establishes a magical winter wonderland, immediately setting a warm, inviting mood. \n\nMedium shots that vary between wide establishing views and intimate close-ups create emphasis on progression from the enchanting exterior to the cozy interior. These warm, inviting camera angles in the indoor scenes with Christmas decorations underscore the theme of comfort and togetherness.\n\nUse of subjective point-of-view shots from Mickey's perspective creates a sense of connection with the character, drawing viewers into his actions and reactions.\n\nThe warm color palette throughout, particularly the yellow walls and festive red decorations, reinforces feelings of joy and celebration.\n\nDirector wants to evoke:\n\n• Joy, expressed through Mickey's cheerful gestures and friends' exuberant camaraderie\n• Warmth, conveyed by the intimate indoor scenes and holiday lighting\n• Festiveness, captured through the abundant Christmas decorations and gift-giving\n• Magic, particularly in the upper window scene where Mickey reveals his surprise\n• Comfort and togetherness, emphasized by the cozy scenes with friends sharing tea\n\nThe dance line formation and the final cozy kitchen scene create a sense of unity, celebrating holiday gatherings. Overall, the video conveys excitement, holiday spirit, and simple joy in a vibrant, inviting celebration of Christmas.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 279,
+        "total_tokens": 3044
+      }
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "analyse_style": "",
+      "tokens": {}
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "analyse_style": "The film employs several cinematographic techniques to create a warm, festive, and magical holiday atmosphere while conveying joy and togetherness.\n\nThe camera movement plays a crucial role. It starts with very tight close-ups, particularly on Mickey Mouse's face during a tender moment of sharing a warm drink. This intimate framing immediately establishes a sense of comfort and connection between characters.\n\nAs the scene progresses, the camera pulls back dramatically to reveal not just Mickey, but the growing circle of friends gathering around him. This widening shot transformation shifts the focus from an individual intimate moment to a broader sense of community and shared celebration.\n\nThe lighting and color palette significantly enhance the emotional tone. 😊 Led lights gently glowing against the snow-covered background create a magical, enchanting atmosphere. Mickey's red Christmas sweater pops against the snowy environment, making him and his companions stand out as beacons of holiday warmth in a cool, winter landscape.\n\nThis color combination creates a striking visual contrast between the bright, festive attire and the cold surroundings, reinforcing the idea of celebration finding its place in empty winter nights. It serves to heighten the emotional resonance of the holiday gathering.\n\nThe camera work also alternates between close-up focus on individual expressions—particularly capturing Mickey as he interacts with his friends—and wider shots that encompass the entire group. This technique effectively moves from a microphone-type intimacy to a celebratory reveal. It draws the audience into the personal moment while simultaneously expanding the emotional space to include everyone else's participation.\n\nThe director's emotional goal appears to be celebrating togetherness and warmth.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 312,
+        "total_tokens": 3077
+      }
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "analyse_style": "The video uses several effective cinematographic techniques to create a warm, festive, and celebratory atmosphere. \n\n**Composition and Framing:**\nThe use of close-up shots on Mickey's face allows viewers to connect emotionally with his expressions and reactions, making his excitement and joy more immediate. An upward-angled shot from below when Mickey stands before the star-topped Christmas tree creates a sense of magic and wonder, giving him a heroic or aspirational quality. Wide establishing shots of the town showcase the comprehensive, lively feel of the Christmas celebration.\n\n**Lighting and Color:**\nThe festive palette dominates—saturated reds, blues, greens, and yellows that make the winter scene radiate cheer. Soft, warm holiday lighting and festive decorations like wreaths and wreaths with red bows create an intimate, cozy feeling. The snowy landscape provides cool contrast to the warm holiday colors, enhancing the overall wintry mood.\n\n**Motion and Dynamic Movement:**\nCinematic tracking shots follow Mickey as he moves through different scenes, capturing the energy and momentum of his performances. The wide-angled shots of the scenes where Mickey jumps and runs amplify the sense of movement and contribute to a playful, carefree atmosphere. Characters are seen smiling and dancing together, working the camera to maintain an upbeat rhythm.\n\n**Accessory Use:**\nThe blue mittens Mickey wears in multiple scenes both isolate them in close-ups and make them a visually distinctive detail that appears as a recurring element, reinforcing the holiday theme.\n\n**Emotional Conveyance:**\nThe direction conveys overwhelming joy, celebration, and community spirit. The numerous wide shots of the town filled with people, glittering lights, and snowy scenes emphasize the communal nature of the holiday. Close-ups on Mickey and the other animals allow viewers to connect with their enthusiastic expressions and participation.\n\n**Background Immersion:**\nThe shining Christmas tree with its star crowning Mickey's moment of standing before it, combined with the snow gently falling, creates a magical atmosphere. The initial scene of Mickey admiring the tree's lights and the later displayed twinkling globe of falling snow further reinforces themes of wonder, anticipation, and childlike delight.\n\nOverall, the direction creates an immersive, harmonious blend of playfulness, magical realism, and warm holiday nostalgia, leaving viewers feeling festive, joyful, and uplifted by the shared celebration.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 472,
+        "total_tokens": 3237
+      }
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "analyse_style": "The cinematography uses several techniques to create a sense of whimsy, celebration, and nostalgia. The shots alternate between close-ups that capture Mickey's peaceful face and his awakening, and wider establishing shots that reveal the festive town setting. This range of shot sizes helps establish both character and context.\n\nThe animation style emphasizes smooth motion throughout, particularly during Mickey's magical flight and technicolor ascension through the town. The camera movement during these sequences—tracking his rise, capturing the parade of differently sized buildings as he climbs, and framing him from various angles—creates a dreamlike quality that matches his playful attitude.\n\nThe camera also uses framing to show Mickey in relation to his environment: placing him in front of characters, behind the large Christmas tree, and within his bedroom setting creates a sense of him being part of both the grand magical world and his comfortable home space. This amplifies the feeling that reality has expanded into something extraordinary.\n\nIn terms of emotion, the director seems to be aiming for joy, wonder, and warmth. The red Christmas sweater Mickey wears, the yellow streetlights, and the green garland all reinforce holiday cheer. The wide shots of Minnie and the other Disneyland characters gathered on the snowy ground evoke a sense of community and celebration.\n\nThe bed scene, particularly the way Mickey is shown waking up from his dream, conveys contentment and satisfaction. The fact that he smiles and lies back to nap suggests he's thoroughly enjoying his magical experience, while the cozy bedroom details create a feeling of security and comfort.\n\nOverall, the cinematography combines playful animation techniques with carefully chosen festive imagery and camera movements to evoke a feeling of imaginative wonder and seasonal celebration.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 334,
+        "total_tokens": 3099
+      }
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "analyse_style": "The cinematography in this scene is rich with festive, cheerful energy and a clear emphasis on family warmth and celebration. Here are the key techniques and emotional underpinnings:\n\n**Composition and Framing:**\nThe festive bedroom is framed to showcase Christmas as a shared, homey experience. Mickey on his bed at the foreground immediately establishes intimacy and comfort. The wide shots of the teams receiving gifts from the doors create visual balance, emphasizing togetherness and connection through a centered group arrangement.\n\n**Color and Lighting:**\nRich, saturated warm colors warm the frame and distributed natural light enhances the homey, welcoming atmosphere. The strategic lighting highlights Mickey, Doofenshmirtz, and his speakers, creating a sense of visual support for them as the central characters performing their task.\n\n**Movement and Camera Angles:**\nAn overhead perspective on the doors while others stand arranged below delivers a slightly theatrical, organized presentation quality. This angle presents the team as a carefully coordinated unit.\n\n**Iconic characters' placement:**\nPlacing Mickey as the main figure grounding the composition inherently positions him as the emotional anchor. The opposite arrangement of Goofy, Donald, and Minnie gives each unique presence and creates natural visual balance.\n\n**Temporal elements that mimic Cinema:**\nThe passing clock hand creates immediate anticipation and emotional emphasis, building excitement for the \"final scene.\" Its timed movement adds a cinematic, momentous quality, transforming it from a simple decorative element into a crucial temporal marker.\n\nThe director clearly aims to evoke joy, warmth, and a sense of wholesome achievement through these elements. This emphasizes the collective festive experience and childlike wonder evoked by Christmas, ultimately highlighting friendship and teamwork.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 339,
+        "total_tokens": 3104
+      }
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "analyse_style": "The scene employs several cinematographic techniques to create a warm, festive mood and convey a sense of genuine holiday cheer:\n\n**Point-of-View Shots:** The overhead view of the friends sitting together around the coffee table captures the full group dynamic, emphasizing the communal atmosphere of the celebration.\n\n**Close-Ups and Medium Shots:** The alternating between tight shots of the characters (Minnie holding the gift, Mickey's surprised expression, Goofy with his long mug) and wider shots of the entire setting creates intimacy mixed with the feeling of togetherness.\n\n**Warm Color Palette:** The festive reds, greens, and whites throughout the scene visually reinforce the holiday theme and create a cozy, inviting ambiance.\n\n**Soft Lighting:** Even, diffuse lighting enhances the warm, festive atmosphere and softens the character features, making them appear approachable and comforting.\n\n**Children's Film Animation Style:** The smooth, exaggerated movements and clean lines of the Disney-style animation are well-suited to conveying joy and wonder in a childlike way.\n\n**Layered Composition:** The carefully arranged setting—with the garland, wreath, presents, fireplace, and holiday decorations—creates depth and reinforces the importance of the holiday moment to the characters.\n\n**Point of View Montage:** The jovial atmosphere of the friends enjoying coffee and presents together conveys feelings of warmth, togetherness, and shared joy. This mood is further captured in the closing moments where Minnie and Mickey are exchanging gifts—an intimate moment that suggests mutual affection and friendship.\n\n**Emotionally, the director appears to want to evoke feelings of warmth, comfort, nostalgia, and festive happiness.** The scene celebrates friendship and holiday traditions, showing characters coming together to share in simple pleasures like morning coffee and gift exchanges. There's also a sense of wonder present, particularly in the presents and decorations, appealing to the childlike excitement of Christmas while maintaining a warm, family-friendly tone.\n\nThe overall composition and pacing create a sense of belonging and harmony among the characters, emphasizing the universal joy of celebration with loved ones during the holiday season.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 418,
+        "total_tokens": 3183
+      }
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "analyse_style": "The cinematography employs several warm, festive techniques to create an atmosphere of holiday joy and anticipation.\n\nWide establishing shots emphasize the abundance of Christmas decorations—the large tree, chair, and presents—shaping a sense of generosity and celebration. Medium close-ups of Mickey and Minnie on the couch allow viewers to focus on their expressions and reactions, drawing emotional connection to this exchange between friends.\n\nThere's a nice balance between covered and uncovered framing. The shot of Minnie's snowflake cookie box has its lid closed in its frame, which builds curiosity about what's inside. When the lid lifts to reveal the wrapped chocolates, it reveals both the surprise element and the value of the gift.\n\nMickey's later shot by the fireplace uses warm, colorful lighting from the fire and tree lighting to create cozy intimacy. The Christmas tree growing brightly between Mickey and the fire suggests the magical quality of the holiday season, reinforcing the sense of wonder and tradition.\n\nThe camera work subtly conveys the director's intent to elicit feelings of happiness, warmth, and festive cheer. This is further enhanced through Minnie's delighted smile and reactions, which showcase genuine joy and appreciation.\n\nThe pacing, particularly as the camera shifts from the couch exchange to the fireplace shot and then to Minnie finding Donald talking about쳐\n\n patiently coaxes more details out of him. This gradual sequencing builds anticipation and emphasizes the slow-sharing of Christmas stories as a cherished holiday tradition.\n\nThe cinematography also highlights the contrast between decorative abundance (the fully decorated living room) and intimate, personal interactions (the couch exchange, Donald's sofa moment). This juxtaposition nicely reflects the duality of holiday celebrations—both grand and personal.\n\nOverall, these techniques work together to create a feeling of warmth, affection, and holiday magic—the director clearly wants viewers to experience that uplifting, nostalgic joy that comes from giving and sharing stories during Christmas time.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 376,
+        "total_tokens": 3141
+      }
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "analyse_style": "The director uses several cinematographic techniques to create warmth and emotional connection throughout the Christmas scenes.\n\n**Camera Movement and Framing:**\nThe camera holds on characters in medium shots, allowing viewers to see both Minnie and Daisy's faces clearly as they interact. This framing establishes their relationship and the holiday atmosphere. The steady positioning draws attention to their expressions and body language.\n\n**Lighting:**\nThe soft, ambient holiday lighting plays a crucial role. The glowing Christmas tree, warm fireplace glow, and colorful lights create a cozy, inviting feeling. This use of gentle illumination conveys comfort and celebration.\n\n**Color Palette:**\nThe rich reds of the furniture, combined with the green wreaths and tree, alongside the warm colors of the fire, create a classic holiday color scheme. These saturated yet friendly tones evoke cheerfulness and nostalgia.\n\n**Focus and Composition:**\nWhen zooming in on Mickey's thoughtful expression, the camera narrows the focus to capture his emotional response and connection to the memories he's creating. This close-up technique emphasizes his personal joy and gentle awareness.\n\n**Storytelling Through Angles:**\nThe various angles show different characters - Mickey by the tree, Minnie holding the box of chocolates - in different positions. This multi-character approach captures the communal, festive spirit.\n\n**Intercut Scenes:**\nBy jumping from one \"reaction\" shot to another (Mickey filming, the person smiling, Goofy with the gift), the director builds rhythm and anticipation. The quick changes suggest collective enjoyment and the excitement of holiday traditions.\n\n**Emotional Conveyance:**\nThe overall approach aims to convey feelings of:\n- Warmth and togetherness\n- Nostalgia for cherished memories\n- Joy and celebration\n- Contentment in holiday traditions\n- Gentle excitement (as evidenced by Goofy's surprised reaction)\n\nThe director successfully creates an emotional tapestry of holiday cheer that feels both personal and universally relatable.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 394,
+        "total_tokens": 3159
+      }
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "analyse_style": "Looking at the video, several cinematic techniques are employed to convey warmth, nostalgia, and joy during the holiday season through Mickey Mouse's camera lens journey.\n\n**Visual Style:**\nThe widescreen aspect with fixed camera placements creates a classic 3D animated storybook feel. The warm, saturated colors—red sweaters against green trees and red roofs—reflect Christmas cheer and festive coziness. Overhead Christmas lights glinting on decorations add a magical, nostalgic quality.\n\n**Shot Composition:**\nThere's a well-paced editing rhythm balancing intimate character moments with establishing shots of the beautiful, snowy Christmas village. This creates depth, inviting viewers to both connect emotionally with individual characters (like Mickey's surprised expression or the friends' winter gear) and then enjoy the broader holiday setting.\n\n**Character Framing:**\nThe director uses close-ups (like Mickey smiling at his camera) to emphasize personal enjoyment and accomplishment, then pulls back to show all the celebrants together, which conveys community and shared joy. Group shots of the sledding and conversation create a sense of togetherness and friendship.\n\n**Color Palette and Lighting:**\nThe rich reds, greens, blues, and yellows throughout contribute to the festive mood. The soft, even lighting from interior warm spots (Mickey's room, the decorated tree) contrasts with the cool blue of the winter night sky outside, reinforcing the cozy, intimate feeling of the holiday season indoors.\n\n**Mise-en-scène:**\nEvery element—the detailed snow-covered sledding hill, the warmly lit house, the carefully adorned decorated tree—serves to create an abundant, comforting Christmas atmosphere that invites viewers to feel present and included in the celebrations.\n\nOverall, the director wants to convey classic Disney-style optimism and warmth. The throughline of Mickey capturing with his camera ties the personal, joyous experience of individual characters to the broader, magical holiday spirit. It's a celebration of friendship, family, community, and preserving precious moments (both the ones \"in the moment\" and those memory-makers to be relived later), all wrapped in Disney's signature blend of heartwarming emotion and visual delight.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 433,
+        "total_tokens": 3198
+      }
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "analyse_style": "The director employs several techniques to convey warmth, holiday cheer, and joy.\n\nThe framing is shot from a close, eye-level perspective, creating intimacy between Mickey and Pluto as they interact. This intimate composition pulls the viewer into their conversation and makes the audience feel like they're part of the celebration.\n\nThe lighting is bright and vibrant, with saturated colors throughout the scenes. The twinkling Christmas lights, candy cane patterns, and red-and-green festive clothing all contribute to a cheerful, magical atmosphere that captures the excitement and wonder of the holiday season.\n\nThe camera uses gentle movements and transitions, flowing smoothly between different space and pace. For example, when we move from the heartwarming exchange between Mickey and Pluto for the festive scenes, the camera maintains a cozy, static quality that reinforces the warmth of the moment. The shifting from Mickey SNOZZZing to him waking up breaks up the visual rhythm and adds contrast. The shift introduces movement and energy to the sequence. \n\nThe festive decorations serve as a constant visual reminder of the season's joy, creating an immersive holiday experience. The repeated elements like the garlands, candy canes, twinkling lights, and Christmas-themed clothing work cumulatively to create a cohesive, inviting mood.\n\nThe color palette is carefully chosen, with warm reds and greens against cool blues and whites, which evokes feelings of comfort, celebration, and holiday spirit. These warm colors are particularly effective in the bedroom scenes where Mickey sleeps.\n\nThe director clearly wants to evoke feelings of nostalgia, joy, and cozy festive warmth. The intimate moments between Mickey and Pluto, combined with the charming holiday decorations and vibrant atmosphere, are designed to make viewers feel joyous, heartwarming, and filled with the magic of Christmas time. The scenes are crafted to create a sense of celebration and connection to the season's traditions.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 369,
+        "total_tokens": 3134
+      }
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "analyse_style": "The director uses several cinematographic techniques to convey holiday cheer and the excitement of Christmas morning.\n\nThe split-screen framing during Goofy's gift scene creates a lively, multi-layered feel. At the same time, there are moments focusing on just a single character like Mickey or Goofy, which helps highlight their individual reactions and brings out their distinct personalities – from Mickey's initially surprised expression to Goofy's energetic flight across the gifts.\n\nThe deep focus shots of girl at a window, Mickey on his phone receiving a notification, and the characters lined up by the presents create depth while drawing attention to the central action. Close-up shots on characters' expressions (Mickey's ranges from excitement to confusion) allow the viewer to connect emotionally with what they're experiencing on Christmas morning.\n\nThe perspective shifts between different views – from inside the house to an outside nighttime shot of Santa – provide variety and keep the energy up. The use of bright, festive colors throughout (greens, pinks, reds, and whites) instantly evokes the cheerful mood of the holiday season.\n\nFinally, the silhouette of Santa entering through the window creates a magical, wintry atmosphere that emphasizes the wonder and specialness of the moment. Overall, the techniques work together to convey holiday warmth, the joyous surprise of Christmas presents, and the excitement of new experiences.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 270,
+        "total_tokens": 3035
+      }
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "analyse_style": "Looking at the cinematography and visual storytelling techniques used, the director appears to be creating a sense of mischief, surprise, and celebration.\n\nThe quick cuts between Mickey in the doorway and the dining room create a playful rhythm, building anticipation and keeping the viewer engaged. This editing style enhances the feeling of spontaneity and excitement as Mickey discovers his friends gathered with presents.\n\nThe framing draws close to Mickey's face as he reacts to being caught off guard, emphasizing his surprised expression with his furrowed brow. This tight close-up on his face conveys genuine astonishment and adds to the comedic timing of the moment.\n\nThe warm, cozy lighting throughout the scenes creates a sense of comfort and festivity, perfect for Christmas celebrations. The soft glow on Mickey's red shirt, the golden candlestick details on the table, and the soft wall tones all contribute to a warm, inviting atmosphere that evokes feelings of togetherness and holiday cheer.\n\nThe low-angle shots of Santa's sleigh projection add a magical, wonder-filled quality to the scene. Placing the sleigh silhouette slightly off-center creates visual interest and draws the eye across the frame, enhancing the magical quality of the holiday imagery.\n\nThe final composition brings all the characters together in a warm group image, eyes closed in reflective silhouettes. This technique creates a sense of unity and togetherness, suggesting shared memories and close friendships – emotions often associated with the holiday season.\n\nOverall, the cinematographic choices work together to convey warmth, joy, surprise, and the wonder of Christmas – emotions central to this holiday narrative.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 319,
+        "total_tokens": 3084
+      }
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "analyse_style": "The director uses several striking cinematographic techniques to capture the emotional journey and chaos of this Christmas morning. \n\n**Montage and Time-Lapse**: The film employs rapid cuts and a sped-up montage sequence to show the rapid unraveling of events. This technique conveys a sense of frantic, overwhelming energy—the way Christmas morning can suddenly shift from excitement to bustled activity in an instant.\n\n**Close-Ups and Charisma Focus**: The camera frequently lingers in intimate close-ups on individual character faces, particularly focusing on Mickey's eyes and features. This technique creates a personal connection with the audience, making us feel intimately drawn into his internal reactions—his initial excitement gives way to growing concern and doubts when everything starts to feel off.\n\n**Symbolism**: There's a deliberate lingering on specific symbolic elements - the red-buyer Christmas card with numbered sections and the menacing presence of Santa's shadow. These are held on screen longer than other elements, using them as visual anchors to represent the darkness that creeps into the holiday spirit and the weight of expectations.\n\n**Contrast and Layering**: The warm, festive color palette with its saturated reds and greens is constantly contrasted with sharper, more somber colors in certain shots. There's also a technique of layering - Christmas glow against concerned expressions, and joyful decorations against anxious undertones. This layered approach visually reinforces the internal conflict between celebration and anxiety.\n\n**Disorientation**: In the frantic final sequence where the whole gang reacts with eyes mainly closed, there's a deliberate use of low-resolution video effects combined with wide-angle shots. This creates a dazed, overwhelmed feeling in the viewer, mimicking the characters' state of mind when they all suddenly grasp that something is profoundly wrong with this Christmas morning.\n\nThe overall emotional arc conveyed moves from the typical Christmas morning joy, through escalating worry and confusion, finally culminating in stunned disbelief and disturbance. The director seems to be capturing the moment when holiday magic, rather than bringing warmth, instead reveals deeper fears or uncomfortable truths - turning a day meant for celebration into a nightmarish reminder of what really matters during these times.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 425,
+        "total_tokens": 3190
+      }
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "analyse_style": "The cinematographic techniques in this video work together to evoke a sense of worry, confusion, and subtle sadness in Mickey Mouse's character. The opening close-up shot captures Mickey lying in bed with Christmas decorations lit around him, creating an intimate, melancholic mood. The nighttime setting is emphasized through the decorations outside the window, adding to the feeling of missing out on the festivities.\n\nA clincher shot from above reinforces Mickey's small, isolated position in his decorated bed, highlighting his emotional distance. The establishing shots of the festive surroundings—Christmas wreaths, garlands with gold ornaments, and decorated trees—create stark contrasts with Mickey's downbeat demeanor, emphasizing loneliness amid celebration.\n\nThe colorful palette throughout the scenes juxtaposes cheerfulness with Mickey's somber expression, amplifying the visual tension. When Mickey reappears later holding the calendar covering his eyes and gesturing confusingly, the techniques shift to convey bewilderment and perhaps a touch of paranoia or anxiety about the day ending. The wide shot showing the entire group of friends laughing and joyfully carrying wrapped presents contrasts sharply with Mickey's troubled behavior, completing the emotional arc from quiet loneliness to genuine distress.\n\nOverall, the director uses composition, lighting, and contrast between festive imagery and Mickey's subdued reactions to build a poignant narrative about feeling excluded or overwhelmed during Christmas celebrations.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 266,
+        "total_tokens": 3031
+      }
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "analyse_style": "The film uses several key cinematographic techniques to create a warm, festive Christmas atmosphere and convey specific emotions.\n\nThe camera alternates between wide establishing shots that show the full holiday environment—the decorated room with velvet garlands, stockings, garland-wrapped door, and the calendar marked \"25\" beneath its wreath—while also cutting to closer shots of the characters. This framing technique both immerses viewers in the setting and focuses attention on the important interactions between Mickey, Minnie, Daisy, and Donald.\n\nThe color grading is particularly effective, using rich reds, greens, and golds to evoke the warmth and tradition of Christmas celebrations. The consistent holiday lighting, including sunlight streaming through the window and the glow from the garlands, creates a soft, friendly mood that contrasts with Mickey's early apprehension.\n\nIn the emotional moments, the director uses tighter, more intimate framing when Mickey is speaking to the camera. His hand gestures become more deliberate and expressive as he raises his hand, which draws the viewer's eye and emphasizes his sincerity. The quick cuts between Mickey's reactions and Donald's amused surprise heighten the comedic timing while maintaining the lighthearted Christmas spirit.\n\nThe overall pacing balances these techniques to convey warmth and tradition. The intimate shots paired with the festive setting make viewers feel personally involved in the holiday celebration. The Director (or the animators/story team if this is animated) seems to want to evoke feelings of nostalgia, joy, and the simple anticipation of gift-giving, while also maintaining playful humor through Mickey's initial worry and subsequent relief.\n\nThe camera work, lighting, and editing all work together to create a charming, traditional Christmas experience that feels both sentimental and fun.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 343,
+        "total_tokens": 3108
+      }
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "analyse_style": "The lighting is soft and warm with bright natural light flooding in through the wooden doors, creating an inviting, welcoming atmosphere that feels cheerful rather than dramatic or exaggerated.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 33,
+        "total_tokens": 2798
+      }
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "analyse_style": "Director is carefully crafting warm, festive emotions through a series of tightly composed, symmetrical shots that create intimacy. The camera stations pets for Christmas close-ups on the floor in front of presents, capturing their expressions of quiet focus and anticipation. Shots widen to show the decorated Christmas tree glowing with colorful ornaments, the green garland, fireplace with stockings, and Santa Claus figure, all bathed in warm holiday lighting. This creates a cozy, festive Christmas atmosphere.\n\nThe framing remains steady and composed, with symmetrical composition bringing the pets together as a unified group. Animation-style body language—Goofy's expressive eyes, Mickey's direct gazes, Minnie's thoughtful holds—delivers facial reactions that emphasize the surrounding natural beauty. By keeping all bars still and framing them against the décor, the warmth and unity of the gathering are highlighted, creating a feeling of natural, affectionate togetherness and holiday contentment.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 186,
+        "total_tokens": 2951
+      }
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "analyse_style": "The director employs several cinematographic techniques to create a warm, festive atmosphere and convey gentle holiday emotions. The key techniques include:\n\n**Static Wide Shots with Multiple Characters**\nThe opening reveals the entire cozy living room setting and Christmas decorations before cutting, allowing viewers to absorb the holiday ambiance. This wide framing emphasizes togetherness and the communal nature of the celebration.\n\n**Close-Up Character Moments**\nThere are intimate close-ups of Mickey Mouse looking at the camera, then at Minnie, and also a close-up between Minnie and Mickey. These tight framings direct attention to their expressions and gestures, highlighting the personal interactions and moments of connection between the characters.\n\n**Tracking the Action**\nThe camera follows Mickey as he moves from examining the camera to sitting on the couch and then standing, maintaining a fluid flow that keeps the action engaging without feeling rushed.\n\n**Seasonal Decor Framing**\nThe camera consistently frames Mickey within the beautifully decorated Christmas setting— garlands, ribbons, wreaths, and multi-colored lights in the background. This framing reinforces the holiday theme and creates a warm, festive emotional atmosphere.\n\n**Emotional Focus**\nThe director wants viewers to feel nostalgia, warmth, and the importance of friendship. Through these wide and close shots combined with the festively decorated environment, the emotions conveyed are cozy comfort, joyful celebration, and heartfelt connection between the characters during the Christmas season.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 277,
+        "total_tokens": 3042
+      }
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "analyse_style": "The scene employs several classic animation cinematographic techniques to create a warm, magical holiday atmosphere and convey feelings of wonder, surprise, and childlike joy.\n\nThe framing is designed to focus on intimate interactions - first showing Minnie and Mickey in close conversation around the festive setting, then moving to a wide shot of the entire townscape filled with colorful Christmas decorations. This alternation between close-ups and wide shots builds emotional depth, moving from personal to grand.\n\nThe director uses traditional Disney holiday storytelling elements: the interior Christmas setting with a decorated tree, wreath, and gifts creates a cozy foreground, while the beautiful winter wonderland with stars, snow, and a bright yellow star on top of a mountain expands the pastoral dream. The use of such iconic imagery conveys a sense of tradition and shared holiday magic.\n\nThe lighting is soft and warm, particularly in the interior scenes, while the exterior reveals cool blues and whites of a winter night sky with twinkling stars. This color palette reinforces the Christmas spirit and creates visual comfort.\n\nThe shot following the wide festive view, where Mickey and Minnie appear running together in excitement from the town square, adds dynamic movement and conveys happiness and eagerness. This action shot, followed by the close-up of Mickey examining the coin, creates a sense of anticipation and curiosity as the story builds to its magical reveal.\n\nThe choice of a metal coin with a star cutout for the magical reveal is a classic storytelling device, allowing the audience to connect emotionally with the simple \"wonder-object\" concept that's fundamental to holiday magic. The camera work on this reveal likely includes a close-up as Mickey examines it and another close-up as the star cutout produces its transformation.\n\nOverall, these techniques work together to create an atmosphere of warmth, joy, and enchantment typical of Disney holiday films, aiming to evoke feelings of nostalgia, excitement, and the magic of Christmas wonder that resonates with viewers of all ages.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 389,
+        "total_tokens": 3154
+      }
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "analyse_style": "The cinematography in this holiday scene employs several key techniques to create warmth, celebration, and sparkle.\n\nThe camera work blends smooth tracking movements with wide establishing shots that reveal the full festive village, then tightens into meaningful close-ups that focus on character expressions and interactions. This creates a rhythm between the grand scale of the holiday setting and the personal connections between characters.\n\nThe editing emphasizes key moments through technique: \n\n- **Stylized moments**: The fox character completely whisks his head around in a exaggerated, comedic motion, all while maintaining a cartoonish pacing that keeps the energy light and cheerful. This moment, paired with his brief winking at Mickey, injects personality and adds a playful dynamic to their relationship.\n\n- **Warm framing**: Characters are often kept in the center of the frame with soft shadows beneath them, suggesting captured moments rather than staged poses. This approach creates a cozy, intimate feeling despite the outdoor winter setting.\n\n- **Emotional peaks**: The close-up of Mickey after giving the star coin to the fox is highlighted, moving from the initial shock to surprise and delight, then ultimately to triumph. This moment is presented as the emotional climax, with everyone in soft, reunited focus behind them.\n\nThe color palette plays a crucial role. Rich, saturated blues and greens create a magical winter atmosphere, while the red of Mickey's shirt and scarves provides warmth and energy. The golden star coin adds a symbolic element—highlighted at the end as it floats away—serving as both a visual anchor and a metaphor for precious moments or gifts exchanged.\n\nThe overall technique conveys joy, celebration, and a sense of festivity. The Christmas lights, Village background, and character interactions all work together to create an atmosphere of warmth and holiday spirit. The fox's exaggerated head movement, paired with his celebratory embrace of Mickey, suggests he feels particularly proud or excited about the gift exchange.\n\nThe final cut to the gold coin flying away adds a touch of whimsy and magic, reinforcing the cartoon's fantastical elements while maintaining the heartwarming tone. Overall, the director seems to want to evoke feelings of Christmas cheer, friendship, and the simple joy of giving.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 437,
+        "total_tokens": 3202
+      }
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "analyse_style": "The video employs several cinematic techniques to create a warm festive atmosphere and evoke feelings of wonder, joy, and awe:\n\n**Visual Composition:**\nThe camera work establishes a magical winter wonderland setting. Wide establishing shots reveal the full festive panorama - the star-shaped medallion nestled on the snowy hill, the winding railroad track curving through the landscape, and the cluster of snow-covered houses and Christmas lights creating a cozy village feel. This composition builds a sense of discovery and invitation for the audience to immerse themselves in this holiday world.\n\n**Lighting and Color:**\nRich, saturated colors dominate the scene - the deep reds of Santa's sled, the golden shimmer of the star medallion and its light beams, and the blue of the tracks against the white snow. Soft, warm lighting from the Christmas lights and star creates an enchanting glow rather than harsh, cold tones typical of winter scenes. This carefully controlled lighting evokes feelings of warmth and cheer amidst the snowy landscape.\n\n**Scale and Perspective:**\nThe small star medallion against the vast winter landscape initially creates a sense of mystery and importance. When the camera pulls back to reveal the entire scene - including Santa approaching with his colorful train through this frosty terrain - it expands the emotional scope from something intimate to something grand and festive.\n\n**Motion and Energy:**\nThe swooping curves of the train track, combined with Santa's cheerful red sleigh moving through the scene, injects a sense of adventure and excitement. The shooting star streaking across the sky towards the train adds a magical, movement element that suggests a moment of significance or even celebration.\n\n**Visual Harmony:**\nThe detailed, cohesive winter-world aesthetic - from the snow-covered trees to the Christmas tree designs on characters' clothing - creates overall harmony that makes viewers feel comfortable and enveloped in this holiday fantasy rather than separate from it.\n\n**Emotion Conveyed:**\nThe director aims to inspire feelings of:\n- Wonder and magic, particularly through the star medallion and shooting star\n- Joy and excitement, especially with Santa and the festive scene\n- Warmth amidst the cold environment\n- Nostalgic holiday cheer\n- Childhood wonder and imagination\n\nThe entire presentation is uplifting and designed to stir positive, holiday-appropriate emotions in the viewer, creating an inviting and celebratory atmosphere without being overtly sentimental.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 475,
+        "total_tokens": 3240
+      }
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "analyse_style": "The cinematography creates a warm and magical holiday atmosphere through several distinctive techniques:\n\n**Composition and Framing**\nThe shots use wide establishing frames at first to showcase the entire Christmas decorating process, letting viewers take in the full scope of work. This establishes the scale of the holiday effort and the neighborhood-wide participation in the celebrations. The camera then moves to closer shots that focus on specific details—the house's roofline, Mickey's expressive face, and Minnie's engaged gesture—creating intimacy and emphasizing individual contributions.\n\n**Lighting and Color**\nSoft, warm amber and yellow glows are used throughout, especially for the Christmas lights and roof windows. This creates a cozy, inviting feeling that contrasts beautifully with the crisp blue-gray winter sky. The use of rosy tones where Mickey and Minnie look directly at the viewer helps create emotional connection and warmth.\n\n**Perspective Shifts**\nStarting with wide shots of the town and houses, then cutting to cinematic close-ups of the two main characters, the director guides the viewer's attention and builds narrative interest. This progression from environmental to character emphasizes both the dedication required for the collective effort and the personal investment from Mickey and Minnie.\n\n**.Animation Style**\nThe 3D-rendered, slightly cartoonish aesthetic enhances the feeling of an animated holiday story designed for family viewing. The exaggerated features and expressive movements allow the characters' emotions to be conveyed clearly and effectively.\n\n**Emotional Tone**\nThe director aims to convey:\n- **Community spirit and togetherness** through the collaborative decorating effort\n- **Excitement and enthusiasm** for holiday traditions and the work that goes into them\n- **Warmth and comfort** through the soft lighting and cozy visual palette\n- **Appreciation** through Mickey's shy, appreciative expression and Minnie's joyful reaction\n- **Festivity and celebration** through the vibrant holiday decorations and lively atmosphere\n\nBy combining these visual elements, the Director communicates a heartwarming message about the joy, connection, and meaning that comes from sharing holiday traditions together.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 411,
+        "total_tokens": 3176
+      }
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "analyse_style": "The cinematography in this scene employs several techniques to create warmth, playfulness, and wonder. The camera work uses gentle panning between characters, creating a sense of group camaraderie and communal celebration. Slow, deliberate movements allow viewers to absorb the festive details of the characters' clothing and the snowy winter setting.\n\nThe framing is intimate and character-focused, often positioning Mickey and Minnie centrally but in natural, energized poses rather than formal compositions. This intimate framing makes the cheerful holiday gathering feel personal and inviting.\n\nThe visual language emphasizes contrast and pops of color. The deep blue and purple tones of the background walls create a cozy, enveloping atmosphere, while the bright purple jumpsuits worn by many characters (Minnie, Daisy, Goofy) inject energy and festivity into the scene. The gold sparkles on the sleigh and the warm glow they create add magical qualities, reinforcing the wonder of the holiday spirit.\n\nThe camera also makes effective use of movement. Characters are shown dancing, waving their arms, and gesturing expressively—these dynamic motions are captured with fluid camera tracking to maintain energy without losing clarity. The movement is joyful and celebratory rather than frenetic.\n\nOverall, the director seems aiming to convey warmth, unity, and the magic of holiday gatherings. The cinematography creates a sense of comfort and togetherness, while also infusing the scene with a spark of enchantment that makes the winter night feel special and full of possibility. The techniques work together to make viewers feel like they're part of this festive Disney celebration, experiencing the characters' excitement about Christmas and the simple joy of being together.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 329,
+        "total_tokens": 3094
+      }
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "analyse_style": "The director employs several cinematographic techniques to create a sense of magic and wonder in this scene.\n\nThe use of rising stars and sparkles, particularly when Minnie opens the storybook, is a classic technique to signal magical interaction. The golden swirls emanating from the book pages and tracing along the snow-covered roofs emphasize the idea that what we're seeing is special and enchanted.\n\nThe visual transitions between scenes play a crucial role. When the imagery on the book cover fades and the scene shifts outdoors, this fluid cross-cutting style maintains the dreamy, magical quality while also grounding the story in Minnie's small, wintry world.\n\nThe framing choices further reinforce the magical tone. The immersive point-of-view shots, especially when we see the sparkles in Minnie's hands, draw viewers into her experience. The bright, contrasting colors of the Christmas-themed characters against the snowy white village backdrop use high contrast to make these magical moments pop visually.\n\nThe use of white gloves on the characters creates a slightly whimsical, otherworldly quality that complements the magical theme. The glowing, star-like particles floating around and twinkling as they look at various Christmas figures help to establish a festive, enchanted atmosphere.\n\nThe director aims to convey wonder and a sense of magical realism. There's an undercurrent of curiosity and excitement about the world behind the book's magic. The children's gestures – Minnie holding the book close, Mickey tilting his head, and particularly the wolf character with its hands raised – all suggest a mix of fascination and slight confusion as they encounter these magical creatures emerging from the storybook.\n\nThis overall approach creates a feeling of childlike excitement and enchantment, inviting viewers to share in Minnie's magical discovery while maintaining a sense of cozy, winter wonderland fantasy.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 359,
+        "total_tokens": 3124
+      }
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "analyse_style": "The main cinematographic techniques used are dynamic camera movements, shot composition, changing angles, and visual focus.\n\n**Opening shot**: This wide two-shot establishes spatial relationship and creates intimacy between Mickey and Minnie\n\n**Camera angles**: Flattens the space and emphasizes their connection - both looking at each other, creating confrontation or tender moment depending on context\n\n**Shots that follow**: Continued shot composition creates intimacy of dialogue with close framing, but then breaks it when introducing new character\n\n**Cut from close-up to wider shot**: Adds energy to reveal the surprise element in the cutaway gag, keeping viewer engaged\n\n**Color palette**: Cool bluish-purple lighting creates a calm, mysterious mood\n\n**Focus on faces**: Intimates seriousness of conversation\n\n**Emotions conveyed**: \nThe director wants to convey seriousness mixed with surprise or shock. Minnie's expressive gestures and energetic delivery suggest she's excited or earnest about explaining something important. Mickey's tense posture and surprised expression indicate he's taken aback or concerned.\n\nThe changing focus from Mickey to Goofy adds a feeling of urgency or mounting realization, building comic tension around Mickey's predicament. The\".\n\nOverall, the director creates a blend of intimacy and tension, with moments of surprise that heighten the dramatic interaction between the characters.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 258,
+        "total_tokens": 3023
+      }
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "analyse_style": "The director uses several cinematographic techniques to convey deep emotional distress and confusion, followed by awe and intrigue.\n\n**Visual composition and framing create a sense of heaviness:**\nThe characters are positioned close to the camera in multiple shots, which intensifies the emotional weight of their distress. The medium close-ups allow viewers to see all the tiny details in their facial expressions and body language, making the emotions feel more immediate and visceral.\n\n**Lighting and warm/hopeful color:**\nSoft, carefully directed lighting with warm tones, particularly purple hues, creates an intimate atmosphere. This contrasts beautifully with the blue color palette of the surroundings, suggesting a mixture of melancholy and something almost magical or surreal about the situation.\n\n**Body language and movement convey confusion and disorientation:**\nMany characters are shown with their hands on their heads, a universal gesture when someone is overwhelmed or troubled. Their eyes are sometimes drawn wide open, and their expressions shift to worried or sudden concern, effectively communicating confusion and anxiety about their circumstances.\n\n**Extreme emotional reactions:**\nThe exaggerated nature of cartoon character expressions is particularly impactful. Donald's arm is extended outwards as if bracing for something, while Pluto's face shows distress with downcast eyes. These highly visible reactions push the emotional intensity to maximize viewer empathy.\n\n**Purposeful camera movement and framing:**\nThe camera sometimes moves closer to individuals, isolating them and focusing attention on their emotional state. This technique creates visual breathing room and allows the audience to fully connect with each character's feelings.\n\n**Intertwined feelings of being lost vs. magical realism:**\nThroughout, there's an underlying theme of bewilderment mixed with wonder. The soft, controlled image quality and those purple-blue tones give the sequence a slightly dreamlike quality, as if the characters are experiencing something both confusing and beautiful.\n\nThe overall effect is a delicate balance between fear, confusion, and a sense that there's something extraordinary happening. It's an emotional mosaic that keeps viewers engaged and invested in both the characters' distress and the possibility of what might resolve their situation.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 416,
+        "total_tokens": 3181
+      }
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "analyse_style": "The video employs several cinematic techniques that work together to create a palpable warmth and cozy atmosphere while conveying a sense of celebration and familial connection.\n\n**Lighting and Color Palette:** The soft, warm lighting combined with the gentle blue hour tones creates a mood of comfort and intimacy. The glowing light in the right window provides a welcoming beacon that draws the eye and invites viewers into the emotional space.\n\n**compositional elements:** The central placement of Mickey as the emotional anchor figure guides the viewer's attention. In the dance scene, the delicate snow dusting details and the subtle yellow sparkles create magical superficial beauty.\n\n**Editing Techniques:** The editing creates a seamless flow between Mickey's narrative progression, establishing a gentle rhythm that reinforces the emotional momentum.\n\nThe director clearly aims to convey joy, celebration, connection, and childlike wonder.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 166,
+        "total_tokens": 2931
+      }
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "analyse_style": "The cinematography employs several techniques to create a mood of concern and endearing on-screen chemistry:\n\n**Close-up framing** anchors the personal moments, particularly when centering Mickey's face as he holds his head with worry during the snowy scene. This intimate shot allows viewers to focus on his distressed emotion and makes his vulnerabilities the center of attention.\n\n**Establishing shots** provide context and world-building, first showing the wintry landscape with its castle, snow-covered roofs, and icicle decorations. These wider views immediately create atmosphere and establish the Disney universe's charm.\n\n**Lighting choices** use the dramatic winter conditions to reinforce the tone. The bluish-white night sky casts a cool glow across the snowy landscapes, while inner warm lights from buildings, like the castle windows, create pockets of comfort. This contrast emphasizes the characters' emotional warmth and connection.\n\n**Color palette** plays a crucial role through its limited yet effective scheme. The deep blues and whites of the snowy night make the characters' pink faces, brown fur, and purple attire stand out vividly. This visual harmony reinforces their shared presence in this whimsical world.\n\n**Character positioning** is used thoughtfully. First featuring Mickey alone in a close-up, then showing him alongside Minnie with the two framed together against the snowy landscape, creates a progression from individual distress to a sense of companionship and reassurance.\n\nThe overall montage seems designed to evoke warmth, comfort, and a sense of belonging. The winter setting introduces its own challenges and isolation, while the repeated shots of Mickey and Minnie together convey a comforting counterpoint - their presence providing emotional support that transcends the cold environment. The final wide shot with all three characters looking at each other ties the ensemble together, emphasizing community and shared warmth in the cold night.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 358,
+        "total_tokens": 3123
+      }
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "analyse_style": "The film utilizes several cinematic techniques to create a calm yet celebratory atmosphere:\n\nThe steady camera work establishes a sense of warmth and intimacy during the outdoor gathering. Slow, deliberate movements around the group emphasize their connection and the festive mood of the scene. This static approach grounds the moment in the details—the snow on the roof, the glowing windows, and the natural light around them—creating a familiar, inviting feeling rather than something staged or artificial.\n\nThe nighttime outdoor setting with soft, warm lighting from the house behind provides a cozy contrast to the crisp blue snow outside, which visually reinforces the winter wonderland feeling. The lighting and color palette work together to establish mood and time of day, enhancing the storybook quality of the scene.\n\nThe positioning of the characters—with Goofy as the focal point and the two small ducklings flanking him—creates a balanced composition that visually emphasizes Goofy's leadership role in the family dynamic while also showcasing the inclusion of the younger ducks.\n\nAs the scene widens to reveal all the family members together, it shifts to a ceremonial feel. The camera movement becomes more dynamic and purposeful, drawing attention to the family as a whole unit. This transition marks a celebration, with Mickey and Minnie mentioning they're welcoming guests, which adds a sense of importance and joy. The sparkles and glitter flying through the air further emphasize this magical, festive moment.\n\nOverall, the director seems to be conveying warmth, togetherness, and celebration. The cinematography builds a cozy, intimate atmosphere first, then expands to show the broader joy of family gatherings and introducing new friends. The techniques work together to create a heartwarming, magical winter night that feels both personal and universally cherished.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 345,
+        "total_tokens": 3110
+      }
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "analyse_style": "The cinematography uses several techniques to create a whimsical, magical winter mood while maintaining a playful energy throughout the scene.\n\n**Lighting and Atmosphere:**\nThe deep purple sky above the snow-covered town establishes a dreamlike, enchanting quality. The warm yellow lights glowing from house windows provide cozy points of light that contrast beautifully against the cold, dark blue sky. This lighting creates a sense of comfort and surprise as the characters are suddenly enveloped in falling snow.\n\n**Visual Color Design:**\nThe pink and purple tones in Minnie's clothing work beautifully with the winter palette, allowing her to stand out in a magical yet approachable way. The snowflakes drifting down, which Goofy playfully catches, add a gentle, tender touch to the overall festive atmosphere.\n\n**Camera Movement and Integration:**\nThe camera's shifting perspective—from showing clusters of characters together, to pushing in on Goofy's surprised reaction, to zooming between Minnie, Mickey, and pulling out to reveal the full cityscape—creates rhythm and maintains interest. This fluid movement keeps the energy of celebration alive while showing both intimate glances and broader magical moments.\n\n**Editing Techniques:**\nThe cut from Goofy's shocked expression to Mickey discovering the drifting snow part establishes a cause-and-effect flow that guides the audience through the magical reveal. The circular ending shot of Mickey smiling contentedly at the city plays on warmth and satisfaction, suggesting the moment filled participants with genuine joy.\n\n**Emotional Impact:**\nThe director wanted to convey childlike wonder, joy, and warmth. The scene taps into three main emotional threads:\n\n1. **Childlike Surprise/Admiration** – Goofy's initial shocked grille-of-mうitigacity captures pure, unfiltered amazement at the magical snowfall.\n\n2. **Too-Good-To-Be-True Festivity** – The way everyone comes together as the snow snaps into existence creates a sense of communal celebration and nostalgia.\n\n3. **Peace and Contentment** – The closing shot of Mickey experiencing this magical moment peacefully highlights the emotional payoff - a quiet moment of joy and appreciation.\n\nThe techniques work together to create a heartwarming scene that feels both magical and genuinely touching, capturing that classic Disney quality of turning a simple winter wonder into a celebration of friendship and awe.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 469,
+        "total_tokens": 3234
+      }
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "analyse_style": "The director employs several cinematic techniques to create a sense of warmth, magic, and wonder, using composition, lighting, color grading, sound effects, and camera movement to convey specific emotions:\n\n**Composition and perspective:**\nThe shot is tightly framed on Minnie Mouse, using a medium close-up that gives her a central, star-like quality against the dark backdrop. This isolation technique draws the viewer into her experience, building intimacy and focus on her character.\n\n**Lighting and color grading:**\nMagic sparkles appear around her, creating a luminous halo effect that emphasizes her central position. The night sky filled with twinkling star-like lights extends warmer yellow sparks downward, designing a magical atmosphere. The use of glowing lights and starlight creates a dreamy, enchanted quality.\n\n**Sound design:**\nWhimsical, dreamy music typical of Disney films plays in the background, enhancing the magical and cheerful holiday mood. The sparkles likely have subtle particle sound or sparkling SFX to reinforce the magical quality.\n\n**Symbolic framing:**\nBy positioning Minnie as the main reference while other characters gather around her in the background, the filmmakers create a sense of celebration and importance, as if she were highlighted for the festival or event taking place.\n\n**Camera movement:**\nSlow, affectionate camera work when panning across to show the surrounding group character builds connection and emotional warmth. The cherry blossom petals drifting across the frame add softness and enhance the romantic, special-occasion atmosphere.\n\n**Emotion conveyed:**\nThe overall mood is one of celebration, warmth, and enchantment. The technique focuses on creating a feeling of magic and wonder, making viewers experience the character's special moment through their perspective. The warm colors, soft lighting, dreamy score, and surrounding characters evoke feelings of joy, warmth, and holiday cheer. This composition transforms an ordinary moment into something magical and memorable, inviting the audience to share in the significance of the scene and the character's experience.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 395,
+        "total_tokens": 3160
+      }
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "analyse_style": "The director uses several visual techniques to create a warm, festive atmosphere:\n\n**Cinematography:**\n\nThe camera is wide and stationary, establishing the winter setting with the covered houses and snowy landscape. This static composition allows the viewer to take in the holiday tableau fully. The framing places the animal friends in the center, creating an intimate, storybook quality reminiscent of old Disney animated shorts.\n\nThe use of an extreme close-up on Minnie's face captures her expression in fine detail, showing her genuine.)\n\nBetween these, the camera pans more broadly to reveal how every character contributes to the communal celebration. This wide shot gives a sense of unity and togetherness, underscoring that it's not just about one star, but an entire community coming together.\n\nThe movement of the camera from the close-up to the wide shot mirrors the emotional journey – moving from the warmth of a personal moment to the collective joy of the gathering. The snowy background, falling snowflakes, and golden stars provide a dreamy, magical quality that elevates the scene beyond ordinary holiday merriment.\n\nThe director wanted to convey joy, warmth, and the special feeling of togetherness that comes from love. The intimate close-up of Minnie touching her chest suggests a deep sense of affection, possibly for Mickey or for the holiday itself. \n\nIn the group shot, showing every character - Mickey, Minnie, Donald, Daisy, Goofy, and Pluto - together creates an atmosphere of familial love and community. The director is asking the viewer to care for these characters like family members, sharing in their wonder at seeing shooting stars and preparing for the holiday together.\n\nThe overall effect is heartwarming and nostalgic. The camera work moves from personal emotion to collective celebration, telling a story that love and togetherness are what make holidays special.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 371,
+        "total_tokens": 3136
+      }
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "analyse_style": "The director employs a warm, inviting wintery cinematic palette with soft purples and blues, soft-sided lighting, and smooth panning shots to create a cozy holiday atmosphere.  A large stunt firework launches into the sky, leaving burning embers to drift gently downwards through the persistent breeze over the snow-blanketed town.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 68,
+        "total_tokens": 2833
+      }
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "analyse_style": "The director employs several cinematic techniques that intertwine to paper Migration Poem with a feeling of wonder, nostalgia, and emotional patience.\n\n**Work with vistas where several characters appear at once in a crisp aerial perspective, creating a sense of anticipation**\n\nThere is a particular moment where the focus shifts to the group of characters—the central Mickey Mouse, Minnie Mouse, Donald Duck, Pluto, and another unidentified character. The camera presents them together in what appears to be a group shot, but the framing reveals the soft layering in the composition.\n\nThe aerial view and precise camera position create this feeling: the lens captures all of them simultaneously, but through a composition that suggests a conversational or contemplative moment. Mickey's hands are prominently featured holding a shiny gold medallion with a blue star at its center, which becomes the focal point of this gathering. This framing choice draws the viewer's eye immediately to the object, suggesting its symbolic importance to the group.\n\nThe way each character is positioned conveys a sense of unity and shared purpose—everyone is part of something greater, and the golden medallion represents that connection. The cinematic angle emphasizes their collective intent rather than isolating individual expressions.\n\nThe flowing, swirls of golden light surrounding us all introduces a dreamy quality, creating a sense of magical possibility. This visual element bridges the present with the memories it represents, reinforcing the theme of carrying history forward. The way the light moves seems both gentle and expansive, suggesting reminiscence but also hope for the future.\n\nAll of these techniques work together to convey deep emotion: nostalgia for the past, a sense of gravitas about the journey home, and community spirit. It's a paper Migration Poem that honors tradition while reinforcing the bond between characters through shared purpose and respectful contemplation of memory.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 361,
+        "total_tokens": 3126
+      }
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "analyse_style": "In this video, the director employs several cinematographic techniques to evoke warmth, celebration, and the magic of winter.\n\n**Camera Movement and Composition**\n\nThe camera reveals the story through various movements that create a cinematic experience:\n- A wide establishing shot picks up the group's formation as a cohesive unit\n- Tracking shots follow the ensemble as they skate, gliding across the scene to give a sense of motion and unity\n- Dynamic pans accompany twirls and flight sequences, guiding the viewer through each action\n\n**angled perspectives:** Eye-level shots and slight overhead angles make the characters appear as we would from the sidelines, emphasizing their interactions.\n\n**Lighting and Visual Effects**\n\nThe lighting establishes both atmosphere and mood:\n- A cool, soft blue palette illuminates the winter world, but warm golden fingertips create magical sparkles\n- Trailing, glittering trails follow each queued character during their movement, turning simple actions into visual poetry\n- Golden and silver elements (arcs, arch, glittering trails) create a sense of festivity and enchantment\n- The sweep of starry light over the landscape adds a dreamlike quality\n\n**Danish Shot and Post-Processing**\n\n- Final shot after movement incorporates a star-dust sweep pass to reinforce the magical, winter fairytale atmosphere\n\n**Editing**\n\n- The editing links each character's movement together, emphasizing their collective performance and unity\n\nThe **emotional core** the director seeks to convey is wonder, joy, and community celebration.\n\nSeveral visual elements reinforce this:\n- The slow, measured skating builds anticipation and celebration\n- The perfectly framed arc in the center creates a sense of grand finale and accomplishment\n- The slow-motion sparkles at the end exaggerate the magical quality, turning the everyday movement into something special\n- The wide final shots sweeping from foreground to background capture the grand scale of the celebration\n\nThe director aims to make viewers feel a sense of warmth, togetherness, and holiday magic. The golden lighting and sparkles suggest hope and festivity, while the blue winter tones ground it in reality—it's the pure joy of performing for others, of sharing a moment of happiness with friends. The choreographed joining of hands with each guest emphasizes unity and acceptance, suggesting the central theme of gathering with loved ones during the holidays.\n\nOverall, the camera work and editing create the feeling of watching a cherished holiday performance—something both personal and magical, inviting viewers to feel the same sense of wonder and joy that these iconic Disney characters are clearly experiencing.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 506,
+        "total_tokens": 3271
+      }
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "analyse_style": "The cinematography creates a warm, nostalgic celebration of childhood wonder and holiday magic. Close framing on character interactions intensifies emotional connection, while the snow-covered village and towering Christmas tree serve as a grand, festive backdrop that emphasizes the story's sense of community.\n\nThe Santa hat moment is particularly impactful, with perspective positioning and intimacy drawing viewers into the celebration. Twilight lighting accentuates the magical atmosphere, evoking awe and charm.\n\nThe end shifts to a personal, reflective tone, using a framed photograph to suggest cherished memories and the warmth of sharing these experiences. Parallel white-gloved hands drifting through snow symbolize fragility and fleeting moments, adding a touch of contemplative beauty.\n\nThe director aims to convey joy, togetherness, and the enduring magic of holiday traditions—emotions that resonate with celebration and lasting sentimental value.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 167,
+        "total_tokens": 2932
+      }
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "analyse_style": "The director employs several cinematographic techniques to create a warm, magical holiday atmosphere and convey specific emotions:\n\n**Warmth and Color Palette**\nThe palette is saturated with festive reds, greens, purples, blues, and golds. This cozy, glowing color scheme evokes feelings of warmth, comfort, and the joy associated with Christmas celebrations. The use of twinkling lights on trees, gifts, and the Northern Lights creates a sense of wonder and enchantment.\n\n**Wide, Open Scapes**\nWide establishing shots of the Christmas village with its nutcracker train, decorated houses, and snowy setting establish a communal, shared sense of holiday magic. This invites viewers to feel part of a larger festive celebration.\n\n**Close-up Detail Work**\nThe director zooms in on details like the vintage train with its gold star emblem, the fox girl's jeweled outfit with its bright gold tones, and Goofy's Christmas sweater with its candy cane symbols. These close-ups highlight the craftsmanship and attention to festive detail, emphasizing the opening's message that Christmas is all about special moments and gifts.\n\n**Character Arrangements**\nThe intentionally framed group shots place Mickey, Minnie, and Goofy together with the fox girl, suggesting companionship and togetherness. The progression from a 3D animated intro to the live-action 2D style works poetically to bridge reality and imagination, making the wintry wonder feel both immediate and timeless.\n\n**Snowy Texture and Lighting**\nThe soft, dreamy lighting, particularly the Northern Lights reflection and snow-covered buildings, creates a feeling of serenity, magic, and the nostalgic \"back-in-time\" quality of holiday memories. The snow texture adds a physical presence to the magical atmosphere.\n\nOverall, these techniques work together to convey warmth, wonder, and nostalgia—emotions that the holiday season traditionally evokes. The visual progression from animated intro to live-action creates a sense of story unfolding, suggesting that this magical Christmas morning is a dream shared across eras and realities. The Director wanted to inspire viewers to feel hope, joy, and the simple beauty of holiday togetherness, making you believe that Christmas magic truly does exist for everyone.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 443,
+        "total_tokens": 3208
+      }
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "analyse_style": "The scene employs several cinema techniques to create a warm, celebratory holiday atmosphere and convey feelings of camaraderie, resourcefulness, and the magic of Christmas.\n\nThe cinematography uses beautiful symmetry and framing to establish the joyful winter setting - houses with lights appear on both sides of the frame, creating a balanced, festive environment. This framing emphasizes the community spirit and the holiday cheer.\n\nThe pacing is intentionally slow and deliberate, giving viewers time to absorb the details of the Christmas decorations - snow-covered rooftops, garlands, mistletoe - which helps evoke nostalgia and the feeling of stepping into a magical world. This pacing creates a sense of wonder and anticipation.\n\nThe lighting design is carefully crafted to enhance the holiday mood. Soft, warm glows from the lit windows contrast beautifully with the cool whites and blues of the snow, creating an inviting, cozy atmosphere reminiscent of holiday gatherings. This lighting technique reinforces feelings of comfort and warmth.\n\nThe director uses specific camera angles to emphasize playfulness and connection. In one shot, Mickey is shown from a side angle looking upward at Minnie, who is pointing above him, creating a sense of lightness and joy in their interaction. This composition draws attention to their relationship and the carefree nature of their holiday activities.\n\nCharacter movements and positioning also contribute to conveying emotion. Mickey's act of searching through his pockets before jumping up to find the monkey wrench, followed by the cut to Minnie joining in the search with her own item, demonstrates teamwork and problem-solving. The upward camera pan to Minnie during this sequence creates a sense of rising excitement and momentum.\n\nThe soft focus on faces and the gentle, slightly elevated angle throughout the scene enhances the dreamlike quality, making the entire atmosphere feel magical and pure. This technique, combined with the characters' warm smiles and demeanor, successfully evokes feelings of holiday spirit, cooperation, and the simple joys of giving.\n\nOverall, the cinematography works together to create a mood of festive warmth, community, and lighthearted adventure, capturing the essence of holidays spent with loved ones and the excitement of holiday preparations.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 422,
+        "total_tokens": 3187
+      }
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "analyse_style": "The video employs several cinematic techniques to create a magical, whimsical winter wonderland atmosphere. \n\n**Visual Composition:**\nThe shots use wide framing to capture the entire snow-covered village, establishing scale and wonder. The characters appear small against the vast wintry landscape, which emphasizes the fantastical quality of the setting. The Christmas tree glows with colorful lights against the deep blue night sky, creating a festive yet serene ambiance.\n\n**Lighting and Color:**\nThe warm twinkling lights in the tree and on the houses contrast beautifully with the cool blues and whites of the snow and twilight sky. This use of color helps evoke feelings of warmth, comfort, and holiday spirit despite the cold winter environment.\n\n**Character Placement:**\nThroughout the video, the camera alternates between wide shots of the entire group and closer framed shots, allowing viewers to connect with individual characters while still maintaining the sense of togetherness. The snowman in the foreground serves as an interesting framing device, drawing attention to the cheerful faces of the Disney characters beyond him.\n\n**Movement:**\nThe camera pans to follow the characters as they walk uphill, adding a sense of journey and adventure. This gentle movement transitions smoothly between different perspectives while maintaining continuity.\n\n**Directional Elements:**\nThe Aurora Borealis glimmering overhead creates a dreamlike quality, while the snow piles become natural shelves for the characters to peek over, adding a sense of playful discovery.\n\n**Emotional Impact:**\nThe director aims to convey joy, unity, and a sense of wonder. The festive clothing, Christmas decorations, and bright lights evoke happiness and excitement. The winter setting combined with the magical sky creates a feeling of awe and amazement. The small group of friendly Disney characters suggests warmth, companionship, and togetherness in the midst of winter. Overall, the video celebrates the magic of Christmas, friendship, and childhood wonder.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 382,
+        "total_tokens": 3147
+      }
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "analyse_style": "The director effectively uses several cinematographic techniques to convey warmth, nostalgia, and familial love through the visual storytelling.\n\nThe warm, cartoonish aesthetic immediately establishes a comforting, cheerful mood that welcomes the viewer into the scene. The cozy Christmas outfit details—Mickey with a red sweater and blue mittens, Goofy with his brown cap and ear flaps—create a playful, sentimental atmosphere reminiscent of childhood holiday memories.\n\n**Composition and framing** play a key role, particularly in the close-up shot of Mickey handing the book to Goofy. This tight framing emphasizes the intimate, personal nature of their interaction, suggesting it's a meaningful moment shared between characters. The framing draws attention to their faces and the book itself, creating an impression of a special tradition or cherished memory.\n\n**Lighting** technology further enhances the mood by creating a warm, soft glow that positions the characters against the bright blue sky with the colorful aurora borealis visible. This natural spectacle—blue with hints of purple—adds wonder and dreamlike quality to the scene, while the mountain snow range creates serenity and peace.\n\n**The cinematic techniques work together to evoke feelings of warmth, togetherness, and appreciation for past times**. By focusing on a heartfelt exchange between these beloved characters against a breathtaking winter landscape, the director communicates nostalgia for family traditions, the comfort of companionship during the holidays, and the magic of memory—the book Mickey presents becomes a symbol of their shared history, while Goofy's gentle snowball-throwing gesture reinforces the playful, caring relationship between them.\n\nOverall, the scene's emotional core is about cherished moments between friends or family during Christmastime, celebrating togetherness and the simple joys of the season, all wrapped in a warm, magical winter setting.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 361,
+        "total_tokens": 3126
+      }
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "analyse_style": "The cinematographer employs several techniques that work together to create a childlike joy and nostalgia, while emphasizing playful safety in a winter wonderland scene.\n\nThe camera work features smooth pans and extensive tracking shots that establish the sweeping, the grand snowy landscape while allowing characters to interact naturally. The low-angle shots of Mickey with his golden shield and snow-covered bridges create a sense of epic adventure, while close-ups on Goofy's face inside the snowball capture detailed expressions, adding warmth and humor.\n\nSharp contrasts play a key role - vibrant magenta and green décor pops against the pristine white snow. The warm-to-cool color palette shifts between icy blues and purples and the vivid holiday colors of the characters' costumes. Lighting is soft and diffused throughout, mimicking midday winter sun, which bathes the scene in a friendly glow rather than harsh shadows, creating an inviting atmosphere.\n\nThe director clearly wants viewers to feel cheerful confidence and lighthearted fun. The shield conceals Goofy as he rolls through the snow, suggesting childlike mischief and playful protection, while Mickey's attentive position implies he's in charge of keeping things safe and exciting. The combination of classic Disney lightheartedness with modern Christmas charm creates a special atmosphere where adventure and warmth are equally important - the kind of feeling that makes holiday seasons about childhood wonder rather than just the commercial side of the season.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 283,
+        "total_tokens": 3048
+      }
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "analyse_style": "The video employs several cinematographic techniques to create a festive, joyful atmosphere centered around holiday warmth and celebration.\n\n**Visual Composition:**\nThe camera uses dynamic framing to capture the full ensemble of characters against scenic winter backdrops. Wide shots establish the snowy landscape with its pine trees, mountains, and clear blue sky, while closer frames focus on individual character expressions and interactions. The cross-cutting between different scenes—دير Dance on the ice, the earthen-toned conversation among Mickey and his friends, and the final group spread—creates momentum and variety.\n\n**Lighting and Color Palette:**\nThe soft, natural light and pastel color scheme enhance the wintry mood. Red scarves, blue earrings, and green winter outfits pop against the white snow and blue sky, creating visual interest and emphasizing the holiday theme. The Transition to the blue-purple sky gradient adds a magical quality to showcase the characters against the snowy background.\n\n**Camera Movement:**\nSmooth pans across the snowy landscape transition elegantly between different activities—showcasing character interactions and establishing shots of the setting. The inclusion of close-up shots on faces (particularly glancing toward the camera) creates an intimate feel, allowing the audience to connect emotionally.\n\n**Emotional Tone:**\nThe editing and composition evoke feelings of warmth, belonging, and holiday cheer. The director seems to want to convey:\n• Joy: Through character costumes (red scarves, bells, candy canes) and group activities\n• Togetherness: Framing characters in close-knit arrangements and watching them collaborate or interact\n• Nostalgia: Alluding to traditions through the ornament-making and singing scenes\n\nThe final framed image crops focus on group celebration brings the emotional journey full circle, leaving viewers with a sense of communal happiness against the serene winter setting.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 362,
+        "total_tokens": 3127
+      }
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "analyse_style": "The film uses classic animation with smooth motion lines and clean outlines typical of Disney's CGI style. There's a beautiful interplay of warm lighting against the cool blues of the ice and winter landscape, creating a cheerful winter wonderland atmosphere.\n\nShot composition plays a big role - scenes are arranged to showcase the surrounding Christmas decorations, the train, and the snowy peaks, framing the characters within the festive setting. A high overhead shot provides a sweeping view of the group skating together, emphasizing the sense of a winter celebration.\n\nThe pacing alternates between energetic group movements and quieter, closer shots of Mickey and Minnie sharing a gentle hold, creating balance between playful action and romantic connection. Color blocking is effective - the warm reds, greens, and golds of Mickey's outfit contrast withuish blues of the snow, while the gold Train provides a focal point.\n\nThe moments where Mickey drops the bell and then jumps up to catch it in mid-air add crisp, dynamic energy that conveys joy and excitement. The opening sequence with Daisy navigating the crowd symbolizes the lively, bustling nature of holiday gatherings.\n\nOverall, the director seems to be conveying warmth, togetherness, and holiday magic. The cinematography celebrates friendship and romance against a backdrop of seasonal cheer and festive spectacle, creating an atmosphere of wonder and affection that's characteristic of Disney's winter holiday storytelling.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 272,
+        "total_tokens": 3037
+      }
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "analyse_style": "The filmmaker uses several cinematic techniques, such as close-ups on Mickey's face to convey his introspection and wider shots to show the expansive winter landscape, creating emotional resonance and immersion. The director wants to convey joy, wonder, and a sense of Christmas magic.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 53,
+        "total_tokens": 2818
+      }
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "analyse_style": "The directors effectively use several cinematographic techniques to evoke warmth, joy, and wonder throughout the Christmas-themed sequence.\n\n**Visual composition and framing**\nThe cinematography creates a magical, immersive environment by using soft pastels with light teal, soft pink, icy blue, and crystallized red colors. Soft focus techniques are employed to enhance the dreamy, cheerful atmosphere, while subtle snow flurries drifting through the scenes add a sense of gentle movement and natural beauty that complements the snowy environment.\n\n**Wide establishing shots and intimate close-ups**\nThe composition balances broad, establishing shots that display the full train with people dressed up watching it, along with trees, buildings, Ferris wheel, and the sky, to evoke the grand scale and festive joy of the community celebration at night. This sense of occasion is perfect for conveying warmth and shared happiness.\n\nIntimate close-ups on characters like Mickey holding a golden coin, Donald Denver, Daisy Duck, Goofy, and Minnie Mouse, pulling faces of shock, and wide shots capturing the snowy setting establish emotional connections and highlight individual reactions of surprise and excitement.\n\n**Optical illusions and playful imagery**\nDreamlike optical illusions create visual magic—Mickey appears to fly when he hovers above the train tracks or spins like a toy star when his round gold medallion spins, while the green sign appears to rotate slowly. These fantastical elements amplify the sense of wonder and delight, keeping viewers enchanted.\n\n**Lighting techniques**\nSoft focus light helps maintain an atmosphere of warmth and festivity. The neon green light from the Christmas Ferris wheel provides magical nighttime illumination that contrasts beautifully with the starry blue-purple sky, creating a colorful glow that envelops the entire scene and adds to the enchanting mood.\n\nThe cinematography collectively conveys joy, wonder, and community celebration—themes central to Disney's family-friendly approach.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 374,
+        "total_tokens": 3139
+      }
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "analyse_style": "The director uses several effective cinematographic techniques to create a sense of wonder and excitement synonymous with Christmas magic.\n\n**Camera movements** establish rhythm and energy throughout the scene. We begin in close-up on Mickey, which lets the audience focus on his determined expression and introduces us to the character intimately. This then widens dramatically as Mickey launches into flight, allowing the camera to track his trajectory along the snowy slopes and capture the full scope of the festive landscape. The ** sweeping views of the enchanted winter wonderland** with its aurora-lit skies create a feeling of grandeur and possibility.\n\n**Dutch angles and dynamic shots** during Mickey's airborne sequence add a sense of challenge and stakes that mirrors Mickey's determined spirit. The shot as he clings to the snow-covered fir tree with golden ornaments positions him small against the vast, snow-covered landscape – emphasizing his bravery and determination.\n\n**Lighting plays a crucial role** in conveying the magical holiday atmosphere. The soft golden glow on Mickey's hands and features during the lighter moment with clingy sprig and the ethereal purple and blue auroras in the sky create a warm, enchanted ambiance that makes the scene feel truly special.\n\n**Transitions between floating and gliding shots** maintain a sense of perpetual motion, matching Mickey's playful energy and the ever-present action as the snow falls steadily.\n\nThese techniques work together to convey **joy, adventure, courage, and wonder** – emotions perfectly suited to a Christmas adventure featuring a popular animated character. The pacing and composition make us feel both alongside Mickey in his flight and part of the magical world he's exploring.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 323,
+        "total_tokens": 3088
+      }
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "analyse_style": "The cinematography skillfully employs a range of techniques to create both warmth and a sense of magical anticipation:\n\nThe scene opens with a close-up on Minnie Mouse, using intimate framing to draw viewers into her emotional state. Slow, gentle camera movements accompany her visible distress (focused eyebrows, pursed lips, wide eyes), creating an empathetic connection and allowing the audience to feel the tension through visual cues alone.\n\nThe editing transitions abruptly to a wide establishing shot of the gold Santa Express, employing a sudden cut that shifts the emotional tone. This contrast—between Minnie's personal distress and the grand, imposing exterior of the train—creates dramatic tension and raises the stakes.\n\nThe shooting of the gold coin falling through the slot is shot from an overhead angle, steady and clinical, which creates distance and makes the moment feel inevitable, almost mechanical. This technique transforms what could have been an emotional beat into a pivotal turning point, where everything comes together through visual detail rather than character expression.\n\nThe final reveal uses a wide panoramic shot that celebrates the culmination. The full train is framed against the snowy landscape with soft blurriness to suggest motion and magic. This establishes finality and provides a sense of accomplishment—viewers witness the journey's completion alongside the characters.\n\nThroughout, the fixed camera positions and controlled movements maintain a classic storyboard quality while adding depth through negative space and detailed composition. The contrasting framing—from intimate close-ups to sweeping, cinematic wide shots—creates visual rhythm that mirrors the emotional rise from doubt to resolution.\n\nThe director aims to convey a mix of emotions: initial worry through careful camera work on face and gesture, anticipatory tension during the crucial falling coin shot, and ultimately bittersweet release and satisfaction in the final panoramic view. The cinematography itself tells the story, shifting from intimate expression to grand spectacle to create a complete emotional arc.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 370,
+        "total_tokens": 3135
+      }
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "analyse_style": "The director uses several cinematic techniques to create a festive, magical atmosphere. There's a distinctive placement of Mickey and Minnie standing close together and giving each other a hug.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 35,
+        "total_tokens": 2800
+      }
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "analyse_style": "The video employs several effective cinematographic techniques to create warmth, wonder, and community spirit:\n\n**Establishing Shot:** It opens with a wide establishing shot of a festive winter landscape, immediately setting the magical seasonal atmosphere and giving viewers a comprehensive view of the holiday world being created.\n\n**Foreground Focus:** The characters are positioned in the foreground, making them the emotional center while the Christmas tree and star serve as a beautiful backdrop. This placement creates a sense of scale and draws attention to the characters' expressions and movements.\n\n**Color Palette:** The vibrant purple sky, bright greens of Santa's suit, and the white of well-lit buildings create a cheerful, inviting color scheme that evokes feeling of happiness and celebration.\n\n**Movement and Pacing:** The holiday-themed clothing with moving patterns adds visual interest while maintaining a lighthearted, playful feel. The swooping camera work following Santa's sleigh captures the excitement and magic of his journey, matching the mood of the song.\n\n**Symbolism:** The contrast between the small, joyous figures holding present boxes and Santa's grand red sleigh creates a sense of scale and community, emphasizing the intimate nature of gift-giving even as it's part of a larger, universal tradition.\n\n**Narrative Flow:** It progresses from the close-up of the merry group before transitioning to show Santa's grand journey through space, maintaining the festive energy while expanding the story's scope.\n\nThe director clearly wanted to convey a strong feeling of:\n\n• **Joy and celebration** - Especially through Mickey's singing and the characters' dancing\n• **Community and shared happiness** - The collective gathering and singing together\n• **Wonder and magic** - The costumed characters, the snowy landscape, and Santa's cosmic journey\n• **Hope and holiday spirit** - The presentation of gifts and the characteristic Santa flight\n\nThe technique successfully transforms classic Christmas imagery - sleigh, presents, winter snow - into a fresh, vibrant tapestry of color and movement that captures the essence of festive cheer and unity.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 406,
+        "total_tokens": 3171
+      }
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "analyse_style": "The cinematography skillfully builds a sense of scale and warmth through several thoughtful techniques. The camera begins in a neutral, straightforward composition that centers Mickey close to the lens, then leisurely pulls back to reveal more characters entering the frame from the sides and background. This widening shot creates depth and helps establish a family-like group dynamic, bringing everyone together in a shared space.\n\nThe movement techniques are gentle and easy on the eyes—smooth, unhurried pans and a gradual wide shot inversion rather than quick cuts or dramatic reveals. This approach establishes a cozy, intimate atmosphere typical of a holiday card or greeting, evoking feelings of togetherness and celebration.\n\nLighting plays a crucial role in the emotional tone. The soft, warm lighting from the glowing golden lights and sparkles against the pale backdrop creates a magical, festive quality. The snowy setting, combined with this lighting, reinforces the holiday mood while keeping the warmth of celebration front and center.\n\nKey to the emotional impact is the composition that places Mickey at the heart of the group, with all the other friends surrounding him. This clearly positions Mickey as the focal point while emphasizing his place among his companions rather than alone. The close framing of faces makes us feel personal and connected to each character's expression.\n\nThe emotional palette moves from curiosity or anticipation when the group first greets Mickey, to joy and warmth as everyone gathers close at the end, and finally to shared celebration and connection during the group embrace and the singing moment. The final wide shot—with sparkling stars in the background and Mickey holding what appears to be a book or box (possibly a present), surrounded by his friends—caps off the scene with a feeling of celebration and unity. The overall technique wants to convey warmth, companionship, holiday cheer, and the joy of spending time with friends and family during the winter season.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 369,
+        "total_tokens": 3134
+      }
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "analyse_style": "The video uses several cinematic techniques to create a warm and festive holiday atmosphere. Framing and composition are key - favorite cartoon characters are arranged face-to-face in a circular configuration, creating an intimate, communal gathering feel with Mickey at the center holding a book, suggesting a storytime or gathering of friends.\n\nThe use of a dark blue backdrop with visible star particles creates a magical, night-time Settings that evokes wonder and enchantment. The static group shot with all characters shown full-on in their seasonal costumes helps establish a shared experience and unity among the friends.\n\nThe production design techniques - including the red-and-green striped border mimicking winter decorations, holiday-themed frames, festive gestures like gift-wrapping, and decorated trees - all reinforce the celebratory mood. The music credit noting \"Additional Music by Keith Harrison-Garbinkin, End Titles by Eric Carle\" suggests flowing, lyrical background music that would enhance the warmth and nostalgia.\n\nThe director wanted to convey several emotions: warmth through the communal gathering, festivity through the holiday decorations, nostalgia through familiar cartoon characters within a seasonal setting, and joy through gestures like gift-giving and togetherness. The overall tone is whimsical and heartwarming, aiming to make the viewer feel the magic and community spirit of Christmas.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 259,
+        "total_tokens": 3024
+      }
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "analyse_style": "Looking at the end title card, several cinematographic techniques stand out that help convey specific emotions and themes:\n\nThe cinematographic techniques primarily include:\n\n**Parallax Movement:** The final shot features a hand moving from page to page, creating an intimate, storybook feel. This transitions from the decorative title card to the page that reveals the cast photo.\n\n**Ornate Framing:** The title card uses a detailed red-and-green border with gold trim adorned with holly leaves, Christmas lights, and ribbon ornaments. This establishes a cheerful, festive atmosphere immediately.\n\n**Upholstered Framing:** The cast photo is presented within the same ornate red-and-gold frame as the title card, creating visual cohesion and reinforcing the curated, familial feel.\n\n**Color Palette:** The use of Christmas colors—red, green, gold, and trim—specifically calls to mind holiday warmth and celebration rather than coolness or monotony.\n\n**Warm Backgrounds:** The images of the characters themselves show them situated in cozy indoor settings like a living room with fireplace. These warm, homely backdrops suggest comfort, togetherness, and celebration.\n\nThe emotion the director wanted to convey is:\n\n**A sense of warmth, celebration, and togetherness**—giving viewers the feeling of opening a keepsake or seeing a family photo from Christmas time. The overall effect is cheerful and inclusive, pulling the audience into the holiday spirit and creating nostalgia for family gatherings. The deliberate, careful presentation feels sentimental rather than rushed.\n\nThese elements together create what's known as \"film stock footage\" of iconic characters in typical Christmas settings, where everyone is in matching outfits and positioned joyfully, with large smiles that emphasize their unity and happiness. The celebratory still photography captures the collective joy and joy at being together on Christmas day.",
+      "tokens": {
+        "prompt_tokens": 2765,
+        "completion_tokens": 366,
+        "total_tokens": 3131
+      }
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1293.856,
+      "analyse_style": "The cinematographic techniques in this scene are designed to create an intimate, festive, and magical holiday atmosphere while establishing the character's personality.\n\nA camera slowly pans to reveal more of the cozy fireplace setting, allowing viewers to absorb all the Christmas decorations—the garland, stockings, wreath, and toy soldier. This establishes the magical, heartwarming mood of the scene.\n\nThe use of a close-up shot on the fox character in the armchair draws viewer attention to her, emphasizing her as the focus of this cozy domestic moment. The soft, likely warm lighting creates a comfortable, inviting feel that matches the holiday spirit.\n\nWhen the fox winks, the camera catches this playful gesture, adding a touch of personality and charm to the character. This small movement conveys warmth, contentment, and perhaps a hint of whimsical personality.\n\nThe star-shaped animation that surrounds the fox's face adds a magical, storybook quality to the scene. This visual element enhances the fairy-tale, Christmas-themed atmosphere and emphasizes the enchanting nature of the moment.\n\nThe director seems to want to convey a feeling of warmth, comfort, and coziness that comes with holiday traditions. There's also a sense of joy and contentment conveyed through the character's expression and body language. The combination of festive decorations, intimate close-up shots, and magical elements aims to evoke excitement and anticipation for the holiday season, while also suggesting that picture books or reading hold a special place in this character's world.",
+      "tokens": {
+        "prompt_tokens": 818,
+        "completion_tokens": 297,
+        "total_tokens": 1115
+      }
+    }
+  ]
+}

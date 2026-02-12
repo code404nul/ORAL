@@ -1,0 +1,1117 @@
+{
+  "movie_id": "Safety (2020) [1080p] [BluRay] [5.1]",
+  "date_analyse": "2026-02-10T21:35:54.691884",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "analyse_action": "The scene shows a nighttime time-lapse sequence of a river valley landscape.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 16,
+        "total_tokens": 2770
+      }
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "analyse_action": "The scene begins with an animated Disney castle rising into view beneath a dramatic sky, erupting into a vivid fireworks display painted in bright greens and yellows. As the camera gradually pulls back, the castle stands central against a blue night sky accented with pink and purple tones while the fireworks spectacle continues with colors including pink, purple, yellow, and white. A sparkling star-shaped burst appears in the upper right and then resolves into a flowing, ribbon-like arc that trails toward the castle, creating a magical path across the sky. Streams of star-like particles swirl around the castle as the view widens to reveal more of the nighttime setting, with distant mountains and a straight row of distant lights visible on the horizon.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 143,
+        "total_tokens": 2897
+      }
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "analyse_action": "The scene features a animated Disney logo opening, with Disney's iconic castle displayed on a body of water, followed by a series of title cards. After the opening, there's a minimalist sequence of text slides: a black screen with \"Disney Presents\" in white letters then \"Inspired by a True Story\" followed by \"SAFETY\" in large orange letters. This concludes with a final slide combining the \"SAFETY\" title with \"Clemson Athletics\" displayed over a black-and-white background of sports equipment, specifically a pile of football helmets with the Clemson logo.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 118,
+        "total_tokens": 2872
+      }
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "analyse_action": "The scene takes place at Clemson University in 2006. A young man wearing an orange Clemson t-shirt, black pants, and carrying a briefcase crosswalks through the campus area. The camera follows him as he moves along the edge of a red brick walkway, passing through a heavily wooded area with dense foliage and a brick building visible in the background.\n\nAs he walks, the camera tracks him closely while several other people are moving in the background. The overall mood is calm and focused as the subject heads along his route on the campus grounds. The scene maintains this steady, observational pace with the main person moving through various parts of the campus path while the environment around him continues to unfold naturally in the background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 147,
+        "total_tokens": 2901
+      }
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "analyse_action": "The scene follows an African American student on campus as he walks through a brick courtyard carrying a suitcase and backpack, passing landmarks like a bell tower and a Class of 1939 monument. It then shifts to show students playing kickball in a sunny field. The final shot shows the student walking down a university hallway holding a white box, with academic buildings visible in the background. The classroom-style credits identify collaborators Jay Reeves, Reginald Hudlin, and Corinne Fox.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 98,
+        "total_tokens": 2852
+      }
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "analyse_action": "The scene takes place on a bustling college campus hallway before it transitions into room 116, where two people are packing their bags, boxing their belongings, and storing them into the safe black luggage",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 41,
+        "total_tokens": 2795
+      }
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "analyse_action": "In the scene, two roommates are moving into a dorm room and setting up their living space. The main focus is on the Black roommate—Elijah Bell—who is in his dorm room preparing to leave, taking his bag and walking out through the doorway before returning. He carries a bag in his right hand and later checks the bookshelf after talking to Isaac Bell, who has \"Captain America\" shirt and is packing a bag.\n\nIsaac is packing and arranging items in the dorm room, placing a white pillow on the bed and organizing what appears to be his belongings. The room contains typical dorm furniture and decorations, including posters on the walls, a desk with a lamp, and a table with the TV. The walls are white and there appears to be a poster on the wall. The overall atmosphere suggests these two friends are settling into their shared living space, with Elijah preparing to leave his belongings and Isaac continuing to organize and unpack.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 189,
+        "total_tokens": 2943
+      }
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "analyse_action": "Two men are arguing with each other in a dorm room. Tension escalates as one punches the other. One man picks up his jacket and walks backwards to his suitcase. The other man makes an aggressive move toward him, then turns and walks out the door.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 54,
+        "total_tokens": 2808
+      }
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "analyse_action": "Two friends are sitting in a dorm-like office room having a conversation and preparing for their trip. The space has all the hallmarks of a dormitory - brown wooden flooring, twin beds pressed against the walls covered with blanket and white sheets, and personal items scattered around. Bright daylight floods through a large window behind them, illuminating the room. The walls (one yellow and another gray) and wooden cabinet complete the classic college housing setting. The room contains various objects including a black suitcase, an orange bag, and several pictures. The young men are positioned in the center of the room, engaged in what appears to be preparations for their upcoming journey or activities, but they are sitting idle after finishing packing.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 142,
+        "total_tokens": 2896
+      }
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "analyse_action": "The scene shows a casual, comfortable moment between two friends in a dorm room that appears to be from a TV series. They're standing together in front of a whiteboard discussing something, then moving to adjust a photograph of a young boy who's wearing a red shirt. After looking at the picture, they walk over to a desk where another picture of people is hanging. This seems to be part of the show's opening sequence, as the camera presses in on the photograph they're focusing on, and white text appears on screen listing the show's production credits. The setting feels typical of a college roommate dynamic, with the casual furniture and personal items visible around them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 134,
+        "total_tokens": 2888
+      }
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "analyse_action": "Two friends are in a dorm room having a casual conversation. One man is holding a few containers and a can wrapped in foil, while the other sits with food and a cup of coffee nearby. They're talking around a cluttered desk in what looks like a typical dorm setting, complete with shelves and a lamp. The scene has a friendly, everyday college atmosphere with the two engaged in what seems to be a relaxed chat about something.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 88,
+        "total_tokens": 2842
+      }
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "analyse_action": "The video shows a Clemson football team orientation taking place at Frank Howard Memorial Field. A man in orange attire with a white Clemson visor addresses the camera, with text identifying it as the \"Team Orientation at Frank Howard Memorial Field.\" Various scenes follow, including players practicing, running drills on the field, a football game in progress, and a group of men in gray \"Clemsons\" t-shirts huddled together looking focused and serious. The camera pans and zooms to capture these different moments of player activities and team preparation at the stadium.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 110,
+        "total_tokens": 2864
+      }
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "analyse_action": "This appears to be a football training camp or practice session. The players are engaged in conditioning drills and agility exercises on the field. You can see them working through ladder drills, which involve hopping through a rectangular metal grid with horizontal slats or rungs, and also maneuvering between padded cylindrical objects on the turf. There's intense physical activity with players jumping, stretching, and moving through the drills while their coach observes and provides instructions from the sideline.\n\nThe scene captures typical elements of football preparation - the emphasis on conditioning, agility work, and overall physical readiness for the season. The combination of individual drills (like the ladders and positional movements) and organized group activities (like the runners moving up the stands) shows a comprehensive approach to player development and team-building.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 154,
+        "total_tokens": 2908
+      }
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "analyse_action": "The scene captures a pregame moment at the Clemson University football stadium. Players are warming up on the field as practice begins. An older man is overseeing the activities. The stadium is beautifully set up with \"Clemson\" displayed prominently above the seating sections, and the field is marked with crisp white yard lines, hash marks, and field numbers. The energy is building as players are out on the field, running and practicing while small groups watch.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 91,
+        "total_tokens": 2845
+      }
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "analyse_action": "The scene is from Claude Jones' freshman class at Howard. The video opens with action on a football field at night, showing players in white Nike sneakers lined up and ready to sprint for the football. This takes place during a fall practice.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 49,
+        "total_tokens": 2803
+      }
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "analyse_action": "The scene shows a coach giving an interview on the sidelines of a stadium while players warm up nearby. The coach, wearing an orange shirt and white cap, addresses the camera as a group of athletes in gray practice shirts moves around him on the field.\n\nThe players appear focused and serious during the warm-up, maintaining intense expressions and forming a line while standing and watching in unison. At one point, a man with a beard turns his gaze downward while others keep their eyes fixed forward. The camera also briefly catches another person in the background wearing a gray jacket with a white cap that has a red logo.\n\nThe setting has the feel of a professional football team preparing before a game, with the official atmosphere created by the players' coordinated warm-up activities and the coach's formal seated position for the interview. The energy is that of a team getting ready to compete.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 173,
+        "total_tokens": 2927
+      }
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "analyse_action": "The scene takes place during a football camp at Clemson University's stadium. A coach in a gray windbreaker and white visor stands prominently on the field, speaking to players gathered in two groups. One group wears gray Clemson T-shirts or tank tops while the other group consists of coaches in orange and white Oxford polos. The players line up facing the coach with their arms crossed, listening attentively toward the field.\n\nThe stadium setting is visible with its red and gray seats and orange accents in the background. The coach addresses the assembled players and staff, who posture respectfully while the camera alternates between wider shots showing the entire group and closer shots focusing on individuals.\n\nThe light is bright and sunny, and the coach finishes with a slight smile, creating a moment that conveys both authority and approachability during the camp session.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 165,
+        "total_tokens": 2919
+      }
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "analyse_action": "The video shows a football training session from multiple perspectives. On the field, a group of athletes wearing matching gray sleeveless shirts with \"Clemson Football\" printed on them are gathered together. One player with short brown hair and a focused expression is at the center, surrounded by teammates including a Black player with dreadlocks looking to the left.\n\nThe most prominent scene follows a coach who has entered from the left side of the frame wearing a white visor, gray long-sleeve Nike shirt, and a whistle. He's speaking to the athletes as they stand facing to the left in a squad line. This takes place during daylight on what appears to be a football field, with a row of figures standing nearby watching the group.\n\nThe scene is somber and introspective, showing athletes in a state of concentration and silent focus. In the cohort, a man stands at the center with a calm, centered demeanor, surrounded by others who are listening intently to the guidance happening to their right—expected to be their coaches—while engaging in serious, reflective activity. The atmosphere suggests a moment of preparation, instruction, and mental conditioning during their morning football training.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 234,
+        "total_tokens": 2988
+      }
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "analyse_action": "Two boys are sharing a bedroom that has bedding with white patterns on it. One boy lies under a striped blanket in the bed on the left, while the other wears a white tank top and has his hand raised to his face.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 47,
+        "total_tokens": 2801
+      }
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "analyse_action": "The scene shows two friends wakening up in a college dorm room, argue and then chase each other outside.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 23,
+        "total_tokens": 2777
+      }
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "analyse_action": "The scene captures a total team football practice taking place on a well-lit field at dusk. A coach wearing an orange visor is overseeing the drills while players move across the field throughout the practice session.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 42,
+        "total_tokens": 2796
+      }
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "analyse_action": "The scene shows a fast-paced, dynamic sequence at what appears to be a college environment. It begins with a basketball practice, where a group of young men in matching purple and orange uniforms are actively moving on the court performing drills. The energy is high and focused, with clear athletic activity taking place.\n\nThe action then transitions to what looks like a classroom or lecture setting, where a different group of people are seated in rows, engaged in quiet study or concentration. This suggests an academic component to the activities shown.\n\nFinally, the scene jumps to an in-game moment on the basketball court during a live game. A man has fallen and is being helped up, indicating the physical demands and competitive nature of college basketball. The sequence captures multiple facets of college life—from practice and study to competition and recovery—within a quick, energetic montage.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 167,
+        "total_tokens": 2921
+      }
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "analyse_action": "The video shows a row of athletes sitting against a wall, each wearing exercise shorts and short-sleeve shirts in orange, white, and purple team colors. They have their arms raised overhead gripping black bars. A coach stands to the left observing their form and posture. The modern gym facility features a gray wall with a dark stripe and an orange stripe, with a white floor and light brown wall visible in the background. This appears to be a group training session focusing on upper body strength and form.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 101,
+        "total_tokens": 2855
+      }
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "analyse_action": "The scene shows what appears to be a sports education or strategic discussion taking place in a workshop-style setting. The camera first focuses on a man in an orange Clemson jacket with a paw-print logo, wearing a gold wedding ring, who is actively gesturing with his hands while speaking in front of a tactical diagram on a whiteboard. The board displays an X and O-style football play marked with \"Deep Half,\" \"Flats,\" and \"Deep,\" along with field-position coordinate lines.\n\nThe view then shifts to a wider shot revealing an entire classroom filled with students seated at a large black table. Each student has a white notebook and a binder open in front of them, suggesting they're taking notes during a lesson. Behind them sits a small audience of additional observers, indicating this is an organized instructional session.\n\nThe camera returns to the coach-like speaker in the Clemson jacket as he continues explaining the diagram. The entire sequence follows a centered format typical of professional coaching or tactical instruction, with the diagrams, classroom setup, and participants arranged to maintain an organized, educational atmosphere focused on analyzing the football play positions.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 221,
+        "total_tokens": 2975
+      }
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "analyse_action": "The scene takes place in an academic classroom where students are actively learning about football strategies. The students, dressed in casual athletic wear, are seated at tables with papers in front of them, taking notes and appearing engaged in the lesson.\n\nAn older man, the instructor, stands at the front teaching. While speaking to the class, he uses a blue magic marker to point out specific tactics and formations on a whiteboard behind him. The whiteboard displays football diagrams with clearly labeled elements like \"deep half\" and \"deep,\" indicating he's discussing offensive plays.\n\nThe class atmosphere is focused and studious. Some students lean forward attentively, while others glance at their notes. The setting appears to be a college football strategy session, combining theoretical instruction with practical diagram analysis. The instructor seems to be leading an in-depth discussion about specific football formations and tactical concepts, encouraging active engagement from his students as they work through the material together in this academic learning environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 191,
+        "total_tokens": 2945
+      }
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "analyse_action": "The video opens in a busy dining hall where people are eating at tables covered with purple and white tablecloths. Someone walks by carrying dishes. A vertical chat box appears and a message pops up that says \"Ray, try you tomorrow.\" During this, a man pointed ahead exclaims \"Stop ignoring me!\" and text appears on the screen reading \"I'm slammed practicing all the time\".",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 79,
+        "total_tokens": 2833
+      }
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "analyse_action": "The scene shows a football practice or training session taking place outdoors. A white man in an orange Clemson uniform is on the ground, tucked into an orange rail, working on adjusting or tightening his pants, which appear to be sagging or loose.\n\nI then see another person in Clemson gear—an African American player in an orange jersey with a white number 9—is walking toward him, caught mid-step as he approaches to speak or check on him. The exchange between them continues with the man on the ground facing the player, while the player looks down at him with a focused, serious expression.\n\nThis appears to be a pre-game or practice training scenario on a white surface (likely a field) in front of a brown brick building. Various people are around them waiting for instructions, reinforcing that this is a formal organized athletic event or training session. The entire interaction has a serious, purposeful tone befitting a professional sports setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 187,
+        "total_tokens": 2941
+      }
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "analyse_action": "The scene captures an informal practice session outside the university building, where a Clemson football player engages in a one-on-one conversation with his coach. They're having what appears to be a coaching discussion or tactical session focused on the player's on-field development.\n\nThe interaction takes place along a sidewalk at the edge of the football field. Near them, another player wearing number 29 pauses to follow the conversation, suggesting this is a typical coaching strategy session during warmups or between plays. In the background, you can see numerous orange helmets scattered around indicating other people are preparing for practice, along with warmup activities like striding and other drills throughout the facility.\n\nThe setting emphasizes a relaxed, instructional atmosphere that blends individualized coaching with the bustling energy of team practice preparation—the kind of organized chaos that's characteristic of a college football program readying for a day of competition. The orange uniforms and Clemson branding throughout connect this coaching moment to the larger athletic effort taking place at the facility.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 196,
+        "total_tokens": 2950
+      }
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "analyse_action": "The scene shows a football training camp taking place on a practice field. A group of athletes are playing and passing on a grassy football field with while in the front an interview with a player wearing number 9 (nicknamed mike) and a college coach in a Clemson long-sleeve shirt. Their conversation is happening on a sidewalk outside a red brick brick building with a large paw print. The athletes are wearing bright orange practice jerseys and gear with Nike swooshes, and one player has an orange helmet on. The practice field itself contains white yardage lines, and there's a yellow goalpost visible in the background along with trees bordering the field. The scene captures both active football play in the background due to students in the field passing around, while the main focus is the discussion between the player \"Mike\" and the coach.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 170,
+        "total_tokens": 2924
+      }
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "analyse_action": "The scene shows a lively, energetic gathering in what appears to be a school campus setting. A man runs through a set of glass doors into a reception area with a circular blue carpet that has a yellow border. Surrounding him are various college students and staff scattered throughout the space.\n\nTo the right, there's a group of people gathered around a pool table, with two men in casual attire near it and another man seated at a table behind them. One woman is bent over the table holding a pool cue, appearing to play, while another woman in a black jacket and white pants stands nearby watching or observing. Two more women are also visible, standing at a distance in the area.\n\nNear a ticker tape display displaying \"ACE THE CLASS, THEN GET THE STORE.? GET CASH BACK\" and \"GET PAID BACK FOR YOUR GENTLY USED HEADBOOKS! BENSTORES\" a man in a bright orange t-shirt with Clemson Tigers branding and a white paw print jumping on it can be seen, running. He's carrying a large black bag over one shoulder and has a backpack slung over his other shoulder and is running towards a poster attached to a wall.\n\nIt's a dynamic campus moment with multiple people engaged in different activities, from meeting at the entrance to socializing around gaming equipment and conversing casually near posters. The scene captures the typical hustle and bustle of college life.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 281,
+        "total_tokens": 3035
+      }
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "analyse_action": "In the scene, a man in an orange shirt with a black backpack is speaking urgently at a glass entrance to a bookstore. He's dealing with someone on the other side of the glass—someone with long red hair wearing a backpack—who appears concerned and skeptical about what he's saying. \n\nThe man in orange is standing outside trying to negotiate with or persuade the person behind the counter through the glass. During their interaction, a mannequin dressed in an orange shirt with the number 99 is visible inside the store behind them, along with a \"Closed\" sign and a \"We Accept Visa\" sign on the window. Other people can be seen inside the bookstore in the background.\n\nEssentially, it's an attempted sales or negotiation with a bookshop customer at closing time, but the encounter appears tense or at least problematic for the person behind the counter.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 174,
+        "total_tokens": 2928
+      }
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "analyse_action": "A young couple stands outside a university bookstore at night, peering through the glass storefront. The woman smiles upward and rests her hand on the counter, while the man, wearing an orange Auburn shirt, looks down at her with a faint smile.\n\nInside the brightly lit bookstore, shelves are stocked with various items and a mannequin wearing an orange jersey with the number 89 stands prominently. A woman staffing the business looks on as these two students converse and laugh together. She simply observes but doesn't move or attempt to enter alongside them when the moment ends abruptly.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 115,
+        "total_tokens": 2869
+      }
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "analyse_action": "The scene takes place in a busy college bookstore filled with merchandise, where a man in an orange Clemson football t-shirt with a paw print is relaxing in a chair by the entrance while looking towards the door. \n\nA camera then pans to a female customer entering from the door, but before she can approach the counter, the man in the orange shirt gets up suddenly, darts past her through the store with a backpack over his shoulders, and exits with hurried energy.\n\nThe camera returns to capture the female customer at the counter - she's wearing a green top and looking down at some paperwork she's holding. Behind her are shelves stocked with baseball caps and other items, with university signage visible on the walls.\n\nIn the background, you can see a mannequin displaying an orange jersey. A female clerk in black and white, wearing a striped shirt, is visible as well. There are displays for coffee mugs, pens, and various school merchandise visible throughout the well-lit space, creating a typical bustling bookstore atmosphere with customers, workers, and hanging store signage working together.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 216,
+        "total_tokens": 2970
+      }
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "analyse_action": "In the scene, a woman works behind a counter helping a customer as two people have a pleasant conversation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 22,
+        "total_tokens": 2776
+      }
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "analyse_action": "The scene takes place in a college bookstore, where a conversation is happening between two people - a Black man in an orange Clemson Tigers t-shirt with a black backpack, and a woman with long hair wearing a striped top and black overalls. They meet behind the counter.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 55,
+        "total_tokens": 2809
+      }
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "analyse_action": "Two young adults are sitting in what appears to be a library engaged in conversation. They're having a discussion that seems to be a friendly exchange of ideas. The interaction has a positive, collaborative tone to it. The library setting—with its bookshelves in the background—suggests they might be students working together on a project or studying for an exam, but they're clearly engaging in conversation rather than just focusing on their studies. The way they're positioned, shoulder to shoulder with their bag straps visible, indicates an informal, approachable conversation in what looks like a communal study space.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 118,
+        "total_tokens": 2872
+      }
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "analyse_action": "The scene takes place in a cozy campus gift shop and shows a friendly interaction between two young students.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 21,
+        "total_tokens": 2775
+      }
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "analyse_action": "The scene shows a black man entering a bright retail store called Spencer's with a stack of books and a backpack, carrying an assortment of items including books, a video game, and possibly a notebook. Inside, he converses with a white woman displaying different cards to him while browsing the store.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 60,
+        "total_tokens": 2814
+      }
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "analyse_action": "Two men are on separate phone calls in what appears to be a public transportation setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 18,
+        "total_tokens": 2772
+      }
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "analyse_action": "The scene shows a tense phone conversation taking place. A person wearing an orange t-shirt and carrying a backpack is talking on a black cell phone while walking. They're moving through what appears to be a mall or shopping complex, passing storefronts with glass windows, including a \"Curry and Booker\" store. The person is eventually walking away from the camera past a bulletin board.\n\nDuring this phone call, a second individual is having an argument with the person on the phone. As the conversation progresses, the person in the orange shirt becomes extremely distressed and eventually runs out of the building.\n\nThe scene captures a moment of intense emotional conflict, transitioning from a casual phone conversation in an urban retail environment to someone suddenly fleeing in a state of distress.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 149,
+        "total_tokens": 2903
+      }
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "analyse_action": "The video shows what appears to be a sports team or group gathering in two distinct locations.\n\nIn the first scene, there's a black male wearing an orange t-shirt with a black backpack walking through what looks like a school library. The library has orange walls, white ceiling lights, and features like a glass door with an orange poster and a wooden bench.\n\nThe second scene shifts to an outdoor football field on a bright day with blue sky and trees in the background. Two men are holding a yellow foam training device in the center of the green turf. The team, likely college-aged athletes, is arranged in an oval formation around them. Players and staff in various colored uniforms—including orange, white, and dark jerseys—are shown standing together, while coaches in casual shirts circulate among them. Then the filming zooms in very closely, focusing on one man's face as he speaks to the camera, capturing his serious expression. \n\nThe video seems to be documenting some kind of team preparation or meeting, showing both the academic setting and the athletic environment where this group comes together.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 215,
+        "total_tokens": 2969
+      }
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "analyse_action": "The scene shows a football program assembled for an organized outdoor gathering on a bright, sunny football field. The players in their orange jerseys, purple jerseys with orange helmets, and other colored uniforms have gathered in tight formations on the green turf marked with yard lines and hash marks under a clear blue sky.\n\nThe focal point is a man in a blue polo shirt who takes center position, addressing the assembled group. khaki shorts while holding a white object, possibly a piece of paper or marker, as his teammates and coaches surround him. The players and staff maintain coordinated formations with their hands positioned along the front of their bodies, facing each other in orderly lines and circles.\n\nThe moment appears to be some kind of formation drill, team meeting, or speech, with deliberate positioning and attentiveness throughout the ranks of players and staff on the field.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 167,
+        "total_tokens": 2921
+      }
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "analyse_action": "The scene depicts a coaching clinic or team meeting bringing two college football programs together for instruction and discussion. Players from both teams are gathered on the field in a structured yet casual arrangement for a learning session.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 41,
+        "total_tokens": 2795
+      }
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "analyse_action": "The scene shows a structured football camp or practice session taking place under clear blue skies on a luscious green field. The opposing teams in white and orange jerseys are engaged in organized drills where a quarterback stands at center delivering a pass to a receiver on the left side of the formation. Surrounding players in their respective team colors gather along the perimeter, while several coaches in blue and orange polo shirts look on from various positions around the field.\n\nThe atmosphere is charged with intensity—a young player in orange demonstrates focus with a gritty, determined expression and run-up, and two opposing players in contrasting jerseys lock up in a physical contest during the practice. Coaches are actively observing the action, including one wearing a whistle who scans the field during a pause in play. The coaches and staff circulate among players throughout the session.\n\nAt the culmination of the drill, players gather together. Some continue to engage in practice while others in purple jerseys and helmets move through the group. A player wearing purple and white steps forward with a determined expression, speaking directly to the gathered players—likely giving instructions or rallying them—as the opposing team watches, preparing for what appears to continue as active yet controlled football practice rather than full scrimmage conditions. The entire scene maintains an organized, disciplined practice environment with players, coaches, and staff all positioned to facilitate and observe the training session.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 270,
+        "total_tokens": 3024
+      }
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "analyse_action": "This is a complete practice session for a football team. The scene shows the full progression of a practice drill, starting with two players at the line of scrimmage receiving instruction and preparation from their coach at the huddle.\n\nThe group then bursts into full motion as players from both teams—some in orange jerseys with white numbers and white paw-print helmet logos (representing the home team), and others in white jerseys with orange numbers—sprawl across the grass in intense physical tackle drills. Players dive, body-check, and wrap each other up, with one sequence capturing an orange-jersey tackler closing on a white-jersey ballcarrier mid-run.\n\nAfter the tackle drills wind down, players gather back together on the field, standing shoulder to shoulder facing the camera with serious expressions. At this point, many wear the distinctive orange helmets with the white paw-print logo and white face masks, connected by a blue stripe running the length of the helmet.\n\nThe orange helmet with the white paw-print logo is a standard football helmet featuring a face mask but without the modern facemask grill covering the front of the player's face. This style of helmet predates the contemporary facemask design.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 239,
+        "total_tokens": 2993
+      }
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "analyse_action": "The scene captures a football practice session kicking off with a huddle.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 15,
+        "total_tokens": 2769
+      }
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "analyse_action": "The scene shows a football team undergoing a practice or training session outdoors on a sunny day. Coach Marchman is conducting what appears to be a strategy meeting or huddle with his players, who are gathered in orange jerseys and white helmets marked with blue and red stripes and a paw print.\n\nDuring this gathering, Coach Marchman is speaking with the team and gesturing to keep players' focus. Multiple players are adjusting their gear—taking off helmets, removing chinstraps, and checking their jerseys for proper fit. You can see players holding helmets in hand while looking around attentively.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 117,
+        "total_tokens": 2871
+      }
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "analyse_action": "In the scene, a North Carolina football walkthrough is taking place on a bright, sunny day. The offense is huddling together wearing their orange jerseys with white and blue helmets marked with paw prints, preparing for practice. You can see both offensive and defensive players gathered in formation. The coaches stand on the sideline in their polo shirts, khakis, and visors, overseeing the session. The players are focused and ready, some with their mouths slightly open as they listen or catch their breath, while others move around at the edges of the formation. The team is clearly getting organized and setting up for a drill session, with white yard markers visible on the green field beneath them all.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 138,
+        "total_tokens": 2892
+      }
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "analyse_action": "The scene shows a college football team during their post-practice break. The players are gathered in a semi-circle after what appears to be some conditioning or agility work, discussing and catching their breath together.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 41,
+        "total_tokens": 2795
+      }
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "analyse_action": "The scene captures two main moments that appear to be connected celebration events.\n\nThe first part takes place on a football field at what looks like a college game gathering. Players are in full game gear, and there's a vibrant atmosphere. A man in orange is speaking animatedly while holding his hands up, wearing a whistle on a lanyard - likely a coach or mission. Players and staff are all facing to the right with focused expressions, showing they're engaged in discussion or watching something important happening off-screen.\n\nThe second part shifts to a completely different setting - an outdoor nighttime celebration with a large, joyous crowd. People of various ages and ethnicities are standing in a circle and dancing together. The mood is festive and communal. A young boy in a blue hat with a white cross is being lifted by a man in a blue shirt while the crowd around them laughs, claps, and enjoys the music. Someone in a white shirt is holding a red solo cup, and strings with lights glowing create an intimate, party-like atmosphere under the night sky.\n\nThese two scenes appear to capture separate but equally passionate gathering points - one focused on team sports and strategy, the other on music and social celebration - both showing people coming together to enjoy shared experiences.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 252,
+        "total_tokens": 3006
+      }
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "analyse_action": "A vibrant outdoor party featuring a large gathering crowd. The scene captures various moments of celebration and movement.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 21,
+        "total_tokens": 2775
+      }
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "analyse_action": "The scene takes place at an outdoor summer party on a bright day. People are gathered around a low table with drinks and mixer bottles, dancing in a circular formation in the grass. The gathering feels informal and lively, with string lights hanging overhead and a building with a porch behind the dancers.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 59,
+        "total_tokens": 2813
+      }
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "analyse_action": "The scene depicts a group social gathering outdoors at night. It opens with a wide view of people mulling about in the dim setting, and then narrows to focus on two different interactions happening simultaneously in the same space.\n\nOne conversation takes place between a man in an orange and white striped shirt and a man wearing a blue Hawaiian shirt. A woman with long brown hair in a gray top stands between them, and they're holding orange plastic cups as they talk. The space is decorated with white string lights strung between trees, creating an atmospheric backdrop against the dark background.\n\nA separate group interaction is happening nearby—people are gathered around what appears to be a party setup with an orange flag visible. This group has a more tense or uncomfortable dynamic, with people standing close together and body language that suggests they're either having a serious conversation or observing a slightly charged situation.\n\nAs the scene progresses, the camera alternates between these two focal points, maintaining the same nighttime outdoor setting. The string lights throughout cast a soft glow over the trees and building wall, keeping the mood consistent as these different social interactions unfold simultaneously within the same festive yet somewhat serious environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 231,
+        "total_tokens": 2985
+      }
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "analyse_action": "The scene captures a social gathering taking place outdoors at night, centered around a conversation among several friends. The main focus is a group of men of different racial backgrounds - a white man in an orange striped shirt, an African American man in a red-and-white plaid shirt, and another African American man in a camouflage hoodie.\n\nThe group is huddled together in conversation, standing amid a larger crowd that's been assembled around a tree behind them. The tree trunk is wrapped with string lights, which are illuminated and contribute to the warm, festive atmosphere of what appears to be a party or outdoor social event. A purple inflatable alien figure adds to the casual, celebratory mood.\n\nAround them, people are mingling and engaging in various activities - some are standing in small clusters chatting, others are holding drinks, and one person is carrying a red Solo cup. The overall setting feels lively and communal, with groups interacting under the glow of the string lights. The gathering has an informal, relaxed energy with the mix of casual clothing, socializing, and the added entertainment element of the inflatable alien figure.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 220,
+        "total_tokens": 2974
+      }
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "analyse_action": "The scene shows a college classroom in active session. A professor with long gray hair and a gray beard is teaching at the front of the room, standing at a podium wearing a brown suit jacket over a blue shirt and holding a black marker.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 49,
+        "total_tokens": 2803
+      }
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "analyse_action": "The scene takes place in a well-lit classroom where a lecture is underway. An older male professor with long gray hair and a gray beard, wearing a blue button-down shirt and tan jacket, is standing and addressing the students from a podium. The classroom has light gray walls and features windows that bring in natural light. \n\nThe students are seated at desks arranged in long rows, with open books and papers in front of them spread across their gray surfaces. They appear to be actively engaged—some have pencils raised to write, others are taking notes, while a few glances have wandered away from the lectures.\n\nThe atmosphere is quiet yet studious, with students focused on their materials while listening to the instructor. The overall mood is that of a regular classroom session where the professor is teaching and the students are attending to the lesson.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 167,
+        "total_tokens": 2921
+      }
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "analyse_action": "The scene shows an older male professor with long grey hair and a grey beard standing in the middle of a classroom in front of approximately 20 students, raising his arm to address the group and speak.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 42,
+        "total_tokens": 2796
+      }
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "analyse_action": "The scene takes place in a typical college classroom during a lecture. Students are seated in tiered rows of long desks, most working quietly with their papers, notebooks, and pens. They're focused on their own tasks, looking down at workbooks or glancing between their notes and the front of the room.\n\nAt the front, the instructor—an older man wearing a brown leather jacket over a blue button-down shirt and brown pants—is standing near a whiteboard covered with handwritten notes in black and red marker. Students throughout the room are engaged in various ways: some have their hands raised, some are writing, others have pens poised over their books, and many are quietly reviewing their notes. There's a casual but studious atmosphere as everyone maintains their attention on the lecture.\n\nThe classroom environment includes standard academic features like a wall-mounted projector screen, a speaker, and natural daylight coming through a window that reveals trees outside. The space has white walls with gray accents, black top desks, and a brown carpeted floor, creating a typical contemporary college lecture hall setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 213,
+        "total_tokens": 2967
+      }
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "analyse_action": "The scene takes place in a classroom where students are engaging in a discussion or lesson. Professor Fields stands at the front with a whiteboard behind him covered in diagrams and color-coded notes, speaking to the students.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 43,
+        "total_tokens": 2797
+      }
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "analyse_action": "The scene takes place on a college campus. It opens with a young Black man studying in a classroom. After class, he walks outdoors through a sunny campus area with other students and buildings in the background. While walking, he notices a young woman in a red shirt and blue jeans on his path. They strike up a conversation and walk together side by side. Their interaction appears warm and friendly - he gestures with his right hand while they talk and smile at each other.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 95,
+        "total_tokens": 2849
+      }
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "analyse_action": "The scene shows two students having a friendly conversation outdoors. A black man wearing a red, white, and gray plaid shirt with rolled-up sleeves is talking to a woman in a red shirt and blue jeans who has a green backpack on. They're standing on a wide paved walkway in a campus-like setting surrounded by lawns, trees, and a prominent circular monuments. There's another pair standing nearby during their conversation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 86,
+        "total_tokens": 2840
+      }
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "analyse_action": "The scene depicts a casual, everyday interaction between two students outdoors near a green area with grassy patches and trees. A woman stands facing a man who is positioned to the side, creating an informal, conversational atmosphere. Other students in casual clothing move through the background, lending a campus-like or community setting to the encounter. The exchange appears to be ongoing, with the two main figures engaging in dialogue against this backdrop of an active, lived-in outdoor space.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 93,
+        "total_tokens": 2847
+      }
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "analyse_action": "The scene takes place on a busy college campus where a young African American man in a red, white, and gray plaid shirt over a white T-shirt, wearing a black backpack, is engaged in conversation with a young woman with long brown hair wearing gold hoop earrings and a green backpack over a red shirt.\n\nTheir casual conversation unfolds on what appears to be a sunny day. The campus setting is vibrant and active, with multiple people walking around throughout the scene. You can see other students in the background - one is carrying a blue backpack and eating some food while talking to someone, and several others are sitting on a red brick wall with a tan top. \n\nThe environment shows typical campus features including stairs, green grass, trees, and well-manicured grounds. There are buildings visible in the mid-ground of the scene. The overall atmosphere is energetic and social, with students going about their day in various directions in this open university space. The exchange between the two main characters remains the focal point, though the constant flow of people around them reinforces the lively, bustling nature of campus life.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 219,
+        "total_tokens": 2973
+      }
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "analyse_action": "Two young people are having an energetic conversation on a college campus. The scene captures a lively, vibrant moment between them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 25,
+        "total_tokens": 2779
+      }
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "analyse_action": "Two individuals are having a conversation as they walk together through a green, park-like area with grassy terrain and a white path.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 27,
+        "total_tokens": 2781
+      }
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "analyse_action": "The scene shows two people having a friendly encounter on a college campus sidewalk. They're standing face-to-face in conversation - the woman is animated and expressive, gesturing emphatically as she talks, while the man listens with a smile and makes acknowledging gestures. \n\nTheir interaction culminates in a playful fist bump, and afterward they walk together side by side along the path, smiling at each other. They continue chatting as they move forward, with the woman adjusting her backpack and the man resting his arm behind his back. It's a casual, positive interaction between two students who appear to be connecting in the midst of their college lives.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 128,
+        "total_tokens": 2882
+      }
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "analyse_action": "The scene takes place at a bustling outdoor college campus where a casual student interaction is unfolding.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 19,
+        "total_tokens": 2773
+      }
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "analyse_action": "Two separate scenes are happening in the video.\n\nThe first scene takes place outside at night. A person in a gray shirt is walking along a street and passes where two people are standing under a streetlamp. After they pass, the two people separate ways, one taking a left turn and the other a right turn.\n\nThe second scene occurs inside a bedroom. A young man lies in bed wearing an orange football jersey and gray shorts. He's examining his reflection in a mirror and is holding a folded sheet of paper while noting something unusual. A second person, a Black man in a gray shirt, appears in the doorway and stands looking at the man on the bed.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 134,
+        "total_tokens": 2888
+      }
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "analyse_action": "In this scene, two young men are sharing a bedroom and having an interaction. One man is standing in the doorway wearing a gray shirt, holding up and examining a striped collared shirt in front of a mirror. He appears to be making a critical or frustrated expression while looking at the shirt, as if judging it or showing disappointment.\n\nThe second man is in bed talking on the phone. He's dressed in an orange shirt, lying on an orange pillow, and his phone is in hand as he appears engaged in conversation.\n\nThere's a surprising element in the scene as well—one of the men is sitting on the bed and his tongue sticks out as he watches with his mouth open, seemingly amused or shocked by something happening with the striped shirt.\n\nThe mirror reflects parts of the room, showing the clothes on the shelf and some posters on the gray wall. The room has a distinctly lived-in, residential feel, with personal items scattered around like an orange blanket and backpack on the floor.\n\nThe overall dynamic suggests a conversation or Debate happening between these two friends, centered around the striped shirt the standing man is holding up and presenting to the other. The sitting man's wide-eyed, open-mouthed reaction indicates something unexpected or amusing has occurred during this brief encounter.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 252,
+        "total_tokens": 3006
+      }
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "analyse_action": "Two young Black men are having a conversation on their cell phones in their bedrooms.\n\nThe man in the first room is wearing a gray T-shirt and leaning against a wooden cabinet with a mirror on it. He's talking on the phone while having a leisurely drink with his left hand, stacking shot glasses and taking sips between glancing at his phone. He's in a casual dorm room with a bed, kettlebell, and poster on the wall.\n\nMeanwhile, the man in the second room is wearing a white T-shirt and a black jacket. He's holding his phone in one hand and has his other hand on his hip. His room has a green wall, doorway, couch and pillow visible in the background, and a dresser with a stereo and speaker system.\n\nThe setting appears to be a lived-in space familiar to both of them, possibly personal bedrooms or dorm rooms where they can comfortably make calls. The intimate positions and casual drinking create an atmosphere of a personal phone conversation unfolding in private spaces.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 202,
+        "total_tokens": 2956
+      }
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "analyse_action": "The scene shows two contrasting spaces connected by a phone conversation. \n\nOn one side, there's an older man wearing a black tracksuit with white and blue accents. He's clearly upset, speaking urgently into his phone with a distressed expression, furrowed brow, and wide eyes.\n\nOn the other side of the conversation, a younger boy is listening on the other end of the call. He's standing in what appears to be his room or a home space. When he finally turns to look at the older end while talking, his reaction confirms the news he's receiving is disturbing or alarming.\n\nThe exchange begins and ends with both participants holding their phones to their ears, moving slightly in their respective rooms as they continue this tense, emotionally charged conversation. The older man's visible agitation and the boy's concerned reaction suggest whatever is being discussed about the young man lying in bed in the boy's space is serious and troubling to him.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 187,
+        "total_tokens": 2941
+      }
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "analyse_action": "The scene shows an early morning in a college dormitory where two young men are going about their routine. \n\nThe first person is an African-American man, wearing a gray t-shirt with a dark jacket draped over his shoulders. He's standing in the entryway of the dorm room, moving a black bag marked with a paw print across the floor. His mottled shadow stretches behind him, and he carries an air of weariness and detachment as he heads either to or from his bedroom.\n\nIn the bedroom, a white man with dark hair is lying on his back in bed, wearing an orange college football jersey. He's holding a football with his jersey number \"5\" visible and is animatedly talking while repeatedly throwing the ball off-screen and getting back into position. The bed has an orange pillow and sheet, and he has a piece of athletic tape wrapped around his right wrist. Lighting creates dramatic shadows on his face as he moves and speaks.\n\nThe space is clearly a lived-in student setup with multiple furnishings: a desk lit by a desk lamp where the bag is being moved, a large window showing green trees outside, a television on a small table, and shelves with various items. The room has personal touches like a tiger-themed item, a photo of a woman, and snack wrappers on the wall.\n\nThe scene captures contrasting levels of energy—while one student moves through what appears to be leaving the room in a tired manner, the other in bed is engaged in an enthusiastic football routine, suggesting the early-morning bustle of dorm life with activities happening simultaneously in one shared space.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 320,
+        "total_tokens": 3074
+      }
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "analyse_action": "This appears to be a morning scene at a bus station, likely near a college campus. \n\nAn African American man in university colors is walking through the bus station's interior, heading toward the entrance with his suitcase in hand. He's wearing a blue and black jacket over a white shirt, moving purposefully through the area.\n\nOutside, you can see various people's activities:\n- A woman in a gray sweatshirt and blue pants is mopping the sidewalk\n- A security guard stands nearby\n- Other people in business attire are waiting for buses near the entrance\n- Another traveler is carrying luggage through the station\n\nThe bus station has an identifiable \"Greyhound\" design and features, with the man moving through the space as others go about their routines, creating a typical early-commute atmosphere at this transportation hub.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 164,
+        "total_tokens": 2918
+      }
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "analyse_action": "In the scene, Charles Washington is sitting on a bus at night, looking out the window. The bus shows the destination \"Atlanta\" on its LED sign, and other passengers are seated around him in the dim car interior.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 46,
+        "total_tokens": 2800
+      }
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "analyse_action": "This is from the movie Moonlight.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 9,
+        "total_tokens": 2763
+      }
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "analyse_action": "A young boy with dark skin, dressed in a black hoodie with red trim sitting on a black leather couch with multiple pillows, watching TV in a quiet living room. Another man wearing a similar colored hoodie with white and blue accents, a black backpack, and a duffel bag walks in through the doorway and sits on the couch beside him. The atmosphere is casual and relaxed.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 77,
+        "total_tokens": 2831
+      }
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "analyse_action": "The scene shows a tense confrontation in a dimly lit living room. Two young men are engaged in an intense argument while a third man stands off to the side observing the exchange. One of the young men appears particularly agitated, pacing back and forth nervously throughout their tense interaction. The pregnant young girl in the red hoodie adds another layer of intensity to the situation as she interacts with the men.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 81,
+        "total_tokens": 2835
+      }
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "analyse_action": "The scene depicts a tense confrontation taking place in what appears to be a room that functions as a storage or supply space. Three men are gathered around a central table while a fourth man enters through a white doorway, wearing a white tank top and purple pants. The men standing near the doorway are engaged in a serious interaction, with one placing a hand on the waist of another person as if addressing them directly.\n\nThe setting is functional with storage boxes piled high, stacks of red shoe boxes along the walls, and electronic equipment in the room. Throughout the exchange, the men maintain an intense, confrontational posture - they're actively talking past or over one another, with various physical displays of aggression including pointing and hand gestures.\n\nAt one point, one of the men's hand is placed firmly on the waist of another. The confrontational nature of the interaction escalates when a person walks briskly through the doorway throws something across the room. The tension culminates as the camera pulls back to reveal the full room and people looking toward the door where the commotion occurred.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 214,
+        "total_tokens": 2968
+      }
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "analyse_action": "The scene depicts a tense confrontation taking place in a dimly lit interior space. The setting is a small, shadowed room with white walls and some clothing visible in the background. The practical lighting creates an atmosphere of emotional tension and intensity.\n\nA bald, bearded man dressed in black is seen closing a bathroom door while surveying the room, appearing focused and deliberate. He then moves closer to what seems to be a confrontation.\n\nThe confrontation itself involves at least five people in total. One individual directs an angry, focused glare across the room at a man - the one who just closed the door. This angry glare causes the man in black to shift nervously and look around anxiously, trying to gauge the situation and avoid direct conflict.\n\nOther people are positioned around the group, including a younger boy watching what's unfolding and a man nearby wearing a black headband. Additional dresses are visible in the background, along with a curtained window on one side of the room.\n\nThe overall mood is charged with confrontation and emotional tension, with the people in the room appearing to be at odds with each other. The dim lighting and confined space amplify the sense of restraint and measured aggression, creating a contained yet charged interaction that feels like it could escalate at any moment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 253,
+        "total_tokens": 3007
+      }
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "analyse_action": "The scene shows a tense exchange between four young men in a closed room or house interior. Two men are engaged in what appears to be a serious conversation - one wearing a white tank top and black do-rag, the other in a blue, white, and gray jacket with a backpack. They're standing face to face with a serious, focused demeanor.\n\nIn the background, a woman stands in the doorway watching the interaction. The persistent red lighting in the room adds to the somber, tense atmosphere, creating a mood of confrontation or deep discussion.\n\nThe space itself has white walls and contains a black dresser topped with a green box, a white machine with an orange bar, a window with a black and white curtain, and a black-framed picture. During the scene, the men briefly shift positions - the tank top-wearing man steps back with a slight smile, while the man in the jacket takes a step forward, closing the gap between them.\n\nAt one point, a team of people resolves to help each other, and the woman draws her doll back.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 214,
+        "total_tokens": 2968
+      }
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "analyse_action": "In the scene, a tense standoff unfolds in what appears to be a school and detention center hallway. Two men are engaged in an intense conversation, their facial expressions carefully controlled and focused on one another. \n\nThe setting is unsettling, with a dimly lit hallway featuring white walls where various details contribute to the oppressive atmosphere. There's a desk and computer monitor visible, as well as un*x with pink closet doors in the background that add to the school environment.\n\nAs the camera pans, the composition reveals more of the tense dynamic. A man in a backpack stands with his head slightly lowered, appearing subdued, while a larger man in a white-and-black tracksuit looms beside him with his hands positioned behind his back in a confrontational stance. In the background, a boy in a red-and-gray hoodie watches the exchange with evident concern, and another adult stands nearby with a unclear expression.\n\nThe arrangement of these individuals creates a palpable sense of confrontation and tension, building a charged atmosphere in this confined space. The camera movement highlights the power dynamic between the figures and the scale of the situation, emphasizing the gravity of the encounter taking place.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 229,
+        "total_tokens": 2983
+      }
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "analyse_action": "Three men come together in a dimly lit room along with a boy. One man is wearing a black-and-white jacket with a backpack, another is wearing a white tank top with a bandana, and a man walks through a doorway on the opposite side. The scene follows camera movements that pan across the room as the men stand in a loose cluster, appearing attentive to something, creating an informal and quiet indoor gathering.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 85,
+        "total_tokens": 2839
+      }
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "analyse_action": "The scene shows nighttime street activity with several people entering and walking through an apartment complex. Three men appear together - one in a white tank top with a black do-rag, one in a white shirt with a black jacket, and a younger man with short hair in a white T-shirt under a dark hoodie. They walk through a black door into a red-walled building that appears to be an apartment complex.\n\nThe mood is tense and atmospheric. The lighting is dark and moody, casting strong shadows across the scene. The urban environment includes typical city elements like brick walls, a metal stairwell, and a black railing leading upward.\n\nLater in the scene, the camera shifts to a different area where a red brick building is visible on one side and a white brick building with a second-floor staircase on the other. A person in a white shirt and blue jeans stands near a white mailbox, while two figures walk along the sidewalk - one wearing a white shirt with a black jacket and black pants, and the other dressed in a black shirt with black pants. \n\nThe overall setting captures a gritty urban night scene with people entering and moving through an apartment complex, suggesting some kind of repeated or routine activity in this specific location.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 245,
+        "total_tokens": 2999
+      }
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "analyse_action": "In the scene, a man in a blue-and-black track jacket walks through his apartment and arrives in a cluttered kitchen. He approaches the refrigerator, opens it, and looks inside, grabbing a blue box labeled \"Frosted Flakes.\" After closing the door, he stands in the center of the kitchen holding the cereal box in both hands and begins pulling at its tape, trying to open it.  The kitchen around him appears lived-in and messy, with various everyday items scattered across the countertop, including a box of cornflakes on top of the fridge.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 116,
+        "total_tokens": 2870
+      }
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "analyse_action": "In this scene, a father and his son are interacting in the kitchen around the open refrigerator. The father is wearing a tracksuit and has the refrigerator door open, revealing clear containers with blue lids and a red apple box inside.\n\nBefore being put in the fridge, the son, wearing a blue hoodie with a red zipper, holds a box and shakes it up and down while helping organize the groceries. When the box goes into the refrigerator, both men pause and make direct, serious eye contact with one another, clearly engaged in an important conversation.\n\nAt one point, the father bends over toward the countertop area beneath the cabinet, appearing focused on something there. He then drinks from a clear plastic jug of milk.\n\nThis scene captures a moment of domestic life where everyday activities like organizing groceries and cooking in the kitchen become a setting for a genuine, adult conversation between what appears to be a father and son.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 182,
+        "total_tokens": 2936
+      }
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "analyse_action": "In the scene, two people have a tense conversation in what appears to be a kitchen. A young boy wearing a blue zip-up jacket over a white shirt stands along the left wall, leaning against it with a worried expression. He watches the adult throughout the exchange, shifting his gaze and periodically looking down, his shoulders hunched as if anxious or sensitive to the situation.\n\nThe adult—a dark-haired man with a scruffy beard—in a black, white, and blue jacket, stands on the right side of the room facing the boy, though his full profile isn't visible. Their body language and positioning suggest a serious, somber discussion taking place.\n\nThe lighting is dim, casting a soft yellowish glow throughout the space. A white light switch is visible on the wall between them, reinforcing that this is an interior setting. The atmosphere feels intense and charged, implying they're discussing something weighty or troubling. Throughout the exchange, the interaction remains focused on the two individuals—the boy's anxious presence against the wall and the adult's measured response on the right side of the frame—within this confined kitchen space. The dialogue continues as the boy and the adult maintain their positions, the boy still observing and seeming distressed, while the adult continues whatever is being said.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 253,
+        "total_tokens": 3007
+      }
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1305,
+      "analyse_action": "The room contains various items. There's a white refrigerator with its door open, where a box of Frosted Flakes sits on top alongside a yellow container. Inside the refrigerator, you can see a cup with a blue lid. The kitchen area has yellow or beige walls, light brown wooden cabinets, and a dark gray countertop.\n\nA young boy in a blue hoodie with a pink and red underside of the hood is standing near an open doorway that leads into another room with a brown door.\n\nThe boy looks back, eyes widening and head tilting slightly in reaction. The adult man turns, looks toward the boy, and pushes the refrigerator door shut. Throughout this interaction, the camera tracks their movements and occasionally pans slightly as they navigate the space, creating a sense of tension and communication between the two characters in the warm, modest kitchen setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 170,
+        "total_tokens": 2924
+      }
+    },
+    {
+      "intervalle_index": 87,
+      "intervalle_debut": 1305,
+      "intervalle_fin": 1320,
+      "analyse_action": "The scene takes place in a lived-in living room featuring an African American man and child interacting through a tense, unbridgeable gap.  \n\nThe older man, wearing a blue-and-white jacket over a white shirt, stands near the back wall by a dark door and brown wall. He glances downward repeatedly and speaks while using slow, deliberate hand gestures as if trying to communicate something important. His posture reads as heavy with concern and restraint—he doesn't make direct physical contact with the child and keeps himself at a distance.\n\nThe younger child hugs a large orange ball and sits along the couch, wrapped in a dark blanket. He shakes his head slightly and looks away several times, refusing to meet the man's gaze. He alternates between studying the floor and staring ahead with a resolved, distant expression. He doesn't speak, doesn't engage physically, and continues his quiet attempts to comfort himself with the ball and blanket.\n\nThe overall atmosphere is tense and emotionally heavy. The man's heightened, purposeful gestures and the child's defensive, head-shaking avoidance suggest they're having a serious conversation about something difficult or painful that the child refuses to acknowledge. There's a clear emotional divide between them—the man aims to connect, while the child withdraws. The space becomes a stage for this unspoken struggle between the two figures.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 266,
+        "total_tokens": 3020
+      }
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 1320,
+      "intervalle_fin": 1335,
+      "analyse_action": "Two police officers are seated in an interrogation room at a wooden table with chairs on both sides. One officer stands with her back to the camera, while the officer in the denim jacket and the other person in the room have their attention focused on the standing officer. The atmosphere appears tense, with the two seated individuals displaying serious and attentive facial expressions.\n\nThe room has a white-painted tiled floor and walls, with a bulletin board on one side featuring various posters. Large windows along the walls provide a view into the examination room where the interview is taking place, offering a clear perspective on the ongoing interaction.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 121,
+        "total_tokens": 2875
+      }
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 1335,
+      "intervalle_fin": 1350,
+      "analyse_action": "The scene takes place in what appears to be a police station or visiting area. A young boy in a orange hoodie and an older man in a dark green shirt are sitting in the waiting area between meetings. They spend their time stationed at brown chairs with silver legs in the uncomfortable visitor area awaiting their appointments.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 62,
+        "total_tokens": 2816
+      }
+    },
+    {
+      "intervalle_index": 90,
+      "intervalle_debut": 1350,
+      "intervalle_fin": 1365,
+      "analyse_action": "This scene depicts a tense confrontational interaction between visitors at what appears to be a detention center or holding facility. A stern young male worker or security personnel in uniform is confronting a young man who has come to visit someone.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 45,
+        "total_tokens": 2799
+      }
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 1365,
+      "intervalle_fin": 1380,
+      "analyse_action": "The scene takes place in a stark, utilitarian white-tiled room that appears to be a correctional facility or detention area. A woman stands facing an African-American man, speaking to him while she looks concerned and interrupted. The man's posture comes across as defensive and uncertain, with his gaze wobbling side to side and lips tightening as if bracing for bad news. He stands stiffly, glancing between the woman and something off to his left where a young boy waits quietly.\n\nThe man clutches an object in his hands while shifting with visible tension, and the boy stands rigidly observing them from the background. The entire exchange has an anxious, confrontational quality.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 138,
+        "total_tokens": 2892
+      }
+    },
+    {
+      "intervalle_index": 92,
+      "intervalle_debut": 1380,
+      "intervalle_fin": 1395,
+      "analyse_action": "A group of people is gathered in a stark, institutional room having a serious discussion. At the center is a woman with dark hair in a black suit jacket over a tan turtleneck, who appears to be the one leading the conversation. She's engaged in focused dialogue with a middle-aged man with gray hair, a white beard, and glasses who's wearing a black suit jacket and holding a brown folder.\n\nOn her other side stands a younger man in a green long-sleeve shirt holding a piece of paper, maintaining a serious expression as he listens. The scene has an official, administrative quality, with some participants holding folders or papers and documents visible on a nearby chair.\n\nAs the conversation continues, attention shifts to a younger man wearing a gray hoodie. At one point, he bends over to look at the floor, then straightens as another man with a receding hairline in a black suit jacket and white shirt stands nearby looking at him. The dialogue appears professional and concentrated throughout the interaction.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 202,
+        "total_tokens": 2956
+      }
+    },
+    {
+      "intervalle_index": 93,
+      "intervalle_debut": 1395,
+      "intervalle_fin": 1410,
+      "analyse_action": "In the scene, multiple interactions are taking place simultaneously in what appears to be a stairwell area of a correctional facility.\n\nThe central focus is on a man with a short haircut in a gray long-sleeve shirt and black watch who is engaged in conversation with an older gentleman in a dark blazer and white shirt. The man in gray is listening intently, showing attentiveness to whatever is being said.\n\nTo the side, there's a mother-son duo observing the exchange. The mother, wearing a black shirt with her hair pulled back, is looking up at the older man while keeping an eye on her son. The young boy beside her is wearing an orange and black zip-up hoodie with a necklace, appearing somewhat unsettled and watching both adults with concern.\n\nThe setting reinforces the institutional nature of the interaction - the stark white walls with partial \"NO SMOKING\" text visible and the plain white brickwork create a restrictive atmosphere typical of a correctional facility. This environment, combined with the formal attire of one participant and the casual clothing of the others, suggests this may be an official meeting or interview taking place within the facility.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 231,
+        "total_tokens": 2985
+      }
+    },
+    {
+      "intervalle_index": 94,
+      "intervalle_debut": 1410,
+      "intervalle_fin": 1425,
+      "analyse_action": "In the scene, a serious conversation is taking place in a hallway between two men. One is a middle-aged man with gray beard and hair, wearing a black suit jacket over a white shirt, who appears to be speaking and gesturing while addressing the other man - a black man with short hair and a beard who has his back turned to the camera.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 72,
+        "total_tokens": 2826
+      }
+    },
+    {
+      "intervalle_index": 95,
+      "intervalle_debut": 1425,
+      "intervalle_fin": 1440,
+      "analyse_action": "The scene takes place in a sterile, institutional hallway that appears to be a jail or police holding facility. \n\nThe situation unfolds with tension among four people:\n\nA young man in a green long-sleeve shirt is being questioned by law enforcement officers. He stands tense and defensive, holding a piece of paper and turning it over as he tries to explain himself. Another young man in a bright orange and blue hooded sweatshirt stands nearby, watching quietly with his eyes downcast.\n\nThe officers maintaining a formal, serious professional demeanor throughout the encounter.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 110,
+        "total_tokens": 2864
+      }
+    },
+    {
+      "intervalle_index": 96,
+      "intervalle_debut": 1440,
+      "intervalle_fin": 1455,
+      "analyse_action": "The scene takes place in a stark tiled corridor with white walls and black writing. A black man in tactical-style clothing stands facing a white man in a black suit and white shirt. What makes the scene particularly tense and insinuating is that the man in black is holding a modern phone with a small screen and full keyboard while another person stands nearby.  Later in the scene, the young black child approaches the man in the tactical outfit while the suited man and another person stand nearby, observing the interaction. The corr",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 104,
+        "total_tokens": 2858
+      }
+    },
+    {
+      "intervalle_index": 97,
+      "intervalle_debut": 1455,
+      "intervalle_fin": 1470,
+      "analyse_action": "In the scene, two officers are talking with a child and his guardian. The officers are questioning the boy about a body that wasn't found and mentioning his father.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 34,
+        "total_tokens": 2788
+      }
+    },
+    {
+      "intervalle_index": 98,
+      "intervalle_debut": 1470,
+      "intervalle_fin": 1485,
+      "analyse_action": "In this scene, you have a stark, confrontational exchange between two characters separated by distance.\n\nPower dynamic:\n\nThe older man in the suit appears authoritative and controlling. He stands over the boy with conspicuously rigid posture and closed fists, creating a defensive, tense standoff.\n\nPhysical tension:\n\nThe black male character shows clear aggression - his eyes are narrowed intensely, his face is tightly set with his mouth open enough to reveal his teeth, and his forehead is furrowed. These expressions form a scowling, angry look that conveys frustration, anger, or readiness tophysically lunge forward.\n\nBody language:\n\nThe man in the suit maintains defensive stance with his hands clenched to his sides while wearing a stern, focused expression. The younger boy opposite him shows extreme agitation through his facial muscles and body language.\n\nThe setting reinforces this tension. Shot from a ground-up angle, it emphasizes the power imbalance, making the older man appear imposing while putting the boy in a vulnerable position.\n\nThe boy's reaction to this confrontation seems mixed - there's concern mixed with defiance or determination as he bekompletely staggers by the older man.\n\nThe scene captures a moment of charged conflict with the older man asserting power and control over the boy's movements, while the boy displays assertive, brave and aggresive facial reaction to this domination.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 267,
+        "total_tokens": 3021
+      }
+    },
+    {
+      "intervalle_index": 99,
+      "intervalle_debut": 1485,
+      "intervalle_fin": 1500,
+      "analyse_action": "In the scene, a tense standoff is taking place in what appears to be an institutional hallway. A middle-aged man with a gray beard wearing a gray suit jacket over a white collared shirt stands with his back partially to the camera, facing a young boy. The boy has short black hair and wears a distinctive hoodie that's orange on the shoulders and sleeves with a blue chest and a silver zipper. Both characters have serious, attentive expressions as they face each other.\n\nThe two seem to be in a position of confrontation or negotiation, exchanging worried glances. The hallway setting reinforces the formal, serious nature of the encounter. The overall atmosphere is heavy with tension between the two figures as they look at one another in what appears to be an important, emotionally charged moment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 154,
+        "total_tokens": 2908
+      }
+    },
+    {
+      "intervalle_index": 100,
+      "intervalle_debut": 1500,
+      "intervalle_fin": 1515,
+      "analyse_action": "The scene shows a father and his son traveling together on a bus at night. The father sits quietly intently looking out the window as the bus passes through the darkness, occasionally glancing around the compartment. His son sits next to him, resting with his head on his father's shoulder, appearing calm and relaxed with his eyes closed.\n\nThe interior of the bus is dimly lit, creating a still and quiet atmosphere. Other passengers are sleeping: a woman is reclined in a seat, another woman with a ponytail sits behind, and a person sits to the side of the row. The father and son share a gray seat, with the boy wearing a gray zip-up hoodie with orange sleeves and a backpack, their elbows resting across the back of their seats.\n\nThe evening setting outside the windows reinforces the late-hour travel, and the peaceful nature of the moment emphasizes the connection between the two traveling companions as they move across the night.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 188,
+        "total_tokens": 2942
+      }
+    }
+  ]
+}

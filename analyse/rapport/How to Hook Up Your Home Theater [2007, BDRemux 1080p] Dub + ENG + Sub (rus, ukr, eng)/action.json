@@ -1,0 +1,287 @@
+{
+  "movie_id": "How to Hook Up Your Home Theater [2007, BDRemux 1080p] Dub + ENG + Sub (rus, ukr, eng)",
+  "date_analyse": "2026-02-10T21:20:03.606949",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "analyse_action": "The scene sequentially displays three icons representing classic cartoon figures - sequentially Goofy, Mickey Mouse, and Donald Duck - to showcase representative titles from the studio's catalog, which is fitting considering the new Goofy movie was being released at the time.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 51,
+        "total_tokens": 2805
+      }
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "analyse_action": "The scene is a classic cartoon-style football kickoff sequence featuring this goofy character. The brown football with white laces rises above a wide, rectangular playing surface and lands in the Goofy character's hands.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 42,
+        "total_tokens": 2796
+      }
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "analyse_action": "The scene takes place in a sports-themed living room, where Goofy is relaxing on a green couch covered with a furry blanket while enjoying a bowl of chips positioned on a side table next to him. Nearby are football decorations like a lamp and lampshade, as well as an end table with a soft drink.\n\nThe main focus is a small TV placed on another side table. The TV is unusual and quite mechanical in design—the antennas are made of a coat hanger, boxing gloves are being used as controls, and a toothbrush holds the antennas. The show playing on the screen features the same Goofy characters who were earlier assembled to spell out \"Go Team\" by holding up letters.\n\nA later scene introduces additional details, such as a window where yellow curtains are tied back to show a view of a building and tree outside. The scene has a cozy, lived-in atmosphere with a brown wall with white stripes, a wall clock, and a framed picture. One of the dogs is sitting on the floor in front of the TV holding a football-shaped pillow, while another is lying on the couch. The small table with the drink remains on the green rug with a football-themed pillow, and a snack-filled bowl sits by the lamp.\n\nOn the TV, a football game is playing, showing a green field marked with white lines and heroes leaping into the air in action during the sports event.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 282,
+        "total_tokens": 3036
+      }
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "analyse_action": "The scene shows a cheerful home delivery scene with Goofy in his living room wearing bright orange sporty attire. His living room features casual furniture including a green chair. Outside, Goofy is standing in front of his house, which has a brown roof and is surrounded by green trees and a tidy sidewalk leading to his door.\n\nA friendly-looking delivery worker in a blue uniform and white hat is bringing in a large box on a dolly. The box is clearly marked, displaying \"New Home Theater System\" along with promotional text and starburst-style icons shouting \"NEW!\" and \"BUY!\". Through the delivery window, you can see the truck's advertisement artwork showing promoteably brand with two sofas together.\n\nThe whole scene has a lighthearted, house-warming quality - it looks like a typical residential neighborhood moment where excited homeowners are about to welcome new entertainment equipment to their home.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 181,
+        "total_tokens": 2935
+      }
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "analyse_action": "In this scene, Goofy is watching a TV cartoon and then participating in an imaginative playthrough of the football game. He takes on the role of the quarterback by sliding into the end zone and pretending to receive a touchdown pass. The game play continues with the quarterback moving laterally across the field and making a throw to the right, while a referee observes the action.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 76,
+        "total_tokens": 2830
+      }
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "analyse_action": "The scene takes place inside a shopping center with characters engaged in various activities. In the parking area, Goofy is immersing his hands into an icy tub of water and then splashing it onto his oily face. He's wearing a blue shirt, yellow bow tie, and blue jeans while performing this playful face wash routine.\n\nThrough the windows, there's another Goofy character dancing on a rainy street outside, positioned between rows of parked cars under a cloudy blue sky. This outdoor Goofy is dressed very differently from the one inside – he's wearing an orange hat, orange shirt with yellow stripes, blue pants, and brown shoes, and he's actively dancing with one leg lifted off the ground.\n\nThe storefront visible through the window features a yellow \"Must Go\" sign and display speakers in large circles, along with a banner that reads \"Obey Buy Obey.\" Inside the building, it appears to be set up for a sale event, with various signage visible throughout the space.\n\nIt's essentially two different Goofy characters experiencing different activities in their surroundings – one washing his face indoors while facing a rainy, lively street outside, all connected by their distinct spaces within what seems to be a store complex during a promotional period.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 251,
+        "total_tokens": 3005
+      }
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "analyse_action": "The scene takes place in a brightly lit, toy-filled warehouse with colorful shelves and hanging decorations, where a squirrel wearing a yellow shirt, headset, blue pants, and red shoes is moving purposefully through the space while various other characters react to his presence.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 52,
+        "total_tokens": 2806
+      }
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "analyse_action": "In the scene, Goofy is standing in an electronics department store surrounded by various items for sale like televisions, cameras, and headphones on the walls. Behind him on his right is a TV on a wall. In front of him is a storefront with a cash register and shelves. He pushes a shopping cart overflowing with black electronic equipment out of the store while wearing his百货 store uniform.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 80,
+        "total_tokens": 2834
+      }
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "analyse_action": "Goofy is shopping in an electronics store, pushing a cart filled with TVs and speakers while browsing the colorful showroom lined with sales placards. \n\nAs he moves through the aisles, he pauses to watch a TV screen showing an animated football broadcast. While observing the game, which features two teams in blue and red uniforms playing on a green field with a goalpost in a packed stadium, Goofy loses his footing and promptly falls flat on his face.\n\nAfter the comedic fall, he gets up unharmed and continues his exploration of the store, still pushing his TV-packed shopping cart under the festive banner that reads \"Buy Me a Shiny New TV's.\"",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 136,
+        "total_tokens": 2890
+      }
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "analyse_action": "The scene shows Goofy outside a white house with a red door and bay window. He's wearing a backwards red baseball cap, matching shirt, blue pants, and white gloves. With a cheerful expression, he's using his characteristic goofy stance with bent knees and arms thrown wide.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 58,
+        "total_tokens": 2812
+      }
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "analyse_action": "The scene shows a playful Disney character who goes from casual relaxation to spirited dancing in a cozy living room. He starts seated on a green couch, enjoying a laid-back moment with a drink in hand, then suddenly springs into action and bursts into an energetic dance routine.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 54,
+        "total_tokens": 2808
+      }
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "analyse_action": "In the scene, Goofy is celebrating with the letter \"B\" while holding a party hat prominently in his hands. He's inside a cozy spaceship cabin decorated in warm, muted tones. The cabin has yellow curtains framing the window, a potted plant on the floor, and doors with windows that look out into a serene landscape with trees, bushes, and distant houses. After his energetic celebration, he sets the letter \"B\" down, gazes upward for a moment, then reclines comfortably on the large circular rug, comes to rest in a sunbeam shining through the window onto the green patterned rug.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 126,
+        "total_tokens": 2880
+      }
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "analyse_action": "In the scene, Goofy is relaxing on a soft, colorful patch of rug in a warm, cozy living room when things get unexpectedly wild.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 31,
+        "total_tokens": 2785
+      }
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "analyse_action": "In this scene, Goofy is holding sharp knife and then jumps to a big box. He accidentally cuts down a stack of boxes beside him, which then collapses. White, popcorn-like pieces fall steadily from both the stack and the box onto the neighborhood below, including Goofy himself.\n\nThe fallen objects continue to rain down across the suburban area, creating a snowy blanket over everything. Goofy ends up in this flurry of white pieces, picking up a sheet of paper that says \"Five Minute Assembly\" and \"Trippy TV says 'It's Easy...' before you start...\".\n\nThroughout the scene, Goofy is shown reacting to the falling pieces - at one point he's partially covered by the white material, smiling and gesturing with his hands while holding the assembly instructions.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 160,
+        "total_tokens": 2914
+      }
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "analyse_action": "In this scene, Goofy is epicenter of frantic, messy destruction. He starts by lassoing himself and then swinging through an enormous spread-out blueprint in an attempt to rip it apart. While struggling to tear through the oversized schematic, he accidentally pulls down a sign above him that floods the entire room with an avalanche of white packing material. \n\nThe debris—this wide mix of foam peanuts, packing paper, and shredded material—buries the space and knocks over a cardboard box filled with cable connections. An electronic device sits nearby as the mess spreads throughout the room. Goofy, still visibly upset, starts kicking around with his lasso and throws a hammer at a computer monitor before dramatically smashing the hammer itself. He ends up in a playful, chaotic stance with his tongue stretched out, facing the semi-assembled cable unit he was trying to connect.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 175,
+        "total_tokens": 2929
+      }
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "analyse_action": "In the scene, there's quite an action-packed sequence unfolding! Goofy, who seems to be a maintenance technician based on all his specialized equipment and protective gear, is working inside what appears to be an industrial control room filled with buttons, dials, and safety signs.\n\nThe situation quickly escalates when he notices two small garden gnomes having a conversation outside. The gnomes appear to ring a bell or issue some kind of alert, after which a large blade is suddenly launched straight toward him at incredible speed. Goofy nimbly dodges this incoming threat but is then ensnared by an enormous black cable with multiple strands.\n\nStruggling to free himself from this tangled web, he manages to shake off the cable but ends up unable to resist another attack. A long purple cable sweeps in and knockes him backward against a control panel full of buttons and indicators.\n\nAs Goofy tries to regain his footing and get back to the maintenance work in front of him, a large power saw unexpectedly bursts through the wall nearby, adding to the chaotic and dangerous atmosphere in the room. Throughout the entire scenario, Goofy maintains his trademark look with his white gloves, blue pants, and orange shirt.\n\nThe scene captures the sudden shift from what was likely a routine maintenance check to a rapidly escalating series of bizarre and dangerous events involving garden gnomes, flying blades, and coiled cables, with Goofy having to react quickly to numerous hazards in this industrial setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 301,
+        "total_tokens": 3055
+      }
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "analyse_action": "ERREUR: 502 Server Error: Bad Gateway for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "analyse_action": "Based on what I can see, the scene appears to depict a sound wave visualization interaction on a light-toned canvas. The scene consists of several key elements working together to illustrate audio activity:\n\nA stationary black silhouette is positioned at the lower center of the frame, representing a listener or observer facing upward. Above this silhouette, \n\nFrom the bottom, three swaying red curves emerge, arcing upward and outward. As these red waveforms rise and sweep upward, lines shoot up from the top of each red arc and fold back downward.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 108,
+        "total_tokens": 2862
+      }
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "analyse_action": "The scene depicts animated artistic chaos unfolding on a white background. Colorful squiggly lines in various hues circle around black squares arranged in a border-like pattern on the field, with rectangles positioned at the top and bottom. In the center, a black stick-figure character is shown upside down in a handstand, falling backward with arms raised.\n\nThe falling motion causes the lines and geometric shapes to respond in a dramatic fracture effect - the colorful paths shoot outward while numerous gray lines radiate across the space like cracked glass, creating a shattered, spacetime-like distortion. This destructive fragmentation then restarts as animated lines connect with the objects, leading to a transformation.\n\nThe composition transforms into a 3D cartoon living room scene with a purple wall featuring white stripes. Disney character Goofy appears wearing an orange t-shirt, red cap, and white gloves, standing on a blue carpet. Around him are various items including a blue carpet, multiple speakers, cardboard boxes, and a green couch against the striped wall with framed pictures. He picks up a speaker and throws it.\n\nIn the final shot, the background shifts to white with vertical gray lines, showing a wooden bookshelf against the wall with four framed items on top and rows of blue, green, pink, and yellow books filling the lower shelves.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 260,
+        "total_tokens": 3014
+      }
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "analyse_action": "This appears to be a chaotic scene where a mischief-mongering Goofy is attempting to install or relocate a speaker in an absurd and destructive manner.\n\nGoofy climbs onto a blue ladder to work on what looks like a wall-mounted speaker system. He's hung low overhead before suddenly diving through a ceiling opening and crashing into the wall, sending paint splattering everywhere. He then mounts a second speaker in an unusual way, balancing it atop a green couch and frightening the fish in a nearby fishbowl.\n\nAfter this, he continues rigging a speaker system along a beige wall, connecting wires between various units mounted close together. The scene ends with Goofy standing in front of a grayish-brown wall, smiling broadly with his hands on his hips, looking pleased with his creative (and clearly illegal) speaker installation work.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 169,
+        "total_tokens": 2923
+      }
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "analyse_action": "In a goofy, hyperactive scene, Goofy is running across a room wearing an orange baseball cap, matching top, and blue pants, with a string attached around his waist. He's being pulled around by force, with a radio floating above and tangled wires and speakers scattered everywhere. The room is packed with gadgets—including boombox speakers, alarm clocks, and recording devices—all displaying \"12:00\" or similar times. Goofy looks exhausted and disoriented, his long tongue hanging out as he moves through a chaotic, cluttered space filled with electronic equipment. The earlier moment shows him swinging from wires in a tangled setup with a moose wearing a TV for a head and various speakers on the walls, highlighting the comedic, technologically saturated environment he's navigating.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 159,
+        "total_tokens": 2913
+      }
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "analyse_action": "Goofy goes through a sequence of misadventures involving remote controls:\n\nHe starts by gleefully tossing a remote into a chaotic pile already overflowing with countless remotes, creating a messy, out-of-control mess. He quickly follows this with panicked avoidance of the same heap, trying to evade being overwhelmed by all the devices.\n\nThe situation then escalates dramatically when Goofy is enveloped by a swirling current of remote controls, ultimately ending up stuck in the midst of this whirlwind of devices.\n\nTo end it all, Goofy attempts to break open a purple pillow that contains an Einstein Memorial. He smashes it open with a hammer, creating a glass ledge. After removing the cover, he is revealed in handcuffs inside the pedestal.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 152,
+        "total_tokens": 2906
+      }
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "analyse_action": "Goofy is having a stressful moment in front of a large television set. He's standing rigidly with his arms raised high and fists clenched, both legs spread apart, looking intensely frustrated and worried as he faces the grayscale screen.\n\nThe tension quickly escalates as he becomes so distressed that he is launched outward, flying away through the air past houses in a residential neighborhood. He continues tumbling through the sky in the same furious state, his white-gloved hands still clamped between his legs as he hurtles through the air with his gaze fixed downward.\n\nEventually, he crashes through a window and tumbles down onto the carpeted floor inside what looks like a green living room. He lands on his back, then springs up, wasting no time in grabbing a green chair with his feet and pulling it over his head. With the chair covering his face, he twists it around in a frenzy, one leg thrust outward, before finally overturning the sofa so that its backrest forms an exaggerated comical smiley face shape with his head engulfed in cream-colored clouds.\n\nDespite the initial turmoil, the scene concludes with Goofy looking upwards with a big smile on his face.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 240,
+        "total_tokens": 2994
+      }
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "analyse_action": "A playful, cartoon-style football game unfolds on a green field with a white wall beyond it. Goofy, wearing orange, is sitting down when a group of cartoon football players in blue and white uniforms rush toward the camera with energetic running and pounding movements.\n\nOne player in a blue number 72 jersey jumps up, grabs Goofy, and hoists him off the ground. Goofy is tossed in an unceremonious throw, but remarkably catches a football midair and lands on his feet with a quick, neat pick-up.\n\nUnfazed, Goofy celebratory spins, then grabs the player who threw him and throws him back into the action. This creates a chaotic pile-up, with athletes in brown pants toppling over as the moment spins wildly out of control.\n\nThe action winds down with a large character in a blue and white jersey with \"71\" raised triumphantly while Goofy, now holding a football, celebrates energetically. Finally, a referee in a black-and-white striped shirt blows his whistle and lifts his arm to signal the end of play.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 224,
+        "total_tokens": 2978
+      }
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "analyse_action": "This is a typical Disney animated production with end credits. The scene shows the final moments of an animated feature, after a dog protagonist wearing a red baseball cap and orange shirt is shown lying among scattered equipment like helmets, mittens, socks, and jerseys in a stadium setting.\n\nThe closing frame then splits into three columns displaying all the production crew, listing everyone who worked on the film from the top positions like writer and director all the way down through animators and editors, completely informing viewers of all the personnel involved in creating this Disney animation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 109,
+        "total_tokens": 2863
+      }
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 380.13,
+      "analyse_action": "The scene shows a beautifully crafted title card presentation for Walt Disney Animation Studios, showcasing various departments and their contributors. This includes sequences displaying credits for special thanks, post-production, and other key creative teams that worked on the film.\n\nAfter the credits roll, the video transitions to a stunning illuminated castle reminiscent of Cinderella's Castle. The castle is bathed in warm yellow light and sits on an island surrounded by water. A vibrant night sky in deep blue and purple hues forms the backdrop, streaked with clouds in soft pink and white tones. The atmosphere is magical and serene, creating a quintessential Disney fantasy setting.",
+      "tokens": {
+        "prompt_tokens": 1071,
+        "completion_tokens": 124,
+        "total_tokens": 1195
+      }
+    }
+  ]
+}
