@@ -1,0 +1,3413 @@
+{
+  "movie_id": "Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub",
+  "movie_path": "E:\\film_oral\\Toy Story of Terror! (2013)\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub.mkv",
+  "subtitle_path": "E:\\film_oral\\Toy Story of Terror! (2013)\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub.en.srt",
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 87,
+  "dossier_videos": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub",
+  "date_traitement": "2026-02-13T10:13:40.280969",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": "﻿1",
+          "start": 14.848,
+          "end": 16.224,
+          "text": "Ah!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 2,
+          "start": 21.897,
+          "end": 22.98,
+          "text": "Betsy."
+        },
+        {
+          "index": 3,
+          "start": 22.981,
+          "end": 24.148,
+          "text": "No!"
+        },
+        {
+          "index": 4,
+          "start": 24.149,
+          "end": 25.483,
+          "text": "Watch out! He's right behind you!"
+        },
+        {
+          "index": 5,
+          "start": 25.484,
+          "end": 26.776,
+          "text": "Hey, down in front!"
+        },
+        {
+          "index": 6,
+          "start": 26.777,
+          "end": 28.236,
+          "text": "Oh, sorry."
+        },
+        {
+          "index": 7,
+          "start": 28.237,
+          "end": 30.988,
+          "text": "<i>I'm coming to get you, Betsy!</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 8,
+          "start": 30.989,
+          "end": 32.156,
+          "text": "Run, Betsy!"
+        },
+        {
+          "index": 9,
+          "start": 32.157,
+          "end": 33.407,
+          "text": "- Run! - Oh, come on."
+        },
+        {
+          "index": 10,
+          "start": 33.408,
+          "end": 35.451,
+          "text": "There's no way she can outrun a vampire."
+        },
+        {
+          "index": 11,
+          "start": 35.452,
+          "end": 37.852,
+          "text": "Oh, don't listen to her, Betsy. You can do it. Don't give up."
+        },
+        {
+          "index": 12,
+          "start": 40.374,
+          "end": 42.583,
+          "text": "Are we there yet?"
+        },
+        {
+          "index": 13,
+          "start": 42.584,
+          "end": 44.085,
+          "text": "Not for a few more hours, Bonnie."
+        },
+        {
+          "index": 14,
+          "start": 44.086,
+          "end": 46.113,
+          "text": "You can go back to sleep."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 15,
+          "start": 47.214,
+          "end": 48.798,
+          "text": "<i>Help! Open the door!</i>"
+        },
+        {
+          "index": 16,
+          "start": 48.799,
+          "end": 51.217,
+          "text": "<i>No one can help you now, Betsy.</i>"
+        },
+        {
+          "index": 17,
+          "start": 51.218,
+          "end": 52.927,
+          "text": "- Boring! - Patience."
+        },
+        {
+          "index": 18,
+          "start": 52.928,
+          "end": 55.137,
+          "text": "All great horror films start slowly."
+        },
+        {
+          "index": 19,
+          "start": 55.138,
+          "end": 56.472,
+          "text": "You see, they're designed..."
+        },
+        {
+          "index": 20,
+          "start": 58.433,
+          "end": 60.38,
+          "text": "<i>Please, let me in!</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 21,
+          "start": 69.486,
+          "end": 71.612,
+          "text": "Tactics, Betsy, tactics."
+        },
+        {
+          "index": 22,
+          "start": 71.613,
+          "end": 74.323,
+          "text": "Look for something to defend yourself with!"
+        },
+        {
+          "index": 23,
+          "start": 74.324,
+          "end": 75.491,
+          "text": "There we go."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 24,
+          "start": 75.492,
+          "end": 77.326,
+          "text": "Oh, technically, that'll be useless."
+        },
+        {
+          "index": 25,
+          "start": 77.327,
+          "end": 79.996,
+          "text": "Everybody knows a wooden stake through the heart"
+        },
+        {
+          "index": 26,
+          "start": 79.997,
+          "end": 82.665,
+          "text": "is the only way to kill a vampire!"
+        },
+        {
+          "index": 27,
+          "start": 85.085,
+          "end": 87.962,
+          "text": "Only a kitty cat. Classic misdirection."
+        },
+        {
+          "index": 28,
+          "start": 87.963,
+          "end": 89.213,
+          "text": "A cat?"
+        },
+        {
+          "index": 29,
+          "start": 89.214,
+          "end": 91.299,
+          "text": "Come on, guys, this isn't scary."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 30,
+          "start": 93.26,
+          "end": 94.752,
+          "text": "Whoa!"
+        },
+        {
+          "index": 31,
+          "start": 98.765,
+          "end": 100.182,
+          "text": "Help!"
+        },
+        {
+          "index": 32,
+          "start": 100.183,
+          "end": 101.743,
+          "text": "Get me out of here!"
+        },
+        {
+          "index": 33,
+          "start": 101.768,
+          "end": 103.185,
+          "text": "- Jessie! - We have to get her out!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 34,
+          "start": 105.522,
+          "end": 106.939,
+          "text": "Jessie! Jessie, can you hear me?"
+        },
+        {
+          "index": 35,
+          "start": 113.905,
+          "end": 115.615,
+          "text": "Okay, everyone, on three."
+        },
+        {
+          "index": 36,
+          "start": 115.616,
+          "end": 117.438,
+          "text": "One, two, three!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 37,
+          "start": 121.121,
+          "end": 123.114,
+          "text": "Jessie? Jessie!"
+        },
+        {
+          "index": 38,
+          "start": 123.165,
+          "end": 124.749,
+          "text": "What's the matter with Jessie?"
+        },
+        {
+          "index": 39,
+          "start": 124.75,
+          "end": 126.584,
+          "text": "She was abandoned in a box for years."
+        },
+        {
+          "index": 40,
+          "start": 126.585,
+          "end": 129.754,
+          "text": "I couldn't... I couldn't find a way out."
+        },
+        {
+          "index": 41,
+          "start": 129.755,
+          "end": 132.533,
+          "text": "Mom, can I bring my toys?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 42,
+          "start": 146.813,
+          "end": 148.648,
+          "text": "The roadside motel"
+        },
+        {
+          "index": 43,
+          "start": 148.649,
+          "end": 151.108,
+          "text": "is one of the most common locales for a horror film."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 44,
+          "start": 151.109,
+          "end": 154.32,
+          "text": "Remote, isolated, ordinary."
+        },
+        {
+          "index": 45,
+          "start": 154.321,
+          "end": 155.529,
+          "text": "A comforting environment"
+        },
+        {
+          "index": 46,
+          "start": 155.53,
+          "end": 157.782,
+          "text": "to allay the suspicions of the audience."
+        },
+        {
+          "index": 47,
+          "start": 157.783,
+          "end": 161.243,
+          "text": "I expect they'll be asking the innkeeper to use the telephone any minute now."
+        },
+        {
+          "index": 48,
+          "start": 161.244,
+          "end": 162.953,
+          "text": "Would it be okay if I used your phone?"
+        },
+        {
+          "index": 49,
+          "start": 162.954,
+          "end": 164.246,
+          "text": "Our car has a flat."
+        },
+        {
+          "index": 50,
+          "start": 164.247,
+          "end": 166.165,
+          "text": "Right on cue."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 51,
+          "start": 166.166,
+          "end": 168.0,
+          "text": "It's okay, Jessie. You're safe now."
+        },
+        {
+          "index": 52,
+          "start": 168.001,
+          "end": 170.336,
+          "text": "We'll be back on the road before you know it."
+        },
+        {
+          "index": 53,
+          "start": 170.337,
+          "end": 171.671,
+          "text": "What's the latest, Trixie?"
+        },
+        {
+          "index": 54,
+          "start": 171.672,
+          "end": 174.173,
+          "text": "Uh, she's still on the phone with the tow truck company."
+        },
+        {
+          "index": 55,
+          "start": 174.174,
+          "end": 176.509,
+          "text": "6:00 a.m.? That's the earliest you can get here?"
+        },
+        {
+          "index": 56,
+          "start": 176.51,
+          "end": 177.718,
+          "text": "6:00 a.m.?"
+        },
+        {
+          "index": 57,
+          "start": 177.719,
+          "end": 179.637,
+          "text": "You mean we have to stay here all night?"
+        },
+        {
+          "index": 58,
+          "start": 179.638,
+          "end": 181.013,
+          "text": "<i>Bum, bum, bum</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 59,
+          "start": 181.014,
+          "end": 182.515,
+          "text": "I don't care where we are"
+        },
+        {
+          "index": 60,
+          "start": 182.516,
+          "end": 184.196,
+          "text": "as long as I'm not stuck alone in that box."
+        },
+        {
+          "index": 61,
+          "start": 184.893,
+          "end": 186.727,
+          "text": "If you could just sign here in the guestbook."
+        },
+        {
+          "index": 62,
+          "start": 186.728,
+          "end": 189.939,
+          "text": "I'll need to see a major credit card for the incidentals."
+        },
+        {
+          "index": 63,
+          "start": 189.94,
+          "end": 191.357,
+          "text": "Okay, let's see here."
+        },
+        {
+          "index": 64,
+          "start": 191.358,
+          "end": 193.442,
+          "text": "I'm going to put you in room seven."
+        },
+        {
+          "index": 65,
+          "start": 193.443,
+          "end": 195.82,
+          "text": "You know, we have a little saying around here,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 66,
+          "start": 195.821,
+          "end": 199.942,
+          "text": "at the Sleep Well Motel, you're gonna sleep well."
+        },
+        {
+          "index": 67,
+          "start": 208.5,
+          "end": 210.459,
+          "text": "Well, it looks like they're asleep."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 68,
+          "start": 210.46,
+          "end": 211.585,
+          "text": "Finally."
+        },
+        {
+          "index": 69,
+          "start": 211.586,
+          "end": 214.004,
+          "text": "Potato Head, where are you... Where are you going?"
+        },
+        {
+          "index": 70,
+          "start": 214.005,
+          "end": 216.749,
+          "text": "We're at a motel. I just wanna check out the amenities."
+        },
+        {
+          "index": 71,
+          "start": 217.008,
+          "end": 218.592,
+          "text": "You know, the free stuff?"
+        },
+        {
+          "index": 72,
+          "start": 218.593,
+          "end": 221.137,
+          "text": "Little soaps, shower caps, shampoo?"
+        },
+        {
+          "index": 73,
+          "start": 221.138,
+          "end": 222.304,
+          "text": "Conditioner?"
+        },
+        {
+          "index": 74,
+          "start": 222.305,
+          "end": 224.598,
+          "text": "Oh, I wouldn't go out there if I were you."
+        },
+        {
+          "index": 75,
+          "start": 224.599,
+          "end": 226.142,
+          "text": "The first to leave usually gets it."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 76,
+          "start": 226.143,
+          "end": 228.352,
+          "text": "Oh, Potato Head, don't leave the bag."
+        },
+        {
+          "index": 77,
+          "start": 228.353,
+          "end": 231.272,
+          "text": "A motel is one of the easiest places for a toy to get lost!"
+        },
+        {
+          "index": 78,
+          "start": 231.273,
+          "end": 232.648,
+          "text": "Aw, shut your worry hole!"
+        },
+        {
+          "index": 79,
+          "start": 232.649,
+          "end": 234.108,
+          "text": "Nobody's gonna getting lost."
+        },
+        {
+          "index": 80,
+          "start": 234.109,
+          "end": 236.829,
+          "text": "Besides, I promised Hamm I'd bring him back something nice."
+        },
+        {
+          "index": 81,
+          "start": 237.279,
+          "end": 238.988,
+          "text": "Wait. Where are you guys going?"
+        },
+        {
+          "index": 82,
+          "start": 238.989,
+          "end": 241.198,
+          "text": "We were just gonna check out the free stuff."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 83,
+          "start": 241.199,
+          "end": 243.033,
+          "text": "And if something does happen to the potato,"
+        },
+        {
+          "index": 84,
+          "start": 243.034,
+          "end": 244.702,
+          "text": "I wouldn't want to miss it."
+        },
+        {
+          "index": 85,
+          "start": 244.703,
+          "end": 247.621,
+          "text": "Aw, come on, guys! Let's all just stay in the bag."
+        },
+        {
+          "index": 86,
+          "start": 247.622,
+          "end": 249.874,
+          "text": "Buzz, I'll grab those guys. You get Potato Head."
+        },
+        {
+          "index": 87,
+          "start": 249.875,
+          "end": 252.042,
+          "text": "- Got it. - No, wait. Don't go!"
+        },
+        {
+          "index": 88,
+          "start": 252.043,
+          "end": 253.627,
+          "text": "Don't worry, Jessie. I'll be right back."
+        },
+        {
+          "index": 89,
+          "start": 253.628,
+          "end": 255.12,
+          "text": "Buzz!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 90,
+          "start": 263.847,
+          "end": 265.765,
+          "text": "Guys! Guys, where are you?"
+        },
+        {
+          "index": 91,
+          "start": 266.892,
+          "end": 268.225,
+          "text": "Jessie, what's wrong? Are you okay?"
+        },
+        {
+          "index": 92,
+          "start": 268.226,
+          "end": 269.852,
+          "text": "Buzz, where is everybody?"
+        },
+        {
+          "index": 93,
+          "start": 269.853,
+          "end": 271.854,
+          "text": "Not to worry. We're all right here."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 94,
+          "start": 271.855,
+          "end": 274.356,
+          "text": "See, there's Woody, Pricklepants, Trixie, Rex..."
+        },
+        {
+          "index": 95,
+          "start": 274.357,
+          "end": 276.358,
+          "text": "Wait. Where's Potato Head?"
+        },
+        {
+          "index": 96,
+          "start": 276.359,
+          "end": 277.568,
+          "text": "And so it begins."
+        },
+        {
+          "index": 97,
+          "start": 277.569,
+          "end": 278.736,
+          "text": "Ah!"
+        },
+        {
+          "index": 98,
+          "start": 278.737,
+          "end": 281.03,
+          "text": "Pricklepants, you're not helping!"
+        },
+        {
+          "index": 99,
+          "start": 281.031,
+          "end": 283.949,
+          "text": "I'm just saying it's quite common in these types of movies"
+        },
+        {
+          "index": 100,
+          "start": 283.95,
+          "end": 286.786,
+          "text": "for one unsuspecting character to wander off and vanish."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 101,
+          "start": 286.787,
+          "end": 288.746,
+          "text": "Well, he couldn't have just disappeared."
+        },
+        {
+          "index": 102,
+          "start": 288.747,
+          "end": 290.039,
+          "text": "Maybe this place is haunted."
+        },
+        {
+          "index": 103,
+          "start": 290.04,
+          "end": 291.248,
+          "text": "What? It's haunted?"
+        },
+        {
+          "index": 104,
+          "start": 291.249,
+          "end": 294.418,
+          "text": "Of course not. Everybody knows ghosts aren't real."
+        },
+        {
+          "index": 105,
+          "start": 294.419,
+          "end": 296.712,
+          "text": "Actually, according to my Internet research..."
+        },
+        {
+          "index": 106,
+          "start": 296.713,
+          "end": 297.88,
+          "text": "Highly unlikely."
+        },
+        {
+          "index": 107,
+          "start": 297.881,
+          "end": 299.965,
+          "text": "There has to be a rational explanation."
+        },
+        {
+          "index": 108,
+          "start": 299.966,
+          "end": 301.884,
+          "text": "We need to break into groups of two."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 109,
+          "start": 301.885,
+          "end": 303.302,
+          "text": "Everyone, keep an eye on your partner."
+        },
+        {
+          "index": 110,
+          "start": 303.303,
+          "end": 305.262,
+          "text": "If anything goes wrong, give a yell."
+        },
+        {
+          "index": 111,
+          "start": 306.431,
+          "end": 309.433,
+          "text": "Eww! I stepped in something."
+        },
+        {
+          "index": 112,
+          "start": 309.434,
+          "end": 311.336,
+          "text": "Wait a minute."
+        },
+        {
+          "index": 113,
+          "start": 312.479,
+          "end": 314.647,
+          "text": "Hmm."
+        },
+        {
+          "index": 114,
+          "start": 314.648,
+          "end": 315.773,
+          "text": "What is it?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 115,
+          "start": 315.774,
+          "end": 316.941,
+          "text": "Disgusting."
+        },
+        {
+          "index": 116,
+          "start": 316.942,
+          "end": 318.15,
+          "text": "Well, were this a movie,"
+        },
+        {
+          "index": 117,
+          "start": 318.151,
+          "end": 321.35,
+          "text": "I'd say it was slime from the creature's metamorphosis."
+        },
+        {
+          "index": 118,
+          "start": 321.571,
+          "end": 325.324,
+          "text": "Yeah, well, whatever it is, Potato Head managed to step in it,"
+        },
+        {
+          "index": 119,
+          "start": 325.325,
+          "end": 327.326,
+          "text": "leaving behind a trail of footprints."
+        },
+        {
+          "index": 120,
+          "start": 327.327,
+          "end": 330.162,
+          "text": "If we follow it, it should lead us right to him."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 121,
+          "start": 330.163,
+          "end": 332.081,
+          "text": "- Hey, guys! - No, wait! Trixie, don't!"
+        },
+        {
+          "index": 122,
+          "start": 333.25,
+          "end": 334.993,
+          "text": "Trixie!"
+        },
+        {
+          "index": 123,
+          "start": 337.128,
+          "end": 339.088,
+          "text": "- Trixie? - Potato Head!"
+        },
+        {
+          "index": 124,
+          "start": 339.089,
+          "end": 341.465,
+          "text": "And this would be the threshold."
+        },
+        {
+          "index": 125,
+          "start": 341.466,
+          "end": 342.8,
+          "text": "Every movie has one, you know."
+        },
+        {
+          "index": 126,
+          "start": 342.801,
+          "end": 346.345,
+          "text": "Once the heroes enter, there's no turning back."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 127,
+          "start": 346.346,
+          "end": 347.713,
+          "text": "- Rex, hurry! - Coming!"
+        },
+        {
+          "index": 128,
+          "start": 349.099,
+          "end": 350.499,
+          "text": "Now we just need to find a way down."
+        },
+        {
+          "index": 129,
+          "start": 352.477,
+          "end": 354.311,
+          "text": "Well, that did the job."
+        },
+        {
+          "index": 130,
+          "start": 354.312,
+          "end": 355.646,
+          "text": "Sorry! Ah. Sorry."
+        },
+        {
+          "index": 131,
+          "start": 355.647,
+          "end": 356.981,
+          "text": "Is everyone okay?"
+        },
+        {
+          "index": 132,
+          "start": 356.982,
+          "end": 358.524,
+          "text": "That way!"
+        },
+        {
+          "index": 133,
+          "start": 358.525,
+          "end": 360.518,
+          "text": "All right, everybody, stay close."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 134,
+          "start": 370.829,
+          "end": 372.401,
+          "text": "Blech!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 135,
+          "start": 376.793,
+          "end": 378.21,
+          "text": "So what happens now?"
+        },
+        {
+          "index": 136,
+          "start": 378.211,
+          "end": 380.838,
+          "text": "Well, this would be the part where the characters get separated"
+        },
+        {
+          "index": 137,
+          "start": 380.839,
+          "end": 383.037,
+          "text": "and then picked off one by one..."
+        },
+        {
+          "index": 138,
+          "start": 383.133,
+          "end": 385.342,
+          "text": "Then what happens next? Ah!"
+        },
+        {
+          "index": 139,
+          "start": 385.343,
+          "end": 387.219,
+          "text": "Uh, where's Pricklepants?"
+        },
+        {
+          "index": 140,
+          "start": 387.22,
+          "end": 389.471,
+          "text": "Well, he was standing right here just a moment ago."
+        },
+        {
+          "index": 141,
+          "start": 389.472,
+          "end": 390.639,
+          "text": "What are we gonna do now?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 142,
+          "start": 390.64,
+          "end": 394.26,
+          "text": "He was the only one who knew what the heck was going on..."
+        },
+        {
+          "index": 143,
+          "start": 401.484,
+          "end": 403.068,
+          "text": "Wait, wait, listen!"
+        },
+        {
+          "index": 144,
+          "start": 403.069,
+          "end": 404.486,
+          "text": "I think we lost it."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 145,
+          "start": 405.655,
+          "end": 407.056,
+          "text": "It's over there!"
+        },
+        {
+          "index": 146,
+          "start": 407.699,
+          "end": 409.074,
+          "text": "Over here!"
+        },
+        {
+          "index": 147,
+          "start": 409.075,
+          "end": 410.993,
+          "text": "I think I can see it."
+        },
+        {
+          "index": 148,
+          "start": 410.994,
+          "end": 413.647,
+          "text": "It's staring right at us."
+        },
+        {
+          "index": 149,
+          "start": 416.499,
+          "end": 418.25,
+          "text": "It's Potato Head's arm!"
+        },
+        {
+          "index": 150,
+          "start": 418.251,
+          "end": 420.336,
+          "text": "Wait a minute. It looks like it's trying to tell us something."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 151,
+          "start": 420.337,
+          "end": 421.42,
+          "text": "What is it, little buddy?"
+        },
+        {
+          "index": 152,
+          "start": 421.421,
+          "end": 423.422,
+          "text": "Think he's using some kind of hand signals."
+        },
+        {
+          "index": 153,
+          "start": 423.423,
+          "end": 424.548,
+          "text": "It's the number one!"
+        },
+        {
+          "index": 154,
+          "start": 424.549,
+          "end": 425.674,
+          "text": "No, no. One letter!"
+        },
+        {
+          "index": 155,
+          "start": 425.675,
+          "end": 427.927,
+          "text": "Uh, one syllable? Uh, once upon a time!"
+        },
+        {
+          "index": 156,
+          "start": 427.928,
+          "end": 429.345,
+          "text": "Uh, one plus one is one!"
+        },
+        {
+          "index": 157,
+          "start": 429.346,
+          "end": 433.091,
+          "text": "I think maybe it's pointing up."
+        },
+        {
+          "index": 158,
+          "start": 433.683,
+          "end": 435.801,
+          "text": "- Up. Of course. - Yeah."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 159,
+          "start": 443.443,
+          "end": 445.015,
+          "text": "Hmm..."
+        },
+        {
+          "index": 160,
+          "start": 447.614,
+          "end": 449.982,
+          "text": "Pass me the hand, will you?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0030_time_450.00s-465.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 161,
+          "start": 464.631,
+          "end": 465.965,
+          "text": "What now?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 10,
+      "sous_titres": [
+        {
+          "index": 162,
+          "start": 465.966,
+          "end": 468.3,
+          "text": "Out the door and to the right."
+        },
+        {
+          "index": 163,
+          "start": 468.301,
+          "end": 469.426,
+          "text": "What? Are you sure?"
+        },
+        {
+          "index": 164,
+          "start": 469.427,
+          "end": 471.136,
+          "text": "The hand looks like it's pointing left to me."
+        },
+        {
+          "index": 165,
+          "start": 471.137,
+          "end": 472.262,
+          "text": "Psst! Over here."
+        },
+        {
+          "index": 166,
+          "start": 472.263,
+          "end": 473.43,
+          "text": "Huh? What?"
+        },
+        {
+          "index": 167,
+          "start": 473.431,
+          "end": 474.807,
+          "text": "Look over here."
+        },
+        {
+          "index": 168,
+          "start": 474.808,
+          "end": 476.392,
+          "text": "Hello? Hello?"
+        },
+        {
+          "index": 169,
+          "start": 476.393,
+          "end": 477.726,
+          "text": "Sure, if you hold it that way."
+        },
+        {
+          "index": 170,
+          "start": 477.727,
+          "end": 479.379,
+          "text": "Hey guys, Wait up!"
+        },
+        {
+          "index": 171,
+          "start": 479.437,
+          "end": 481.054,
+          "text": "Woody! Buzz!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 172,
+          "start": 482.232,
+          "end": 484.108,
+          "text": "Shh! Quiet, soldier!"
+        },
+        {
+          "index": 173,
+          "start": 484.109,
+          "end": 485.651,
+          "text": "You'll lead them right to us."
+        },
+        {
+          "index": 174,
+          "start": 485.652,
+          "end": 487.903,
+          "text": "This place isn't safe for toys."
+        },
+        {
+          "index": 175,
+          "start": 487.904,
+          "end": 490.406,
+          "text": "Combat Carl is gonna take his hand away now."
+        },
+        {
+          "index": 176,
+          "start": 490.407,
+          "end": 492.992,
+          "text": "You yell, we're done for. Got it?"
+        },
+        {
+          "index": 177,
+          "start": 492.993,
+          "end": 494.743,
+          "text": "Mmm-hmm."
+        },
+        {
+          "index": 178,
+          "start": 494.744,
+          "end": 498.33,
+          "text": "Combat Carl's seen things, horrible things."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 179,
+          "start": 498.331,
+          "end": 502.986,
+          "text": "Combat Carl's learned you gotta keep movin', or else they find you!"
+        },
+        {
+          "index": 180,
+          "start": 503.461,
+          "end": 505.462,
+          "text": "Are you Combat Carl?"
+        },
+        {
+          "index": 181,
+          "start": 505.463,
+          "end": 507.84,
+          "text": "The only thing that's kept Combat Carl going"
+        },
+        {
+          "index": 182,
+          "start": 507.841,
+          "end": 512.087,
+          "text": "is the thought he might see his owner Billy just one more time."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 183,
+          "start": 512.512,
+          "end": 516.849,
+          "text": "You better turn back now, or you'll never see your owner again!"
+        },
+        {
+          "index": 184,
+          "start": 516.85,
+          "end": 518.35,
+          "text": "But I need to find my friends!"
+        },
+        {
+          "index": 185,
+          "start": 518.351,
+          "end": 521.103,
+          "text": "This is what happens when you try to find your friends!"
+        },
+        {
+          "index": 186,
+          "start": 522.313,
+          "end": 523.522,
+          "text": "Shh! Did you hear that?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 187,
+          "start": 532.615,
+          "end": 534.45,
+          "text": "It found us. We're trapped!"
+        },
+        {
+          "index": 188,
+          "start": 534.451,
+          "end": 536.16,
+          "text": "Nah, Combat Carl never gives up."
+        },
+        {
+          "index": 189,
+          "start": 536.161,
+          "end": 538.787,
+          "text": "Combat Carl finds a way. We gotta move. You ready?"
+        },
+        {
+          "index": 190,
+          "start": 538.788,
+          "end": 541.665,
+          "text": "- What? No! - We're going on three. One, two, three!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 191,
+          "start": 541.666,
+          "end": 543.459,
+          "text": "Grab my arm!"
+        },
+        {
+          "index": 192,
+          "start": 544.627,
+          "end": 546.003,
+          "text": "Carl, wait!"
+        },
+        {
+          "index": 193,
+          "start": 546.004,
+          "end": 547.88,
+          "text": "Carl!"
+        },
+        {
+          "index": 194,
+          "start": 547.881,
+          "end": 551.675,
+          "text": "Forget about Combat Carl! Just go!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 585,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0039_time_585.00s-600.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 195,
+          "start": 588.546,
+          "end": 590.072,
+          "text": "Huh?"
+        },
+        {
+          "index": 196,
+          "start": 597.222,
+          "end": 599.124,
+          "text": "Hey!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "timecode_debut_extrait": 600,
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0040_time_600.00s-615.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 197,
+          "start": 600.1,
+          "end": 603.128,
+          "text": "Let me go, you big varmint!"
+        },
+        {
+          "index": 198,
+          "start": 603.77,
+          "end": 606.313,
+          "text": "Let me go this instant!"
+        },
+        {
+          "index": 199,
+          "start": 608.483,
+          "end": 611.807,
+          "text": "Thank you. Well, it's been fun."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 630,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0041_time_615.00s-630.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 200,
+          "start": 624.707,
+          "end": 627.326,
+          "text": "Hmm. Looks old."
+        },
+        {
+          "index": 201,
+          "start": 627.669,
+          "end": 629.378,
+          "text": "Yeah, probably worth something."
+        },
+        {
+          "index": 202,
+          "start": 629.379,
+          "end": 632.047,
+          "text": "Excellent find, Mr. Jones. Aw."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "timecode_debut_extrait": 630,
+      "timecode_fin_extrait": 645,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0042_time_630.00s-645.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "timecode_debut_extrait": 645,
+      "timecode_fin_extrait": 660,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0043_time_645.00s-660.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 203,
+          "start": 651.401,
+          "end": 653.068,
+          "text": "He's gone. All clear!"
+        },
+        {
+          "index": 204,
+          "start": 653.069,
+          "end": 654.736,
+          "text": "Jessie!"
+        },
+        {
+          "index": 205,
+          "start": 654.737,
+          "end": 655.863,
+          "text": "Buzz!"
+        },
+        {
+          "index": 206,
+          "start": 655.864,
+          "end": 657.406,
+          "text": "I'm so glad you're safe."
+        },
+        {
+          "index": 207,
+          "start": 657.407,
+          "end": 660.576,
+          "text": "Nice to see you made it here in one piece, cowgirl."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "timecode_debut_extrait": 660,
+      "timecode_fin_extrait": 675,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0044_time_660.00s-675.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 208,
+          "start": 660.577,
+          "end": 661.952,
+          "text": "Carl!"
+        },
+        {
+          "index": 209,
+          "start": 661.953,
+          "end": 664.079,
+          "text": "Oh, uh, Combat Carl would like to introduce you"
+        },
+        {
+          "index": 210,
+          "start": 664.08,
+          "end": 667.708,
+          "text": "to his one-third-scale counterpart, Combat Carl Jr."
+        },
+        {
+          "index": 211,
+          "start": 667.709,
+          "end": 669.251,
+          "text": "Ma'am. Sorry to break up the party,"
+        },
+        {
+          "index": 212,
+          "start": 669.252,
+          "end": 670.878,
+          "text": "but we're on a tight schedule."
+        },
+        {
+          "index": 213,
+          "start": 670.879,
+          "end": 672.379,
+          "text": "Pocketeer, you're up!"
+        },
+        {
+          "index": 214,
+          "start": 672.38,
+          "end": 674.373,
+          "text": "Pockets away!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "timecode_debut_extrait": 675,
+      "timecode_fin_extrait": 690,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0045_time_675.00s-690.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 215,
+          "start": 680.138,
+          "end": 682.131,
+          "text": "Lego Bunny, go!"
+        },
+        {
+          "index": 216,
+          "start": 685.476,
+          "end": 688.77,
+          "text": "- Any sign of our guy or the lizard? - No, sir. Area is still clear."
+        },
+        {
+          "index": 217,
+          "start": 688.771,
+          "end": 690.772,
+          "text": "Hey, Old Timer, how we doin'?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "timecode_debut_extrait": 690,
+      "timecode_fin_extrait": 705,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0046_time_690.00s-705.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 218,
+          "start": 690.773,
+          "end": 693.442,
+          "text": "Well, sir, he's been gone for, oh, 90 seconds."
+        },
+        {
+          "index": 219,
+          "start": 693.443,
+          "end": 695.736,
+          "text": "I reckon he could be back any minute."
+        },
+        {
+          "index": 220,
+          "start": 695.737,
+          "end": 698.78,
+          "text": "Okay, let's try this again! Third time's the charm."
+        },
+        {
+          "index": 221,
+          "start": 698.781,
+          "end": 700.683,
+          "text": "You can do it, Junior."
+        },
+        {
+          "index": 222,
+          "start": 703.119,
+          "end": 706.022,
+          "text": "Steady. Take it easy now."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "timecode_debut_extrait": 705,
+      "timecode_fin_extrait": 720,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0047_time_705.00s-720.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 223,
+          "start": 706.497,
+          "end": 710.197,
+          "text": "Almost got it! Whoa!"
+        },
+        {
+          "index": 224,
+          "start": 711.461,
+          "end": 712.961,
+          "text": "- Oh, no! - Good grief!"
+        },
+        {
+          "index": 225,
+          "start": 712.962,
+          "end": 714.488,
+          "text": "Sassafras!"
+        },
+        {
+          "index": 226,
+          "start": 714.505,
+          "end": 718.258,
+          "text": "That was the last one. That means I'm next!"
+        },
+        {
+          "index": 227,
+          "start": 718.259,
+          "end": 721.663,
+          "text": "Don't you see? I'm the last of the Fastener Four!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "timecode_debut_extrait": 720,
+      "timecode_fin_extrait": 735,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0048_time_720.00s-735.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 228,
+          "start": 721.971,
+          "end": 724.556,
+          "text": "Look! Zipper Man, Snaps, Speed Lacer."
+        },
+        {
+          "index": 229,
+          "start": 724.557,
+          "end": 726.975,
+          "text": "I'm next. I'm next! I'm next!"
+        },
+        {
+          "index": 230,
+          "start": 726.976,
+          "end": 729.102,
+          "text": "Keep it together, man! We'll find a way out."
+        },
+        {
+          "index": 231,
+          "start": 729.103,
+          "end": 731.104,
+          "text": "Oh, we'll get out, all right."
+        },
+        {
+          "index": 232,
+          "start": 731.105,
+          "end": 732.94,
+          "text": "- In boxes. - What?"
+        },
+        {
+          "index": 233,
+          "start": 732.941,
+          "end": 734.775,
+          "text": "Jessie, nobody's getting boxed up."
+        },
+        {
+          "index": 234,
+          "start": 734.776,
+          "end": 736.109,
+          "text": "We're leaving together."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "timecode_debut_extrait": 735,
+      "timecode_fin_extrait": 750,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0049_time_735.00s-750.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 235,
+          "start": 737.695,
+          "end": 738.654,
+          "text": "<i>You have a sale.</i>"
+        },
+        {
+          "index": 236,
+          "start": 738.655,
+          "end": 740.322,
+          "text": "Pez Cat, what do you see?"
+        },
+        {
+          "index": 237,
+          "start": 740.323,
+          "end": 742.908,
+          "text": "Uh, it's hard to make out,"
+        },
+        {
+          "index": 238,
+          "start": 742.909,
+          "end": 746.188,
+          "text": "but it looks like a cowboy."
+        },
+        {
+          "index": 239,
+          "start": 749.457,
+          "end": 751.833,
+          "text": "Let's see what's next to go."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "timecode_debut_extrait": 750,
+      "timecode_fin_extrait": 765,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0050_time_750.00s-765.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 240,
+          "start": 751.834,
+          "end": 754.836,
+          "text": "What? $2,000?"
+        },
+        {
+          "index": 241,
+          "start": 754.837,
+          "end": 758.832,
+          "text": "Jones! Jones, you're not gonna believe this!"
+        },
+        {
+          "index": 242,
+          "start": 759.592,
+          "end": 762.916,
+          "text": "Happy trails, Cowboy Andy."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "timecode_debut_extrait": 765,
+      "timecode_fin_extrait": 780,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0051_time_765.00s-780.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 243,
+          "start": 771.104,
+          "end": 774.178,
+          "text": "It's like taking candy from a baby."
+        },
+        {
+          "index": 244,
+          "start": 777.11,
+          "end": 778.86,
+          "text": "He'll be able to get out, won't he?"
+        },
+        {
+          "index": 245,
+          "start": 778.861,
+          "end": 780.988,
+          "text": "I haven't got the foggiest idea."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "timecode_debut_extrait": 780,
+      "timecode_fin_extrait": 795,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0052_time_780.00s-795.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 246,
+          "start": 780.989,
+          "end": 783.031,
+          "text": "What started out as a classic horror film"
+        },
+        {
+          "index": 247,
+          "start": 783.032,
+          "end": 785.534,
+          "text": "has turned into something more of a tragedy."
+        },
+        {
+          "index": 248,
+          "start": 785.535,
+          "end": 788.704,
+          "text": "I can't believe we're never gonna see Bonnie again."
+        },
+        {
+          "index": 249,
+          "start": 788.705,
+          "end": 791.832,
+          "text": "Combat Carl would have liked to have seen Billy just..."
+        },
+        {
+          "index": 250,
+          "start": 791.833,
+          "end": 794.281,
+          "text": "one more time."
+        },
+        {
+          "index": 251,
+          "start": 794.794,
+          "end": 797.462,
+          "text": "We'll find a way, Carl. We'll find a way."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "timecode_debut_extrait": 795,
+      "timecode_fin_extrait": 810,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0053_time_795.00s-810.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 252,
+          "start": 797.463,
+          "end": 799.047,
+          "text": "Well, you better hurry, Sergeant."
+        },
+        {
+          "index": 253,
+          "start": 799.048,
+          "end": 801.174,
+          "text": "Sun's fixin' to rise any minute now."
+        },
+        {
+          "index": 254,
+          "start": 801.175,
+          "end": 802.718,
+          "text": "<i>You have a sale.</i>"
+        },
+        {
+          "index": 255,
+          "start": 802.719,
+          "end": 804.177,
+          "text": "People, back to your positions!"
+        },
+        {
+          "index": 256,
+          "start": 805.305,
+          "end": 809.057,
+          "text": "All right. Come on, big money!"
+        },
+        {
+          "index": 257,
+          "start": 809.058,
+          "end": 810.225,
+          "text": "Who is it this time?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "timecode_debut_extrait": 810,
+      "timecode_fin_extrait": 825,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0054_time_810.00s-825.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 258,
+          "start": 810.226,
+          "end": 812.227,
+          "text": "Okay, I'm looking. I'm looking."
+        },
+        {
+          "index": 259,
+          "start": 812.228,
+          "end": 813.645,
+          "text": "Oh, my gosh, he's getting up!"
+        },
+        {
+          "index": 260,
+          "start": 813.646,
+          "end": 816.648,
+          "text": "Jonesy, Jonesy, we got another gold mine!"
+        },
+        {
+          "index": 261,
+          "start": 819.569,
+          "end": 821.209,
+          "text": "Looks like you get to go on a little trip."
+        },
+        {
+          "index": 262,
+          "start": 822.739,
+          "end": 825.741,
+          "text": "Yeah, you got a guest with a flat tire that needs fixing?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "timecode_debut_extrait": 825,
+      "timecode_fin_extrait": 840,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0055_time_825.00s-840.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 263,
+          "start": 825.742,
+          "end": 828.986,
+          "text": "Absolutely. Come on. I'll show you the way."
+        },
+        {
+          "index": 264,
+          "start": 829.412,
+          "end": 831.064,
+          "text": "Okay, kids, he's gone!"
+        },
+        {
+          "index": 265,
+          "start": 834.751,
+          "end": 837.586,
+          "text": "It's no use! I'm not tall enough!"
+        },
+        {
+          "index": 266,
+          "start": 837.587,
+          "end": 841.006,
+          "text": "I'll go get Woody. Together we'll be able to reach the handle."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "timecode_debut_extrait": 840,
+      "timecode_fin_extrait": 855,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0056_time_840.00s-855.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 267,
+          "start": 841.007,
+          "end": 842.767,
+          "text": "- Good plan, Jessie. - Someone's at the door!"
+        },
+        {
+          "index": 268,
+          "start": 843.76,
+          "end": 845.427,
+          "text": "Yeah, so that big stack there"
+        },
+        {
+          "index": 269,
+          "start": 845.428,
+          "end": 847.22,
+          "text": "and the ones on the counter all go, too."
+        },
+        {
+          "index": 270,
+          "start": 847.221,
+          "end": 848.513,
+          "text": "Okay."
+        },
+        {
+          "index": 271,
+          "start": 848.514,
+          "end": 851.838,
+          "text": "Looks like I'm gonna have to take two trips."
+        },
+        {
+          "index": 272,
+          "start": 853.102,
+          "end": 854.686,
+          "text": "Woody!"
+        },
+        {
+          "index": 273,
+          "start": 854.687,
+          "end": 855.937,
+          "text": "All right, we need a plan B."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "timecode_debut_extrait": 855,
+      "timecode_fin_extrait": 870,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0057_time_855.00s-870.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 274,
+          "start": 855.938,
+          "end": 857.356,
+          "text": "Put on your thinking caps, people."
+        },
+        {
+          "index": 275,
+          "start": 857.357,
+          "end": 859.691,
+          "text": "I got it! She can make a break for the delivery truck."
+        },
+        {
+          "index": 276,
+          "start": 859.692,
+          "end": 863.07,
+          "text": "Aw, it's broad daylight. Besides, she'll never make it in time."
+        },
+        {
+          "index": 277,
+          "start": 863.071,
+          "end": 866.281,
+          "text": "What do I do? Now we're all gonna end up in a box."
+        },
+        {
+          "index": 278,
+          "start": 866.282,
+          "end": 868.575,
+          "text": "Wait. That's it! Jessie, say that again!"
+        },
+        {
+          "index": 279,
+          "start": 868.576,
+          "end": 871.453,
+          "text": "Say what? That we're all gonna end up in boxes?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "timecode_debut_extrait": 870,
+      "timecode_fin_extrait": 885,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0058_time_870.00s-885.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 280,
+          "start": 871.454,
+          "end": 874.206,
+          "text": "Not us, you. You're gonna get in a box."
+        },
+        {
+          "index": 281,
+          "start": 874.207,
+          "end": 875.29,
+          "text": "What?"
+        },
+        {
+          "index": 282,
+          "start": 875.291,
+          "end": 877.959,
+          "text": "Listen, in a few minutes, the delivery lady is gonna come back through that door"
+        },
+        {
+          "index": 283,
+          "start": 877.96,
+          "end": 880.879,
+          "text": "and take the other boxes, and you're gonna be in one of 'em."
+        },
+        {
+          "index": 284,
+          "start": 880.88,
+          "end": 882.297,
+          "text": "It's the only way to free Woody."
+        },
+        {
+          "index": 285,
+          "start": 882.298,
+          "end": 884.758,
+          "text": "No. No way. I can't. I can't do that!"
+        },
+        {
+          "index": 286,
+          "start": 884.759,
+          "end": 886.802,
+          "text": "I can't get in a box. I can't!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "timecode_debut_extrait": 885,
+      "timecode_fin_extrait": 900,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0059_time_885.00s-900.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 287,
+          "start": 886.803,
+          "end": 887.969,
+          "text": "There's gotta be another way."
+        },
+        {
+          "index": 288,
+          "start": 887.97,
+          "end": 890.555,
+          "text": "This is the way! You better snap out of it, soldier!"
+        },
+        {
+          "index": 289,
+          "start": 890.556,
+          "end": 892.974,
+          "text": "We're running out of time, and you're the only chance we've got!"
+        },
+        {
+          "index": 290,
+          "start": 892.975,
+          "end": 894.976,
+          "text": "No! I can't!"
+        },
+        {
+          "index": 291,
+          "start": 894.977,
+          "end": 897.979,
+          "text": "Jessie, listen to me. Remember your training."
+        },
+        {
+          "index": 292,
+          "start": 897.98,
+          "end": 899.773,
+          "text": "But I don't have any training!"
+        },
+        {
+          "index": 293,
+          "start": 899.774,
+          "end": 900.941,
+          "text": "Well, forget about that."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "timecode_debut_extrait": 900,
+      "timecode_fin_extrait": 915,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0060_time_900.00s-915.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 294,
+          "start": 900.942,
+          "end": 903.61,
+          "text": "When Combat Carl gets stuck in a jam, he says to himself,"
+        },
+        {
+          "index": 295,
+          "start": 903.611,
+          "end": 908.24,
+          "text": "\"Combat Carl never gives up. Combat Carl finds a way.\" Now say it!"
+        },
+        {
+          "index": 296,
+          "start": 908.241,
+          "end": 909.574,
+          "text": "Combat Carl never gives up? Combat..."
+        },
+        {
+          "index": 297,
+          "start": 909.575,
+          "end": 910.659,
+          "text": "You're not Combat Carl!"
+        },
+        {
+          "index": 298,
+          "start": 910.66,
+          "end": 913.286,
+          "text": "Oh, Jessie never gives up. Jessie finds a way."
+        },
+        {
+          "index": 299,
+          "start": 913.287,
+          "end": 914.496,
+          "text": "I can't hear you!"
+        },
+        {
+          "index": 300,
+          "start": 914.497,
+          "end": 918.166,
+          "text": "Jessie never gives up! Jessie finds a way! Yeah!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "timecode_debut_extrait": 915,
+      "timecode_fin_extrait": 930,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0061_time_915.00s-930.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 301,
+          "start": 918.167,
+          "end": 920.615,
+          "text": "Oh, one more thing. Keep it down."
+        },
+        {
+          "index": 302,
+          "start": 921.838,
+          "end": 923.213,
+          "text": "I'll try."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "timecode_debut_extrait": 930,
+      "timecode_fin_extrait": 945,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0062_time_930.00s-945.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 303,
+          "start": 936.811,
+          "end": 939.009,
+          "text": "Wake up! You're free!"
+        },
+        {
+          "index": 304,
+          "start": 941.941,
+          "end": 943.942,
+          "text": "<i>Who dares summon Transitron?</i>"
+        },
+        {
+          "index": 305,
+          "start": 943.943,
+          "end": 945.777,
+          "text": "I need to use this box."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "timecode_debut_extrait": 945,
+      "timecode_fin_extrait": 960,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0063_time_945.00s-960.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 306,
+          "start": 945.778,
+          "end": 947.279,
+          "text": "<i>Transitron free?</i>"
+        },
+        {
+          "index": 307,
+          "start": 947.28,
+          "end": 949.432,
+          "text": "Yes, that's right. Here, give me your hand."
+        },
+        {
+          "index": 308,
+          "start": 949.907,
+          "end": 952.856,
+          "text": "<i>What the... How can I ever repay you?</i>"
+        },
+        {
+          "index": 309,
+          "start": 954.537,
+          "end": 955.984,
+          "text": "Seal me in."
+        },
+        {
+          "index": 310,
+          "start": 956.372,
+          "end": 957.819,
+          "text": "<i>Uh...</i>"
+        },
+        {
+          "index": 311,
+          "start": 957.957,
+          "end": 960.61,
+          "text": "Okay, here goes."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "timecode_debut_extrait": 960,
+      "timecode_fin_extrait": 975,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0064_time_960.00s-975.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 312,
+          "start": 968.342,
+          "end": 969.959,
+          "text": "Uh-huh."
+        },
+        {
+          "index": 313,
+          "start": 970.178,
+          "end": 971.704,
+          "text": "Okay."
+        },
+        {
+          "index": 314,
+          "start": 972.388,
+          "end": 974.181,
+          "text": "Wait, wait. Don't tape it!"
+        },
+        {
+          "index": 315,
+          "start": 974.182,
+          "end": 975.64,
+          "text": "I won't be able to get out!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "timecode_debut_extrait": 975,
+      "timecode_fin_extrait": 990,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0065_time_975.00s-990.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 316,
+          "start": 975.641,
+          "end": 978.81,
+          "text": "Just close the flaps and put that box on top. It'll keep it shut."
+        },
+        {
+          "index": 317,
+          "start": 978.811,
+          "end": 980.713,
+          "text": "<i>Are you sure about this?</i>"
+        },
+        {
+          "index": 318,
+          "start": 980.938,
+          "end": 983.215,
+          "text": "No, not really."
+        },
+        {
+          "index": 319,
+          "start": 986.402,
+          "end": 989.863,
+          "text": "<i>By Globbatron's ghost, you shall be remembered!</i>"
+        },
+        {
+          "index": 320,
+          "start": 989.864,
+          "end": 991.656,
+          "text": "- All right. <i>- Transitron, separate!</i>"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "timecode_debut_extrait": 990,
+      "timecode_fin_extrait": 1005,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0066_time_990.00s-1005.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 321,
+          "start": 991.657,
+          "end": 993.809,
+          "text": "Need anything else?"
+        },
+        {
+          "index": 322,
+          "start": 994.827,
+          "end": 996.661,
+          "text": "Well, the plan seems to be working."
+        },
+        {
+          "index": 323,
+          "start": 996.662,
+          "end": 998.564,
+          "text": "So far, so good."
+        },
+        {
+          "index": 324,
+          "start": 1001.709,
+          "end": 1004.157,
+          "text": "Oh, forgot the tape again?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "timecode_debut_extrait": 1005,
+      "timecode_fin_extrait": 1020,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0067_time_1005.00s-1020.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 325,
+          "start": 1005.087,
+          "end": 1006.488,
+          "text": "What? No, do..."
+        },
+        {
+          "index": 326,
+          "start": 1017.099,
+          "end": 1018.183,
+          "text": "She got sealed in!"
+        },
+        {
+          "index": 327,
+          "start": 1018.184,
+          "end": 1020.227,
+          "text": "Aw, that's it. We're never gonna get outta here."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "timecode_debut_extrait": 1020,
+      "timecode_fin_extrait": 1035,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0068_time_1020.00s-1035.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 328,
+          "start": 1020.228,
+          "end": 1024.178,
+          "text": "Nah. Jessie never gives up. Jessie finds a way."
+        },
+        {
+          "index": 329,
+          "start": 1024.899,
+          "end": 1026.233,
+          "text": "You're good to go."
+        },
+        {
+          "index": 330,
+          "start": 1026.234,
+          "end": 1027.442,
+          "text": "Thank you so much."
+        },
+        {
+          "index": 331,
+          "start": 1027.443,
+          "end": 1030.028,
+          "text": "Don't forget your bag, Bonnie. We're leaving in two minutes."
+        },
+        {
+          "index": 332,
+          "start": 1030.029,
+          "end": 1032.773,
+          "text": "Excuse me. Coming through."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1035,
+      "timecode_fin_extrait": 1050,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0069_time_1035.00s-1050.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 333,
+          "start": 1046.629,
+          "end": 1048.03,
+          "text": "Oh!"
+        },
+        {
+          "index": 334,
+          "start": 1048.214,
+          "end": 1050.382,
+          "text": "Jessie never gives up. Jessie finds a way."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "timecode_debut_extrait": 1050,
+      "timecode_fin_extrait": 1065,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0070_time_1050.00s-1065.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 335,
+          "start": 1050.383,
+          "end": 1052.877,
+          "text": "Jessie never gives up. Jessie finds a way."
+        },
+        {
+          "index": 336,
+          "start": 1053.636,
+          "end": 1055.595,
+          "text": "Jessie never gives up. Jessie finds a way."
+        },
+        {
+          "index": 337,
+          "start": 1055.596,
+          "end": 1057.639,
+          "text": "Jessie never gives up. Jessie finds a way."
+        },
+        {
+          "index": 338,
+          "start": 1057.64,
+          "end": 1059.724,
+          "text": "Jessie never gives up..."
+        },
+        {
+          "index": 339,
+          "start": 1059.725,
+          "end": 1061.968,
+          "text": "Jessie finds a way!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "timecode_debut_extrait": 1065,
+      "timecode_fin_extrait": 1080,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0071_time_1065.00s-1080.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 340,
+          "start": 1065.815,
+          "end": 1067.482,
+          "text": "Woody! Woody!"
+        },
+        {
+          "index": 341,
+          "start": 1067.483,
+          "end": 1069.977,
+          "text": "Jessie! Jessie, over here!"
+        },
+        {
+          "index": 342,
+          "start": 1073.322,
+          "end": 1076.408,
+          "text": "Oh, it's been a while. I don't think she's coming back."
+        },
+        {
+          "index": 343,
+          "start": 1076.409,
+          "end": 1077.576,
+          "text": "Patience."
+        },
+        {
+          "index": 344,
+          "start": 1077.577,
+          "end": 1080.245,
+          "text": "Cinematic structure dictates it's always darkest..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "timecode_debut_extrait": 1080,
+      "timecode_fin_extrait": 1095,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0072_time_1080.00s-1095.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 345,
+          "start": 1080.246,
+          "end": 1082.831,
+          "text": "Can it, Pants! Life ain't a movie. They're never coming back."
+        },
+        {
+          "index": 346,
+          "start": 1082.832,
+          "end": 1084.825,
+          "text": "Look! They're coming back!"
+        },
+        {
+          "index": 347,
+          "start": 1085.751,
+          "end": 1087.168,
+          "text": "- Hooray! Yeah! - Yeah, she did it!"
+        },
+        {
+          "index": 348,
+          "start": 1087.169,
+          "end": 1088.837,
+          "text": "Checking out?"
+        },
+        {
+          "index": 349,
+          "start": 1088.838,
+          "end": 1090.672,
+          "text": "I hope you enjoyed your stay."
+        },
+        {
+          "index": 350,
+          "start": 1090.673,
+          "end": 1092.257,
+          "text": "We did. Thanks."
+        },
+        {
+          "index": 351,
+          "start": 1092.258,
+          "end": 1093.341,
+          "text": "Come on, Jess! Let's move!"
+        },
+        {
+          "index": 352,
+          "start": 1093.342,
+          "end": 1094.509,
+          "text": "Mom, are we going to Grandma's now?"
+        },
+        {
+          "index": 353,
+          "start": 1094.51,
+          "end": 1097.413,
+          "text": "- In a minute, honey. - Bonnie!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "timecode_debut_extrait": 1095,
+      "timecode_fin_extrait": 1110,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0073_time_1095.00s-1110.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 354,
+          "start": 1097.43,
+          "end": 1100.015,
+          "text": "Okay, now climb on my shoulders, and then we'll..."
+        },
+        {
+          "index": 355,
+          "start": 1100.016,
+          "end": 1101.85,
+          "text": "Jessie? Jessie!"
+        },
+        {
+          "index": 356,
+          "start": 1101.851,
+          "end": 1102.851,
+          "text": "Gah! What is she doing?"
+        },
+        {
+          "index": 357,
+          "start": 1102.852,
+          "end": 1103.935,
+          "text": "She's headed straight for the curtain!"
+        },
+        {
+          "index": 358,
+          "start": 1103.936,
+          "end": 1105.186,
+          "text": "That's not part of the plan."
+        },
+        {
+          "index": 359,
+          "start": 1108.149,
+          "end": 1109.274,
+          "text": "Jessie!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "timecode_debut_extrait": 1110,
+      "timecode_fin_extrait": 1125,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0074_time_1110.00s-1125.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 360,
+          "start": 1121.037,
+          "end": 1122.438,
+          "text": "Come on."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "timecode_debut_extrait": 1125,
+      "timecode_fin_extrait": 1140,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0075_time_1125.00s-1140.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 361,
+          "start": 1133.132,
+          "end": 1134.257,
+          "text": "MY hand!"
+        },
+        {
+          "index": 362,
+          "start": 1134.258,
+          "end": 1136.126,
+          "text": "See? Told you."
+        },
+        {
+          "index": 363,
+          "start": 1138.095,
+          "end": 1140.43,
+          "text": "Perfect!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "timecode_debut_extrait": 1140,
+      "timecode_fin_extrait": 1155,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0076_time_1140.00s-1155.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 364,
+          "start": 1142.642,
+          "end": 1144.294,
+          "text": "I can't look."
+        },
+        {
+          "index": 365,
+          "start": 1148.272,
+          "end": 1150.299,
+          "text": "Come and get it!"
+        },
+        {
+          "index": 366,
+          "start": 1151.776,
+          "end": 1153.777,
+          "text": "Thanks for staying with us at the Sleep Well."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "timecode_debut_extrait": 1155,
+      "timecode_fin_extrait": 1170,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0077_time_1155.00s-1170.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 367,
+          "start": 1155.738,
+          "end": 1156.946,
+          "text": "My toys!"
+        },
+        {
+          "index": 368,
+          "start": 1156.947,
+          "end": 1160.241,
+          "text": "No, no. Little girl, that area is for employees only!"
+        },
+        {
+          "index": 369,
+          "start": 1160.242,
+          "end": 1161.409,
+          "text": "Hey!"
+        },
+        {
+          "index": 370,
+          "start": 1161.41,
+          "end": 1162.577,
+          "text": "I can't have you back here."
+        },
+        {
+          "index": 371,
+          "start": 1162.578,
+          "end": 1164.412,
+          "text": "Are those my daughter's toys?"
+        },
+        {
+          "index": 372,
+          "start": 1168.376,
+          "end": 1169.751,
+          "text": "Jessie!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "timecode_debut_extrait": 1170,
+      "timecode_fin_extrait": 1185,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0078_time_1170.00s-1185.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 373,
+          "start": 1170.878,
+          "end": 1173.155,
+          "text": "Those, uh, they might be hers."
+        },
+        {
+          "index": 374,
+          "start": 1176.801,
+          "end": 1178.968,
+          "text": "This was just an honest mistake."
+        },
+        {
+          "index": 375,
+          "start": 1178.969,
+          "end": 1180.804,
+          "text": "You know, I really should call the police."
+        },
+        {
+          "index": 376,
+          "start": 1180.805,
+          "end": 1182.305,
+          "text": "The police? Whoa, whoa, whoa!"
+        },
+        {
+          "index": 377,
+          "start": 1182.306,
+          "end": 1184.14,
+          "text": "Come on. There's no need to involve the authorities."
+        },
+        {
+          "index": 378,
+          "start": 1184.141,
+          "end": 1186.476,
+          "text": "Come on, Bonnie. Let's go. We're leaving."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1185,
+      "timecode_fin_extrait": 1200,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0079_time_1185.00s-1200.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 379,
+          "start": 1186.477,
+          "end": 1187.936,
+          "text": "Would you consider selling them?"
+        },
+        {
+          "index": 380,
+          "start": 1187.937,
+          "end": 1190.772,
+          "text": "Tell you what. I'll give you $100 for the cowboy."
+        },
+        {
+          "index": 381,
+          "start": 1190.773,
+          "end": 1193.175,
+          "text": "What do you want? $200?"
+        },
+        {
+          "index": 382,
+          "start": 1198.739,
+          "end": 1202.784,
+          "text": "Ah, the epilogue. We're back to the location where it all began."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "timecode_debut_extrait": 1200,
+      "timecode_fin_extrait": 1215,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0080_time_1200.00s-1215.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 383,
+          "start": 1202.785,
+          "end": 1204.16,
+          "text": "I never thought I'd miss the trunk."
+        },
+        {
+          "index": 384,
+          "start": 1204.161,
+          "end": 1206.621,
+          "text": "You did it, Jessie. You saved us all."
+        },
+        {
+          "index": 385,
+          "start": 1206.622,
+          "end": 1209.499,
+          "text": "Jessie didn't give up. Jessie found a way."
+        },
+        {
+          "index": 386,
+          "start": 1209.5,
+          "end": 1212.919,
+          "text": "Well, Woody wants to say thanks."
+        },
+        {
+          "index": 387,
+          "start": 1212.92,
+          "end": 1215.338,
+          "text": "Potato Head! Have you seen Potato Head?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "timecode_debut_extrait": 1215,
+      "timecode_fin_extrait": 1230,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0081_time_1215.00s-1230.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 388,
+          "start": 1215.339,
+          "end": 1216.464,
+          "text": "What? No!"
+        },
+        {
+          "index": 389,
+          "start": 1216.465,
+          "end": 1221.136,
+          "text": "Oh, dear. It seems the monster has returned to claim one final victim."
+        },
+        {
+          "index": 390,
+          "start": 1221.137,
+          "end": 1222.971,
+          "text": "No, he hasn't. He's right over there."
+        },
+        {
+          "index": 391,
+          "start": 1222.972,
+          "end": 1225.181,
+          "text": "Oh, I'm so glad to have you back, baby."
+        },
+        {
+          "index": 392,
+          "start": 1225.182,
+          "end": 1228.005,
+          "text": "We ain't never gonna get separated again."
+        },
+        {
+          "index": 393,
+          "start": 1228.185,
+          "end": 1229.519,
+          "text": "Aw, nuts."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "timecode_debut_extrait": 1230,
+      "timecode_fin_extrait": 1245,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0082_time_1230.00s-1245.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 394,
+          "start": 1231.814,
+          "end": 1232.939,
+          "text": "Ah, group laughter."
+        },
+        {
+          "index": 395,
+          "start": 1232.94,
+          "end": 1237.026,
+          "text": "A sure sign that the worst is behind us and the movie is just about over."
+        },
+        {
+          "index": 396,
+          "start": 1237.027,
+          "end": 1238.862,
+          "text": "So, this is the ending?"
+        },
+        {
+          "index": 397,
+          "start": 1238.863,
+          "end": 1242.938,
+          "text": "Um, yes. I'd say they'd be running the credits about now."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "timecode_debut_extrait": 1245,
+      "timecode_fin_extrait": 1260,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0083_time_1245.00s-1260.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 398,
+          "start": 1247.204,
+          "end": 1249.372,
+          "text": "Transport has arrived!"
+        },
+        {
+          "index": 399,
+          "start": 1249.373,
+          "end": 1252.071,
+          "text": "You heard the cat. Let's move."
+        },
+        {
+          "index": 400,
+          "start": 1253.461,
+          "end": 1257.411,
+          "text": "Thanks, buddy. Next stop, Billy's house."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "timecode_debut_extrait": 1260,
+      "timecode_fin_extrait": 1275,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0084_time_1260.00s-1275.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 401,
+          "start": 1261.093,
+          "end": 1262.665,
+          "text": "Mr. Jones!"
+        },
+        {
+          "index": 402,
+          "start": 1263.512,
+          "end": 1265.414,
+          "text": "Here you go, buddy."
+        },
+        {
+          "index": 403,
+          "start": 1266.474,
+          "end": 1268.349,
+          "text": "Uh, welcome to the Sleep Well. How may I..."
+        },
+        {
+          "index": 404,
+          "start": 1268.35,
+          "end": 1269.684,
+          "text": "Are you the manager?"
+        },
+        {
+          "index": 405,
+          "start": 1269.685,
+          "end": 1273.48,
+          "text": "Me? No, I'm not the manager."
+        },
+        {
+          "index": 406,
+          "start": 1273.481,
+          "end": 1276.274,
+          "text": "I'll tell you what. I'll go get him for you."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "timecode_debut_extrait": 1275,
+      "timecode_fin_extrait": 1290,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0085_time_1275.00s-1290.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 407,
+          "start": 1283.866,
+          "end": 1285.906,
+          "text": "Told you not to leave the keys in the car."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1300.502,
+      "timecode_debut_extrait": 1290,
+      "timecode_fin_extrait": 1300.502,
+      "video_path": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub\\interval_0086_time_1290.00s-1300.50s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 408,
+          "start": 1290.372,
+          "end": 1291.898,
+          "text": "We got a runner."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1063 @@
+{
+  "movie_id": "Tron. The Next Day.2011.BDRemux 1080p",
+  "movie_path": "E:\\film_oral\\TRON - The Next Day (2011)\\Tron. The Next Day.2011.BDRemux 1080p.mkv",
+  "subtitle_path": "E:\\film_oral\\TRON - The Next Day (2011)\\Tron. The Next Day.2011.BDRemux 1080p.en.srt",
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 42,
+  "dossier_videos": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p",
+  "date_traitement": "2026-02-13T10:16:12.549515",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 1,
+          "start": 57.5,
+          "end": 59.564,
+          "text": "All right, give me room. Here we go."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 2,
+          "start": 73.642,
+          "end": 75.851,
+          "text": "- What's this game called? - This is Lightcycle."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 3,
+          "start": 92.969,
+          "end": 93.969,
+          "text": "Damn!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 4,
+          "start": 110.722,
+          "end": 114.765,
+          "text": "You're getting brutal, Sark. Brutal and needlessly sadistic."
+        },
+        {
+          "index": 5,
+          "start": 115.082,
+          "end": 117.101,
+          "text": "Thank you, Master Control."
+        },
+        {
+          "index": 6,
+          "start": 117.394,
+          "end": 120.262,
+          "text": "We've kidnapped some military programs."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 7,
+          "start": 120.362,
+          "end": 123.808,
+          "text": "I can arrange more lethal matches. Interested?"
+        },
+        {
+          "index": 8,
+          "start": 123.908,
+          "end": 127.528,
+          "text": "Sure. I'd love to go up against one of those guys."
+        },
+        {
+          "index": 9,
+          "start": 128.196,
+          "end": 130.606,
+          "text": "Make a nice break from those accounting cream puffs"
+        },
+        {
+          "index": 10,
+          "start": 130.706,
+          "end": 132.449,
+          "text": "you keep sending me."
+        },
+        {
+          "index": 11,
+          "start": 132.909,
+          "end": 136.37,
+          "text": "- What branch of the service? - Strategic Air Command."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 12,
+          "start": 137.414,
+          "end": 138.539,
+          "text": "Nice."
+        },
+        {
+          "index": 13,
+          "start": 139.165,
+          "end": 142.501,
+          "text": "Hey, look. This is all a mistake."
+        },
+        {
+          "index": 14,
+          "start": 142.627,
+          "end": 145.087,
+          "text": "I'm just a compound interest program."
+        },
+        {
+          "index": 15,
+          "start": 145.714,
+          "end": 148.833,
+          "text": "I work at a savings and loan. I can't play these video games."
+        },
+        {
+          "index": 16,
+          "start": 148.933,
+          "end": 152.336,
+          "text": "Sure, you can, pal. You look like a natural athlete if I ever saw one."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 17,
+          "start": 152.436,
+          "end": 154.13,
+          "text": "Who me? Are you kidding? No."
+        },
+        {
+          "index": 18,
+          "start": 154.23,
+          "end": 157.216,
+          "text": "I run out to check on T-bill rates, I get out of breath."
+        },
+        {
+          "index": 19,
+          "start": 157.316,
+          "end": 160.469,
+          "text": "Hey, look, you guys are gonna make my user, Mr. Henderson, very angry."
+        },
+        {
+          "index": 20,
+          "start": 160.569,
+          "end": 164.356,
+          "text": "- He's a full branch manager. - Great. Another religious nut."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 21,
+          "start": 168.737,
+          "end": 171.939,
+          "text": "I'd say, \"Welcome, friend,\" but not here, not like this."
+        },
+        {
+          "index": 22,
+          "start": 172.039,
+          "end": 174.158,
+          "text": "I don't even know what I'm doing here."
+        },
+        {
+          "index": 23,
+          "start": 178.038,
+          "end": 180.831,
+          "text": "- Do you believe in the users? - Yeah, sure."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 24,
+          "start": 181.249,
+          "end": 183.451,
+          "text": "If I don't have a user, then who wrote me?"
+        },
+        {
+          "index": 25,
+          "start": 183.551,
+          "end": 184.994,
+          "text": "That's what you're doing here."
+        },
+        {
+          "index": 26,
+          "start": 185.094,
+          "end": 186.912,
+          "text": "Master Control Program's been snapping up"
+        },
+        {
+          "index": 27,
+          "start": 187.012,
+          "end": 189.165,
+          "text": "all us programs who believe."
+        },
+        {
+          "index": 28,
+          "start": 189.265,
+          "end": 190.332,
+          "text": "If he thinks you're useful,"
+        },
+        {
+          "index": 29,
+          "start": 190.432,
+          "end": 192.465,
+          "text": "he takes over all your functions so he gets bigger,"
+        },
+        {
+          "index": 30,
+          "start": 192.594,
+          "end": 194.971,
+          "text": "and if he can't use you, he sends you down here to the game grid"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 31,
+          "start": 195.071,
+          "end": 196.555,
+          "text": "to get the bits blasted out of you."
+        },
+        {
+          "index": 32,
+          "start": 197.182,
+          "end": 199.433,
+          "text": "- What's your name? - Crom."
+        },
+        {
+          "index": 33,
+          "start": 199.934,
+          "end": 201.435,
+          "text": "I'm Ram."
+        },
+        {
+          "index": 34,
+          "start": 202.062,
+          "end": 204.146,
+          "text": "They'll train you for the games, but..."
+        },
+        {
+          "index": 35,
+          "start": 206.441,
+          "end": 208.108,
+          "text": "I hope you make it."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 36,
+          "start": 210.195,
+          "end": 211.919,
+          "text": "Hey, what's been going on in the other sectors?"
+        },
+        {
+          "index": 37,
+          "start": 212.019,
+          "end": 214.74,
+          "text": "You know, I've been stuck here for 200 microcycles."
+        },
+        {
+          "index": 38,
+          "start": 216.618,
+          "end": 220.196,
+          "text": "It's murder out there. You can't even travel around your own microcircuits"
+        },
+        {
+          "index": 39,
+          "start": 220.296,
+          "end": 223.624,
+          "text": "without permission from Master Control Program."
+        },
+        {
+          "index": 40,
+          "start": 224.417,
+          "end": 226.869,
+          "text": "I mean, sending me down here to play games."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 41,
+          "start": 226.969,
+          "end": 228.837,
+          "text": "Who does he calculate he is?"
+        },
+        {
+          "index": 42,
+          "start": 235.178,
+          "end": 238.639,
+          "text": "Okay, Clu, tonight we check everything in the right-hand column."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 43,
+          "start": 242.102,
+          "end": 243.727,
+          "text": "Come on. Come on."
+        },
+        {
+          "index": 44,
+          "start": 244.104,
+          "end": 245.096,
+          "text": "Where are you?"
+        },
+        {
+          "index": 45,
+          "start": 245.196,
+          "end": 246.722,
+          "text": "- There you are. Clu. - Yes, sir?"
+        },
+        {
+          "index": 46,
+          "start": 246.822,
+          "end": 248.639,
+          "text": "Clu, we don't have much time left to find that file."
+        },
+        {
+          "index": 47,
+          "start": 248.739,
+          "end": 250.394,
+          "text": "- This is top priority. - Yes, sir. I know, sir."
+        },
+        {
+          "index": 48,
+          "start": 250.494,
+          "end": 252.003,
+          "text": "This isn't just correcting my bank statement"
+        },
+        {
+          "index": 49,
+          "start": 252.103,
+          "end": 253.608,
+          "text": "or phone bill problem again. This is a must."
+        },
+        {
+          "index": 50,
+          "start": 253.708,
+          "end": 255.731,
+          "text": "- I understand, sir. Yes, sir. - Now, I wrote you."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 51,
+          "start": 255.831,
+          "end": 257.568,
+          "text": "I taught you everything I know about the system."
+        },
+        {
+          "index": 52,
+          "start": 257.668,
+          "end": 258.463,
+          "text": "Thank you, sir."
+        },
+        {
+          "index": 53,
+          "start": 258.563,
+          "end": 260.543,
+          "text": "- But I'm not sure... - No \"buts,\" Clu. That's for users."
+        },
+        {
+          "index": 54,
+          "start": 260.643,
+          "end": 262.443,
+          "text": "Now you're the best program that's ever been written."
+        },
+        {
+          "index": 55,
+          "start": 262.543,
+          "end": 263.895,
+          "text": "You're dogged and relentless, remember?"
+        },
+        {
+          "index": 56,
+          "start": 263.995,
+          "end": 265.449,
+          "text": "- Let me at 'em. - That's the spirit."
+        },
+        {
+          "index": 57,
+          "start": 265.549,
+          "end": 267.034,
+          "text": "Now keep that tank rolling."
+        },
+        {
+          "index": 58,
+          "start": 267.134,
+          "end": 269.837,
+          "text": "I'll try to cover you from this end. Go."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 59,
+          "start": 288.523,
+          "end": 290.858,
+          "text": "Do you think we can merge with this memory, Bit?"
+        },
+        {
+          "index": 60,
+          "start": 292.193,
+          "end": 293.193,
+          "text": "Yes."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 61,
+          "start": 301.578,
+          "end": 303.37,
+          "text": "Now Flynn is saying to look over in here,"
+        },
+        {
+          "index": 62,
+          "start": 303.58,
+          "end": 305.372,
+          "text": "but I don't see what we're looking for."
+        },
+        {
+          "index": 63,
+          "start": 312.63,
+          "end": 315.716,
+          "text": "Come on, you scuzzy data. Be in there. Come on."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 64,
+          "start": 324.809,
+          "end": 326.476,
+          "text": "We've got company."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 65,
+          "start": 331.399,
+          "end": 333.233,
+          "text": "I don't believe this."
+        },
+        {
+          "index": 66,
+          "start": 334.903,
+          "end": 337.07,
+          "text": "- A Recognizer. - Yes! Yes! Yes! Yes! Yes!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 67,
+          "start": 348.75,
+          "end": 350.083,
+          "text": "There's too many of them!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 68,
+          "start": 372.273,
+          "end": 373.732,
+          "text": "What is this?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 69,
+          "start": 390.959,
+          "end": 391.959,
+          "text": "Damn it!"
+        },
+        {
+          "index": 70,
+          "start": 397.09,
+          "end": 400.133,
+          "text": "- Get out of here! - Yes! Yes! Yes! Yes! Yes! Yes!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 71,
+          "start": 413.815,
+          "end": 415.232,
+          "text": "Busted again."
+        },
+        {
+          "index": 72,
+          "start": 416.15,
+          "end": 418.61,
+          "text": "God. And that was my best program."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 73,
+          "start": 429.33,
+          "end": 432.541,
+          "text": "Got a pirate program here. Says his name's Clu."
+        },
+        {
+          "index": 74,
+          "start": 433.626,
+          "end": 435.077,
+          "text": "What did he pull?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 75,
+          "start": 435.177,
+          "end": 438.046,
+          "text": "Came into the system with a stolen password"
+        },
+        {
+          "index": 76,
+          "start": 438.214,
+          "end": 441.25,
+          "text": "and we caught him trying to raid a high-clearance memory."
+        },
+        {
+          "index": 77,
+          "start": 441.35,
+          "end": 444.837,
+          "text": "No. I must've gotten in there by mistake. I was..."
+        },
+        {
+          "index": 78,
+          "start": 444.937,
+          "end": 447.514,
+          "text": "- Who programmed you? - I was..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0030_time_450.00s-465.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 79,
+          "start": 456.107,
+          "end": 459.192,
+          "text": "You're in trouble, program. Make it easy on yourself."
+        },
+        {
+          "index": 80,
+          "start": 459.319,
+          "end": 460.811,
+          "text": "Who's your user?"
+        },
+        {
+          "index": 81,
+          "start": 460.911,
+          "end": 464.114,
+          "text": "Forget it, mister high-and-mighty Master Control!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 82,
+          "start": 466.659,
+          "end": 468.66,
+          "text": "You aren't making me talk."
+        },
+        {
+          "index": 83,
+          "start": 470.83,
+          "end": 472.456,
+          "text": "Suit yourself."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 84,
+          "start": 485.595,
+          "end": 487.304,
+          "text": "Get me Dillinger."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 85,
+          "start": 541.15,
+          "end": 543.977,
+          "text": "- Good evening, Mr. Dillinger. - Thank you, Peter. You can go now."
+        },
+        {
+          "index": 86,
+          "start": 544.077,
+          "end": 545.32,
+          "text": "Yes, sir."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 87,
+          "start": 567.468,
+          "end": 570.47,
+          "text": "Hello, Mr. Dillinger. Thanks for coming back early."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 88,
+          "start": 571.139,
+          "end": 572.973,
+          "text": "No problem, Master C."
+        },
+        {
+          "index": 89,
+          "start": 573.141,
+          "end": 576.643,
+          "text": "If you've seen one consumer electronic show, you've seen them all. What's up?"
+        },
+        {
+          "index": 90,
+          "start": 576.936,
+          "end": 580.389,
+          "text": "It's your friend, the boy detective. He's nosing around again."
+        },
+        {
+          "index": 91,
+          "start": 580.489,
+          "end": 582.516,
+          "text": "- Flynn? - Yes."
+        },
+        {
+          "index": 92,
+          "start": 582.616,
+          "end": 585.894,
+          "text": "- It felt like Flynn. - He's still looking for that old file."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 585,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0039_time_585.00s-600.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 93,
+          "start": 585.994,
+          "end": 588.655,
+          "text": "- Can't you just appropriate it? - I have."
+        },
+        {
+          "index": 94,
+          "start": 589.031,
+          "end": 591.9,
+          "text": "I put it in my memory, which he hasn't located."
+        },
+        {
+          "index": 95,
+          "start": 592.0,
+          "end": 594.703,
+          "text": "- But he might find it. - I'm afraid so."
+        },
+        {
+          "index": 96,
+          "start": 595.163,
+          "end": 597.739,
+          "text": "I spotted him this time and kept him out."
+        },
+        {
+          "index": 97,
+          "start": 597.839,
+          "end": 600.417,
+          "text": "But he's getting trickier all the time."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "timecode_debut_extrait": 600,
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0040_time_600.00s-615.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 98,
+          "start": 601.169,
+          "end": 605.914,
+          "text": "I think we should shut down all access until we find that Flynn, just to be safe."
+        },
+        {
+          "index": 99,
+          "start": 606.014,
+          "end": 609.509,
+          "text": "There's a 68.71% chance you're right."
+        },
+        {
+          "index": 100,
+          "start": 609.969,
+          "end": 612.053,
+          "text": "- Cute. - End of line."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 626.56,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 626.56,
+      "video_path": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p\\interval_0041_time_615.00s-626.56s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    }
+  ]
+}

@@ -1,0 +1,664 @@
+{
+  "movie_id": "Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON",
+  "movie_path": "E:\\film_oral\\Jack-Jack Attack (2005)\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON.mkv",
+  "subtitle_path": "E:\\film_oral\\Jack-Jack Attack (2005)\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON.en.srt",
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 20,
+  "dossier_videos": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON",
+  "date_traitement": "2026-02-13T08:54:51.787926",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 1,
+          "start": 79.662,
+          "end": 82.499,
+          "text": "Did you see what's happening?"
+        },
+        {
+          "index": 2,
+          "start": 85.126,
+          "end": 86.628,
+          "text": "Come on, come on, let's go!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 3,
+          "start": 101.309,
+          "end": 102.477,
+          "text": "Hey, what's going on?"
+        },
+        {
+          "index": 4,
+          "start": 102.686,
+          "end": 104.688,
+          "text": "In there. It's on the news."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 5,
+          "start": 113.154,
+          "end": 114.572,
+          "text": "Then, 18 minutes later,"
+        },
+        {
+          "index": 6,
+          "start": 114.656,
+          "end": 117.242,
+          "text": "a second one went into the other twin tower."
+        },
+        {
+          "index": 7,
+          "start": 117.325,
+          "end": 121.287,
+          "text": "Can you paint us a picture of the situation in New York..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 8,
+          "start": 121.371,
+          "end": 124.374,
+          "text": "An everyday morning situation, presumably pretty busy in the streets,"
+        },
+        {
+          "index": 9,
+          "start": 124.457,
+          "end": 125.625,
+          "text": "people going about their business."
+        },
+        {
+          "index": 10,
+          "start": 125.709,
+          "end": 128.044,
+          "text": "Well, it's a beautiful day here in New York."
+        },
+        {
+          "index": 11,
+          "start": 128.086,
+          "end": 130.505,
+          "text": "Everyone is out in the street, everyone's on their rooftops,"
+        },
+        {
+          "index": 12,
+          "start": 130.547,
+          "end": 132.632,
+          "text": "everyone's on their mobile phones."
+        },
+        {
+          "index": 13,
+          "start": 132.716,
+          "end": 135.385,
+          "text": "I don't think people can quite believe what's happened."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 14,
+          "start": 135.427,
+          "end": 137.178,
+          "text": "Given that this is the financial district,"
+        },
+        {
+          "index": 15,
+          "start": 137.22,
+          "end": 138.304,
+          "text": "is it your understanding that people..."
+        },
+        {
+          "index": 16,
+          "start": 138.388,
+          "end": 140.098,
+          "text": "You're American, aren't you? Sorry, mate."
+        },
+        {
+          "index": 17,
+          "start": 140.181,
+          "end": 141.474,
+          "text": "...may actually be inside the World Trade Center?"
+        },
+        {
+          "index": 18,
+          "start": 141.558,
+          "end": 142.934,
+          "text": "I mean, without a shadow of a doubt"
+        },
+        {
+          "index": 19,
+          "start": 143.018,
+          "end": 145.52,
+          "text": "there will be people in there. They get to work very early."
+        },
+        {
+          "index": 20,
+          "start": 145.562,
+          "end": 148.106,
+          "text": "And what about the emergency services?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 21,
+          "start": 150.066,
+          "end": 152.444,
+          "text": "I, John Patrick Ryan,"
+        },
+        {
+          "index": 22,
+          "start": 152.527,
+          "end": 155.03,
+          "text": "do solemnly swear that I will support and defend"
+        },
+        {
+          "index": 23,
+          "start": 155.071,
+          "end": 157.323,
+          "text": "the Constitution of the United States"
+        },
+        {
+          "index": 24,
+          "start": 157.407,
+          "end": 159.534,
+          "text": "against all enemies, foreign and domestic,"
+        },
+        {
+          "index": 25,
+          "start": 159.576,
+          "end": 162.328,
+          "text": "that I will bear true faith and allegiance to the same"
+        },
+        {
+          "index": 26,
+          "start": 162.996,
+          "end": 166.374,
+          "text": "and that I will obey the orders of the President of the United States"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 27,
+          "start": 166.416,
+          "end": 169.085,
+          "text": "and the orders of the officers appointed over me"
+        },
+        {
+          "index": 28,
+          "start": 169.169,
+          "end": 172.422,
+          "text": "according to regulations and the Uniform Code of Military Justice,"
+        },
+        {
+          "index": 29,
+          "start": 172.464,
+          "end": 174.215,
+          "text": "so help me, God."
+        },
+        {
+          "index": 30,
+          "start": 174.257,
+          "end": 175.592,
+          "text": "-Come on, then! -I got one!"
+        },
+        {
+          "index": 31,
+          "start": 175.633,
+          "end": 177.344,
+          "text": "-Let's hear it! -Richmond Webb."
+        },
+        {
+          "index": 32,
+          "start": 177.427,
+          "end": 178.428,
+          "text": "You serious?"
+        },
+        {
+          "index": 33,
+          "start": 178.511,
+          "end": 180.388,
+          "text": "My man was a seven-time Pro Bowler."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 34,
+          "start": 180.43,
+          "end": 181.931,
+          "text": "I'm just saying Brown's better."
+        },
+        {
+          "index": 35,
+          "start": 181.973,
+          "end": 183.767,
+          "text": "Man, how come every cat from Baltimore"
+        },
+        {
+          "index": 36,
+          "start": 183.808,
+          "end": 185.977,
+          "text": "always got to bring up Orlando Brown?"
+        },
+        {
+          "index": 37,
+          "start": 186.102,
+          "end": 188.73,
+          "text": "Because Brown's the most underrated offensive tackle in the business."
+        },
+        {
+          "index": 38,
+          "start": 188.855,
+          "end": 190.774,
+          "text": "-Have you ever seen him play? -What? Aw, man."
+        },
+        {
+          "index": 39,
+          "start": 191.441,
+          "end": 193.109,
+          "text": "Yes, this is Lieutenant Ryan."
+        },
+        {
+          "index": 40,
+          "start": 194.11,
+          "end": 196.196,
+          "text": "Yes, sir, I did. I was wondering"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 41,
+          "start": 196.279,
+          "end": 199.991,
+          "text": "if you had a chance to forward my report on the Saabir Khan Bridge"
+        },
+        {
+          "index": 42,
+          "start": 200.075,
+          "end": 201.993,
+          "text": "to anyone in intel."
+        },
+        {
+          "index": 43,
+          "start": 202.077,
+          "end": 205.622,
+          "text": "Yes, sir, they are the same findings I already reported."
+        },
+        {
+          "index": 44,
+          "start": 205.705,
+          "end": 209.793,
+          "text": "I just can't help noticing a correlation between traffic patterns there"
+        },
+        {
+          "index": 45,
+          "start": 209.876,
+          "end": 211.044,
+          "text": "and the region's other..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 46,
+          "start": 212.796,
+          "end": 214.673,
+          "text": "Well, if they do respond,"
+        },
+        {
+          "index": 47,
+          "start": 214.756,
+          "end": 217.842,
+          "text": "I would be happy to explain it to whoever's in charge of regional..."
+        },
+        {
+          "index": 48,
+          "start": 218.51,
+          "end": 219.803,
+          "text": "Sir?"
+        },
+        {
+          "index": 49,
+          "start": 221.221,
+          "end": 223.181,
+          "text": "Still no love from the C.O.?"
+        },
+        {
+          "index": 50,
+          "start": 223.264,
+          "end": 225.725,
+          "text": "I don't get it. I'm just trying to help."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 51,
+          "start": 225.809,
+          "end": 227.352,
+          "text": "Hey, guys. Buckle up in the back."
+        },
+        {
+          "index": 52,
+          "start": 227.435,
+          "end": 229.688,
+          "text": "We're running into a little turbulence."
+        },
+        {
+          "index": 53,
+          "start": 229.771,
+          "end": 230.814,
+          "text": "You all right there, Private?"
+        },
+        {
+          "index": 54,
+          "start": 230.855,
+          "end": 232.315,
+          "text": "-Sir, yes, sir! -Good man!"
+        },
+        {
+          "index": 55,
+          "start": 232.399,
+          "end": 235.402,
+          "text": "Man, I still don't get why you requested this detail."
+        },
+        {
+          "index": 56,
+          "start": 235.485,
+          "end": 238.113,
+          "text": "Big brain like yours, man, why aren't you behind some desk somewhere?"
+        },
+        {
+          "index": 57,
+          "start": 238.154,
+          "end": 239.614,
+          "text": "You requested this?"
+        },
+        {
+          "index": 58,
+          "start": 239.656,
+          "end": 241.825,
+          "text": "I just figured if I was gonna serve, I should serve."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 59,
+          "start": 241.866,
+          "end": 244.619,
+          "text": "Man, that's some patriotic shit right there, you see that?"
+        },
+        {
+          "index": 60,
+          "start": 244.661,
+          "end": 247.288,
+          "text": "You're all right, Lieutenant. Even if your team is wack."
+        },
+        {
+          "index": 61,
+          "start": 247.33,
+          "end": 249.708,
+          "text": "Oh, stop talking trash on my Ravens, homeboy."
+        },
+        {
+          "index": 62,
+          "start": 250.875,
+          "end": 252.502,
+          "text": "I'm a Bengals fan."
+        },
+        {
+          "index": 63,
+          "start": 252.544,
+          "end": 253.837,
+          "text": "The Bengals?"
+        },
+        {
+          "index": 64,
+          "start": 254.796,
+          "end": 257.632,
+          "text": "Rookie, get that harness on and stop trying to be down."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 65,
+          "start": 257.674,
+          "end": 259.843,
+          "text": "Man, you got a lot to learn, Davies."
+        },
+        {
+          "index": 66,
+          "start": 259.926,
+          "end": 262.762,
+          "text": "Left in, right twist, click."
+        },
+        {
+          "index": 67,
+          "start": 262.846,
+          "end": 264.014,
+          "text": "Thank you, sir!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 68,
+          "start": 270.562,
+          "end": 271.813,
+          "text": "You want some help?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 296.363,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 296.363,
+      "video_path": null,
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 69,
+          "start": 288.705,
+          "end": 289.706,
+          "text": "Move, move, move!"
+        },
+        {
+          "index": 70,
+          "start": 289.789,
+          "end": 291.458,
+          "text": "Chopper crash. Spinal cord should be okay,"
+        },
+        {
+          "index": 71,
+          "start": 291.541,
+          "end": 293.877,
+          "text": "but he's got two shattered vertebrae and no feeling in his legs."
+        },
+        {
+          "index": 72,
+          "start": 293.918,
+          "end": 295.045,
+          "text": "Lieutenant Ryan!"
+        },
+        {
+          "index": 73,
+          "start": 295.545,
+          "end": 298.048,
+          "text": "Lieutenant Ryan! Did anyone else make it out alive?"
+        }
+      ]
+    }
+  ]
+}

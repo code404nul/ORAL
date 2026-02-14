@@ -16,7 +16,7 @@ def get_disney_movies():
     all_movies = []
     
     # ID de la société de production Disney
-    DISNEY_COMPANY_ID = 2  # Walt Disney Pictures
+    DISNEY_COMPANY_ID = 81  # Walt Disney Pictures
     
     current_page = 1
     total_pages = None
@@ -62,7 +62,7 @@ def get_disney_movies():
     
     return all_movies
 
-def save_to_csv(movies, filename="disney_movies.csv"):
+def save_to_csv(movies, filename="plan_b.csv"):
     """
     Sauvegarde les films dans un fichier CSV avec les colonnes demandées
     """

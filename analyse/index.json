@@ -1,206 +1,406 @@
 {
-  "date_generation": "2026-02-10T22:02:59.182743",
-  "nombre_films": 25,
+  "date_generation": "2026-02-13T10:24:00.727922",
+  "nombre_films": 50,
   "films": [
+    {
+      "movie_id": "Air Bud - Golden Receiver [1998, WEB-DL 1080p] MVO + AVO + MVO Ukr + Sub Eng + Original Eng",
+      "movie_path": "E:\\film_oral\\Air Bud - Golden Receiver (1998)\\Air Bud - Golden Receiver [1998, WEB-DL 1080p] MVO + AVO + MVO Ukr + Sub Eng + Original Eng.mkv",
+      "subtitle_path": null,
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "[bitsearch.to] Alexander.And.The.Terrible.Horrible.No.Good.Very.Bad.Road.Trip.2025.1080p.WEBRip.x264.AAC5.1-LAMA",
+      "movie_path": "E:\\film_oral\\Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip (2025)\\[bitsearch.to] Alexander.And.The.Terrible.Horrible.No.Good.Very.Bad.Road.Trip.2025.1080p.WEBRip.x264.AAC5.1-LAMA.mp4",
+      "subtitle_path": "E:\\film_oral\\Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip (2025)\\[bitsearch.to] Alexander.And.The.Terrible.Horrible.No.Good.Very.Bad.Road.Trip.2025.1080p.WEBRip.x264.AAC5.1-LAMA.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "Artemis Fowl (2020) 1080p WEBRip 5.1 x264 -YTS",
+      "movie_path": "E:\\film_oral\\Artemis Fowl (2020)\\Artemis Fowl (2020) 1080p WEBRip 5.1 x264 -YTS.mp4",
+      "subtitle_path": "E:\\film_oral\\Artemis Fowl (2020)\\Artemis Fowl (2020) 1080p WEBRip 5.1 x264 -YTS.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "Beauty and the Beast (2014) 1080p BRRip 5.1 x264 -YTS",
+      "movie_path": "E:\\film_oral\\Beauty and the Beast (2014)\\Beauty and the Beast (2014) 1080p BRRip 5.1 x264 -YTS.mp4",
+      "subtitle_path": "E:\\film_oral\\Beauty and the Beast (2014)\\Beauty and the Beast (2014) 1080p BRRip 5.1 x264 -YTS.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
     {
       "movie_id": "Captain Sparky vs. the Flying Saucers (2013) 1080p BRRip x264 -YTS",
       "movie_path": "E:\\film_oral\\Captain Sparky vs. The Flying Saucers (2013)\\Captain Sparky vs. the Flying Saucers (2013) 1080p BRRip x264 -YTS.mp4",
       "subtitle_path": "E:\\film_oral\\Captain Sparky vs. The Flying Saucers (2013)\\Captain Sparky vs. the Flying Saucers (2013) 1080p BRRip x264 -YTS.en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 10,
-      "dossier_videos": "analyse\\videos\\Captain Sparky vs. the Flying Saucers (2013) 1080p BRRip x264 -YTS"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "Chip 'n Dale - Rescue Rangers [2022, WEB-DL 1080p] 4 MVO + VO + Ukr + Sub Rus, Eng, Multi + Original Eng",
+      "movie_path": "E:\\film_oral\\Chip 'n Dale - Rescue Rangers (2022)\\Chip 'n Dale - Rescue Rangers [2022, WEB-DL 1080p] 4 MVO + VO + Ukr + Sub Rus, Eng, Multi + Original Eng.mkv",
+      "subtitle_path": "E:\\film_oral\\Chip 'n Dale - Rescue Rangers (2022)\\Chip 'n Dale - Rescue Rangers [2022, WEB-DL 1080p] 4 MVO + VO + Ukr + Sub Rus, Eng, Multi + Original Eng.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "Confessions of a Teenage Drama Queen (2004) 1080p WEBRip 5.1 x264 -YTS",
       "movie_path": "E:\\film_oral\\Confessions of a Teenage Drama Queen (2004)\\Confessions of a Teenage Drama Queen (2004) 1080p WEBRip 5.1 x264 -YTS.mp4",
       "subtitle_path": "E:\\film_oral\\Confessions of a Teenage Drama Queen (2004)\\Confessions of a Teenage Drama Queen (2004) 1080p WEBRip 5.1 x264 -YTS.en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 359,
-      "dossier_videos": "analyse\\videos\\Confessions of a Teenage Drama Queen (2004) 1080p WEBRip 5.1 x264 -YTS"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB",
       "movie_path": "E:\\film_oral\\Destino (2003)\\[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB.mkv",
       "subtitle_path": "E:\\film_oral\\Destino (2003)\\[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB.en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 27,
-      "dossier_videos": "analyse\\videos\\[bitsearch.to] Destino.2003.SHORT.1080p.BluRay.REMUX-DDB"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "Diary of a Wimpy Kid (2021) [1080p] [WEBRip]",
       "movie_path": "E:\\film_oral\\Diary of a Wimpy Kid (2021)\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip].mp4",
       "subtitle_path": "E:\\film_oral\\Diary of a Wimpy Kid (2021)\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip].en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 225,
-      "dossier_videos": "analyse\\videos\\Diary of a Wimpy Kid (2021) [1080p] [WEBRip]"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "Diary of a Wimpy Kid Rodrick Rules (2011) 1080p BRRip x264 -YTS",
+      "movie_path": "E:\\film_oral\\Diary of a Wimpy Kid - Rodrick Rules (2011)\\Diary of a Wimpy Kid Rodrick Rules (2011) 1080p BRRip x264 -YTS.mp4",
+      "subtitle_path": "E:\\film_oral\\Diary of a Wimpy Kid - Rodrick Rules (2011)\\Diary of a Wimpy Kid Rodrick Rules (2011) 1080p BRRip x264 -YTS.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS",
       "movie_path": "E:\\film_oral\\Far from the Tree (2021)\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS.mp4",
       "subtitle_path": "E:\\film_oral\\Far from the Tree (2021)\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS.en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 30,
-      "dossier_videos": "analyse\\videos\\Far from the Tree (2021) 1080p WEBRip 5.1 x264 -YTS"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "First Kid 1996 1080p WEBRip DDP 2 0 10bit H 265-iVy",
       "movie_path": "E:\\film_oral\\First Kid (1996)\\First Kid 1996 1080p WEBRip DDP 2 0 10bit H 265-iVy.mkv",
       "subtitle_path": "E:\\film_oral\\First Kid (1996)\\First Kid 1996 1080p WEBRip DDP 2 0 10bit H 265-iVy.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "[bitsearch.to] Freakier.Friday.2025.BDREMUX.1080p.seleZen",
+      "movie_path": "E:\\film_oral\\Freakier Friday (2025)\\[bitsearch.to] Freakier.Friday.2025.BDREMUX.1080p.seleZen.mkv",
+      "subtitle_path": "E:\\film_oral\\Freakier Friday (2025)\\[bitsearch.to] Freakier.Friday.2025.BDREMUX.1080p.seleZen.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "Godmothered (2020) 1080p BRRip 5.1 x264 -YTS",
+      "movie_path": "E:\\film_oral\\Godmothered (2020)\\Godmothered (2020) 1080p BRRip 5.1 x264 -YTS.mp4",
+      "subtitle_path": "E:\\film_oral\\Godmothered (2020)\\Godmothered (2020) 1080p BRRip 5.1 x264 -YTS.en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 439,
+      "dossier_videos": "analyse\\videos\\Godmothered (2020) 1080p BRRip 5.1 x264 -YTS"
+    },
+    {
+      "movie_id": "Herbie Fully Loaded (2005) 1080p BRRip x264 -YTS",
+      "movie_path": "E:\\film_oral\\Herbie Fully Loaded (2005)\\Herbie Fully Loaded (2005) 1080p BRRip x264 -YTS.mp4",
+      "subtitle_path": "E:\\film_oral\\Herbie Fully Loaded (2005)\\Herbie Fully Loaded (2005) 1080p BRRip x264 -YTS.en.srt",
       "intervalle_secondes": 15,
       "nombre_intervalles": 404,
-      "dossier_videos": "analyse\\videos\\First Kid 1996 1080p WEBRip DDP 2 0 10bit H 265-iVy"
+      "dossier_videos": "analyse\\videos\\Herbie Fully Loaded (2005) 1080p BRRip x264 -YTS"
     },
     {
       "movie_id": "Hocus Pocus (1993) 1080p BrRip x264 - YIFY",
       "movie_path": "E:\\film_oral\\Hocus Pocus (1993)\\Hocus Pocus (1993) 1080p BrRip x264 - YIFY.mp4",
       "subtitle_path": "E:\\film_oral\\Hocus Pocus (1993)\\Hocus Pocus (1993) 1080p BrRip x264 - YIFY.en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 385,
-      "dossier_videos": "analyse\\videos\\Hocus Pocus (1993) 1080p BrRip x264 - YIFY"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "How to Hook Up Your Home Theater [2007, BDRemux 1080p] Dub + ENG + Sub (rus, ukr, eng)",
       "movie_path": "E:\\film_oral\\How to Hook Up Your Home Theater (2007)\\How to Hook Up Your Home Theater [2007, BDRemux 1080p] Dub + ENG + Sub (rus, ukr, eng).mkv",
       "subtitle_path": "E:\\film_oral\\How to Hook Up Your Home Theater (2007)\\How to Hook Up Your Home Theater [2007, BDRemux 1080p] Dub + ENG + Sub (rus, ukr, eng).en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 26,
-      "dossier_videos": "analyse\\videos\\How to Hook Up Your Home Theater [2007, BDRemux 1080p] Dub + ENG + Sub (rus, ukr, eng)"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "Icefall (2025)",
       "movie_path": "E:\\film_oral\\Icefall (2025)\\Icefall (2025).mp4",
       "subtitle_path": "E:\\film_oral\\Icefall (2025)\\Icefall (2025).en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 385,
-      "dossier_videos": "analyse\\videos\\Icefall (2025)"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]",
       "movie_path": "E:\\film_oral\\Inner Workings (2016)\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD].mkv",
       "subtitle_path": "E:\\film_oral\\Inner Workings (2016)\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD].en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "Inspector Gadget 2 (2003) 1080p WEBRip x264 -YTS",
+      "movie_path": "E:\\film_oral\\Inspector Gadget 2 (2003)\\Inspector Gadget 2 (2003) 1080p WEBRip x264 -YTS.mp4",
+      "subtitle_path": "E:\\film_oral\\Inspector Gadget 2 (2003)\\Inspector Gadget 2 (2003) 1080p WEBRip x264 -YTS.en.srt",
       "intervalle_secondes": 15,
-      "nombre_intervalles": 26,
-      "dossier_videos": "analyse\\videos\\[bitsearch.to] Inner.Workings.2016.1080p.BluRay.x264-HDEX[EtHD]"
+      "nombre_intervalles": 355,
+      "dossier_videos": "analyse\\videos\\Inspector Gadget 2 (2003) 1080p WEBRip x264 -YTS"
+    },
+    {
+      "movie_id": "Into the Woods (2014) 1080p BRRip x264 -YTS",
+      "movie_path": "E:\\film_oral\\Into the Woods (2014)\\Into the Woods (2014) 1080p BRRip x264 -YTS.mp4",
+      "subtitle_path": "E:\\film_oral\\Into the Woods (2014)\\Into the Woods (2014) 1080p BRRip x264 -YTS.en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 500,
+      "dossier_videos": "analyse\\videos\\Into the Woods (2014) 1080p BRRip x264 -YTS"
+    },
+    {
+      "movie_id": "Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON",
+      "movie_path": "E:\\film_oral\\Jack-Jack Attack (2005)\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON.mkv",
+      "subtitle_path": "E:\\film_oral\\Jack-Jack Attack (2005)\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON.en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 20,
+      "dossier_videos": "analyse\\videos\\Jack-Jack Attack 2005 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON"
     },
     {
       "movie_id": "Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng",
       "movie_path": "E:\\film_oral\\Lamp Life (2020)\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng.mkv",
       "subtitle_path": "E:\\film_oral\\Lamp Life (2020)\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "McFarland, USA (2015) 1080p BRRip x264 -YTS",
+      "movie_path": "E:\\film_oral\\McFarland, USA (2015)\\McFarland, USA (2015) 1080p BRRip x264 -YTS.mp4",
+      "subtitle_path": "E:\\film_oral\\McFarland, USA (2015)\\McFarland, USA (2015) 1080p BRRip x264 -YTS.en.srt",
       "intervalle_secondes": 15,
-      "nombre_intervalles": 45,
-      "dossier_videos": "analyse\\videos\\Lamp Life [2020, WEB-DL 1080p] Dub (Flarrow Films) + Sub Rus, Ukr, Eng + Original Eng"
+      "nombre_intervalles": 517,
+      "dossier_videos": "analyse\\videos\\McFarland, USA (2015) 1080p BRRip x264 -YTS"
     },
     {
       "movie_id": "Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL",
       "movie_path": "E:\\film_oral\\Mickey and the Very Many Christmases (2024)\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL.mkv",
       "subtitle_path": "E:\\film_oral\\Mickey and the Very Many Christmases (2024)\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL.en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 87,
-      "dossier_videos": "analyse\\videos\\Mickey and the Very Many Christmases 2024 1080p DSNP WEB-DL DDP5 1 H 264-BL"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON",
       "movie_path": "E:\\film_oral\\Mike's New Car (2002)\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON.mkv",
       "subtitle_path": "E:\\film_oral\\Mike's New Car (2002)\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON.en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 17,
-      "dossier_videos": "analyse\\videos\\Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "Newsies The Broadway Musical (2017) 1080p WEBRip 5.1 x264 -YTS",
       "movie_path": "E:\\film_oral\\Newsies (2017)\\Newsies The Broadway Musical (2017) 1080p WEBRip 5.1 x264 -YTS.mp4",
       "subtitle_path": "E:\\film_oral\\Newsies (2017)\\Newsies The Broadway Musical (2017) 1080p WEBRip 5.1 x264 -YTS.en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 536,
-      "dossier_videos": "analyse\\videos\\Newsies The Broadway Musical (2017) 1080p WEBRip 5.1 x264 -YTS"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "Night at the Museum Kahmunrah Rises Again (2022) [1080p] [WEBRip",
       "movie_path": "E:\\film_oral\\Night at the Museum - Kahmunrah Rises Again (2022)\\Night at the Museum Kahmunrah Rises Again (2022) [1080p] [WEBRip.mp4",
       "subtitle_path": "E:\\film_oral\\Night at the Museum - Kahmunrah Rises Again (2022)\\Night at the Museum Kahmunrah Rises Again (2022) [1080p] [WEBRip.en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 311,
-      "dossier_videos": "analyse\\videos\\Night at the Museum Kahmunrah Rises Again (2022) [1080p] [WEBRip"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)",
       "movie_path": "E:\\film_oral\\Once Upon a Studio (2023)\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost).mkv",
       "subtitle_path": "E:\\film_oral\\Once Upon a Studio (2023)\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost).en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "Pinocchio [1940, BDRemux 1080p] [Signature Collection] Dub + 8x MVO + 2x AVO + VO + Dub Ukr + Sub Rus, Ukr, Eng + Original Eng",
+      "movie_path": "E:\\film_oral\\Pinocchio (1940)\\Pinocchio [1940, BDRemux 1080p] [Signature Collection] Dub + 8x MVO + 2x AVO + VO + Dub Ukr + Sub Rus, Ukr, Eng + Original Eng.mkv",
+      "subtitle_path": "E:\\film_oral\\Pinocchio (1940)\\Pinocchio [1940, BDRemux 1080p] [Signature Collection] Dub + 8x MVO + 2x AVO + VO + Dub Ukr + Sub Rus, Ukr, Eng + Original Eng.en.srt",
       "intervalle_secondes": 15,
-      "nombre_intervalles": 36,
-      "dossier_videos": "analyse\\videos\\[bitsearch.to] Once Upon a Studio (2023) (1080p DSNP WEB-DL x265 HEVC 10bit EAC3 Atmos 5.1 Ghost)"
+      "nombre_intervalles": 352,
+      "dossier_videos": "analyse\\videos\\Pinocchio [1940, BDRemux 1080p] [Signature Collection] Dub + 8x MVO + 2x AVO + VO + Dub Ukr + Sub Rus, Ukr, Eng + Original Eng"
+    },
+    {
+      "movie_id": "[bitsearch.to] Pirates.Of.The.Caribbean.Dead.Mans.Chest.2006.1080p.BluRay.H264-RBG",
+      "movie_path": "E:\\film_oral\\Pirates of the Caribbean - Dead Man's Chest (2006)\\[bitsearch.to] Pirates.Of.The.Caribbean.Dead.Mans.Chest.2006.1080p.BluRay.H264-RBG.mp4",
+      "subtitle_path": "E:\\film_oral\\Pirates of the Caribbean - Dead Man's Chest (2006)\\[bitsearch.to] Pirates.Of.The.Caribbean.Dead.Mans.Chest.2006.1080p.BluRay.H264-RBG.en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 603,
+      "dossier_videos": "analyse\\videos\\[bitsearch.to] Pirates.Of.The.Caribbean.Dead.Mans.Chest.2006.1080p.BluRay.H264-RBG"
+    },
+    {
+      "movie_id": "[bitsearch.to] Pirates of the Caribbean - Tales of the Code - Wedlocked (2011) (1080p BluRay x265 HEVC 10bit AAC 5.1 Garshasp)",
+      "movie_path": "E:\\film_oral\\Pirates of the Caribbean - Tales of the Code - Wedlocked (2011)\\[bitsearch.to] Pirates of the Caribbean - Tales of the Code - Wedlocked (2011) (1080p BluRay x265 HEVC 10bit AAC 5.1 Garshasp).mkv",
+      "subtitle_path": "E:\\film_oral\\Pirates of the Caribbean - Tales of the Code - Wedlocked (2011)\\[bitsearch.to] Pirates of the Caribbean - Tales of the Code - Wedlocked (2011) (1080p BluRay x265 HEVC 10bit AAC 5.1 Garshasp).en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "Poohs Heffalump Movie 2005 AMZN WEB-DL 1080p 2xUKR ENG Hurtom",
+      "movie_path": "E:\\film_oral\\Pooh's Heffalump Movie (2005)\\Poohs Heffalump Movie 2005 AMZN WEB-DL 1080p 2xUKR ENG Hurtom.mkv",
+      "subtitle_path": "E:\\film_oral\\Pooh's Heffalump Movie (2005)\\Poohs Heffalump Movie 2005 AMZN WEB-DL 1080p 2xUKR ENG Hurtom.en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 273,
+      "dossier_videos": "analyse\\videos\\Poohs Heffalump Movie 2005 AMZN WEB-DL 1080p 2xUKR ENG Hurtom"
     },
     {
       "movie_id": "[bitsearch.to] Remember.the.Titans.2000.1080p.BluRay.DDP.5.1.x265-EDGE2020",
       "movie_path": "E:\\film_oral\\Remember the Titans (2000)\\[bitsearch.to] Remember.the.Titans.2000.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv",
       "subtitle_path": "E:\\film_oral\\Remember the Titans (2000)\\[bitsearch.to] Remember.the.Titans.2000.1080p.BluRay.DDP.5.1.x265-EDGE2020.en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 454,
-      "dossier_videos": "analyse\\videos\\[bitsearch.to] Remember.the.Titans.2000.1080p.BluRay.DDP.5.1.x265-EDGE2020"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "Safety (2020) [1080p] [BluRay] [5.1]",
       "movie_path": "E:\\film_oral\\Safety (2020)\\Safety (2020) [1080p] [BluRay] [5.1].mp4",
       "subtitle_path": "E:\\film_oral\\Safety (2020)\\Safety (2020) [1080p] [BluRay] [5.1].en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 479,
-      "dossier_videos": "analyse\\videos\\Safety (2020) [1080p] [BluRay] [5.1]"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "SuperKlaus (2024) 1080p WEBRip 5.1 x264 -YTS",
       "movie_path": "E:\\film_oral\\SuperKlaus (2024)\\SuperKlaus (2024) 1080p WEBRip 5.1 x264 -YTS.mp4",
       "subtitle_path": "E:\\film_oral\\SuperKlaus (2024)\\SuperKlaus (2024) 1080p WEBRip 5.1 x264 -YTS.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "Рапунцель - Счастлива навсегда _ Tangled Ever After [2012, США, мультфильм, короткометражка, боевик, комедия, семейный, BDRemux 1080p] Dub, MVO (SkyeFilmTV), ENG + Rus, Forced, Eng Sub",
+      "movie_path": "E:\\film_oral\\Tangled Ever After (2012)\\Рапунцель - Счастлива навсегда _ Tangled Ever After [2012, США, мультфильм, короткометражка, боевик, комедия, семейный, BDRemux 1080p] Dub, MVO (SkyeFilmTV), ENG + Rus, Forced, Eng Sub.mkv",
+      "subtitle_path": "E:\\film_oral\\Tangled Ever After (2012)\\Рапунцель - Счастлива навсегда _ Tangled Ever After [2012, США, мультфильм, короткометражка, боевик, комедия, семейный, BDRemux 1080p] Dub, MVO (SkyeFilmTV), ENG + Rus, Forced, Eng Sub.en.srt",
       "intervalle_secondes": 15,
-      "nombre_intervalles": 354,
-      "dossier_videos": "analyse\\videos\\SuperKlaus (2024) 1080p WEBRip 5.1 x264 -YTS"
+      "nombre_intervalles": 26,
+      "dossier_videos": "analyse\\videos\\Рапунцель - Счастлива навсегда _ Tangled Ever After [2012, США, мультфильм, короткометражка, боевик, комедия, семейный, BDRemux 1080p] Dub, MVO (SkyeFilmTV), ENG + Rus, Forced, Eng Sub"
+    },
+    {
+      "movie_id": "Tarzan [1999, BDRip 1080p] Dub (CEE) + 4x AVO + Ukr Dub (LeDoyen Studio) + Original Eng + Sub",
+      "movie_path": "E:\\film_oral\\Tarzan (1999)\\Tarzan [1999, BDRip 1080p] Dub (CEE) + 4x AVO + Ukr Dub (LeDoyen Studio) + Original Eng + Sub.mkv",
+      "subtitle_path": "E:\\film_oral\\Tarzan (1999)\\Tarzan [1999, BDRip 1080p] Dub (CEE) + 4x AVO + Ukr Dub (LeDoyen Studio) + Original Eng + Sub.en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 355,
+      "dossier_videos": "analyse\\videos\\Tarzan [1999, BDRip 1080p] Dub (CEE) + 4x AVO + Ukr Dub (LeDoyen Studio) + Original Eng + Sub"
     },
     {
       "movie_id": "The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS",
       "movie_path": "E:\\film_oral\\The Hunchback of Notre Dame II (2002)\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS.mp4",
       "subtitle_path": "E:\\film_oral\\The Hunchback of Notre Dame II (2002)\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS.en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 264,
-      "dossier_videos": "analyse\\videos\\The Hunchback of Notre Dame II (2002) 1080p BRRip 5.1 x264 -YTS"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "The Ice Age Adventures of Buck Wild [2022, WEB-DL 1080p] 2 MVO (HDRezka Studio, Flarrow Films) + Sub Rus, Eng",
       "movie_path": "E:\\film_oral\\The Ice Age Adventures of Buck Wild (2022)\\The Ice Age Adventures of Buck Wild [2022, WEB-DL 1080p] 2 MVO (HDRezka Studio, Flarrow Films) + Sub Rus, Eng.mkv",
       "subtitle_path": "E:\\film_oral\\The Ice Age Adventures of Buck Wild (2022)\\The Ice Age Adventures of Buck Wild [2022, WEB-DL 1080p] 2 MVO (HDRezka Studio, Flarrow Films) + Sub Rus, Eng.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "The Lizzie McGuire Movie (2003) 1080p WEBRip x264 -YTS",
+      "movie_path": "E:\\film_oral\\The Lizzie McGuire Movie (2003)\\The Lizzie McGuire Movie (2003) 1080p WEBRip x264 -YTS.mp4",
+      "subtitle_path": "E:\\film_oral\\The Lizzie McGuire Movie (2003)\\The Lizzie McGuire Movie (2003) 1080p WEBRip x264 -YTS.en.srt",
       "intervalle_secondes": 15,
-      "nombre_intervalles": 325,
-      "dossier_videos": "analyse\\videos\\The Ice Age Adventures of Buck Wild [2022, WEB-DL 1080p] 2 MVO (HDRezka Studio, Flarrow Films) + Sub Rus, Eng"
+      "nombre_intervalles": 376,
+      "dossier_videos": "analyse\\videos\\The Lizzie McGuire Movie (2003) 1080p WEBRip x264 -YTS"
     },
     {
       "movie_id": "The.Nutcracker.And.The.Four.Realms.2018.1080p.BRRip.x264-MP4",
       "movie_path": "E:\\film_oral\\The Nutcracker and the Four Realms (2018)\\The.Nutcracker.And.The.Four.Realms.2018.1080p.BRRip.x264-MP4.mp4",
       "subtitle_path": "E:\\film_oral\\The Nutcracker and the Four Realms (2018)\\The.Nutcracker.And.The.Four.Realms.2018.1080p.BRRip.x264-MP4.en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 398,
-      "dossier_videos": "analyse\\videos\\The.Nutcracker.And.The.Four.Realms.2018.1080p.BRRip.x264-MP4"
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
     },
     {
       "movie_id": "The Santa Clause 2 (2002) 1080p BRRip x264 -YTS",
       "movie_path": "E:\\film_oral\\The Santa Clause 2 (2002)\\The Santa Clause 2 (2002) 1080p BRRip x264 -YTS.mp4",
       "subtitle_path": "E:\\film_oral\\The Santa Clause 2 (2002)\\The Santa Clause 2 (2002) 1080p BRRip x264 -YTS.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "The Santa Clause 3 The Escape Clause (2006) 1080p BRRip 5.1 x264 -YTS",
+      "movie_path": "E:\\film_oral\\The Santa Clause 3 - The Escape Clause (2006)\\The Santa Clause 3 The Escape Clause (2006) 1080p BRRip 5.1 x264 -YTS.mp4",
+      "subtitle_path": "E:\\film_oral\\The Santa Clause 3 - The Escape Clause (2006)\\The Santa Clause 3 The Escape Clause (2006) 1080p BRRip 5.1 x264 -YTS.en.srt",
       "intervalle_secondes": 15,
-      "nombre_intervalles": 418,
-      "dossier_videos": "analyse\\videos\\The Santa Clause 2 (2002) 1080p BRRip x264 -YTS"
+      "nombre_intervalles": 368,
+      "dossier_videos": "analyse\\videos\\The Santa Clause 3 The Escape Clause (2006) 1080p BRRip 5.1 x264 -YTS"
     },
     {
       "movie_id": "The Tigger Movie (2000) 1080p BRRip x264 -YTS",
       "movie_path": "E:\\film_oral\\The Tigger Movie (2000)\\The Tigger Movie (2000) 1080p BRRip x264 -YTS.mp4",
       "subtitle_path": "E:\\film_oral\\The Tigger Movie (2000)\\The Tigger Movie (2000) 1080p BRRip x264 -YTS.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub",
+      "movie_path": "E:\\film_oral\\Toy Story of Terror! (2013)\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub.mkv",
+      "subtitle_path": "E:\\film_oral\\Toy Story of Terror! (2013)\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub.en.srt",
       "intervalle_secondes": 15,
-      "nombre_intervalles": 309,
-      "dossier_videos": "analyse\\videos\\The Tigger Movie (2000) 1080p BRRip x264 -YTS"
+      "nombre_intervalles": 87,
+      "dossier_videos": "analyse\\videos\\Toy Story of Terror [2013, BDRemux 1080p] Dub + MVO + 2x VO + ENG + Sub"
+    },
+    {
+      "movie_id": "Tron.Legacy.2010.RERIP.PROPER.1080p.BluRay.H264.AAC-LAMA[TGx]",
+      "movie_path": "E:\\film_oral\\TRON - Legacy (2010)\\Tron.Legacy.2010.RERIP.PROPER.1080p.BluRay.H264.AAC-LAMA[TGx].mp4",
+      "subtitle_path": "E:\\film_oral\\TRON - Legacy (2010)\\Tron.Legacy.2010.RERIP.PROPER.1080p.BluRay.H264.AAC-LAMA[TGx].en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "Tron. The Next Day.2011.BDRemux 1080p",
+      "movie_path": "E:\\film_oral\\TRON - The Next Day (2011)\\Tron. The Next Day.2011.BDRemux 1080p.mkv",
+      "subtitle_path": "E:\\film_oral\\TRON - The Next Day (2011)\\Tron. The Next Day.2011.BDRemux 1080p.en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 42,
+      "dossier_videos": "analyse\\videos\\Tron. The Next Day.2011.BDRemux 1080p"
     },
     {
       "movie_id": "Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX",
       "movie_path": "E:\\film_oral\\Tummy Trouble (1989)\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX.mkv",
       "subtitle_path": "E:\\film_oral\\Tummy Trouble (1989)\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null
+    },
+    {
+      "movie_id": "Young Woman and the Sea [2024, WEB-DL 1080p] MVO (Soundmasters) + Sub Rus, Eng + Original Eng",
+      "movie_path": "E:\\film_oral\\Young Woman and the Sea (2024)\\Young Woman and the Sea [2024, WEB-DL 1080p] MVO (Soundmasters) + Sub Rus, Eng + Original Eng.mkv",
+      "subtitle_path": "E:\\film_oral\\Young Woman and the Sea (2024)\\Young Woman and the Sea [2024, WEB-DL 1080p] MVO (Soundmasters) + Sub Rus, Eng + Original Eng.en.srt",
       "intervalle_secondes": 15,
-      "nombre_intervalles": 33,
-      "dossier_videos": "analyse\\videos\\Tummy Trouble 1989 1080p DSNP WEB-DL AAC 2 0 H 264-FLUX"
+      "nombre_intervalles": 516,
+      "dossier_videos": "analyse\\videos\\Young Woman and the Sea [2024, WEB-DL 1080p] MVO (Soundmasters) + Sub Rus, Eng + Original Eng"
     }
   ]
 }

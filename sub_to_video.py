@@ -3,6 +3,8 @@
 Script complet: renommage, sous-titres et extraction de vidéos (OPTIMISÉ GPU + 8 WORKERS)
 Usage: python movie_processor.py
 Le script traite automatiquement tous les films dans E:\film_oral
+
+NOUVELLE FONCTIONNALITÉ: Skip automatique des films déjà segmentés
 """
 
 import os
@@ -77,6 +79,36 @@ class Movie:
         self.dossier_videos = base_dir / self.movie_id
         self.dossier_videos.mkdir(parents=True, exist_ok=True)
         return self.dossier_videos
+    
+    def est_deja_segmente(self, base_dir_json: Path = Path("analyse/json"), 
+                          base_dir_videos: Path = Path("analyse/videos"),
+                          min_videos_required: int = 10) -> bool:
+        """
+        Vérifie si le film a déjà été segmenté
+        
+        Args:
+            base_dir_json: Dossier contenant les JSON
+            base_dir_videos: Dossier contenant les vidéos
+            min_videos_required: Nombre minimum de vidéos pour considérer le film comme traité
+            
+        Returns:
+            True si le film est déjà segmenté, False sinon
+        """
+        # Vérifier l'existence du fichier JSON
+        fichier_json = base_dir_json / f"{self.movie_id}.json"
+        if not fichier_json.exists():
+            return False
+        
+        # Vérifier l'existence du dossier vidéos
+        dossier_videos = base_dir_videos / self.movie_id
+        if not dossier_videos.exists():
+            return False
+        
+        # Compter les vidéos MP4 dans le dossier
+        videos_existantes = list(dossier_videos.glob("interval_*.mp4"))
+        
+        # Considérer comme traité si au moins min_videos_required vidéos existent
+        return len(videos_existantes) >= min_videos_required
     
     def analyser_sous_titres(self, intervalle_secondes: int = 3):
         """Analyse les sous-titres et crée les intervalles - découpe TOUT le film"""
@@ -524,16 +556,34 @@ class MovieProcessor:
         
         return None
     
-    def traiter_films(self, intervalle_secondes: int = 3, max_workers: int = 8):
-        """Traite tous les films avec extraction parallèle (8 WORKERS)"""
+    def traiter_films(self, intervalle_secondes: int = 3, max_workers: int = 8, skip_existing: bool = True):
+        """
+        Traite tous les films avec extraction parallèle (8 WORKERS)
+        
+        Args:
+            intervalle_secondes: Durée de chaque segment en secondes
+            max_workers: Nombre de workers parallèles pour l'extraction
+            skip_existing: Si True, ignore les films déjà segmentés
+        """
         print(f"\n🎬 Étape 3: Traitement des films (intervalle: {intervalle_secondes}s, workers: {max_workers})...\n")
+        
+        if skip_existing:
+            print("   ⏩ Mode SKIP activé: les films déjà segmentés seront ignorés\n")
         
         films_traites = 0
         films_sans_sous_titres = 0
+        films_deja_segmentes = 0
         
         # Barre de progression pour les films
         for film in tqdm(self.films, desc="🎥 Films", unit="film"):
             tqdm.write(f"\n📹 {film.movie_id}")
+            
+            # ========== NOUVELLE VÉRIFICATION: FILM DÉJÀ SEGMENTÉ ==========
+            if skip_existing and film.est_deja_segmente():
+                tqdm.write(f"   ⏩ DÉJÀ SEGMENTÉ - film ignoré")
+                films_deja_segmentes += 1
+                continue
+            # ==============================================================
             
             if not film.subtitle_path:
                 tqdm.write(f"   ⚠️  Pas de sous-titres - film ignoré")
@@ -571,6 +621,7 @@ class MovieProcessor:
         print(f"\n📊 Résumé final:")
         print(f"   • Films traités: {films_traites}")
         print(f"   • Films sans sous-titres: {films_sans_sous_titres}")
+        print(f"   • Films déjà segmentés (ignorés): {films_deja_segmentes}")
         print(f"   • Total: {len(self.films)}")
     
     def generer_index_global(self):
@@ -605,6 +656,7 @@ def main():
     INTERVALLE_SECONDES = 15  # Durée de chaque segment vidéo
     LANGUES_SOUS_TITRES = ['eng']  # Langues des sous-titres
     MAX_WORKERS = 8  # 🚀 8 extractions en parallèle!
+    SKIP_FILMS_DEJA_SEGMENTES = True  # ⏩ NOUVEAU: Ignore les films déjà traités
     # =================================================================
     
     print(f"\n📂 Dossier à traiter: {dossier_racine}")
@@ -616,6 +668,7 @@ def main():
     print(f"   • Workers parallèles: {MAX_WORKERS} 🚀")
     print(f"   • Accélération GPU: AUTO-DÉTECTION")
     print(f"   • Audio: COPIE (pas de réencodage)")
+    print(f"   • Skip films déjà segmentés: {'OUI ⏩' if SKIP_FILMS_DEJA_SEGMENTES else 'NON'}")
     print()
     
     # Traitement
@@ -635,7 +688,8 @@ def main():
     processor.charger_films()
     processor.traiter_films(
         intervalle_secondes=INTERVALLE_SECONDES,
-        max_workers=MAX_WORKERS
+        max_workers=MAX_WORKERS,
+        skip_existing=SKIP_FILMS_DEJA_SEGMENTES
     )
     processor.generer_index_global()
     

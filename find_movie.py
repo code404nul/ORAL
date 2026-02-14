@@ -99,7 +99,13 @@ def process_csv(csv_file, output_json='films_notes.json'):
         
         for row in reader:
             titre = row['titre']
-            note_csv = float(row['note']) if row['note'] else None
+            
+            # Gestion sécurisée de la conversion de la note
+            try:
+                note_csv = float(row['note']) if row['note'] and row['note'].strip() else None
+            except ValueError:
+                print(f"⚠️  Note invalide pour {titre} : '{row['note']}', ignorée")
+                note_csv = None
             
             result = lookup_and_add_movie(titre, note_csv)
             
@@ -107,7 +113,7 @@ def process_csv(csv_file, output_json='films_notes.json'):
                 results.append(result)
             
             # Pause pour éviter de surcharger l'API
-            time.sleep(0.5)
+            time.sleep(0.2)
     
     # Sauvegarde des résultats dans un JSON
     with open(output_json, 'w', encoding='utf-8') as f:
@@ -124,7 +130,8 @@ def process_csv(csv_file, output_json='films_notes.json'):
 
 if __name__ == "__main__":
     # Nom de votre fichier CSV
-    csv_file = "disney_movies.csv"
+    csv_file = "A24_annapurna_zentropa_planB.csv"
     
     # Lancement du traitement
-    process_csv(csv_file)
+    process_csv("A24_annapurna_zentropa_planB.csv")
+    process_csv("top_1500_movies.csv")
