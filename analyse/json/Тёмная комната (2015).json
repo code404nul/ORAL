@@ -1,0 +1,2407 @@
+{
+  "movie_id": "Тёмная комната (2015)",
+  "movie_path": "E:\\film_oral\\Perpetual (2015)\\Тёмная комната (2015).mkv",
+  "subtitle_path": "E:\\film_oral\\Perpetual (2015)\\Тёмная комната (2015).en.srt",
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 109,
+  "dossier_videos": "analyse\\videos\\Тёмная комната (2015)",
+  "date_traitement": "2026-02-16T14:54:44.043826",
+  "stats_extraction": {
+    "total": 109,
+    "reussis": 109,
+    "echecs": 0,
+    "timeouts": 0,
+    "gpu_errors": 1,
+    "cpu_fallbacks": 1
+  },
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": "﻿1",
+          "start": 14.501,
+          "end": 18.704,
+          "text": "I am 17, but pretty big compared to my age."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 2,
+          "start": 25.821,
+          "end": 28.047,
+          "text": "Nice, I am so horny."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 3,
+          "start": 34.57,
+          "end": 38.891,
+          "text": "I am up for almost everything."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 4,
+          "start": 45.459,
+          "end": 48.719,
+          "text": "Wanna meet up now?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 5,
+          "start": 85.493,
+          "end": 86.507,
+          "text": "Hi."
+        },
+        {
+          "index": 6,
+          "start": 88.167,
+          "end": 90.461,
+          "text": "It is you, right? From the internet?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 7,
+          "start": 94.167,
+          "end": 95.672,
+          "text": "Ehm… yes."
+        },
+        {
+          "index": 8,
+          "start": 97.219,
+          "end": 100.024,
+          "text": "Hi, my name is Jacob."
+        },
+        {
+          "index": 9,
+          "start": 101.847,
+          "end": 102.829,
+          "text": "Hi."
+        },
+        {
+          "index": 10,
+          "start": 104.268,
+          "end": 105.393,
+          "text": "Do you have a name?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 11,
+          "start": 105.792,
+          "end": 107.36,
+          "text": "Yes… ehm…"
+        },
+        {
+          "index": 12,
+          "start": 108.954,
+          "end": 110.126,
+          "text": "Alexander."
+        },
+        {
+          "index": 13,
+          "start": 112.165,
+          "end": 113.563,
+          "text": "Hi Alexander."
+        },
+        {
+          "index": 14,
+          "start": 116.416,
+          "end": 117.719,
+          "text": "I am glad you came."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 15,
+          "start": 121.821,
+          "end": 125.68,
+          "text": "So… okay? Or?"
+        },
+        {
+          "index": 16,
+          "start": 126.584,
+          "end": 129.211,
+          "text": "- Yes, yes. - Cool."
+        },
+        {
+          "index": 17,
+          "start": 129.85,
+          "end": 131.118,
+          "text": "Then come."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 18,
+          "start": 137.959,
+          "end": 139.344,
+          "text": "Where are we going?"
+        },
+        {
+          "index": 19,
+          "start": 140.146,
+          "end": 141.758,
+          "text": "Thought we could go in here."
+        },
+        {
+          "index": 20,
+          "start": 143.586,
+          "end": 145.503,
+          "text": "It's just a place where we can hang out and have fun."
+        },
+        {
+          "index": 21,
+          "start": 148.099,
+          "end": 149.743,
+          "text": "Take it easy, it's not dangerous."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 22,
+          "start": 150.907,
+          "end": 151.961,
+          "text": "I know."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 23,
+          "start": 166.709,
+          "end": 168.542,
+          "text": "- Hi. - Hello gentlemen."
+        },
+        {
+          "index": 24,
+          "start": 168.961,
+          "end": 173.446,
+          "text": "So, have you been here before? You know how it works?"
+        },
+        {
+          "index": 25,
+          "start": 173.81,
+          "end": 175.267,
+          "text": "- Yes, yes. - Good."
+        },
+        {
+          "index": 26,
+          "start": 175.618,
+          "end": 178.446,
+          "text": "- That will be a hundred each, thanks. - Yes."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 27,
+          "start": 196.268,
+          "end": 197.797,
+          "text": "Can I borrow twenty?"
+        },
+        {
+          "index": 28,
+          "start": 199.943,
+          "end": 201.776,
+          "text": "It's fine, it's on me."
+        },
+        {
+          "index": 29,
+          "start": 202.438,
+          "end": 205.086,
+          "text": "- Here you go…"
+        },
+        {
+          "index": 30,
+          "start": 207.179,
+          "end": 209.141,
+          "text": "- Have fun boys. - Thanks."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 31,
+          "start": 211.149,
+          "end": 212.586,
+          "text": "Come."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 32,
+          "start": 326.531,
+          "end": 327.657,
+          "text": "What are you up for?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 33,
+          "start": 331.594,
+          "end": 334.321,
+          "text": "Ehm… what are you up for?"
+        },
+        {
+          "index": 34,
+          "start": 335.539,
+          "end": 336.665,
+          "text": "Guess."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 35,
+          "start": 357.792,
+          "end": 358.868,
+          "text": "Oops!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 36,
+          "start": 360.711,
+          "end": 362.125,
+          "text": "Come here."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 37,
+          "start": 383.489,
+          "end": 384.704,
+          "text": "Do you come here often?"
+        },
+        {
+          "index": 38,
+          "start": 386.32,
+          "end": 388.415,
+          "text": "No, not really."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 39,
+          "start": 415.68,
+          "end": 417.032,
+          "text": "You are so beautiful."
+        },
+        {
+          "index": 40,
+          "start": 419.042,
+          "end": 420.167,
+          "text": "Thanks."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 41,
+          "start": 421.667,
+          "end": 422.868,
+          "text": "And that body..."
+        },
+        {
+          "index": 42,
+          "start": 424.876,
+          "end": 426.429,
+          "text": "I do swim quite a lot."
+        },
+        {
+          "index": 43,
+          "start": 427.74,
+          "end": 430.118,
+          "text": "And what about under you boxers, does that grow when you swim a lot."
+        },
+        {
+          "index": 44,
+          "start": 433.899,
+          "end": 437.977,
+          "text": "No, in that case you have to eat a lot of oatmeal."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 45,
+          "start": 442.167,
+          "end": 444.165,
+          "text": "Well I guess you eat a lot then."
+        },
+        {
+          "index": 46,
+          "start": 446.171,
+          "end": 447.296,
+          "text": "I love Oatmeal."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0030_time_450.00s-465.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 47,
+          "start": 453.779,
+          "end": 456.969,
+          "text": "Sorry, I… I just had too."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 48,
+          "start": 465.042,
+          "end": 466.383,
+          "text": "Is this all-new for you?"
+        },
+        {
+          "index": 49,
+          "start": 466.916,
+          "end": 468.118,
+          "text": "Yes."
+        },
+        {
+          "index": 50,
+          "start": 476.628,
+          "end": 477.753,
+          "text": "Okay?"
+        },
+        {
+          "index": 51,
+          "start": 478.688,
+          "end": 479.813,
+          "text": "Yes."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 52,
+          "start": 490.152,
+          "end": 492.008,
+          "text": "- Okay? - Um..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 53,
+          "start": 550.68,
+          "end": 552.133,
+          "text": "I can't."
+        },
+        {
+          "index": 54,
+          "start": 553.292,
+          "end": 554.954,
+          "text": "I have swimming class now."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 55,
+          "start": 557.334,
+          "end": 560.375,
+          "text": "Hey Alex, let me know if you want to hook up again."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 56,
+          "start": 572.709,
+          "end": 576.868,
+          "text": "Seriously Sebastian, when are we ever going to use the periodic system?"
+        },
+        {
+          "index": 57,
+          "start": 578.292,
+          "end": 579.891,
+          "text": "In some kind of period I guess."
+        },
+        {
+          "index": 58,
+          "start": 582.883,
+          "end": 586.334,
+          "text": "We are never getting anything done if you don’t get yourself together."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 585,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0039_time_585.00s-600.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 59,
+          "start": 587.0,
+          "end": 588.251,
+          "text": "Is it Maria?"
+        },
+        {
+          "index": 60,
+          "start": 589.204,
+          "end": 592.25,
+          "text": "No, it's not Maria."
+        },
+        {
+          "index": 61,
+          "start": 593.301,
+          "end": 594.385,
+          "text": "Good."
+        },
+        {
+          "index": 62,
+          "start": 595.761,
+          "end": 597.352,
+          "text": "She looks like a moron."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "timecode_debut_extrait": 600,
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0040_time_600.00s-615.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 63,
+          "start": 605.999,
+          "end": 607.237,
+          "text": "Then what?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 630,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0041_time_615.00s-630.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 64,
+          "start": 615.752,
+          "end": 620.815,
+          "text": "It's…he is called Jacob."
+        },
+        {
+          "index": 65,
+          "start": 622.626,
+          "end": 623.751,
+          "text": "Jacob?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "timecode_debut_extrait": 630,
+      "timecode_fin_extrait": 645,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0042_time_630.00s-645.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 66,
+          "start": 634.398,
+          "end": 635.799,
+          "text": "Why haven’t you told me?"
+        },
+        {
+          "index": 67,
+          "start": 637.607,
+          "end": 639.948,
+          "text": "You know I would have..."
+        },
+        {
+          "index": 68,
+          "start": 640.839,
+          "end": 646.12,
+          "text": "Sara, he is so sweet and…"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "timecode_debut_extrait": 645,
+      "timecode_fin_extrait": 660,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0043_time_645.00s-660.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 69,
+          "start": 653.503,
+          "end": 654.628,
+          "text": "Are you a couple?"
+        },
+        {
+          "index": 70,
+          "start": 659.959,
+          "end": 661.042,
+          "text": "Yes."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "timecode_debut_extrait": 660,
+      "timecode_fin_extrait": 675,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0044_time_660.00s-675.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 71,
+          "start": 664.774,
+          "end": 666.026,
+          "text": "Is it somebody I know?"
+        },
+        {
+          "index": 72,
+          "start": 666.893,
+          "end": 670.127,
+          "text": "No, he is older than we are."
+        },
+        {
+          "index": 73,
+          "start": 671.709,
+          "end": 673.479,
+          "text": "So, he isn't living with his parents and stuff like that?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "timecode_debut_extrait": 675,
+      "timecode_fin_extrait": 690,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0045_time_675.00s-690.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 74,
+          "start": 676.198,
+          "end": 681.281,
+          "text": "No, he…he has a very cool apartment."
+        },
+        {
+          "index": 75,
+          "start": 688.346,
+          "end": 691.166,
+          "text": "Hi Alex, I have been thinking of you."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "timecode_debut_extrait": 690,
+      "timecode_fin_extrait": 705,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0046_time_690.00s-705.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 76,
+          "start": 695.104,
+          "end": 698.079,
+          "text": "Actually my name is not Alexander."
+        },
+        {
+          "index": 77,
+          "start": 698.104,
+          "end": 699.752,
+          "text": "My name is Sebastian."
+        },
+        {
+          "index": 78,
+          "start": 703.315,
+          "end": 705.721,
+          "text": "Hehe. Okay, Sebastian suits you better anyway."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "timecode_debut_extrait": 705,
+      "timecode_fin_extrait": 720,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0047_time_705.00s-720.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 79,
+          "start": 710.447,
+          "end": 711.955,
+          "text": "Do you want me to come to your place tonight?"
+        },
+        {
+          "index": 80,
+          "start": 711.98,
+          "end": 713.604,
+          "text": "Not today."
+        },
+        {
+          "index": 81,
+          "start": 717.375,
+          "end": 719.454,
+          "text": "It would be so nice to see you."
+        },
+        {
+          "index": 82,
+          "start": 719.479,
+          "end": 721.44,
+          "text": "Yes, I can't be at my place."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "timecode_debut_extrait": 720,
+      "timecode_fin_extrait": 735,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0048_time_720.00s-735.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 83,
+          "start": 723.713,
+          "end": 725.713,
+          "text": "Would you rather call it off?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "timecode_debut_extrait": 735,
+      "timecode_fin_extrait": 750,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0049_time_735.00s-750.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "timecode_debut_extrait": 750,
+      "timecode_fin_extrait": 765,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0050_time_750.00s-765.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "timecode_debut_extrait": 765,
+      "timecode_fin_extrait": 780,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0051_time_765.00s-780.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 84,
+          "start": 776.888,
+          "end": 779.721,
+          "text": "So, no boxers today."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "timecode_debut_extrait": 780,
+      "timecode_fin_extrait": 795,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0052_time_780.00s-795.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 85,
+          "start": 786.865,
+          "end": 790.282,
+          "text": "Fuck Sebastian, you are so hot."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "timecode_debut_extrait": 795,
+      "timecode_fin_extrait": 810,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0053_time_795.00s-810.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 86,
+          "start": 795.417,
+          "end": 797.416,
+          "text": "I want you so badly right now."
+        },
+        {
+          "index": 87,
+          "start": 798.459,
+          "end": 799.584,
+          "text": "Can I?"
+        },
+        {
+          "index": 88,
+          "start": 801.769,
+          "end": 803.315,
+          "text": "Is it all right if we wait?"
+        },
+        {
+          "index": 89,
+          "start": 805.375,
+          "end": 806.776,
+          "text": "Of Course."
+        },
+        {
+          "index": 90,
+          "start": 809.009,
+          "end": 813.95,
+          "text": "It's just… I have never been with a guy in that way before."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "timecode_debut_extrait": 810,
+      "timecode_fin_extrait": 825,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0054_time_810.00s-825.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 91,
+          "start": 816.807,
+          "end": 818.626,
+          "text": "I would love if I were the first one."
+        },
+        {
+          "index": 92,
+          "start": 822.771,
+          "end": 824.971,
+          "text": "I just wanted to be with a boyfriend."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "timecode_debut_extrait": 825,
+      "timecode_fin_extrait": 840,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0055_time_825.00s-840.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 93,
+          "start": 828.459,
+          "end": 830.292,
+          "text": "But aren’t we a couple?"
+        },
+        {
+          "index": 94,
+          "start": 834.31,
+          "end": 835.435,
+          "text": "Yes."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "timecode_debut_extrait": 840,
+      "timecode_fin_extrait": 855,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0056_time_840.00s-855.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 95,
+          "start": 850.779,
+          "end": 851.904,
+          "text": "Can I?"
+        },
+        {
+          "index": 96,
+          "start": 853.178,
+          "end": 854.303,
+          "text": "Yes."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "timecode_debut_extrait": 855,
+      "timecode_fin_extrait": 870,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0057_time_855.00s-870.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 97,
+          "start": 865.865,
+          "end": 867.62,
+          "text": "But I don't want to do it here."
+        },
+        {
+          "index": 98,
+          "start": 868.354,
+          "end": 869.487,
+          "text": "Why not?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "timecode_debut_extrait": 870,
+      "timecode_fin_extrait": 885,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0058_time_870.00s-885.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 99,
+          "start": 871.307,
+          "end": 874.125,
+          "text": "First time should be something special."
+        },
+        {
+          "index": 100,
+          "start": 874.584,
+          "end": 875.709,
+          "text": "It will be."
+        },
+        {
+          "index": 101,
+          "start": 876.416,
+          "end": 877.541,
+          "text": "I promise you."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "timecode_debut_extrait": 885,
+      "timecode_fin_extrait": 900,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0059_time_885.00s-900.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 102,
+          "start": 888.307,
+          "end": 892.432,
+          "text": "If it's going to be tonight, I want it to be at your place."
+        },
+        {
+          "index": 103,
+          "start": 898.468,
+          "end": 900.011,
+          "text": "Sebastian, It's not going to happen."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "timecode_debut_extrait": 900,
+      "timecode_fin_extrait": 915,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0060_time_900.00s-915.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 104,
+          "start": 901.396,
+          "end": 902.276,
+          "text": "Why not?"
+        },
+        {
+          "index": 105,
+          "start": 903.787,
+          "end": 906.121,
+          "text": "Because my apartment is totally fucked up right now."
+        },
+        {
+          "index": 106,
+          "start": 909.455,
+          "end": 910.789,
+          "text": "Can it be worse than this place?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "timecode_debut_extrait": 915,
+      "timecode_fin_extrait": 930,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0061_time_915.00s-930.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 107,
+          "start": 916.33,
+          "end": 918.135,
+          "text": "This is going nowhere."
+        },
+        {
+          "index": 108,
+          "start": 919.356,
+          "end": 921.37,
+          "text": "Write me when you know what you want."
+        },
+        {
+          "index": 109,
+          "start": 922.131,
+          "end": 923.84,
+          "text": "Wait, I didn't mean it like that."
+        },
+        {
+          "index": 110,
+          "start": 924.354,
+          "end": 925.424,
+          "text": "Take care."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "timecode_debut_extrait": 930,
+      "timecode_fin_extrait": 945,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0062_time_930.00s-945.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "timecode_debut_extrait": 945,
+      "timecode_fin_extrait": 960,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0063_time_945.00s-960.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 111,
+          "start": 948.262,
+          "end": 949.459,
+          "text": "What’s wrong?"
+        },
+        {
+          "index": 112,
+          "start": 952.879,
+          "end": 956.076,
+          "text": "I haven't heard from him in several days."
+        },
+        {
+          "index": 113,
+          "start": 957.167,
+          "end": 959.999,
+          "text": "I was ready for him to be my first."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "timecode_debut_extrait": 960,
+      "timecode_fin_extrait": 975,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0064_time_960.00s-975.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 114,
+          "start": 961.342,
+          "end": 963.1,
+          "text": "But you have been together right?"
+        },
+        {
+          "index": 115,
+          "start": 966.167,
+          "end": 968.233,
+          "text": "Yes, at a club."
+        },
+        {
+          "index": 116,
+          "start": 969.411,
+          "end": 970.536,
+          "text": "A club?"
+        },
+        {
+          "index": 117,
+          "start": 972.831,
+          "end": 975.412,
+          "text": "A fucking nasty sexclub."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "timecode_debut_extrait": 975,
+      "timecode_fin_extrait": 990,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0065_time_975.00s-990.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 118,
+          "start": 976.459,
+          "end": 977.876,
+          "text": "A sexclub?"
+        },
+        {
+          "index": 119,
+          "start": 980.498,
+          "end": 982.295,
+          "text": "What? Why not at his place?"
+        },
+        {
+          "index": 120,
+          "start": 983.328,
+          "end": 985.545,
+          "text": "It just didn't happen that way…"
+        },
+        {
+          "index": 121,
+          "start": 988.361,
+          "end": 990.998,
+          "text": "I don't want to do it at a club."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "timecode_debut_extrait": 990,
+      "timecode_fin_extrait": 1005,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0066_time_990.00s-1005.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 122,
+          "start": 992.381,
+          "end": 994.562,
+          "text": "Sebastian, he can't be in love with you."
+        },
+        {
+          "index": 123,
+          "start": 995.093,
+          "end": 996.51,
+          "text": "I know he is."
+        },
+        {
+          "index": 124,
+          "start": 1001.054,
+          "end": 1003.194,
+          "text": "So, why doesn’t he call?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "timecode_debut_extrait": 1005,
+      "timecode_fin_extrait": 1020,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0067_time_1005.00s-1020.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 125,
+          "start": 1015.198,
+          "end": 1017.413,
+          "text": "- Ten shots. - Which ones?"
+        },
+        {
+          "index": 126,
+          "start": 1018.108,
+          "end": 1019.796,
+          "text": "- Tequila. - Yes."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "timecode_debut_extrait": 1020,
+      "timecode_fin_extrait": 1035,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0068_time_1020.00s-1035.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 127,
+          "start": 1023.459,
+          "end": 1025.343,
+          "text": "Thanks for coming with me."
+        },
+        {
+          "index": 128,
+          "start": 1025.367,
+          "end": 1027.507,
+          "text": "Of course."
+        },
+        {
+          "index": 129,
+          "start": 1029.515,
+          "end": 1032.375,
+          "text": "Just because you can't find a man yourself."
+        },
+        {
+          "index": 130,
+          "start": 1034.419,
+          "end": 1036.093,
+          "text": "- Cheers. - Cheers."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1035,
+      "timecode_fin_extrait": 1050,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0069_time_1035.00s-1050.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "timecode_debut_extrait": 1050,
+      "timecode_fin_extrait": 1065,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0070_time_1050.00s-1065.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "timecode_debut_extrait": 1065,
+      "timecode_fin_extrait": 1080,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0071_time_1065.00s-1080.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 131,
+          "start": 1075.569,
+          "end": 1078.507,
+          "text": "- Hi. - Hi."
+        },
+        {
+          "index": 132,
+          "start": 1079.209,
+          "end": 1083.056,
+          "text": "I just had to come over and ask if I could buy you a beer?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "timecode_debut_extrait": 1080,
+      "timecode_fin_extrait": 1095,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0072_time_1080.00s-1095.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "timecode_debut_extrait": 1095,
+      "timecode_fin_extrait": 1110,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0073_time_1095.00s-1110.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 133,
+          "start": 1097.416,
+          "end": 1098.439,
+          "text": "Hi."
+        },
+        {
+          "index": 134,
+          "start": 1099.042,
+          "end": 1100.72,
+          "text": "You look like you are having fun."
+        },
+        {
+          "index": 135,
+          "start": 1100.973,
+          "end": 1102.447,
+          "text": "Why haven't you written me?"
+        },
+        {
+          "index": 136,
+          "start": 1106.564,
+          "end": 1109.559,
+          "text": "- No wait, Jacob? - Sebastian, let him go, he's an idiot."
+        },
+        {
+          "index": 137,
+          "start": 1109.584,
+          "end": 1110.83,
+          "text": "Shut up."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "timecode_debut_extrait": 1110,
+      "timecode_fin_extrait": 1125,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0074_time_1110.00s-1125.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 138,
+          "start": 1111.025,
+          "end": 1112.25,
+          "text": "Jacob."
+        },
+        {
+          "index": 139,
+          "start": 1115.25,
+          "end": 1116.48,
+          "text": "Jacob."
+        },
+        {
+          "index": 140,
+          "start": 1116.504,
+          "end": 1117.636,
+          "text": "Jacob."
+        },
+        {
+          "index": 141,
+          "start": 1122.542,
+          "end": 1124.433,
+          "text": "I don't know what happend in there."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "timecode_debut_extrait": 1125,
+      "timecode_fin_extrait": 1140,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0075_time_1125.00s-1140.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 142,
+          "start": 1130.308,
+          "end": 1131.894,
+          "text": "You are the only one I want."
+        },
+        {
+          "index": 143,
+          "start": 1134.635,
+          "end": 1136.627,
+          "text": "Well, that's a funny way to show it."
+        },
+        {
+          "index": 144,
+          "start": 1139.573,
+          "end": 1141.222,
+          "text": "What do you want me to do?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "timecode_debut_extrait": 1140,
+      "timecode_fin_extrait": 1155,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0076_time_1140.00s-1155.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 145,
+          "start": 1149.136,
+          "end": 1150.549,
+          "text": "Can we spend the night together?"
+        },
+        {
+          "index": 146,
+          "start": 1151.534,
+          "end": 1152.484,
+          "text": "No."
+        },
+        {
+          "index": 147,
+          "start": 1153.542,
+          "end": 1156.959,
+          "text": "- Go on and play with your new friends. - They are not my friends."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "timecode_debut_extrait": 1155,
+      "timecode_fin_extrait": 1170,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0077_time_1155.00s-1170.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 148,
+          "start": 1162.319,
+          "end": 1164.112,
+          "text": "I just want to be with you."
+        },
+        {
+          "index": 149,
+          "start": 1168.334,
+          "end": 1169.459,
+          "text": "Please?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "timecode_debut_extrait": 1170,
+      "timecode_fin_extrait": 1185,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0078_time_1170.00s-1185.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1185,
+      "timecode_fin_extrait": 1200,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0079_time_1185.00s-1200.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "timecode_debut_extrait": 1200,
+      "timecode_fin_extrait": 1215,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0080_time_1200.00s-1215.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "timecode_debut_extrait": 1215,
+      "timecode_fin_extrait": 1230,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0081_time_1215.00s-1230.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "timecode_debut_extrait": 1230,
+      "timecode_fin_extrait": 1245,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0082_time_1230.00s-1245.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "timecode_debut_extrait": 1245,
+      "timecode_fin_extrait": 1260,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0083_time_1245.00s-1260.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 150,
+          "start": 1253.752,
+          "end": 1256.479,
+          "text": "Are you there?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "timecode_debut_extrait": 1260,
+      "timecode_fin_extrait": 1275,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0084_time_1260.00s-1275.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "timecode_debut_extrait": 1275,
+      "timecode_fin_extrait": 1290,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0085_time_1275.00s-1290.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 151,
+          "start": 1280.101,
+          "end": 1282.518,
+          "text": "- It's Jacob. - Hello?"
+        },
+        {
+          "index": 152,
+          "start": 1283.414,
+          "end": 1284.655,
+          "text": "Hello?"
+        },
+        {
+          "index": 153,
+          "start": 1285.749,
+          "end": 1286.936,
+          "text": "It's Sebastian."
+        },
+        {
+          "index": 154,
+          "start": 1288.905,
+          "end": 1290.67,
+          "text": "Oh, Hi."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1305,
+      "timecode_debut_extrait": 1290,
+      "timecode_fin_extrait": 1305,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0086_time_1290.00s-1305.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 155,
+          "start": 1292.979,
+          "end": 1296.077,
+          "text": "I wrote you, but you haven't answered me?"
+        },
+        {
+          "index": 156,
+          "start": 1297.209,
+          "end": 1299.131,
+          "text": "No, but I was busy with some stuff."
+        },
+        {
+          "index": 157,
+          "start": 1300.1,
+          "end": 1302.092,
+          "text": "Can I…Can I come to your place today?"
+        },
+        {
+          "index": 158,
+          "start": 1302.78,
+          "end": 1306.667,
+          "text": "Ehm…You know what, it's not a good time, I have to do laundry."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 87,
+      "intervalle_debut": 1305,
+      "intervalle_fin": 1320,
+      "timecode_debut_extrait": 1305,
+      "timecode_fin_extrait": 1320,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0087_time_1305.00s-1320.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 159,
+          "start": 1310.0,
+          "end": 1312.983,
+          "text": "But it could just be very quick,"
+        },
+        {
+          "index": 160,
+          "start": 1314.14,
+          "end": 1318.022,
+          "text": "just to say hi and…kiss you."
+        },
+        {
+          "index": 161,
+          "start": 1319.233,
+          "end": 1320.452,
+          "text": "That would be fine,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 1320,
+      "intervalle_fin": 1335,
+      "timecode_debut_extrait": 1320,
+      "timecode_fin_extrait": 1335,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0088_time_1320.00s-1335.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 162,
+          "start": 1321.171,
+          "end": 1324.452,
+          "text": "but I am kind of in the middle of something so…"
+        },
+        {
+          "index": 163,
+          "start": 1324.779,
+          "end": 1325.842,
+          "text": "So, then what?"
+        },
+        {
+          "index": 164,
+          "start": 1327.084,
+          "end": 1329.17,
+          "text": "- I don't know Sebastian. - When can we meet?"
+        },
+        {
+          "index": 165,
+          "start": 1330.163,
+          "end": 1336.538,
+          "text": "I don't know, we'll see okay? I have to go…take care..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 1335,
+      "intervalle_fin": 1350,
+      "timecode_debut_extrait": 1335,
+      "timecode_fin_extrait": 1350,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0089_time_1335.00s-1350.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 166,
+          "start": 1339.021,
+          "end": 1339.897,
+          "text": "Bye."
+        },
+        {
+          "index": 167,
+          "start": 1340.475,
+          "end": 1341.483,
+          "text": "Bye."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 90,
+      "intervalle_debut": 1350,
+      "intervalle_fin": 1365,
+      "timecode_debut_extrait": 1350,
+      "timecode_fin_extrait": 1365,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0090_time_1350.00s-1365.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 168,
+          "start": 1353.989,
+          "end": 1355.123,
+          "text": "Yes?"
+        },
+        {
+          "index": 169,
+          "start": 1357.626,
+          "end": 1358.631,
+          "text": "Hello?"
+        },
+        {
+          "index": 170,
+          "start": 1360.657,
+          "end": 1362.077,
+          "text": "Hallo, who is it?"
+        },
+        {
+          "index": 171,
+          "start": 1362.735,
+          "end": 1366.077,
+          "text": "It is… it's the paperboy."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 1365,
+      "intervalle_fin": 1380,
+      "timecode_debut_extrait": 1365,
+      "timecode_fin_extrait": 1380,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0091_time_1365.00s-1380.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 172,
+          "start": 1367.334,
+          "end": 1368.827,
+          "text": "Sebastian, is it you?"
+        },
+        {
+          "index": 173,
+          "start": 1372.24,
+          "end": 1373.365,
+          "text": "Yes."
+        },
+        {
+          "index": 174,
+          "start": 1374.821,
+          "end": 1377.209,
+          "text": "What the hell are you doing? You can't just come and ring my bell!"
+        },
+        {
+          "index": 175,
+          "start": 1379.881,
+          "end": 1381.459,
+          "text": "Who is M. Silverbauer?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 92,
+      "intervalle_debut": 1380,
+      "intervalle_fin": 1395,
+      "timecode_debut_extrait": 1380,
+      "timecode_fin_extrait": 1395,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0092_time_1380.00s-1395.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 176,
+          "start": 1382.963,
+          "end": 1384.17,
+          "text": "Sebastian, go home."
+        },
+        {
+          "index": 177,
+          "start": 1385.67,
+          "end": 1387.311,
+          "text": "I thought we were a couple?"
+        },
+        {
+          "index": 178,
+          "start": 1387.335,
+          "end": 1388.553,
+          "text": "Go home, Sebastian."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 93,
+      "intervalle_debut": 1395,
+      "intervalle_fin": 1410,
+      "timecode_debut_extrait": 1395,
+      "timecode_fin_extrait": 1410,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0093_time_1395.00s-1410.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 94,
+      "intervalle_debut": 1410,
+      "intervalle_fin": 1425,
+      "timecode_debut_extrait": 1410,
+      "timecode_fin_extrait": 1425,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0094_time_1410.00s-1425.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 95,
+      "intervalle_debut": 1425,
+      "intervalle_fin": 1440,
+      "timecode_debut_extrait": 1425,
+      "timecode_fin_extrait": 1440,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0095_time_1425.00s-1440.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 96,
+      "intervalle_debut": 1440,
+      "intervalle_fin": 1455,
+      "timecode_debut_extrait": 1440,
+      "timecode_fin_extrait": 1455,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0096_time_1440.00s-1455.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 179,
+          "start": 1444.125,
+          "end": 1445.983,
+          "text": "I wasn't sure you would come."
+        },
+        {
+          "index": 180,
+          "start": 1448.881,
+          "end": 1450.756,
+          "text": "With that face, it was hard to resist."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 97,
+      "intervalle_debut": 1455,
+      "intervalle_fin": 1470,
+      "timecode_debut_extrait": 1455,
+      "timecode_fin_extrait": 1470,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0097_time_1455.00s-1470.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 181,
+          "start": 1458.25,
+          "end": 1461.421,
+          "text": "As you can see, I love oatmeal."
+        },
+        {
+          "index": 182,
+          "start": 1463.195,
+          "end": 1464.32,
+          "text": "You love oatmeal?"
+        },
+        {
+          "index": 183,
+          "start": 1465.744,
+          "end": 1466.869,
+          "text": "Okay?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 98,
+      "intervalle_debut": 1470,
+      "intervalle_fin": 1485,
+      "timecode_debut_extrait": 1470,
+      "timecode_fin_extrait": 1485,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0098_time_1470.00s-1485.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 184,
+          "start": 1471.201,
+          "end": 1472.429,
+          "text": "Something wrong?"
+        },
+        {
+          "index": 185,
+          "start": 1476.276,
+          "end": 1477.351,
+          "text": "No."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 99,
+      "intervalle_debut": 1485,
+      "intervalle_fin": 1500,
+      "timecode_debut_extrait": 1485,
+      "timecode_fin_extrait": 1500,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0099_time_1485.00s-1500.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 100,
+      "intervalle_debut": 1500,
+      "intervalle_fin": 1515,
+      "timecode_debut_extrait": 1500,
+      "timecode_fin_extrait": 1515,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0100_time_1500.00s-1515.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 101,
+      "intervalle_debut": 1515,
+      "intervalle_fin": 1530,
+      "timecode_debut_extrait": 1515,
+      "timecode_fin_extrait": 1530,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0101_time_1515.00s-1530.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 102,
+      "intervalle_debut": 1530,
+      "intervalle_fin": 1545,
+      "timecode_debut_extrait": 1530,
+      "timecode_fin_extrait": 1545,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0102_time_1530.00s-1545.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 103,
+      "intervalle_debut": 1545,
+      "intervalle_fin": 1560,
+      "timecode_debut_extrait": 1545,
+      "timecode_fin_extrait": 1560,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0103_time_1545.00s-1560.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 104,
+      "intervalle_debut": 1560,
+      "intervalle_fin": 1575,
+      "timecode_debut_extrait": 1560,
+      "timecode_fin_extrait": 1575,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0104_time_1560.00s-1575.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 105,
+      "intervalle_debut": 1575,
+      "intervalle_fin": 1590,
+      "timecode_debut_extrait": 1575,
+      "timecode_fin_extrait": 1590,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0105_time_1575.00s-1590.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 106,
+      "intervalle_debut": 1590,
+      "intervalle_fin": 1605,
+      "timecode_debut_extrait": 1590,
+      "timecode_fin_extrait": 1605,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0106_time_1590.00s-1605.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 186,
+          "start": 1594.664,
+          "end": 1599.094,
+          "text": "Perpetual"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 107,
+      "intervalle_debut": 1605,
+      "intervalle_fin": 1620,
+      "timecode_debut_extrait": 1605,
+      "timecode_fin_extrait": 1620,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0107_time_1605.00s-1620.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 108,
+      "intervalle_debut": 1620,
+      "intervalle_fin": 1632.352,
+      "timecode_debut_extrait": 1620,
+      "timecode_fin_extrait": 1632.352,
+      "video_path": "analyse\\videos\\Тёмная комната (2015)\\interval_0108_time_1620.00s-1632.35s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    }
+  ]
+}

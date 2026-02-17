@@ -1,0 +1,1171 @@
+{
+  "movie_id": "Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh",
+  "movie_path": "E:\\film_oral\\Mia (2017)\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh.mkv",
+  "subtitle_path": "E:\\film_oral\\Mia (2017)\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh.en.srt",
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 44,
+  "dossier_videos": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh",
+  "date_traitement": "2026-02-17T15:14:45.022164",
+  "stats_extraction": {
+    "total": 44,
+    "reussis": 44,
+    "echecs": 0,
+    "timeouts": 0,
+    "gpu_errors": 0,
+    "cpu_fallbacks": 0
+  },
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": "﻿1",
+          "start": 11.32,
+          "end": 13.84,
+          "text": "Why are you crying?"
+        },
+        {
+          "index": 2,
+          "start": 13.84,
+          "end": 16.64,
+          "text": "Huh?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 3,
+          "start": 16.64,
+          "end": 18.0,
+          "text": "Why are you crying?"
+        },
+        {
+          "index": 4,
+          "start": 18.0,
+          "end": 23.2,
+          "text": "- Because my wrists hurt"
+        },
+        {
+          "index": 5,
+          "start": 23.2,
+          "end": 26.04,
+          "text": "-Do your tiny wrists hurt? Uh?"
+        },
+        {
+          "index": 6,
+          "start": 26.04,
+          "end": 30.84,
+          "text": "These hurt, uh?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 7,
+          "start": 30.84,
+          "end": 34.08,
+          "text": "You look like a hot dog"
+        },
+        {
+          "index": 8,
+          "start": 34.08,
+          "end": 36.64,
+          "text": "So, what have you learned?"
+        },
+        {
+          "index": 9,
+          "start": 36.64,
+          "end": 39.96,
+          "text": "-That I must obey you"
+        },
+        {
+          "index": 10,
+          "start": 39.96,
+          "end": 46.76,
+          "text": "-Why don’t you look at me when I’m talking to you"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 11,
+          "start": 58.32,
+          "end": 65.12,
+          "text": "When I was younger, I didn’t want to hear anything about men"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 12,
+          "start": 66.4,
+          "end": 69.44,
+          "text": "I had a special relationship with sex."
+        },
+        {
+          "index": 13,
+          "start": 69.44,
+          "end": 74.76,
+          "text": "My sexual behavior wasn’t quite normal for my age."
+        },
+        {
+          "index": 14,
+          "start": 74.76,
+          "end": 80.44,
+          "text": "People around me were too narrow-minded"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 15,
+          "start": 80.44,
+          "end": 85.92,
+          "text": "Anything out of their point of view was wrong"
+        },
+        {
+          "index": 16,
+          "start": 85.92,
+          "end": 89.52,
+          "text": "I was wrong, actually"
+        },
+        {
+          "index": 17,
+          "start": 89.52,
+          "end": 91.92,
+          "text": "And I’m not saying I’m not"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 18,
+          "start": 91.92,
+          "end": 98.56,
+          "text": "But they just never tried to understand the reasons behind my behavior"
+        },
+        {
+          "index": 19,
+          "start": 98.56,
+          "end": 105.36,
+          "text": "They couldn’t understand what the mind can do to overcome certain things"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 20,
+          "start": 117.0,
+          "end": 121.76,
+          "text": "Our relationship started in a really strange way"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 21,
+          "start": 121.76,
+          "end": 128.56,
+          "text": "We had known each other for a while but I didn’t know anything about his life"
+        },
+        {
+          "index": 22,
+          "start": 128.96,
+          "end": 133.88,
+          "text": "The first time we talked after a long time"
+        },
+        {
+          "index": 23,
+          "start": 133.88,
+          "end": 140.68,
+          "text": "I told him I wanted to try something that wasn’t new for him"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 24,
+          "start": 170.76,
+          "end": 177.56,
+          "text": "Take off your shirt"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 25,
+          "start": 187.32,
+          "end": 192.6,
+          "text": "What excites me the most is to feel I am his"
+        },
+        {
+          "index": 26,
+          "start": 192.6,
+          "end": 194.76,
+          "text": "I like it when he chokes me"
+        },
+        {
+          "index": 27,
+          "start": 194.76,
+          "end": 201.56,
+          "text": "When he hits me, spits on me, when he insults me"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 28,
+          "start": 201.56,
+          "end": 204.92,
+          "text": "when he does with me whatever he wants"
+        },
+        {
+          "index": 29,
+          "start": 204.92,
+          "end": 211.72,
+          "text": "to be his possession"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 30,
+          "start": 212.68,
+          "end": 217.88,
+          "text": "But to be his I needed a name"
+        },
+        {
+          "index": 31,
+          "start": 217.88,
+          "end": 224.68,
+          "text": "I am MIA"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 32,
+          "start": 233.76,
+          "end": 239.28,
+          "text": "But I’m okay with that since I know I can trust him"
+        },
+        {
+          "index": 33,
+          "start": 239.28,
+          "end": 244.52,
+          "text": "I know he’s always going to protect me and would never hurt me"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 34,
+          "start": 244.52,
+          "end": 248.52,
+          "text": "His own violence makes me feel safe"
+        },
+        {
+          "index": 35,
+          "start": 248.52,
+          "end": 251.2,
+          "text": "If I do whatever he asks for..."
+        },
+        {
+          "index": 36,
+          "start": 251.2,
+          "end": 252.84,
+          "text": "I’ll have what I want"
+        },
+        {
+          "index": 37,
+          "start": 252.84,
+          "end": 255.4,
+          "text": "- Master"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 38,
+          "start": 255.4,
+          "end": 262.2,
+          "text": "I love you"
+        },
+        {
+          "index": 39,
+          "start": 264.52,
+          "end": 268.04,
+          "text": "- It's like cinnamon, the more you use, the worse it tastes"
+        },
+        {
+          "index": 40,
+          "start": 268.04,
+          "end": 270.28,
+          "text": "- I have never used it"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 41,
+          "start": 270.28,
+          "end": 272.12,
+          "text": "- Ew gross! You stuffed your mouth with bread"
+        },
+        {
+          "index": 42,
+          "start": 272.12,
+          "end": 278.2,
+          "text": "- Why the fuck did you stick your finger in then?"
+        },
+        {
+          "index": 43,
+          "start": 278.2,
+          "end": 281.16,
+          "text": "When I do something wrong, I  get a punishment"
+        },
+        {
+          "index": 44,
+          "start": 281.16,
+          "end": 285.12,
+          "text": "Like when I’m late or forget my choker"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 45,
+          "start": 285.12,
+          "end": 291.92,
+          "text": "Without the collar I can’t be MIA"
+        },
+        {
+          "index": 46,
+          "start": 294.48,
+          "end": 297.88,
+          "text": "The punishment is usually leaving me without sex"
+        },
+        {
+          "index": 47,
+          "start": 297.88,
+          "end": 301.0,
+          "text": "something I can't be without"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 48,
+          "start": 301.0,
+          "end": 307.8,
+          "text": "So in order to be forgiven I beg for a lesson"
+        },
+        {
+          "index": 49,
+          "start": 308.32,
+          "end": 311.68,
+          "text": "To show him I deserve the special treatment."
+        },
+        {
+          "index": 50,
+          "start": 311.68,
+          "end": 314.0,
+          "text": "- Are you sorry or what, fucking whore? - Yes, Master"
+        },
+        {
+          "index": 51,
+          "start": 314.0,
+          "end": 319.76,
+          "text": "- What? - Yes"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 52,
+          "start": 319.76,
+          "end": 322.12,
+          "text": "What do you say? Uh?"
+        },
+        {
+          "index": 53,
+          "start": 322.12,
+          "end": 323.92,
+          "text": "- Thank you master"
+        },
+        {
+          "index": 54,
+          "start": 323.92,
+          "end": 330.72,
+          "text": "- That’s what I want to hear, whore"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 55,
+          "start": 332.08,
+          "end": 338.88,
+          "text": "There’s no doubt. It’s clear to see"
+        },
+        {
+          "index": 56,
+          "start": 340.72,
+          "end": 345.12,
+          "text": "To me, imagination is everything"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 57,
+          "start": 345.12,
+          "end": 351.76,
+          "text": "If you imagine something often enough, It will become real"
+        },
+        {
+          "index": 58,
+          "start": 351.76,
+          "end": 358.56,
+          "text": "It doesn't matter if it's not"
+        },
+        {
+          "index": 59,
+          "start": 359.88,
+          "end": 366.48,
+          "text": "Having a master is something I couldn’t explain"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 60,
+          "start": 366.48,
+          "end": 372.12,
+          "text": "I guess people who have a master like me, they place them outside from their ordinary life"
+        },
+        {
+          "index": 61,
+          "start": 372.12,
+          "end": 378.92,
+          "text": "But me, I do it as a part of the intellectual connection I have with him"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 62,
+          "start": 379.36,
+          "end": 386.16,
+          "text": "It's something special with someone who's special"
+        },
+        {
+          "index": 63,
+          "start": 389.28,
+          "end": 396.08,
+          "text": "Denying it would only bring me a life full of lies"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 64,
+          "start": 406.56,
+          "end": 410.88,
+          "text": "I know for many MIA is a sign of repression"
+        },
+        {
+          "index": 65,
+          "start": 410.88,
+          "end": 416.2,
+          "text": "but for me is the beginning of my freedom"
+        },
+        {
+          "index": 66,
+          "start": 416.2,
+          "end": 421.84,
+          "text": "I’ve spend my whole life blaming myself for not fitting into society's standards"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 67,
+          "start": 421.84,
+          "end": 425.48,
+          "text": "I feel like most people are pretending"
+        },
+        {
+          "index": 68,
+          "start": 425.48,
+          "end": 429.4,
+          "text": "I have built a relationship where I can be me"
+        },
+        {
+          "index": 69,
+          "start": 429.4,
+          "end": 436.2,
+          "text": "and share it with someone else"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 70,
+          "start": 448.72,
+          "end": 455.52,
+          "text": "Such things happen when two different people get together, doesn't it?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0030_time_450.00s-465.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 71,
+          "start": 455.84,
+          "end": 462.64,
+          "text": "You never know what’s going to happen"
+        },
+        {
+          "index": 72,
+          "start": 464.48,
+          "end": 468.12,
+          "text": "All of my sexual intercourses have always been a fucking mess"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 73,
+          "start": 468.12,
+          "end": 472.76,
+          "text": "Even though I haven't had many"
+        },
+        {
+          "index": 74,
+          "start": 472.76,
+          "end": 479.56,
+          "text": "I don’t know why we all try so hard to be so similar to each other"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 75,
+          "start": 486.72,
+          "end": 493.52,
+          "text": "- Won't you let me cook?"
+        },
+        {
+          "index": 76,
+          "start": 494.48,
+          "end": 495.92,
+          "text": "I’m talking to you"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 77,
+          "start": 495.92,
+          "end": 500.12,
+          "text": "aren't you gonna let me cook?"
+        },
+        {
+          "index": 78,
+          "start": 500.12,
+          "end": 501.96,
+          "text": "Do you want to fuck?"
+        },
+        {
+          "index": 79,
+          "start": 501.96,
+          "end": 508.76,
+          "text": "Give me your panties"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 80,
+          "start": 511.64,
+          "end": 513.28,
+          "text": "Not a single noise, okay?"
+        },
+        {
+          "index": 81,
+          "start": 513.28,
+          "end": 520.08,
+          "text": "Turn around"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 82,
+          "start": 529.08,
+          "end": 532.24,
+          "text": "I feel like many things have changed"
+        },
+        {
+          "index": 83,
+          "start": 532.24,
+          "end": 535.76,
+          "text": "I brought to light something from me that was broken"
+        },
+        {
+          "index": 84,
+          "start": 535.76,
+          "end": 538.48,
+          "text": "The things from the past always hurt"
+        },
+        {
+          "index": 85,
+          "start": 538.48,
+          "end": 541.76,
+          "text": "and will never disappear It"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 86,
+          "start": 541.76,
+          "end": 543.72,
+          "text": "is all in your attitude"
+        },
+        {
+          "index": 87,
+          "start": 543.72,
+          "end": 545.68,
+          "text": "- Do you want me to cum in your face?"
+        },
+        {
+          "index": 88,
+          "start": 545.68,
+          "end": 552.48,
+          "text": "whether you learn from them or let them become a burden"
+        },
+        {
+          "index": 89,
+          "start": 553.64,
+          "end": 557.4,
+          "text": "- Cum in my face, please"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 90,
+          "start": 557.4,
+          "end": 561.88,
+          "text": "But it's not as easy when it comes to abuse"
+        },
+        {
+          "index": 91,
+          "start": 561.88,
+          "end": 565.48,
+          "text": "There’s no need to say much more"
+        },
+        {
+          "index": 92,
+          "start": 565.48,
+          "end": 569.12,
+          "text": "It always hurts to have no choice"
+        },
+        {
+          "index": 93,
+          "start": 569.12,
+          "end": 573.84,
+          "text": "Specially when it happens to you when you're four years old"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 94,
+          "start": 573.84,
+          "end": 577.0,
+          "text": "- Here's your reward, whore"
+        },
+        {
+          "index": 95,
+          "start": 577.0,
+          "end": 582.6,
+          "text": "Do you like it?"
+        },
+        {
+          "index": 96,
+          "start": 582.6,
+          "end": 587.2,
+          "text": "MIA can only exist because it comes from a part of me that I enjoy"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 585,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0039_time_585.00s-600.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 97,
+          "start": 587.2,
+          "end": 590.2,
+          "text": "even though I know it’s not easy"
+        },
+        {
+          "index": 98,
+          "start": 590.2,
+          "end": 591.68,
+          "text": "- So, what do you say?"
+        },
+        {
+          "index": 99,
+          "start": 591.68,
+          "end": 597.12,
+          "text": "-Thank you, Master. - That’s what I want to hear, MIA"
+        },
+        {
+          "index": 100,
+          "start": 597.12,
+          "end": 599.2,
+          "text": "I doubt there’s ever going to be another Master"
+        },
+        {
+          "index": 101,
+          "start": 599.2,
+          "end": 603.52,
+          "text": "- No, I want to lick your hand"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "timecode_debut_extrait": 600,
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0040_time_600.00s-615.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 102,
+          "start": 603.52,
+          "end": 605.72,
+          "text": "This is something that was born here"
+        },
+        {
+          "index": 103,
+          "start": 605.72,
+          "end": 608.52,
+          "text": "and if it has to die"
+        },
+        {
+          "index": 104,
+          "start": 608.52,
+          "end": 611.12,
+          "text": "it will die here"
+        },
+        {
+          "index": 105,
+          "start": 611.12,
+          "end": 616.12,
+          "text": "- My little girl"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 630,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0041_time_615.00s-630.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "timecode_debut_extrait": 630,
+      "timecode_fin_extrait": 645,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0042_time_630.00s-645.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 652.693,
+      "timecode_debut_extrait": 645,
+      "timecode_fin_extrait": 652.693,
+      "video_path": "analyse\\videos\\Mia.2017.1080p.VMEO.WEB-DL.AAC2.0.H.264-dacokeh\\interval_0043_time_645.00s-652.69s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    }
+  ]
+}

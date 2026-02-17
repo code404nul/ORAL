@@ -130,8 +130,4 @@ def process_csv(csv_file, output_json='films_notes.json'):
 
 if __name__ == "__main__":
     # Nom de votre fichier CSV
-    csv_file = "A24_annapurna_zentropa_planB.csv"
-    
-    # Lancement du traitement
-    process_csv("A24_annapurna_zentropa_planB.csv")
-    process_csv("top_1500_movies.csv")
+    process_csv("top_50_movies_par_genre.csv")

@@ -1,0 +1,4722 @@
+{
+  "movie_id": "Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE",
+  "movie_path": "E:\\film_oral\\Kulong (2024)\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE.mkv",
+  "subtitle_path": "E:\\film_oral\\Kulong (2024)\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE.en.srt",
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 194,
+  "dossier_videos": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE",
+  "date_traitement": "2026-02-17T15:09:19.861582",
+  "stats_extraction": {
+    "total": 194,
+    "reussis": 194,
+    "echecs": 0,
+    "timeouts": 0,
+    "gpu_errors": 0,
+    "cpu_fallbacks": 0
+  },
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 1,
+          "start": 53.254,
+          "end": 54.659,
+          "text": "Is this the right thing to do?"
+        },
+        {
+          "index": 2,
+          "start": 55.975,
+          "end": 57.409,
+          "text": "For me, it is."
+        },
+        {
+          "index": 3,
+          "start": 58.735,
+          "end": 61.933,
+          "text": "How about for other people?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 4,
+          "start": 69.933,
+          "end": 74.572,
+          "text": "Finally, this outing pushed through!"
+        },
+        {
+          "index": 5,
+          "start": 74.597,
+          "end": 77.58,
+          "text": "It's difficult to coordinate your schedules,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 6,
+          "start": 77.605,
+          "end": 79.181,
+          "text": "you act like celebrities..."
+        },
+        {
+          "index": 7,
+          "start": 79.206,
+          "end": 80.858,
+          "text": "I was busy with events."
+        },
+        {
+          "index": 8,
+          "start": 80.883,
+          "end": 84.509,
+          "text": "Are you busy with events, or are you busy chasing after your ex?"
+        },
+        {
+          "index": 9,
+          "start": 84.534,
+          "end": 87.097,
+          "text": "Huh? I don’t have time for that."
+        },
+        {
+          "index": 10,
+          "start": 87.122,
+          "end": 89.457,
+          "text": "Excuse me, my career comes first."
+        },
+        {
+          "index": 11,
+          "start": 89.482,
+          "end": 91.972,
+          "text": "If there hadn't been a long weekend break,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 12,
+          "start": 91.997,
+          "end": 93.581,
+          "text": "you wouldn't have replied."
+        },
+        {
+          "index": 13,
+          "start": 93.636,
+          "end": 96.047,
+          "text": "Didn't we promise each other back in college"
+        },
+        {
+          "index": 14,
+          "start": 96.072,
+          "end": 98.441,
+          "text": "that we wouldn't forget about writing?"
+        },
+        {
+          "index": 15,
+          "start": 98.466,
+          "end": 102.816,
+          "text": "Now is our chance with this sexy film script writing competition."
+        },
+        {
+          "index": 16,
+          "start": 103.242,
+          "end": 105.365,
+          "text": "How much is the cash prize for that contest anyway?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 17,
+          "start": 105.39,
+          "end": 107.691,
+          "text": "It’s not about the prize."
+        },
+        {
+          "index": 18,
+          "start": 107.716,
+          "end": 110.464,
+          "text": "What's important is the recognition we’ll get."
+        },
+        {
+          "index": 19,
+          "start": 110.52,
+          "end": 113.587,
+          "text": "You're the only one insisting on being recognized."
+        },
+        {
+          "index": 20,
+          "start": 113.612,
+          "end": 115.675,
+          "text": "Then let’s just go home then?"
+        },
+        {
+          "index": 21,
+          "start": 115.814,
+          "end": 119.5,
+          "text": "Stop it, it's tiring to just focus on working all the time,"
+        },
+        {
+          "index": 22,
+          "start": 119.525,
+          "end": 121.734,
+          "text": "and it's been so long since we've bonded, right?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 23,
+          "start": 121.759,
+          "end": 124.041,
+          "text": "This is the perfect time."
+        },
+        {
+          "index": 24,
+          "start": 124.066,
+          "end": 127.775,
+          "text": "Even though I'm always at events, my dream is still to become"
+        },
+        {
+          "index": 25,
+          "start": 127.8,
+          "end": 130.323,
+          "text": "a professional film writer."
+        },
+        {
+          "index": 26,
+          "start": 130.453,
+          "end": 131.537,
+          "text": "Same here."
+        },
+        {
+          "index": 27,
+          "start": 131.562,
+          "end": 133.815,
+          "text": "Even though I'm in a modeling agency,"
+        },
+        {
+          "index": 28,
+          "start": 133.84,
+          "end": 137.156,
+          "text": "I still want to pursue my dream of becoming a movie writer."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 29,
+          "start": 137.181,
+          "end": 139.058,
+          "text": "When is the deadline again?"
+        },
+        {
+          "index": 30,
+          "start": 139.09,
+          "end": 141.056,
+          "text": "- Next week. - Okay, perfect!"
+        },
+        {
+          "index": 31,
+          "start": 141.081,
+          "end": 143.945,
+          "text": "Let's go, come on, let's start writing!"
+        },
+        {
+          "index": 32,
+          "start": 143.97,
+          "end": 149.191,
+          "text": "I'm so excited! Oh my god, I already have so many plot ideas!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 33,
+          "start": 201.861,
+          "end": 204.197,
+          "text": "Good morning, ma’am!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 34,
+          "start": 212.699,
+          "end": 213.909,
+          "text": "Good morning..."
+        },
+        {
+          "index": 35,
+          "start": 214.336,
+          "end": 216.83,
+          "text": "Uh... We made a reservation through Ma’am Niya."
+        },
+        {
+          "index": 36,
+          "start": 216.855,
+          "end": 219.85,
+          "text": "Ah, yes, she already mentioned that to me."
+        },
+        {
+          "index": 37,
+          "start": 224.545,
+          "end": 229.6,
+          "text": "Uh... Ma'am, I'm Boie, the caretaker here at the resort."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 38,
+          "start": 229.681,
+          "end": 230.723,
+          "text": "Minerva."
+        },
+        {
+          "index": 39,
+          "start": 231.224,
+          "end": 233.17,
+          "text": "- Tisay. - Love."
+        },
+        {
+          "index": 40,
+          "start": 233.504,
+          "end": 235.881,
+          "text": "Alright ma'am, I'll help you with your belongings."
+        },
+        {
+          "index": 41,
+          "start": 235.906,
+          "end": 237.108,
+          "text": "Oh, thank you!"
+        },
+        {
+          "index": 42,
+          "start": 237.133,
+          "end": 238.133,
+          "text": "Here."
+        },
+        {
+          "index": 43,
+          "start": 239.429,
+          "end": 243.178,
+          "text": "So, what do you want to do first, take a bath or start writing?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 44,
+          "start": 246.934,
+          "end": 248.334,
+          "text": "Thank you!"
+        },
+        {
+          "index": 45,
+          "start": 249.534,
+          "end": 250.785,
+          "text": "It’s beautiful!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 46,
+          "start": 258.253,
+          "end": 260.68,
+          "text": "So ma'am, we have three rooms here."
+        },
+        {
+          "index": 47,
+          "start": 260.705,
+          "end": 263.857,
+          "text": "That one is the largest, equipped with a TV,"
+        },
+        {
+          "index": 48,
+          "start": 263.882,
+          "end": 266.509,
+          "text": "a bathroom, and kitchenette."
+        },
+        {
+          "index": 49,
+          "start": 266.787,
+          "end": 269.904,
+          "text": "Also ma'am, if you'd like to order something,"
+        },
+        {
+          "index": 50,
+          "start": 269.929,
+          "end": 271.813,
+          "text": "here's the number you can call."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 51,
+          "start": 273.141,
+          "end": 275.274,
+          "text": "- Can we order you? - Hey!"
+        },
+        {
+          "index": 52,
+          "start": 276.057,
+          "end": 277.399,
+          "text": "Don’t mind her."
+        },
+        {
+          "index": 53,
+          "start": 277.453,
+          "end": 281.071,
+          "text": "Ma'am, if you need anything, the telephone is right there."
+        },
+        {
+          "index": 54,
+          "start": 281.158,
+          "end": 283.484,
+          "text": "Just give me a call. Thank you."
+        },
+        {
+          "index": 55,
+          "start": 284.054,
+          "end": 285.139,
+          "text": "Okay."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 56,
+          "start": 289.365,
+          "end": 293.735,
+          "text": "- It's so beautiful. - Wow, it’s really beautiful here."
+        },
+        {
+          "index": 57,
+          "start": 294.134,
+          "end": 299.883,
+          "text": "Okay, girls, let's start the lock-in with a purpose."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 58,
+          "start": 309.621,
+          "end": 311.581,
+          "text": "Actually, any genre is allowed."
+        },
+        {
+          "index": 59,
+          "start": 312.472,
+          "end": 316.709,
+          "text": "Only the story and treatment need to be submitted online."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 60,
+          "start": 316.976,
+          "end": 320.521,
+          "text": "Just anything sexy, like sexy comedy,"
+        },
+        {
+          "index": 61,
+          "start": 320.546,
+          "end": 325.045,
+          "text": "sexy horror, sexy action, or anything sexy."
+        },
+        {
+          "index": 62,
+          "start": 326.657,
+          "end": 327.741,
+          "text": "Oh no..."
+        },
+        {
+          "index": 63,
+          "start": 328.821,
+          "end": 329.822,
+          "text": "Why?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 64,
+          "start": 330.381,
+          "end": 332.459,
+          "text": "I think I've forgotten about sex."
+        },
+        {
+          "index": 65,
+          "start": 332.967,
+          "end": 335.215,
+          "text": "It's been three years since I’ve had a partner."
+        },
+        {
+          "index": 66,
+          "start": 335.24,
+          "end": 336.879,
+          "text": "I'm the same way too, even up to now--"
+        },
+        {
+          "index": 67,
+          "start": 336.904,
+          "end": 339.662,
+          "text": "Hey, no one will believe you here."
+        },
+        {
+          "index": 68,
+          "start": 339.687,
+          "end": 342.576,
+          "text": "Come on! You can’t fool us!"
+        },
+        {
+          "index": 69,
+          "start": 342.897,
+          "end": 345.592,
+          "text": "Just because I had a boyfriend, it doesn’t mean I’ve had sex already."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 70,
+          "start": 345.631,
+          "end": 347.725,
+          "text": "- Really? - Yeah, that's right."
+        },
+        {
+          "index": 71,
+          "start": 347.75,
+          "end": 350.1,
+          "text": "Maybe that's why my ex left me,"
+        },
+        {
+          "index": 72,
+          "start": 350.385,
+          "end": 354.217,
+          "text": "because whenever he asked me, I always declined."
+        },
+        {
+          "index": 73,
+          "start": 354.681,
+          "end": 356.068,
+          "text": "I was never in the mood for it."
+        },
+        {
+          "index": 74,
+          "start": 357.517,
+          "end": 359.894,
+          "text": "All men are the same,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 75,
+          "start": 360.27,
+          "end": 364.131,
+          "text": "they get into relationships just to satisfy their desires."
+        },
+        {
+          "index": 76,
+          "start": 364.357,
+          "end": 367.12,
+          "text": "Don’t you have a boyfriend, Minerva?"
+        },
+        {
+          "index": 77,
+          "start": 367.145,
+          "end": 368.693,
+          "text": "What? No, I don’t."
+        },
+        {
+          "index": 78,
+          "start": 368.897,
+          "end": 371.499,
+          "text": "So, how are we going to write a sexy story,"
+        },
+        {
+          "index": 79,
+          "start": 371.524,
+          "end": 373.943,
+          "text": "if none of us are getting any?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 80,
+          "start": 381.12,
+          "end": 384.54,
+          "text": "I’ve got it! I have an idea."
+        },
+        {
+          "index": 81,
+          "start": 384.949,
+          "end": 387.146,
+          "text": "We need some experience!"
+        },
+        {
+          "index": 82,
+          "start": 388.689,
+          "end": 391.772,
+          "text": "- What if we seduce the caretaker? - Are you that horny?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 83,
+          "start": 391.867,
+          "end": 394.209,
+          "text": "We need do to it as writers."
+        },
+        {
+          "index": 84,
+          "start": 395.376,
+          "end": 396.461,
+          "text": "“IRE”."
+        },
+        {
+          "index": 85,
+          "start": 396.557,
+          "end": 397.6,
+          "text": "- IRE? - IRE?"
+        },
+        {
+          "index": 86,
+          "start": 397.92,
+          "end": 398.963,
+          "text": "IRE:"
+        },
+        {
+          "index": 87,
+          "start": 399.35,
+          "end": 404.428,
+          "text": "inspiration, research, and experience."
+        },
+        {
+          "index": 88,
+          "start": 404.453,
+          "end": 405.453,
+          "text": "Right?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 89,
+          "start": 406.685,
+          "end": 408.519,
+          "text": "- That’s witty. - I know."
+        },
+        {
+          "index": 90,
+          "start": 408.544,
+          "end": 412.568,
+          "text": "Whoever among us is first to have sex here at the resort"
+        },
+        {
+          "index": 91,
+          "start": 412.822,
+          "end": 417.093,
+          "text": "wins a prize of five thousand. Anyone, even if it's not Boei."
+        },
+        {
+          "index": 92,
+          "start": 417.118,
+          "end": 418.858,
+          "text": "So, are you in?"
+        },
+        {
+          "index": 93,
+          "start": 419.803,
+          "end": 421.18,
+          "text": "Are you up for it?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 94,
+          "start": 421.305,
+          "end": 424.267,
+          "text": "Come on, don't deny it,"
+        },
+        {
+          "index": 95,
+          "start": 424.292,
+          "end": 426.911,
+          "text": "I know you've got that flirt in you."
+        },
+        {
+          "index": 96,
+          "start": 426.936,
+          "end": 430.092,
+          "text": "So, are you in? Of course, you're game,"
+        },
+        {
+          "index": 97,
+          "start": 430.256,
+          "end": 432.8,
+          "text": "but there should be proof, okay?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 98,
+          "start": 436.121,
+          "end": 439.537,
+          "text": "- You’re always teasing her. - Are you going to drown me?"
+        },
+        {
+          "index": 99,
+          "start": 439.562,
+          "end": 441.209,
+          "text": "She’s already coughing."
+        },
+        {
+          "index": 100,
+          "start": 441.688,
+          "end": 443.756,
+          "text": "I feel like I'm drowning."
+        },
+        {
+          "index": 101,
+          "start": 443.781,
+          "end": 445.648,
+          "text": "[girls laughing, chattering]"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0030_time_450.00s-465.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 102,
+          "start": 453.475,
+          "end": 454.475,
+          "text": "Hey."
+        },
+        {
+          "index": 103,
+          "start": 454.864,
+          "end": 456.209,
+          "text": "Don't look,"
+        },
+        {
+          "index": 104,
+          "start": 456.532,
+          "end": 460.365,
+          "text": "I think Boei is watching us."
+        },
+        {
+          "index": 105,
+          "start": 460.495,
+          "end": 463.592,
+          "text": "- Where? I can’t see him. - Don’t be so obvious."
+        },
+        {
+          "index": 106,
+          "start": 463.617,
+          "end": 465.412,
+          "text": "- Where? - Just act casually. There."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 107,
+          "start": 467.668,
+          "end": 468.711,
+          "text": "Right?"
+        },
+        {
+          "index": 108,
+          "start": 469.504,
+          "end": 470.546,
+          "text": "Right?"
+        },
+        {
+          "index": 109,
+          "start": 471.672,
+          "end": 473.475,
+          "text": "Do you think he’s a pervert?"
+        },
+        {
+          "index": 110,
+          "start": 475.503,
+          "end": 476.834,
+          "text": "What pervert?"
+        },
+        {
+          "index": 111,
+          "start": 477.275,
+          "end": 481.161,
+          "text": "Can't you see he's so quiet and polite?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 112,
+          "start": 481.613,
+          "end": 484.068,
+          "text": "Wow, really now?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 113,
+          "start": 501.411,
+          "end": 503.746,
+          "text": "Hey, where are you going?"
+        },
+        {
+          "index": 114,
+          "start": 505.099,
+          "end": 508.304,
+          "text": "I’ll just try my luck."
+        },
+        {
+          "index": 115,
+          "start": 508.593,
+          "end": 511.773,
+          "text": "Alright then, let's find out and see."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 116,
+          "start": 511.797,
+          "end": 513.796,
+          "text": "[laughing]"
+        },
+        {
+          "index": 117,
+          "start": 513.821,
+          "end": 515.624,
+          "text": "She's crazy!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 585,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0039_time_585.00s-600.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "timecode_debut_extrait": 600,
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0040_time_600.00s-615.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 118,
+          "start": 609.153,
+          "end": 611.191,
+          "text": "Oh, good morning, ma’am!"
+        },
+        {
+          "index": 119,
+          "start": 611.216,
+          "end": 612.3,
+          "text": "Hi!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 630,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0041_time_615.00s-630.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 120,
+          "start": 615.472,
+          "end": 617.33,
+          "text": "Why is it wet here?"
+        },
+        {
+          "index": 121,
+          "start": 617.735,
+          "end": 620.435,
+          "text": "Oh, ma'am, the weather keeps changing."
+        },
+        {
+          "index": 122,
+          "start": 620.46,
+          "end": 622.337,
+          "text": "Sometimes it's rainy, sometimes it's sunny."
+        },
+        {
+          "index": 123,
+          "start": 622.448,
+          "end": 624.575,
+          "text": "- Oh, I see. - It's because we're in the mountains."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "timecode_debut_extrait": 630,
+      "timecode_fin_extrait": 645,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0042_time_630.00s-645.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "timecode_debut_extrait": 645,
+      "timecode_fin_extrait": 660,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0043_time_645.00s-660.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 124,
+          "start": 646.569,
+          "end": 649.822,
+          "text": "- Is it nice here at night? - Yes, ma'am, it's cool."
+        },
+        {
+          "index": 125,
+          "start": 649.847,
+          "end": 651.307,
+          "text": "Oh..."
+        },
+        {
+          "index": 126,
+          "start": 656.232,
+          "end": 657.441,
+          "text": "But you know,"
+        },
+        {
+          "index": 127,
+          "start": 658.074,
+          "end": 660.169,
+          "text": "you look nice even even when it's not nighttime."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "timecode_debut_extrait": 660,
+      "timecode_fin_extrait": 675,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0044_time_660.00s-675.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "timecode_debut_extrait": 675,
+      "timecode_fin_extrait": 690,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0045_time_675.00s-690.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 128,
+          "start": 675.717,
+          "end": 677.878,
+          "text": "Don’t you miss it?"
+        },
+        {
+          "index": 129,
+          "start": 680.013,
+          "end": 681.264,
+          "text": "Miss what?"
+        },
+        {
+          "index": 130,
+          "start": 683.621,
+          "end": 686.971,
+          "text": "Like how we used to be."
+        },
+        {
+          "index": 131,
+          "start": 687.757,
+          "end": 691.552,
+          "text": "- Is it still possible? - Let’s not."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "timecode_debut_extrait": 690,
+      "timecode_fin_extrait": 705,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0046_time_690.00s-705.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 132,
+          "start": 694.02,
+          "end": 697.214,
+          "text": "That's why I invited you here."
+        },
+        {
+          "index": 133,
+          "start": 699.837,
+          "end": 702.807,
+          "text": "Was I the reason you wanted to push through with this outing?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "timecode_debut_extrait": 705,
+      "timecode_fin_extrait": 720,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0047_time_705.00s-720.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 134,
+          "start": 706.062,
+          "end": 707.72,
+          "text": "You’re one of it."
+        },
+        {
+          "index": 135,
+          "start": 709.672,
+          "end": 712.822,
+          "text": "I thought we were focusing on writing here?"
+        },
+        {
+          "index": 136,
+          "start": 718.21,
+          "end": 721.245,
+          "text": "Do you know what I want to write about?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "timecode_debut_extrait": 720,
+      "timecode_fin_extrait": 735,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0048_time_720.00s-735.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 137,
+          "start": 723.941,
+          "end": 726.831,
+          "text": "Our secret encounters."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "timecode_debut_extrait": 735,
+      "timecode_fin_extrait": 750,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0049_time_735.00s-750.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 138,
+          "start": 748.491,
+          "end": 749.533,
+          "text": "Hey!"
+        },
+        {
+          "index": 139,
+          "start": 749.94,
+          "end": 752.252,
+          "text": "You're crazy, you know?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "timecode_debut_extrait": 750,
+      "timecode_fin_extrait": 765,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0050_time_750.00s-765.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 140,
+          "start": 753.686,
+          "end": 755.313,
+          "text": "You’re so persistent!"
+        },
+        {
+          "index": 141,
+          "start": 756.328,
+          "end": 758.872,
+          "text": "Come with me, let’s swim."
+        },
+        {
+          "index": 142,
+          "start": 762.305,
+          "end": 763.971,
+          "text": "Ma’am, ma’am--"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "timecode_debut_extrait": 765,
+      "timecode_fin_extrait": 780,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0051_time_765.00s-780.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 143,
+          "start": 765.049,
+          "end": 768.886,
+          "text": "Sorry, I still have a lot to do."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "timecode_debut_extrait": 780,
+      "timecode_fin_extrait": 795,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0052_time_780.00s-795.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 144,
+          "start": 783.11,
+          "end": 786.072,
+          "text": "Geez. So annoying!"
+        },
+        {
+          "index": 145,
+          "start": 787.062,
+          "end": 788.649,
+          "text": "That was fast!"
+        },
+        {
+          "index": 146,
+          "start": 789.281,
+          "end": 792.66,
+          "text": "Nothing happened. Come on, let’s just write!"
+        },
+        {
+          "index": 147,
+          "start": 794.684,
+          "end": 797.703,
+          "text": "- She probably didn’t get laid. - Surely."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "timecode_debut_extrait": 795,
+      "timecode_fin_extrait": 810,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0053_time_795.00s-810.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 148,
+          "start": 800.141,
+          "end": 801.141,
+          "text": "Tsk!"
+        },
+        {
+          "index": 149,
+          "start": 803.73,
+          "end": 804.73,
+          "text": "Tsk!"
+        },
+        {
+          "index": 150,
+          "start": 804.755,
+          "end": 806.289,
+          "text": "I can't think of anything."
+        },
+        {
+          "index": 151,
+          "start": 806.966,
+          "end": 808.592,
+          "text": "I’m still annoyed because of Boei."
+        },
+        {
+          "index": 152,
+          "start": 809.927,
+          "end": 813.094,
+          "text": "Don't force it, it will naturally come."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "timecode_debut_extrait": 810,
+      "timecode_fin_extrait": 825,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0054_time_810.00s-825.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 153,
+          "start": 814.598,
+          "end": 815.683,
+          "text": "Maybe..."
+        },
+        {
+          "index": 154,
+          "start": 816.559,
+          "end": 818.219,
+          "text": "he's into someone else."
+        },
+        {
+          "index": 155,
+          "start": 819.267,
+          "end": 820.31,
+          "text": "Maybe..."
+        },
+        {
+          "index": 156,
+          "start": 821.401,
+          "end": 822.444,
+          "text": "me?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "timecode_debut_extrait": 825,
+      "timecode_fin_extrait": 840,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0055_time_825.00s-840.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 157,
+          "start": 825.109,
+          "end": 826.444,
+          "text": "Or maybe me."
+        },
+        {
+          "index": 158,
+          "start": 828.279,
+          "end": 829.739,
+          "text": "Amazing!"
+        },
+        {
+          "index": 159,
+          "start": 830.406,
+          "end": 832.289,
+          "text": "These girls,"
+        },
+        {
+          "index": 160,
+          "start": 832.591,
+          "end": 835.016,
+          "text": "with there game faces on,"
+        },
+        {
+          "index": 161,
+          "start": 835.494,
+          "end": 839.086,
+          "text": "thinking they’re all that."
+        },
+        {
+          "index": 162,
+          "start": 839.374,
+          "end": 841.588,
+          "text": "Alright, let's see you try it then."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "timecode_debut_extrait": 840,
+      "timecode_fin_extrait": 855,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0056_time_840.00s-855.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 163,
+          "start": 842.46,
+          "end": 844.86,
+          "text": "If I got rejected, you’d definitely be too."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "timecode_debut_extrait": 855,
+      "timecode_fin_extrait": 870,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0057_time_855.00s-870.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "timecode_debut_extrait": 870,
+      "timecode_fin_extrait": 885,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0058_time_870.00s-885.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "timecode_debut_extrait": 885,
+      "timecode_fin_extrait": 900,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0059_time_885.00s-900.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "timecode_debut_extrait": 900,
+      "timecode_fin_extrait": 915,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0060_time_900.00s-915.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "timecode_debut_extrait": 915,
+      "timecode_fin_extrait": 930,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0061_time_915.00s-930.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "timecode_debut_extrait": 930,
+      "timecode_fin_extrait": 945,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0062_time_930.00s-945.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "timecode_debut_extrait": 945,
+      "timecode_fin_extrait": 960,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0063_time_945.00s-960.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "timecode_debut_extrait": 960,
+      "timecode_fin_extrait": 975,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0064_time_960.00s-975.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "timecode_debut_extrait": 975,
+      "timecode_fin_extrait": 990,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0065_time_975.00s-990.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "timecode_debut_extrait": 990,
+      "timecode_fin_extrait": 1005,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0066_time_990.00s-1005.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "timecode_debut_extrait": 1005,
+      "timecode_fin_extrait": 1020,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0067_time_1005.00s-1020.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "timecode_debut_extrait": 1020,
+      "timecode_fin_extrait": 1035,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0068_time_1020.00s-1035.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1035,
+      "timecode_fin_extrait": 1050,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0069_time_1035.00s-1050.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "timecode_debut_extrait": 1050,
+      "timecode_fin_extrait": 1065,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0070_time_1050.00s-1065.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "timecode_debut_extrait": 1065,
+      "timecode_fin_extrait": 1080,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0071_time_1065.00s-1080.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 164,
+          "start": 1068.769,
+          "end": 1071.778,
+          "text": "Oh, it's you, ma'am."
+        },
+        {
+          "index": 165,
+          "start": 1072.778,
+          "end": 1073.778,
+          "text": "Umm..."
+        },
+        {
+          "index": 166,
+          "start": 1073.983,
+          "end": 1075.786,
+          "text": "Do you need anything?"
+        },
+        {
+          "index": 167,
+          "start": 1075.811,
+          "end": 1077.653,
+          "text": "Nothing..."
+        },
+        {
+          "index": 168,
+          "start": 1078.487,
+          "end": 1080.239,
+          "text": "I was just wandering around."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "timecode_debut_extrait": 1080,
+      "timecode_fin_extrait": 1095,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0072_time_1080.00s-1095.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 169,
+          "start": 1080.833,
+          "end": 1081.833,
+          "text": "I see."
+        },
+        {
+          "index": 170,
+          "start": 1081.989,
+          "end": 1084.367,
+          "text": "- Have you been here for a long time? - Kind of, ma’am."
+        },
+        {
+          "index": 171,
+          "start": 1084.868,
+          "end": 1086.13,
+          "text": "Do you have a girlfriend?"
+        },
+        {
+          "index": 172,
+          "start": 1086.387,
+          "end": 1089.68,
+          "text": "- None, ma'am. - Oh, I see."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "timecode_debut_extrait": 1095,
+      "timecode_fin_extrait": 1110,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0073_time_1095.00s-1110.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 173,
+          "start": 1096.514,
+          "end": 1097.514,
+          "text": "Um..."
+        },
+        {
+          "index": 174,
+          "start": 1105.222,
+          "end": 1106.265,
+          "text": "Ma’am..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "timecode_debut_extrait": 1110,
+      "timecode_fin_extrait": 1125,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0074_time_1110.00s-1125.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 175,
+          "start": 1114.626,
+          "end": 1115.626,
+          "text": "Uh..."
+        },
+        {
+          "index": 176,
+          "start": 1115.651,
+          "end": 1119.066,
+          "text": "Ma'am, someone might see us."
+        },
+        {
+          "index": 177,
+          "start": 1121.405,
+          "end": 1122.699,
+          "text": "There’s no one here."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "timecode_debut_extrait": 1125,
+      "timecode_fin_extrait": 1140,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0075_time_1125.00s-1140.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 178,
+          "start": 1125.963,
+          "end": 1127.77,
+          "text": "Ma’am..."
+        },
+        {
+          "index": 179,
+          "start": 1130.873,
+          "end": 1131.957,
+          "text": "Ma’am--"
+        },
+        {
+          "index": 180,
+          "start": 1136.163,
+          "end": 1140.611,
+          "text": "Ma'am, your friends--"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "timecode_debut_extrait": 1140,
+      "timecode_fin_extrait": 1155,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0076_time_1140.00s-1155.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 181,
+          "start": 1141.341,
+          "end": 1142.676,
+          "text": "Don’t mind them."
+        },
+        {
+          "index": 182,
+          "start": 1143.135,
+          "end": 1144.678,
+          "text": "Let them be jealous."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "timecode_debut_extrait": 1155,
+      "timecode_fin_extrait": 1170,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0077_time_1155.00s-1170.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 183,
+          "start": 1157.908,
+          "end": 1158.908,
+          "text": "Ma'am..."
+        },
+        {
+          "index": 184,
+          "start": 1162.634,
+          "end": 1164.615,
+          "text": "Ma’am!"
+        },
+        {
+          "index": 185,
+          "start": 1165.824,
+          "end": 1167.502,
+          "text": "So-- I’m sorry, ma’am."
+        },
+        {
+          "index": 186,
+          "start": 1168.088,
+          "end": 1169.214,
+          "text": "I’m sorry."
+        },
+        {
+          "index": 187,
+          "start": 1169.366,
+          "end": 1170.743,
+          "text": "Sorry, ma’am."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "timecode_debut_extrait": 1170,
+      "timecode_fin_extrait": 1185,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0078_time_1170.00s-1185.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 188,
+          "start": 1182.674,
+          "end": 1185.392,
+          "text": "Hello? Anybody home?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1185,
+      "timecode_fin_extrait": 1200,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0079_time_1185.00s-1200.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 189,
+          "start": 1188.502,
+          "end": 1189.508,
+          "text": "Ah!"
+        },
+        {
+          "index": 190,
+          "start": 1189.532,
+          "end": 1191.978,
+          "text": "Hello, ma’am, food delivery for Tisay Alvarez."
+        },
+        {
+          "index": 191,
+          "start": 1192.003,
+          "end": 1193.463,
+          "text": "Come, enter."
+        },
+        {
+          "index": 192,
+          "start": 1193.802,
+          "end": 1195.304,
+          "text": "Just put it on the table."
+        },
+        {
+          "index": 193,
+          "start": 1197.756,
+          "end": 1198.923,
+          "text": "Thank you."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "timecode_debut_extrait": 1200,
+      "timecode_fin_extrait": 1215,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0080_time_1200.00s-1215.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 194,
+          "start": 1208.009,
+          "end": 1209.462,
+          "text": "Are you from around here?"
+        },
+        {
+          "index": 195,
+          "start": 1209.667,
+          "end": 1212.064,
+          "text": "No, ma’am. I’m from the next town."
+        },
+        {
+          "index": 196,
+          "start": 1212.869,
+          "end": 1214.119,
+          "text": "I see."
+        },
+        {
+          "index": 197,
+          "start": 1214.373,
+          "end": 1215.582,
+          "text": "You smell good."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "timecode_debut_extrait": 1215,
+      "timecode_fin_extrait": 1230,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0081_time_1215.00s-1230.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 198,
+          "start": 1215.996,
+          "end": 1218.603,
+          "text": "No, ma’am, I’m actually covered in sweat."
+        },
+        {
+          "index": 199,
+          "start": 1226.927,
+          "end": 1229.513,
+          "text": "If you want, you can join me for a meal."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "timecode_debut_extrait": 1230,
+      "timecode_fin_extrait": 1245,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0082_time_1230.00s-1245.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 200,
+          "start": 1230.305,
+          "end": 1232.009,
+          "text": "Let's eat."
+        },
+        {
+          "index": 201,
+          "start": 1232.361,
+          "end": 1233.361,
+          "text": "Uh..."
+        },
+        {
+          "index": 202,
+          "start": 1233.767,
+          "end": 1235.845,
+          "text": "I still have a delivery to do, ma’am."
+        },
+        {
+          "index": 203,
+          "start": 1235.87,
+          "end": 1238.556,
+          "text": "It won't take long, I promise."
+        },
+        {
+          "index": 204,
+          "start": 1239.572,
+          "end": 1240.624,
+          "text": "Uh..."
+        },
+        {
+          "index": 205,
+          "start": 1240.649,
+          "end": 1242.306,
+          "text": "What was your name again?"
+        },
+        {
+          "index": 206,
+          "start": 1242.53,
+          "end": 1243.615,
+          "text": "Jelon, ma’am."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "timecode_debut_extrait": 1245,
+      "timecode_fin_extrait": 1260,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0083_time_1245.00s-1260.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 207,
+          "start": 1245.46,
+          "end": 1247.197,
+          "text": "Oh..."
+        },
+        {
+          "index": 208,
+          "start": 1248.49,
+          "end": 1249.883,
+          "text": "Jelon..."
+        },
+        {
+          "index": 209,
+          "start": 1249.915,
+          "end": 1251.533,
+          "text": "So, Jelon,"
+        },
+        {
+          "index": 210,
+          "start": 1252.578,
+          "end": 1253.97,
+          "text": "are you hungry too?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "timecode_debut_extrait": 1260,
+      "timecode_fin_extrait": 1275,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0084_time_1260.00s-1275.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "timecode_debut_extrait": 1275,
+      "timecode_fin_extrait": 1290,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0085_time_1275.00s-1290.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1305,
+      "timecode_debut_extrait": 1290,
+      "timecode_fin_extrait": 1305,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0086_time_1290.00s-1305.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 87,
+      "intervalle_debut": 1305,
+      "intervalle_fin": 1320,
+      "timecode_debut_extrait": 1305,
+      "timecode_fin_extrait": 1320,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0087_time_1305.00s-1320.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 1320,
+      "intervalle_fin": 1335,
+      "timecode_debut_extrait": 1320,
+      "timecode_fin_extrait": 1335,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0088_time_1320.00s-1335.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 1335,
+      "intervalle_fin": 1350,
+      "timecode_debut_extrait": 1335,
+      "timecode_fin_extrait": 1350,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0089_time_1335.00s-1350.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 90,
+      "intervalle_debut": 1350,
+      "intervalle_fin": 1365,
+      "timecode_debut_extrait": 1350,
+      "timecode_fin_extrait": 1365,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0090_time_1350.00s-1365.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 1365,
+      "intervalle_fin": 1380,
+      "timecode_debut_extrait": 1365,
+      "timecode_fin_extrait": 1380,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0091_time_1365.00s-1380.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 92,
+      "intervalle_debut": 1380,
+      "intervalle_fin": 1395,
+      "timecode_debut_extrait": 1380,
+      "timecode_fin_extrait": 1395,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0092_time_1380.00s-1395.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 93,
+      "intervalle_debut": 1395,
+      "intervalle_fin": 1410,
+      "timecode_debut_extrait": 1395,
+      "timecode_fin_extrait": 1410,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0093_time_1395.00s-1410.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 211,
+          "start": 1405.272,
+          "end": 1408.054,
+          "text": "Ma’am, there’s a delivery for--"
+        },
+        {
+          "index": 212,
+          "start": 1408.171,
+          "end": 1410.629,
+          "text": "I’ll go ahead, ma’am."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 94,
+      "intervalle_debut": 1410,
+      "intervalle_fin": 1425,
+      "timecode_debut_extrait": 1410,
+      "timecode_fin_extrait": 1425,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0094_time_1410.00s-1425.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 213,
+          "start": 1410.654,
+          "end": 1412.989,
+          "text": "Thank you, ma'am. Consider me for delivery again."
+        },
+        {
+          "index": 214,
+          "start": 1415.949,
+          "end": 1417.034,
+          "text": "Yes?"
+        },
+        {
+          "index": 215,
+          "start": 1423.273,
+          "end": 1424.357,
+          "text": "Here!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 95,
+      "intervalle_debut": 1425,
+      "intervalle_fin": 1440,
+      "timecode_debut_extrait": 1425,
+      "timecode_fin_extrait": 1440,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0095_time_1425.00s-1440.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 216,
+          "start": 1425.876,
+          "end": 1426.96,
+          "text": "Look!"
+        },
+        {
+          "index": 217,
+          "start": 1427.085,
+          "end": 1429.319,
+          "text": "That’s five thousand for me!"
+        },
+        {
+          "index": 218,
+          "start": 1429.482,
+          "end": 1432.397,
+          "text": "Experience!"
+        },
+        {
+          "index": 219,
+          "start": 1433.008,
+          "end": 1434.568,
+          "text": "Congratulations then."
+        },
+        {
+          "index": 220,
+          "start": 1434.593,
+          "end": 1436.819,
+          "text": "How arrogant!"
+        },
+        {
+          "index": 221,
+          "start": 1437.231,
+          "end": 1439.691,
+          "text": "Let’s bet again, three thousand this time."
+        },
+        {
+          "index": 222,
+          "start": 1439.716,
+          "end": 1443.178,
+          "text": "Wow. This girl. So competitive. Still fighting!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 96,
+      "intervalle_debut": 1440,
+      "intervalle_fin": 1455,
+      "timecode_debut_extrait": 1440,
+      "timecode_fin_extrait": 1455,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0096_time_1440.00s-1455.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 223,
+          "start": 1443.352,
+          "end": 1446.246,
+          "text": "I already won. What? One more bet?"
+        },
+        {
+          "index": 224,
+          "start": 1446.271,
+          "end": 1448.015,
+          "text": "Sure!"
+        },
+        {
+          "index": 225,
+          "start": 1448.231,
+          "end": 1450.647,
+          "text": "One more? Still up for it?"
+        },
+        {
+          "index": 226,
+          "start": 1452.132,
+          "end": 1454.108,
+          "text": "[laughing]"
+        },
+        {
+          "index": 227,
+          "start": 1454.133,
+          "end": 1455.134,
+          "text": "You know,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 97,
+      "intervalle_debut": 1455,
+      "intervalle_fin": 1470,
+      "timecode_debut_extrait": 1455,
+      "timecode_fin_extrait": 1470,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0097_time_1455.00s-1470.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 228,
+          "start": 1456.49,
+          "end": 1459.726,
+          "text": "what if we make a story"
+        },
+        {
+          "index": 229,
+          "start": 1460.009,
+          "end": 1464.599,
+          "text": "about sexy virgins who get stranded on an island?"
+        },
+        {
+          "index": 230,
+          "start": 1464.624,
+          "end": 1467.34,
+          "text": "- Virgin? Are you a virgin? - Are you a virgin?"
+        },
+        {
+          "index": 231,
+          "start": 1467.365,
+          "end": 1469.665,
+          "text": "- Yes, I’m a virgin! - [laughing]"
+        },
+        {
+          "index": 232,
+          "start": 1469.69,
+          "end": 1472.592,
+          "text": "- Are you? Are you a virgin? - Yes, ma’am."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 98,
+      "intervalle_debut": 1470,
+      "intervalle_fin": 1485,
+      "timecode_debut_extrait": 1470,
+      "timecode_fin_extrait": 1485,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0098_time_1470.00s-1485.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 233,
+          "start": 1473.757,
+          "end": 1475.008,
+          "text": "But you know what,"
+        },
+        {
+          "index": 234,
+          "start": 1475.342,
+          "end": 1477.718,
+          "text": "I still prefer the sexy action story."
+        },
+        {
+          "index": 235,
+          "start": 1478.369,
+          "end": 1479.913,
+          "text": "That’s better. Am I right?"
+        },
+        {
+          "index": 236,
+          "start": 1479.938,
+          "end": 1482.608,
+          "text": "That romantic sexy drama theme is overused."
+        },
+        {
+          "index": 237,
+          "start": 1482.633,
+          "end": 1484.11,
+          "text": "Overused?"
+        },
+        {
+          "index": 238,
+          "start": 1484.184,
+          "end": 1490.155,
+          "text": "I told you, nowadays there are few who do those sexy action scenes, that's why—"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 99,
+      "intervalle_debut": 1485,
+      "intervalle_fin": 1500,
+      "timecode_debut_extrait": 1485,
+      "timecode_fin_extrait": 1500,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0099_time_1485.00s-1500.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 239,
+          "start": 1490.333,
+          "end": 1494.241,
+          "text": "- What are you trying to say? - I like sexy action with these--"
+        },
+        {
+          "index": 240,
+          "start": 1494.312,
+          "end": 1495.879,
+          "text": "Bang! Bang!"
+        },
+        {
+          "index": 241,
+          "start": 1495.921,
+          "end": 1497.397,
+          "text": "- Like that, you know? - Like this?"
+        },
+        {
+          "index": 242,
+          "start": 1497.422,
+          "end": 1500.55,
+          "text": "- Bang! Bang! - Wait!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 100,
+      "intervalle_debut": 1500,
+      "intervalle_fin": 1515,
+      "timecode_debut_extrait": 1500,
+      "timecode_fin_extrait": 1515,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0100_time_1500.00s-1515.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 243,
+          "start": 1500.595,
+          "end": 1503.444,
+          "text": "- I’ll just buy more drinks. - You’re really a kill joy."
+        },
+        {
+          "index": 244,
+          "start": 1503.468,
+          "end": 1505.523,
+          "text": "- You two are so noisy! - Kill joy!"
+        },
+        {
+          "index": 245,
+          "start": 1505.548,
+          "end": 1507.343,
+          "text": "- Cheers! - Cheers!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 101,
+      "intervalle_debut": 1515,
+      "intervalle_fin": 1530,
+      "timecode_debut_extrait": 1515,
+      "timecode_fin_extrait": 1530,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0101_time_1515.00s-1530.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 246,
+          "start": 1527.74,
+          "end": 1531.581,
+          "text": "Good evening ma'am, is Boei there?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 102,
+      "intervalle_debut": 1530,
+      "intervalle_fin": 1545,
+      "timecode_debut_extrait": 1530,
+      "timecode_fin_extrait": 1545,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0102_time_1530.00s-1545.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 247,
+          "start": 1531.606,
+          "end": 1534.716,
+          "text": "No, he's not here. Why?"
+        },
+        {
+          "index": 248,
+          "start": 1534.741,
+          "end": 1538.107,
+          "text": "Oh, never mind. Just a water delivery."
+        },
+        {
+          "index": 249,
+          "start": 1538.132,
+          "end": 1541.208,
+          "text": "We had a lot of orders today, that's why I'm running late."
+        },
+        {
+          "index": 250,
+          "start": 1542.316,
+          "end": 1544.026,
+          "text": "You're strong."
+        },
+        {
+          "index": 251,
+          "start": 1544.578,
+          "end": 1546.021,
+          "text": "It's just a matter of getting used to it, ma'am."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 103,
+      "intervalle_debut": 1545,
+      "intervalle_fin": 1560,
+      "timecode_debut_extrait": 1545,
+      "timecode_fin_extrait": 1560,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0103_time_1545.00s-1560.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 252,
+          "start": 1546.046,
+          "end": 1549.177,
+          "text": "- Do you go to the gym? - I used to, but..."
+        },
+        {
+          "index": 253,
+          "start": 1549.708,
+          "end": 1552.294,
+          "text": "I already stopped going to the gym because"
+        },
+        {
+          "index": 254,
+          "start": 1552.839,
+          "end": 1556.771,
+          "text": "it feels like I'm already doing gym work with all the daily lifting of water."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 104,
+      "intervalle_debut": 1560,
+      "intervalle_fin": 1575,
+      "timecode_debut_extrait": 1560,
+      "timecode_fin_extrait": 1575,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0104_time_1560.00s-1575.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 255,
+          "start": 1564.389,
+          "end": 1565.745,
+          "text": "Do you want it?"
+        },
+        {
+          "index": 256,
+          "start": 1570.353,
+          "end": 1571.396,
+          "text": "Well?"
+        },
+        {
+          "index": 257,
+          "start": 1572.107,
+          "end": 1575.4,
+          "text": "- Do you want this? - You’re just drunk, ma’am."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 105,
+      "intervalle_debut": 1575,
+      "intervalle_fin": 1590,
+      "timecode_debut_extrait": 1575,
+      "timecode_fin_extrait": 1590,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0105_time_1575.00s-1590.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 258,
+          "start": 1576.57,
+          "end": 1578.261,
+          "text": "I’m not drunk."
+        },
+        {
+          "index": 259,
+          "start": 1578.917,
+          "end": 1580.388,
+          "text": "So, do you want it?"
+        },
+        {
+          "index": 260,
+          "start": 1582.073,
+          "end": 1584.511,
+          "text": "Come on, what are you waiting for?"
+        },
+        {
+          "index": 261,
+          "start": 1585.452,
+          "end": 1586.667,
+          "text": "What?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 106,
+      "intervalle_debut": 1590,
+      "intervalle_fin": 1605,
+      "timecode_debut_extrait": 1590,
+      "timecode_fin_extrait": 1605,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0106_time_1590.00s-1605.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 107,
+      "intervalle_debut": 1605,
+      "intervalle_fin": 1620,
+      "timecode_debut_extrait": 1605,
+      "timecode_fin_extrait": 1620,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0107_time_1605.00s-1620.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 108,
+      "intervalle_debut": 1620,
+      "intervalle_fin": 1635,
+      "timecode_debut_extrait": 1620,
+      "timecode_fin_extrait": 1635,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0108_time_1620.00s-1635.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 109,
+      "intervalle_debut": 1635,
+      "intervalle_fin": 1650,
+      "timecode_debut_extrait": 1635,
+      "timecode_fin_extrait": 1650,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0109_time_1635.00s-1650.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 110,
+      "intervalle_debut": 1650,
+      "intervalle_fin": 1665,
+      "timecode_debut_extrait": 1650,
+      "timecode_fin_extrait": 1665,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0110_time_1650.00s-1665.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 262,
+          "start": 1660.652,
+          "end": 1664.114,
+          "text": "You know, I've been thinking about the ending of our story."
+        },
+        {
+          "index": 263,
+          "start": 1664.197,
+          "end": 1667.075,
+          "text": "I'm thinking about what plot twist to throw in."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 111,
+      "intervalle_debut": 1665,
+      "intervalle_fin": 1680,
+      "timecode_debut_extrait": 1665,
+      "timecode_fin_extrait": 1680,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0111_time_1665.00s-1680.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 264,
+          "start": 1667.576,
+          "end": 1669.703,
+          "text": "- Right? - I’m excited about it."
+        },
+        {
+          "index": 265,
+          "start": 1671.787,
+          "end": 1672.83,
+          "text": "Hey!"
+        },
+        {
+          "index": 266,
+          "start": 1672.855,
+          "end": 1675.817,
+          "text": "- Where were you? - Are you laughing?"
+        },
+        {
+          "index": 267,
+          "start": 1676.897,
+          "end": 1677.94,
+          "text": "What’s that?"
+        },
+        {
+          "index": 268,
+          "start": 1678.611,
+          "end": 1680.711,
+          "text": "Oh my god!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 112,
+      "intervalle_debut": 1680,
+      "intervalle_fin": 1695,
+      "timecode_debut_extrait": 1680,
+      "timecode_fin_extrait": 1695,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0112_time_1680.00s-1695.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 269,
+          "start": 1681.601,
+          "end": 1683.007,
+          "text": "Who was it?"
+        },
+        {
+          "index": 270,
+          "start": 1683.142,
+          "end": 1685.061,
+          "text": "That delivery guy,"
+        },
+        {
+          "index": 271,
+          "start": 1686.886,
+          "end": 1688.429,
+          "text": "his body's fit!"
+        },
+        {
+          "index": 272,
+          "start": 1690.178,
+          "end": 1691.403,
+          "text": "And he was down for it."
+        },
+        {
+          "index": 273,
+          "start": 1692.847,
+          "end": 1696.804,
+          "text": "Oh my god, Love, keep up!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 113,
+      "intervalle_debut": 1695,
+      "intervalle_fin": 1710,
+      "timecode_debut_extrait": 1695,
+      "timecode_fin_extrait": 1710,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0113_time_1695.00s-1710.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 274,
+          "start": 1697.344,
+          "end": 1698.671,
+          "text": "Just calm down."
+        },
+        {
+          "index": 275,
+          "start": 1707.068,
+          "end": 1709.163,
+          "text": "I wonder why Boei isn't taking our bait."
+        },
+        {
+          "index": 276,
+          "start": 1709.188,
+          "end": 1712.671,
+          "text": "Maybe we're just not his type."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 114,
+      "intervalle_debut": 1710,
+      "intervalle_fin": 1725,
+      "timecode_debut_extrait": 1710,
+      "timecode_fin_extrait": 1725,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0114_time_1710.00s-1725.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 277,
+          "start": 1713.905,
+          "end": 1718.265,
+          "text": "Don’t they say, “No man can resist temptation”?"
+        },
+        {
+          "index": 278,
+          "start": 1718.344,
+          "end": 1720.499,
+          "text": "Not all men."
+        },
+        {
+          "index": 279,
+          "start": 1721.03,
+          "end": 1722.881,
+          "text": "Maybe he's still afraid,"
+        },
+        {
+          "index": 280,
+          "start": 1723.321,
+          "end": 1725.483,
+          "text": "or maybe he’s just not ready."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 115,
+      "intervalle_debut": 1725,
+      "intervalle_fin": 1740,
+      "timecode_debut_extrait": 1725,
+      "timecode_fin_extrait": 1740,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0115_time_1725.00s-1740.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 281,
+          "start": 1727.461,
+          "end": 1729.857,
+          "text": "Come to think of it, I've never had a relationship"
+        },
+        {
+          "index": 282,
+          "start": 1729.882,
+          "end": 1731.473,
+          "text": "with someone from the province before."
+        },
+        {
+          "index": 283,
+          "start": 1731.975,
+          "end": 1734.144,
+          "text": "Maybe he’s gay?"
+        },
+        {
+          "index": 284,
+          "start": 1735.763,
+          "end": 1739.35,
+          "text": "He just wasn’t in to you, so he’s gay?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 116,
+      "intervalle_debut": 1740,
+      "intervalle_fin": 1755,
+      "timecode_debut_extrait": 1740,
+      "timecode_fin_extrait": 1755,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0116_time_1740.00s-1755.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 285,
+          "start": 1740.669,
+          "end": 1742.928,
+          "text": "There are really people like that,"
+        },
+        {
+          "index": 286,
+          "start": 1743.255,
+          "end": 1746.216,
+          "text": "some are bisexual, some are discreet,"
+        },
+        {
+          "index": 287,
+          "start": 1747.061,
+          "end": 1748.46,
+          "text": "right, Love?"
+        },
+        {
+          "index": 288,
+          "start": 1754.765,
+          "end": 1757.04,
+          "text": "- Where are you going? - To the restroom."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 117,
+      "intervalle_debut": 1755,
+      "intervalle_fin": 1770,
+      "timecode_debut_extrait": 1755,
+      "timecode_fin_extrait": 1770,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0117_time_1755.00s-1770.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 289,
+          "start": 1757.226,
+          "end": 1759.787,
+          "text": "Wait up, I’ll go too!"
+        },
+        {
+          "index": 290,
+          "start": 1759.812,
+          "end": 1763.39,
+          "text": "Hey! Make it fast, we have to finish these!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 118,
+      "intervalle_debut": 1770,
+      "intervalle_fin": 1785,
+      "timecode_debut_extrait": 1770,
+      "timecode_fin_extrait": 1785,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0118_time_1770.00s-1785.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 291,
+          "start": 1775.931,
+          "end": 1777.016,
+          "text": "What?"
+        },
+        {
+          "index": 292,
+          "start": 1777.676,
+          "end": 1779.959,
+          "text": "Nothing, I just want to go too."
+        },
+        {
+          "index": 293,
+          "start": 1780.549,
+          "end": 1782.926,
+          "text": "You think I just followed you?"
+        },
+        {
+          "index": 294,
+          "start": 1784.739,
+          "end": 1785.781,
+          "text": "Hey!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 119,
+      "intervalle_debut": 1785,
+      "intervalle_fin": 1800,
+      "timecode_debut_extrait": 1785,
+      "timecode_fin_extrait": 1800,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0119_time_1785.00s-1800.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 295,
+          "start": 1793.618,
+          "end": 1794.953,
+          "text": "I thought..."
+        },
+        {
+          "index": 296,
+          "start": 1795.704,
+          "end": 1797.622,
+          "text": "we wouldn't go back to this."
+        },
+        {
+          "index": 297,
+          "start": 1797.872,
+          "end": 1799.499,
+          "text": "It's been so long,"
+        },
+        {
+          "index": 298,
+          "start": 1799.91,
+          "end": 1802.658,
+          "text": "I miss what we used to do."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 120,
+      "intervalle_debut": 1800,
+      "intervalle_fin": 1815,
+      "timecode_debut_extrait": 1800,
+      "timecode_fin_extrait": 1815,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0120_time_1800.00s-1815.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 299,
+          "start": 1803.189,
+          "end": 1805.733,
+          "text": "Just because I'm not getting a boyfriend,"
+        },
+        {
+          "index": 300,
+          "start": 1806.946,
+          "end": 1811.244,
+          "text": "- it doesn't mean I still want you. - Don’t you want me anymore?"
+        },
+        {
+          "index": 301,
+          "start": 1811.954,
+          "end": 1815.33,
+          "text": "But back then, you really liked me."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 121,
+      "intervalle_debut": 1815,
+      "intervalle_fin": 1830,
+      "timecode_debut_extrait": 1815,
+      "timecode_fin_extrait": 1830,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0121_time_1815.00s-1830.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 302,
+          "start": 1817.058,
+          "end": 1821.813,
+          "text": "- Don’t you want me? - Minerva, we’re friends."
+        },
+        {
+          "index": 303,
+          "start": 1822.182,
+          "end": 1824.434,
+          "text": "I don't want that to be ruined just because of this."
+        },
+        {
+          "index": 304,
+          "start": 1824.459,
+          "end": 1828.903,
+          "text": "Just give in to me this one time."
+        },
+        {
+          "index": 305,
+          "start": 1829.237,
+          "end": 1830.363,
+          "text": "Please?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 122,
+      "intervalle_debut": 1830,
+      "intervalle_fin": 1845,
+      "timecode_debut_extrait": 1830,
+      "timecode_fin_extrait": 1845,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0122_time_1830.00s-1845.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 306,
+          "start": 1831.756,
+          "end": 1834.634,
+          "text": "Come on, just one kiss."
+        },
+        {
+          "index": 307,
+          "start": 1834.659,
+          "end": 1837.149,
+          "text": "- Just give in. - You’re really persistent!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 123,
+      "intervalle_debut": 1845,
+      "intervalle_fin": 1860,
+      "timecode_debut_extrait": 1845,
+      "timecode_fin_extrait": 1860,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0123_time_1845.00s-1860.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 124,
+      "intervalle_debut": 1860,
+      "intervalle_fin": 1875,
+      "timecode_debut_extrait": 1860,
+      "timecode_fin_extrait": 1875,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0124_time_1860.00s-1875.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 125,
+      "intervalle_debut": 1875,
+      "intervalle_fin": 1890,
+      "timecode_debut_extrait": 1875,
+      "timecode_fin_extrait": 1890,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0125_time_1875.00s-1890.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 126,
+      "intervalle_debut": 1890,
+      "intervalle_fin": 1905,
+      "timecode_debut_extrait": 1890,
+      "timecode_fin_extrait": 1905,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0126_time_1890.00s-1905.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 127,
+      "intervalle_debut": 1905,
+      "intervalle_fin": 1920,
+      "timecode_debut_extrait": 1905,
+      "timecode_fin_extrait": 1920,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0127_time_1905.00s-1920.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 128,
+      "intervalle_debut": 1920,
+      "intervalle_fin": 1935,
+      "timecode_debut_extrait": 1920,
+      "timecode_fin_extrait": 1935,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0128_time_1920.00s-1935.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 129,
+      "intervalle_debut": 1935,
+      "intervalle_fin": 1950,
+      "timecode_debut_extrait": 1935,
+      "timecode_fin_extrait": 1950,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0129_time_1935.00s-1950.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 130,
+      "intervalle_debut": 1950,
+      "intervalle_fin": 1965,
+      "timecode_debut_extrait": 1950,
+      "timecode_fin_extrait": 1965,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0130_time_1950.00s-1965.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 131,
+      "intervalle_debut": 1965,
+      "intervalle_fin": 1980,
+      "timecode_debut_extrait": 1965,
+      "timecode_fin_extrait": 1980,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0131_time_1965.00s-1980.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 132,
+      "intervalle_debut": 1980,
+      "intervalle_fin": 1995,
+      "timecode_debut_extrait": 1980,
+      "timecode_fin_extrait": 1995,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0132_time_1980.00s-1995.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 133,
+      "intervalle_debut": 1995,
+      "intervalle_fin": 2010,
+      "timecode_debut_extrait": 1995,
+      "timecode_fin_extrait": 2010,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0133_time_1995.00s-2010.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 134,
+      "intervalle_debut": 2010,
+      "intervalle_fin": 2025,
+      "timecode_debut_extrait": 2010,
+      "timecode_fin_extrait": 2025,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0134_time_2010.00s-2025.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 135,
+      "intervalle_debut": 2025,
+      "intervalle_fin": 2040,
+      "timecode_debut_extrait": 2025,
+      "timecode_fin_extrait": 2040,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0135_time_2025.00s-2040.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 136,
+      "intervalle_debut": 2040,
+      "intervalle_fin": 2055,
+      "timecode_debut_extrait": 2040,
+      "timecode_fin_extrait": 2055,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0136_time_2040.00s-2055.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 308,
+          "start": 2050.963,
+          "end": 2052.798,
+          "text": "Are you okay, ma’am?"
+        },
+        {
+          "index": 309,
+          "start": 2054.213,
+          "end": 2055.643,
+          "text": "I’m not sure."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 137,
+      "intervalle_debut": 2055,
+      "intervalle_fin": 2070,
+      "timecode_debut_extrait": 2055,
+      "timecode_fin_extrait": 2070,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0137_time_2055.00s-2070.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 310,
+          "start": 2059.588,
+          "end": 2061.761,
+          "text": "Can you stay here with me for a while?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 138,
+      "intervalle_debut": 2070,
+      "intervalle_fin": 2085,
+      "timecode_debut_extrait": 2070,
+      "timecode_fin_extrait": 2085,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0138_time_2070.00s-2085.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 139,
+      "intervalle_debut": 2085,
+      "intervalle_fin": 2100,
+      "timecode_debut_extrait": 2085,
+      "timecode_fin_extrait": 2100,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0139_time_2085.00s-2100.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 311,
+          "start": 2090.725,
+          "end": 2092.276,
+          "text": "Is it true,"
+        },
+        {
+          "index": 312,
+          "start": 2092.948,
+          "end": 2094.533,
+          "text": "that you haven’t had a girlfriend?"
+        },
+        {
+          "index": 313,
+          "start": 2098.065,
+          "end": 2100.549,
+          "text": "Ma’am, the truth is..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 140,
+      "intervalle_debut": 2100,
+      "intervalle_fin": 2115,
+      "timecode_debut_extrait": 2100,
+      "timecode_fin_extrait": 2115,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0140_time_2100.00s-2115.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 314,
+          "start": 2103.739,
+          "end": 2105.574,
+          "text": "I courted someone before."
+        },
+        {
+          "index": 315,
+          "start": 2106.889,
+          "end": 2109.791,
+          "text": "I thought that she loved me."
+        },
+        {
+          "index": 316,
+          "start": 2110.44,
+          "end": 2112.056,
+          "text": "I was hoping."
+        },
+        {
+          "index": 317,
+          "start": 2114.495,
+          "end": 2116.823,
+          "text": "Then one day, I found out that"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 141,
+      "intervalle_debut": 2115,
+      "intervalle_fin": 2130,
+      "timecode_debut_extrait": 2115,
+      "timecode_fin_extrait": 2130,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0141_time_2115.00s-2130.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 318,
+          "start": 2117.881,
+          "end": 2121.088,
+          "text": "she and my friend were already together."
+        },
+        {
+          "index": 319,
+          "start": 2121.446,
+          "end": 2122.739,
+          "text": "Did that hurt you?"
+        },
+        {
+          "index": 320,
+          "start": 2125.365,
+          "end": 2126.408,
+          "text": "Yes, ma’am."
+        },
+        {
+          "index": 321,
+          "start": 2126.823,
+          "end": 2129.705,
+          "text": "And that’s why you don’t want to try again?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 142,
+      "intervalle_debut": 2130,
+      "intervalle_fin": 2145,
+      "timecode_debut_extrait": 2130,
+      "timecode_fin_extrait": 2145,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0142_time_2130.00s-2145.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 322,
+          "start": 2131.914,
+          "end": 2133.582,
+          "text": "It’s not as simple as that, ma’am."
+        },
+        {
+          "index": 323,
+          "start": 2134.042,
+          "end": 2137.336,
+          "text": "I'm also thinking about my family,"
+        },
+        {
+          "index": 324,
+          "start": 2137.801,
+          "end": 2140.807,
+          "text": "because I'm their only hope."
+        },
+        {
+          "index": 325,
+          "start": 2143.024,
+          "end": 2144.067,
+          "text": "I’m sorry."
+        },
+        {
+          "index": 326,
+          "start": 2144.932,
+          "end": 2146.225,
+          "text": "I shouldn’t have asked."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 143,
+      "intervalle_debut": 2145,
+      "intervalle_fin": 2160,
+      "timecode_debut_extrait": 2145,
+      "timecode_fin_extrait": 2160,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0143_time_2145.00s-2160.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 327,
+          "start": 2149.474,
+          "end": 2151.059,
+          "text": "I wanted to confess something to you."
+        },
+        {
+          "index": 328,
+          "start": 2152.268,
+          "end": 2153.311,
+          "text": "What is it?"
+        },
+        {
+          "index": 329,
+          "start": 2154.291,
+          "end": 2155.885,
+          "text": "We made a bet."
+        },
+        {
+          "index": 330,
+          "start": 2157.6,
+          "end": 2159.602,
+          "text": "That whoever has sex with you,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 144,
+      "intervalle_debut": 2160,
+      "intervalle_fin": 2175,
+      "timecode_debut_extrait": 2160,
+      "timecode_fin_extrait": 2175,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0144_time_2160.00s-2175.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 331,
+          "start": 2160.645,
+          "end": 2161.808,
+          "text": "gets a prize."
+        },
+        {
+          "index": 332,
+          "start": 2164.777,
+          "end": 2166.166,
+          "text": "I’m sorry."
+        },
+        {
+          "index": 333,
+          "start": 2174.019,
+          "end": 2176.312,
+          "text": "But I just thought"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 145,
+      "intervalle_debut": 2175,
+      "intervalle_fin": 2190,
+      "timecode_debut_extrait": 2175,
+      "timecode_fin_extrait": 2190,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0145_time_2175.00s-2190.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 334,
+          "start": 2178.121,
+          "end": 2179.706,
+          "text": "that if someone doesn't want to do it,"
+        },
+        {
+          "index": 335,
+          "start": 2181.721,
+          "end": 2183.137,
+          "text": "I'll respect that decision."
+        },
+        {
+          "index": 336,
+          "start": 2183.979,
+          "end": 2186.354,
+          "text": "It's the same with my ex-boyfriend before,"
+        },
+        {
+          "index": 337,
+          "start": 2188.03,
+          "end": 2191.909,
+          "text": "if I didn't want to do it, he’d respect it."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 146,
+      "intervalle_debut": 2190,
+      "intervalle_fin": 2205,
+      "timecode_debut_extrait": 2190,
+      "timecode_fin_extrait": 2205,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0146_time_2190.00s-2205.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 147,
+      "intervalle_debut": 2205,
+      "intervalle_fin": 2220,
+      "timecode_debut_extrait": 2205,
+      "timecode_fin_extrait": 2220,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0147_time_2205.00s-2220.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 148,
+      "intervalle_debut": 2220,
+      "intervalle_fin": 2235,
+      "timecode_debut_extrait": 2220,
+      "timecode_fin_extrait": 2235,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0148_time_2220.00s-2235.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 149,
+      "intervalle_debut": 2235,
+      "intervalle_fin": 2250,
+      "timecode_debut_extrait": 2235,
+      "timecode_fin_extrait": 2250,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0149_time_2235.00s-2250.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 150,
+      "intervalle_debut": 2250,
+      "intervalle_fin": 2265,
+      "timecode_debut_extrait": 2250,
+      "timecode_fin_extrait": 2265,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0150_time_2250.00s-2265.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 151,
+      "intervalle_debut": 2265,
+      "intervalle_fin": 2280,
+      "timecode_debut_extrait": 2265,
+      "timecode_fin_extrait": 2280,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0151_time_2265.00s-2280.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 152,
+      "intervalle_debut": 2280,
+      "intervalle_fin": 2295,
+      "timecode_debut_extrait": 2280,
+      "timecode_fin_extrait": 2295,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0152_time_2280.00s-2295.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 153,
+      "intervalle_debut": 2295,
+      "intervalle_fin": 2310,
+      "timecode_debut_extrait": 2295,
+      "timecode_fin_extrait": 2310,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0153_time_2295.00s-2310.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 154,
+      "intervalle_debut": 2310,
+      "intervalle_fin": 2325,
+      "timecode_debut_extrait": 2310,
+      "timecode_fin_extrait": 2325,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0154_time_2310.00s-2325.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 155,
+      "intervalle_debut": 2325,
+      "intervalle_fin": 2340,
+      "timecode_debut_extrait": 2325,
+      "timecode_fin_extrait": 2340,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0155_time_2325.00s-2340.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 156,
+      "intervalle_debut": 2340,
+      "intervalle_fin": 2355,
+      "timecode_debut_extrait": 2340,
+      "timecode_fin_extrait": 2355,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0156_time_2340.00s-2355.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 157,
+      "intervalle_debut": 2355,
+      "intervalle_fin": 2370,
+      "timecode_debut_extrait": 2355,
+      "timecode_fin_extrait": 2370,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0157_time_2355.00s-2370.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 158,
+      "intervalle_debut": 2370,
+      "intervalle_fin": 2385,
+      "timecode_debut_extrait": 2370,
+      "timecode_fin_extrait": 2385,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0158_time_2370.00s-2385.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 159,
+      "intervalle_debut": 2385,
+      "intervalle_fin": 2400,
+      "timecode_debut_extrait": 2385,
+      "timecode_fin_extrait": 2400,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0159_time_2385.00s-2400.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 160,
+      "intervalle_debut": 2400,
+      "intervalle_fin": 2415,
+      "timecode_debut_extrait": 2400,
+      "timecode_fin_extrait": 2415,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0160_time_2400.00s-2415.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 338,
+          "start": 2403.06,
+          "end": 2406.355,
+          "text": "Wow! What’s up with this?"
+        },
+        {
+          "index": 339,
+          "start": 2406.855,
+          "end": 2408.44,
+          "text": "This is fabulous!"
+        },
+        {
+          "index": 340,
+          "start": 2411.777,
+          "end": 2415.277,
+          "text": "“I think I’m in love, Love.”"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 161,
+      "intervalle_debut": 2415,
+      "intervalle_fin": 2430,
+      "timecode_debut_extrait": 2415,
+      "timecode_fin_extrait": 2430,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0161_time_2415.00s-2430.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 341,
+          "start": 2416.073,
+          "end": 2417.594,
+          "text": "How fabulous!"
+        },
+        {
+          "index": 342,
+          "start": 2419.011,
+          "end": 2422.683,
+          "text": "I think we’ve got a winner!"
+        },
+        {
+          "index": 343,
+          "start": 2423.872,
+          "end": 2424.956,
+          "text": "So?"
+        },
+        {
+          "index": 344,
+          "start": 2426.403,
+          "end": 2427.8,
+          "text": "How many rounds was it?"
+        },
+        {
+          "index": 345,
+          "start": 2428.113,
+          "end": 2429.197,
+          "text": "Was he good?"
+        },
+        {
+          "index": 346,
+          "start": 2429.8,
+          "end": 2430.842,
+          "text": "What?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 162,
+      "intervalle_debut": 2430,
+      "intervalle_fin": 2445,
+      "timecode_debut_extrait": 2430,
+      "timecode_fin_extrait": 2445,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0162_time_2430.00s-2445.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 347,
+          "start": 2431.283,
+          "end": 2433.824,
+          "text": "- We just chatted. - Stop lying."
+        },
+        {
+          "index": 348,
+          "start": 2435.639,
+          "end": 2437.738,
+          "text": "If you guys only chatted,"
+        },
+        {
+          "index": 349,
+          "start": 2437.793,
+          "end": 2439.472,
+          "text": "then why is there food for you?"
+        },
+        {
+          "index": 350,
+          "start": 2439.722,
+          "end": 2441.14,
+          "text": "Flowers too?"
+        },
+        {
+          "index": 351,
+          "start": 2441.597,
+          "end": 2444.13,
+          "text": "A note also? How corny."
+        },
+        {
+          "index": 352,
+          "start": 2444.834,
+          "end": 2447.519,
+          "text": "Why are you always against Love's love life?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 163,
+      "intervalle_debut": 2445,
+      "intervalle_fin": 2460,
+      "timecode_debut_extrait": 2445,
+      "timecode_fin_extrait": 2460,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0163_time_2445.00s-2460.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 353,
+          "start": 2448.013,
+          "end": 2449.762,
+          "text": "Don't you want her to be happy?"
+        },
+        {
+          "index": 354,
+          "start": 2452.343,
+          "end": 2455.293,
+          "text": "Wait, is there something going on here?"
+        },
+        {
+          "index": 355,
+          "start": 2456.308,
+          "end": 2457.475,
+          "text": "Are you guys together?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 164,
+      "intervalle_debut": 2460,
+      "intervalle_fin": 2475,
+      "timecode_debut_extrait": 2460,
+      "timecode_fin_extrait": 2475,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0164_time_2460.00s-2475.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 356,
+          "start": 2462.661,
+          "end": 2465.414,
+          "text": "What? I’m all ears!"
+        },
+        {
+          "index": 357,
+          "start": 2465.915,
+          "end": 2469.597,
+          "text": "Minerva invited us here not just to write."
+        },
+        {
+          "index": 358,
+          "start": 2469.981,
+          "end": 2471.024,
+          "text": "But what?"
+        },
+        {
+          "index": 359,
+          "start": 2472.356,
+          "end": 2473.482,
+          "text": "Tell me!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 165,
+      "intervalle_debut": 2475,
+      "intervalle_fin": 2490,
+      "timecode_debut_extrait": 2475,
+      "timecode_fin_extrait": 2490,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0165_time_2475.00s-2490.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 360,
+          "start": 2475.716,
+          "end": 2479.707,
+          "text": "I knew it! Something’s going on between you two!"
+        },
+        {
+          "index": 361,
+          "start": 2479.98,
+          "end": 2481.023,
+          "text": "There!"
+        },
+        {
+          "index": 362,
+          "start": 2481.236,
+          "end": 2484.564,
+          "text": "There's something about the way you two look at each other."
+        },
+        {
+          "index": 363,
+          "start": 2485.436,
+          "end": 2486.52,
+          "text": "You knew?"
+        },
+        {
+          "index": 364,
+          "start": 2486.769,
+          "end": 2487.77,
+          "text": "Just a hunch."
+        },
+        {
+          "index": 365,
+          "start": 2488.396,
+          "end": 2490.731,
+          "text": "So what happened? Are you still together?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 166,
+      "intervalle_debut": 2490,
+      "intervalle_fin": 2505,
+      "timecode_debut_extrait": 2490,
+      "timecode_fin_extrait": 2505,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0166_time_2490.00s-2505.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 366,
+          "start": 2491.69,
+          "end": 2493.234,
+          "text": "No, that was long ago."
+        },
+        {
+          "index": 367,
+          "start": 2493.734,
+          "end": 2494.944,
+          "text": "I don't know with Mi,"
+        },
+        {
+          "index": 368,
+          "start": 2495.569,
+          "end": 2498.322,
+          "text": "it’s been years and she’s still asking for closure."
+        },
+        {
+          "index": 369,
+          "start": 2498.532,
+          "end": 2500.915,
+          "text": "I just wanted it to happen again."
+        },
+        {
+          "index": 370,
+          "start": 2501.118,
+          "end": 2502.244,
+          "text": "Well, did it?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 167,
+      "intervalle_debut": 2505,
+      "intervalle_fin": 2520,
+      "timecode_debut_extrait": 2505,
+      "timecode_fin_extrait": 2520,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0167_time_2505.00s-2520.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 371,
+          "start": 2506.235,
+          "end": 2507.571,
+          "text": "That’s the end of it."
+        },
+        {
+          "index": 372,
+          "start": 2507.79,
+          "end": 2509.792,
+          "text": "She’s still exploring, and I’m still confused."
+        },
+        {
+          "index": 373,
+          "start": 2510.399,
+          "end": 2512.763,
+          "text": "In short, we’re still not ready."
+        },
+        {
+          "index": 374,
+          "start": 2515.369,
+          "end": 2517.478,
+          "text": "Tonight’s our last night..."
+        },
+        {
+          "index": 375,
+          "start": 2519.468,
+          "end": 2520.511,
+          "text": "You’re right."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 168,
+      "intervalle_debut": 2520,
+      "intervalle_fin": 2535,
+      "timecode_debut_extrait": 2520,
+      "timecode_fin_extrait": 2535,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0168_time_2520.00s-2535.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 376,
+          "start": 2520.803,
+          "end": 2522.471,
+          "text": "So, let’s celebrate?"
+        },
+        {
+          "index": 377,
+          "start": 2523.556,
+          "end": 2524.723,
+          "text": "Celebrate what?"
+        },
+        {
+          "index": 378,
+          "start": 2525.554,
+          "end": 2526.597,
+          "text": "Uhm..."
+        },
+        {
+          "index": 379,
+          "start": 2526.625,
+          "end": 2529.211,
+          "text": "To celebrate our--"
+        },
+        {
+          "index": 380,
+          "start": 2529.895,
+          "end": 2533.759,
+          "text": "never ending exploration! Right?"
+        },
+        {
+          "index": 381,
+          "start": 2534.024,
+          "end": 2535.619,
+          "text": "So, are you down for it?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 169,
+      "intervalle_debut": 2535,
+      "intervalle_fin": 2550,
+      "timecode_debut_extrait": 2535,
+      "timecode_fin_extrait": 2550,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0169_time_2535.00s-2550.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 382,
+          "start": 2535.86,
+          "end": 2538.254,
+          "text": "Come on, let’s celebrate!"
+        },
+        {
+          "index": 383,
+          "start": 2538.279,
+          "end": 2540.865,
+          "text": "I’m an explorer, and so are the both of you."
+        },
+        {
+          "index": 384,
+          "start": 2541.574,
+          "end": 2543.2,
+          "text": "So, let’s celebrate that!"
+        },
+        {
+          "index": 385,
+          "start": 2543.576,
+          "end": 2546.189,
+          "text": "Right? Come on!"
+        },
+        {
+          "index": 386,
+          "start": 2546.704,
+          "end": 2549.915,
+          "text": "I can see you smile. I know you want it."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 170,
+      "intervalle_debut": 2550,
+      "intervalle_fin": 2565,
+      "timecode_debut_extrait": 2550,
+      "timecode_fin_extrait": 2565,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0170_time_2550.00s-2565.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 387,
+          "start": 2550.124,
+          "end": 2553.752,
+          "text": "I can see you’re smiling. Come on, let’s celebrate!"
+        },
+        {
+          "index": 388,
+          "start": 2553.973,
+          "end": 2556.601,
+          "text": "So, we’re good? You’re both good?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 171,
+      "intervalle_debut": 2565,
+      "intervalle_fin": 2580,
+      "timecode_debut_extrait": 2565,
+      "timecode_fin_extrait": 2580,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0171_time_2565.00s-2580.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 172,
+      "intervalle_debut": 2580,
+      "intervalle_fin": 2595,
+      "timecode_debut_extrait": 2580,
+      "timecode_fin_extrait": 2595,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0172_time_2580.00s-2595.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 173,
+      "intervalle_debut": 2595,
+      "intervalle_fin": 2610,
+      "timecode_debut_extrait": 2595,
+      "timecode_fin_extrait": 2610,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0173_time_2595.00s-2610.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 174,
+      "intervalle_debut": 2610,
+      "intervalle_fin": 2625,
+      "timecode_debut_extrait": 2610,
+      "timecode_fin_extrait": 2625,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0174_time_2610.00s-2625.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 175,
+      "intervalle_debut": 2625,
+      "intervalle_fin": 2640,
+      "timecode_debut_extrait": 2625,
+      "timecode_fin_extrait": 2640,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0175_time_2625.00s-2640.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 176,
+      "intervalle_debut": 2640,
+      "intervalle_fin": 2655,
+      "timecode_debut_extrait": 2640,
+      "timecode_fin_extrait": 2655,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0176_time_2640.00s-2655.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 389,
+          "start": 2642.733,
+          "end": 2646.997,
+          "text": "It's a shame we never got to finish our story."
+        },
+        {
+          "index": 390,
+          "start": 2650.432,
+          "end": 2652.701,
+          "text": "There’s still contests in the future."
+        },
+        {
+          "index": 391,
+          "start": 2653.894,
+          "end": 2656.373,
+          "text": "We can still reserve our stories for that."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 177,
+      "intervalle_debut": 2655,
+      "intervalle_fin": 2670,
+      "timecode_debut_extrait": 2655,
+      "timecode_fin_extrait": 2670,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0177_time_2655.00s-2670.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 392,
+          "start": 2657.398,
+          "end": 2658.482,
+          "text": "Right?"
+        },
+        {
+          "index": 393,
+          "start": 2659.316,
+          "end": 2663.696,
+          "text": "Maybe that contest wasn’t really for us."
+        },
+        {
+          "index": 394,
+          "start": 2664.947,
+          "end": 2667.005,
+          "text": "Next time, we'll definitely join."
+        },
+        {
+          "index": 395,
+          "start": 2667.241,
+          "end": 2669.285,
+          "text": "Because we already have a lot of experience, right?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 178,
+      "intervalle_debut": 2670,
+      "intervalle_fin": 2685,
+      "timecode_debut_extrait": 2670,
+      "timecode_fin_extrait": 2685,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0178_time_2670.00s-2685.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 396,
+          "start": 2671.787,
+          "end": 2672.982,
+          "text": "Whatever happens,"
+        },
+        {
+          "index": 397,
+          "start": 2674.053,
+          "end": 2675.638,
+          "text": "we should make sure this happens again."
+        },
+        {
+          "index": 398,
+          "start": 2676.417,
+          "end": 2677.865,
+          "text": "What? The sex part?"
+        },
+        {
+          "index": 399,
+          "start": 2678.711,
+          "end": 2679.753,
+          "text": "Idiot!"
+        },
+        {
+          "index": 400,
+          "start": 2680.838,
+          "end": 2681.922,
+          "text": "This..."
+        },
+        {
+          "index": 401,
+          "start": 2682.423,
+          "end": 2683.507,
+          "text": "Us."
+        },
+        {
+          "index": 402,
+          "start": 2684.8,
+          "end": 2686.218,
+          "text": "I really missed you guys."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 179,
+      "intervalle_debut": 2685,
+      "intervalle_fin": 2700,
+      "timecode_debut_extrait": 2685,
+      "timecode_fin_extrait": 2700,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0179_time_2685.00s-2700.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 403,
+          "start": 2687.469,
+          "end": 2689.847,
+          "text": "It feels like we've gone back to our college days"
+        },
+        {
+          "index": 404,
+          "start": 2691.427,
+          "end": 2694.131,
+          "text": "with all the crazy things we've done here."
+        },
+        {
+          "index": 405,
+          "start": 2694.852,
+          "end": 2696.27,
+          "text": "Why? What’s wrong with that?"
+        },
+        {
+          "index": 406,
+          "start": 2696.895,
+          "end": 2698.314,
+          "text": "Did we step on anyone?"
+        },
+        {
+          "index": 407,
+          "start": 2698.897,
+          "end": 2700.24,
+          "text": "Ride someone, yes,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 180,
+      "intervalle_debut": 2700,
+      "intervalle_fin": 2715,
+      "timecode_debut_extrait": 2700,
+      "timecode_fin_extrait": 2715,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0180_time_2700.00s-2715.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 408,
+          "start": 2700.265,
+          "end": 2701.634,
+          "text": "but stepped on someone, none!"
+        },
+        {
+          "index": 409,
+          "start": 2714.913,
+          "end": 2717.677,
+          "text": "True, we're free,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 181,
+      "intervalle_debut": 2715,
+      "intervalle_fin": 2730,
+      "timecode_debut_extrait": 2715,
+      "timecode_fin_extrait": 2730,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0181_time_2715.00s-2730.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 410,
+          "start": 2718.542,
+          "end": 2722.504,
+          "text": "and we won't let anyone's judgment confine us."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 182,
+      "intervalle_debut": 2730,
+      "intervalle_fin": 2745,
+      "timecode_debut_extrait": 2730,
+      "timecode_fin_extrait": 2745,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0182_time_2730.00s-2745.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 183,
+      "intervalle_debut": 2745,
+      "intervalle_fin": 2760,
+      "timecode_debut_extrait": 2745,
+      "timecode_fin_extrait": 2760,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0183_time_2745.00s-2760.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 184,
+      "intervalle_debut": 2760,
+      "intervalle_fin": 2775,
+      "timecode_debut_extrait": 2760,
+      "timecode_fin_extrait": 2775,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0184_time_2760.00s-2775.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 185,
+      "intervalle_debut": 2775,
+      "intervalle_fin": 2790,
+      "timecode_debut_extrait": 2775,
+      "timecode_fin_extrait": 2790,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0185_time_2775.00s-2790.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 186,
+      "intervalle_debut": 2790,
+      "intervalle_fin": 2805,
+      "timecode_debut_extrait": 2790,
+      "timecode_fin_extrait": 2805,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0186_time_2790.00s-2805.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 187,
+      "intervalle_debut": 2805,
+      "intervalle_fin": 2820,
+      "timecode_debut_extrait": 2805,
+      "timecode_fin_extrait": 2820,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0187_time_2805.00s-2820.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 188,
+      "intervalle_debut": 2820,
+      "intervalle_fin": 2835,
+      "timecode_debut_extrait": 2820,
+      "timecode_fin_extrait": 2835,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0188_time_2820.00s-2835.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 189,
+      "intervalle_debut": 2835,
+      "intervalle_fin": 2850,
+      "timecode_debut_extrait": 2835,
+      "timecode_fin_extrait": 2850,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0189_time_2835.00s-2850.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 190,
+      "intervalle_debut": 2850,
+      "intervalle_fin": 2865,
+      "timecode_debut_extrait": 2850,
+      "timecode_fin_extrait": 2865,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0190_time_2850.00s-2865.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 191,
+      "intervalle_debut": 2865,
+      "intervalle_fin": 2880,
+      "timecode_debut_extrait": 2865,
+      "timecode_fin_extrait": 2880,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0191_time_2865.00s-2880.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 192,
+      "intervalle_debut": 2880,
+      "intervalle_fin": 2895,
+      "timecode_debut_extrait": 2880,
+      "timecode_fin_extrait": 2895,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0192_time_2880.00s-2895.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 193,
+      "intervalle_debut": 2895,
+      "intervalle_fin": 2908.074,
+      "timecode_debut_extrait": 2895,
+      "timecode_fin_extrait": 2908.074,
+      "video_path": "analyse\\videos\\Kulong 2024 1080p Tagalog WEB-DL HEVC x265 5.1 BONE\\interval_0193_time_2895.00s-2908.07s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    }
+  ]
+}

@@ -1,0 +1,5256 @@
+{
+  "movie_id": "Aliens of the Deep (2005) 1080p BRRip x264 -YTS",
+  "movie_path": "E:\\film_oral\\Aliens of the Deep (2005)\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS.mp4",
+  "subtitle_path": "E:\\film_oral\\Aliens of the Deep (2005)\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS.en.srt",
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 182,
+  "dossier_videos": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS",
+  "date_traitement": "2026-02-15T16:14:41.821551",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 1,
+          "start": 54.56,
+          "end": 59.2,
+          "text": "At the centre of our existence is a powerful dynamo."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 2,
+          "start": 61.72,
+          "end": 64.12,
+          "text": "The sun."
+        },
+        {
+          "index": 3,
+          "start": 64.2,
+          "end": 68.92,
+          "text": "It gives us heat and light, and drives the great engine of life."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 4,
+          "start": 101.72,
+          "end": 105.08,
+          "text": "It's the food chain, and we're all a part of it."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 5,
+          "start": 107.56,
+          "end": 112.2,
+          "text": "No matter who you are, even if you're a hardcore meat-eater,"
+        },
+        {
+          "index": 6,
+          "start": 112.28,
+          "end": 116.84,
+          "text": "your dinner started with plants somewhere turning sunlight into food."
+        },
+        {
+          "index": 7,
+          "start": 116.92,
+          "end": 120.12,
+          "text": "So we are, all of us,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 8,
+          "start": 120.56,
+          "end": 122.64,
+          "text": "solar powered."
+        },
+        {
+          "index": 9,
+          "start": 128.44,
+          "end": 132.72,
+          "text": "Maybe the ancient Egyptians were right to worship the sun."
+        },
+        {
+          "index": 10,
+          "start": 132.76,
+          "end": 136.92,
+          "text": "For four billion years, the sun has given life to everything,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 11,
+          "start": 137.0,
+          "end": 139.8,
+          "text": "on land, and in the sea."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 12,
+          "start": 157.08,
+          "end": 158.72,
+          "text": "Rover One, this is Rover Two,"
+        },
+        {
+          "index": 13,
+          "start": 158.8,
+          "end": 163.8,
+          "text": "We are at the edge of the wall and are beginning our descent, Over,"
+        },
+        {
+          "index": 14,
+          "start": 163.84,
+          "end": 168.36,
+          "text": "My name's Dijanna Figueroa, and I'm a PhD student at UC Santa Barbara."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 15,
+          "start": 168.44,
+          "end": 172.2,
+          "text": "- This is cool, - Copy that. Starting descent. Over."
+        },
+        {
+          "index": 16,
+          "start": 172.28,
+          "end": 175.6,
+          "text": "I think I have one of the coolest jobs in the world."
+        },
+        {
+          "index": 17,
+          "start": 175.68,
+          "end": 178.28,
+          "text": "Check out those corkscrew coral down there,"
+        },
+        {
+          "index": 18,
+          "start": 178.36,
+          "end": 181.88,
+          "text": "I'm a marine biologist. I get to go to the bottom of the ocean"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 19,
+          "start": 181.92,
+          "end": 185.4,
+          "text": "and study the amazing organisms that live there."
+        },
+        {
+          "index": 20,
+          "start": 185.48,
+          "end": 188.68,
+          "text": "There's nothing I'd rather be doing."
+        },
+        {
+          "index": 21,
+          "start": 188.76,
+          "end": 191.8,
+          "text": "Rover One, Rover One, do you copy?"
+        },
+        {
+          "index": 22,
+          "start": 194.2,
+          "end": 196.6,
+          "text": "This wall's pretty amazing,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 23,
+          "start": 196.68,
+          "end": 200.76,
+          "text": "We're barely on the edge of photosynthesis right here,"
+        },
+        {
+          "index": 24,
+          "start": 201.24,
+          "end": 203.64,
+          "text": "Ambient light's really going now,"
+        },
+        {
+          "index": 25,
+          "start": 207.72,
+          "end": 212.12,
+          "text": "You're totally reliant on the technology that's in your little bubble"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 26,
+          "start": 212.2,
+          "end": 216.08,
+          "text": "to dive to that depth where it's just a mystery down there."
+        },
+        {
+          "index": 27,
+          "start": 216.12,
+          "end": 218.04,
+          "text": "You never know what you're gonna see."
+        },
+        {
+          "index": 28,
+          "start": 218.12,
+          "end": 221.52,
+          "text": "- Look at all that krill, - Oh, my gosh!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 29,
+          "start": 225.24,
+          "end": 230.12,
+          "text": "Looks like we're in krill heaven over here, Rover One,"
+        },
+        {
+          "index": 30,
+          "start": 230.2,
+          "end": 234.08,
+          "text": "Yeah, roger that. Pretty incredible."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 31,
+          "start": 248.44,
+          "end": 251.48,
+          "text": "Not seeing much of anything alive here, Dijanna, What about you?"
+        },
+        {
+          "index": 32,
+          "start": 251.56,
+          "end": 255.88,
+          "text": "Not much life at all, I think we're pretty much out of the photic zone,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 33,
+          "start": 255.96,
+          "end": 258.48,
+          "text": "It's like being on the moon, huh?"
+        },
+        {
+          "index": 34,
+          "start": 258.52,
+          "end": 260.44,
+          "text": "Copy that,"
+        },
+        {
+          "index": 35,
+          "start": 262.68,
+          "end": 264.92,
+          "text": "Hey, look, we got a crinoid right down here,"
+        },
+        {
+          "index": 36,
+          "start": 265.0,
+          "end": 269.0,
+          "text": "Hey, Dijanna, we got a crinoid here. We finally found a citizen."
+        },
+        {
+          "index": 37,
+          "start": 269.08,
+          "end": 271.64,
+          "text": "Copy that,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 38,
+          "start": 271.68,
+          "end": 274.6,
+          "text": "Yeah, it looks like we're getting deeper, and most of the animals down here"
+        },
+        {
+          "index": 39,
+          "start": 274.68,
+          "end": 278.96,
+          "text": "look like they're suspension feeders, or particle feeders,"
+        },
+        {
+          "index": 40,
+          "start": 279.04,
+          "end": 284.72,
+          "text": "With no light from the surface, not much can survive down here."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 41,
+          "start": 285.68,
+          "end": 289.28,
+          "text": "But there are places in the ocean where sunlight has never reached,"
+        },
+        {
+          "index": 42,
+          "start": 289.36,
+          "end": 294.52,
+          "text": "not since the world began, and yet amazing life forms thrive there."
+        },
+        {
+          "index": 43,
+          "start": 295.28,
+          "end": 299.76,
+          "text": "So when I was invited to join the new expedition to explore these places,"
+        },
+        {
+          "index": 44,
+          "start": 299.8,
+          "end": 302.2,
+          "text": "I had to say yes."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 45,
+          "start": 305.56,
+          "end": 307.76,
+          "text": "\"Keldysh,\" \"Keldysh,\" \"Ares\" bridge."
+        },
+        {
+          "index": 46,
+          "start": 307.8,
+          "end": 310.28,
+          "text": "Yeah, Dave, we're about to begin dive reef right now,"
+        },
+        {
+          "index": 47,
+          "start": 310.36,
+          "end": 313.8,
+          "text": "We got MIR One going into the water at..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 48,
+          "start": 316.04,
+          "end": 319.44,
+          "text": "Like this, so that we've got a central area to work, Rover One is gonna stay..."
+        },
+        {
+          "index": 49,
+          "start": 319.48,
+          "end": 321.96,
+          "text": "I'm Jim Cameron, and here's the deal."
+        },
+        {
+          "index": 50,
+          "start": 322.04,
+          "end": 323.92,
+          "text": "I love this stuff."
+        },
+        {
+          "index": 51,
+          "start": 324.0,
+          "end": 328.16,
+          "text": "Exploration. Real honest-to-God deep ocean exploration."
+        },
+        {
+          "index": 52,
+          "start": 328.24,
+          "end": 333.16,
+          "text": "This is way more exciting than any made-up Hollywood special effects."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 53,
+          "start": 333.24,
+          "end": 336.72,
+          "text": "These deep ocean expeditions always seem like space missions to me."
+        },
+        {
+          "index": 54,
+          "start": 336.76,
+          "end": 340.36,
+          "text": "So, why not combine outer space and inner space?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 55,
+          "start": 350.84,
+          "end": 352.76,
+          "text": "Sure, we'll take marine biologists."
+        },
+        {
+          "index": 56,
+          "start": 352.84,
+          "end": 357.68,
+          "text": "But why not take astrobiologists and space researchers?"
+        },
+        {
+          "index": 57,
+          "start": 357.72,
+          "end": 360.4,
+          "text": "So that's how a bunch of space scientists wound up out here,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 58,
+          "start": 360.44,
+          "end": 362.64,
+          "text": "a thousand miles from the nearest land,"
+        },
+        {
+          "index": 59,
+          "start": 362.68,
+          "end": 365.28,
+          "text": "where, right under our feet, down in the darkness,"
+        },
+        {
+          "index": 60,
+          "start": 365.36,
+          "end": 369.8,
+          "text": "are the most insane alien life forms that have ever been discovered."
+        },
+        {
+          "index": 61,
+          "start": 369.88,
+          "end": 371.72,
+          "text": "Two ships,"
+        },
+        {
+          "index": 62,
+          "start": 371.8,
+          "end": 374.08,
+          "text": "four manned submersibles,"
+        },
+        {
+          "index": 63,
+          "start": 374.16,
+          "end": 378.96,
+          "text": "forty dives at ten sites in both the Atlantic and Pacific."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 64,
+          "start": 380.68,
+          "end": 383.32,
+          "text": "I like big operations, but this one was off the hook."
+        },
+        {
+          "index": 65,
+          "start": 383.4,
+          "end": 388.16,
+          "text": "So we'll come down together, like this, and we'll try to stay a couple of meters apart,"
+        },
+        {
+          "index": 66,
+          "start": 388.24,
+          "end": 390.08,
+          "text": "because we don't want to drift off,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 67,
+          "start": 390.16,
+          "end": 393.12,
+          "text": "If the communications are compromised with the multiple subs in the water,"
+        },
+        {
+          "index": 68,
+          "start": 393.2,
+          "end": 396.52,
+          "text": "all working on the same frequency, some in Russian, some in English,"
+        },
+        {
+          "index": 69,
+          "start": 396.6,
+          "end": 398.84,
+          "text": "I want to make sure we stay on visual..."
+        },
+        {
+          "index": 70,
+          "start": 398.92,
+          "end": 401.52,
+          "text": "The plan was to coordinate a four-sub dive,"
+        },
+        {
+          "index": 71,
+          "start": 401.56,
+          "end": 406.72,
+          "text": "using both ships, so two MIRs and two Rovers could rendezvous at the bottom."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 72,
+          "start": 406.8,
+          "end": 409.24,
+          "text": "This would be a world first."
+        },
+        {
+          "index": 73,
+          "start": 409.32,
+          "end": 411.84,
+          "text": "- Hi, - Dr, Sagalevitch,"
+        },
+        {
+          "index": 74,
+          "start": 411.92,
+          "end": 414.8,
+          "text": "Anatoly Sagalevitch heads the Manned Submersibles Laboratory"
+        },
+        {
+          "index": 75,
+          "start": 414.84,
+          "end": 417.24,
+          "text": "for the Russian Academy of Sciences."
+        },
+        {
+          "index": 76,
+          "start": 417.32,
+          "end": 419.44,
+          "text": "We've been working together for almost a decade."
+        },
+        {
+          "index": 77,
+          "start": 419.48,
+          "end": 421.12,
+          "text": "There we are,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 78,
+          "start": 421.2,
+          "end": 423.32,
+          "text": "The adventurers,"
+        },
+        {
+          "index": 79,
+          "start": 423.36,
+          "end": 427.2,
+          "text": "It's all his fault that we're doing this, because we did Titanic twice,"
+        },
+        {
+          "index": 80,
+          "start": 427.28,
+          "end": 429.56,
+          "text": "in '95 and '01, and we did Bismarck."
+        },
+        {
+          "index": 81,
+          "start": 429.64,
+          "end": 432.28,
+          "text": "Sometime around the middle of Bismarck, Anatoly says:"
+        },
+        {
+          "index": 82,
+          "start": 432.36,
+          "end": 434.36,
+          "text": "\"You know, these wrecks are good, they're interesting,"
+        },
+        {
+          "index": 83,
+          "start": 434.44,
+          "end": 436.64,
+          "text": "but you have to do something real,\""
+        }
+      ]
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 84,
+          "start": 436.72,
+          "end": 439.2,
+          "text": "\"We have to do some science, Something real,\""
+        },
+        {
+          "index": 85,
+          "start": 440.04,
+          "end": 443.16,
+          "text": "Genya Chernaiev is one of the Russian MIR pilots."
+        },
+        {
+          "index": 86,
+          "start": 443.2,
+          "end": 446.28,
+          "text": "He's been flying submersibles for over 20 years now."
+        },
+        {
+          "index": 87,
+          "start": 446.36,
+          "end": 449.6,
+          "text": "The most important thing about this boat, of course, is the view,"
+        },
+        {
+          "index": 88,
+          "start": 449.68,
+          "end": 452.16,
+          "text": "320 degrees unobstructed,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0030_time_450.00s-465.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 89,
+          "start": 452.24,
+          "end": 454.48,
+          "text": "This view makes the Rovers unique,"
+        },
+        {
+          "index": 90,
+          "start": 454.52,
+          "end": 458.24,
+          "text": "but because of the acrylic sphere, they can't go as deep as the MIRs."
+        },
+        {
+          "index": 91,
+          "start": 458.32,
+          "end": 462.36,
+          "text": "So they'd only be joining us for the Atlantic leg of the journey."
+        },
+        {
+          "index": 92,
+          "start": 463.6,
+          "end": 466.36,
+          "text": "We also had Jake, the little remotely operated 'bot"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 93,
+          "start": 466.4,
+          "end": 470.16,
+          "text": "we'd used to explore the Titanic and Bismarck wrecks."
+        },
+        {
+          "index": 94,
+          "start": 470.2,
+          "end": 474.04,
+          "text": "Jake had been modified to test a variety of sampling tools."
+        },
+        {
+          "index": 95,
+          "start": 474.84,
+          "end": 478.68,
+          "text": "My brother Mike is Jake's inventor and our pilot on this expedition."
+        },
+        {
+          "index": 96,
+          "start": 478.76,
+          "end": 482.96,
+          "text": "His challenge was to steer Jake safely around the volcanically active vent sites,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 97,
+          "start": 483.0,
+          "end": 485.44,
+          "text": "and not fry our little 'bot."
+        },
+        {
+          "index": 98,
+          "start": 485.52,
+          "end": 487.92,
+          "text": "This would hopefully allow us to get up close and personal"
+        },
+        {
+          "index": 99,
+          "start": 488.0,
+          "end": 490.84,
+          "text": "with the creatures we'd come to see."
+        },
+        {
+          "index": 100,
+          "start": 490.88,
+          "end": 494.2,
+          "text": "We've checked the decks twice, all the rigging looks squared away,"
+        },
+        {
+          "index": 101,
+          "start": 494.28,
+          "end": 496.6,
+          "text": "My other brother was with us too."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 102,
+          "start": 496.64,
+          "end": 500.44,
+          "text": "JD was the safety and communications officer on board the \"Ares.\""
+        },
+        {
+          "index": 103,
+          "start": 500.48,
+          "end": 503.44,
+          "text": "Or, as he called it, \"crap job number 27.\""
+        },
+        {
+          "index": 104,
+          "start": 503.52,
+          "end": 507.4,
+          "text": "Our launch procedure is as per the book, Everything's straightforward,"
+        },
+        {
+          "index": 105,
+          "start": 507.48,
+          "end": 511.44,
+          "text": "She's first, she's second, Recovery is determined by Jim from the bottom,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 106,
+          "start": 511.48,
+          "end": 513.24,
+          "text": "Now, recovery can go either way,"
+        },
+        {
+          "index": 107,
+          "start": 517.08,
+          "end": 521.52,
+          "text": "We chose the \"Ares\" for the giant A-frame at her stern."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 108,
+          "start": 531.96,
+          "end": 534.96,
+          "text": "Its massive hydraulic cylinders can lift the sub off the deck"
+        },
+        {
+          "index": 109,
+          "start": 535.0,
+          "end": 537.4,
+          "text": "and out over the water with ease."
+        },
+        {
+          "index": 110,
+          "start": 537.48,
+          "end": 542.32,
+          "text": "It's one of the safest ways to launch a large payload off of any ship,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 111,
+          "start": 542.36,
+          "end": 546.04,
+          "text": "and we constantly tested our procedures until we had everything dialed in"
+        },
+        {
+          "index": 112,
+          "start": 546.12,
+          "end": 548.6,
+          "text": "for the upcoming four-sub dive."
+        },
+        {
+          "index": 113,
+          "start": 552.12,
+          "end": 554.64,
+          "text": "All right, let's do this, All stations, let's do this,"
+        },
+        {
+          "index": 114,
+          "start": 554.68,
+          "end": 558.84,
+          "text": "I'm gonna need everybody to keep their ears open, be observant,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 115,
+          "start": 558.88,
+          "end": 561.44,
+          "text": "Keep your eyes open for the lights of the other submersibles,"
+        },
+        {
+          "index": 116,
+          "start": 561.52,
+          "end": 565.24,
+          "text": "And, you know, it's gonna be challenging, But I think we can pull it off,"
+        },
+        {
+          "index": 117,
+          "start": 565.28,
+          "end": 567.88,
+          "text": "All right, here we go, Jacks up!"
+        },
+        {
+          "index": 118,
+          "start": 567.96,
+          "end": 571.16,
+          "text": "Finally, everything was in motion."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 119,
+          "start": 573.6,
+          "end": 576.44,
+          "text": "And in the middle of the North Atlantic,"
+        },
+        {
+          "index": 120,
+          "start": 576.52,
+          "end": 579.64,
+          "text": "a thousand miles from the nearest land,"
+        },
+        {
+          "index": 121,
+          "start": 583.2,
+          "end": 586.56,
+          "text": "our little expedition was about to make history."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 585,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0039_time_585.00s-600.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 122,
+          "start": 586.64,
+          "end": 588.88,
+          "text": "We're in motion, We're in motion,"
+        },
+        {
+          "index": 124,
+          "start": 596.04,
+          "end": 599.16,
+          "text": "Nice and slow, blue winch, Nice and slow,"
+        },
+        {
+          "index": 125,
+          "start": 599.2,
+          "end": 601.6,
+          "text": "- Now we're gunnin' runnin', huh? - Yeah,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "timecode_debut_extrait": 600,
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0040_time_600.00s-615.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 126,
+          "start": 601.68,
+          "end": 604.04,
+          "text": "At least, that was the plan."
+        },
+        {
+          "index": 127,
+          "start": 604.12,
+          "end": 606.4,
+          "text": "All stop, all stop, All stop,"
+        },
+        {
+          "index": 128,
+          "start": 612.08,
+          "end": 614.56,
+          "text": "I copy you, Lima Charlie. The only problem we have right now"
+        },
+        {
+          "index": 129,
+          "start": 614.64,
+          "end": 617.28,
+          "text": "is the A-frame. Over."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 630,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0041_time_615.00s-630.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 130,
+          "start": 617.36,
+          "end": 620.6,
+          "text": "I'll let you know as soon as the crew gets it sorted."
+        },
+        {
+          "index": 131,
+          "start": 620.64,
+          "end": 624.44,
+          "text": "About an hour and 15 minutes ago, we had a safety stop,"
+        },
+        {
+          "index": 132,
+          "start": 624.48,
+          "end": 627.64,
+          "text": "Uh, what we know is the A-frame went south,"
+        },
+        {
+          "index": 133,
+          "start": 628.12,
+          "end": 632.64,
+          "text": "It's a complete breakdown of the cylinder, It ultimately amounts to a cold stop,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "timecode_debut_extrait": 630,
+      "timecode_fin_extrait": 645,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0042_time_630.00s-645.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 134,
+          "start": 632.72,
+          "end": 634.88,
+          "text": "These bolts all shot,"
+        },
+        {
+          "index": 135,
+          "start": 634.96,
+          "end": 639.84,
+          "text": "And all this paint that's been here forever busts loose because of that situation,"
+        },
+        {
+          "index": 136,
+          "start": 639.92,
+          "end": 642.52,
+          "text": "And it happened on that one as well,"
+        },
+        {
+          "index": 137,
+          "start": 643.0,
+          "end": 646.2,
+          "text": "Yeah, right, I mean, we're in the middle of the ocean with a broken A-frame,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "timecode_debut_extrait": 645,
+      "timecode_fin_extrait": 660,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0043_time_645.00s-660.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 138,
+          "start": 646.24,
+          "end": 648.2,
+          "text": "That's what it sounds like to me,"
+        },
+        {
+          "index": 139,
+          "start": 648.28,
+          "end": 650.28,
+          "text": "How you gonna get that fixed up?"
+        },
+        {
+          "index": 140,
+          "start": 650.36,
+          "end": 654.04,
+          "text": "Call A-frames\"R\"Us? You know, have their little service ship come by?"
+        },
+        {
+          "index": 141,
+          "start": 654.12,
+          "end": 656.84,
+          "text": "Thousand miles from shore?"
+        },
+        {
+          "index": 142,
+          "start": 657.72,
+          "end": 659.12,
+          "text": "We don't have to move on it immediately,"
+        },
+        {
+          "index": 143,
+          "start": 659.2,
+          "end": 663.56,
+          "text": "but it's at least something we need to start processing,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "timecode_debut_extrait": 660,
+      "timecode_fin_extrait": 675,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0044_time_660.00s-675.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 144,
+          "start": 665.2,
+          "end": 667.36,
+          "text": "Well, I mean, if they can't fix this,"
+        },
+        {
+          "index": 145,
+          "start": 667.44,
+          "end": 671.32,
+          "text": "and we don't have an alternate way of launching the sub, it's over,"
+        },
+        {
+          "index": 146,
+          "start": 671.4,
+          "end": 673.36,
+          "text": "the expedition's over,"
+        },
+        {
+          "index": 147,
+          "start": 674.64,
+          "end": 676.72,
+          "text": "If you are going to explore, you have to accept the fact"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "timecode_debut_extrait": 675,
+      "timecode_fin_extrait": 690,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0045_time_675.00s-690.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 148,
+          "start": 676.8,
+          "end": 679.72,
+          "text": "that on the one hand there's risk. You have to stay up all night long"
+        },
+        {
+          "index": 149,
+          "start": 679.8,
+          "end": 682.36,
+          "text": "thinking about every single factor that's involved in what you're doing,"
+        },
+        {
+          "index": 150,
+          "start": 682.44,
+          "end": 684.6,
+          "text": "and making sure that you've thought of everything."
+        },
+        {
+          "index": 151,
+          "start": 684.68,
+          "end": 687.2,
+          "text": "'Cause if you can eliminate all the things you can think of,"
+        },
+        {
+          "index": 152,
+          "start": 687.28,
+          "end": 690.4,
+          "text": "you've eliminated nine-tenths of what can go wrong,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "timecode_debut_extrait": 690,
+      "timecode_fin_extrait": 705,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0046_time_690.00s-705.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 153,
+          "start": 690.48,
+          "end": 694.52,
+          "text": "That way, when that last one-tenth pops up, and you're in the middle of it,"
+        },
+        {
+          "index": 154,
+          "start": 694.56,
+          "end": 697.24,
+          "text": "you don't have to worry about all the other stuff 'cause you've dealt with that,"
+        },
+        {
+          "index": 155,
+          "start": 697.32,
+          "end": 702.76,
+          "text": "Look, to be completely serious, your idea about cutting that bulwark away at the side"
+        },
+        {
+          "index": 156,
+          "start": 702.84,
+          "end": 705.16,
+          "text": "is the best idea I've heard for an alternate plan yet,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "timecode_debut_extrait": 705,
+      "timecode_fin_extrait": 720,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0047_time_705.00s-720.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 157,
+          "start": 705.24,
+          "end": 706.64,
+          "text": "Just cut the side right out of the ship,"
+        },
+        {
+          "index": 158,
+          "start": 706.68,
+          "end": 708.8,
+          "text": "I say we go clear that with the captain right now,"
+        },
+        {
+          "index": 159,
+          "start": 708.88,
+          "end": 711.96,
+          "text": "OK, Well, plan B,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "timecode_debut_extrait": 720,
+      "timecode_fin_extrait": 735,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0048_time_720.00s-735.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "timecode_debut_extrait": 735,
+      "timecode_fin_extrait": 750,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0049_time_735.00s-750.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 160,
+          "start": 736.08,
+          "end": 737.8,
+          "text": "All right, we can talk it through tonight,"
+        },
+        {
+          "index": 161,
+          "start": 737.88,
+          "end": 740.6,
+          "text": "but I don't think we should try for an all-up drill tonight,"
+        },
+        {
+          "index": 162,
+          "start": 740.64,
+          "end": 742.52,
+          "text": "I mean, people have been up since 4:30 in the morning,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "timecode_debut_extrait": 750,
+      "timecode_fin_extrait": 765,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0050_time_750.00s-765.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 163,
+          "start": 753.04,
+          "end": 756.64,
+          "text": "It became apparent that the only way to get the subs off the \"Ares\""
+        },
+        {
+          "index": 164,
+          "start": 756.72,
+          "end": 762.16,
+          "text": "was to use the main crane and by sliding the submersibles off the side of the vessel."
+        },
+        {
+          "index": 165,
+          "start": 762.2,
+          "end": 768.24,
+          "text": "With a crane that is 30, 40, 50 feet above the actual pick point of the submersible,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "timecode_debut_extrait": 765,
+      "timecode_fin_extrait": 780,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0051_time_765.00s-780.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 166,
+          "start": 768.28,
+          "end": 772.04,
+          "text": "once an object starts to swing, you can't stop it."
+        },
+        {
+          "index": 167,
+          "start": 773.4,
+          "end": 775.28,
+          "text": "It's called the wrecking-ball effect."
+        },
+        {
+          "index": 168,
+          "start": 775.36,
+          "end": 778.52,
+          "text": "Once it gets away from you, you can't get it back."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "timecode_debut_extrait": 780,
+      "timecode_fin_extrait": 795,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0052_time_780.00s-795.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 169,
+          "start": 781.56,
+          "end": 785.6,
+          "text": "I'm guessing we've got six to eight feet of travel here, I'm thinking we should use..."
+        },
+        {
+          "index": 170,
+          "start": 785.68,
+          "end": 789.12,
+          "text": "It ultimately resulted in Jim writing a 40-page manual"
+        },
+        {
+          "index": 171,
+          "start": 789.2,
+          "end": 791.92,
+          "text": "on what he thought the best way to launch the vessel was."
+        },
+        {
+          "index": 172,
+          "start": 791.96,
+          "end": 793.52,
+          "text": "This eye feeds into that..."
+        },
+        {
+          "index": 173,
+          "start": 793.6,
+          "end": 797.6,
+          "text": "So we spent a long time devising four separate pick points,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "timecode_debut_extrait": 795,
+      "timecode_fin_extrait": 810,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0053_time_795.00s-810.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 174,
+          "start": 797.68,
+          "end": 800.76,
+          "text": "as well as eight different points of connection to the submersible"
+        },
+        {
+          "index": 175,
+          "start": 800.8,
+          "end": 802.72,
+          "text": "to stop it from swaying."
+        },
+        {
+          "index": 176,
+          "start": 806.04,
+          "end": 808.84,
+          "text": "We would practice all night long."
+        },
+        {
+          "index": 177,
+          "start": 808.92,
+          "end": 812.04,
+          "text": "At dawn the following day, we were ready to attempt it for the first time."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "timecode_debut_extrait": 810,
+      "timecode_fin_extrait": 825,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0054_time_810.00s-825.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 178,
+          "start": 812.12,
+          "end": 815.64,
+          "text": "We spent the past 24 hours rebuilding the entire launch and recovery system,"
+        },
+        {
+          "index": 179,
+          "start": 815.72,
+          "end": 820.6,
+          "text": "which required us to cut this wall out, rerig every capstan, rerig every block and tackle,"
+        },
+        {
+          "index": 180,
+          "start": 822.6,
+          "end": 825.2,
+          "text": "We've got about 20 different points of rigging,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "timecode_debut_extrait": 825,
+      "timecode_fin_extrait": 840,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0055_time_825.00s-840.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 181,
+          "start": 825.24,
+          "end": 827.8,
+          "text": "Every single point has to be checked by me, by hand,"
+        },
+        {
+          "index": 182,
+          "start": 827.88,
+          "end": 830.44,
+          "text": "Any single point fails, anything,"
+        },
+        {
+          "index": 183,
+          "start": 830.52,
+          "end": 833.24,
+          "text": "from the blue winch to the cable itself, snaps, breaks,"
+        },
+        {
+          "index": 184,
+          "start": 833.32,
+          "end": 837.2,
+          "text": "not only do we lose the sub, but we risk the chance of losing somebody on the deck,"
+        },
+        {
+          "index": 185,
+          "start": 837.28,
+          "end": 840.6,
+          "text": "I'm looking at every pulley under tension, and it's looking at me,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "timecode_debut_extrait": 840,
+      "timecode_fin_extrait": 855,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0056_time_840.00s-855.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 186,
+          "start": 845.48,
+          "end": 848.0,
+          "text": "Keldysh, be advised, we are go for launch ops,"
+        },
+        {
+          "index": 187,
+          "start": 848.08,
+          "end": 851.6,
+          "text": "Deck crew, be advised we have 15 minutes before we start launch operation,"
+        },
+        {
+          "index": 188,
+          "start": 851.68,
+          "end": 853.84,
+          "text": "- Paul? - Yeah, roger that, DP control,"
+        },
+        {
+          "index": 189,
+          "start": 853.88,
+          "end": 857.68,
+          "text": "MIR One's going into the water right now,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "timecode_debut_extrait": 855,
+      "timecode_fin_extrait": 870,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0057_time_855.00s-870.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 190,
+          "start": 857.76,
+          "end": 860.48,
+          "text": "Let's see the crane, guys,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "timecode_debut_extrait": 870,
+      "timecode_fin_extrait": 885,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0058_time_870.00s-885.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 191,
+          "start": 882.76,
+          "end": 885.4,
+          "text": "- Oh, yes, - Stow that, get on the line,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "timecode_debut_extrait": 885,
+      "timecode_fin_extrait": 900,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0059_time_885.00s-900.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 192,
+          "start": 885.44,
+          "end": 887.36,
+          "text": "Bye-bye,"
+        },
+        {
+          "index": 193,
+          "start": 889.0,
+          "end": 891.0,
+          "text": "Tim, Straps off,"
+        },
+        {
+          "index": 194,
+          "start": 896.88,
+          "end": 900.6,
+          "text": "Keep going, keep going, keep going, keep going, keep going, keep going,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "timecode_debut_extrait": 900,
+      "timecode_fin_extrait": 915,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0060_time_900.00s-915.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "timecode_debut_extrait": 915,
+      "timecode_fin_extrait": 930,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0061_time_915.00s-930.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 195,
+          "start": 923.48,
+          "end": 927.52,
+          "text": "DP control to \"Keldysh.\" MIRs are beginning their descent. Over."
+        },
+        {
+          "index": 196,
+          "start": 928.08,
+          "end": 931.12,
+          "text": "Say goodbye to the surface world,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "timecode_debut_extrait": 930,
+      "timecode_fin_extrait": 945,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0062_time_930.00s-945.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 197,
+          "start": 933.24,
+          "end": 935.4,
+          "text": "I love this part,"
+        },
+        {
+          "index": 198,
+          "start": 936.12,
+          "end": 938.48,
+          "text": "Everything is a go, We're ready to vent,"
+        },
+        {
+          "index": 199,
+          "start": 938.52,
+          "end": 941.16,
+          "text": "SO, SO, Rover One,"
+        },
+        {
+          "index": 200,
+          "start": 941.24,
+          "end": 942.64,
+          "text": "Go ahead, Rover One."
+        },
+        {
+          "index": 201,
+          "start": 942.68,
+          "end": 946.56,
+          "text": "We are about to start our tandem descent,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "timecode_debut_extrait": 945,
+      "timecode_fin_extrait": 960,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0063_time_945.00s-960.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 203,
+          "start": 948.72,
+          "end": 951.8,
+          "text": "OK, here we go, And three, two, one..."
+        },
+        {
+          "index": 204,
+          "start": 951.84,
+          "end": 955.28,
+          "text": "- Venting. Go, go, go. - OK, we're venting now,"
+        },
+        {
+          "index": 205,
+          "start": 955.36,
+          "end": 957.28,
+          "text": "Venting now,"
+        },
+        {
+          "index": 206,
+          "start": 959.44,
+          "end": 962.92,
+          "text": "All right, Rock and roll, Here we go,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "timecode_debut_extrait": 960,
+      "timecode_fin_extrait": 975,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0064_time_960.00s-975.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 207,
+          "start": 972.84,
+          "end": 976.44,
+          "text": "The descent to Lost City takes about 30 minutes,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "timecode_debut_extrait": 975,
+      "timecode_fin_extrait": 990,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0065_time_975.00s-990.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 208,
+          "start": 976.52,
+          "end": 981.28,
+          "text": "which is plenty of time to think about what you're about to do."
+        },
+        {
+          "index": 209,
+          "start": 982.28,
+          "end": 985.16,
+          "text": "My name is Loretta Hidalgo, and I'm an explorer."
+        },
+        {
+          "index": 210,
+          "start": 985.24,
+          "end": 988.92,
+          "text": "Copy that, Rover One, This is Rover Two, hearing you loud and clear,"
+        },
+        {
+          "index": 211,
+          "start": 989.0,
+          "end": 993.64,
+          "text": "My goal is to one day explore the reaches of space."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "timecode_debut_extrait": 990,
+      "timecode_fin_extrait": 1005,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0066_time_990.00s-1005.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 212,
+          "start": 996.88,
+          "end": 1001.52,
+          "text": "- That is the bomb, Yeah! - We're at 840 meters,"
+        },
+        {
+          "index": 213,
+          "start": 1001.56,
+          "end": 1006.84,
+          "text": "Surface, this is Rover Two, We are at 840 meters, We are on the bottom,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "timecode_debut_extrait": 1005,
+      "timecode_fin_extrait": 1020,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0067_time_1005.00s-1020.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 214,
+          "start": 1009.32,
+          "end": 1012.44,
+          "text": "God, these structures are gorgeous,"
+        },
+        {
+          "index": 215,
+          "start": 1012.52,
+          "end": 1016.76,
+          "text": "OK, there's the rendezvous point, and they are right there,"
+        },
+        {
+          "index": 216,
+          "start": 1017.56,
+          "end": 1022.88,
+          "text": "MIR Two, MIR Two, this is Rover Two. Do you copy? Over."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "timecode_debut_extrait": 1020,
+      "timecode_fin_extrait": 1035,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0068_time_1020.00s-1035.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 217,
+          "start": 1024.72,
+          "end": 1028.6,
+          "text": "MIR Two, MIR Two, this is Rover Two, Do you copy?"
+        },
+        {
+          "index": 218,
+          "start": 1028.68,
+          "end": 1034.16,
+          "text": "That's affirmative, Rover Two. We have a very good visual on you."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1035,
+      "timecode_fin_extrait": 1050,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0069_time_1035.00s-1050.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 219,
+          "start": 1036.48,
+          "end": 1040.08,
+          "text": "We were doing something that no humans had ever done."
+        },
+        {
+          "index": 220,
+          "start": 1040.12,
+          "end": 1044.92,
+          "text": "This was the first time that four deep submersibles had ever dived together."
+        },
+        {
+          "index": 221,
+          "start": 1045.0,
+          "end": 1049.24,
+          "text": "The water pressure that you get down at 3,000 feet is mind-boggling."
+        },
+        {
+          "index": 222,
+          "start": 1049.32,
+          "end": 1052.64,
+          "text": "If you've ever carried a bucket of water, you know that's about a foot of water."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "timecode_debut_extrait": 1050,
+      "timecode_fin_extrait": 1065,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0070_time_1050.00s-1065.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 223,
+          "start": 1052.72,
+          "end": 1055.8,
+          "text": "Now imagine being under 3,000 feet of water."
+        },
+        {
+          "index": 224,
+          "start": 1055.88,
+          "end": 1058.56,
+          "text": "And all that weight of all those buckets lined up on your head"
+        },
+        {
+          "index": 225,
+          "start": 1058.64,
+          "end": 1061.72,
+          "text": "are all pressing down on you and on the submarine."
+        },
+        {
+          "index": 226,
+          "start": 1061.76,
+          "end": 1065.04,
+          "text": "Definitely not something that humans were evolved to do."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "timecode_debut_extrait": 1065,
+      "timecode_fin_extrait": 1080,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0071_time_1065.00s-1080.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 227,
+          "start": 1065.08,
+          "end": 1069.28,
+          "text": "OK, Loretta, can you relay to Mike that we are in position for 'bot ops? Over,"
+        },
+        {
+          "index": 228,
+          "start": 1069.76,
+          "end": 1071.88,
+          "text": "Copy,"
+        },
+        {
+          "index": 229,
+          "start": 1071.96,
+          "end": 1075.16,
+          "text": "MIR Two, MIR Two, are you go for 'bot deploy?"
+        },
+        {
+          "index": 230,
+          "start": 1076.76,
+          "end": 1079.88,
+          "text": "Uh, roger that, We'll get set for 'bot ops, Over,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "timecode_debut_extrait": 1080,
+      "timecode_fin_extrait": 1095,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0072_time_1080.00s-1095.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 231,
+          "start": 1080.28,
+          "end": 1082.4,
+          "text": "- OK, There it is, - Yeah, there he is,"
+        },
+        {
+          "index": 232,
+          "start": 1082.48,
+          "end": 1083.8,
+          "text": "There's Jake,"
+        },
+        {
+          "index": 233,
+          "start": 1083.88,
+          "end": 1086.68,
+          "text": "Can you see his tether spinning out?"
+        },
+        {
+          "index": 234,
+          "start": 1086.76,
+          "end": 1089.56,
+          "text": "It's like a spider spinning its web,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "timecode_debut_extrait": 1095,
+      "timecode_fin_extrait": 1110,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0073_time_1095.00s-1110.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 235,
+          "start": 1095.0,
+          "end": 1098.2,
+          "text": "I'm just gonna pull a little tether out here, to the left, into the current,"
+        },
+        {
+          "index": 236,
+          "start": 1098.28,
+          "end": 1100.72,
+          "text": "and then I'll yaw back to the right,"
+        },
+        {
+          "index": 237,
+          "start": 1101.76,
+          "end": 1103.04,
+          "text": "We were really pushing the boundary"
+        },
+        {
+          "index": 238,
+          "start": 1103.12,
+          "end": 1106.16,
+          "text": "of being out in an extreme environment."
+        },
+        {
+          "index": 239,
+          "start": 1107.12,
+          "end": 1112.08,
+          "text": "I had this incredible experience of feeling like I'd been transported into the future."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "timecode_debut_extrait": 1110,
+      "timecode_fin_extrait": 1125,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0074_time_1110.00s-1125.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 240,
+          "start": 1112.12,
+          "end": 1114.16,
+          "text": "Hi, 'bot!"
+        },
+        {
+          "index": 241,
+          "start": 1114.24,
+          "end": 1119.76,
+          "text": "That I was on a space mission, and we were watching another spacecraft"
+        },
+        {
+          "index": 242,
+          "start": 1119.8,
+          "end": 1121.76,
+          "text": "coming up to work with us."
+        },
+        {
+          "index": 243,
+          "start": 1123.76,
+          "end": 1127.84,
+          "text": "Hi, Mike, Get me out of here,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "timecode_debut_extrait": 1125,
+      "timecode_fin_extrait": 1140,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0075_time_1125.00s-1140.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 244,
+          "start": 1127.92,
+          "end": 1130.52,
+          "text": "- Affirmative, - Affirmative,"
+        },
+        {
+          "index": 245,
+          "start": 1139.68,
+          "end": 1144.76,
+          "text": "Push in a tiny bit in here, and I get just right in as close as I can go,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "timecode_debut_extrait": 1140,
+      "timecode_fin_extrait": 1155,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0076_time_1140.00s-1155.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 246,
+          "start": 1148.84,
+          "end": 1151.12,
+          "text": "Oh, wow, Are you seeing the structure?"
+        },
+        {
+          "index": 247,
+          "start": 1151.16,
+          "end": 1153.36,
+          "text": "Yeah, Beautiful,"
+        },
+        {
+          "index": 248,
+          "start": 1153.4,
+          "end": 1158.48,
+          "text": "OK, Mike, If you come right about 30 degrees, and come forward,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "timecode_debut_extrait": 1155,
+      "timecode_fin_extrait": 1170,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0077_time_1155.00s-1170.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 249,
+          "start": 1158.52,
+          "end": 1161.96,
+          "text": "you'll come to a big fan right on the corner of that rock, Over,"
+        },
+        {
+          "index": 250,
+          "start": 1162.04,
+          "end": 1164.08,
+          "text": "Copy that."
+        },
+        {
+          "index": 251,
+          "start": 1166.52,
+          "end": 1169.8,
+          "text": "Oh, this is gorgeous, I feel like I'm out there,"
+        },
+        {
+          "index": 252,
+          "start": 1169.88,
+          "end": 1172.72,
+          "text": "- Are you liking this? - I'm loving this,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "timecode_debut_extrait": 1170,
+      "timecode_fin_extrait": 1185,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0078_time_1170.00s-1185.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 253,
+          "start": 1175.0,
+          "end": 1179.48,
+          "text": "OK, I'm gonna have to come up a little bit, Well, we're doing pretty good here,"
+        },
+        {
+          "index": 254,
+          "start": 1179.56,
+          "end": 1184.28,
+          "text": "I've encountered a little more current than I expected right here,"
+        },
+        {
+          "index": 255,
+          "start": 1184.36,
+          "end": 1186.2,
+          "text": "Oh, my gosh!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1185,
+      "timecode_fin_extrait": 1200,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0079_time_1185.00s-1200.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 256,
+          "start": 1186.24,
+          "end": 1188.4,
+          "text": "Hello, Mr, Big,"
+        },
+        {
+          "index": 257,
+          "start": 1188.44,
+          "end": 1192.56,
+          "text": "He's like, \"Don't even mess with me,\""
+        },
+        {
+          "index": 258,
+          "start": 1192.6,
+          "end": 1195.48,
+          "text": "Oh! Oh, my God,"
+        },
+        {
+          "index": 259,
+          "start": 1198.56,
+          "end": 1200.48,
+          "text": "Wow,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "timecode_debut_extrait": 1200,
+      "timecode_fin_extrait": 1215,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0080_time_1200.00s-1215.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 260,
+          "start": 1203.6,
+          "end": 1205.52,
+          "text": "Wow,"
+        },
+        {
+          "index": 261,
+          "start": 1209.56,
+          "end": 1212.12,
+          "text": "Kevin Hand is one of our astrobiologists."
+        },
+        {
+          "index": 262,
+          "start": 1212.2,
+          "end": 1214.16,
+          "text": "And he's a brilliant guy."
+        },
+        {
+          "index": 263,
+          "start": 1214.2,
+          "end": 1216.04,
+          "text": "Really."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "timecode_debut_extrait": 1215,
+      "timecode_fin_extrait": 1230,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0081_time_1215.00s-1230.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 264,
+          "start": 1216.12,
+          "end": 1219.04,
+          "text": "That's one of the interesting things I think about the Europan ocean,"
+        },
+        {
+          "index": 265,
+          "start": 1219.12,
+          "end": 1222.04,
+          "text": "is that you can ask two questions about life on Europa,"
+        },
+        {
+          "index": 266,
+          "start": 1222.12,
+          "end": 1225.16,
+          "text": "Could life have originated on Europa?"
+        },
+        {
+          "index": 267,
+          "start": 1225.24,
+          "end": 1228.44,
+          "text": "Astrobiology is the study of life on other worlds."
+        },
+        {
+          "index": 268,
+          "start": 1228.48,
+          "end": 1232.88,
+          "text": "But since Kevin doesn't have any real extraterrestrial specimens to analyze yet,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "timecode_debut_extrait": 1230,
+      "timecode_fin_extrait": 1245,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0082_time_1230.00s-1245.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 269,
+          "start": 1232.96,
+          "end": 1235.4,
+          "text": "he's out here doing the next best thing:"
+        },
+        {
+          "index": 270,
+          "start": 1235.48,
+          "end": 1240.2,
+          "text": "Looking at life in the extreme conditions of the deep ocean."
+        },
+        {
+          "index": 271,
+          "start": 1241.48,
+          "end": 1244.68,
+          "text": "He's a theory guy and he's never been to sea before,"
+        },
+        {
+          "index": 272,
+          "start": 1244.76,
+          "end": 1248.52,
+          "text": "let alone inside a submersible headed to the bottom of the ocean."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "timecode_debut_extrait": 1245,
+      "timecode_fin_extrait": 1260,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0083_time_1245.00s-1260.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 273,
+          "start": 1248.6,
+          "end": 1251.24,
+          "text": "Here we go, Into the unknown,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "timecode_debut_extrait": 1260,
+      "timecode_fin_extrait": 1275,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0084_time_1260.00s-1275.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 274,
+          "start": 1269.92,
+          "end": 1275.64,
+          "text": "Rover Two, MIR Two copies you loud and clear now. Loud and clear now."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "timecode_debut_extrait": 1275,
+      "timecode_fin_extrait": 1290,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0085_time_1275.00s-1290.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 276,
+          "start": 1287.6,
+          "end": 1292.04,
+          "text": "Yeah, it looks like it goes down for a long ways,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1305,
+      "timecode_debut_extrait": 1290,
+      "timecode_fin_extrait": 1305,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0086_time_1290.00s-1305.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 277,
+          "start": 1294.36,
+          "end": 1297.12,
+          "text": "MIR Two is right above us,"
+        },
+        {
+          "index": 278,
+          "start": 1297.76,
+          "end": 1302.0,
+          "text": "Very few people get to see MIR Two from this angle,"
+        },
+        {
+          "index": 279,
+          "start": 1302.04,
+          "end": 1304.12,
+          "text": "That is fantastic,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 87,
+      "intervalle_debut": 1305,
+      "intervalle_fin": 1320,
+      "timecode_debut_extrait": 1305,
+      "timecode_fin_extrait": 1320,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0087_time_1305.00s-1320.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 280,
+          "start": 1310.72,
+          "end": 1316.08,
+          "text": "The scale of these things is so much larger than I had imagined,"
+        },
+        {
+          "index": 281,
+          "start": 1316.16,
+          "end": 1318.24,
+          "text": "It's just amazing,"
+        },
+        {
+          "index": 282,
+          "start": 1319.68,
+          "end": 1324.0,
+          "text": "We've got this huge, huge carbonate structure,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 1320,
+      "intervalle_fin": 1335,
+      "timecode_debut_extrait": 1320,
+      "timecode_fin_extrait": 1335,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0088_time_1320.00s-1335.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 283,
+          "start": 1324.08,
+          "end": 1326.0,
+          "text": "Unbelievable,"
+        },
+        {
+          "index": 284,
+          "start": 1326.64,
+          "end": 1331.32,
+          "text": "Copy that. Right rotator going up, rotator going up."
+        },
+        {
+          "index": 285,
+          "start": 1334.16,
+          "end": 1338.36,
+          "text": "It's just the hot water just flowing up and slowly forming stalactites,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 1335,
+      "intervalle_fin": 1350,
+      "timecode_debut_extrait": 1335,
+      "timecode_fin_extrait": 1350,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0089_time_1335.00s-1350.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 286,
+          "start": 1338.4,
+          "end": 1343.96,
+          "text": "Upside-down stalactites are slowly deposited, millennium after millennium,"
+        },
+        {
+          "index": 287,
+          "start": 1345.8,
+          "end": 1347.52,
+          "text": "So what's interesting about these"
+        },
+        {
+          "index": 288,
+          "start": 1347.6,
+          "end": 1350.36,
+          "text": "is that you don't necessarily need plate tectonics,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 90,
+      "intervalle_debut": 1350,
+      "intervalle_fin": 1365,
+      "timecode_debut_extrait": 1350,
+      "timecode_fin_extrait": 1365,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0090_time_1350.00s-1365.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 289,
+          "start": 1350.44,
+          "end": 1356.04,
+          "text": "You need some means for the water to react with the deep mantle rock,"
+        },
+        {
+          "index": 290,
+          "start": 1356.12,
+          "end": 1359.28,
+          "text": "And then you get the serpentinization reaction"
+        },
+        {
+          "index": 291,
+          "start": 1359.32,
+          "end": 1364.2,
+          "text": "which produces the heat that drives the formation of such systems,"
+        },
+        {
+          "index": 292,
+          "start": 1364.28,
+          "end": 1365.68,
+          "text": "It's absolutely phenomenal,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 1365,
+      "intervalle_fin": 1380,
+      "timecode_debut_extrait": 1365,
+      "timecode_fin_extrait": 1380,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0091_time_1365.00s-1380.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 293,
+          "start": 1365.72,
+          "end": 1369.76,
+          "text": "Do you want to go ahead and proceed to the summit? Over."
+        },
+        {
+          "index": 294,
+          "start": 1369.84,
+          "end": 1371.8,
+          "text": "Roger that,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 92,
+      "intervalle_debut": 1380,
+      "intervalle_fin": 1395,
+      "timecode_debut_extrait": 1380,
+      "timecode_fin_extrait": 1395,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0092_time_1380.00s-1395.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 295,
+          "start": 1393.4,
+          "end": 1397.24,
+          "text": "- There's warm water up here, - Yeah,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 93,
+      "intervalle_debut": 1395,
+      "intervalle_fin": 1410,
+      "timecode_debut_extrait": 1395,
+      "timecode_fin_extrait": 1410,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0093_time_1395.00s-1410.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 296,
+          "start": 1399.24,
+          "end": 1403.0,
+          "text": "The vent fluid is just coming right up out of here,"
+        },
+        {
+          "index": 297,
+          "start": 1406.36,
+          "end": 1408.28,
+          "text": "Wow, This is just amazing,"
+        },
+        {
+          "index": 298,
+          "start": 1409.24,
+          "end": 1411.6,
+          "text": "Our technology is just at the level now"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 94,
+      "intervalle_debut": 1410,
+      "intervalle_fin": 1425,
+      "timecode_debut_extrait": 1410,
+      "timecode_fin_extrait": 1425,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0094_time_1410.00s-1425.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 299,
+          "start": 1411.64,
+          "end": 1415.28,
+          "text": "where we can safely explore the depths of our own ocean,"
+        },
+        {
+          "index": 300,
+          "start": 1415.32,
+          "end": 1417.76,
+          "text": "- Kinda friable, - Yeah,"
+        },
+        {
+          "index": 301,
+          "start": 1418.76,
+          "end": 1420.44,
+          "text": "OK,"
+        },
+        {
+          "index": 302,
+          "start": 1421.4,
+          "end": 1423.88,
+          "text": "Yeah! Look at that,"
+        },
+        {
+          "index": 303,
+          "start": 1424.84,
+          "end": 1427.44,
+          "text": "- We got a rock, - Hey, we got a sample,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 95,
+      "intervalle_debut": 1425,
+      "intervalle_fin": 1440,
+      "timecode_debut_extrait": 1425,
+      "timecode_fin_extrait": 1440,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0095_time_1425.00s-1440.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 304,
+          "start": 1433.48,
+          "end": 1435.64,
+          "text": "Rover One, Rover One, this is Rover Two, Do you..."
+        },
+        {
+          "index": 305,
+          "start": 1435.72,
+          "end": 1437.72,
+          "text": "- Oh, my goodness, look at that! - Oh, Christ!"
+        },
+        {
+          "index": 306,
+          "start": 1437.8,
+          "end": 1439.16,
+          "text": "Holy cow,"
+        },
+        {
+          "index": 307,
+          "start": 1439.2,
+          "end": 1441.56,
+          "text": "- OK, stop it, stop it, stop it, - Kevin. You seeing this?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 96,
+      "intervalle_debut": 1440,
+      "intervalle_fin": 1455,
+      "timecode_debut_extrait": 1440,
+      "timecode_fin_extrait": 1455,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0096_time_1440.00s-1455.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 308,
+          "start": 1441.64,
+          "end": 1445.92,
+          "text": "Look at that thing, That is absolutely unreal,"
+        },
+        {
+          "index": 309,
+          "start": 1446.0,
+          "end": 1447.8,
+          "text": "See if you can get your lights right on it."
+        },
+        {
+          "index": 310,
+          "start": 1447.84,
+          "end": 1449.8,
+          "text": "Roger that,"
+        },
+        {
+          "index": 311,
+          "start": 1449.88,
+          "end": 1454.16,
+          "text": "Oh, my goodness, Look at that, it's just amazing,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 97,
+      "intervalle_debut": 1455,
+      "intervalle_fin": 1470,
+      "timecode_debut_extrait": 1455,
+      "timecode_fin_extrait": 1470,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0097_time_1455.00s-1470.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 312,
+          "start": 1455.6,
+          "end": 1457.88,
+          "text": "Oh, man, look at this thing,"
+        },
+        {
+          "index": 313,
+          "start": 1457.96,
+          "end": 1461.0,
+          "text": "Look at this thing, This is incredible,"
+        },
+        {
+          "index": 314,
+          "start": 1469.04,
+          "end": 1472.56,
+          "text": "How can something like that be alive?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 98,
+      "intervalle_debut": 1470,
+      "intervalle_fin": 1485,
+      "timecode_debut_extrait": 1470,
+      "timecode_fin_extrait": 1485,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0098_time_1470.00s-1485.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 315,
+          "start": 1472.64,
+          "end": 1476.92,
+          "text": "How does a creature like this work? That is absolutely phenomenal,"
+        },
+        {
+          "index": 316,
+          "start": 1478.44,
+          "end": 1480.24,
+          "text": "Beautiful,"
+        },
+        {
+          "index": 317,
+          "start": 1481.2,
+          "end": 1483.28,
+          "text": "Absolutely beautiful,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 99,
+      "intervalle_debut": 1485,
+      "intervalle_fin": 1500,
+      "timecode_debut_extrait": 1485,
+      "timecode_fin_extrait": 1500,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0099_time_1485.00s-1500.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 318,
+          "start": 1485.08,
+          "end": 1488.28,
+          "text": "See the reticulation inside this thing? Look at that,"
+        },
+        {
+          "index": 319,
+          "start": 1488.32,
+          "end": 1490.64,
+          "text": "That is amazing,"
+        },
+        {
+          "index": 320,
+          "start": 1492.88,
+          "end": 1494.88,
+          "text": "I have no idea what that is,"
+        },
+        {
+          "index": 321,
+          "start": 1496.72,
+          "end": 1498.64,
+          "text": "- No, - That's what I love about this stuff,"
+        },
+        {
+          "index": 322,
+          "start": 1498.68,
+          "end": 1503.32,
+          "text": "Every single dive, you're gonna see something you've never seen before,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 100,
+      "intervalle_debut": 1500,
+      "intervalle_fin": 1515,
+      "timecode_debut_extrait": 1500,
+      "timecode_fin_extrait": 1515,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0100_time_1500.00s-1515.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 323,
+          "start": 1503.4,
+          "end": 1508.4,
+          "text": "And you might even see something that nobody's ever seen before,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 101,
+      "intervalle_debut": 1515,
+      "intervalle_fin": 1530,
+      "timecode_debut_extrait": 1515,
+      "timecode_fin_extrait": 1530,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0101_time_1515.00s-1530.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 102,
+      "intervalle_debut": 1530,
+      "intervalle_fin": 1545,
+      "timecode_debut_extrait": 1530,
+      "timecode_fin_extrait": 1545,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0102_time_1530.00s-1545.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 324,
+          "start": 1530.84,
+          "end": 1533.0,
+          "text": "Are you seeing this thing? Look at this,"
+        },
+        {
+          "index": 325,
+          "start": 1533.08,
+          "end": 1536.48,
+          "text": "This is, like, the ugliest fish in the world,"
+        },
+        {
+          "index": 326,
+          "start": 1541.88,
+          "end": 1547.52,
+          "text": "Oh, he's got feet! Look, he's got feet, He's got, like, little toe-socks,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 103,
+      "intervalle_debut": 1545,
+      "intervalle_fin": 1560,
+      "timecode_debut_extrait": 1545,
+      "timecode_fin_extrait": 1560,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0103_time_1545.00s-1560.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 327,
+          "start": 1552.28,
+          "end": 1558.0,
+          "text": "The thing about deep diving is you always need to expect the unexpected."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 104,
+      "intervalle_debut": 1560,
+      "intervalle_fin": 1575,
+      "timecode_debut_extrait": 1560,
+      "timecode_fin_extrait": 1575,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0104_time_1560.00s-1575.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 328,
+          "start": 1563.0,
+          "end": 1565.72,
+          "text": "Oh, my God, look at that squid,"
+        },
+        {
+          "index": 329,
+          "start": 1565.8,
+          "end": 1567.92,
+          "text": "Oh, it's massive,"
+        },
+        {
+          "index": 330,
+          "start": 1568.92,
+          "end": 1571.08,
+          "text": "Look, look, look, Quick, look,"
+        },
+        {
+          "index": 331,
+          "start": 1571.16,
+          "end": 1573.68,
+          "text": "See it?"
+        },
+        {
+          "index": 332,
+          "start": 1573.72,
+          "end": 1575.56,
+          "text": "Absolutely fantastic,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 105,
+      "intervalle_debut": 1575,
+      "intervalle_fin": 1590,
+      "timecode_debut_extrait": 1575,
+      "timecode_fin_extrait": 1590,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0105_time_1575.00s-1590.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 106,
+      "intervalle_debut": 1590,
+      "intervalle_fin": 1605,
+      "timecode_debut_extrait": 1590,
+      "timecode_fin_extrait": 1605,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0106_time_1590.00s-1605.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 107,
+      "intervalle_debut": 1605,
+      "intervalle_fin": 1620,
+      "timecode_debut_extrait": 1605,
+      "timecode_fin_extrait": 1620,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0107_time_1605.00s-1620.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 108,
+      "intervalle_debut": 1620,
+      "intervalle_fin": 1635,
+      "timecode_debut_extrait": 1620,
+      "timecode_fin_extrait": 1635,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0108_time_1620.00s-1635.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 333,
+          "start": 1633.36,
+          "end": 1636.04,
+          "text": "Look at that fish, You see that guy?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 109,
+      "intervalle_debut": 1635,
+      "intervalle_fin": 1650,
+      "timecode_debut_extrait": 1635,
+      "timecode_fin_extrait": 1650,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0109_time_1635.00s-1650.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 110,
+      "intervalle_debut": 1650,
+      "intervalle_fin": 1665,
+      "timecode_debut_extrait": 1650,
+      "timecode_fin_extrait": 1665,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0110_time_1650.00s-1665.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 334,
+          "start": 1659.36,
+          "end": 1664.0,
+          "text": "All right, we got us a Dumbo, Been hoping for this for a while,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 111,
+      "intervalle_debut": 1665,
+      "intervalle_fin": 1680,
+      "timecode_debut_extrait": 1665,
+      "timecode_fin_extrait": 1680,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0111_time_1665.00s-1680.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 335,
+          "start": 1668.28,
+          "end": 1672.88,
+          "text": "What a beautiful animal, What a beautiful animal, Look at that,"
+        },
+        {
+          "index": 336,
+          "start": 1672.92,
+          "end": 1674.84,
+          "text": "Like a dancer,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 112,
+      "intervalle_debut": 1680,
+      "intervalle_fin": 1695,
+      "timecode_debut_extrait": 1680,
+      "timecode_fin_extrait": 1695,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0112_time_1680.00s-1695.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 337,
+          "start": 1682.56,
+          "end": 1684.56,
+          "text": "What an amazing creature,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 113,
+      "intervalle_debut": 1695,
+      "intervalle_fin": 1710,
+      "timecode_debut_extrait": 1695,
+      "timecode_fin_extrait": 1710,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0113_time_1695.00s-1710.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 338,
+          "start": 1698.56,
+          "end": 1701.32,
+          "text": "God, you could watch this guy all day,"
+        },
+        {
+          "index": 339,
+          "start": 1701.4,
+          "end": 1704.8,
+          "text": "Almost looks like he's glowing from within,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 114,
+      "intervalle_debut": 1710,
+      "intervalle_fin": 1725,
+      "timecode_debut_extrait": 1710,
+      "timecode_fin_extrait": 1725,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0114_time_1710.00s-1725.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 115,
+      "intervalle_debut": 1725,
+      "intervalle_fin": 1740,
+      "timecode_debut_extrait": 1725,
+      "timecode_fin_extrait": 1740,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0115_time_1725.00s-1740.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 340,
+          "start": 1725.0,
+          "end": 1728.56,
+          "text": "MIR One, MIR One, This is Rover Two, Do you copy?"
+        },
+        {
+          "index": 341,
+          "start": 1728.6,
+          "end": 1733.04,
+          "text": "MIR One, MIR One, do you copy? This is Rover Two."
+        },
+        {
+          "index": 342,
+          "start": 1733.08,
+          "end": 1737.04,
+          "text": "MIR One, MIR One, This is Rover Two, Do you copy?"
+        },
+        {
+          "index": 343,
+          "start": 1737.12,
+          "end": 1741.4,
+          "text": "It's intermittent, Jim, Sometimes yes and sometimes no,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 116,
+      "intervalle_debut": 1740,
+      "intervalle_fin": 1755,
+      "timecode_debut_extrait": 1740,
+      "timecode_fin_extrait": 1755,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0116_time_1740.00s-1755.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 344,
+          "start": 1743.48,
+          "end": 1745.48,
+          "text": "Uh, roger, Mike,"
+        },
+        {
+          "index": 345,
+          "start": 1745.56,
+          "end": 1749.36,
+          "text": "We're seriously low on power and will have to leave the bottom,"
+        },
+        {
+          "index": 346,
+          "start": 1749.44,
+          "end": 1752.12,
+          "text": "I cannot get ahold of Vince,"
+        },
+        {
+          "index": 347,
+          "start": 1752.2,
+          "end": 1754.12,
+          "text": "We must go up,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 117,
+      "intervalle_debut": 1755,
+      "intervalle_fin": 1770,
+      "timecode_debut_extrait": 1755,
+      "timecode_fin_extrait": 1770,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0117_time_1755.00s-1770.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 348,
+          "start": 1756.88,
+          "end": 1759.48,
+          "text": "Genya, We must go up,"
+        },
+        {
+          "index": 349,
+          "start": 1760.44,
+          "end": 1763.6,
+          "text": "Oh, he's trying to say something, about..."
+        },
+        {
+          "index": 350,
+          "start": 1763.64,
+          "end": 1765.68,
+          "text": "He's trying to say... Look out the porthole,"
+        },
+        {
+          "index": 351,
+          "start": 1765.76,
+          "end": 1767.48,
+          "text": "I can't see him,"
+        },
+        {
+          "index": 352,
+          "start": 1767.52,
+          "end": 1769.4,
+          "text": "Can you call surface?"
+        },
+        {
+          "index": 353,
+          "start": 1769.44,
+          "end": 1771.92,
+          "text": "He's saying, \"Up and over\"? Might be,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 118,
+      "intervalle_debut": 1770,
+      "intervalle_fin": 1785,
+      "timecode_debut_extrait": 1770,
+      "timecode_fin_extrait": 1785,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0118_time_1770.00s-1785.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 354,
+          "start": 1772.0,
+          "end": 1776.64,
+          "text": "We need you to contact the surface that we are ascending,"
+        },
+        {
+          "index": 355,
+          "start": 1782.0,
+          "end": 1785.24,
+          "text": "Can't read it, Zoom in, Let's see if you can read the sign,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 119,
+      "intervalle_debut": 1785,
+      "intervalle_fin": 1800,
+      "timecode_debut_extrait": 1785,
+      "timecode_fin_extrait": 1800,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0119_time_1785.00s-1800.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 356,
+          "start": 1789.0,
+          "end": 1792.96,
+          "text": "\"Contact surface, must surface,\" Understood, We'll contact them right now,"
+        },
+        {
+          "index": 357,
+          "start": 1795.52,
+          "end": 1799.84,
+          "text": "Ares surface comm, Rover Two leaving the bottom"
+        },
+        {
+          "index": 358,
+          "start": 1799.92,
+          "end": 1806.12,
+          "text": "at X minus 244, Y minus 25,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 120,
+      "intervalle_debut": 1800,
+      "intervalle_fin": 1815,
+      "timecode_debut_extrait": 1800,
+      "timecode_fin_extrait": 1815,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0120_time_1800.00s-1815.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 359,
+          "start": 1806.2,
+          "end": 1809.4,
+          "text": "depth 741 meters,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 121,
+      "intervalle_debut": 1815,
+      "intervalle_fin": 1830,
+      "timecode_debut_extrait": 1815,
+      "timecode_fin_extrait": 1830,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0121_time_1815.00s-1830.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 122,
+      "intervalle_debut": 1830,
+      "intervalle_fin": 1845,
+      "timecode_debut_extrait": 1830,
+      "timecode_fin_extrait": 1845,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0122_time_1830.00s-1845.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 123,
+      "intervalle_debut": 1845,
+      "intervalle_fin": 1860,
+      "timecode_debut_extrait": 1845,
+      "timecode_fin_extrait": 1860,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0123_time_1845.00s-1860.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 360,
+          "start": 1856.08,
+          "end": 1859.88,
+          "text": "- So, how was it, Jim? - We got the goods, We definitely got it,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 124,
+      "intervalle_debut": 1860,
+      "intervalle_fin": 1875,
+      "timecode_debut_extrait": 1860,
+      "timecode_fin_extrait": 1875,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0124_time_1860.00s-1875.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 361,
+          "start": 1862.0,
+          "end": 1865.4,
+          "text": "Ah, that thing is phenomenal, How you doing?"
+        },
+        {
+          "index": 362,
+          "start": 1867.08,
+          "end": 1870.88,
+          "text": "- What did you see down there? - Oh, it was just incredible, Just incredible,"
+        },
+        {
+          "index": 363,
+          "start": 1870.96,
+          "end": 1874.52,
+          "text": "There was a huge, um... Was it a jellyfish?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 125,
+      "intervalle_debut": 1875,
+      "intervalle_fin": 1890,
+      "timecode_debut_extrait": 1875,
+      "timecode_fin_extrait": 1890,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0125_time_1875.00s-1890.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 364,
+          "start": 1876.12,
+          "end": 1878.44,
+          "text": "Some type of gelatinous..."
+        },
+        {
+          "index": 365,
+          "start": 1878.52,
+          "end": 1880.24,
+          "text": "Massive, Like, a meter,"
+        },
+        {
+          "index": 366,
+          "start": 1880.28,
+          "end": 1883.16,
+          "text": "We think that it was feeding off of the, uh,"
+        },
+        {
+          "index": 367,
+          "start": 1883.2,
+          "end": 1888.64,
+          "text": "off the amphipods and the plankton and the copepods that were next to..."
+        },
+        {
+          "index": 368,
+          "start": 1888.72,
+          "end": 1891.0,
+          "text": "- Hanging out at the lights? - Hanging out at the light, yeah,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 126,
+      "intervalle_debut": 1890,
+      "intervalle_fin": 1905,
+      "timecode_debut_extrait": 1890,
+      "timecode_fin_extrait": 1905,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0126_time_1890.00s-1905.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 369,
+          "start": 1891.08,
+          "end": 1893.44,
+          "text": "- How's it work? - Man, we don't know,"
+        },
+        {
+          "index": 370,
+          "start": 1893.52,
+          "end": 1896.08,
+          "text": "- But it's there, So it's working somehow, - Exactly,"
+        },
+        {
+          "index": 371,
+          "start": 1896.12,
+          "end": 1899.44,
+          "text": "- Life's pretty cool, - Yeah, absolutely fantastic,"
+        },
+        {
+          "index": 372,
+          "start": 1899.52,
+          "end": 1901.84,
+          "text": "- Welcome back, Kevin, - Thanks,"
+        },
+        {
+          "index": 373,
+          "start": 1903.2,
+          "end": 1905.32,
+          "text": "- Team Rover, - Go team Rover!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 127,
+      "intervalle_debut": 1905,
+      "intervalle_fin": 1920,
+      "timecode_debut_extrait": 1905,
+      "timecode_fin_extrait": 1920,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0127_time_1905.00s-1920.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 375,
+          "start": 1911.36,
+          "end": 1914.08,
+          "text": "My name is Maya Tolstoy, and I'm a marine seismologist"
+        },
+        {
+          "index": 376,
+          "start": 1914.16,
+          "end": 1917.28,
+          "text": "at Lamont-Doherty Earth Observatory."
+        },
+        {
+          "index": 377,
+          "start": 1918.2,
+          "end": 1920.24,
+          "text": "I study underwater volcanoes,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 128,
+      "intervalle_debut": 1920,
+      "intervalle_fin": 1935,
+      "timecode_debut_extrait": 1920,
+      "timecode_fin_extrait": 1935,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0128_time_1920.00s-1935.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 378,
+          "start": 1920.32,
+          "end": 1924.52,
+          "text": "and particularly I study the earthquakes that these volcanoes make."
+        },
+        {
+          "index": 379,
+          "start": 1924.6,
+          "end": 1927.72,
+          "text": "And I'm trying to understand how the Earth is made,"
+        },
+        {
+          "index": 380,
+          "start": 1927.8,
+          "end": 1931.08,
+          "text": "how the surface of the planet is formed."
+        },
+        {
+          "index": 381,
+          "start": 1932.4,
+          "end": 1936.44,
+          "text": "I'm going to be deploying ocean-bottom seismometers."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 129,
+      "intervalle_debut": 1935,
+      "intervalle_fin": 1950,
+      "timecode_debut_extrait": 1935,
+      "timecode_fin_extrait": 1950,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0129_time_1935.00s-1950.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 382,
+          "start": 1936.52,
+          "end": 1938.96,
+          "text": "Those are instruments that listen to earthquakes"
+        },
+        {
+          "index": 383,
+          "start": 1939.0,
+          "end": 1942.08,
+          "text": "and other noises on the ocean floor."
+        },
+        {
+          "index": 384,
+          "start": 1945.24,
+          "end": 1948.92,
+          "text": "In the ocean, the light only goes so far."
+        },
+        {
+          "index": 385,
+          "start": 1949.44,
+          "end": 1953.32,
+          "text": "And so sound allows you to basically see the bottom of the ocean,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 130,
+      "intervalle_debut": 1950,
+      "intervalle_fin": 1965,
+      "timecode_debut_extrait": 1950,
+      "timecode_fin_extrait": 1965,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0130_time_1950.00s-1965.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 386,
+          "start": 1953.4,
+          "end": 1959.28,
+          "text": "and to see into the ocean crust, the way that light lets you see on the surface."
+        },
+        {
+          "index": 387,
+          "start": 1963.28,
+          "end": 1969.04,
+          "text": "We put the instruments over the side of the ship. They drop, they gather the data."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 131,
+      "intervalle_debut": 1965,
+      "intervalle_fin": 1980,
+      "timecode_debut_extrait": 1965,
+      "timecode_fin_extrait": 1980,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0131_time_1965.00s-1980.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 388,
+          "start": 1970.04,
+          "end": 1973.88,
+          "text": "Normally, I don't have to dive in order to do my job."
+        },
+        {
+          "index": 389,
+          "start": 1974.84,
+          "end": 1977.68,
+          "text": "So it was very exciting to finally see the environment"
+        },
+        {
+          "index": 390,
+          "start": 1977.72,
+          "end": 1980.24,
+          "text": "that I've been working on for over a decade."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 132,
+      "intervalle_debut": 1980,
+      "intervalle_fin": 1995,
+      "timecode_debut_extrait": 1980,
+      "timecode_fin_extrait": 1995,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0132_time_1980.00s-1995.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 391,
+          "start": 1980.32,
+          "end": 1981.76,
+          "text": "MIR two, copy,"
+        },
+        {
+          "index": 392,
+          "start": 1981.84,
+          "end": 1984.88,
+          "text": "We have a visual on you. We are inbound."
+        },
+        {
+          "index": 393,
+          "start": 1984.92,
+          "end": 1987.48,
+          "text": "Roger that,"
+        },
+        {
+          "index": 394,
+          "start": 1988.24,
+          "end": 1991.2,
+          "text": "- Can you see them? - Yeah, It's out my window,"
+        },
+        {
+          "index": 395,
+          "start": 1991.28,
+          "end": 1993.28,
+          "text": "It looks like a spaceship,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 133,
+      "intervalle_debut": 1995,
+      "intervalle_fin": 2010,
+      "timecode_debut_extrait": 1995,
+      "timecode_fin_extrait": 2010,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0133_time_1995.00s-2010.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 396,
+          "start": 1996.88,
+          "end": 1998.8,
+          "text": "Wow,"
+        },
+        {
+          "index": 397,
+          "start": 1998.84,
+          "end": 2002.52,
+          "text": "That's incredible, That's like another planet,"
+        },
+        {
+          "index": 398,
+          "start": 2006.72,
+          "end": 2009.28,
+          "text": "It's such an incredible world down there,"
+        },
+        {
+          "index": 399,
+          "start": 2009.36,
+          "end": 2011.76,
+          "text": "and it's so important to the formation of our planet."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 134,
+      "intervalle_debut": 2010,
+      "intervalle_fin": 2025,
+      "timecode_debut_extrait": 2010,
+      "timecode_fin_extrait": 2025,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0134_time_2010.00s-2025.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 400,
+          "start": 2011.8,
+          "end": 2015.24,
+          "text": "It's where two thirds of the surface of our world was created,"
+        },
+        {
+          "index": 401,
+          "start": 2015.32,
+          "end": 2018.16,
+          "text": "and we still know so little about it."
+        },
+        {
+          "index": 402,
+          "start": 2019.48,
+          "end": 2021.6,
+          "text": "Do you see how they're all shiny and glassy?"
+        },
+        {
+          "index": 403,
+          "start": 2021.68,
+          "end": 2025.12,
+          "text": "- Oh, yeah, Look at that, - That shows that it cooled superquickly,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 135,
+      "intervalle_debut": 2025,
+      "intervalle_fin": 2040,
+      "timecode_debut_extrait": 2025,
+      "timecode_fin_extrait": 2040,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0135_time_2025.00s-2040.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 404,
+          "start": 2025.2,
+          "end": 2029.52,
+          "text": "That's just, like, it really turns to glass, basically, To obsidian, it's called,"
+        },
+        {
+          "index": 405,
+          "start": 2029.56,
+          "end": 2030.64,
+          "text": "Look at that,"
+        },
+        {
+          "index": 406,
+          "start": 2030.68,
+          "end": 2033.08,
+          "text": "And you see how there's hardly any sediment on it?"
+        },
+        {
+          "index": 407,
+          "start": 2033.16,
+          "end": 2038.12,
+          "text": "That's when it's really fresh, This is brand-new crust we're looking at,"
+        },
+        {
+          "index": 408,
+          "start": 2038.2,
+          "end": 2039.08,
+          "text": "Wow,"
+        },
+        {
+          "index": 409,
+          "start": 2039.16,
+          "end": 2043.6,
+          "text": "Now, can you just imagine being down here when this stuff erupts?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 136,
+      "intervalle_debut": 2040,
+      "intervalle_fin": 2055,
+      "timecode_debut_extrait": 2040,
+      "timecode_fin_extrait": 2055,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0136_time_2040.00s-2055.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 410,
+          "start": 2043.64,
+          "end": 2046.96,
+          "text": "Molten rock oozing out and hitting the freezing cold water,"
+        },
+        {
+          "index": 411,
+          "start": 2047.0,
+          "end": 2049.6,
+          "text": "I just can't imagine it, It must have been insane,"
+        },
+        {
+          "index": 412,
+          "start": 2049.68,
+          "end": 2051.84,
+          "text": "Must look pretty cool,"
+        },
+        {
+          "index": 413,
+          "start": 2051.92,
+          "end": 2055.24,
+          "text": "For the few seconds before you die,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 137,
+      "intervalle_debut": 2055,
+      "intervalle_fin": 2070,
+      "timecode_debut_extrait": 2055,
+      "timecode_fin_extrait": 2070,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0137_time_2055.00s-2070.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 414,
+          "start": 2063.36,
+          "end": 2065.68,
+          "text": "I miss my son."
+        },
+        {
+          "index": 415,
+          "start": 2065.72,
+          "end": 2067.84,
+          "text": "He's five months old."
+        },
+        {
+          "index": 416,
+          "start": 2067.92,
+          "end": 2071.96,
+          "text": "It was such a hard decision to make to come out here."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 138,
+      "intervalle_debut": 2070,
+      "intervalle_fin": 2085,
+      "timecode_debut_extrait": 2070,
+      "timecode_fin_extrait": 2085,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0138_time_2070.00s-2085.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 417,
+          "start": 2072.04,
+          "end": 2076.28,
+          "text": "But I think it's important to study one of the most remarkable phenomenon"
+        },
+        {
+          "index": 418,
+          "start": 2076.36,
+          "end": 2079.2,
+          "text": "we've ever discovered in the oceans."
+        },
+        {
+          "index": 419,
+          "start": 2083.52,
+          "end": 2086.4,
+          "text": "MIR Two, just keep going upslope on this heading,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 139,
+      "intervalle_debut": 2085,
+      "intervalle_fin": 2100,
+      "timecode_debut_extrait": 2085,
+      "timecode_fin_extrait": 2100,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0139_time_2085.00s-2100.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 420,
+          "start": 2086.48,
+          "end": 2089.84,
+          "text": "The chimneys should be at the top of this sulfide mound, Over,"
+        },
+        {
+          "index": 421,
+          "start": 2090.36,
+          "end": 2092.6,
+          "text": "Roger that,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 140,
+      "intervalle_debut": 2100,
+      "intervalle_fin": 2115,
+      "timecode_debut_extrait": 2100,
+      "timecode_fin_extrait": 2115,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0140_time_2100.00s-2115.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 422,
+          "start": 2103.68,
+          "end": 2105.76,
+          "text": "Wow,"
+        },
+        {
+          "index": 423,
+          "start": 2105.84,
+          "end": 2107.76,
+          "text": "There it is,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 141,
+      "intervalle_debut": 2115,
+      "intervalle_fin": 2130,
+      "timecode_debut_extrait": 2115,
+      "timecode_fin_extrait": 2130,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0141_time_2115.00s-2130.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 424,
+          "start": 2127.96,
+          "end": 2129.36,
+          "text": "All around our world,"
+        },
+        {
+          "index": 425,
+          "start": 2129.44,
+          "end": 2132.76,
+          "text": "running down the middle of the oceans like seams on a baseball,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 142,
+      "intervalle_debut": 2130,
+      "intervalle_fin": 2145,
+      "timecode_debut_extrait": 2130,
+      "timecode_fin_extrait": 2145,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0142_time_2130.00s-2145.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 426,
+          "start": 2132.84,
+          "end": 2135.76,
+          "text": "are these cracks, these spreading centers,"
+        },
+        {
+          "index": 427,
+          "start": 2135.84,
+          "end": 2140.28,
+          "text": "where the crust of the planet is literally ripping apart."
+        },
+        {
+          "index": 428,
+          "start": 2141.48,
+          "end": 2143.88,
+          "text": "Up above, the sea looks normal."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 143,
+      "intervalle_debut": 2145,
+      "intervalle_fin": 2160,
+      "timecode_debut_extrait": 2145,
+      "timecode_fin_extrait": 2160,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0143_time_2145.00s-2160.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 429,
+          "start": 2148.12,
+          "end": 2150.6,
+          "text": "But two miles down, it's a violent landscape"
+        },
+        {
+          "index": 430,
+          "start": 2150.68,
+          "end": 2155.36,
+          "text": "where fresh lava flows out of the crack and freezes into rock."
+        },
+        {
+          "index": 431,
+          "start": 2157.88,
+          "end": 2161.72,
+          "text": "When the sea water seeps down to the molten rock just beneath the new crust,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 144,
+      "intervalle_debut": 2160,
+      "intervalle_fin": 2175,
+      "timecode_debut_extrait": 2160,
+      "timecode_fin_extrait": 2175,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0144_time_2160.00s-2175.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 432,
+          "start": 2161.8,
+          "end": 2165.2,
+          "text": "it gets superheated, far hotter than boiling."
+        },
+        {
+          "index": 433,
+          "start": 2165.28,
+          "end": 2168.92,
+          "text": "But it can't boil, because of the intense pressure at the bottom of the ocean."
+        },
+        {
+          "index": 434,
+          "start": 2169.0,
+          "end": 2172.16,
+          "text": "So it comes roaring up out of the sea floor."
+        },
+        {
+          "index": 435,
+          "start": 2173.12,
+          "end": 2177.08,
+          "text": "When the superheated water hits the freezing ocean, minerals condense out,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 145,
+      "intervalle_debut": 2175,
+      "intervalle_fin": 2190,
+      "timecode_debut_extrait": 2175,
+      "timecode_fin_extrait": 2190,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0145_time_2175.00s-2190.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 436,
+          "start": 2177.16,
+          "end": 2180.96,
+          "text": "forming the chimneys, and creating the black smoke."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 146,
+      "intervalle_debut": 2190,
+      "intervalle_fin": 2205,
+      "timecode_debut_extrait": 2190,
+      "timecode_fin_extrait": 2205,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0146_time_2190.00s-2205.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": []
+    },
+    {
+      "intervalle_index": 147,
+      "intervalle_debut": 2205,
+      "intervalle_fin": 2220,
+      "timecode_debut_extrait": 2205,
+      "timecode_fin_extrait": 2220,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0147_time_2205.00s-2220.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 437,
+          "start": 2208.2,
+          "end": 2210.4,
+          "text": "When you see black smoke, what you're really seeing"
+        },
+        {
+          "index": 438,
+          "start": 2210.48,
+          "end": 2213.32,
+          "text": "is a blowtorch of superheated water."
+        },
+        {
+          "index": 439,
+          "start": 2217.52,
+          "end": 2220.12,
+          "text": "Uh, we're getting in position to get a water sample"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 148,
+      "intervalle_debut": 2220,
+      "intervalle_fin": 2235,
+      "timecode_debut_extrait": 2220,
+      "timecode_fin_extrait": 2235,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0148_time_2220.00s-2235.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 440,
+          "start": 2220.2,
+          "end": 2222.4,
+          "text": "from the top of one of these structures, Over,"
+        },
+        {
+          "index": 441,
+          "start": 2222.48,
+          "end": 2225.36,
+          "text": "Yeah, roger that. That's good."
+        },
+        {
+          "index": 442,
+          "start": 2229.4,
+          "end": 2233.6,
+          "text": "OK, let's get in as close as we can on this chimney, Genya,"
+        },
+        {
+          "index": 443,
+          "start": 2233.68,
+          "end": 2237.56,
+          "text": "These chimneys reach 750 degrees Fahrenheit,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 149,
+      "intervalle_debut": 2235,
+      "intervalle_fin": 2250,
+      "timecode_debut_extrait": 2235,
+      "timecode_fin_extrait": 2250,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0149_time_2235.00s-2250.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 444,
+          "start": 2237.64,
+          "end": 2241.64,
+          "text": "and that's hot enough to melt the windows of your submersible."
+        },
+        {
+          "index": 445,
+          "start": 2241.72,
+          "end": 2243.84,
+          "text": "That's a bad thing."
+        },
+        {
+          "index": 446,
+          "start": 2243.92,
+          "end": 2248.52,
+          "text": "Mental note: Don't melt the windows of the submersible."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 150,
+      "intervalle_debut": 2250,
+      "intervalle_fin": 2265,
+      "timecode_debut_extrait": 2250,
+      "timecode_fin_extrait": 2265,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0150_time_2250.00s-2265.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 447,
+          "start": 2250.16,
+          "end": 2252.56,
+          "text": "Guys, we're getting really close to this black smoker here,"
+        },
+        {
+          "index": 448,
+          "start": 2252.64,
+          "end": 2255.8,
+          "text": "- Close enough? - I think this is maybe a little too close,"
+        },
+        {
+          "index": 449,
+          "start": 2255.88,
+          "end": 2259.52,
+          "text": "Uh, well, we're starting to get into the plume,"
+        },
+        {
+          "index": 450,
+          "start": 2260.56,
+          "end": 2262.08,
+          "text": "Right underneath the sub,"
+        },
+        {
+          "index": 451,
+          "start": 2262.16,
+          "end": 2263.72,
+          "text": "Genya, move back. You better move back."
+        },
+        {
+          "index": 452,
+          "start": 2263.8,
+          "end": 2266.76,
+          "text": "OK, I start to move back,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 151,
+      "intervalle_debut": 2265,
+      "intervalle_fin": 2280,
+      "timecode_debut_extrait": 2265,
+      "timecode_fin_extrait": 2280,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0151_time_2265.00s-2280.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 453,
+          "start": 2272.92,
+          "end": 2277.32,
+          "text": "That's normal. We usually drive right in 'em like that."
+        },
+        {
+          "index": 454,
+          "start": 2277.4,
+          "end": 2281.56,
+          "text": "We were right on top of it, That was a little freaky,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 152,
+      "intervalle_debut": 2280,
+      "intervalle_fin": 2295,
+      "timecode_debut_extrait": 2280,
+      "timecode_fin_extrait": 2295,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0152_time_2280.00s-2295.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 455,
+          "start": 2290.44,
+          "end": 2292.36,
+          "text": "That's pretty cool, Kevin,"
+        },
+        {
+          "index": 456,
+          "start": 2292.44,
+          "end": 2296.88,
+          "text": "The geology's fascinating. But it's not why I came out here."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 153,
+      "intervalle_debut": 2295,
+      "intervalle_fin": 2310,
+      "timecode_debut_extrait": 2295,
+      "timecode_fin_extrait": 2310,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0153_time_2295.00s-2310.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 457,
+          "start": 2298.88,
+          "end": 2302.56,
+          "text": "Keldysh, Keldysh, MIR Two, We are on the bottom,"
+        },
+        {
+          "index": 458,
+          "start": 2302.64,
+          "end": 2305.6,
+          "text": "Depth 3526 meters,"
+        },
+        {
+          "index": 459,
+          "start": 2305.68,
+          "end": 2309.52,
+          "text": "And we are at the top of the Moose structure, Over,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 154,
+      "intervalle_debut": 2310,
+      "intervalle_fin": 2325,
+      "timecode_debut_extrait": 2310,
+      "timecode_fin_extrait": 2325,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0154_time_2310.00s-2325.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 460,
+          "start": 2312.6,
+          "end": 2316.28,
+          "text": "These sites were first visited 25 years ago by geologists."
+        },
+        {
+          "index": 461,
+          "start": 2316.32,
+          "end": 2319.0,
+          "text": "And they weren't looking for life."
+        },
+        {
+          "index": 462,
+          "start": 2320.56,
+          "end": 2322.88,
+          "text": "But it wasn't until they got into a submersible"
+        },
+        {
+          "index": 463,
+          "start": 2322.96,
+          "end": 2327.68,
+          "text": "and went down to the bottom to see with their own eyes..."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 155,
+      "intervalle_debut": 2325,
+      "intervalle_fin": 2340,
+      "timecode_debut_extrait": 2325,
+      "timecode_fin_extrait": 2340,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0155_time_2325.00s-2340.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 464,
+          "start": 2327.76,
+          "end": 2333.4,
+          "text": "It was like, \"Oh, my God. There's life down here, and it's beautiful. \""
+        },
+        {
+          "index": 465,
+          "start": 2333.44,
+          "end": 2335.6,
+          "text": "It's an entire ecosystem."
+        },
+        {
+          "index": 466,
+          "start": 2338.96,
+          "end": 2340.8,
+          "text": "Wow, That's awesome,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 156,
+      "intervalle_debut": 2340,
+      "intervalle_fin": 2355,
+      "timecode_debut_extrait": 2340,
+      "timecode_fin_extrait": 2355,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0156_time_2340.00s-2355.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 467,
+          "start": 2344.6,
+          "end": 2347.92,
+          "text": "Copy that. That's what we're imaging right now. Over."
+        },
+        {
+          "index": 468,
+          "start": 2348.6,
+          "end": 2354.36,
+          "text": "- Look at all that hot water, - They're right in the flow,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 157,
+      "intervalle_debut": 2355,
+      "intervalle_fin": 2370,
+      "timecode_debut_extrait": 2355,
+      "timecode_fin_extrait": 2370,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0157_time_2355.00s-2370.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 469,
+          "start": 2358.16,
+          "end": 2360.24,
+          "text": "Oh, man, Check this out,"
+        },
+        {
+          "index": 470,
+          "start": 2360.32,
+          "end": 2366.0,
+          "text": "It's like liquid fire, and these guys are dancing right next to it,"
+        },
+        {
+          "index": 471,
+          "start": 2366.04,
+          "end": 2369.28,
+          "text": "They are really tickling the dragon's tail,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 158,
+      "intervalle_debut": 2370,
+      "intervalle_fin": 2385,
+      "timecode_debut_extrait": 2370,
+      "timecode_fin_extrait": 2385,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0158_time_2370.00s-2385.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 472,
+          "start": 2371.0,
+          "end": 2374.48,
+          "text": "The science community was stunned."
+        },
+        {
+          "index": 473,
+          "start": 2374.56,
+          "end": 2378.2,
+          "text": "How could these animals be living in these toxic chemicals,"
+        },
+        {
+          "index": 474,
+          "start": 2378.24,
+          "end": 2381.6,
+          "text": "at these pressures, around extremes of temperature"
+        },
+        {
+          "index": 475,
+          "start": 2381.68,
+          "end": 2385.4,
+          "text": "from freezing to beyond boiling in just a few inches?"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 159,
+      "intervalle_debut": 2385,
+      "intervalle_fin": 2400,
+      "timecode_debut_extrait": 2385,
+      "timecode_fin_extrait": 2400,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0159_time_2385.00s-2400.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 476,
+          "start": 2388.04,
+          "end": 2392.84,
+          "text": "How could there be a whole ecosystem living without sunlight?"
+        },
+        {
+          "index": 477,
+          "start": 2395.04,
+          "end": 2398.44,
+          "text": "And not just living, but thriving!"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 160,
+      "intervalle_debut": 2400,
+      "intervalle_fin": 2415,
+      "timecode_debut_extrait": 2400,
+      "timecode_fin_extrait": 2415,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0160_time_2400.00s-2415.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 478,
+          "start": 2401.96,
+          "end": 2404.0,
+          "text": "Unbelievable,"
+        },
+        {
+          "index": 479,
+          "start": 2404.08,
+          "end": 2408.72,
+          "text": "This is the most insane amount of biomass I ever saw in my life,"
+        },
+        {
+          "index": 480,
+          "start": 2408.76,
+          "end": 2410.28,
+          "text": "Wow,"
+        },
+        {
+          "index": 481,
+          "start": 2410.36,
+          "end": 2412.72,
+          "text": "Holy pancakes, Batman,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 161,
+      "intervalle_debut": 2415,
+      "intervalle_fin": 2430,
+      "timecode_debut_extrait": 2415,
+      "timecode_fin_extrait": 2430,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0161_time_2415.00s-2430.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 482,
+          "start": 2420.48,
+          "end": 2425.36,
+          "text": "And they're right there in the flow, just enjoying the hydrothermal fluid,"
+        },
+        {
+          "index": 483,
+          "start": 2425.44,
+          "end": 2428.56,
+          "text": "Oh, look at 'em swarming, They love it in the smoke,"
+        },
+        {
+          "index": 484,
+          "start": 2428.64,
+          "end": 2430.56,
+          "text": "Oh, yeah,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 162,
+      "intervalle_debut": 2430,
+      "intervalle_fin": 2445,
+      "timecode_debut_extrait": 2430,
+      "timecode_fin_extrait": 2445,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0162_time_2430.00s-2445.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 485,
+          "start": 2431.48,
+          "end": 2435.4,
+          "text": "The vents were providing the energy for life."
+        },
+        {
+          "index": 486,
+          "start": 2435.48,
+          "end": 2438.16,
+          "text": "It was coming from chemicals dissolved in the water,"
+        },
+        {
+          "index": 487,
+          "start": 2438.2,
+          "end": 2441.2,
+          "text": "coming from inside the Earth itself."
+        },
+        {
+          "index": 488,
+          "start": 2441.28,
+          "end": 2444.92,
+          "text": "Not photosynthesis, but chemosynthesis."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 163,
+      "intervalle_debut": 2445,
+      "intervalle_fin": 2460,
+      "timecode_debut_extrait": 2445,
+      "timecode_fin_extrait": 2460,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0163_time_2445.00s-2460.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 489,
+          "start": 2448.04,
+          "end": 2452.84,
+          "text": "It was a whole new basis for life, one that didn't need the sun,"
+        },
+        {
+          "index": 490,
+          "start": 2452.92,
+          "end": 2455.84,
+          "text": "only water and heat."
+        },
+        {
+          "index": 491,
+          "start": 2456.96,
+          "end": 2460.04,
+          "text": "That party's been going on down there in the dark for the last billion years,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 164,
+      "intervalle_debut": 2460,
+      "intervalle_fin": 2475,
+      "timecode_debut_extrait": 2460,
+      "timecode_fin_extrait": 2475,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0164_time_2460.00s-2475.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 492,
+          "start": 2460.12,
+          "end": 2462.16,
+          "text": "and it's gonna be going on for the next billion years,"
+        },
+        {
+          "index": 493,
+          "start": 2462.24,
+          "end": 2465.12,
+          "text": "They're just doing their thing, it's got nothing to do with us,"
+        },
+        {
+          "index": 494,
+          "start": 2465.2,
+          "end": 2470.96,
+          "text": "the sun could go out tomorrow and they wouldn't know and they wouldn't care,"
+        },
+        {
+          "index": 495,
+          "start": 2471.96,
+          "end": 2475.4,
+          "text": "Exploring and discovering ecosystems like this,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 165,
+      "intervalle_debut": 2475,
+      "intervalle_fin": 2490,
+      "timecode_debut_extrait": 2475,
+      "timecode_fin_extrait": 2490,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0165_time_2475.00s-2490.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 496,
+          "start": 2475.48,
+          "end": 2480.24,
+          "text": "which may not depend on energy from the sun,"
+        },
+        {
+          "index": 497,
+          "start": 2480.32,
+          "end": 2482.96,
+          "text": "opens up all sorts of interesting possibilities"
+        },
+        {
+          "index": 498,
+          "start": 2483.0,
+          "end": 2486.44,
+          "text": "when we think about the search for life elsewhere."
+        },
+        {
+          "index": 499,
+          "start": 2488.92,
+          "end": 2493.56,
+          "text": "Wherever we've found liquid water on planet Earth, we've found life."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 166,
+      "intervalle_debut": 2490,
+      "intervalle_fin": 2505,
+      "timecode_debut_extrait": 2490,
+      "timecode_fin_extrait": 2505,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0166_time_2490.00s-2505.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 500,
+          "start": 2493.64,
+          "end": 2495.56,
+          "text": "That's pretty profound."
+        },
+        {
+          "index": 501,
+          "start": 2497.84,
+          "end": 2503.2,
+          "text": "If we find liquid water elsewhere in the solar system, are we gonna find life?"
+        },
+        {
+          "index": 502,
+          "start": 2503.28,
+          "end": 2506.4,
+          "text": "We won't know unless we start searching."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 167,
+      "intervalle_debut": 2505,
+      "intervalle_fin": 2520,
+      "timecode_debut_extrait": 2505,
+      "timecode_fin_extrait": 2520,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0167_time_2505.00s-2520.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 503,
+          "start": 2514.92,
+          "end": 2519.48,
+          "text": "In fact, NASA is planning a mission called the Jupiter Icy Moons Orbiter."
+        },
+        {
+          "index": 504,
+          "start": 2519.52,
+          "end": 2521.36,
+          "text": "AKA JIMO."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 168,
+      "intervalle_debut": 2520,
+      "intervalle_fin": 2535,
+      "timecode_debut_extrait": 2520,
+      "timecode_fin_extrait": 2535,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0168_time_2520.00s-2535.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 505,
+          "start": 2521.4,
+          "end": 2523.8,
+          "text": "At 120 feet long it's gonna be several times longer"
+        },
+        {
+          "index": 506,
+          "start": 2523.88,
+          "end": 2526.0,
+          "text": "than any planetary probe ever launched,"
+        },
+        {
+          "index": 507,
+          "start": 2526.04,
+          "end": 2531.52,
+          "text": "and its nuclear reactor will power ion engines and a big science radar."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 169,
+      "intervalle_debut": 2535,
+      "intervalle_fin": 2550,
+      "timecode_debut_extrait": 2535,
+      "timecode_fin_extrait": 2550,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0169_time_2535.00s-2550.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 508,
+          "start": 2538.72,
+          "end": 2540.96,
+          "text": "The main goal of JIMO will be to use that radar"
+        },
+        {
+          "index": 509,
+          "start": 2541.04,
+          "end": 2545.04,
+          "text": "to look down through the ice of Jupiter's three largest moons."
+        },
+        {
+          "index": 510,
+          "start": 2545.12,
+          "end": 2548.92,
+          "text": "First, it will study Callisto, and then it'll move to Ganymede."
+        },
+        {
+          "index": 511,
+          "start": 2548.96,
+          "end": 2553.6,
+          "text": "And these are bizarre moons, the largest of Jupiter's 61 known moons."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 170,
+      "intervalle_debut": 2550,
+      "intervalle_fin": 2565,
+      "timecode_debut_extrait": 2550,
+      "timecode_fin_extrait": 2565,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0170_time_2550.00s-2565.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 512,
+          "start": 2553.68,
+          "end": 2557.04,
+          "text": "Callisto and Ganymede both have crusts of ancient ice and rock"
+        },
+        {
+          "index": 513,
+          "start": 2557.08,
+          "end": 2560.6,
+          "text": "that may hide oceans miles below the surface."
+        },
+        {
+          "index": 514,
+          "start": 2563.12,
+          "end": 2567.96,
+          "text": "Further in is Io, which is a moon of fire, not ice."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 171,
+      "intervalle_debut": 2565,
+      "intervalle_fin": 2580,
+      "timecode_debut_extrait": 2565,
+      "timecode_fin_extrait": 2580,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0171_time_2565.00s-2580.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 515,
+          "start": 2570.96,
+          "end": 2575.08,
+          "text": "Io's eccentric orbit causes it to deform as it circles Jupiter."
+        },
+        {
+          "index": 516,
+          "start": 2575.16,
+          "end": 2578.64,
+          "text": "This intense tidal pumping pulls at the moon like taffy,"
+        },
+        {
+          "index": 517,
+          "start": 2578.72,
+          "end": 2581.76,
+          "text": "generating friction at the core which then becomes heat,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 172,
+      "intervalle_debut": 2580,
+      "intervalle_fin": 2595,
+      "timecode_debut_extrait": 2580,
+      "timecode_fin_extrait": 2595,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0172_time_2580.00s-2595.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 518,
+          "start": 2581.84,
+          "end": 2587.0,
+          "text": "and this heat drives the solar system's largest active volcanoes."
+        },
+        {
+          "index": 519,
+          "start": 2589.68,
+          "end": 2592.16,
+          "text": "There are constant eruptions, rivers of lava,"
+        },
+        {
+          "index": 520,
+          "start": 2592.24,
+          "end": 2596.88,
+          "text": "and volcanic plumes shooting hundreds of miles into space."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 173,
+      "intervalle_debut": 2595,
+      "intervalle_fin": 2610,
+      "timecode_debut_extrait": 2595,
+      "timecode_fin_extrait": 2610,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0173_time_2595.00s-2610.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 521,
+          "start": 2607.68,
+          "end": 2613.2,
+          "text": "But the gem of the Jovian system, at least as far as the search for life is concerned,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 174,
+      "intervalle_debut": 2610,
+      "intervalle_fin": 2625,
+      "timecode_debut_extrait": 2610,
+      "timecode_fin_extrait": 2625,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0174_time_2610.00s-2625.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 522,
+          "start": 2613.24,
+          "end": 2614.72,
+          "text": "is Europa."
+        },
+        {
+          "index": 523,
+          "start": 2614.8,
+          "end": 2619.6,
+          "text": "It's here where fire and ice come together in perfect harmony."
+        },
+        {
+          "index": 524,
+          "start": 2620.84,
+          "end": 2623.4,
+          "text": "The scientific community is relatively certain"
+        },
+        {
+          "index": 525,
+          "start": 2623.48,
+          "end": 2628.96,
+          "text": "that beneath the icy, chaotic shell of Europa, there exists a liquid water ocean,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 175,
+      "intervalle_debut": 2625,
+      "intervalle_fin": 2640,
+      "timecode_debut_extrait": 2625,
+      "timecode_fin_extrait": 2640,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0175_time_2625.00s-2640.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 526,
+          "start": 2629.04,
+          "end": 2633.84,
+          "text": "with twice the volume of all the Earth's oceans combined."
+        },
+        {
+          "index": 527,
+          "start": 2633.92,
+          "end": 2639.16,
+          "text": "So tidal heating is working here too, keeping that water from freezing."
+        },
+        {
+          "index": 528,
+          "start": 2639.2,
+          "end": 2642.52,
+          "text": "And possibly providing energy for life."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 176,
+      "intervalle_debut": 2640,
+      "intervalle_fin": 2655,
+      "timecode_debut_extrait": 2640,
+      "timecode_fin_extrait": 2655,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0176_time_2640.00s-2655.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 529,
+          "start": 2642.6,
+          "end": 2648.08,
+          "text": "The same kind of life that we're finding at the deep vents here on Earth."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 177,
+      "intervalle_debut": 2655,
+      "intervalle_fin": 2670,
+      "timecode_debut_extrait": 2655,
+      "timecode_fin_extrait": 2670,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0177_time_2655.00s-2670.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 530,
+          "start": 2656.48,
+          "end": 2659.96,
+          "text": "You see all that out there, all that yellow and white and orange?"
+        },
+        {
+          "index": 531,
+          "start": 2660.04,
+          "end": 2663.2,
+          "text": "That's just a huge colony of microbes,"
+        },
+        {
+          "index": 532,
+          "start": 2664.6,
+          "end": 2668.96,
+          "text": "This is just acres and acres of this bacterial mass,"
+        },
+        {
+          "index": 533,
+          "start": 2669.04,
+          "end": 2672.92,
+          "text": "Look at that, This could be like a little glimpse back in time,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 178,
+      "intervalle_debut": 2670,
+      "intervalle_fin": 2685,
+      "timecode_debut_extrait": 2670,
+      "timecode_fin_extrait": 2685,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0178_time_2670.00s-2685.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 534,
+          "start": 2673.0,
+          "end": 2676.28,
+          "text": "Yeah, couple of billion years ago,"
+        },
+        {
+          "index": 535,
+          "start": 2676.36,
+          "end": 2678.96,
+          "text": "Hydrothermal vents have been on planet Earth"
+        },
+        {
+          "index": 536,
+          "start": 2679.0,
+          "end": 2681.12,
+          "text": "since the oceans were formed."
+        },
+        {
+          "index": 537,
+          "start": 2682.24,
+          "end": 2687.24,
+          "text": "It may have been sites like these around which life itself began."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 179,
+      "intervalle_debut": 2685,
+      "intervalle_fin": 2700,
+      "timecode_debut_extrait": 2685,
+      "timecode_fin_extrait": 2700,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0179_time_2685.00s-2700.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 538,
+          "start": 2688.6,
+          "end": 2691.16,
+          "text": "If we can just sort of scoop up the top area of that,"
+        },
+        {
+          "index": 539,
+          "start": 2691.24,
+          "end": 2693.96,
+          "text": "maybe a little bit of the sediment below,"
+        },
+        {
+          "index": 540,
+          "start": 2694.04,
+          "end": 2695.52,
+          "text": "Excellent,"
+        },
+        {
+          "index": 541,
+          "start": 2695.6,
+          "end": 2697.88,
+          "text": "Nice sample,"
+        },
+        {
+          "index": 542,
+          "start": 2697.92,
+          "end": 2703.24,
+          "text": "You can see all the stringy little filaments that make up the mat,"
+        }
+      ]
+    },
+    {
+      "intervalle_index": 180,
+      "intervalle_debut": 2700,
+      "intervalle_fin": 2715,
+      "timecode_debut_extrait": 2700,
+      "timecode_fin_extrait": 2715,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0180_time_2700.00s-2715.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 543,
+          "start": 2703.72,
+          "end": 2707.76,
+          "text": "Extremophiles are simply life forms that thrive in the extremes"
+        },
+        {
+          "index": 544,
+          "start": 2707.84,
+          "end": 2711.84,
+          "text": "of temperature and pressure and radiation,"
+        },
+        {
+          "index": 545,
+          "start": 2711.92,
+          "end": 2714.68,
+          "text": "environments that to us are deadly."
+        }
+      ]
+    },
+    {
+      "intervalle_index": 181,
+      "intervalle_debut": 2715,
+      "intervalle_fin": 2723.637583,
+      "timecode_debut_extrait": 2715,
+      "timecode_fin_extrait": 2723.637583,
+      "video_path": "analyse\\videos\\Aliens of the Deep (2005) 1080p BRRip x264 -YTS\\interval_0181_time_2715.00s-2723.64s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 546,
+          "start": 2716.56,
+          "end": 2722.4,
+          "text": "These microbes go far beyond anything which our imagination could conceive of"
+        },
+        {
+          "index": 547,
+          "start": 2722.48,
+          "end": 2726.92,
+          "text": "back when we first started studying where we might find life."
+        }
+      ]
+    }
+  ]
+}
