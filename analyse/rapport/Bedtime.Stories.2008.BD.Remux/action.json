@@ -2554,6 +2554,17 @@
         "completion_tokens": 60,
         "total_tokens": 2814
       }
+    },
+    {
+      "intervalle_index": 233,
+      "intervalle_debut": 3495,
+      "intervalle_fin": 3510,
+      "analyse_action": "In the scene, a man carries a woman through a lively, crowded outdoor setting that appears to be a street fair or crowded city thoroughfare. The area is packed with people in summer clothing moving in various directions, with many bicycles visible among the crowd. \n\nAfter entering through a doorway into the enclosed indoor space, they approach a group of about 6 women seated around a table having a lively meal of drinks and food. One woman at the head of the table raises her hands in a stop gesture, and all of the women laugh as they respond to whatever happened before.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 116,
+        "total_tokens": 2870
+      }
     }
   ]
 }

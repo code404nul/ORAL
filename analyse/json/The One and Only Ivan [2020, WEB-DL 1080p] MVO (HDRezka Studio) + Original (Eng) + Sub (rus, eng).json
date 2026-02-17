@@ -8,7 +8,7 @@
   "date_traitement": "2026-02-17T15:31:30.867468",
   "stats_extraction": {
     "total": 374,
-    "reussis": 130,
+    "reussis": 140,
     "echecs": 0,
     "timeouts": 0,
     "gpu_errors": 0,
@@ -4942,7 +4942,7 @@
       "intervalle_fin": 1965,
       "timecode_debut_extrait": 1950,
       "timecode_fin_extrait": 1965,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0130_time_1950.00s-1965.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -4984,7 +4984,7 @@
       "intervalle_fin": 1980,
       "timecode_debut_extrait": 1965,
       "timecode_fin_extrait": 1980,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0131_time_1965.00s-1980.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -5020,7 +5020,7 @@
       "intervalle_fin": 1995,
       "timecode_debut_extrait": 1980,
       "timecode_fin_extrait": 1995,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0132_time_1980.00s-1995.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -5062,7 +5062,7 @@
       "intervalle_fin": 2010,
       "timecode_debut_extrait": 1995,
       "timecode_fin_extrait": 2010,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0133_time_1995.00s-2010.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -5110,7 +5110,7 @@
       "intervalle_fin": 2025,
       "timecode_debut_extrait": 2010,
       "timecode_fin_extrait": 2025,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0134_time_2010.00s-2025.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -5146,7 +5146,7 @@
       "intervalle_fin": 2040,
       "timecode_debut_extrait": 2025,
       "timecode_fin_extrait": 2040,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0135_time_2025.00s-2040.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -5176,7 +5176,7 @@
       "intervalle_fin": 2055,
       "timecode_debut_extrait": 2040,
       "timecode_fin_extrait": 2055,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0136_time_2040.00s-2055.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -5212,7 +5212,7 @@
       "intervalle_fin": 2070,
       "timecode_debut_extrait": 2055,
       "timecode_fin_extrait": 2070,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0137_time_2055.00s-2070.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -5242,7 +5242,7 @@
       "intervalle_fin": 2085,
       "timecode_debut_extrait": 2070,
       "timecode_fin_extrait": 2085,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0138_time_2070.00s-2085.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -5272,7 +5272,7 @@
       "intervalle_fin": 2100,
       "timecode_debut_extrait": 2085,
       "timecode_fin_extrait": 2100,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0139_time_2085.00s-2100.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
