@@ -1,0 +1,1557 @@
+{
+  "movie_id": "Cover-Up (2025) [1080p] [WEBRip] [5.1] [YTS.LT]",
+  "date_analyse": "2026-02-15T22:34:15.744412",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "analyse_action": "The scene appears to be opening credits or title sequence material for a film. The video progresses through several distinct stages: \n\nFirst, we see the Netflix logo in its distinctive red stylized \"N\" against a black background, which is a typical opening element for Netflix productions. This establishes the content source.\n\nThen there's a brief moment of pure, featureless black - just a completely dark screen for about a second.\n\nThe video transitions to vertical bars that sweep across the frame, creating a dynamic visual effect. These bars gradient from various reds at the left through bright pinks and neons to blues and purples on the right, giving the scene an energetic, glowing quality typical of stylized transitional graphics.\n\nAfter this colorful sequence, the screen returns to black.\n\nFinally, a white rectangular box appears containing the title text \"PLAN B\" in capital letters, which is likely the name of the film or project being introduced.\n\nThe entire progression suggests this is either the promotional opening for Netflix's \"PLAN B\" film, or it could be the ending sequence marking the conclusion of a film within a Netflix production. The formal production values—including the official festival information with logo—indicate this is related to an international film festival selection.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 249,
+        "total_tokens": 3003
+      }
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "analyse_action": "A person is driving a dark pickup truck along a road with snow-topped mountains in the background. The driver is wearing a white jacket and black gloves, leaning out of the driver's window to hold a long, thin object in their right hand, with the side mirror visible on the door. \n\nThe scene then shifts inside the vehicle to show the dashboard and windshield from behind the driver. Through the windshield, you can see a landscape with a mountain range, blue sky, and white clouds, along with several white cylindrical objects in the background. The driver appears as a silhouette wearing a white shirt and a hat with a long chin strap. A rearview mirror mounted on the right side of the windshield is also visible.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 145,
+        "total_tokens": 2899
+      }
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "analyse_action": "The scene shows someone driving a vehicle through a vast arid landscape during the daytime. The interior view captures the front seats through the windshield as the car moves at a moderate pace, with white sand billowing up and covering the windshield with a thin layer. Outside, the vehicle passes through endless rows of enormous cylindrical boulders that stretch far into the distance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 73,
+        "total_tokens": 2827
+      }
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "analyse_action": "The scene shows a interview or conversation between two men under stark studio lighting against a completely black background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 21,
+        "total_tokens": 2775
+      }
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "analyse_action": "The scene shows violent snow predators attacking a woolly animal in an outdoor, winter setting. In the first sequence, the black-and-white footage captures someone with glasses lying on the ground before an animal charges at and jumps into them. This creates a sense of the predator hunting from a vulnerable position that it quickly overcomes.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 65,
+        "total_tokens": 2819
+      }
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "analyse_action": "The scene captures a scene at the Desert Test Ground Dugway Proving Ground conducting ballistic testing.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 21,
+        "total_tokens": 2775
+      }
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "analyse_action": "A vintage train moves along tracks in the middle of a rural landscape under an overcast sky, passing a roadside sign with a black \"V\" and rows of white metal drums lying alongside the rails. The train travels past a forested area and a distant mountain range. The scene then shifts to a segmented, low-resolution tracking shot of a small, camouflaged fighter jet in a grainy blue sky, with a white crosshair centered on the aircraft as it flies past.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 97,
+        "total_tokens": 2851
+      }
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "analyse_action": "The scene shows a military aircraft performing aerial maneuvers through the atmosphere. The jet flies at high speed while leaving a bright pink trail behind it, suggesting it's executing some kind of display or tactical maneuver.\n\nThroughout the flight, the aircraft passes over what appears to be a runway or structured surface below, with a white crosshair marker visible on screen that tracks its position. For most of the scene, the jet maintains a uniform flight path, but it then makes a distinct sudden change in direction toward the right side of the frame at high speed.\n\nAs the video continues, the aircraft performs additional high-speed turns and passes. The camera perspective follows the maneuvering jet as it flies through the air, capturing various angles of the acrobatic flight with the pink trail marking its path.\n\nThe overall sequence appears to be documenting military aerial operations or training maneuvers, given the specialized markings, the aircraft's performance at speed, and the deliberate tracking of its movements throughout the flight.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 193,
+        "total_tokens": 2947
+      }
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "analyse_action": "The scene shows a documentary-like military and rural historical recording that transitions through multiple locations and eras.\n\nIt begins with what appears to be artillery or mortar fire at a beach area, with weathered concrete blocks visible in the foreground and structures present in the background. The view is contested, as the high-contrast imagery makes it difficult to determine whether the explosion is hitting something near or far, but there's clearly some distant detonation that creates a black silhouette against the pale ground. This sequence has the feel of wartime reconnaissance or combat operations footage, with grainy, high-contrast quality and inconsistencies in how the impact or target is rendered.\n\nThe video then shifts to early color footage of mountain soldiers conducting field exercises. This shows troops moving through a rugged, rocky terrain with a broad valley behind them under daylight conditions. The footage has a distinct 1940s military documentary aesthetic, with multiple camera positions capturing the training exercise in progress.\n\nFinally, the scene transitions to a black-and-white interview setting in a rural field. A man wearing a cowboy hat and collared shirt is being interviewed by another man in a suit and white shirt who's holding a microphone. The field scene includes a wire fence, scattered cattle grazing in the background, and distant hills beneath the sky. The man being interviewed looks toward the camera at one point before shaking his head \"no\" during the exchange. This portion has the unmistakable look of 1940s-1950s newsreel or documentary filmmaking, with its classic interview format and monochrome presentation.\n\nOverall, the video appears to be a compilation of historical footage documenting both military operations and rural life from mid-20th century America, presented through the visual style of period newsreels and documentary filmmaking.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 360,
+        "total_tokens": 3114
+      }
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "analyse_action": "The video shows a brief transition between two different scenes. First, there's a grainy, black-and-white close-up of a serious-faced man wearing a hat outdoors in what appears to be a rural, Western setting. Behind him is a fence line with livestock visible in a pasture, and he seems to be speaking into a microphone, as if being interviewed or giving a statement.\n\nThe scene then fades to a different black-and-white portrait of a man in formal military attire, shown from the shoulders up against a plain gray background. He has slicked-back dark hair, a clean-shaven face, and wears a dark uniform with epaulets and pins on his shoulders, along with a white collared shirt and tie.\n\nFinally, the video cuts to a daytime outdoor scene of two hikers walking uphill along a steep, rocky mountain slope with uneven terrain and sparse vegetation of trees and bushes.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 181,
+        "total_tokens": 2935
+      }
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "analyse_action": "The sequence shows people in various outdoor and controlled settings, focusing on surveillance and observation:\n\nThe video opens with two people ascending a steep, rocky hillside together, carrying what appears to be equipment. Their posture and coordinated movement suggest they're engaged in some kind of inspection or survey activity on the rugged terrain.\n\nThe scene shifts to a stark desert environment where two men stand over a recently shot animal. One wears dark clothing with red accents and a top hat, while the other is dressed in a lighter outfit with a matching top hat. They're intensely focused on the downed animal lying on the arid ground, evidently examining the aftermath of what they've done.\n\nThe focus then moves to an indoor setting with a man in uniform, possibly military or police, standing before what looks like a lawyer while holding a sheet of paper. The camera deliberately zooms in, drawing attention to the document. The black-and-white cinematography and tight framing create an air of official business or legal matters being reviewed.\n\nFinally, we see a man in a black overcoat and glasses standing on a snowy street, with his hands in his pockets, staring forward. He observes a chain-link fence marked with multiple warning signs, including \"STOP PROTOCOL IN EFFECT,\" \"RESTRICTED AREA WARNING,\" and \"UNAUTHORIZED CAMERAS WILL BE CONFLICTED.\" The wet, reflective pavement, small guard shack, industrial buildings, telephone poles, vehicles, and bundled pedestrians all suggest this is a daytime surveillance or restricted zone scenario in an urban or institutional setting, likely in winter.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 312,
+        "total_tokens": 3066
+      }
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "analyse_action": "The scene shows a man speaking directly to the camera in what appears to be a formal, interview-style setup. He remains composed and serious throughout, maintaining eye contact with the lens while talking. At the very end, the video cuts abruptly to a landscape showing sheep lying in a field on a cloudy day.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 62,
+        "total_tokens": 2816
+      }
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "analyse_action": "The scene presents a progression from nature to artificial objects and then to preserves. We begin with two sheep lying motionless in a shallow ditch at night, then get a glimpse of archival materials including folders, handwritten notes, and a weathered leather bag with metallic hardware. Finally, the focus shifts to a man's hands holding an old, yellowed folder filled with handwritten notes that appear to be old correspondences or records. The sequence moves from raw nature to organized documentation, culminating in the deliberate handling of these aged, personal records.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 108,
+        "total_tokens": 2862
+      }
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "analyse_action": "The scene shows archival materials being carefully examined and stored. A person is handling aged, yellowed notebook papers filled with dense handwritten notes using a magnifying glass to closely review the contents. They then move the papers into a formal filing system, where they're organized into white, square plastic archive boxes with handles positioned on a shelf.\n\nWhile the magnifying glass inspection is happening, there are also two clipped sheets visible—one showing paired typed paragraphs with sections struck through and sections annotated in red, including a circled comment, while the other sheet contains a single typed paragraph with portions crossed out.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 118,
+        "total_tokens": 2872
+      }
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "analyse_action": "The scene is focused primarily on the storage room filled with rows of white archival boxes and piles of papers waiting to be organized. The camera holds on this orderly workspace where the boxed collections are labeled with location stamps for Brooklyn, New York, with a Gulf War archive label on a larger container and other boxes showing fray at the handling holes, indicating they contain quite a number of pages of paper. \n\nThe setting also shows the archival environment itself – the beige wall and floor, the way the boxes are tightly arranged in rows, and the way the paper stacks are piled and sliding through to the edges. The level of fine detail visible in the paper edges and book spines indicates there are many pages contained within each box.\n\nToward the end, the view shifts to an office space where an older man is working at his desk, creating a contrast between the active, meticulously organized storage area and a more lived-in workspace where documents appear more casually stored. This transition highlights the relationship between the physical archives and the people who work with them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 207,
+        "total_tokens": 2961
+      }
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "analyse_action": "In the scene, an older man is working at a cluttered desk in what appears to be his home office. He has white hair that is combed over and wears black glasses with a maroon sweater. The man is seated in a black office chair at a brown desk that's covered with papers and folders.\n\nThe workspace is quite crowded, with stacks of yellow, brown, and gray papers piled on the desk, three small stacks positioned in front of him. On the desk, there's also a brown cup and what appears to be a notepad. Behind the desk, you can see a bookshelf filled with books and additional stacks of papers, adorned with framed photographs and artwork on the white wall. The room features a brown rug on the floor and a window with white blinds allowing natural light in.\n\nAs the video progresses, the man goes through several actions. He lifts his feet up onto the desk to rest them, then adjusts and pushes the chair back. He opens and reviews an index file on his desk, examining it carefully before placing it back down. After completing his work at the desk, he stands up and reaches for a tall orange cup on the shelf. Throughout the scene, he's engaged in what appears to be routine work organization and review in his personal office space.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 260,
+        "total_tokens": 3014
+      }
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "analyse_action": "This scene captures a contemplative, decision-making moment unfolding in an office. The elderly man, wearing glasses and a maroon sweater, is seated at a desk surrounded by stacks of yellow and brown folders. He's displaying multiple positions of deep consideration and focus throughout the scene.\n\nThe man's body language tells a story of thoughtful deliberation. He first grips the edge of the desk with his right hand before lowering it to bring his hand up to his mouth and chin – a classic contemplative gesture. He briefly places his left hand over his mouth in a moment of concentration, then returns to resting his right hand along the desk's edge before settling back into his chair.\n\nAmid these exterior movements, there's an inward journey apparent in his facial expressions and postures. His gaze catches and shifts between the camera and directly ahead, suggesting he's weighing options or considering someone (or something) off-screen. This could indicate he's making an important decision or having an internal debate about a matter of significance.\n\nThe setting reinforces this atmosphere of focused concentration and serious consideration. The organized stacks of folders in yellow and brown colors, along with the white wall adorned with framed black-framed pictures (including one with a blue background and another with a brown background showing a white sheet with black text), create an environment of intellectual work or administrative review. The orderly arrangement suggests this may be a professional office space where decisions that impact documentation or records are being made.\n\nThe overall tone is one of quiet intensity – a moment where time seems to pause as the man carefully weighs options and contemplates his next steps.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 319,
+        "total_tokens": 3073
+      }
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "analyse_action": "The video opens with an older man seated in a quiet study setting, his posture contemplative with his finger resting under his chin. He appears deeply focused, looking downward in thought.\n\nThe scene then transitions to hands resting on a tabletop scattered with papers, some wearing pinkish stains that give them an old, worn appearance. A close-up shows one sheet with neat cursive handwriting, portions of which are circled with orange marker and crossed out in several places. There's a small red mark on the sheet, and the edges of the paper show signs of aging with faint discoloration.\n\nAn elderly person with very wrinkled hands, dressed in a purple long-sleeved sweater, methodically goes through and touches the papers in front of them. Their hands move deliberately across and around the sheets as they examine the documents. Folders are scattered on the tabletop, with papers of various colors and conditions—some stained or damaged—haphazardly spread out. The focus steadily remains on this meticulous, careful handling of the aged documents, emphasizing the deliberate study and examination process taking place in this intimate, cluttered workspace.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 226,
+        "total_tokens": 2980
+      }
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "analyse_action": "The scene shows an older man meticulously reviewing historical paperwork in his office. He systematically pages through a stack of aged documents, carefully examining each sheet as he works through the extensive collection before him.\n\nThe workspace is dedicated to this archival work, with file folders, neat stacks of papers, binders, and folders spread across the desk. He's wearing glasses and maintaining intense concentration throughout this detailed examination process.\n\nWhile working through the documents, he eventually glances up from his desk. The camera reveals more of his office—showing white walls with framed photographs, including the one of soldiers, along with a filing cabinet and additional stacks of paperwork that indicate his research involves a broad archive or collection.\n\nOverall, this appears to be a deliberate, methodical research process in what seems to be a historical documentation office or library setting, where the man is carefully examining primary source materials.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 175,
+        "total_tokens": 2929
+      }
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "analyse_action": "An elderly man is sitting at a dark brown desk in a quiet, organized office, carefully studying a folder filled with papers. He has white hair, black-framed glasses, and is wearing a purple sweatshirt. He methodically scans the contents of the folder, turns the pages with both hands, and appears to be reviewing documents as if conducting research or going through official paperwork. \n\nThe desk in front of him is cluttered with multiple stacked folders and papers arranged in an orderly fashion. Behind him, shelves hold more files and stacks of similar folders, suggesting an archive or administrative workspace. The walls display framed photographs, including a collage image of students and other personal photographs.\n\nThe scene captures a moment of focused, diligent work - the man is quietly absorbed in examining the documents, turning pages, and likely reviewing or organizing important information in what appears to be a professional or research setting, possibly an office, library, or academic workspace.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 188,
+        "total_tokens": 2942
+      }
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "analyse_action": "In this scene, an elderly man in a purple sweater is poring over a collection of yellowed papers spread out on a dark surface. He picks up one sheet that's clearly handwritten in blue ink with what appears to be musical notation, flipping through the pages carefully.\n\nThe scene has an intimate documentary quality, transitioning to show the man seated and speaking with a thoughtful expression. Behind him is a white wall with a framed picture and stacks of similar documents. White text appears on a black background mentioning a woman named Laura asked someone named Sy to make a film in 2005, with this agreement marking nearly 20 years.\n\nThe overall atmosphere conveys someone who is carefully reviewing or working with archival material, possibly examining old documents or recordings.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 152,
+        "total_tokens": 2906
+      }
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "analyse_action": "The scene shows a man in a dark suit walking across a city street in front of a building. Three parked cars—a yellow car, a red pickup truck, and a black car—sit behind him along the curb. The atmosphere has a subdued, slightly hazy quality to it. A man in a red shirt appears standing nearby on the sidewalk, with a blue trash can visible beside him.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 80,
+        "total_tokens": 2834
+      }
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "analyse_action": "The scene depicts a quintessential New York City street moment from the 1970s. A man in a gray suit jacket, white shirt, and red tie crosses the busy intersection. Pedestrians move in various directions - a woman in a black dress walks in the background with an armful of blue packages, and the camera passes by poles wrapped in metal and a backpack. As the man approaches the crosswalk, a bicyclist appears passing through. He then exits the crosswalk and begins walking down a nearby sidewalk beside a white building with yellow scaffolding. The evening atmosphere is illuminated by streetlights against the iconic urban backdrop.\n\nThe scene captures the layered energy of city life, with multiple movements occurring simultaneously - people navigating the sidewalks, cyclists using marked bike lanes, drivers threading through traffic, and street infrastructure like poles, bike racks, and metal fencing. The lighting and atmosphere suggest early evening on this New York City street, with gray skies overhead and the city's fabric of people, buildings, and transportation systems continuously in motion.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 210,
+        "total_tokens": 2964
+      }
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "analyse_action": "The video shows an outdoor scene featuring various activities across different locations. You can see radar equipment positioned near a building, various types of vehicles including a white sedan and SUV, and a person dressed in a gray suit with a black tie walking through an interior space. There's also footage of a cityscape view from over an overpass bridge, with a skyline featuring tall buildings, cars at toll booths, and traffic on the highway below.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 88,
+        "total_tokens": 2842
+      }
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "analyse_action": "The scene shows a man walking toward the entrance of a modern building in rainy weather. He's dressed professionally in a gray suit with a brown briefcase in his right hand and is walking briskly along a rickety wooden ramp that leads up into an open doorway. The setting appears to be an office building or corporate facility on an overcast day.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 72,
+        "total_tokens": 2826
+      }
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "analyse_action": "The scene appears to be from an interview or discussion segments on two different programs. In the first part, there's a wide shot of a glass-fronted building with raindrops streaking down it, showing the exterior at night with parked cars and wet pavement. The watermark \"Yoni Goldvag\" is visible in this scene.\n\nThe main portion features what looks like an older television interview. The interviewee is a man in his 50s or 60s with short light brown hair and large round glasses. He's dressed formally in a gray suit jacket, white collared shirt, and red tie. He's seated against a brown textured backdrop, speaking while gesturing with his hands, with a small microphone clipped to his tie.\n\nBetween these interview segments, there's a brief third shot showing another man in a black jacket, white shirt, and black tie seated in a room with plants. He's looking down and to the left in a very dark, shadowy setting.\n\nOverall, it appears to be a series of interview or discussion segments featuring different speakers.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 218,
+        "total_tokens": 2972
+      }
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "analyse_action": "The scene shows a formal, televised discussion or interview taking place. Alan Alda is seated at a table, dressed in professional attire including a gray suit jacket with a light blue shirt and red tie wearing glasses while speaking and gesturing to emphasize his points. He is communicating with an intensely focused listener in a dark suit with slicked-back hair, who is seated with his hand on his chin. This exchange occurs against a backdrop featuring brown-and-white drapery-like fabric and plants, suggesting an indoor setting suitable for conducted discussions or interviews. The clipped microphones connected to their clothing and the broadcast-quality framing indicate this is a professionally produced conversation, likely from a news program, debate panel, or similar televised discussion format.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 145,
+        "total_tokens": 2899
+      }
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "analyse_action": "The scene shows the unraveling of what appears to be a cover-up, as suggested by the stark title text. \n\nAn initially distressed reporter is being interviewed in what seems to be a newsroom setting, possibly seeking answers or confirmation. However, another man in a suit then appears - initially as a shadowy figure - who strides purposefully through a fluorescent-opped hallway toward an office.\n\nThe tone reads as suspenseful and increasingly ominous. The suited man enters an office where a seated colleague in a white shirt works at a desk, suggesting this unfolding situation is taking place behind the scenes of what we just saw in the interview. The deliberate, purposeful movements of the suited man through both the emergency hallway and into the workspace imply he's actively involved in whatever's being concealed.\n\nThe progression from the calm newsroom interview to the shadowy approach through emergency lighting, into workspaces, and finally to an indoor control room with someone wearing a headset monitoring the unfolding events, all build toward some kind of secretive operation being exposed or pursued.\n\nThe cover-up seems to be something significant - likely connected to Robert Redford's character based on the studio setting and the newsroom interview - but without clear resolution, it appears to be building into a larger conspiracy or revelation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 253,
+        "total_tokens": 3007
+      }
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "analyse_action": "This scene is taking place during a formal swearing-in ceremony of a new president. President Lyndon B. Johnson is standing at a podium with the presidential seal, wearing his dark blue suit and tie, speaking into a microphone while waving to the crowd with his left arm.\n\nThe atmosphere is very official and ceremonial. People are seated in rows facing him, with cameras visible capturing the event. Photographers work nearby with professional camera equipment, including shoulder rigs with view finders and strap-mounted cameras, documenting the historic moment.\n\nThe setting is formal and grand, with a polished wooden floor and ornate chandelier, suggesting this is taking place in a significant government venue. Given the massive crowd, security presence, formal attire of attendees, and the formal governmental backdrop, this appears to be one of America's major public swearing-in ceremonies where the gathered audience witnesses the غال מכן 전 대통령이 대통령직을 맡게 되는 공식적인 의식.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 190,
+        "total_tokens": 2944
+      }
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "analyse_action": "In this scene, Lyndon Baines Johnson is giving a formal speech at what appears to be an official podium address, most likely in the White House setting given the presidential seal on the podium and his suit and tie. You can see his shadow cast on the blue backdrop behind him.\n\nThe speech is being covered by news media, as evidenced by the journalists present who are taking notes while Johnson speaks. He is using deliberate hand gestures throughout his address—making emphatic motions to punctuate his points, then resetting his posture by bringing his hands back together in front of him. At one moment, he raises his left hand to gesture forward while his right hand rests at his side, before continuing his measured presentation.\n\nThe atmosphere is formal and official, with Johnson standing authoritatively at the podium designed for presidential addresses. The journalists' note-taking captures the importance of the event, and the tight framing on Johnson emphasizes his role as the central figure delivering what appears to be a significant public statement or announcement.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 201,
+        "total_tokens": 2955
+      }
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "analyse_action": "In the scene, President Richard Nixon is giving a speech at a presidential press briefing. He stands behind a black podium with the presidential seal, speaking into microphones against a solid blue curtain backdrop. Nixon appears in a dark suit with a white shirt and tie, delivering his remarks formally.\n\nThe video then cuts to an aerial view of agricultural land, showing a vast farmland patterned with rectangular plots in various shades of green. A white blimp flies low over the fields, crossing the scene above the orderly grid of planted rows and patches of bare earth, with apparent roads and tree clusters visible in the patchwork landscape.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 125,
+        "total_tokens": 2879
+      }
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "analyse_action": "The video shows a city or town being bombed from the air. A plane passes overhead flying low over a compact grid of rooftops and tree-lined blocks, which creates a brief flash of white light at ground level. \n\nAs the aircraft continues its course, another explosion occurs, and thick white smoke billows upward. This smoke quickly disrupts the orderly aerial view, spreading first from the center and pushing outward across the network of houses, roads, and small clearings below.\n\nClouds of smoke continue to bloom and expand, eventually engulfing much of the visible area and obscuring the built environment. Several fires are visible burning below, and the white cloud thickens until it dominates the view. When the cloud thins slightly, you can still make out dark patterns beneath it that suggest the streets and building outlines trapped by the spreading plume.\n\nThe sequence depicts a bombing attack on this populated area, with successive strikes causing widespread destruction, fires, and destruction of trees and buildings under the rising smoke.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 201,
+        "total_tokens": 2955
+      }
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "analyse_action": "The video shows a retro surveillance and monitoring operation centered around a large institutional complex, presented in a sequence of rapid, archival-style shots.\n\nThe footage opens with an aerial view of a long white building complex with multiple wings, surrounded by a busy parking lot filled with cars and set against a green cityscape with lakes and rivers. The imagery has a vintage quality, giving it documentary or newsreel character.\n\nThe sequence then expands to a more comprehensive view of the facility's geography and socio-political context, showing extensive network of on-site road access for vehicles. The scene expands to include a modern, multi-story administrative building or government facility with reflective windows and numerous windows, with urban buildings, rivers, and a distant bridge visible beyond amidst thick clouds.\n\nThe video concludes with the camera focusing on a projector—the film reel and projector represent the recording and playback equipment used to capture and review the surveillance footage. Throughout, the style remains distinctly vintage, presented with grain and grain and marks on the screen, giving it the appearance of historical monitoring footage.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 209,
+        "total_tokens": 2963
+      }
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "analyse_action": "The scene shows a control room in use during the Vietnam War era, with various individuals working at equipment and terminals.\n\nA man with short dark hair and black glasses sits at a station operating an old-fashioned keyboard with circular red, white, and black keys on a large gray console. He works methodically, and an illuminated red indicator light shows the terminal is active while a sheet of paper—a typed report—lies on the desk.\n\nNearby, a dark-colored hand points at an annotated control panel displaying labels like \"President,\" \"Wash. Switch,\" \"White House,\" and \"Fcnrl,\" with numbers such as \"301 977 3050.\" The panel includes checkboxes and various switch positions, including a red-bordered area at the top left.\n\nThe space is filled with these terminals and control surfaces, presenting organized rows of equipment with different symbols and information—people actively managing what appears to be critical communications infrastructure related to the war effort and military operations.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 199,
+        "total_tokens": 2953
+      }
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "analyse_action": "The video shows four sheets of vintage-style typewritten pages displayed in a simple grid formation against a black background, with the upper-left sheet being the oldest and wrinkled. After these documents, a black-and-white portrait appears featuring a man identified as Seymour Hersch, who has dark-rimmed glasses, short wavy hair, and a slight smile while looking directly forward. He's wearing formal attire including a black suit jacket, striped shirt, and tie, standing before a textured wall with horizontal lines. The portrait's nameplate labels him as \"Seymour Hersch\" and it's presented with a Polaroid-like frame.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 129,
+        "total_tokens": 2883
+      }
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "analyse_action": "The sequence of scenes depicts journalists covering an official event. In the narrow hallway, reporters and photographers crowd forward with cameras and microphones, vying for prime positions as they rush to document Arrangement for Peace in Vietnam that is speaking at a podium before a map and audience. The footage alternates between the bustling corridors filled with press members eager to capture the moment and the formal indoor hall where attendees sit listening to speakers. Behind the podium, individuals stand quietly in the shadows observing, maintaining a formal atmosphere. The closing shot returns to the organized press area, showing film cameras and photographers working together as they continue documenting the proceedings of this official government announcement.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 131,
+        "total_tokens": 2885
+      }
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "analyse_action": "I apologize for the error in my previous response. Based on the clarified information that this is Ken Burns' wonky screen capture from 1965 and the video displays \"Ken Burns: James Brown.\" The scene is showing a formal event or conference taking place in a large, reverently packed auditorium. \n\nThe audience is uniformly dressed in formal attire that reflects the 1960s style, including suits, tie shirts, and polished dress shoes. The room is densely filled with men who are focused intently on a central presentation or speech occurring off-screen to their left. This setup is typical of political speeches, academic lectures, or important addresses where attentive crowds gather to listen and document the proceedings.\n\nThe atmosphere appears serious and disciplined, with the crowd maintaining a formal posture throughout, suggesting they're witnessing significant someone making an important point. The setup—with a large audience facing uniform direction and one central point of focus—creates a formal, serious, and focused ambiance typical of 1960s live political events or academic gatherings. The professional filming equipment visible further indicates this is an organized public event being documented.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 228,
+        "total_tokens": 2982
+      }
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "analyse_action": "In the scene, a formal presentation is taking place in an official meeting room. Men in suits are seated in a semicircle around a central table, with some standing at the front and others around the perimeter. They appear to be engaged in discussion and analysis, looking at papers they're holding and reviewing documents placed on the table.\n\nSome participants are writing with pens, suggesting they're taking notes or drafting comments. A map is visible on one side of the room, and this draws particular attention from several attendees who are pointing out and discussing specific areas.\n\nBehind the main group, a second row of seated observers watches the proceedings, indicating this is an important meeting with interested onlookers present.\n\nThe participants' formal attire, the structured layout of the room, the maps and papers, and the overall tone all indicate this is an official government meeting or briefing rather than a casual discussion. Several attendees are wearing glasses, which adds to the professional, document-heavy nature of the session.\n\nThe mood at the table appears focused and serious, with people consulting their notes and documents closely as they work through whatever topic they're reviewing in front of the assembled group.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 231,
+        "total_tokens": 2985
+      }
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "analyse_action": "The scene shows a modern-day office setting. An older man with gray hair, black-framed glasses, a black sweater over a blue collared shirt is speaking, moving his mouth slightly in a soft talking pattern while turning his head emotionally. In the background, there are framed pictures on a white wall and piles of papers on a greenish-gray table, creating a busy work or study atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 80,
+        "total_tokens": 2834
+      }
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "analyse_action": "The speaker is addressing a gathered audience in an interview-style exchange. He speaks while wearing his glasses and dark jumper, engaging directly with someone off-camera.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 31,
+        "total_tokens": 2785
+      }
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "analyse_action": "The scene is taking place during what appears to be a formal political or ceremonial event.\n\nIn the opening moments, we see close-up views of two middle-aged individuals with gray hair speaking to one another in what looks like a hallway or corridor, with natural light filtering through nearby windows. This appears to be a private or preparatory moment before the main event.\n\nThe scene then shifts to a large indoor auditorium where a public gathering is underway. The space is fully occupied, with attendees dressed in formal attire filling the auditorium. From an elevated view, you can see the crowd facing toward a stage on the left side of the room. The stage features two individuals standing at a podium, suggesting they are speaking or addressing the audience. The atmosphere indicates this is a significant public engagement or address, with the President's helicopter landing nearby to further emphasize its formality and importance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 175,
+        "total_tokens": 2929
+      }
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "analyse_action": "The scene unfolds as a series of brief moments connected through a single action sequence. It begins outdoors with a military helicopter landing in the grassy landscape outside the White House. The aircraft touches down in a controlled manner on the manicured grounds, revealing the White House building with its white columns and the fountain in the background, creating a classic government setting with trees framing the scene.\n\nThe video then transitions abruptly to a completely different environment—an interior room where four people are gathered around a table. This room has stark white walls, is dimly lit by lamps, and features a framed picture. Everyone is wearing glasses and suits, suggesting a formal discussion or meeting. One person is holding a phone receiver to their ear. The table is cluttered with papers and documents, indicating this is likely a serious or official matter in progress.\n\nThe briefness of each scene suggests these moments are being presented as fragmented, disconnected glimpses rather than continuous action. The juxtaposition between the two settings—the military helicopter landing and the indoor discussion—creates a sense of a broader narrative occurring across different locations and contexts, though the purpose behind this fragmented presentation remains unclear from these brief glimpses.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 233,
+        "total_tokens": 2987
+      }
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "analyse_action": "The scene shows a large protest taking place in front of the White House. A dense crowd of men and women of various ages, wearing business attire including suits and dresses, are packed together on a city street lined with trees and lampposts. Many protesters are holding white signs with bold black text. Street signs are visible indicating landmarks like the Pentagon, and signboards can be seen being waved by the crowd. The overall atmosphere displays a significant demonstration taking place in the heart of Washington, D.C., with people gathered to voice their concerns or demands as part of what appears to be a substantial civic gathering. The extensive crowd and the formal attire of the participants suggest this is a major organized protest event occurring in front of the iconic White House building.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 151,
+        "total_tokens": 2905
+      }
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "analyse_action": "The video shows what appears to be a large crowd gathering around a building. People are milling about and standing under trees while soldiers march in formation along the street. The scene captures a mix of military activity and civilian presence, suggesting some kind of public event or formal occasion taking place in an urban area.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 61,
+        "total_tokens": 2815
+      }
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "analyse_action": "The scene shows a chaotic street confrontation or civil disturbance. People are running frantically in various directions—some fleeing from others who appear to be dressed in police or military-like attire, including at least one person wearing a white helmet who appears to be acting aggressively. There's a man in a suit clutching a stick as he runs, and protesters in knit caps are visible sprinting across what looks like a main thoroughfare. The atmosphere is tense and manic, with crowds densely packed and in constant motion, suggesting this is a breaking news or emergency event unfolding in a public space.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 117,
+        "total_tokens": 2871
+      }
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "analyse_action": "A fight is happening in the scene. A man wearing a helmet labeled \"US Marshal\" can be seen pushing another man. Then the man in the helmet drags the other man behind him.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 40,
+        "total_tokens": 2794
+      }
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "analyse_action": "The scene shows an older man in what appears to be a documentary or interview setting. He's seated against a plain white wall in a room with shelves filled with scattered papers and old booklets visible in the background. A black-framed picture hangs on the wall behind him. \n\nHe's wearing dark-rimmed glasses and a purple collared shirt, and his gray hair is neatly combed over. His expression is serious and he maintains a composed demeanor throughout, occasionally blinking as he looks off to the side rather than directly at the camera.\n\nNext to him, there's an old camera positioned in the frame, suggesting this may be related to photography or videography work. While he's being filmed or recorded, he appears to be thinking or reflecting on something rather than actively speaking or engaging in conversation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 162,
+        "total_tokens": 2916
+      }
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "analyse_action": "The scene captures a man being interviewed about his personal thoughts or experiences. He is speaking directly to someone off-camera, offering detailed comments while occasionally gesturing to make his points clearer. His manner of speaking is natural and engaged, with animated hand movements complementing his explanations.\n\nToward the end of the interview, the scene abruptly transitions to a black-and-white portrait photograph of him outdoors. In the photograph, he's standing among dense greenery, wearing a white dress shirt and tie with his short brown hair parted to the side and black glasses. He maintains a serious, neutral expression while looking directly at the camera with his arms at his sides.\n\nThis juxtaposition suggests the interview is about his past or some aspect of his life captured in that formal portrait, possibly discussing memories or experiences related to the photograph. The setting around him—particularly the large stacks of documents in bright yellow, green, and white manila folders visible in the background near the end of the video—indicates this may be taking place in an archival or study environment, possibly related to exploring or documenting his history or career.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 220,
+        "total_tokens": 2974
+      }
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "analyse_action": "The video moves through a sequence of portraits in black and white, following the same woman at different stages of her life. It begins with a young man in formal attire standing in front of a lush garden. The portraits then shift to older women, showing various poses—sometimes seated and looking at the camera, sometimes reclining on a bed with a baby. \n\nOne particularly striking sequence shows a woman in a long dark dress leaning back on a floral-patterned bed, gazing contemplatively to the side, with a baby in a white onesie positioned next to her. This is followed by another portrait of the same woman sitting with the baby resting against her chest.\n\nThe montage appears to document the woman's journey over time, from youth to womanhood and parenthood, all captured through formal posing.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 161,
+        "total_tokens": 2915
+      }
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "analyse_action": "The footage comprises two distinct scenes. \n\nIn the first scene, you're looking at a daytime city street with an active traffic flow. Cars are moving in both directions on two black asphalt lanes divided by white dashed lines, and additional cars are lined up along the curb. The streetscape includes a multi-story brown building with many windows on the left side featuring signage for \"GE Consumables Co.,\" and there are pedestrians walking along the sidewalk. The overall atmosphere is typical of an older urban setting.\n\nThe second scene shifts indoors to feature an older man with gray hair and black-framed glasses in what appears to be a quiet home setting. He's shown in close-up shots, at one point operating a light switch, and at different moments caught mid-speech while sitting with his fingers resting against his cheek and lips. Behind him is a white wall with a partially visible framed picture and some stacked objects that appear to be books.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 187,
+        "total_tokens": 2941
+      }
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "analyse_action": "The scene appears to be showing someone examining aerial or satellite imagery using specialized software. The grayscale land imagery with its grid-like patchwork of squares and rectangles suggests it's a terrain or land use map analysis. A blue arrow is being drawn across the view, likely highlighting or pointing out a specific area of interest within the mapped regions.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 67,
+        "total_tokens": 2821
+      }
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "analyse_action": "The scene shows a static black-and-white aerial photograph showcasing two areas. The right side displays multiple structures marked with blue dots, while the left side highlights smaller buildings with a distinct green circle containing a dash. Interpretations appear to be about analyzing location features and scattered buildings shown from above.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 58,
+        "total_tokens": 2812
+      }
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "analyse_action": "In the scene, a man pushes a cart filled with several other people down a long corridor that appears to be in an art museum or gallery. The walkway is adorned with portraits and framed artworks lining both sides, creating a gallery-like atmosphere. Along the corridor, other people can also be seen walking, including what appears to be an official in a blue military uniform moving in the same direction. \n\nThe primary figure, who resembles a military-style mover or manager, carefully navigates the space while pushing the cart, which carries multiple individuals, through this gallery setting. The camera follows their progress as they proceed down the corridor, then follows him as he turns left through a white door with a circular window, drawing the scene to a close as the original sequence suddenly stops at this moment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 158,
+        "total_tokens": 2912
+      }
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "analyse_action": "The scene takes place in an archival workspace where an elderly man is sitting at a desk facing the camera. He's holding a black coffee mug in his hand.\n\nThe setting is an office dedicated to paperwork and records storage, with various documents visible on the desk in front of him and stacks of papers on another surface behind him. A black desk lamp and file cabinet are also present in the workspace.\n\nThe man is engaged in conversation with someone off-camera. He's holding a black coffee mug in his left hand while gesturing with his right hand to emphasize a point. As he speaks, he occasionally tilts his head, looks down, then back up as he continues talking about something related to the papers or materials around him.\n\nThere's also a camera operator visible who is moving the camera upward and then to the right-hand side during this interaction.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 170,
+        "total_tokens": 2924
+      }
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "analyse_action": "The scene shows a camera passing through a formal historical corridor, originally shown with a soldier in a dark jacket and hat, followed by shots with a guard figure in full uniform standing at attention in front of a glass-paneled door with an open entree.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 52,
+        "total_tokens": 2806
+      }
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "analyse_action": "An older man with gray hair and black-framed glasses is being interviewed in what appears to be an office. He is wearing a purple sweater over a blue collared shirt. He is speaking with a serious expression, frequently looking down toward the table, sometimes lifting his chin slightly before looking back down.\n\nHe is sitting in a black chair in a room with white walls, holding a black coffee mug in his left hand on a cluttered desk. While he continues speaking, he occasionally gestures with his right hand. The desk is covered with papers, folders, and books, and behind him are additional stacks of papers. The office contains various framed pictures on the wall and a gray filing cabinet.\n\nAs the conversation progresses, he becomes even more contemplative. He rests his right hand on his chin while holding the coffee mug in his left hand, creating a thoughtful pose. The overall atmosphere is focused and orderly but slightly overwhelming due to the sheer volume of paperwork everywhere in the workspace.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 196,
+        "total_tokens": 2950
+      }
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "analyse_action": "The video shows a static black-and-white newspaper page. The scene displays multiple printed articles with various headlines and photographs spread across the layout. The camera gradually zooms in closer on the newspaper page itself, tightening on the printed text that appears to be typography or newspaper article text.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 56,
+        "total_tokens": 2810
+      }
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "analyse_action": "The scene shows someone looking at newspaper or magazine articles from mid-20th century military legal proceedings and meetings. The viewer is presented with a black-and-white page featuring a photograph of uniformed military personnel and marching soldiers, followed by another archival photograph showing two men standing before what appears to be a courthouse entrance with \"United States Court of Military Appeals\" visible.\n\nLater, an elderly man appears in what looks like a home office or study setting, sitting and speaking to someone off-camera. He's positioned in front of stacks of documents or books, suggesting he may be reflecting on or discussing the historical legal content displayed earlier.\n\nThe entire sequence seems to be someone reviewing historical military legal documents and cases, transitioning from examining printed records to actually speaking about or contemplating the material in a personal, reflective context.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 161,
+        "total_tokens": 2915
+      }
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "analyse_action": "The scene presents an examination of documents and records through a series of deliberate images. \n\nAn older white man, identified as Answer Books author Robert McCammon, is shown in multiple shots wearing a purple sweater over a blue collared shirt and glasses. He appears to be engaged in some form of document analysis or research, potentially connected to the topics discussed in his book. \n\nA static black-and-white portrait of another man wearing a patterned suit and glasses is shown in deep contemplation, accompanied by a window with a blind, suggesting scholarly reflection.\n\nThe sequence concludes with a close study of two overlapping photocopies—an official-looking form with numerous blank fields, a detailed paragraph on the right sheet, and a prominent black square—that appear to be important records being examined. The progression moves from personal reflection to document analysis, emphasizing the process of documenting, interpreting, and researching evidence or information.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 178,
+        "total_tokens": 2932
+      }
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "analyse_action": "The scene takes place in a quiet office where a man is working alone at his desk. He sits at a brown desk reviewing paperwork that appears to be some kind of application or form, focusing intently as he reads through the documents. The setting suggests he's doing official work or administrative duties, and the form he's reviewing is related to a \"student reenlistment\" program at what seems to be a school facility.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 87,
+        "total_tokens": 2841
+      }
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "analyse_action": "The scene shows a close-up view of a printed page with black text on white paper, featuring text that appears to be from military documentation. In the final moments, there is a brief glimpse of four military aircraft flying in a V-formation against a clear blue sky with wispy clouds. The page seems to reference names like William J. Calloway and mentions terms such as \"U.S. Army\" and \"Republic of South Vietnam.\" This appears to be some kind of official military document or record being examined.\n\nThe combination of the text on paper and the aircraft footage suggests this may be footage related to a military topic, possibly archival documentation featuring a bomber pilot like William J. Calloway shown alongside footage of planes flying in formation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 150,
+        "total_tokens": 2904
+      }
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "analyse_action": "The video shows what appears to be a promotional or informational piece about a military facility, featuring a sequence of exterior shots of various buildings and landmarks.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 30,
+        "total_tokens": 2784
+      }
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "analyse_action": "The scene presents a chronological journey through a historical setting. It opens with a dark outdoor space featuring a prominent white concrete statue of a man in side profile with his arm raised, set against a large white multi-story building with a red roof. A gray banner with black text reads \"USA Army Infantry School,\" clearly identifying this as a military facility. \n\nThe scene then transitions to a vintage black-and-white portrait - a black-and-white photograph of an older man standing outdoors among dark foliage with bright white flowers. He poses with hands in pockets wearing what appears to be army uniform.\n\nFinally, the video concludes with a detailed black-and-white architectural map or blueprint on white paper, featuring precise floor plans, labeled sections, and a bordered area in the lower right corner. The composition connects visual elements that suggest military education or training facilities, with the map potentially representing detailed layouts of the infrastructure at place",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 178,
+        "total_tokens": 2932
+      }
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "analyse_action": "The scene shows a still image of a man casually seated on a light green couch, staring directly at the camera with a serious expression. He's resting comfortably with one knee up, dressed in dark jeans and a blue denim jacket with the sleeves rolled up, holding a cigarette in his left hand.\n\nThe room is dimly lit, creating a somewhat moody atmosphere. Behind him on the wall is a large painting, and to one side sits a small table holding a lamp and a bowl. The overall setting appears to be inside someone's home space.\n\nThe scene maintains this composition throughout—the man remains in the same seated position, looking straight into the lens, while all elements like the painting, lamp, bowl, and his figure stay in fixed positions. It's clearly a posed photograph rather than an active scene unfolding, capturing a moment of stillness and quiet contemplation in this indoor living space.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 180,
+        "total_tokens": 2934
+      }
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "analyse_action": "The scene shows a young man seated on a brown couch, holding a cigarette and gazing into the distance, while an older man speaks directly to the camera in a separate shot. The older man is wearing glasses and a purple sweater over a blue collared shirt, with a thoughtfully contemplative expression as he addresses the viewer. The two individuals, who appear to be different people, are presented in succession rather than interacting with each other.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 89,
+        "total_tokens": 2843
+      }
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "analyse_action": "The scene shows two separate moments. First, there's a static black-and-white photograph of a young military Hispanic man in uniform. Then the scene transitions to show an older man indoors, adjusting his glasses as he prepares to speak and gesturing with his hands while addressing the camera.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 57,
+        "total_tokens": 2811
+      }
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "analyse_action": "The scene shows an older man at a cluttered desk in what appears to be an office or home office setting. He is a white-haired man wearing black-rimmed glasses, a purple sweater, and a blue polo shirt layered beneath it, with his sleeves pushed up on his forearms.\n\nHe has his hands clasped together in front of him on the desk as he sits, looking quietly to his right with a considered, almost solemn expression on his face. The background shows shelves filled with stacks of books and folders against a white wall, creating a scholarly or professional atmosphere.\n\nThe scene has a documentary or interview quality to it. However, there's no audio accompanying what he's saying, so we cannot hear his words or determine the specific nature of his thoughts or statement.\n\nLater in the scene, there's a brief cut to a typewritten article page that appears on screen, attributed to Seymour Hersh from 1969 and referencing events in North Bennington, Georgia. This suggests he might be reading or referencing this historical material, though without audio or context from the video, we cannot confirm this directly or understand the full significance of the transition.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 236,
+        "total_tokens": 2990
+      }
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "analyse_action": "The video presents a researcher-like document examination scene followed by what appears to be a formal interview or deposition. Initially, we see a close-up of weathered, typewritten pages with stark text that reads \"clear the area, company commander,\" suggesting something related to military or organizational discipline.\n\nThe sequence then shifts to a seated man in business attire. He's positioned seriously in what looks like a formal interview setup, with his left hand resting near papers on a desk, and appears ready to speak. The combination of documenting text and showing him set up for statement suggests he might be the one associated with the disciplinary quote shown earlier.\n\nThis creates an investigative or judicial atmosphere—documenting texts and preparing someone for official testimony. The stark, official nature of both elements points to some type of proceeding or investigation where statements are being formally recorded.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 168,
+        "total_tokens": 2922
+      }
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "analyse_action": "The scene alternates between two contrasting settings. First, there's a formal, vintage interview or meeting taking place in a crisp office environment. A bespectacled man sits at a desk cluttered with papers, books, and documents, speaking while wearing a white shirt and tie. An assistant stands nearby this desk.\n\nThe footage then shifts to a more casual and intimate setting focused on an older man with white hair and a beard who is speaking in what appears to be a home or living space. He's seated and wearing a blue plaid shirt, addressing someone off-camera while smiling.\n\nThe sequence moves between these two environments—one a serious, formal workspace with conversations and document review, and the other a relaxed, conversational domestic setting with what seems to be a personal interview or discussion.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 159,
+        "total_tokens": 2913
+      }
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "analyse_action": "The scene shows several distinct moments unfolding in sequence:\n\nIn the first moment, an older man with a white beard is seated and speaking, appearing to be explaining something.\n\nThe second moment shifts to a darker, industrial setting with manila envelopes being dumped in large quantities onto a conveyor system. Multiple men are present in this confined space; some are standing while others are crouched or bending over, handling the paperwork with gloves as it moves along the conveyor belt.\n\nFinally, the scene moves outdoors in near darkness. A wide corridor is flanked by tall silver structures on both sides, and a few individuals can be seen walking through the shadowy space with some light illuminating parts of the area.\n\nThe sequence appears to show different environments and activities moving from an indoor interview setting, to a busy paper-handling operation, to a dark outdoor location where people are moving through shadowed corridors.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 178,
+        "total_tokens": 2932
+      }
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "analyse_action": "The scene presents pages from two different vintage newspaper clippings featuring war-related articles from 1969. The first is from the Chicago Sun-Times with a headline about a US officer charged with murdering 109 people in Vietnam, while the second is from the Cincinnati Enquirer with an article titled \"Army Charges Lieutenant Murdered 109 Viet Civilians.\"",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 78,
+        "total_tokens": 2832
+      }
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "analyse_action": "Two men in suits are seated in a dimly lit office at separate desks, examining papers and spreadsheets with intense focus. Behind them, shelves hold books, folders, and maps that catch the light, while a spotlight isolates the men at their work stations behind a glass window.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 58,
+        "total_tokens": 2812
+      }
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "analyse_action": "The scene takes place in a military office setting where a low-ranking officer is presenting information directly to President Ronald Reagan. The President is seated at his desk in the office, while the officer delivers a report to him. Both are positioned on opposite sides of a large brown desk, surrounded by the formal trappings of a presidential workspace including maps and bookshelves with various volumes.\n\nAfter the meeting, the scene transitions to a formal military procession. A group of uniformed military personnel in green uniforms and matching hats march in an orderly formation down brick steps, which are part of the White House. At the front of the formation, a captain leads the group at the head of the stairs, with other ranks of officers marching behind in disciplined formation. The atmosphere is significantly more formal and ceremonial than the intimate office meeting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 163,
+        "total_tokens": 2917
+      }
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "analyse_action": "The scene depicts a nighttime military police operation unfolding on a residential street. Armed military police in dark uniforms are actively securing the area - some are patrolling on foot in organized lines, while others are positioned around the street, including one officer standing on the hood of a car. The officers are maintaining vigilance and preparing to assist someone in distress.\n\nA military police car is parked with its driver's door open, and an officer is getting out of it while holding an assault rifle. The presence of the weapon indicates they're ready to respond to any potential threat or provide law enforcement assistance.\n\nThe atmosphere is tense and formal, with a crowd of civilians gathered along the street. This mixture of uniformed personnel with weapons, official vehicles, and watching residents suggests an emergency situation where military law enforcement is taking control of the area. The nighttime setting, complete with streetlights and cars with their headlights on, adds to the serious and urgent nature of the operation - it appears to be a coordinated military police response involving crowd management and security at what is likely a significant incident or alert situation in the neighborhood.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 219,
+        "total_tokens": 2973
+      }
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "analyse_action": "The scene captures a ceremonial military procession with a high-ranking officer, likely a general, prominently featured.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 21,
+        "total_tokens": 2775
+      }
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "analyse_action": "In the scene, an older man is sitting at a wooden desk reviewing items on his desk, appearing focused and contemplative. He then picks up his phone to take a call. After the call ends, he tosses the phone onto the desk, spilling a pencil that had been underneath, then stands up. During the call, he briefly closes his eyes while holding the phone to his ear with one hand. The setting is an office or study, with stacks of papers visible, creating a professional environment where he seems to be attending to both paper work and dealing with a phone conversation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 119,
+        "total_tokens": 2873
+      }
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "analyse_action": "An older man is seated indoors, engaged in a phone conversation. He's speaking into a dark-colored cell phone held in his left hand against his ear, while his right hand moves frequently as he talks. His expression shifts between concern and neutral focus as he interacts with both the person he's speaking to and the person recording the conversation. The setting appears to be an office or work environment, with multiple stacks of files and folders behind him on a desk. The camera work is quite distinctive, constantly zooming in and out of his face, creating a documentary-style quality that keeps drawing attention to his expressions and movements throughout the phone call.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 128,
+        "total_tokens": 2882
+      }
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "analyse_action": "The scene shows an older man at his cluttered desk making a phone call while surrounded by mounds of tall yellow folders and stacks of papers under bright fluorescent lighting. After the conversation, he puts away his phone and breaks into warm laughter. Following this moment, the video transitions to a completely different view of a city street from inside a car. The camera shows four lanes of traffic flowing through what appears to be a historic downtown area in mid-century America, with classic cars from the 1950s and 1960s driving past brick housing and small businesses along tree-lined roads.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 122,
+        "total_tokens": 2876
+      }
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "analyse_action": "The video opens on a quiet city street scene with vintage cars from the 1960s and 1970s moving through a downtown corridor. These automobiles include a classic yellow taxi, a white Beetle, a blue car, and brown-colored cars traveling between brick buildings on both sides. Among the structures on the right is a notable red brick building with a gray steeple, surrounded by smaller brown and tan buildings with pale trim. All these vehicles are from decades past, creating a period atmosphere of urban driving in what appears to be a residential or downtown area lined with brick architecture. The video then transitions to display old newspaper pages. One newspaper features a prominent headline section with multiple panels and images arranged in a grid format, based on thin black text. The final newspaper page shown presents a stark column of text with a bold headline about a soldier being prosecuted for mailing threatening letters. These newspaper pages are printed in black and white and professionally arranged, creating a clear shift from the live-action street scene to static historical documentation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 209,
+        "total_tokens": 2963
+      }
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "analyse_action": "The scene presents a sequence of historical materials arranged in a formal, archival manner. It begins with a vintage black-and-white newspaper front page that features a prominent photograph of a girl in a white dress seated in a rocking chair. Below the photograph, there's an article with a bold headline discussing letters that led to mass killings sent by soldiers.\n\nThe display then focuses on a typed letter visible against a black background. This document is addressed to Ron Redenhour at 1416 East Thomas Road No. 104 in Phoenix, Arizona. The letter was written on March 29, 1969, and appears to be related to events happening in the Republic of Vietnam. It describes reports of alleged mass killings and references events described as taking place in a village in 1968.\n\nTogether, these items create a solemn presentation of wartime documentation, connecting a printed news article about outbreak of violence to the firsthand account captured in this typed correspondence. The careful arrangement and lighting suggest this is an archival or commemorative presentation intended to document these somber historical events from the Vietnam War period.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 225,
+        "total_tokens": 2979
+      }
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "analyse_action": "The scene depicts a document being typed on typewriter, showing the mechanical clacking of keys as text appears. This is followed by footage from inside a crowded airplane, where passengers wearing blue and brown uniforms are seated tightly in their seats, with some reading newspapers and others writing on notebook paper at their tables under the soft overhead lighting. The final scenes show a young man speaking outdoors at a microphone in front of dense greenery, captured in black-and-white, appearing mid-speech as he addresses the audience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 102,
+        "total_tokens": 2856
+      }
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "analyse_action": "The scene shows a young Paul McCartney being interviewed outdoors in a quiet setting. He's speaking into a small microphone held in front of him while standing among lush greenery, including trees and bushes that frame the background. His expression remains quite serious and contemplative throughout the interview, though there's a hint of a slight smile breaking through at one point.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 71,
+        "total_tokens": 2825
+      }
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "analyse_action": "The man remains mostly still in the frame with his mouth partially open in mid-reaction. Just after the leaf sweeps past in front of his face near the end, there is a brief flash or momentary interruption.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 44,
+        "total_tokens": 2798
+      }
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "analyse_action": "The video shows a single static photograph of a printed document being examined. The page contains three columns of text that appears to break down category names and prices. Some prices are highlighted with black circles and underlined borders, suggesting they are of particular significance or importance. The document resembles an older-style receipt or catalog layout, with mixed uppercase and lowercase text arranged in a columnar format. A faint watermark is visible on the page. No new information or camera movement occurs—this is simply a close view of this one document laid out flat.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 108,
+        "total_tokens": 2862
+      }
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "analyse_action": "This appears to be a documentary or historical piece about military experiences. The opening shows what looks like a military personnel roster or memorial, listing names with some names crossed out, which suggests this may be documenting casualties or personnel records.\n\nThe scene then shifts to a soldier sitting in a chair, dressed in a green camouflage uniform with various service patches and insignia. He has a mustache and short dark hair, and appears to be looking downward, possibly at a document or surface in front of him.\n\nThe room has a mint-green wall with a gray-framed bulletin board behind him, displaying various pinned items including a black-and-white photograph of a group of people, a white page with yellow markings, and another white page with black text. \n\nThis suggests the soldier is being interviewed or interviewed about his military service or experiences, which is likely connecting to or explaining the memorial roster shown earlier in the video. The entire setup – uniform, formal posture, the interview-like composition, and the historical artifacts on the wall – indicates this is documenting individual experiences from a historical military context, possibly from a war.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 220,
+        "total_tokens": 2974
+      }
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "analyse_action": "In the scene, two individuals are being interviewed in what appears to be an office or archives setting. The footage shows an alternating interview style.\n\nThe first segment features a man in military uniform sitting in a leather chair, speaking with a repressed facial expression against a white wall decorated with white sheets and a black-and-white photograph.\n\nThe second segment shows an older man with gray hair and black glasses in what looks like a research office or archive. He's seated in front of a white wall decorated with two framed pictures, with several stacks of files and folders on some shelves behind him. This man speaks with a slight smile, occasionally appears to look to the side, and at one point rolls his eyes.\n\nThe combination of their serious to measured expressions and the archival office background suggests these are documentary-style interviews where the men are recounting past events or discussing historical matters of some significance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 176,
+        "total_tokens": 2930
+      }
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1305,
+      "analyse_action": "A man is having an interview in a white office with white walls while he's speaking to someone off camera.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 23,
+        "total_tokens": 2777
+      }
+    },
+    {
+      "intervalle_index": 87,
+      "intervalle_debut": 1305,
+      "intervalle_fin": 1320,
+      "analyse_action": "The video shows a scene from an archival news report. It opens on a close-up of a newspaper article that appears to be discussing conflict or controversy, with the name \"Bernhardt\" visible and segments referencing military orders and personal accountability.\n\nThe coverage then transitions to news footage on location, showing a street scene where uniformed officers are present. The camera pans across the area, capturing military personnel and civilians walking along what looks like a residential sidewalk and grassy area. Law enforcement officers in black caps and jackets are visible among the crowd. As the scene develops, it focuses on a mustached military-appearing man - likely Bernhardt - who stands animatedly in the street. He's wearing the distinctive insignia You conclude the clip with a shot of a uniformed police officer in a black hat with gold detailing and a silver badge, standing in front of a red brick building with white mortar, gazing downward.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 185,
+        "total_tokens": 2939
+      }
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 1320,
+      "intervalle_fin": 1335,
+      "analyse_action": "The man is making a statement. They are in the press conference room.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 16,
+        "total_tokens": 2770
+      }
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 1335,
+      "intervalle_fin": 1350,
+      "analyse_action": "A military uniformed official with a mustache and short black hair is giving a formal press conference. He sits at what appears to be a desk or lectern positioned before a bank of microphones bearing different news station logos. The camera work shows a steady, zoomed-in view that emphasizes his serious expression and the official nature of the event.\n\nBehind him, you can see a large whiteboard or chart board covered with dense writing, a map with lines, and what looks like grids or battle plans marked with various numbers, giving the setting an operational military context. Throughout the press conference, he maintains the serious demeanor appropriate for such a formal briefing, occasionally glancing to his left or shifting his gaze slightly as he continues responding to questions from the press.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 152,
+        "total_tokens": 2906
+      }
+    },
+    {
+      "intervalle_index": 90,
+      "intervalle_debut": 1350,
+      "intervalle_fin": 1365,
+      "analyse_action": "The scene begins with a close shot of a bold newspaper headline about varying accounts of the My Lai massacre being discussed. It then shifts to an older man with short white hair and a short white beard, wearing a dark blue plaid button-down shirt, speaking directly to the camera against a plain white wall. He looks slightly to the left with a serious, contemplative expression as he talks. The video concludes with a screenshot of a graphic showing a straight black line followed by a block of white text saying, \"I am angry and upset.\"",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 110,
+        "total_tokens": 2864
+      }
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 1365,
+      "intervalle_fin": 1380,
+      "analyse_action": "The scene shows a view of multiple newspaper pages focusing on political and military stories, with a particular emphasis on the Minnesotan political scandal.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 30,
+        "total_tokens": 2784
+      }
+    },
+    {
+      "intervalle_index": 92,
+      "intervalle_debut": 1380,
+      "intervalle_fin": 1395,
+      "analyse_action": "An older man in a formal military uniform is delivering a speech from behind a podium at what appears to be an official ceremony or military event. He stands at the podium, which is equipped with multiple microphones arranged in a row, reading prepared remarks or notes from a document.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 56,
+        "total_tokens": 2810
+      }
+    },
+    {
+      "intervalle_index": 93,
+      "intervalle_debut": 1395,
+      "intervalle_fin": 1410,
+      "analyse_action": "The scene shows a formal military address at an Army Association Annual Meeting. An elderly man in a dark uniform stands at a podium delivering a speech, with multiple microphones positioned in front of him and the State seal flag visible behind him. \n\nThe camera then shifts to a wider view of the full auditorium, revealing the scale of the event with rows of attendees seated at tables in the foreground, illuminated by artificial lighting. On stage above the speaker, large gold letters spell out \"Annual Meeting of the Army Association\" with a large gold medallion featuring a soldier prominently displayed overhead.\n\nThe scene transitions from the speaker at the podium to an interview setting, where another elderly man with white hair and glasses speaks directly to the camera in a subdued, documentary-style segment. He's shown seated indoors wearing a dark red sweater over a blue collared shirt, with shelves of books and papers stacked against a white wall behind him, providing a contrast that suggests the footage is being revisited and discussed.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 199,
+        "total_tokens": 2953
+      }
+    },
+    {
+      "intervalle_index": 94,
+      "intervalle_debut": 1410,
+      "intervalle_fin": 1425,
+      "analyse_action": "The video opens with an elderly man speaking directly to the camera, then transitions to an outdoor scene on a quiet two-lane country road. The road curves to the right and has yellow paint markings on its surface. On either side of the road is gravel, with tall green grasses particularly prominent on the right side. As the road curves, the surroundings transition into a field of tall brown grass beyond the gravel, and beyond that stand tall green trees. Power lines stretch across the scene on wooden poles, and the sky is clear and light blue. The setting is peaceful and rural, with no other vehicles or people visible on the empty road.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 130,
+        "total_tokens": 2884
+      }
+    },
+    {
+      "intervalle_index": 95,
+      "intervalle_debut": 1425,
+      "intervalle_fin": 1440,
+      "analyse_action": "The scene captures a quiet drive through a rural countryside, passing through an open field area with farmland. The view shows a telephone pole and the junction where a country road meets a forested section, along with farmland featuring a wooden telephone pole and low, narrow shed shaped like a house behind a post-and-wire fence. A large white barn is positioned on a small farm compound, surrounded by open fields. \n\nThe camera then moves closer, showing a person standing near the barn countryside road scene.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 102,
+        "total_tokens": 2856
+      }
+    },
+    {
+      "intervalle_index": 96,
+      "intervalle_debut": 1440,
+      "intervalle_fin": 1455,
+      "analyse_action": "The scene shows a journey through rural countryside from a moving perspective. The vehicle passes over a dirt and gravel road, traveling through open farmland featuring expanses of brown, freshly tilled fields bordered by patches of green grass. Along the roadside, you can make out distant trees with mixed green and brown foliage, utility poles carrying power lines, and scattered white specks on the ground that could be debris.\n\nThe landscape is captured during daytime under a clear blue sky as the camera pans steadily ahead, revealing a changing view from the left to right sides of the road. The movement creates a slight blur in some areas, emphasizing the forward motion through this rural agricultural area.\n\nAs the view continues, the scenery transitions to a farmstead featuring various buildings, including a red barn with a green roof and other structures, suggesting an active rural farming operation. Uprooted trees are also visible in the area.\n\nThis appears to be someone driving through or riding in a moving vehicle, likely conducting a survey or inspection of the farmland and infrastructure as they pass by, documenting the agricultural landscape, roadside infrastructure, and property features.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 223,
+        "total_tokens": 2977
+      }
+    },
+    {
+      "intervalle_index": 97,
+      "intervalle_debut": 1455,
+      "intervalle_fin": 1470,
+      "analyse_action": "The scene unfolds in two contrasting settings. First, we see a rural countryside landscape with a solitary wooden telephone pole standing centrally in a lush green field. There's a faint road cutting through the field, and in the background a small orange-red barn stands among rolling green hills with several trees clustered nearby. Telephone wires stretch across the deep blue sky, and the entire outdoor scene has a soft, grainy quality with a nostalgic atmosphere.\n\nThe video then transitions to an indoor office or study space. An elderly man with white hair and glasses sits at a wooden desk wearing a purple sweater. Behind him are white walls adorned with pictures and framed documents. To his left are a gray filing cabinet and a black desk lamp, while to his right stands a brown desk cluttered with stacks of papers arranged in ascending order from largest to smallest. The brown desk has drawers with a black handle. The space has an organized yet busy feel, with the papers adding visual texture to the scene. A portion of a brown coffee mug is visible on the desk near the lamp. The overall setting suggests an academic or administrative environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 221,
+        "total_tokens": 2975
+      }
+    },
+    {
+      "intervalle_index": 98,
+      "intervalle_debut": 1470,
+      "intervalle_fin": 1485,
+      "analyse_action": "In the scene, an older man is sitting in a chair with a somber, reflective expression, sitting still before speaking. The scene then shifts to a black-and-white photograph of three people standing together outdoors—at the center is a younger man with dark hair and glasses wearing a plaid shirt and boots, with a woman on his left in a dress and glasses (her arm around him) and an older man on his right also wearing a plaid shirt, glasses, and overalls with his arm around the younger man.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 106,
+        "total_tokens": 2860
+      }
+    },
+    {
+      "intervalle_index": 99,
+      "intervalle_debut": 1485,
+      "intervalle_fin": 1500,
+      "analyse_action": "This appears to be an interview or documentary-style conversation taking place. A man and a woman are sitting together on a blue couch, engaged in what seems to be a thoughtful, likely meaningful discussion.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 40,
+        "total_tokens": 2794
+      }
+    },
+    {
+      "intervalle_index": 100,
+      "intervalle_debut": 1500,
+      "intervalle_fin": 1515,
+      "analyse_action": "The scene consists of two distinct moments. First, there's an indoor interview setting where an older man in glasses is being filmed or recorded, sitting in front of a white wall with stacked files and folders visible behind him. The room is well-lit in a formal interview-style arrangement.\n\nThe second scene transitions to a nighttime exterior view of a building, specifically focusing on its illuminated upper second floor. The building's triangular roof and dark facade are silhouetted against the deep blue night sky. Two centrally positioned windows stand out with bright, diffused light glowing through them. Later, there's a closer view of a door with two side windows that also emit a soft, warm yellow light, creating a peaceful nighttime atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 146,
+        "total_tokens": 2900
+      }
+    },
+    {
+      "intervalle_index": 101,
+      "intervalle_debut": 1515,
+      "intervalle_fin": 1530,
+      "analyse_action": "In the video, the scene primarily consists of two distinct environments and moments. \n\nFirst, there's the quiet, nighttime exterior view of a dark building with a narrow, small door marked by a labeled plate. The door is surrounded by a black frame, with small square windows above it. Inside, the minimal interior lighting creates a stark contrast between the dark exterior and the softly illuminated interior space. As night falls further, the warm light from the doorway becomes the sole source of illumination in the surrounding darkness.\n\nSecond, there's a somber newspaper-style article displayed on screen with black text on a white background. The content of the article appears to be about Myrtle Meadlo, a 57-year-old woman from New Goshen, Indiana, who is showing signs of nervousness or distress. The text surface doorway, the door number, and the specific area are shown repeatedly throughout the article. The typography has varying levels of boldness, and the layout is simple and straightforward, emphasizing the measured, objective tone typically associated with newspaper reporting.\n\nThe video doesn't show any action or events taking place—it simply alternates between showing the exterior doorway scene and displaying the article text.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 239,
+        "total_tokens": 2993
+      }
+    },
+    {
+      "intervalle_index": 102,
+      "intervalle_debut": 1530,
+      "intervalle_fin": 1545,
+      "analyse_action": "An elderly man with white hair and a white beard is being interviewed in an indoor setting. He sits facing slightly to the left of the camera, wearing a blue and white checkered button-down shirt with the top button undone. \n\nDuring the interview, he engages in conversation, talking with notable energy and expressiveness. His facial expressions are quite animated and detailed - his mouth moves continuously as he speaks, revealing his teeth and tongue repeatedly. His eyes frequently squint, close, and shift between various directions as he talks, giving him a thoughtful and engaged demeanor throughout the exchange.\n\nThe room around him is softly lit with natural light. There's a red chair positioned on the other side of the space, and a window with a white curtain is visible. The camera maintains a steady, medium close-up throughout, staying focused on his face and upper body, creating an intimate and personal atmosphere characteristic of a documentary-style interview.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 184,
+        "total_tokens": 2938
+      }
+    },
+    {
+      "intervalle_index": 103,
+      "intervalle_debut": 1545,
+      "intervalle_fin": 1560,
+      "analyse_action": "The scene captures a period street view from above, showing a typical city intersection with classic vintage vehicles from the 1950s or 1960s. You can see yellow taxis with their distinctive rounded tops, a variety of cars including white vehicles and blocky buses with green-and-white striping, along with everyday foot traffic moving along the sidewalks.\n\nThe footage transitions from this overhead street perspective to a close-up interview shot of a young man wearing brown-rimmed eyeglasses and a white, black, and red patterned sweater over a gray turtleneck. During this close-up interview, the young man is speaking to someone off-camera, making broad gestures with his hands while he talks.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 145,
+        "total_tokens": 2899
+      }
+    },
+    {
+      "intervalle_index": 104,
+      "intervalle_debut": 1560,
+      "intervalle_fin": 1575,
+      "analyse_action": "This is a televised televised interview or discussion taking place in a studio. The scene unfolds in a style typical of 1970s broadcast television, featuring an interviewer seated in a red chair across from his guest in a similar red chair.\n\nThe format is classic interview protocol—civilian guests hosted by well dressed men who sit in a studio.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 71,
+        "total_tokens": 2825
+      }
+    },
+    {
+      "intervalle_index": 105,
+      "intervalle_debut": 1575,
+      "intervalle_fin": 1590,
+      "analyse_action": "The young man appears to be participating in an interview or speaking role of some kind. He's maintaining a consistent, attentive listening expression throughout, with his gaze fixed to one side and his serious demeanor suggesting he's considering his responses carefully. His mouth opens slightly at times, which could indicate he's in the middle of speaking or closing his thoughts before responding. The formal, direct-to-camera framing combined with the limited setting of what looks like a simple, utilitarian space with a paneled wall behind him is characteristic of professional or journalistic interview footage from older eras. He seems engaged and focused, giving the impression of someone who is answering questions or delivering carefully thought-out words during this filmed conversation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 140,
+        "total_tokens": 2894
+      }
+    },
+    {
+      "intervalle_index": 106,
+      "intervalle_debut": 1590,
+      "intervalle_fin": 1605,
+      "analyse_action": "The man is speaking emphatically during what appears to be a conversation or interview. He's making deliberate eye contact while speaking, moving his mouth as he talks, and using his hands expressively to emphasize his points. His animated delivery suggests he's passionately discussing something important to him.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 57,
+        "total_tokens": 2811
+      }
+    },
+    {
+      "intervalle_index": 107,
+      "intervalle_debut": 1605,
+      "intervalle_fin": 1620,
+      "analyse_action": "The scene appears to be an interview or conversation. A man with short dark hair and glasses is sitting and speaking directly to someone off-camera to his left. He maintains eye contact and speaks in a rhythmical fashion, with his mouth opening and closing while his eyebrows lift slightly as he continues talking. The setting has an indoor, formal feel - there's a wooden wall behind him with a smooth surface, marked by vertical lines and a darker wood tone in the middle, along with metal poles visible on the left and right sides. The lighting is enhanced by VSCO filter.\n\nThe video then briefly cuts to another man in a different setting, before returning to the man in the wooden room for what appears to be the continuation of the same conversation.\n\nThe visual quality and style, particularly the way the light catches on the man's face creating that VSCO-related effect, suggests this might be from an older television interview or captured footage rather than live-action film production.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 192,
+        "total_tokens": 2946
+      }
+    },
+    {
+      "intervalle_index": 108,
+      "intervalle_debut": 1620,
+      "intervalle_fin": 1635,
+      "analyse_action": "Bob Dylan is being interviewed during an old-style television broadcast. He's sitting in a red chair wearing a patterned sweater, answering questions while intensively concentrating on his responses and occasionally glancing off to the side. The interviewer sits across from him in a dark suit with a lapel microphone, asking questions with a steady, attentive demeanor.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 69,
+        "total_tokens": 2823
+      }
+    },
+    {
+      "intervalle_index": 109,
+      "intervalle_debut": 1635,
+      "intervalle_fin": 1650,
+      "analyse_action": "The scene shows a protest march taking place on a tree-lined city street. A large crowd of young people, mostly white with long dark hair, is marching together in an orderly formation from right to left along the sidewalk. They're moving past a gray stone building with greenery near its base.\n\nThe participants are holding various protest signs that display provocative slogans and imagery related to anti-war and reproductive rights themes. Some of the signs feature text about babies and dollars, with one sign specifically referencing holding babies. Many of the marchers are wearing jackets, long pants, and glasses, contributing to the organized appearance of the demonstration.\n\nThe atmosphere appears calm and orderly as the group advances down the street together. The movement suggests this is a coordinated demonstration focused on social issues, with the placards conveying messages about opposition to militarism and its connection to reproductive rights.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 171,
+        "total_tokens": 2925
+      }
+    },
+    {
+      "intervalle_index": 110,
+      "intervalle_debut": 1650,
+      "intervalle_fin": 1665,
+      "analyse_action": "The scene takes place at a protest demonstration. The gathering features a large group of people moving together along a dirt road, creating an atmosphere of public mobilization and activism.\n\nThe crowd consists predominantly of younger individuals with a few older participants, all dressed in practical outdoor clothing like jackets, sweaters, and jeans, appropriate for the slightly overcast day. Many protesters are carrying signs, particularly a prominent sign showing a stark graphic about bodies lying in a roadway. The protest maintains organized momentum as the group continues walking down the road as a collective action.\n\nThe demonstration evolves into a more historically focused scene with a young man in military uniform standing indoors against the backdrop of flags and a window. This shift suggests he may be addressing the crowd directly or serving as an official representative at the event, contributing to the protest's purpose and context.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 166,
+        "total_tokens": 2920
+      }
+    },
+    {
+      "intervalle_index": 111,
+      "intervalle_debut": 1665,
+      "intervalle_fin": 1680,
+      "analyse_action": "The scene presents a mosaic of historical conflict footage and related imagery. It opens with archival black-and-white photographs showing field soldiers in both grassy and tree-lined areas, including images of horses and mounted personnel, alongside white text labeling and cataloging them as documentary evidence. This transitions into vintage cinema stills from war films showing grainy battlefield footage with camouflage, helmets, and soldiers carrying weapons in tall grass and open terrain with trees in the background. The sequence then cuts to a contemporary moment featuring a young Vietnamese boy on a dirt road through rice fields, who initially appears to be scavenging for food and later is shown favoring an injured leg as he continues to pick through the area, raising questions about his situation and whether he may have lost a foot.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 153,
+        "total_tokens": 2907
+      }
+    },
+    {
+      "intervalle_index": 112,
+      "intervalle_debut": 1680,
+      "intervalle_fin": 1695,
+      "analyse_action": "The video is showing a Life magazine spread featuring two distinct stories. The first depicts a somber rural scene with a solitary person lying motionless or sleeping on a grassy dirt road. This abandoned figure is framed by fields, scattered palm trees, and distant structures, creating a contemplative atmosphere.\n\nThe second part then reveals an interior magazine layout featuring a page titled \"The Massacre at My Lai,\" which includes a powerful photograph of a women carrying that was brutally killed while a man behind her is shown in the act of shooting. This stark contrast between the peaceful rural imagery and the graphic war crime coverage creates a deliberate juxtaposition, highlighting the diverse range of human experiences and conflicts covered by the magazine.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 142,
+        "total_tokens": 2896
+      }
+    },
+    {
+      "intervalle_index": 113,
+      "intervalle_debut": 1695,
+      "intervalle_fin": 1710,
+      "analyse_action": "The scene shows a devastating newspaper spread documenting the My Lai massacre. The photographs capture the aftermath of what American troops did to unarmed women and children during this atrocity.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 36,
+        "total_tokens": 2790
+      }
+    },
+    {
+      "intervalle_index": 114,
+      "intervalle_debut": 1710,
+      "intervalle_fin": 1725,
+      "analyse_action": "The videos show scenes focused on wartime and humanitarian themes. The first news article is about the villager in Vietnam who was killed while battling both a vulture and wild boars. The second video shows Vietnamese people using traditional agricultural tools in a paddy field to farm - a man guiding oxen attached to a plow and another leading a black cow while working in the water. This depicts rural life and agricultural work during the conflict era.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 89,
+        "total_tokens": 2843
+      }
+    },
+    {
+      "intervalle_index": 115,
+      "intervalle_debut": 1725,
+      "intervalle_fin": 1740,
+      "analyse_action": "A young woman is standing outdoors in a rural rice field environment, engaged in what appears to be a telephone call. She's holding an old-fashioned black telephone receiver to her ear with a serious and focused expression. She's dressed in traditional attire including a wide-brimmed white conical bamboo hat secured with a green strap under her chin, a white scarf around her neck, and a blue sweater, suggesting a deliberate representation of rural Vietnamese life. Behind her stands an older man in a blue shirt who seems to be watching or assisting her. The setting includes trees, plants, greenery, and brick buildings in the background, creating an atmosphere of everyday rural life in what looks like Vietnam.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 139,
+        "total_tokens": 2893
+      }
+    },
+    {
+      "intervalle_index": 116,
+      "intervalle_debut": 1740,
+      "intervalle_fin": 1755,
+      "analyse_action": "In the scene you're watching, a young girl wearing a traditional conical straw hat is standing outdoors on a bright but slightly overcast day. She's positioned close to the camera while looking forward with a calm, focused expression. Behind her, an adult can be glimpsed—you can see part of their face and even fingernails visible as they hold a black object. The setting includes green trees in the background, with sunlight filtering through the leaves, creating a tranquil outdoor atmosphere. The entire scene maintains a peaceful, contemplative feeling with the girl at center stage and the surroundings providing a quiet, natural backdrop to her presence. ",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 128,
+        "total_tokens": 2882
+      }
+    },
+    {
+      "intervalle_index": 117,
+      "intervalle_debut": 1755,
+      "intervalle_fin": 1770,
+      "analyse_action": "An interview is taking place in a rural Vietnamese setting. A reporter in a white shirt and khaki pants is conducting an interview with a local woman who wears a large round bamboo hat and dark clothing. The interview happens among lush greenery and appears to be taking place in a village, possibly in a rice paddy area, given the surroundings.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 70,
+        "total_tokens": 2824
+      }
+    },
+    {
+      "intervalle_index": 118,
+      "intervalle_debut": 1770,
+      "intervalle_fin": 1785,
+      "analyse_action": "The scene captures an intimate, emotional moment between two figures in a dimly-lit setting. An older person sits in side profile, their face partially veiled under a brimmed hat. They first hold a white, slender object to their mouth—likely a pipe or smoking implement—with a long chain attached that drapes toward their chin. The contemplative, pensive atmosphere is heightened by the soft, concentrated lighting and dramatic shadows across their muted skin.\n\nAs the moment unfolds, the gray-haired elder's hand slips down to rest at their mouth with fingers curled inward. They appear to be speaking with a measured, thoughtful cadence, their expression intent and serious. Their fingers close briefly with a rapid tap against their mouth and then relax, adding a contemplative rhythm to their quiet words.\n\nThe scene concludes with the older person turning around to face the viewer, revealing their concerned expression with dark eyebrows and rosy cheeks. The contrast between their solitary, quiet contemplation and the direct engagement with the camera creates a sense of vulnerability and emotional depth. The brief human interaction that follows—an arm reaching over to touch the face of another person—further emphasizes the protective and tender nature of the moment, suggesting care and connection despite the initial solemnity.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 251,
+        "total_tokens": 3005
+      }
+    },
+    {
+      "intervalle_index": 119,
+      "intervalle_debut": 1785,
+      "intervalle_fin": 1800,
+      "analyse_action": "The scene takes place in a dimly lit room during what appears to be a nighttime or low-light setting. The focus is on two women interacting closely together. The woman in the straw hat speaks throughout while the other woman leans in close, sometimes bumping the speaker's shoulder. They seem engaged in a quiet conversation, with the straw-hatted woman occasionally shifting her gaze slightly as she speaks.\n\nThe moment is intimate and personal, captured from a close, tight framing. The background fades out into darkness, emphasizing their proximity and the subdued atmosphere. The interaction feels gentle and unhurried, with the straw-hatted woman's softening expression suggesting she's saying something meaningful or emotionally resonant.\n\nAs the moment concludes, there's a transition to show a more open outdoor scene with two young boys standing near a rustic house. One boy grips a tree branch while the other walks by, signaling the shift from this confined indoor intimate exchange to gaze out over a simple, rural setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 197,
+        "total_tokens": 2951
+      }
+    },
+    {
+      "intervalle_index": 120,
+      "intervalle_debut": 1800,
+      "intervalle_fin": 1815,
+      "analyse_action": "A small group of children is playing and exploring in a rustic shanty village. Two barefoot children stand on a grassy patch near a weathered, corrugated metal shed, one in a red shirt with white pants and the other in a green shirt with white pants. A third child wearing a blue shirt and khaki pants pauses nearby, looking down.\n\nThe children continue playfully moving and sometimes sitting on the ground, then gather around pieces of dried bamboo or straw. One child lifts the light brown bamboo sheet while another walks toward the camera and the third looks on.\n\nThe scene then shifts to a young woman sitting on boulder overlooking a village of white and brown buildings with brown rooftops nestled on rolling green hills, watching the village below. She remains in this contemplative pose as the phrase \"The day we got married\" appears on screen, with additional text on the left. She continues to sit motionless and watch the settlement, where trees and greenery are visible against distant mountains.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 203,
+        "total_tokens": 2957
+      }
+    },
+    {
+      "intervalle_index": 121,
+      "intervalle_debut": 1815,
+      "intervalle_fin": 1830,
+      "analyse_action": "The video shows a sequence of distinct scenes. First, a young barefoot figure in a green long-sleeved shirt and dark pants is sitting on a patch of grass, crouched low with their arms resting on their knees. They're surrounded by sparse green vegetation and thin trees, with a village visible in the background that appears abandoned or deserted, where brown and gray buildings are partially obscured by clouds and hills under a light gray, overcast sky.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 93,
+        "total_tokens": 2847
+      }
+    },
+    {
+      "intervalle_index": 122,
+      "intervalle_debut": 1830,
+      "intervalle_fin": 1845,
+      "analyse_action": "The scene shows a composed, formal interview or presentation being conducted in a black-and-white video setting. A man wearing formal attire—a dark suit, white collared shirt, dark tie, and dark-rimmed glasses—is seated at a desk speaking into a microphone. He maintains steady eye contact and looks directly at the camera with a serious expression, speaking in a calm and methodical manner. The setting has a formal tone with gray patterned curtains in the background.\n\nThe video then transitions to aerial imagery: first a black-and-white satellite photograph showing dense tree cover surrounding a central cleared area where a circular road with a smaller circle inside can be seen, bordered by patches of farmland with a river and other natural features. The word \"CONFIDENTIAL\" appears at the top, and \"MY LAI 44 BS 7 6 7 8 9 \" and \"CONFIDENTIAL\" appear at the bottom. The scene concludes with sepia-toned aerial footage of the My Lai region, with helicopter-mounted cameras capturing ground using large panoramic lenses, thin lines marking roads and fields, and a black helicopter in the upper right releasing smoke. A title card with technical information appears at the bottom, underscoring the documentary or evidence-gathering nature of these scenes.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 259,
+        "total_tokens": 3013
+      }
+    },
+    {
+      "intervalle_index": 123,
+      "intervalle_debut": 1845,
+      "intervalle_fin": 1860,
+      "analyse_action": "The scene depicts multiple military helicopters operating over a rural landscape. In the first photograph, you can see wartime aerial activity with helicopters moving overhead and smoke rising from below, indicating conflict or active operations in the area. The second image shows seven military helicopters positioned over a field with soldiers visible on the ground.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 61,
+        "total_tokens": 2815
+      }
+    },
+    {
+      "intervalle_index": 124,
+      "intervalle_debut": 1860,
+      "intervalle_fin": 1875,
+      "analyse_action": "In the scene, a large group of soldiers are patrolling and surveying a vast field. The column advances steadily through tall grass, with soldiers spread out along the line—at the front, one soldier carries his rifle over his shoulder and scans the countryside with binoculars, while another follows close behind in similar careful, watchful posture, both of them looking ahead and scanning the surroundings with deliberate movements.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 82,
+        "total_tokens": 2836
+      }
+    },
+    {
+      "intervalle_index": 125,
+      "intervalle_debut": 1875,
+      "intervalle_fin": 1890,
+      "analyse_action": "The scene shows military personnel engaged in various activities during what appears to be a military operation.\n\nThe first moments feature soldiers gathered around a dirt cooking pit, eating and restocking what appears to be rations. They're at their posts with rifles in hand, prepared for potential combat action while taking breaks.\n\nWhat follows is a more intense sequence showing the actual combat itself. Five soldiers can be seen crouching and moving through a field, taking cover behind a trench. They're actively engaged—There's visible smoke near one of their positions, suggesting recent or ongoing muzzle discharge during the firefight.\n\nThe final moments return to a calmer state, with soldiers reclining in a quieter field setting. One soldier is reading while others are positioned near tactical elements like a small building and foxhole, maintaining a layered defensive posture even during brief moments of rest.\n\nThe sequence illustrates the full spectrum of combat operations—from prepared patrols and meal breaks to high-alert combat engagement, and then to strategic defensive positions maintained between bursts of activity.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 203,
+        "total_tokens": 2957
+      }
+    },
+    {
+      "intervalle_index": 126,
+      "intervalle_debut": 1890,
+      "intervalle_fin": 1905,
+      "analyse_action": "The film clip starts off with writing on a topographic map, it shows bodies in fat ditch, stopped eating near the area. The scene then moves on to a photograph of parachutes dropping into the ground, there are aerial views of a large area showing fields divided by roads, and a military helicopter is visible in the scene with parachutes dropping in the air.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 74,
+        "total_tokens": 2828
+      }
+    },
+    {
+      "intervalle_index": 127,
+      "intervalle_debut": 1905,
+      "intervalle_fin": 1920,
+      "analyse_action": "This appears to be a military training or base operation scene capturing two distinct activities.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 17,
+        "total_tokens": 2771
+      }
+    },
+    {
+      "intervalle_index": 128,
+      "intervalle_debut": 1920,
+      "intervalle_fin": 1935,
+      "analyse_action": "The video shows a military helicopter in action. At the beginning, you see officers in green uniforms gathered on a muddy dirt ground surrounded by terrain with bushes and trees, talking and conferring. Black bars appear at the sides of the frame during this portion.\n\nThe scene then transitions to the helicopter itself. A dark green military helicopter with black undercarriage and a long tail is shown from different angles. First it's caught in mid-flight against a clear light-blue sky, then it's hovering above brownish-green ground, where two men are visible on board—one at the front and another near the right side. The rotor blades are spinning rapidly, appearing as a blur. Eventually, the helicopter continues its flight with its main rotor still in motion, its tail featuring a distinctive cross shape adorned with a white circle and a black X on it.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 169,
+        "total_tokens": 2923
+      }
+    },
+    {
+      "intervalle_index": 129,
+      "intervalle_debut": 1935,
+      "intervalle_fin": 1950,
+      "analyse_action": "The scene shows what appears to be a newsreel segment consisting of two distinct parts. \n\nIt opens with a vintage, low-resolution image of a gray military helicopter piloting low over a desolate brown terrain with sparse vegetation under a soft light-blue sky. A solitary person stands in the distance looking up at the aircraft, suggesting some sort of operational activity or surveillance.\n\nThe focus then shifts to a formal news interview setting with a middle-aged Caucasian man wearing black-rimmed glasses, a black suit jacket, white shirt, and dark tie. He is positioned against a gray wall and speaks directly to the camera with a serious demeanor, maintaining steady eye contact and a measured, formal tone characteristic of a televised reporter or news anchor delivering information about the helicopter scene.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 153,
+        "total_tokens": 2907
+      }
+    },
+    {
+      "intervalle_index": 130,
+      "intervalle_debut": 1950,
+      "intervalle_fin": 1965,
+      "analyse_action": "The scene shows a professional interview or documentary-style conversation. The first person, wearing black glasses, a black suit jacket, and a white-and-blue striped collared shirt, speaks directly to the camera in a serious manner, with noticeable lighting reflections on his eyeglasses and a small mole visible on his face. \n\nThe video then transitions to another man with dark, slicked-back hair. He appears to be responding, speaking to the camera in a similarly professional tone, shifting his gaze between the lens and slightly off to one side.\n\nThe two men alternate turns—each taking a few moments to speak—creating a structured exchange. Their body language conveys that they are discussing significant topics, with the formal attire and serious expressions reinforcing the professional nature of the conversation rather than being casual or theatrical.\n\nThe entire segment has an archival aesthetic, with the characters framed against plain gray-blue backs panels, letterboxed format, and footage quality that suggests this was filmed decades ago.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 194,
+        "total_tokens": 2948
+      }
+    },
+    {
+      "intervalle_index": 131,
+      "intervalle_debut": 1965,
+      "intervalle_fin": 1980,
+      "analyse_action": "The video shows two distinct scenes. First, there's an older man with white hair and glasses seated at a cluttered desk, working on a computer. He's wearing a brown shirt and seated in a black office chair.\n\nThe scene then transitions to a black-and-white aerial photograph of farmland. This detailed overhead view shows a landscape divided into rectangular fields with varying shades of gray, intersected by distinct roads including a prominent curved one. The image is bordered by a white frame on the top, left, and right sides, with thicker black bands on the left and right edges. At the bottom left corner, the photograph is labeled \"Castleton, Connecticut, Main Line of Connecticut Route 1\" along with a serial number.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 148,
+        "total_tokens": 2902
+      }
+    },
+    {
+      "intervalle_index": 132,
+      "intervalle_debut": 1980,
+      "intervalle_fin": 1995,
+      "analyse_action": "The scene shows a still black-and-white aerial photograph of My Lai and its surrounding area. The image captures what appears to be a small village settlement with a network of curved roads branching from a main road, surrounded by various fields of different sizes and textures. Trees are scattered throughout the landscape, creating dark patterns against the lighter ground.\n\nThe photograph is completely still and remains motionless throughout, displaying this detailed view of the rural landscape. There are no movements or activity depicted in the image itself.\n\nAt the bottom of the image, there's text identifying the photograph as \"PT-1 Vertical Photograph of My Lai 4th and Vicinity,\" confirming that this was taken of a rural military base district or encampment in the area, likely related to the historical events associated with My Lai.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 162,
+        "total_tokens": 2916
+      }
+    },
+    {
+      "intervalle_index": 133,
+      "intervalle_debut": 1995,
+      "intervalle_fin": 2010,
+      "analyse_action": "The scene shows a progression of maps of My Lai village and its surroundings that are being systematically examined and annotated by hand. \n\nThe sequence begins with a grainy black-and-white aerial photograph labeled as a vertical view of the My Lai area. This is followed by a hand-drawn map that builds upon that aerial image, with blue ink markings that number and point out specific locations and features around the village, including named elements like a ditch and rows of houses.\n\nThroughout the sequence, these handwritten annotations become increasingly detailed and comprehensive. Particular landmarks are numbered with blue circles and arrows, while various locations scatter across the map to map out specific structures. rivers, creeks and homesteads. Eventually, the comprehensive marked map shows numerous smaller inset images of different areas, heavy use of blue text labels throughout to identify features, and a distinct letter \"N\" at the top indicating north. By the end of the sequence, the map has been thoroughly overlaid with blue pen notes, graphs and boxes that comprehensively document the layout and key features of My Lai village and surrounding areas.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 220,
+        "total_tokens": 2974
+      }
+    },
+    {
+      "intervalle_index": 134,
+      "intervalle_debut": 2010,
+      "intervalle_fin": 2025,
+      "analyse_action": "The scene shows a static document. The video appears to be paused on a detailed grayscale aerial map or photograph that has been annotated extensively with handwritten blue ink notes, arrows, and circles identifying various features. There's a signature and text noting Washington D.C preparatory work from memory dated January 21, 1970, along with additional similar annotations on a slightly different aerial view. Since the video is paused, nothing is happening dynamically—the frame remains still throughout.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 96,
+        "total_tokens": 2850
+      }
+    },
+    {
+      "intervalle_index": 135,
+      "intervalle_debut": 2025,
+      "intervalle_fin": 2040,
+      "analyse_action": "The scene shows a monochrome aerial image being presented like a topographical map, with carefully written annotations in blue ink labeling various features and documenting case elements. Blue ink annotations mark locations and identify objects, with one label pointing out a man while another indicates the presence of a girl and man along what appears to be a divided road or path. Additional annotations call out a dead body, with arrows directing attention to specific points of interest including a circled six, and there's text that reads \"dead on trail.\" Green lines are used to draw emphasis diagonally across the image. The annotations make deliberate markings, connecting labeled points and annotations. This appears to be a mapped-out keepsake or record from what looks like a case evaluation on February 6, 1970 in Washington, D.C., documenting investigation sites and key locations with clear, handwritten notes.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 174,
+        "total_tokens": 2928
+      }
+    },
+    {
+      "intervalle_index": 136,
+      "intervalle_debut": 2040,
+      "intervalle_fin": 2055,
+      "analyse_action": "The video shows an aerial investigative scene of what appears to be a crime investigation. Aerial views with handwritten notes and markings indicate this is a serious criminal case being methodically documented. The first view shows notes mentioning locations tied to a suspected murder case, with text referencing a \"WIMAL\" woman and \"child\" in relation to a \"DEAD CHILD\" on a \"TRAIL.\" \n\nThe second view presents a map labeled \"GROUP OF 10 BABIES,\" with \"DEAD BABY\" and \"STOPPED IT,\" clearly marking locations related to a mass child-related discovery.\n\nThe final view has \"SCATTERED BODIES\" marked across a rural landscape, with X's and arrows indicating numerous points of interest.\n\nThese sequential aerial views document an investigation into a large-scale murder investigation involving multiple victims, with the notes appearing to catalog victim locations or potential points of interest. The blurry quality and hurried notation style suggest urgent documentation of this critical forensic case.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 198,
+        "total_tokens": 2952
+      }
+    },
+    {
+      "intervalle_index": 137,
+      "intervalle_debut": 2055,
+      "intervalle_fin": 2070,
+      "analyse_action": "The video shows two satellite imagery stills marking the locations of a fatal shooting in Medina, Oklahoma. The first image displays an aerial view of the rural landscape with handwritten blue annotations labeling various scattered points of interest. A second image follows that highlights specific locations, including where a cut Medina Highway is located and connects to another road where the shooting took place. This second image also notes the victim as a 3-4-year-old child, and mentions security footage showing a person in a black coat with a white skull on the back.\n\nBased on the context provided in the title and the markings on these satellite images, this appears to be documenting the locations and details of a fatal incident that occurred in Medina, Oklahoma. The methodical annotation of key points on the aerial photographs suggests this is evidence or forensic mapping related to the case.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 167,
+        "total_tokens": 2921
+      }
+    },
+    {
+      "intervalle_index": 138,
+      "intervalle_debut": 2070,
+      "intervalle_fin": 2085,
+      "analyse_action": "The scene shows the aftermath of a significant incident involving approximately 40 bodies in a rural area. The imagery appears to be aerial examination of agricultural and",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 31,
+        "total_tokens": 2785
+      }
+    },
+    {
+      "intervalle_index": 139,
+      "intervalle_debut": 2085,
+      "intervalle_fin": 2100,
+      "analyse_action": "The video appears to be showing survey or map fieldwork documentation called \"correl.\" Someone is preparing or examining a detailed map marked with various survey features like streams, vectors, field blocks, and measurements. Theเอกสาร shows precise coordinates (latitude, longitude, elevation) and calculated lengths, suggesting professional mapping or land surveying work. The marker annotations and measurements indicate this is technical fieldwork documentation used for mapping or analyzing a specific area's terrain and features.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 92,
+        "total_tokens": 2846
+      }
+    },
+    {
+      "intervalle_index": 140,
+      "intervalle_debut": 2100,
+      "intervalle_fin": 2115,
+      "analyse_action": "The elderly man is sitting in an office speaking in an interview-style conversation while listening intently to someone not visible on camera. He remains composed and attentive throughout, occasionally tilting his head slightly as he processes information and shifts his weight subtly in his chair. His arms are crossed in a contemplative posture, suggesting he's thinking carefully about what he's being told. After the initial questions, he softly smiles and nods in understanding, appearing comfortable and engaged in what seems to be a serious discussion about his experiences or life story.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 106,
+        "total_tokens": 2860
+      }
+    }
+  ]
+}

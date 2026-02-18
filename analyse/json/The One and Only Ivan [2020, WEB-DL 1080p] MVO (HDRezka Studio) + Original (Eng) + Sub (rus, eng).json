@@ -8,7 +8,7 @@
   "date_traitement": "2026-02-17T15:31:30.867468",
   "stats_extraction": {
     "total": 374,
-    "reussis": 140,
+    "reussis": 374,
     "echecs": 0,
     "timeouts": 0,
     "gpu_errors": 0,
@@ -5314,7 +5314,7 @@
       "intervalle_fin": 2115,
       "timecode_debut_extrait": 2100,
       "timecode_fin_extrait": 2115,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0140_time_2100.00s-2115.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -5344,7 +5344,7 @@
       "intervalle_fin": 2130,
       "timecode_debut_extrait": 2115,
       "timecode_fin_extrait": 2130,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0141_time_2115.00s-2130.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -5362,7 +5362,7 @@
       "intervalle_fin": 2145,
       "timecode_debut_extrait": 2130,
       "timecode_fin_extrait": 2145,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0142_time_2130.00s-2145.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -5373,7 +5373,7 @@
       "intervalle_fin": 2160,
       "timecode_debut_extrait": 2145,
       "timecode_fin_extrait": 2160,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0143_time_2145.00s-2160.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -5384,7 +5384,7 @@
       "intervalle_fin": 2175,
       "timecode_debut_extrait": 2160,
       "timecode_fin_extrait": 2175,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0144_time_2160.00s-2175.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -5395,7 +5395,7 @@
       "intervalle_fin": 2190,
       "timecode_debut_extrait": 2175,
       "timecode_fin_extrait": 2190,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0145_time_2175.00s-2190.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -5406,7 +5406,7 @@
       "intervalle_fin": 2205,
       "timecode_debut_extrait": 2190,
       "timecode_fin_extrait": 2205,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0146_time_2190.00s-2205.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -5417,7 +5417,7 @@
       "intervalle_fin": 2220,
       "timecode_debut_extrait": 2205,
       "timecode_fin_extrait": 2220,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0147_time_2205.00s-2220.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -5428,7 +5428,7 @@
       "intervalle_fin": 2235,
       "timecode_debut_extrait": 2220,
       "timecode_fin_extrait": 2235,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0148_time_2220.00s-2235.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -5446,7 +5446,7 @@
       "intervalle_fin": 2250,
       "timecode_debut_extrait": 2235,
       "timecode_fin_extrait": 2250,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0149_time_2235.00s-2250.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -5457,7 +5457,7 @@
       "intervalle_fin": 2265,
       "timecode_debut_extrait": 2250,
       "timecode_fin_extrait": 2265,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0150_time_2250.00s-2265.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -5487,7 +5487,7 @@
       "intervalle_fin": 2280,
       "timecode_debut_extrait": 2265,
       "timecode_fin_extrait": 2280,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0151_time_2265.00s-2280.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -5511,7 +5511,7 @@
       "intervalle_fin": 2295,
       "timecode_debut_extrait": 2280,
       "timecode_fin_extrait": 2295,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0152_time_2280.00s-2295.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -5522,7 +5522,7 @@
       "intervalle_fin": 2310,
       "timecode_debut_extrait": 2295,
       "timecode_fin_extrait": 2310,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0153_time_2295.00s-2310.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -5540,7 +5540,7 @@
       "intervalle_fin": 2325,
       "timecode_debut_extrait": 2310,
       "timecode_fin_extrait": 2325,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0154_time_2310.00s-2325.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -5594,7 +5594,7 @@
       "intervalle_fin": 2340,
       "timecode_debut_extrait": 2325,
       "timecode_fin_extrait": 2340,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0155_time_2325.00s-2340.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -5630,7 +5630,7 @@
       "intervalle_fin": 2355,
       "timecode_debut_extrait": 2340,
       "timecode_fin_extrait": 2355,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0156_time_2340.00s-2355.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -5666,7 +5666,7 @@
       "intervalle_fin": 2370,
       "timecode_debut_extrait": 2355,
       "timecode_fin_extrait": 2370,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0157_time_2355.00s-2370.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -5690,7 +5690,7 @@
       "intervalle_fin": 2385,
       "timecode_debut_extrait": 2370,
       "timecode_fin_extrait": 2385,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0158_time_2370.00s-2385.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -5708,7 +5708,7 @@
       "intervalle_fin": 2400,
       "timecode_debut_extrait": 2385,
       "timecode_fin_extrait": 2400,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0159_time_2385.00s-2400.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -5732,7 +5732,7 @@
       "intervalle_fin": 2415,
       "timecode_debut_extrait": 2400,
       "timecode_fin_extrait": 2415,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0160_time_2400.00s-2415.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -5750,7 +5750,7 @@
       "intervalle_fin": 2430,
       "timecode_debut_extrait": 2415,
       "timecode_fin_extrait": 2430,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0161_time_2415.00s-2430.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -5768,7 +5768,7 @@
       "intervalle_fin": 2445,
       "timecode_debut_extrait": 2430,
       "timecode_fin_extrait": 2445,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0162_time_2430.00s-2445.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -5804,7 +5804,7 @@
       "intervalle_fin": 2460,
       "timecode_debut_extrait": 2445,
       "timecode_fin_extrait": 2460,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0163_time_2445.00s-2460.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -5846,7 +5846,7 @@
       "intervalle_fin": 2475,
       "timecode_debut_extrait": 2460,
       "timecode_fin_extrait": 2475,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0164_time_2460.00s-2475.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -5882,7 +5882,7 @@
       "intervalle_fin": 2490,
       "timecode_debut_extrait": 2475,
       "timecode_fin_extrait": 2490,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0165_time_2475.00s-2490.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -5918,7 +5918,7 @@
       "intervalle_fin": 2505,
       "timecode_debut_extrait": 2490,
       "timecode_fin_extrait": 2505,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0166_time_2490.00s-2505.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -5954,7 +5954,7 @@
       "intervalle_fin": 2520,
       "timecode_debut_extrait": 2505,
       "timecode_fin_extrait": 2520,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0167_time_2505.00s-2520.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -5996,7 +5996,7 @@
       "intervalle_fin": 2535,
       "timecode_debut_extrait": 2520,
       "timecode_fin_extrait": 2535,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0168_time_2520.00s-2535.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -6032,7 +6032,7 @@
       "intervalle_fin": 2550,
       "timecode_debut_extrait": 2535,
       "timecode_fin_extrait": 2550,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0169_time_2535.00s-2550.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -6080,7 +6080,7 @@
       "intervalle_fin": 2565,
       "timecode_debut_extrait": 2550,
       "timecode_fin_extrait": 2565,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0170_time_2550.00s-2565.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -6128,7 +6128,7 @@
       "intervalle_fin": 2580,
       "timecode_debut_extrait": 2565,
       "timecode_fin_extrait": 2580,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0171_time_2565.00s-2580.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -6158,7 +6158,7 @@
       "intervalle_fin": 2595,
       "timecode_debut_extrait": 2580,
       "timecode_fin_extrait": 2595,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0172_time_2580.00s-2595.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -6176,7 +6176,7 @@
       "intervalle_fin": 2610,
       "timecode_debut_extrait": 2595,
       "timecode_fin_extrait": 2610,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0173_time_2595.00s-2610.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -6194,7 +6194,7 @@
       "intervalle_fin": 2625,
       "timecode_debut_extrait": 2610,
       "timecode_fin_extrait": 2625,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0174_time_2610.00s-2625.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -6236,7 +6236,7 @@
       "intervalle_fin": 2640,
       "timecode_debut_extrait": 2625,
       "timecode_fin_extrait": 2640,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0175_time_2625.00s-2640.00s.mp4",
       "nombre_sous_titres": 9,
       "sous_titres": [
         {
@@ -6302,7 +6302,7 @@
       "intervalle_fin": 2655,
       "timecode_debut_extrait": 2640,
       "timecode_fin_extrait": 2655,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0176_time_2640.00s-2655.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -6344,7 +6344,7 @@
       "intervalle_fin": 2670,
       "timecode_debut_extrait": 2655,
       "timecode_fin_extrait": 2670,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0177_time_2655.00s-2670.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -6380,7 +6380,7 @@
       "intervalle_fin": 2685,
       "timecode_debut_extrait": 2670,
       "timecode_fin_extrait": 2685,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0178_time_2670.00s-2685.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -6434,7 +6434,7 @@
       "intervalle_fin": 2700,
       "timecode_debut_extrait": 2685,
       "timecode_fin_extrait": 2700,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0179_time_2685.00s-2700.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -6488,7 +6488,7 @@
       "intervalle_fin": 2715,
       "timecode_debut_extrait": 2700,
       "timecode_fin_extrait": 2715,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0180_time_2700.00s-2715.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -6512,7 +6512,7 @@
       "intervalle_fin": 2730,
       "timecode_debut_extrait": 2715,
       "timecode_fin_extrait": 2730,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0181_time_2715.00s-2730.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -6536,7 +6536,7 @@
       "intervalle_fin": 2745,
       "timecode_debut_extrait": 2730,
       "timecode_fin_extrait": 2745,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0182_time_2730.00s-2745.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -6584,7 +6584,7 @@
       "intervalle_fin": 2760,
       "timecode_debut_extrait": 2745,
       "timecode_fin_extrait": 2760,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0183_time_2745.00s-2760.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -6620,7 +6620,7 @@
       "intervalle_fin": 2775,
       "timecode_debut_extrait": 2760,
       "timecode_fin_extrait": 2775,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0184_time_2760.00s-2775.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -6662,7 +6662,7 @@
       "intervalle_fin": 2790,
       "timecode_debut_extrait": 2775,
       "timecode_fin_extrait": 2790,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0185_time_2775.00s-2790.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -6698,7 +6698,7 @@
       "intervalle_fin": 2805,
       "timecode_debut_extrait": 2790,
       "timecode_fin_extrait": 2805,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0186_time_2790.00s-2805.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -6746,7 +6746,7 @@
       "intervalle_fin": 2820,
       "timecode_debut_extrait": 2805,
       "timecode_fin_extrait": 2820,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0187_time_2805.00s-2820.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -6782,7 +6782,7 @@
       "intervalle_fin": 2835,
       "timecode_debut_extrait": 2820,
       "timecode_fin_extrait": 2835,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0188_time_2820.00s-2835.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -6830,7 +6830,7 @@
       "intervalle_fin": 2850,
       "timecode_debut_extrait": 2835,
       "timecode_fin_extrait": 2850,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0189_time_2835.00s-2850.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -6872,7 +6872,7 @@
       "intervalle_fin": 2865,
       "timecode_debut_extrait": 2850,
       "timecode_fin_extrait": 2865,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0190_time_2850.00s-2865.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -6908,7 +6908,7 @@
       "intervalle_fin": 2880,
       "timecode_debut_extrait": 2865,
       "timecode_fin_extrait": 2880,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0191_time_2865.00s-2880.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -6944,7 +6944,7 @@
       "intervalle_fin": 2895,
       "timecode_debut_extrait": 2880,
       "timecode_fin_extrait": 2895,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0192_time_2880.00s-2895.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -6968,7 +6968,7 @@
       "intervalle_fin": 2910,
       "timecode_debut_extrait": 2895,
       "timecode_fin_extrait": 2910,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0193_time_2895.00s-2910.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -6986,7 +6986,7 @@
       "intervalle_fin": 2925,
       "timecode_debut_extrait": 2910,
       "timecode_fin_extrait": 2925,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0194_time_2910.00s-2925.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -7004,7 +7004,7 @@
       "intervalle_fin": 2940,
       "timecode_debut_extrait": 2925,
       "timecode_fin_extrait": 2940,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0195_time_2925.00s-2940.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -7034,7 +7034,7 @@
       "intervalle_fin": 2955,
       "timecode_debut_extrait": 2940,
       "timecode_fin_extrait": 2955,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0196_time_2940.00s-2955.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -7070,7 +7070,7 @@
       "intervalle_fin": 2970,
       "timecode_debut_extrait": 2955,
       "timecode_fin_extrait": 2970,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0197_time_2955.00s-2970.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -7106,7 +7106,7 @@
       "intervalle_fin": 2985,
       "timecode_debut_extrait": 2970,
       "timecode_fin_extrait": 2985,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0198_time_2970.00s-2985.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -7160,7 +7160,7 @@
       "intervalle_fin": 3000,
       "timecode_debut_extrait": 2985,
       "timecode_fin_extrait": 3000,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0199_time_2985.00s-3000.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -7178,7 +7178,7 @@
       "intervalle_fin": 3015,
       "timecode_debut_extrait": 3000,
       "timecode_fin_extrait": 3015,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0200_time_3000.00s-3015.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -7220,7 +7220,7 @@
       "intervalle_fin": 3030,
       "timecode_debut_extrait": 3015,
       "timecode_fin_extrait": 3030,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0201_time_3015.00s-3030.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -7274,7 +7274,7 @@
       "intervalle_fin": 3045,
       "timecode_debut_extrait": 3030,
       "timecode_fin_extrait": 3045,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0202_time_3030.00s-3045.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -7292,7 +7292,7 @@
       "intervalle_fin": 3060,
       "timecode_debut_extrait": 3045,
       "timecode_fin_extrait": 3060,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0203_time_3045.00s-3060.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -7303,7 +7303,7 @@
       "intervalle_fin": 3075,
       "timecode_debut_extrait": 3060,
       "timecode_fin_extrait": 3075,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0204_time_3060.00s-3075.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -7314,7 +7314,7 @@
       "intervalle_fin": 3090,
       "timecode_debut_extrait": 3075,
       "timecode_fin_extrait": 3090,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0205_time_3075.00s-3090.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -7325,7 +7325,7 @@
       "intervalle_fin": 3105,
       "timecode_debut_extrait": 3090,
       "timecode_fin_extrait": 3105,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0206_time_3090.00s-3105.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -7349,7 +7349,7 @@
       "intervalle_fin": 3120,
       "timecode_debut_extrait": 3105,
       "timecode_fin_extrait": 3120,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0207_time_3105.00s-3120.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -7385,7 +7385,7 @@
       "intervalle_fin": 3135,
       "timecode_debut_extrait": 3120,
       "timecode_fin_extrait": 3135,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0208_time_3120.00s-3135.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -7433,7 +7433,7 @@
       "intervalle_fin": 3150,
       "timecode_debut_extrait": 3135,
       "timecode_fin_extrait": 3150,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0209_time_3135.00s-3150.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -7469,7 +7469,7 @@
       "intervalle_fin": 3165,
       "timecode_debut_extrait": 3150,
       "timecode_fin_extrait": 3165,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0210_time_3150.00s-3165.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -7517,7 +7517,7 @@
       "intervalle_fin": 3180,
       "timecode_debut_extrait": 3165,
       "timecode_fin_extrait": 3180,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0211_time_3165.00s-3180.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -7553,7 +7553,7 @@
       "intervalle_fin": 3195,
       "timecode_debut_extrait": 3180,
       "timecode_fin_extrait": 3195,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0212_time_3180.00s-3195.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -7583,7 +7583,7 @@
       "intervalle_fin": 3210,
       "timecode_debut_extrait": 3195,
       "timecode_fin_extrait": 3210,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0213_time_3195.00s-3210.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -7625,7 +7625,7 @@
       "intervalle_fin": 3225,
       "timecode_debut_extrait": 3210,
       "timecode_fin_extrait": 3225,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0214_time_3210.00s-3225.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -7649,7 +7649,7 @@
       "intervalle_fin": 3240,
       "timecode_debut_extrait": 3225,
       "timecode_fin_extrait": 3240,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0215_time_3225.00s-3240.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -7679,7 +7679,7 @@
       "intervalle_fin": 3255,
       "timecode_debut_extrait": 3240,
       "timecode_fin_extrait": 3255,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0216_time_3240.00s-3255.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -7715,7 +7715,7 @@
       "intervalle_fin": 3270,
       "timecode_debut_extrait": 3255,
       "timecode_fin_extrait": 3270,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0217_time_3255.00s-3270.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -7751,7 +7751,7 @@
       "intervalle_fin": 3285,
       "timecode_debut_extrait": 3270,
       "timecode_fin_extrait": 3285,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0218_time_3270.00s-3285.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -7799,7 +7799,7 @@
       "intervalle_fin": 3300,
       "timecode_debut_extrait": 3285,
       "timecode_fin_extrait": 3300,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0219_time_3285.00s-3300.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -7841,7 +7841,7 @@
       "intervalle_fin": 3315,
       "timecode_debut_extrait": 3300,
       "timecode_fin_extrait": 3315,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0220_time_3300.00s-3315.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -7889,7 +7889,7 @@
       "intervalle_fin": 3330,
       "timecode_debut_extrait": 3315,
       "timecode_fin_extrait": 3330,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0221_time_3315.00s-3330.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -7919,7 +7919,7 @@
       "intervalle_fin": 3345,
       "timecode_debut_extrait": 3330,
       "timecode_fin_extrait": 3345,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0222_time_3330.00s-3345.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -7943,7 +7943,7 @@
       "intervalle_fin": 3360,
       "timecode_debut_extrait": 3345,
       "timecode_fin_extrait": 3360,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0223_time_3345.00s-3360.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -7985,7 +7985,7 @@
       "intervalle_fin": 3375,
       "timecode_debut_extrait": 3360,
       "timecode_fin_extrait": 3375,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0224_time_3360.00s-3375.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -8021,7 +8021,7 @@
       "intervalle_fin": 3390,
       "timecode_debut_extrait": 3375,
       "timecode_fin_extrait": 3390,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0225_time_3375.00s-3390.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -8069,7 +8069,7 @@
       "intervalle_fin": 3405,
       "timecode_debut_extrait": 3390,
       "timecode_fin_extrait": 3405,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0226_time_3390.00s-3405.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -8087,7 +8087,7 @@
       "intervalle_fin": 3420,
       "timecode_debut_extrait": 3405,
       "timecode_fin_extrait": 3420,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0227_time_3405.00s-3420.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -8098,7 +8098,7 @@
       "intervalle_fin": 3435,
       "timecode_debut_extrait": 3420,
       "timecode_fin_extrait": 3435,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0228_time_3420.00s-3435.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -8134,7 +8134,7 @@
       "intervalle_fin": 3450,
       "timecode_debut_extrait": 3435,
       "timecode_fin_extrait": 3450,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0229_time_3435.00s-3450.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -8164,7 +8164,7 @@
       "intervalle_fin": 3465,
       "timecode_debut_extrait": 3450,
       "timecode_fin_extrait": 3465,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0230_time_3450.00s-3465.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -8188,7 +8188,7 @@
       "intervalle_fin": 3480,
       "timecode_debut_extrait": 3465,
       "timecode_fin_extrait": 3480,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0231_time_3465.00s-3480.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -8224,7 +8224,7 @@
       "intervalle_fin": 3495,
       "timecode_debut_extrait": 3480,
       "timecode_fin_extrait": 3495,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0232_time_3480.00s-3495.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -8260,7 +8260,7 @@
       "intervalle_fin": 3510,
       "timecode_debut_extrait": 3495,
       "timecode_fin_extrait": 3510,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0233_time_3495.00s-3510.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -8278,7 +8278,7 @@
       "intervalle_fin": 3525,
       "timecode_debut_extrait": 3510,
       "timecode_fin_extrait": 3525,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0234_time_3510.00s-3525.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -8320,7 +8320,7 @@
       "intervalle_fin": 3540,
       "timecode_debut_extrait": 3525,
       "timecode_fin_extrait": 3540,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0235_time_3525.00s-3540.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -8362,7 +8362,7 @@
       "intervalle_fin": 3555,
       "timecode_debut_extrait": 3540,
       "timecode_fin_extrait": 3555,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0236_time_3540.00s-3555.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -8392,7 +8392,7 @@
       "intervalle_fin": 3570,
       "timecode_debut_extrait": 3555,
       "timecode_fin_extrait": 3570,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0237_time_3555.00s-3570.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -8416,7 +8416,7 @@
       "intervalle_fin": 3585,
       "timecode_debut_extrait": 3570,
       "timecode_fin_extrait": 3585,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0238_time_3570.00s-3585.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -8464,7 +8464,7 @@
       "intervalle_fin": 3600,
       "timecode_debut_extrait": 3585,
       "timecode_fin_extrait": 3600,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0239_time_3585.00s-3600.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -8494,7 +8494,7 @@
       "intervalle_fin": 3615,
       "timecode_debut_extrait": 3600,
       "timecode_fin_extrait": 3615,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0240_time_3600.00s-3615.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -8530,7 +8530,7 @@
       "intervalle_fin": 3630,
       "timecode_debut_extrait": 3615,
       "timecode_fin_extrait": 3630,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0241_time_3615.00s-3630.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -8560,7 +8560,7 @@
       "intervalle_fin": 3645,
       "timecode_debut_extrait": 3630,
       "timecode_fin_extrait": 3645,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0242_time_3630.00s-3645.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -8584,7 +8584,7 @@
       "intervalle_fin": 3660,
       "timecode_debut_extrait": 3645,
       "timecode_fin_extrait": 3660,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0243_time_3645.00s-3660.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -8626,7 +8626,7 @@
       "intervalle_fin": 3675,
       "timecode_debut_extrait": 3660,
       "timecode_fin_extrait": 3675,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0244_time_3660.00s-3675.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -8662,7 +8662,7 @@
       "intervalle_fin": 3690,
       "timecode_debut_extrait": 3675,
       "timecode_fin_extrait": 3690,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0245_time_3675.00s-3690.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -8698,7 +8698,7 @@
       "intervalle_fin": 3705,
       "timecode_debut_extrait": 3690,
       "timecode_fin_extrait": 3705,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0246_time_3690.00s-3705.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -8728,7 +8728,7 @@
       "intervalle_fin": 3720,
       "timecode_debut_extrait": 3705,
       "timecode_fin_extrait": 3720,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0247_time_3705.00s-3720.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -8764,7 +8764,7 @@
       "intervalle_fin": 3735,
       "timecode_debut_extrait": 3720,
       "timecode_fin_extrait": 3735,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0248_time_3720.00s-3735.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -8800,7 +8800,7 @@
       "intervalle_fin": 3750,
       "timecode_debut_extrait": 3735,
       "timecode_fin_extrait": 3750,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0249_time_3735.00s-3750.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -8830,7 +8830,7 @@
       "intervalle_fin": 3765,
       "timecode_debut_extrait": 3750,
       "timecode_fin_extrait": 3765,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0250_time_3750.00s-3765.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -8860,7 +8860,7 @@
       "intervalle_fin": 3780,
       "timecode_debut_extrait": 3765,
       "timecode_fin_extrait": 3780,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0251_time_3765.00s-3780.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -8878,7 +8878,7 @@
       "intervalle_fin": 3795,
       "timecode_debut_extrait": 3780,
       "timecode_fin_extrait": 3795,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0252_time_3780.00s-3795.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -8908,7 +8908,7 @@
       "intervalle_fin": 3810,
       "timecode_debut_extrait": 3795,
       "timecode_fin_extrait": 3810,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0253_time_3795.00s-3810.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -8932,7 +8932,7 @@
       "intervalle_fin": 3825,
       "timecode_debut_extrait": 3810,
       "timecode_fin_extrait": 3825,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0254_time_3810.00s-3825.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -8974,7 +8974,7 @@
       "intervalle_fin": 3840,
       "timecode_debut_extrait": 3825,
       "timecode_fin_extrait": 3840,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0255_time_3825.00s-3840.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -9004,7 +9004,7 @@
       "intervalle_fin": 3855,
       "timecode_debut_extrait": 3840,
       "timecode_fin_extrait": 3855,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0256_time_3840.00s-3855.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -9034,7 +9034,7 @@
       "intervalle_fin": 3870,
       "timecode_debut_extrait": 3855,
       "timecode_fin_extrait": 3870,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0257_time_3855.00s-3870.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -9064,7 +9064,7 @@
       "intervalle_fin": 3885,
       "timecode_debut_extrait": 3870,
       "timecode_fin_extrait": 3885,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0258_time_3870.00s-3885.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -9106,7 +9106,7 @@
       "intervalle_fin": 3900,
       "timecode_debut_extrait": 3885,
       "timecode_fin_extrait": 3900,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0259_time_3885.00s-3900.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -9148,7 +9148,7 @@
       "intervalle_fin": 3915,
       "timecode_debut_extrait": 3900,
       "timecode_fin_extrait": 3915,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0260_time_3900.00s-3915.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -9178,7 +9178,7 @@
       "intervalle_fin": 3930,
       "timecode_debut_extrait": 3915,
       "timecode_fin_extrait": 3930,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0261_time_3915.00s-3930.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -9214,7 +9214,7 @@
       "intervalle_fin": 3945,
       "timecode_debut_extrait": 3930,
       "timecode_fin_extrait": 3945,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0262_time_3930.00s-3945.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -9250,7 +9250,7 @@
       "intervalle_fin": 3960,
       "timecode_debut_extrait": 3945,
       "timecode_fin_extrait": 3960,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0263_time_3945.00s-3960.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -9280,7 +9280,7 @@
       "intervalle_fin": 3975,
       "timecode_debut_extrait": 3960,
       "timecode_fin_extrait": 3975,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0264_time_3960.00s-3975.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -9304,7 +9304,7 @@
       "intervalle_fin": 3990,
       "timecode_debut_extrait": 3975,
       "timecode_fin_extrait": 3990,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0265_time_3975.00s-3990.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9315,7 +9315,7 @@
       "intervalle_fin": 4005,
       "timecode_debut_extrait": 3990,
       "timecode_fin_extrait": 4005,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0266_time_3990.00s-4005.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9326,7 +9326,7 @@
       "intervalle_fin": 4020,
       "timecode_debut_extrait": 4005,
       "timecode_fin_extrait": 4020,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0267_time_4005.00s-4020.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -9344,7 +9344,7 @@
       "intervalle_fin": 4035,
       "timecode_debut_extrait": 4020,
       "timecode_fin_extrait": 4035,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0268_time_4020.00s-4035.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -9362,7 +9362,7 @@
       "intervalle_fin": 4050,
       "timecode_debut_extrait": 4035,
       "timecode_fin_extrait": 4050,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0269_time_4035.00s-4050.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9373,7 +9373,7 @@
       "intervalle_fin": 4065,
       "timecode_debut_extrait": 4050,
       "timecode_fin_extrait": 4065,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0270_time_4050.00s-4065.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9384,7 +9384,7 @@
       "intervalle_fin": 4080,
       "timecode_debut_extrait": 4065,
       "timecode_fin_extrait": 4080,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0271_time_4065.00s-4080.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -9408,7 +9408,7 @@
       "intervalle_fin": 4095,
       "timecode_debut_extrait": 4080,
       "timecode_fin_extrait": 4095,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0272_time_4080.00s-4095.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9419,7 +9419,7 @@
       "intervalle_fin": 4110,
       "timecode_debut_extrait": 4095,
       "timecode_fin_extrait": 4110,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0273_time_4095.00s-4110.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -9449,7 +9449,7 @@
       "intervalle_fin": 4125,
       "timecode_debut_extrait": 4110,
       "timecode_fin_extrait": 4125,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0274_time_4110.00s-4125.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -9497,7 +9497,7 @@
       "intervalle_fin": 4140,
       "timecode_debut_extrait": 4125,
       "timecode_fin_extrait": 4140,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0275_time_4125.00s-4140.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -9539,7 +9539,7 @@
       "intervalle_fin": 4155,
       "timecode_debut_extrait": 4140,
       "timecode_fin_extrait": 4155,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0276_time_4140.00s-4155.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -9593,7 +9593,7 @@
       "intervalle_fin": 4170,
       "timecode_debut_extrait": 4155,
       "timecode_fin_extrait": 4170,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0277_time_4155.00s-4170.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -9629,7 +9629,7 @@
       "intervalle_fin": 4185,
       "timecode_debut_extrait": 4170,
       "timecode_fin_extrait": 4185,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0278_time_4170.00s-4185.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -9665,7 +9665,7 @@
       "intervalle_fin": 4200,
       "timecode_debut_extrait": 4185,
       "timecode_fin_extrait": 4200,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0279_time_4185.00s-4200.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -9701,7 +9701,7 @@
       "intervalle_fin": 4215,
       "timecode_debut_extrait": 4200,
       "timecode_fin_extrait": 4215,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0280_time_4200.00s-4215.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -9731,7 +9731,7 @@
       "intervalle_fin": 4230,
       "timecode_debut_extrait": 4215,
       "timecode_fin_extrait": 4230,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0281_time_4215.00s-4230.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -9749,7 +9749,7 @@
       "intervalle_fin": 4245,
       "timecode_debut_extrait": 4230,
       "timecode_fin_extrait": 4245,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0282_time_4230.00s-4245.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9760,7 +9760,7 @@
       "intervalle_fin": 4260,
       "timecode_debut_extrait": 4245,
       "timecode_fin_extrait": 4260,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0283_time_4245.00s-4260.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -9778,7 +9778,7 @@
       "intervalle_fin": 4275,
       "timecode_debut_extrait": 4260,
       "timecode_fin_extrait": 4275,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0284_time_4260.00s-4275.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -9796,7 +9796,7 @@
       "intervalle_fin": 4290,
       "timecode_debut_extrait": 4275,
       "timecode_fin_extrait": 4290,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0285_time_4275.00s-4290.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9807,7 +9807,7 @@
       "intervalle_fin": 4305,
       "timecode_debut_extrait": 4290,
       "timecode_fin_extrait": 4305,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0286_time_4290.00s-4305.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9818,7 +9818,7 @@
       "intervalle_fin": 4320,
       "timecode_debut_extrait": 4305,
       "timecode_fin_extrait": 4320,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0287_time_4305.00s-4320.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -9860,7 +9860,7 @@
       "intervalle_fin": 4335,
       "timecode_debut_extrait": 4320,
       "timecode_fin_extrait": 4335,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0288_time_4320.00s-4335.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -9902,7 +9902,7 @@
       "intervalle_fin": 4350,
       "timecode_debut_extrait": 4335,
       "timecode_fin_extrait": 4350,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0289_time_4335.00s-4350.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -9938,7 +9938,7 @@
       "intervalle_fin": 4365,
       "timecode_debut_extrait": 4350,
       "timecode_fin_extrait": 4365,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0290_time_4350.00s-4365.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -9968,7 +9968,7 @@
       "intervalle_fin": 4380,
       "timecode_debut_extrait": 4365,
       "timecode_fin_extrait": 4380,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0291_time_4365.00s-4380.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -9986,7 +9986,7 @@
       "intervalle_fin": 4395,
       "timecode_debut_extrait": 4380,
       "timecode_fin_extrait": 4395,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0292_time_4380.00s-4395.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -10016,7 +10016,7 @@
       "intervalle_fin": 4410,
       "timecode_debut_extrait": 4395,
       "timecode_fin_extrait": 4410,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0293_time_4395.00s-4410.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -10058,7 +10058,7 @@
       "intervalle_fin": 4425,
       "timecode_debut_extrait": 4410,
       "timecode_fin_extrait": 4425,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0294_time_4410.00s-4425.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -10088,7 +10088,7 @@
       "intervalle_fin": 4440,
       "timecode_debut_extrait": 4425,
       "timecode_fin_extrait": 4440,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0295_time_4425.00s-4440.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -10099,7 +10099,7 @@
       "intervalle_fin": 4455,
       "timecode_debut_extrait": 4440,
       "timecode_fin_extrait": 4455,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0296_time_4440.00s-4455.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -10135,7 +10135,7 @@
       "intervalle_fin": 4470,
       "timecode_debut_extrait": 4455,
       "timecode_fin_extrait": 4470,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0297_time_4455.00s-4470.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -10165,7 +10165,7 @@
       "intervalle_fin": 4485,
       "timecode_debut_extrait": 4470,
       "timecode_fin_extrait": 4485,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0298_time_4470.00s-4485.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -10207,7 +10207,7 @@
       "intervalle_fin": 4500,
       "timecode_debut_extrait": 4485,
       "timecode_fin_extrait": 4500,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0299_time_4485.00s-4500.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -10243,7 +10243,7 @@
       "intervalle_fin": 4515,
       "timecode_debut_extrait": 4500,
       "timecode_fin_extrait": 4515,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0300_time_4500.00s-4515.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -10285,7 +10285,7 @@
       "intervalle_fin": 4530,
       "timecode_debut_extrait": 4515,
       "timecode_fin_extrait": 4530,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0301_time_4515.00s-4530.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -10327,7 +10327,7 @@
       "intervalle_fin": 4545,
       "timecode_debut_extrait": 4530,
       "timecode_fin_extrait": 4545,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0302_time_4530.00s-4545.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -10375,7 +10375,7 @@
       "intervalle_fin": 4560,
       "timecode_debut_extrait": 4545,
       "timecode_fin_extrait": 4560,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0303_time_4545.00s-4560.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -10411,7 +10411,7 @@
       "intervalle_fin": 4575,
       "timecode_debut_extrait": 4560,
       "timecode_fin_extrait": 4575,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0304_time_4560.00s-4575.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -10441,7 +10441,7 @@
       "intervalle_fin": 4590,
       "timecode_debut_extrait": 4575,
       "timecode_fin_extrait": 4590,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0305_time_4575.00s-4590.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -10465,7 +10465,7 @@
       "intervalle_fin": 4605,
       "timecode_debut_extrait": 4590,
       "timecode_fin_extrait": 4605,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0306_time_4590.00s-4605.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -10489,7 +10489,7 @@
       "intervalle_fin": 4620,
       "timecode_debut_extrait": 4605,
       "timecode_fin_extrait": 4620,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0307_time_4605.00s-4620.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -10519,7 +10519,7 @@
       "intervalle_fin": 4635,
       "timecode_debut_extrait": 4620,
       "timecode_fin_extrait": 4635,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0308_time_4620.00s-4635.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -10561,7 +10561,7 @@
       "intervalle_fin": 4650,
       "timecode_debut_extrait": 4635,
       "timecode_fin_extrait": 4650,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0309_time_4635.00s-4650.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -10597,7 +10597,7 @@
       "intervalle_fin": 4665,
       "timecode_debut_extrait": 4650,
       "timecode_fin_extrait": 4665,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0310_time_4650.00s-4665.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -10633,7 +10633,7 @@
       "intervalle_fin": 4680,
       "timecode_debut_extrait": 4665,
       "timecode_fin_extrait": 4680,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0311_time_4665.00s-4680.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -10663,7 +10663,7 @@
       "intervalle_fin": 4695,
       "timecode_debut_extrait": 4680,
       "timecode_fin_extrait": 4695,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0312_time_4680.00s-4695.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -10699,7 +10699,7 @@
       "intervalle_fin": 4710,
       "timecode_debut_extrait": 4695,
       "timecode_fin_extrait": 4710,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0313_time_4695.00s-4710.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -10723,7 +10723,7 @@
       "intervalle_fin": 4725,
       "timecode_debut_extrait": 4710,
       "timecode_fin_extrait": 4725,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0314_time_4710.00s-4725.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -10734,7 +10734,7 @@
       "intervalle_fin": 4740,
       "timecode_debut_extrait": 4725,
       "timecode_fin_extrait": 4740,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0315_time_4725.00s-4740.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -10752,7 +10752,7 @@
       "intervalle_fin": 4755,
       "timecode_debut_extrait": 4740,
       "timecode_fin_extrait": 4755,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0316_time_4740.00s-4755.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -10776,7 +10776,7 @@
       "intervalle_fin": 4770,
       "timecode_debut_extrait": 4755,
       "timecode_fin_extrait": 4770,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0317_time_4755.00s-4770.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -10794,7 +10794,7 @@
       "intervalle_fin": 4785,
       "timecode_debut_extrait": 4770,
       "timecode_fin_extrait": 4785,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0318_time_4770.00s-4785.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -10805,7 +10805,7 @@
       "intervalle_fin": 4800,
       "timecode_debut_extrait": 4785,
       "timecode_fin_extrait": 4800,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0319_time_4785.00s-4800.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -10823,7 +10823,7 @@
       "intervalle_fin": 4815,
       "timecode_debut_extrait": 4800,
       "timecode_fin_extrait": 4815,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0320_time_4800.00s-4815.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -10841,7 +10841,7 @@
       "intervalle_fin": 4830,
       "timecode_debut_extrait": 4815,
       "timecode_fin_extrait": 4830,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0321_time_4815.00s-4830.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -10859,7 +10859,7 @@
       "intervalle_fin": 4845,
       "timecode_debut_extrait": 4830,
       "timecode_fin_extrait": 4845,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0322_time_4830.00s-4845.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -10870,7 +10870,7 @@
       "intervalle_fin": 4860,
       "timecode_debut_extrait": 4845,
       "timecode_fin_extrait": 4860,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0323_time_4845.00s-4860.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -10894,7 +10894,7 @@
       "intervalle_fin": 4875,
       "timecode_debut_extrait": 4860,
       "timecode_fin_extrait": 4875,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0324_time_4860.00s-4875.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -10912,7 +10912,7 @@
       "intervalle_fin": 4890,
       "timecode_debut_extrait": 4875,
       "timecode_fin_extrait": 4890,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0325_time_4875.00s-4890.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -10923,7 +10923,7 @@
       "intervalle_fin": 4905,
       "timecode_debut_extrait": 4890,
       "timecode_fin_extrait": 4905,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0326_time_4890.00s-4905.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -10934,7 +10934,7 @@
       "intervalle_fin": 4920,
       "timecode_debut_extrait": 4905,
       "timecode_fin_extrait": 4920,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0327_time_4905.00s-4920.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -10945,7 +10945,7 @@
       "intervalle_fin": 4935,
       "timecode_debut_extrait": 4920,
       "timecode_fin_extrait": 4935,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0328_time_4920.00s-4935.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -10975,7 +10975,7 @@
       "intervalle_fin": 4950,
       "timecode_debut_extrait": 4935,
       "timecode_fin_extrait": 4950,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0329_time_4935.00s-4950.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -10986,7 +10986,7 @@
       "intervalle_fin": 4965,
       "timecode_debut_extrait": 4950,
       "timecode_fin_extrait": 4965,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0330_time_4950.00s-4965.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -10997,7 +10997,7 @@
       "intervalle_fin": 4980,
       "timecode_debut_extrait": 4965,
       "timecode_fin_extrait": 4980,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0331_time_4965.00s-4980.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11008,7 +11008,7 @@
       "intervalle_fin": 4995,
       "timecode_debut_extrait": 4980,
       "timecode_fin_extrait": 4995,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0332_time_4980.00s-4995.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11019,7 +11019,7 @@
       "intervalle_fin": 5010,
       "timecode_debut_extrait": 4995,
       "timecode_fin_extrait": 5010,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0333_time_4995.00s-5010.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11030,7 +11030,7 @@
       "intervalle_fin": 5025,
       "timecode_debut_extrait": 5010,
       "timecode_fin_extrait": 5025,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0334_time_5010.00s-5025.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11041,7 +11041,7 @@
       "intervalle_fin": 5040,
       "timecode_debut_extrait": 5025,
       "timecode_fin_extrait": 5040,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0335_time_5025.00s-5040.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11052,7 +11052,7 @@
       "intervalle_fin": 5055,
       "timecode_debut_extrait": 5040,
       "timecode_fin_extrait": 5055,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0336_time_5040.00s-5055.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11063,7 +11063,7 @@
       "intervalle_fin": 5070,
       "timecode_debut_extrait": 5055,
       "timecode_fin_extrait": 5070,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0337_time_5055.00s-5070.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11074,7 +11074,7 @@
       "intervalle_fin": 5085,
       "timecode_debut_extrait": 5070,
       "timecode_fin_extrait": 5085,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0338_time_5070.00s-5085.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -11092,7 +11092,7 @@
       "intervalle_fin": 5100,
       "timecode_debut_extrait": 5085,
       "timecode_fin_extrait": 5100,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0339_time_5085.00s-5100.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -11110,7 +11110,7 @@
       "intervalle_fin": 5115,
       "timecode_debut_extrait": 5100,
       "timecode_fin_extrait": 5115,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0340_time_5100.00s-5115.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11121,7 +11121,7 @@
       "intervalle_fin": 5130,
       "timecode_debut_extrait": 5115,
       "timecode_fin_extrait": 5130,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0341_time_5115.00s-5130.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11132,7 +11132,7 @@
       "intervalle_fin": 5145,
       "timecode_debut_extrait": 5130,
       "timecode_fin_extrait": 5145,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0342_time_5130.00s-5145.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11143,7 +11143,7 @@
       "intervalle_fin": 5160,
       "timecode_debut_extrait": 5145,
       "timecode_fin_extrait": 5160,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0343_time_5145.00s-5160.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11154,7 +11154,7 @@
       "intervalle_fin": 5175,
       "timecode_debut_extrait": 5160,
       "timecode_fin_extrait": 5175,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0344_time_5160.00s-5175.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11165,7 +11165,7 @@
       "intervalle_fin": 5190,
       "timecode_debut_extrait": 5175,
       "timecode_fin_extrait": 5190,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0345_time_5175.00s-5190.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11176,7 +11176,7 @@
       "intervalle_fin": 5205,
       "timecode_debut_extrait": 5190,
       "timecode_fin_extrait": 5205,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0346_time_5190.00s-5205.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11187,7 +11187,7 @@
       "intervalle_fin": 5220,
       "timecode_debut_extrait": 5205,
       "timecode_fin_extrait": 5220,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0347_time_5205.00s-5220.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11198,7 +11198,7 @@
       "intervalle_fin": 5235,
       "timecode_debut_extrait": 5220,
       "timecode_fin_extrait": 5235,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0348_time_5220.00s-5235.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11209,7 +11209,7 @@
       "intervalle_fin": 5250,
       "timecode_debut_extrait": 5235,
       "timecode_fin_extrait": 5250,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0349_time_5235.00s-5250.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11220,7 +11220,7 @@
       "intervalle_fin": 5265,
       "timecode_debut_extrait": 5250,
       "timecode_fin_extrait": 5265,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0350_time_5250.00s-5265.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11231,7 +11231,7 @@
       "intervalle_fin": 5280,
       "timecode_debut_extrait": 5265,
       "timecode_fin_extrait": 5280,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0351_time_5265.00s-5280.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -11273,7 +11273,7 @@
       "intervalle_fin": 5295,
       "timecode_debut_extrait": 5280,
       "timecode_fin_extrait": 5295,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0352_time_5280.00s-5295.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -11327,7 +11327,7 @@
       "intervalle_fin": 5310,
       "timecode_debut_extrait": 5295,
       "timecode_fin_extrait": 5310,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0353_time_5295.00s-5310.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -11369,7 +11369,7 @@
       "intervalle_fin": 5325,
       "timecode_debut_extrait": 5310,
       "timecode_fin_extrait": 5325,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0354_time_5310.00s-5325.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -11405,7 +11405,7 @@
       "intervalle_fin": 5340,
       "timecode_debut_extrait": 5325,
       "timecode_fin_extrait": 5340,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0355_time_5325.00s-5340.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -11435,7 +11435,7 @@
       "intervalle_fin": 5355,
       "timecode_debut_extrait": 5340,
       "timecode_fin_extrait": 5355,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0356_time_5340.00s-5355.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11446,7 +11446,7 @@
       "intervalle_fin": 5370,
       "timecode_debut_extrait": 5355,
       "timecode_fin_extrait": 5370,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0357_time_5355.00s-5370.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11457,7 +11457,7 @@
       "intervalle_fin": 5385,
       "timecode_debut_extrait": 5370,
       "timecode_fin_extrait": 5385,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0358_time_5370.00s-5385.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11468,7 +11468,7 @@
       "intervalle_fin": 5400,
       "timecode_debut_extrait": 5385,
       "timecode_fin_extrait": 5400,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0359_time_5385.00s-5400.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11479,7 +11479,7 @@
       "intervalle_fin": 5415,
       "timecode_debut_extrait": 5400,
       "timecode_fin_extrait": 5415,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0360_time_5400.00s-5415.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11490,7 +11490,7 @@
       "intervalle_fin": 5430,
       "timecode_debut_extrait": 5415,
       "timecode_fin_extrait": 5430,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0361_time_5415.00s-5430.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11501,7 +11501,7 @@
       "intervalle_fin": 5445,
       "timecode_debut_extrait": 5430,
       "timecode_fin_extrait": 5445,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0362_time_5430.00s-5445.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11512,7 +11512,7 @@
       "intervalle_fin": 5460,
       "timecode_debut_extrait": 5445,
       "timecode_fin_extrait": 5460,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0363_time_5445.00s-5460.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11523,7 +11523,7 @@
       "intervalle_fin": 5475,
       "timecode_debut_extrait": 5460,
       "timecode_fin_extrait": 5475,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0364_time_5460.00s-5475.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11534,7 +11534,7 @@
       "intervalle_fin": 5490,
       "timecode_debut_extrait": 5475,
       "timecode_fin_extrait": 5490,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0365_time_5475.00s-5490.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11545,7 +11545,7 @@
       "intervalle_fin": 5505,
       "timecode_debut_extrait": 5490,
       "timecode_fin_extrait": 5505,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0366_time_5490.00s-5505.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11556,7 +11556,7 @@
       "intervalle_fin": 5520,
       "timecode_debut_extrait": 5505,
       "timecode_fin_extrait": 5520,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0367_time_5505.00s-5520.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11567,7 +11567,7 @@
       "intervalle_fin": 5535,
       "timecode_debut_extrait": 5520,
       "timecode_fin_extrait": 5535,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0368_time_5520.00s-5535.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11578,7 +11578,7 @@
       "intervalle_fin": 5550,
       "timecode_debut_extrait": 5535,
       "timecode_fin_extrait": 5550,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0369_time_5535.00s-5550.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11589,7 +11589,7 @@
       "intervalle_fin": 5565,
       "timecode_debut_extrait": 5550,
       "timecode_fin_extrait": 5565,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0370_time_5550.00s-5565.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11600,7 +11600,7 @@
       "intervalle_fin": 5580,
       "timecode_debut_extrait": 5565,
       "timecode_fin_extrait": 5580,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0371_time_5565.00s-5580.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11611,7 +11611,7 @@
       "intervalle_fin": 5595,
       "timecode_debut_extrait": 5580,
       "timecode_fin_extrait": 5595,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0372_time_5580.00s-5595.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -11622,7 +11622,7 @@
       "intervalle_fin": 5609.568,
       "timecode_debut_extrait": 5595,
       "timecode_fin_extrait": 5609.568,
-      "video_path": null,
+      "video_path": "analyse\\videos\\The One and Only Ivan [2020, WEB-DL 1080p] MVO (HDRezka Studio) + Original (Eng) + Sub (rus, eng)\\interval_0373_time_5595.00s-5609.57s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0

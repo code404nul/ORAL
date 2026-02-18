@@ -2565,6 +2565,1744 @@
         "completion_tokens": 116,
         "total_tokens": 2870
       }
+    },
+    {
+      "intervalle_index": 234,
+      "intervalle_debut": 3510,
+      "intervalle_fin": 3525,
+      "analyse_action": "In the scene, we have guests entering a restaurant and arriving at the table where arrangements are already being made or some people are about to leave the place.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 32,
+        "total_tokens": 2786
+      }
+    },
+    {
+      "intervalle_index": 235,
+      "intervalle_debut": 3525,
+      "intervalle_fin": 3540,
+      "analyse_action": "The scene takes place in a cozy, densely decorated restaurant where a lively group of six women are gathered at a wooden table having a convivial dinner together. The woman at the head of the table wearing a white-and-blue polka dot dress is animatedly addressing the group, gesturing and speaking with evident enthusiasm.\n\nAround her, the other women are engaged and responsive—some smiling and leaning in, others reacting with laughter or looking on attentively. The table is set with glasses, plates, and a candle, creating an intimate dining atmosphere.\n\nIn the background, a woman in blue and a man in a plaid shirt enter through a doorway and are chatting as they come in. The restaurant's walls are covered with a mix of nostalgic and contemporary decorations, including portraits and photographs, creating a warm, communal ambiance. There's even someone at a piano in the distance, contributing to the relaxed, friendly atmosphere of the gathering.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 187,
+        "total_tokens": 2941
+      }
+    },
+    {
+      "intervalle_index": 236,
+      "intervalle_debut": 3540,
+      "intervalle_fin": 3555,
+      "analyse_action": "The scene has two main parts happening simultaneously.\n\nIn the foreground, a group of young women are seated together at a table in a well-decorated restaurant setting. They're mid-gathering, in the middle of conversation and laughter. One woman in the center is speaking while others look at and respond to her, creating an lively social interaction focused on whatever she's discussing.\n\nIn the background, Ben Stiller and Anna Kendrick (in character as a couple) are positioned by a doorway. Ben is wearing a blue-and-white plaid shirt and has his hands on his hips in a characteristic stance, while Anna is dressed in purple with a purse over her shoulder. They're engaged in their own conversation, glancing at each other and smiling and laughing.\n\nThe two scenes are taking place at the same time but represent separate social interactions happening simultaneously in the restaurant. The young women are clearly having their own gathering focused on a conversation topic, while Stiller and Kendrick are also having their own interaction in the background of the same space. It appears to be a casual gathering where multiple people are conversing and enjoying each other's company in the restaurant setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 231,
+        "total_tokens": 2985
+      }
+    },
+    {
+      "intervalle_index": 237,
+      "intervalle_debut": 3555,
+      "intervalle_fin": 3570,
+      "analyse_action": "The scene takes place in a restaurant setting where a man and a woman are initially standing near a red-brick archway with white plaster and a framed picture on the wall. The man is wearing a blue-and-white plaid shirt and has his arm around the woman, who is wearing a light purple blouse with a dark strap over her shoulder. They're smiling and laughing together, appearing relaxed and comfortable in each other's presence. Both are looking to the left at the women seated at the wooden table, who seem taken aback or surprised by something the couple has said. It looks like they're engaged in some kind of friendly interaction or conversation that has caught the attention of the group, with the couple's expressions suggesting they're enjoying whatever they're talking about.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 154,
+        "total_tokens": 2908
+      }
+    },
+    {
+      "intervalle_index": 238,
+      "intervalle_debut": 3570,
+      "intervalle_fin": 3585,
+      "analyse_action": "The scene is taking place in a cozy restaurant with a warm, rustic atmosphere. Two people are at the center of the focus talking, while four others are sitting across from them at a table.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 40,
+        "total_tokens": 2794
+      }
+    },
+    {
+      "intervalle_index": 239,
+      "intervalle_debut": 3585,
+      "intervalle_fin": 3600,
+      "analyse_action": "In the scene, two people are having a conversation in a rustic-restaurant setting. The man and woman are seated together at a table and appear to be engaged in a one-on-one discussion. The woman is wearing a purple collared top with her hair pulled back and has a blue strap visible over her shoulder. The man is wearing a blue-and-white plaid button-down shirt.\n\nBehind them, there's a brick wall with text visible that reads \" pale ale.\" The space has a cozy, casual atmosphere with photographs and frames hanging on one wall, and a plant in a brown pot adding a touch of greenery. The scene is characterized by warm lighting, brick textures, and a bright window in the background, creating a comfortable dining environment where the two individuals seem to be having a focused conversation during their meal.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 165,
+        "total_tokens": 2919
+      }
+    },
+    {
+      "intervalle_index": 240,
+      "intervalle_debut": 3600,
+      "intervalle_fin": 3615,
+      "analyse_action": "A lively group of women are gathered around a crowded table for a hearty meal. They're dressed casually and chatting together in what appears to be a cozy, intimate restaurant setting. The table is set with plates of food including spaghetti and salad, along with drinks featuring ice cubes and lemon slices.\n\nThe women are engaged in animated conversation - some sitting at the table while others stand nearby. Their expressions show they're happily interacting and sharing time together. Notable figures include a woman in a blue dress who seems to be addressing or drawing attention, a black woman in a white-and-blue patterned shirt, and another in a green shirt.\n\nThe scene has a warm, social atmosphere with the entire group appearing content, close-knit, and enjoying each other's company for what looks like a friendly gathering over delicious food and good conversation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 166,
+        "total_tokens": 2920
+      }
+    },
+    {
+      "intervalle_index": 241,
+      "intervalle_debut": 3615,
+      "intervalle_fin": 3630,
+      "analyse_action": "The scene takes place in a rustic restaurant where a lively social gathering is happening. A group of women in colorful dresses are seated at a table, laughing and enjoying their meal together. Behind them, a brick wall features a whiteboard with \"India Pale Ale\" written on it, along with a red-brick archway, a doorway, shelves holding teapots and decorative items, and a clad table.\n\nThe most energetic activity unfolds at the centerpiece table. One officer is standing while two others are seated on either side, creating an interactive, dynamic moment at the dining area. The warm lighting and comfortable setting encourage an easy, convivial atmosphere. The women appear engaged in conversation and laughter, clearly enjoying each other's company in this cozy, well-decorated restaurant environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 157,
+        "total_tokens": 2911
+      }
+    },
+    {
+      "intervalle_index": 242,
+      "intervalle_debut": 3630,
+      "intervalle_fin": 3645,
+      "analyse_action": "The scene shows a group of women gathered around a table in a restaurant, wearing colorful dresses and dancing together. They're moving energetically, creating a lively, celebratory atmosphere. The space is decorated with photographs, posters, and framed portraits lining the walls, giving it a cozy, lived-in feel.\n\nMeanwhile, two other people—a man in a white and blue plaid shirt and a woman—are also at the same location but in a separate area. They're engaged in conversation while sitting down. The scene has a warm, relaxed tone with golden lighting as the dancing continues.\n\nAfter this energetic restaurant moment, the setting shifts to a peaceful beach scene. The two people from the restaurant—now wearing sunglasses—are walking hand-in-hand along the sand near gentle waves. The tranquil ocean view contrasts beautifully with the earlier noisy restaurant celebration.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 168,
+        "total_tokens": 2922
+      }
+    },
+    {
+      "intervalle_index": 243,
+      "intervalle_debut": 3645,
+      "intervalle_fin": 3660,
+      "analyse_action": "Two people are standing on a beach at sunset, engaged in conversation about their current situation. The man is wearing sunglasses, a grey-and-white plaid button-down, and khaki pants while the woman wears a light violet dress with a ponytail. There is sound.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 55,
+        "total_tokens": 2809
+      }
+    },
+    {
+      "intervalle_index": 244,
+      "intervalle_debut": 3660,
+      "intervalle_fin": 3675,
+      "analyse_action": "Sam and Sarah are walking along a beach early in the morning while looking across at endless wooden piers and a few other beachgoers. Their attention is suddenly drawn to someone lying on the beach, who turns out to be drunk and passed out, appearing really obese. The sun is starting to come up, giving the scene a serene yet slightly eerie early-morning atmosphere. Sam then walks toward the shoreline, kicking the sleeping man in the stomach.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 91,
+        "total_tokens": 2845
+      }
+    },
+    {
+      "intervalle_index": 245,
+      "intervalle_debut": 3675,
+      "intervalle_fin": 3690,
+      "analyse_action": "In this scene, two people are walking together along a beach shore at night. The man in sunglasses leads as they stroll past tall wooden beams of a pier that stretch over the shoreline, with gentle waves breaking along the sand at their feet. After moving down the beach by the pier, they reach the sand beneath it where scattered rocks lie. They stop there, take in their surroundings, and turn their attention toward the ocean waves coming in. The wooden structure of the pier lights up with dark red lights at night, creating a warm glow against the dark sky, while lights spark in the water around them. The tired-looking man talks while gesturing with his hands, and the woman in the backpack listens and reacts with visible excitement before sitting on the sand to take in the scene before them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 159,
+        "total_tokens": 2913
+      }
+    },
+    {
+      "intervalle_index": 246,
+      "intervalle_debut": 3690,
+      "intervalle_fin": 3705,
+      "analyse_action": "In the scene, two people are racing to catch up to their friend during a break in the rain. The girl runs ahead barefoot in her light-colored skirt, with wet plaid shorts, a flannel shirt, and a backpack, charging along the wet sandy beach.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 56,
+        "total_tokens": 2810
+      }
+    },
+    {
+      "intervalle_index": 247,
+      "intervalle_debut": 3705,
+      "intervalle_fin": 3720,
+      "analyse_action": "The scene shows a tense conversation taking place on a pier at night between a man and a woman. The woman is wearing a purple button-up shirt and has a backpack on, while the man is wearing a blue, white, and gray plaid shirt. They appear to be having an important discussion in a serious, somber setting with water crashing against the pier in the background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 77,
+        "total_tokens": 2831
+      }
+    },
+    {
+      "intervalle_index": 248,
+      "intervalle_debut": 3720,
+      "intervalle_fin": 3735,
+      "analyse_action": "A man and woman are having an intense conversation on a pier overlooking water. The man, wearing a blue plaid shirt shirt, is talking and gesturing expressively with his hands raised and mouth open, while the woman in a purple button-up shirt with a backpack listens intently with a concerned, slightly grimaced expression. Water can be seen around them. The moment captures them engaged in a serious exchange, with their expressions and body language reflecting the emotional intensity and weight of their discussion.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 99,
+        "total_tokens": 2853
+      }
+    },
+    {
+      "intervalle_index": 249,
+      "intervalle_debut": 3735,
+      "intervalle_fin": 3750,
+      "analyse_action": "The scene takes place at pier. Two people are engaged in an animated conversation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 17,
+        "total_tokens": 2771
+      }
+    },
+    {
+      "intervalle_index": 250,
+      "intervalle_debut": 3750,
+      "intervalle_fin": 3765,
+      "analyse_action": "Brad Pitt and Angelina Jolie are having an intense conversation on the pier while a storm rages around them. The two stand facing each other near a fence, with the rough, choppy waves pounding against the dock behind them and wet wooden planks in view. Pitt speaks with focused, earnest energy, leaning forward to meet Jolie's gaze as he addresses her with passion. His body language, including a tightening in his jaw and a quick flick of his gaze downward, suggests he's invested heavily in what he's saying.\n\nJolie listens with quiet attention, her pale blue eyes fixed on Pitt. A backpack sits behind her. The storm setting—with its relentless, white-capped water and dramatic lighting—creates a charged atmosphere as their exchange unfolds along the makeshift platform. Their expressions convey an unusually deep and serious connection between them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 169,
+        "total_tokens": 2923
+      }
+    },
+    {
+      "intervalle_index": 251,
+      "intervalle_debut": 3765,
+      "intervalle_fin": 3780,
+      "analyse_action": "In the scene, two people are standing very close together on a makeshift bridge or dock structure built from concrete pillars and wooden planks. The woman is wearing a pink collared shirt, short dark hair, and has a colorful crisscross backpack. She stands still and looks downward. The taller man, dressed in a blue-and-white plaid button-up, remains standing nearby and looks down at her. When he speaks, she lifts her gaze to meet his eyes before looking away again. At one point he gestures with his hand, while she blinks. The setting features large gray pillars, scattered rocks, and gray water surrounding them, with a muted color palette of grays, browns, blues, and pinks creating a somber atmosphere. The man appears particularly emphatic in his movements and speech. The entire exchange is centered around their close physical positioning and the quiet tension between them underwater at this location.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 185,
+        "total_tokens": 2939
+      }
+    },
+    {
+      "intervalle_index": 252,
+      "intervalle_debut": 3780,
+      "intervalle_fin": 3795,
+      "analyse_action": "A man and a woman are having a conversation near dark-colored wooden structures by the water. The man is kneeling and wearing a blue and white plaid shirt. He is holding a penny and appears to be speaking to the woman.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 47,
+        "total_tokens": 2801
+      }
+    },
+    {
+      "intervalle_index": 253,
+      "intervalle_debut": 3795,
+      "intervalle_fin": 3810,
+      "analyse_action": "Two people are having a conversation by the water among the wooden posts. The woman takes over the conversation and walks away.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 25,
+        "total_tokens": 2779
+      }
+    },
+    {
+      "intervalle_index": 254,
+      "intervalle_debut": 3810,
+      "intervalle_fin": 3825,
+      "analyse_action": "The scene shows Bill Hader sitting in a seaside pier area, wearing a plaid shirt with rolled sleeves, holding a rectangular object while speaking. Afterward, the perspective shifts to a living room where Luke Wilson enters through a doorway wearing a white collared shirt layered with a green vest beneath a black vest. The room has warm lighting, neutral walls, and framed pictures visible in the space. These cutaways alternately feature Bill Hader in the pier setting and Luke Wilson in the domestic living room environment before the scene concludes.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 107,
+        "total_tokens": 2861
+      }
+    },
+    {
+      "intervalle_index": 255,
+      "intervalle_debut": 3825,
+      "intervalle_fin": 3840,
+      "analyse_action": "In the scene, there's an argument or heated conversation taking place between two men in separate rooms of the house. \n\nOne man with long dark hair is standing by a door frame, dressed in a green floral patterned vest over a white collared shirt, with a phone held to his ear. His expression looks frustrated or exasperated as he appears to be responding to something.\n\nThe other man, who has short dark hair and is wearing a red T-shirt under a white robe, is seated at a table. He's gesturing as he speaks, with an open case in front of him. The room he's in is cluttered with various items - there's a clear plastic container with multiple slots behind him, several books on the wall, and a window with green curtains and white blinds covering it.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 164,
+        "total_tokens": 2918
+      }
+    },
+    {
+      "intervalle_index": 256,
+      "intervalle_debut": 3840,
+      "intervalle_fin": 3855,
+      "analyse_action": "The scene takes place in a cozy, lived-in kitchen where two men are having an animated conversation while seated at a table. One man sits at the center of the room with long dark hair, wearing a white button-up shirt under a green-and-black vest, while the other wearing a white jacket and holding a ceramic mug throughout their exchange.\n\nThe long-haired man takes the initiative in their discussion, using hand gestures - extending his arm forward and placing his hand on a chair as he speaks. He drinks from a white mug with a blue floral pattern throughout his conversation. \n\nHis conversation partner, the man in the white jacket, actively listens and contributes to the discussion. He wears a red shirt underneath his jacket, holds a white cup in his left hand, and stays engaged with his gestures while responding. \n\nTheir interaction unfolds naturally in this domestic setting, with them taking turns speaking while seated at the table - creating the atmosphere of a friendly, casual chat between two people sharing a moment together in a home environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 203,
+        "total_tokens": 2957
+      }
+    },
+    {
+      "intervalle_index": 257,
+      "intervalle_debut": 3855,
+      "intervalle_fin": 3870,
+      "analyse_action": "In the kitchen, Ben Stiller and Seth Rogen are sitting at a small, cluttered table having a lively conversation. Ben is drinking from a white mug while Seth is pacing animatedly with exaggerated gestures.\n\nTheir exchange is energetic and back-and-forth. Ben looks concerned at times while Seth dramatically raises his hands near his face as if highlighting an important point, then brings his hands together and extends them forward while speaking intensely to emphasize a key moment in their discussion.\n\nThe scene is filled with casual yet intense banter as they alternate between moments of engagement and vulnerability, laughing, pointing, and using dramatic hand movements to communicate. The conversation appears to be central to their interaction, with Ben listening attentively while Seth drives the conversation with his animated physical expressions and urgent body language.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 157,
+        "total_tokens": 2911
+      }
+    },
+    {
+      "intervalle_index": 258,
+      "intervalle_debut": 3870,
+      "intervalle_fin": 3885,
+      "analyse_action": "The scene opens with a guinea pig inside a cage, then shifts to a cozy kitchen in suburban Pasadena where two men are sitting at a cluttered round wooden table. It cycles through different domestic spaces in the same home: a bedroom where two girls are lying on their stomachs in noodle-themed beds wearing pajamas, with a father at night playing basketball with only the girls' feet visible at the foot of the beds; and a cluttered workshop-like room with a man in a white jacket balancing a basketball on his finger while looking perplexed. The sequence presents a day-in-the-life feel through these everyday family and home scenes.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 129,
+        "total_tokens": 2883
+      }
+    },
+    {
+      "intervalle_index": 259,
+      "intervalle_debut": 3885,
+      "intervalle_fin": 3900,
+      "analyse_action": "The scene takes place in an auditorium or arena space where a large crowd has gathered to watch some kind of ceremony or event. The architecture features multiple gymnastic levels arranged around the room. In the center, a balcony leads up to a raised platform.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 52,
+        "total_tokens": 2806
+      }
+    },
+    {
+      "intervalle_index": 260,
+      "intervalle_debut": 3900,
+      "intervalle_fin": 3915,
+      "analyse_action": "The scene shows a formal, ceremonial gathering aboard a spacecraft. Emperor Palpatine, seated on a gold throne in a starbridge control room, wears his distinctive red robes and hat while interacting through a hand-held device beside a purple-clad woman with white hair in a matching metallic chair. Around them, vast crowds fill gallery seating against a backdrop of space filled with stars and illuminated planetary views. White square lights line the walls, with metallic surfaces reflecting the glow. A gray-suited, red-faced officer watches them intently. The camera then pulls back to reveal the full scale of this ship-wide audience event.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 124,
+        "total_tokens": 2878
+      }
+    },
+    {
+      "intervalle_index": 261,
+      "intervalle_debut": 3915,
+      "intervalle_fin": 3930,
+      "analyse_action": "The scene shows a superhero-themed event. A room with a dark gray floor and a large circular window displays a backdrop of stars and vertical white-and-black striped panels. \n\nA blonde woman moves fish-like through the air. When she comes in contact with a swarm of ants, they get glimpses of her powers, leaving holes. The camera follows her as she approaches her fans. \n\nAs the camera pans down, more figures become visible in the room, clapping and celebrating together, suggesting this is a promotional gathering or event related to her superhero activities. She appears to be demonstrating her abilities and interacting with her supporters during this special occasion.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 129,
+        "total_tokens": 2883
+      }
+    },
+    {
+      "intervalle_index": 262,
+      "intervalle_debut": 3930,
+      "intervalle_fin": 3945,
+      "analyse_action": "The scene shows a theatrical performance for a crowd that includes people in various costumes. In the foreground, there's a person wearing a distinctive rat or guinea pig-like costume that has a white stripe running down its face, large black eyes, and fur on its back. This costumed performer is clapping next to someone dressed as a medieval knight in shining silver armor.\n\nThe knight-actor wears a silver mask and has long, black dreadlock-style hair. A stagehand in a long jacket and black pants, wearing black boots, is crossing the stage behind them, helping to manage the performance. The overall setting suggests this is a formal spectacle taking place on a raised platform, with the audience watching intently from above.\n\nThroughout the scene, there's ongoing movement on stage and interaction occurring above the main platform, underlining that this is an active theatrical production with multiple elements happening simultaneously. The performers seem to be engaged in presenting or performing for the crowd, with the animal-costumed character and the armored knight-costumed character both actively clapping and participating in whatever is unfolding on stage.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 219,
+        "total_tokens": 2973
+      }
+    },
+    {
+      "intervalle_index": 263,
+      "intervalle_debut": 3945,
+      "intervalle_fin": 3960,
+      "analyse_action": "The scene takes place in a fantastical arena that combines regal and futuristic elements. An older man with white hair and a long white beard sits before a startled audience, wearing an elaborate crowning gown while a microphone and wheeled platform suggest an imminent coronation or formal declaration.\n\nTo his right, there's a blonde woman in pink. A red banner reading \"Gravity\" indicates gravitational controls, with audience members presiding from high balconies, creating an atmosphere of spectacle suitable for an important public announcement or revelation.\n\nThe camera then pans to a technologically advanced chamber where two men—one in twill gesture and the other a robot with dreadlocks and armor—stand for what appears to be a focused exchange or discussion.\n\nThe focus returns to the speaker against the \"Gravity\" banner as his gestures become more forceful, projecting a powerful, command-ready presence.\n\nRohan Weiszbaum, Jake Slater Criminal, Constance Shaw, and Paul Bettany are members of the cast in this scene.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 200,
+        "total_tokens": 2954
+      }
+    },
+    {
+      "intervalle_index": 264,
+      "intervalle_debut": 3960,
+      "intervalle_fin": 3975,
+      "analyse_action": "This is a gravity-bending battle taking place on a futuristic arena platform. Two men are positioned on glass-like platforms facing each other, with an audience observing from balconies in the background. One man wears a long brown trench coat while the other wears a white suit, and they appear to be engaged in a physical confrontation or duel as they hover in place.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 73,
+        "total_tokens": 2827
+      }
+    },
+    {
+      "intervalle_index": 265,
+      "intervalle_debut": 3975,
+      "intervalle_fin": 3990,
+      "analyse_action": "The scene shows a ridiculous, over-the-top fighting match taking place. Two characters—one dressed in a sleek silver suit and the other in a brown trench coat—are engaging in an alien-style combat sequence in what appears to be a futuristic arena with a circular frame.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 53,
+        "total_tokens": 2807
+      }
+    },
+    {
+      "intervalle_index": 266,
+      "intervalle_debut": 3990,
+      "intervalle_fin": 4005,
+      "analyse_action": "The scene takes place in a spaceship-like arena filled with energy and spectacle. A man in a silver armored suit stands precariously against a panel of mounted guns, gripping it fiercely as a tense standoff unfolds. Another man wearing a brown trench coat is visible in the background, with a green laser streak flashing across the scene briefly.\n\nThe arena itself is packed and elaborate, with a large audience seated in wooden bleachers that curve around the space. Above the crowd, a giant video screen dominates the towering back wall, displaying close-ups of the action below.\n\nAt one point, a man streaks horizontally across the chamber, his body angled and legs extended toward the left side of the space, creating motion and excitement within the enclosed arena.\n\nThere's also a dramatic moment where two characters—the man in the trench coat and the silver-suited combatant—end their confrontation abruptly as both men jump and fall simultaneously. A glowing green energy whip extends through the air, weaving back and forth between them, cutting across their paths and adding to the high-stakes, electrified atmosphere of the arena performance.\n\nThroughout the scene, the red wall filled with gadgets provides a striking backdrop to the intense standoff and the packed venue hums with anticipation from the audience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 250,
+        "total_tokens": 3004
+      }
+    },
+    {
+      "intervalle_index": 267,
+      "intervalle_debut": 4005,
+      "intervalle_fin": 4020,
+      "analyse_action": "The scene takes place in a large, futuristic auditorium filled with a massive crowd of people. The camera pans from the enthusiastic seated audience up to the stage, which is framed by silvery walls. \n\nOn the stage, two characters are locked in combat. A man is facing off against a robotic figure during what appears to be an intense battle.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 71,
+        "total_tokens": 2825
+      }
+    },
+    {
+      "intervalle_index": 268,
+      "intervalle_debut": 4020,
+      "intervalle_fin": 4035,
+      "analyse_action": "The scene depicts a violent, high-stakes confrontation on a space-themed entertainment arena. \n\nA muscular man in silver armor confronts an alien monster that appears to have escaped from a containment vessel across a glass placuddle. The creature is green-skinned and spider-shaped with multiple limbs, hanging as it moves toward its attacker.\n\nThe arena is packed with spectators seated in what looks like a stadium-style venue, watching the fight unfold. A prominent screen on one side displays a close-up of a woman's face with text surrounding it, creating a theatrical atmosphere that includes audience lighting and a metal cross-section design.\n\nThe setting is clearly in a zero-gravity environment, with both characters appearing to be weightless as if in space. The featured is fast-paced action with the armored man defending himself against the inexplicably freed alien creature, while maintaining the spectacle atmosphere of what seems to be some form of futuristic battle entertainment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 185,
+        "total_tokens": 2939
+      }
+    },
+    {
+      "intervalle_index": 269,
+      "intervalle_debut": 4035,
+      "intervalle_fin": 4050,
+      "analyse_action": "In the scene, Peter Parker is in a fierce physical confrontation with a massive green, slime-like creature on a floating multi-tiered platform. The confrontation is extremely chaotic and destructive, with chunks of the platform breaking off and falling away into the maelstrom overhead.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 54,
+        "total_tokens": 2808
+      }
+    },
+    {
+      "intervalle_index": 270,
+      "intervalle_debut": 4050,
+      "intervalle_fin": 4065,
+      "analyse_action": "In the scene, a man in a grey suit is struggling against a violent, bestial encounter with a large green creature that has a clam-like head and thick protruding limbs. During the struggle, some of the green creature's substance falls, landing on him and immediately beginning to eat his flesh or coating his face. He—one green slime ball has latched onto his face, completely covering his features and leaving his hair splayed out in black strands. This uncontrolled transformation is taking place on what appears to be a spacecraft interior, with a dark background and a black pole visible. The creature's actions are aggressive and disorienting as it tries to hold onto and consume him while he falters and falls back. In the background, a silver circular structure with a grid pattern can be seen.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 162,
+        "total_tokens": 2916
+      }
+    },
+    {
+      "intervalle_index": 271,
+      "intervalle_debut": 4065,
+      "intervalle_fin": 4080,
+      "analyse_action": "This scene features a stage performance taking place in a spaceship setting. The climax is marked by an unveiling and formal announcement. \n\nAt the center of the stage, the main character addresses the seated, costumed audience with his back to the camera, while another performer in a red-and-gold outfit stands nearby looking upward. Behind them, the audience rises, cheering and waving their arms, with the stage background dramatically illuminated by planets and stars.\n\nThe crowd is dressed in elaborate costumes, including Star Wars characters like Buzz Lightyear with his iconic green-and-white suit, plus an alien with large black eyes. The atmosphere is vibrant and theatrical, combining comedy, spectacle, and alien character designs. The final image captures the audience clapping enthusiastically to bring the scene to a triumphant close.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 157,
+        "total_tokens": 2911
+      }
+    },
+    {
+      "intervalle_index": 272,
+      "intervalle_debut": 4080,
+      "intervalle_fin": 4095,
+      "analyse_action": "In this scene, Adam Sandler appears in a living room setting wearing a white bathrobe over a red shirt. He's handling a basketball while casually speaking, addressing the camera with a relaxed and conversational tone.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 44,
+        "total_tokens": 2798
+      }
+    },
+    {
+      "intervalle_index": 273,
+      "intervalle_debut": 4095,
+      "intervalle_fin": 4110,
+      "analyse_action": "In this scene, an evil魔法师A is being defeated by his opponent, who then turns around to angrily confront the evil魔法师A.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 28,
+        "total_tokens": 2782
+      }
+    },
+    {
+      "intervalle_index": 274,
+      "intervalle_debut": 4110,
+      "intervalle_fin": 4125,
+      "analyse_action": "The scene is a comedic bedtime story moment where a man in a white robe with a logo is softly reading a story to two young girls. The girls, wearing nightgowns with pink cuffs - one in green and the other in purple - are smiling and giggling as they sit up in bed under white bedding.\n\nThe man uses expressive hand gestures while telling the story, creating an animated and engaging storytelling experience for the children. The setting includes white pillows at the head of each bed and a brown headboard behind the children.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 106,
+        "total_tokens": 2860
+      }
+    },
+    {
+      "intervalle_index": 275,
+      "intervalle_debut": 4125,
+      "intervalle_fin": 4140,
+      "analyse_action": "John Travolta character is going down on his knees and covers with the blanket his child, which is in bed.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 24,
+        "total_tokens": 2778
+      }
+    },
+    {
+      "intervalle_index": 276,
+      "intervalle_debut": 4140,
+      "intervalle_fin": 4155,
+      "analyse_action": "The scene takes place during the day because I can see clear daylight illuminating the picnic table, nearby building, and the children playing on swings in the playground. Several cars are parked beside the building, and the setting appears to be in a neighborhood with trees, bushes, a sidewalk, and grassy area. The scene creates an atmosphere of small-town Americana with everyday life unfolding - people are sitting at the picnic table engaged in conversation, including a young girl and a man in a suit and a woman with long hair wearing a floral dress. Children are playing and relaxing in the park area, and the overall environment feels calm and typical of a community gathering spot. The lighting suggests it's daytime with good natural illumination throughout the scene.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 148,
+        "total_tokens": 2902
+      }
+    },
+    {
+      "intervalle_index": 277,
+      "intervalle_debut": 4155,
+      "intervalle_fin": 4170,
+      "analyse_action": "A man is driving at night in an older car with a light green interior, parked alongside a curb. He's wearing a seatbelt and shows a contemplative, slightly tense expression as he looks out the slightly open window.\n\nHe pauses, breathes visibly, and uses his right hand to turn the radio's knob to a new station. The stationary vehicle's lights remain on as he absorbs this with his hand at the wheel.\n\nAfter tuning the radio, he removes one hand from the wheel, glances at a photo in the car, rests his head on it for a moment, and begins to roll up the window.\n\nWe also see him in a black suit jacket over a white collared shirt as he drives. His right hand stays on the wheel while his left hand hovers near his face, touching or moving something there as he looks through the windshield. After this moment, he places his left hand back down on the steering wheel, maintaining control of the vehicle as he guides it along the dark night road.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 205,
+        "total_tokens": 2959
+      }
+    },
+    {
+      "intervalle_index": 278,
+      "intervalle_debut": 4170,
+      "intervalle_fin": 4185,
+      "analyse_action": "A man in a bright outdoor home improvement store is rolling a shopping cart down an aisle while looking at his phone. He's wearing a blue blazer over a light blue dress shirt. He scans his surroundings, glances at the shelves around him, then pauses and glances at another woman nearby who's shopping. After a brief pause, he adjusts something in his blazer, picks up a red oven mitt, examines it closely, places it into his shopping cart, and continues along the aisle.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 101,
+        "total_tokens": 2855
+      }
+    },
+    {
+      "intervalle_index": 279,
+      "intervalle_debut": 4185,
+      "intervalle_fin": 4200,
+      "analyse_action": "In this scene, Will Ferrell is shopping at a hardware store and is purposefully choosing home improvement and fire safety items to stockpile. He starts by grabbing a green garden hose from the hose section that's wrapped in plastic and entering his cart.\n\nMoving on, he goes to the aisle of fire extinguishers and selects one from the orange steel shelf displaying multiple units. During this part of his shopping trip, a woman in a red apron and white shirt approaches from behind carrying a box, and another person in a white shirt and jeans walks away deeper in the store.\n\nThe setting throughout is brightly lit with natural sunlight coming through windows, creating a clear view of the entire store. The space features familiar hardware store characteristics including concrete flooring, polycarbonate displays, and the characteristic orange metal shelving that's typical of big-box hardware retailers.\n\nHe then continues down the aisle, moving methodically through the stocked shelves with his shopping cart in tow, adding to the growing assortment of items in the cart. The overall scene captures the busy, everyday environment of selecting and purchasing home improvement supplies in what appears to be a large hardware store.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 229,
+        "total_tokens": 2983
+      }
+    },
+    {
+      "intervalle_index": 280,
+      "intervalle_debut": 4200,
+      "intervalle_fin": 4215,
+      "analyse_action": "Tom Hardy is in a hardware store working in traffic and manages to swipe an aerosol can from a shelf. Joe Keery's character catches him and takes exception, causing Tom to engage in a brief, energetic struggle. In the commotion, both men end up overwhelmed and begin smashing their heads against the price tags on the shelves over and over again.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 72,
+        "total_tokens": 2826
+      }
+    },
+    {
+      "intervalle_index": 281,
+      "intervalle_debut": 4215,
+      "intervalle_fin": 4230,
+      "analyse_action": "The scene captures a festive Christmas celebration taking place at night at a wealthy residence.\n\nThe property is lavishly decorated for the holiday season, with palm trees wrapped in twinkling white lights, wreaths illuminated from within, bushes adorned with red flowers, and a circular fountain sending blue water into the air. The house itself features arched windows along its white exterior, with light glowing warmly inside.\n\nA high-end, white 7-passenger SUV is parked on the wet driveway among other luxury vehicles including a black limousine and a white sports car. Dozens of guests have gathered in the rain, all dressed formally—including suits, a Hawaiian shirt with a ukulele, and Hawaiian-themed attire—and are enjoying themselves under decorative paper lanterns held aloft by tables.\n\nA Hawaiian-themed performance is taking place, with women dancers wearing colorful feathers and vibrant costumes performing at tables. Nearby, a man in a coconut-themed straw hat is playing a ukulele while another woman, dressed in a floral headpiece and decorated in festive green and white, holds a coconut and sets something on fire.\n\nThe wet pavement reflecting the lights, combined with the continuous activity of guests mingling and watching the performance, creates an atmosphere of a opulent holiday gathering continuing despite the rain.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 254,
+        "total_tokens": 3008
+      }
+    },
+    {
+      "intervalle_index": 282,
+      "intervalle_debut": 4230,
+      "intervalle_fin": 4245,
+      "analyse_action": "The scene takes place at a festive luau celebration set in a lush garden. A woman wearing a green grass skirt and flower crown is performing a dance while presenting a lei to an older gentleman wearing a yellow flower necklace. \n\nThe party atmosphere is vibrant and lively, with guests dressed in formal attire mingling among palm trees, tiki decorations, and lanterns. The backdrop features water sparklers and decorative elements, including a grill where a whole pig is slowly roasting over flames.\n\nThe guests are enjoying themselves with drinks, smiling and talking as they watch the performance. The energetic setting includes tiki torches and traditional elements that create a tropical ambiance. The evening is decorated with colorful light displays and bush decorations featuring a black design, further enhancing the festive atmosphere as people walk around the venue.\n\nA prominent visual element in the scene is a large wooden tiki figure with an open mouth exhaling fire in a dramatic display against the nighttime sky, adding to the theatrical nature of the celebration.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 199,
+        "total_tokens": 2953
+      }
+    },
+    {
+      "intervalle_index": 283,
+      "intervalle_debut": 4245,
+      "intervalle_fin": 4260,
+      "analyse_action": "This is a scene from the movie \"We're the Millers\" featuring Will Poulter. He's at a Hawaiian-themed outdoor party where the festivities are in full swing. The environment is lively and crowded, with people dressed in colorful Hawaiian shirts and decorated with flower leis and garlands. \n\nThe setting includes traditional Hawaiian elements like a fire pit with flames, a tree adorned with lights, and a large planter with a vibrant floral arrangement. Barrels are being used for drinks at the event. A table dressed in white fabric sits in the foreground, and various guests are mingling throughout the scene wearing the characteristic Hawaiian attire and flower decorations.\n\nThe party atmosphere is energetic and casual, capturing the festive spirit of the Hawaiian celebration. The entire scene conveys the warm, tropical, and playful nature of the themed gathering.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 167,
+        "total_tokens": 2921
+      }
+    },
+    {
+      "intervalle_index": 284,
+      "intervalle_debut": 4260,
+      "intervalle_fin": 4275,
+      "analyse_action": "The scene is taking place at a tropical pool party during nighttime. A shirtless man with yellow-and-brown floral shorts is performing a lively fire juggling routine by the pool, twirling incandescent fire batons with flames burning brightly in the night air.\n\nThe party atmosphere is quite festive and atmospheric. The pool sparkles with bright blue lights at its edges, and there's grass lining the stone walkways around it. Decorative lights are strung around bamboo structures and warm lanterns hanging overhead create a magical glow throughout the area.\n\nAround the pool, there's a band playing. You can see a large stringed instrument (waterbottle or a bass) being played, along with a drum set, small guitar, ukelele, and a saxophone. People are enjoying the performance; guests are soaking in the pool, standing along the edges, or seated at tables talking and watching.\n\nAmid the partying, a man wearing trunks tries to woo a woman in a hula-style outfit, suggesting this might be part of a cultural performance or entertaining act. He jumps into a flaming tiki drink after being stunned by a man nearby, showing the group's playful and daring nature. The decorations of pink and green Baubles keep getting tossed in to the pool.\n\nLater, a man in a blue suit attempts a quick drink from a coconut but misses and spills it. A server wearing a coconut bra holds the drink tray for him.\n\nAt the same time, two of the guests speak during this lively, immersive party setting by the sparkling pool at night.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 320,
+        "total_tokens": 3074
+      }
+    },
+    {
+      "intervalle_index": 285,
+      "intervalle_debut": 4275,
+      "intervalle_fin": 4290,
+      "analyse_action": "This looks like a lighthearted tropical resort party scene with relaxed, fun interactions. A man in a black suit jacket is engaging in conversation at a poolside bar with a woman who's wearing a vibrant green leafy headband. \n\nTheir conversation appears easygoing and friendly. They're positioned near the water's edge as part of the festive evening gathering, with a sandy beach area nearby where people are frolicking and playing in the surf. A two-piece bikini-clad woman stands close by, watching the exchange between these two from a comfortable distance with her arms crossed.\n\nThe atmosphere is very casual and party-like, with the tropical setting featuring that distinctive coastal vibe—think palm trees, poolside entertainment, and guests enjoying themselves. The scene captures the essence of a carefree, vacation-style gathering where people are mingling, chatting, and relaxing in a beautiful outdoor environment. The character interactions convey warmth, hospitality, and the easy camaraderie you'd expect at a festive tropical destination.\n\nThe overall mood feels cheerful and unhurried, typical of a leisurely evening at a resort where guests are enjoying time by the water and among friends.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 234,
+        "total_tokens": 2988
+      }
+    },
+    {
+      "intervalle_index": 286,
+      "intervalle_debut": 4290,
+      "intervalle_fin": 4305,
+      "analyse_action": "The scene takes place at a tropical-themed outdoor luau party at night. A beautiful island woman with long brown hair dressed in a green leaf skirt and leaf headband is dancing with a blonde woman who starts off in a turquoise and green floral-patterned robe. \n\nThe atmosphere is lively, with palm trees swaying, lanterns, tiki torches, and string lights creating a festive ambiance. Other partygoers can be seen in the background enjoying the lively setting. The music from a band provides an energetic backdrop to the celebration.\n\nAs the dance progresses, the blonde woman's clothing changes - she removes the robe and switches to a brown and blue floral-patterned outfit while the island woman moves her to a different part of the dance floor.\n\nThe scene has very cinematic qualities, with colors vivid against the tropical setting. There are subtle decorative touches like a small table with flowers nearby and a green awning visible in the background, adding to the immersive island atmosphere.\n\nIt's a colorful, vibrant social gathering where the dancers seem to be genuinely enjoying the energetic, festive environment of the luau celebration.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 222,
+        "total_tokens": 2976
+      }
+    },
+    {
+      "intervalle_index": 287,
+      "intervalle_debut": 4305,
+      "intervalle_fin": 4320,
+      "analyse_action": "The scene shows a lively tropical luau celebration. An energetic performance is taking place on a decorated stage, with five people in colorful print shirts playing various instruments—dmax, bongos, and a large drum.\n\nBehind the stage, a variety of people are standing around mingling and talking. The lit background features trees threaded with white lights, reinforcing the festive atmosphere.\n\nThe setting is a blossoming night celebration, with bright decorations, flowering arrangements, and a fire pit adding to the warm, tropical ambiance.\n\nThe performers continue their lively show on stage, maintaining the energetic and celebratory mood throughout the scene.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 124,
+        "total_tokens": 2878
+      }
+    },
+    {
+      "intervalle_index": 288,
+      "intervalle_debut": 4320,
+      "intervalle_fin": 4335,
+      "analyse_action": "The scene takes place at an outdoor tropical luau celebration on a warm evening. A man at the center of the gathering, dressed in coordinated formal resort regalia that includes a black suit jacket, lavender shirt, and matching lavender gloves with a coordinatinglaui flower lei, is gesturing and appearing to engage with others amid a festive atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 69,
+        "total_tokens": 2823
+      }
+    },
+    {
+      "intervalle_index": 289,
+      "intervalle_debut": 4335,
+      "intervalle_fin": 4350,
+      "analyse_action": "The scene shows a lively Hawaiian luau celebration. An older man with white hair and a beard, wearing a white shirt and shorts with a flower lei, delivers an exciting and animated announcement while holding a cane. His face reflects a mix of pride andaucoup excitement as he shares his message, which sends the entire group into a raucous, joyful reaction.\n\nThe audience erupts in excited laughter and chatter, their faces bright with enthusiasm and mouths wide as they respond to his announcement. People in colorful Hawaiian-style shirts and leis lean forward in their seats, and the energy in the room is immediately electric. The excitement spills over to everyone present—the performers on stage, the audience seated around them, and even the small dog nearby react with animated bodies and expressions. The whole space vibrates with the infectious spirit of the celebration, transforming what began as an ordinary gathering into a bout of shared laughter and excitement.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 183,
+        "total_tokens": 2937
+      }
+    },
+    {
+      "intervalle_index": 290,
+      "intervalle_debut": 4350,
+      "intervalle_fin": 4365,
+      "analyse_action": "The scene takes place on a stage with an audience and performers, likely related to the movie \"Bridesmaids.\" \n\nSeated audience members are watching the event attentively, wearing various decorative accessories like flower garlands and Hawaiian leis. They're positioned in chairs behind a draped partition, including a woman with a flower necklace, an older man with a white hair and beard wearing a lei, and a blonde-haired woman.\n\nTwo men stand at the front of the stage against a red curtain backdrop. One wears a tan suit paired with pale shorts or light trousers and keeps his hands clasped together, while the other man is dressed in a black suit with a blue shirt and khaki bottoms. He has his hand near his mouth in a thoughtful pose.\n\nThe atmosphere appears formal yet celebratory, suggesting this could be a wedding, performance, or theatrical presentation for the film \"Bridesmaids.\"",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 180,
+        "total_tokens": 2934
+      }
+    },
+    {
+      "intervalle_index": 291,
+      "intervalle_debut": 4365,
+      "intervalle_fin": 4380,
+      "analyse_action": "In this scene, Alec Baldwin is performing on a brightly lit stage to an audience. He's conducting the performance with energetic animation—making expressive gestures with his hands, raising his arms for emphasis, and at one point holding a microphone to speak to the crowd. \n\nThe scene includes multiple contrasting moments: there are shots of Baldwin from behind as he faces the audience, as well as angles showing him mid-motion with his arms outstretched. To the side of the stage, you can see Jeffrey Tambor playing the role of a judge who appears annoyed and disapproving, with expressions like slight disgust and bored, disappointed looks as he watches Baldwin perform.\n\nThe overall atmosphere suggests this is part of a comedy skit or talent show possibly filmed for a sitcom. The closing moments capture Baldwin fully engaged in his performance, with his energetic stage presence contrasting against the less enthusiastic reactions from what appear to be audience members or panelists in the background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 189,
+        "total_tokens": 2943
+      }
+    },
+    {
+      "intervalle_index": 292,
+      "intervalle_debut": 4380,
+      "intervalle_fin": 4395,
+      "analyse_action": "The man is performing an energetic, animated monologue in an exaggerated style on a simple stage. He's using his hands expressively throughout, moving through striking gestures. He starts with his palms angled upward before turning them to face each other, then claps them together before opening his hands wide. His delivery is animated and theatrical, with a deliberate, showy quality.\n\nThe performance takes place in a minimalist indoor setting with a simple red curtain backdrop, a white floor, two circular columns, and basic furnishings including a staircase with a black railing, a brown table with lamps, and a chair. As he continues, he moves through various dynamic positions - stepping back with arms outstretched, stamping his foot with excitement, crossing his arms with tight control, then finally raising his arms high while pointing his index fingers emphatically at the crowd. At the end, he breaks into an energetic dance, stamping and twisting his body as he continues speaking or singing to his audience and crossing his arms again as though making a final dramatic point.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 209,
+        "total_tokens": 2963
+      }
+    },
+    {
+      "intervalle_index": 293,
+      "intervalle_debut": 4395,
+      "intervalle_fin": 4410,
+      "analyse_action": "In this scene, Jason Bateman is performing as a magician on a small stage with a steampunk-inspired live show.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 26,
+        "total_tokens": 2780
+      }
+    },
+    {
+      "intervalle_index": 294,
+      "intervalle_debut": 4410,
+      "intervalle_fin": 4425,
+      "analyse_action": "The scene depicts chaotic and frantic activity unfolding in what appears to be a theater or performance venue. Multiple people are running in various directions through the space, creating a sense of urgency and disorder. \n\nIn the foreground, a man wearing a Hawaiian shirt can be seen moving quickly across the scene. Alongside him, someone dressed in a white baseball uniform is sprinting through the area, adding to the sense of frantic energy. Through the crowded space, red curtains are partially visible, suggesting these people are moving past the stage or theater area.\n\nOther individuals with various items strapped to their bodies are darting through the space, contributing to the overall hectic atmosphere. The action seems to be taking place under theater lighting, and there are glimpses of what appears to be performance-related decorations visible in the background.\n\nThe entire scene has a dramatic, chaotic quality, as if multiple characters are reacting to an urgent situation and rushing to get somewhere within this entertainment venue.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 190,
+        "total_tokens": 2944
+      }
+    },
+    {
+      "intervalle_index": 295,
+      "intervalle_debut": 4425,
+      "intervalle_fin": 4440,
+      "analyse_action": "The scene depicts a lively theatrical performance unfolding in what appears to be a hotel lobby setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 19,
+        "total_tokens": 2773
+      }
+    },
+    {
+      "intervalle_index": 296,
+      "intervalle_debut": 4440,
+      "intervalle_fin": 4455,
+      "analyse_action": "The scene is unfolding in a comedy club filled with engaged audience members dressed in colorful, themed outfits. At the center, the crowd is attentively focused on a striking performer—a man dressed as a tiki statue who stands shirtless with his mouth wide open in an animated, expressive pose.\n\nEddie Murphy is the focal point of this comedic performer. He's glowing under bright spotlighting that creates a warm glow, standing dramatically in elaborate tropical attire that includes a green leafy crown, a coconut bra made of leaves, a multi-layered headdress, and a black beaded necklace. His exaggerated performance draws all eyes—many audience members in Hawaii-themed outfits are leaning forward, eyes widening in delight and surprise.\n\nAn older man in a wheelchair wearing a purple shirt sits beside him holding a cane, seemingly bemused but caught up in the atmosphere. The various audience members react differently—some clap, others laugh, making it clear they're fully engaged with Murphy's physical comedy.\n\nThe club's decor adds to the ambiance: white walls, a candelabra-style wall light, and a black cabinet labeled \"CABARET\" in red letters. Cast iron seating and a furnishings with brown dresser contributions further establish the intimate club setting.\n\nOverall, it's a vibrant comedy performance in full swing, with Murphy captivating the room through extreme expressive gestures and theatrical poses.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 274,
+        "total_tokens": 3028
+      }
+    },
+    {
+      "intervalle_index": 297,
+      "intervalle_debut": 4455,
+      "intervalle_fin": 4470,
+      "analyse_action": "The scene takes place during a seemingly formal Hawaiian-themed celebration or晚会 or event, viewed through a split-screen format.\n\nOn the left side, Anne Hathaway is participating while wearing casual, layered clothing including a black sweater with a gold chain. She's engaged in conversation with a man who wears casual attire including khaki pants, with the surrounding environment showing tones of browns, tans, golds, blacks, whites, and grays.\n\nOn the right side, Jack Black is performing and entertaining during what appears to be a Hawaiian luau. He's wearing a green leaf crown, a flowered lei, and a grass skirt, standing at the front among other guests dressed in colorful, festive Hawaiian outfits. The setting shows stage curtains and a piano.\n\nThe two views create a parallel scene where these interactions happen simultaneously, perhaps part of the same formal, Hawaiian-themed gathering or celebration.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 179,
+        "total_tokens": 2933
+      }
+    },
+    {
+      "intervalle_index": 298,
+      "intervalle_debut": 4470,
+      "intervalle_fin": 4485,
+      "analyse_action": "A man is delivering a presentation or speech on a stage, wearing a black suit jacket over a white button-down shirt with khaki pants. He has his tongue sticking out and gestures animatedly while standing in front of red curtains.\n\nThe audience is visibly entertained by this unexpected behavior. A small white French bulldog with brown spots is sprawled nearby on a patterned carpet. The dog has its tongue sticking out and is looking off to the side, with its paws stretched forward and front legs raised.\n\nAmong the audience, several people are reacting. A woman in a floral dress with a white flower in her hair tilts her head with a surprised look, while an elderly man with white hair and glasses, wearing a purple shirt and blue gloves with a floral lei around his neck, appears equally astonished.\n\nThe man in the black jacket continues his presentation with theatrical gestures, maintaining his tongue-out expression throughout, which consistently draws attention from the entire audience. The scene captures a lighthearted, comedic moment centered around his animated public performance that captures the amusement of all present.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 217,
+        "total_tokens": 2971
+      }
+    },
+    {
+      "intervalle_index": 299,
+      "intervalle_debut": 4485,
+      "intervalle_fin": 4500,
+      "analyse_action": "This scene depicts several moments of performance and interaction in what appears to be a Hawaiian-themed gathering or show.\n\nThe central focus shows a man in a dark sports coat with a light blue shirt standing against a red curtain. He has his hands clasped and tongue out, giving him a playful appearance. The camera then shifts to another man with short dark hair also wearing a dark jacket and blue collared shirt, who has his tongue out and is waving his right hand enthusiastically in a theatrical, engaging manner.\n\nMeanwhile, other audience members are reacting to these performances. A woman with a green leafy flower lei is watching attentively. Several people are wearing Hawaiian-style dress and accessories, including grass skirts and leafy crowns, along with leis.\n\nThe setting includes additional visual details like a lamp with a white shade and a green plant with yellow flowers visible in the background, which reinforces the holiday or celebratory atmosphere of the gathering.\n\nThe overall scene captures these animated performances and the corresponding audience reactions, conveying a festive, playful mood.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 207,
+        "total_tokens": 2961
+      }
+    },
+    {
+      "intervalle_index": 300,
+      "intervalle_debut": 4500,
+      "intervalle_fin": 4515,
+      "analyse_action": "The scene depicts a lively performance or presentation. On one side of the room, a man in a black suit jacket with a light blue shirt is standing with his tongue extended, making gestures toward a seated crowd and raising his arms. The audience is arranged in chairs and on stools, all dressed in Hawaiian-themed attire with floral leis, colorful shirts, and grass skirts. The room has white curtains and a brown wall in the background, along with a microphone stand and brown shelves. On the other side, there's another lively scene taking place - a man wearing a brown bra and green leaf lei is jogging energetically, with an older man in purple clothing watching him along with other audience members. The setting has a festive, celebratory atmosphere filled with people in traditional Hawaiian-style clothing. Additionally, there appears to be a judge present, wearing a black suit over a white button-up shirt, with a serious expression, furrowed brow, and eyes slightly cast downward. This creates an interesting juxtaposition between the playful, tongue-out performance happening among the crowd and the more formal, observant demeanor of the judge in a separate area of the gathering.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 232,
+        "total_tokens": 2986
+      }
+    },
+    {
+      "intervalle_index": 301,
+      "intervalle_debut": 4515,
+      "intervalle_fin": 4530,
+      "analyse_action": "This scene takes place at a wedding reception. In the foreground, a man in a white shirt and flower necklace is speaking with a woman wearing a yellow leis and floral skirt. A pianist plays nearby while guests, some in Hawaiian shirts and floral arrangements, fill the room.\n\nThe scene \"cuts\" to show the same man in a black suit jacket and white pants on stage standing next to a weddingguest in a grass skirt and leafy bra. They appear to be having a conversation at the front of the room. The stage is decorated with a red curtain and spiral staircase, creating a festive wedding atmosphere with the lively piano performance continuing to play in the background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 135,
+        "total_tokens": 2889
+      }
+    },
+    {
+      "intervalle_index": 302,
+      "intervalle_debut": 4530,
+      "intervalle_fin": 4545,
+      "analyse_action": "The scene takes place on a red stage with rich staging elements that create a ceremonial or performance setting. Two men are standing side by side at the front of the stage—one wearing a full grass skirt and leafy headdress, while the other is in a black suit jacket with khaki pants. Both are making dramatic, open-mouthed expressions at the audience, with the man in the grass skirt extending his hands out toward them.\n\nBehind the performers, there's a lush green plant positioned near a white wall and light fixture. The energy is theatrical and loud, with the performers delivering their lines with striking facial expressions. The props and set-up suggest this is meant to be a spectacle or presentation for the seated audience members. The staging, costumes, and overall composition indicate this is likely a comedic or satirical performance piece of some kind.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 168,
+        "total_tokens": 2922
+      }
+    },
+    {
+      "intervalle_index": 303,
+      "intervalle_debut": 4545,
+      "intervalle_fin": 4560,
+      "analyse_action": "The scene captures a lively, humorous theatrical performance on a letterboxed stage with red curtains. \n\nTwo men are acting out a comedic skit - one dressed as a hula dancer in a leaf skirt and grass headband, and the other as a man in a black suit jacket. They're both sticking their tongues out in playful poses, using exaggerated gestures and expressions.\n\nThe performance takes place in front of an audience seated in chairs, with a piano visible in the space. The atmosphere is casual yet festive, with people watching the two performers engage with each other and their surroundings.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 117,
+        "total_tokens": 2871
+      }
+    },
+    {
+      "intervalle_index": 304,
+      "intervalle_debut": 4560,
+      "intervalle_fin": 4575,
+      "analyse_action": "Two men with their tongues sticking out are performing in front of an audience. At the front of the stage, a man dressed in traditional Polynesian attire is standing, appearing proud and facing a woman sitting nearby. The audience consists of seven members: four women and three men.\n\nThe crowd seems engaged in the performance, with some audience members smiling, laughing, and appears entertained. This suggests the two tongue-sticking performers are likely part of a comedic act or magic trick, with the man in traditional attire possibly playing a supporting or host role in the show.\n\nThe stage is set up formally with red curtains, and the man shows a strong sense of pride as he interacts with the woman while the audience watches. The overall atmosphere appears to be festive and entertaining, with the performers drawing laughter and attention from those present.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 164,
+        "total_tokens": 2918
+      }
+    },
+    {
+      "intervalle_index": 305,
+      "intervalle_debut": 4575,
+      "intervalle_fin": 4590,
+      "analyse_action": "The scene captures a sharp contrast between formal and outrageous performance art taking place on a stage before an audience. The action unfolds in two connected moments.\n\nThe first scene showcases the height of outrageous performance art. A performer dressed entirely in elaborate leafy green attire—a leaf skirt, breastplate, circular wreath, beads, and wraparound pants—executes a wild, athletic leap through the air with his mouth wide open, tongue visibly display, and hands presented as signs of triumph. This delivery is receiving a reaction from a group of formally dressed spectators arrayed on wooden chairs. The audience is organized in formal attire, with some wearing flowers around their necks, and they're seated in a tidy arrangement facing the stage.\n\nThe focus then shifts to a traditional style of performance, where two performers are animatedly conversing in a close stand-off while the audience continues to observe from their chairs. This more subdued exchange maintains the theatrical atmosphere but in a breathable tempo compared to the explosive leap.\n\nThe entire sequence is presented with a cinematic letterboxed format and framed as part of a larger theatrical production, moving fluidly between extreme physicality and measured dialogue while maintaining the same intimate audience connection throughout.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 238,
+        "total_tokens": 2992
+      }
+    },
+    {
+      "intervalle_index": 306,
+      "intervalle_debut": 4590,
+      "intervalle_fin": 4605,
+      "analyse_action": "In this scene, Adam Sandler and his co-star are performing on stage in what appears to be a comedic musical performance. They're dressed in elaborate tropical-themed costumes - Sandler as a Pacific Islander character in a coconut bra, flower necklace, and feathered skirt, and his co-star in a blue suit jacket paired with beige pants, both with green leafy headbands. \n\nThey're dancing and performing energetically, with palm fronds waving between them, in front of a red curtain backdrop. Their mouths are open with tongues out and their hands are extended in a playful, theatrical manner as they interact with each other and the audience.\n\nThe audience members seated in front of the stage are reacting to the performance with varying amounts of engagement - some are looking intently, others are laughing or visibly bored, and a few are even dozing off in their chairs. This mix of reactions reflects the varied response to the comedic nature of their performance, which seems to be entertaining some while possibly confusing or unimpressed with others in the room.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 212,
+        "total_tokens": 2966
+      }
+    },
+    {
+      "intervalle_index": 307,
+      "intervalle_debut": 4605,
+      "intervalle_fin": 4620,
+      "analyse_action": "The scene shows two people performing together on stage next to a seated actress in front of a red curtain backdrop. The woman with long blonde hair sits in a white lacy dress with a gold pendant necklace and an expression of disgust on her face, her body language suggesting she has just witnessed something unpleasant during what appears to be an interview or performance setting. Throughout the scene, the two onstage performers maintain playful, provocative gestures without seriously speaking. The performer on the left wears a grass skirt with a leopard-print top and elaborate beaded necklace, while the performer on the right wears a black suit jacket over a light blue collared shirt. Both stick out their tongues and make exaggerated facial gestures—raising their eyebrows, pursing their lips, opening their mouths, raising their hands with palms up, and making arcs with their hands—while the camera shifts focus between all three individuals in this comical, tongue-in-cheek performance moment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 186,
+        "total_tokens": 2940
+      }
+    },
+    {
+      "intervalle_index": 308,
+      "intervalle_debut": 4620,
+      "intervalle_fin": 4635,
+      "analyse_action": "The scene appears to be happening at the beginning of Stan's stand-up routine.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 17,
+        "total_tokens": 2771
+      }
+    },
+    {
+      "intervalle_index": 309,
+      "intervalle_debut": 4635,
+      "intervalle_fin": 4650,
+      "analyse_action": "The scene is taking place at a Hawaiian luau with a group of men and women gathered around the grand piano. The men are wearing black lei necklaces, and several people - including an elderly spectator, a man in a black suit with khaki pants, and a man with long curly brown hair - are attentively watching the performance at the piano.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 72,
+        "total_tokens": 2826
+      }
+    },
+    {
+      "intervalle_index": 310,
+      "intervalle_debut": 4650,
+      "intervalle_fin": 4665,
+      "analyse_action": "The scene shows a lively entertainment performance taking place. A man in a black-and-white flowered shirt stands on stage under a spotlight in front of a red curtain, with a microphone near his mouth. He has bright blue eyes and a surprised, animated expression. Light reflects off his face, intensifying the dramatic lighting. The audience is absorbed in the performance, with some laughing and applauding enthusiastically. The setting appears to be an elegant venue with a piano nearby and simple décor, creating an intimate atmosphere for the performance. The scene captures the energy and excitement of a live show, with the performer as the center of attention while the audience reacts to the entertainment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 133,
+        "total_tokens": 2887
+      }
+    },
+    {
+      "intervalle_index": 311,
+      "intervalle_debut": 4665,
+      "intervalle_fin": 4680,
+      "analyse_action": "The scene begins with two men standing on a stage before a red curtain, wearing contrasting outfits - one in a black suit and the other in a green grass skirt with other grass accessories. He lifts one hand in a casual gesture while his right hand rests on his hip, with a woman visible in the background wearing red high-heeled sandals.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 69,
+        "total_tokens": 2823
+      }
+    },
+    {
+      "intervalle_index": 312,
+      "intervalle_debut": 4680,
+      "intervalle_fin": 4695,
+      "analyse_action": "The scene takes place at a festive outdoor party or luau under a covered pavilion. People are mingling and dancing among tiki torches and hanging string lights, creating a cheerful, casual atmosphere with island-style music playing in the background.\n\nAdam Sandler's character stands out as particularly animated – he's laughing hysterically and gestures with his hands. At one point, he briefly lifts his shirt to adjust the grain of his pot-bellied-too-thin silver chain while maintaining his energetic, upbeat mood. He appears to be having a great time.\n\nThere are two other men visible in the scene: one who greets Adam with a handshake and laughs heartily, and another who leans in to whisper something to Adam before stepping away. A floral lei is draped over one of the men, adding to the island-themed party aesthetic.\n\nThe crowd around them is dressed casually in summer attire - shorts, t-shirts, open collars - and everyone seems to be enjoying themselves, dancing and socializing under the warm, inviting string lights.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 209,
+        "total_tokens": 2963
+      }
+    },
+    {
+      "intervalle_index": 313,
+      "intervalle_debut": 4695,
+      "intervalle_fin": 4710,
+      "analyse_action": "In the scene, two men are having a conversation at what appears to be a tropical dinner party. One man is dressed in a black suit with a light blue shirt, while the other wears a black-and-white Hawaiian-style shirt with a white necklace.\n\nThey stand close together in an animated discussion, gesturing as they talk over each other. Eventually, one of the men glances over at the table nearby, making an amused, knowing expression before returning his attention to his companion.\n\nThe background is filled with decorative wreaths of white lights that glow throughout the space, creating a festive and colorful atmosphere. Guests are scattered around the area - some are walking by, others have paused to look over at the men's conversation. The energy of the gathering is lively and social, with palm fronds visible overhanging portions of the venue from above.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 170,
+        "total_tokens": 2924
+      }
+    },
+    {
+      "intervalle_index": 314,
+      "intervalle_debut": 4710,
+      "intervalle_fin": 4725,
+      "analyse_action": "The scene takes place at a tropical party in Hawaii. Bruce Willis is having an intense conversation with Adam Sandler at the event.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 27,
+        "total_tokens": 2781
+      }
+    },
+    {
+      "intervalle_index": 315,
+      "intervalle_debut": 4725,
+      "intervalle_fin": 4740,
+      "analyse_action": "In the scene, there's a lively Hawaiian-themed celebration taking place at night. Ben Stiller's character, dressed in a black suit with a light blue shirt, is at the center of attention. Festival revelers in colorful floral shirts and grass skirts surrounding him, many wearing leis. The decor features vibrant decorations including a fire-draped shrub with floral patterns, a coconut tree archway with illuminated leaves, and colorful paper plants. A shirtless man with a black necklace and green leaf headdress stands behind the main subject, contributing to the festive atmosphere. The whole setting is filled with headlamp illumination and other twinkling lights, highlighting the warm, celebratory mood of this Hawaiian party.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 142,
+        "total_tokens": 2896
+      }
+    },
+    {
+      "intervalle_index": 316,
+      "intervalle_debut": 4740,
+      "intervalle_fin": 4755,
+      "analyse_action": "A lively tropical-themed birthday celebration is taking place with a surprise party setup. The birthday man, wearing a gray shirt and his glasses, stands at the center amid island decorations including a palm frond and flowers, with smiling guests gathered around opening presents and watching the festivities. Flames erupt from the volcano lamp as guests cheer him on, and he excitedly gestures toward the volcano, causing it to cascade white powder (like snow or cake mixture) over him, leaving his beard and glasses powdered up. He's covered in white powder and reading from a book at his table, while an Asian woman wearing glasses smiles nearby, and a woman in a red dress covers her mouth in shock. The celebrating around him, the tropical decor, and laughter in the background create a festive atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 156,
+        "total_tokens": 2910
+      }
+    },
+    {
+      "intervalle_index": 317,
+      "intervalle_debut": 4755,
+      "intervalle_fin": 4770,
+      "analyse_action": "The scene takes place at what appears to be an outdoor Hawaiian luau or themed party in a park-like setting. The camera pans across a group of friends in colorful casual attire—some wearing Hawaiian shirts, lei necklaces, and floral headbands—gathered together on a grassy area under string lights.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 63,
+        "total_tokens": 2817
+      }
+    },
+    {
+      "intervalle_index": 318,
+      "intervalle_debut": 4770,
+      "intervalle_fin": 4785,
+      "analyse_action": "The scene takes place inside an elementary school classroom. The classroom door is partially open, allowing people in a variety of clothing colors—orange, white, yellow, blue, and green—move about or stand in small groups. The walls are decorated with colorful children's artwork and educational materials, creating the typical atmosphere of an active school day.\n\nA man in a brown plaid shirt over a blue T-shirt appears in the doorway, looking off to the side as though reacting to something that's happened. A blonde woman in a floral-patterned shirt is there as well, smiling briefly before walking out of the room with her hand still on the door.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 131,
+        "total_tokens": 2885
+      }
+    },
+    {
+      "intervalle_index": 319,
+      "intervalle_debut": 4785,
+      "intervalle_fin": 4800,
+      "analyse_action": "The scene takes place in a lively school hallway during what appears to be dismissal time. Students are streaming through the corridor at various paces – some walking quickly, others lingering.\n\nAn actress wearing a white button-up shirt patterned with black polka dots stands still for a moment. She looks toward others nearby with her mouth slightly open, appearing to speak. Around her, other students pass steadily by both her and the camera's position, moving in multiple directions. The hallway feels active and bustling, filled with the movement of children as they navigate their way through the space.\n\nThe overall mood is casual and dynamic, capturing that energetic atmosphere you'd find during school transitions when everyone is moving freely and going about their day.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 144,
+        "total_tokens": 2898
+      }
+    },
+    {
+      "intervalle_index": 320,
+      "intervalle_debut": 4800,
+      "intervalle_fin": 4815,
+      "analyse_action": "The scene takes place in a busy school hallway where a teacher is moving through a crowded space filled with children and activity. As the teacher walks among the students, they stop and converse with a young boy standing in front of them. \n\nWhile the teacher speaks, a small girl steps up beside the boy and begins talking. The teacher remains engaged with the child group, with their body angled toward them. In the background, other children are visible throughout the hallway - some standing, some moving through the space, and some chatting with one another near doors and bulletin boards decorated with papers and drawings.\n\nLater in the scene, the focus shifts to the girl standing with the boy. The children are positioned in front of bulletin boards that display colorful children's artwork, creating an educational and lively classroom atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 159,
+        "total_tokens": 2913
+      }
+    },
+    {
+      "intervalle_index": 321,
+      "intervalle_debut": 4815,
+      "intervalle_fin": 4830,
+      "analyse_action": "The scene takes place in a school hallway where Mark Wahlberg, dressed in a plaid flannel shirt and blue jeans, stands near the center of the space facing the camera with a serious expression.\n\nThe hallway is lined with colorful bulletin boards displaying children's artwork - blue with white drawings on one side and green with colorful pieces on the other. Children of various ages in bright clothing are gathered and moving throughout the shiny, light-brown tiled corridor. Some groups are talking while others stand more quietly, creating an active but organized classroom environment where everyday school life is unfolding.\n\nThe camera frames Wahlberg's figure against the school setting, carefully emphasizing that he's present in this educational context where students are engaged in different activities. The wide composition captures the full hallway view with the tiled flooring, the walls covered in student artwork, and the natural light pouring in.\n\nThis scene appears to show Wahlberg in his teaching role or visit to this elementary school environment, standing still and observing as the students go about their morning activities in what seems to be a typical school day setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 214,
+        "total_tokens": 2968
+      }
+    },
+    {
+      "intervalle_index": 322,
+      "intervalle_debut": 4830,
+      "intervalle_fin": 4845,
+      "analyse_action": "In this scene, a man wearing a red shirt with white lettering is tidying up and sealing a cardboard box in what appears to be a lived-in bedroom setting. \n\nHe methodically gathers items from around the room, placing books and magazines into the open cardboard box. The space shows signs of ongoing unpacking or moving, with various other cardboard boxes scattered across white surfaces - some open with items spilling out, others stacked or closed nearby.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 91,
+        "total_tokens": 2845
+      }
+    },
+    {
+      "intervalle_index": 323,
+      "intervalle_debut": 4845,
+      "intervalle_fin": 4860,
+      "analyse_action": "In the scene, Norm is standing in a bedroom examining a child's drawing from a package he's just received. The drawing appears to be of a superhero with yellow hair and a blue outfit, likely inspired by Spider-Man, featuring gold circles and bubbles along with the title \"Skeeto Defeats Kreshkavo.\" After studying the drawing, Norm turns and heads toward the doorway as a young girl from the previous scene opens the door behind him. She wears a gray t-shirt, khaki pants, and slippers, and has a backpack with a walkie-talkie clipped to her belt. Norm then turns back to address her before she closes the door behind him.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 138,
+        "total_tokens": 2892
+      }
+    },
+    {
+      "intervalle_index": 324,
+      "intervalle_debut": 4860,
+      "intervalle_fin": 4875,
+      "analyse_action": "In the scene, two people are having a domestic conversation in what appears to be a living workspace with white walls, wooden furniture, and a workbench in the background. A man wearing a red shirt with \"GUARD\" written on it is standing while holding an open cardboard box in his right hand. He has a questioning expression and is speaking, gesturing with the box as if explaining something.\n\nAcross from him is a woman with long brown hair wearing a gray turtleneck. She stands near a white door, her hands positioned in front of her as she listens attentively. The setting includes a brown wooden workbench behind her filled with tools, objects, and a mounted cord on the wall. There are also yellow curtains, a window, and various tools like a hammer, wrench, wire cutter, belt, a lamp, a picture frame, and a black trash can visible in the background.\n\nThe interaction appears to be a casual or serious conversation between household members or a couple discussing something related to the open box, possibly household organization or relocation given the unpacked state of the space with the cardboard box and other items scattered around. The scene has a domestic, everyday quality focused on their conversation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 242,
+        "total_tokens": 2996
+      }
+    },
+    {
+      "intervalle_index": 325,
+      "intervalle_debut": 4875,
+      "intervalle_fin": 4890,
+      "analyse_action": "In this scene, two people are having an intense conversation in a kitchen. The woman with long dark hair in a gray turtleneck is positioned on the left, while the man in a red t-shirt is on the right. They're engaged in what appears to be a serious, emotional discussion. \n\nThe kitchen setting includes white cabinetry, a countertop with a silver faucet and bottles, and some open cardboard boxes on the gray countertop. The white light from the window and artificial lighting create a stark, bright atmosphere.\n\nThroughout the exchange, the woman displays various expressions - serious concern, brief sadness with downcast eyes, and eventually firm determination with a slight smirk. The man also shows a concerned expression, and at one point, slightly shakes his head. The conversation seems weighty, with both individuals clearly invested in the dialogue happening between them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 172,
+        "total_tokens": 2926
+      }
+    },
+    {
+      "intervalle_index": 327,
+      "intervalle_debut": 4905,
+      "intervalle_fin": 4920,
+      "analyse_action": "In the scene, two people are having a serious conversation while standing in a disorganized bedroom. The man, wearing a red shirt with \"Guard\" written on it, is smirking and chuckling as he talks from his position with his back to the woman. The woman, dressed in a gray turtleneck, is visibly frustrated and exasperated with him.\n\nThe room itself tells a story—it's filled with packing and unpacking materials. Cardboard boxes are scattered across the floor, some of them sitting on top of each other and open, revealing items inside. A large wooden dresser stands in the corner, a window with green curtains and white blinds filters in daylight, and a small dresser holds a lamp and a picture frame.\n\nThe exchange between them feels strained and uneven. The man appears to be trying to diffuse the situation with a half-smile and amused demeanor, but the woman is clearly upset, shaking her head while speaking with her mouth slightly open and gesturing with her hands. Their body language and expressions reveal a conflict brewing between them—she's clearly displeased, while he seems to be treating the situation with more casual amusement despite his discomfort.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 236,
+        "total_tokens": 2990
+      }
+    },
+    {
+      "intervalle_index": 328,
+      "intervalle_debut": 4920,
+      "intervalle_fin": 4935,
+      "analyse_action": "Jason Sudeikis and Tina Fey are talking to eachother in a living room. We see this in the start of the video. Tina is sitting on a sofa and Jason is sitting on a chair. They seem to be talking to eachother until the video shifts to another angle of the same argument. The next shot shows the argument from another 3/4 angle. Tina is sitting on a sofa while Jason is sitting on the bed. Tina is on the left side of the screen and Jason is on the right side. They start talking and continue talking while Jason occasionally wiggles his eyebrows. They end this segment of their argument and the scene ends back where it started, with the same 3/4 angle.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 148,
+        "total_tokens": 2902
+      }
+    },
+    {
+      "intervalle_index": 330,
+      "intervalle_debut": 4950,
+      "intervalle_fin": 4965,
+      "analyse_action": "This takes place in an empty, cluttered bedroom. A man in a bold red \"Guard\" shirt with white lettering is sitting on a bed and talking, then later stands awkwardly as he moves through the space wiping something down.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 49,
+        "total_tokens": 2803
+      }
+    },
+    {
+      "intervalle_index": 331,
+      "intervalle_debut": 4965,
+      "intervalle_fin": 4980,
+      "analyse_action": "The scene depicts a quiet moment of reflection in a well-organized but lived-in bedroom. A man wearing a red t-shirt with \"G-U-A-R-D\" printed on it is sitting on a white bedspread-covered bed. He appears to be lost in thought or emotional as he sits with his hands clasped together and looks toward the upper left.\n\nThe room shows signs of daily life and organization, with cardboard boxes throughout the space - one open on the bed containing clothes and other items, and another on a chair. A framed photo of a woman is visible on the desk surface, and a small lamp with a white shade rests on the nightstand.\n\nAs the scene continues, the man shifts his position slightly, moving from sitting on the bed to actually sitting on the floor against it. The room's features remain consistently visible throughout, including the window with blinds and green curtains, the archway with a gray upright, and the hardwood floor.\n\nThe overall atmosphere is contemplative and somewhat lonely, framed by the calm interior setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 208,
+        "total_tokens": 2962
+      }
+    },
+    {
+      "intervalle_index": 332,
+      "intervalle_debut": 4980,
+      "intervalle_fin": 4995,
+      "analyse_action": "The scene opens in a casual, lived-in interior space where a man wearing a red \"guard\" t-shirt stands centered in the room. He appears to be speaking, though no one else is visible in the space with him. \n\nThe room has a relaxed, everyday quality—it features green curtains, a lamp, and various household items scattered around, including cardboard boxes and a picture frame. The window in the background shows daylight streaming in.\n\nAfter this brief interior moment, the setting shifts dramatically to an outdoor location featuring a grand, ornate building. This white-stone structure has a red-tiled roof with multiple archways, decorative statues, and elaborate architectural details.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 135,
+        "total_tokens": 2889
+      }
+    },
+    {
+      "intervalle_index": 334,
+      "intervalle_debut": 5010,
+      "intervalle_fin": 5025,
+      "analyse_action": "The scene takes place at a construction site where workers in high-visibility orange vests and safety helmets are setting up noise-making equipment horizontally into a red toolbox connected to a megaphone setup. One worker in a yellow helmet speaks into the megaphone with his hand on his hip while another works on the equipment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 64,
+        "total_tokens": 2818
+      }
+    },
+    {
+      "intervalle_index": 335,
+      "intervalle_debut": 5025,
+      "intervalle_fin": 5040,
+      "analyse_action": "The scene unfolds as a series of connected moments showcasing different aspects of the setting:\n\nIt begins with a professional-looking man in a bright yellow hard hat and safety glasses standing beside a colleague in a red helmet. They appear to be positioned on a construction site on a warm, sunny day with clear blue skies, surrounded by natural outdoor elements.\n\nThe setting then shifts to a lively crowd gathered behind metal railings, where a woman in a yellow dress is engaged in conversation with a boy in a blue shirt. Around them, a pink-shirted woman and a woman in pink are shouting, weaving through the crowd in an energetic atmosphere.\n\nThe final segment transitions to an interior space with white walls and columns, where two men are having a conversation. One wears a black suit with a white shirt and glasses, while the other is dressed more casually in a brown jacket over a plaid shirt.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 177,
+        "total_tokens": 2931
+      }
+    },
+    {
+      "intervalle_index": 336,
+      "intervalle_debut": 5040,
+      "intervalle_fin": 5055,
+      "analyse_action": "The scene takes place in Donna Hyde's official office as the Zoning Commissioner. It focuses on an interaction between a white-haired woman with curly her holding an umbrella and a man in a blue suit, both of whom are entering through the office door.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 51,
+        "total_tokens": 2805
+      }
+    },
+    {
+      "intervalle_index": 338,
+      "intervalle_debut": 5070,
+      "intervalle_fin": 5085,
+      "analyse_action": "The scene takes place in a formal, well-appointed office. A woman with long brown hair wearing a black sleeveless dress is seated at a desk, speaking while gesturing with her hands. An older man with white hair in a black suit stands across from her, gripping walking sticks and wearing glasses. A third woman stands off to one side of the room. \n\nThe conversation appears to have a serious, business-like tone. The speaking woman maintains a professional demeanor throughout, while the standing man continues speaking to her. The setting's polished, presidential atmosphere—with its wooden paneling, American flag, and formal furniture—along with the characters' formal attire and composed body language, suggests this is an official or important discussion taking place.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 147,
+        "total_tokens": 2901
+      }
+    },
+    {
+      "intervalle_index": 339,
+      "intervalle_debut": 5085,
+      "intervalle_fin": 5100,
+      "analyse_action": "The scene takes place in a warmly lit office where Sandler's character is at the receiving end of someone else's distress. He sits in a leather chair wearing a black jacket over a red shirt, holding a drink in his left hand while listening.\n\nThe conversation is visibly difficult - he's reacting to something troubling being said. After absorbing this information, he leaves his seat and stands up in the room. \n\nThe space itself features wood-paneled walls with built-in dressers topped with lamps, a vase of flowers, a green plant in a brown pot, and a framed picture. The window has blinds partially open with red curtains, adding to the cozy atmosphere. The characters are comfortably dressed in business-casual attire, indicating this is taking place in a professional office setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 157,
+        "total_tokens": 2911
+      }
+    },
+    {
+      "intervalle_index": 340,
+      "intervalle_debut": 5100,
+      "intervalle_fin": 5115,
+      "analyse_action": "The scene takes place in an elegant office setting where a tense negotiation or confrontation is unfolding. An older man with gray hair, wearing a pinstripe suit, stands facing two men and appears to be addressing them seriously. Across from him sits a woman in a sleeveless black dress with her hands clasped on the table, listening intently to what's being said.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 75,
+        "total_tokens": 2829
+      }
+    },
+    {
+      "intervalle_index": 341,
+      "intervalle_debut": 5115,
+      "intervalle_fin": 5130,
+      "analyse_action": "In this scene, Adam Sandler and Christopher Walken are sharing an emotionally charged embrace that conveys deep affection and reconciliation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 26,
+        "total_tokens": 2780
+      }
+    },
+    {
+      "intervalle_index": 342,
+      "intervalle_debut": 5130,
+      "intervalle_fin": 5145,
+      "analyse_action": "The scene begins with a cheerful gathering where a Caucasian woman with long brown hair and pearl earrings sits smiling in a neatly arranged, elegant room. She wears a sleeveless top and a headband. The room features rich wooden furniture including a dresser with a lamp and gold handle, wooden shelves, a vase of red and white flowers, and a window with a wooden frame. The atmosphere is sophisticated and welcoming, but it also has an air of playful energy as she appears amused.\n\nThe mood suddenly shifts to reveal an outdoor construction scene contrasting sharply with the elegant room. A man dressed in a bright orange jumpsuit and white hard hat stands atop a wooden pallet on a concrete area beside a brick building. He grips a megaphone, addressing the surrounding crowd. His gestures are dramatic, pointing upward while surrounding him are people wearing white hard hats and safety vests, some in suits.\n\nThe location changes again to show a spirited protest scene with a crowd behind metal barricades, many holding signs with messages like \"School please,\" \"School is cool,\" and \"Schools behind.\" The protesters, dressed in casual summer attire and some wearing sunglasses, react with animated expressions.\n\nAcross these different scenes—the elegant room, the construction site, and the protest—the overall mood appears to transition from polished and composed to energetic and oppositional.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 264,
+        "total_tokens": 3018
+      }
+    },
+    {
+      "intervalle_index": 343,
+      "intervalle_debut": 5145,
+      "intervalle_fin": 5160,
+      "analyse_action": "In the scene, a construction worker is addressing a peaceful protest. The worker, dressed in bright orange safety gear with a yellow hard hat, stands confidently behind a waist-high metal barricade, wearing sunglasses and holding a bullhorn to his mouth. He speaks authoritatively to the protesters who are gathered beyond the barrier.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 65,
+        "total_tokens": 2819
+      }
+    },
+    {
+      "intervalle_index": 344,
+      "intervalle_debut": 5160,
+      "intervalle_fin": 5175,
+      "analyse_action": "In the scene, a serious conversation is taking place over a phone call between two people with an older man standing between them and observing their interaction. During the call, the older man takes the phone from the younger person in black, speaks on it briefly, and then hands it back to the person with long brown hair in the brown jacket. This exchange occurs in what appears to be an official or government-like office setting. After this conversation, the scene transitions to an unexpected and chaotic moment in a stark hallway where a single spotlight reveals scattered bodies on the floor, presentation boards, and chairs, with two people running away in the distance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 128,
+        "total_tokens": 2882
+      }
+    },
+    {
+      "intervalle_index": 345,
+      "intervalle_debut": 5175,
+      "intervalle_fin": 5190,
+      "analyse_action": "The scene shows a chase unfolding in an old school corridor where a man and two women are sprinting through a long, deteriorating hallway. The corridor has glossy brown floors reflecting overhead lighting, peeling white and brown walls with posters and doors lining both sides, and is cluttered with debris—papers, boxes, and other items scattered across the floor. A few birds are visible on the ground, adding to the abandoned atmosphere.\n\nThe three runners move quickly as they navigate this derelict space. The man, wearing a black jacket and carrying a backpack, holds a glass object in his hand while in pursuit. The woman behind him has long hair and is dressed in black. On the side appears a woman obscured by shadows, wearing a white jacket and carrying a black bag. The pursuit intensifies as they race through this rundown corridor, creating a tense, high-stakes moment.\n\nThe sequence then transitions abruptly from this indoor chase to an outdoor area, where two figures walk away from the camera through a covered courtyard. One wears a blue jacket over a red shirt and has short brown hair, and the other wears a brown leather jacket over a blue checkered shirt and has long brown hair tied in a ponytail. They pass through large, arched doorways into bright daylight, moving past a lamp hanging above them, with a pale blue sky in the background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 275,
+        "total_tokens": 3029
+      }
+    },
+    {
+      "intervalle_index": 346,
+      "intervalle_debut": 5190,
+      "intervalle_fin": 5205,
+      "analyse_action": "The scene takes place in an urban city setting along a busy street. Two people are standing together having a conversation - the woman in the blue and white checkered shirt and brown leather jacket, and the man in the dark blue or black jacket over a red shirt with blue jeans.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 57,
+        "total_tokens": 2811
+      }
+    },
+    {
+      "intervalle_index": 347,
+      "intervalle_debut": 5205,
+      "intervalle_fin": 5220,
+      "analyse_action": "In the scene, there are two action sequences playing out simultaneously. \n\nThe first sequence shows a man and woman riding a motorcycle through a city street at high speed. They're wearing helmets - the man in a green helmet and the woman in a red one. The motorcycle's headlights are on as they race past a grand white stone building with a large arched doorway. The street action is fast-paced, with the rider leaning forward in a determined posture as they navigate through traffic in what appears to be an urban downtown area.\n\nThe scene then transitions to a completely different setting, where a man in a brown leather jacket and brown hat rides a brown horse through a lush green hedge maze. He's accompanied by a woman with long braided hair wearing a gold crown. Both riders display expressions of terror or concern as they move through the hedge-covered path, with a medieval castle visible in the background against bright blue sky conditions.\n\nThe overall tone between these two sequences is comedic. Despite the apparent speed and danger suggested by the racing motorcycle and riding dangerous trails, the actors' dramatic facial expressions and the theatrical nature of both locations - from bustling city streets to an enchanted hedge maze - create a playful, comedic atmosphere throughout.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 243,
+        "total_tokens": 2997
+      }
+    },
+    {
+      "intervalle_index": 348,
+      "intervalle_debut": 5220,
+      "intervalle_fin": 5235,
+      "analyse_action": "The scene captures a multi-vehicle chase unfolding on a tree-lined road. A motorcycle with striking red side mirrors leads the action, with riders strategically fanning out around it. Behind the bike, cyclists in colorful uniforms spread across the road, their helmets illuminated by the warm sunlight filtering through the leaves.\n\nThe pursuit intensifies as the vehicles accelerate, with the motorcycle carriying two riders - a man in a black jacket with a green helmet and a woman in a brown jacket with a red helmet. Their expressions become visibly strained, mouths open as if calling out orReacting to the danger ahead. The woman clings closely to the man behind her while bright flashes sporadically light up their visors.\n\nThe camera cuts between angles, revealing the breadth of the chase as cyclists in blue, yellow, red, and black uniforms pour into view. There's a powerful moment against a natural backdrop where a rider moves alongside a horse, while a motorcyclist in a black jacket and red vest circles the pair at speed. The horse buckles momentarily before bucking again, conveying the raw energy of the pursuit.\n\nAs the sequence builds to its peak, each vehicle appears to leap in and out of formation, pushing past road edges during bursts of acceleration. The entire scene pulses with adrenaline - the rhythmic straining of the riders' muscles, the sharp flashes of their helmeted faces, and the constant pulse of pursuit through the sunlit tree corridor.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 292,
+        "total_tokens": 3046
+      }
+    },
+    {
+      "intervalle_index": 349,
+      "intervalle_debut": 5235,
+      "intervalle_fin": 5250,
+      "analyse_action": "In this scene, two riders are on a high-speed motorcycle race through varied terrain on their motorcycle.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 21,
+        "total_tokens": 2775
+      }
+    },
+    {
+      "intervalle_index": 350,
+      "intervalle_debut": 5250,
+      "intervalle_fin": 5265,
+      "analyse_action": "The scene showcases the film's opening sequence, which establishes the world of \"Fast & Furious\" through a montage of high-speed action across different settings and times of day. \n\nIt opens with early morning cinematography on a motorcycle, then transitions to a golf course at midday where a rider is seen from behind, followed by space sequences where characters are navigating through zero gravity alongside a motorcycle through asteroid fields. There's also a cut to a residential street shot.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 93,
+        "total_tokens": 2847
+      }
+    },
+    {
+      "intervalle_index": 351,
+      "intervalle_debut": 5265,
+      "intervalle_fin": 5280,
+      "analyse_action": "The scene captures multiple intersecting moments of daily life. In a park area, the crowd appears split between conflict and organization - the woman holding the sign moves through the protesters, touching a man's shoulder and looking up as she passes by, while people hold various colorful protest signs with messages about saving their school and advocating for peace.\n\nThe protest setting features a grassy field with a picnic table, picnic umbrellas and a large truck. \n\nMeanwhile, the other main scene shows a busy urban street with steady traffic of cars and motorcycles. The focus is on a red and green helmeted male and female rider navigating through the busy street, passing through pedestrian crosswalk and weaving through stationary and moving vehicles.\n\nThese two scenes - the organized rally in the park and the traffic-choked urban flow - are both occurring simultaneously in their respective locations.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 168,
+        "total_tokens": 2922
+      }
+    },
+    {
+      "intervalle_index": 352,
+      "intervalle_debut": 5280,
+      "intervalle_fin": 5295,
+      "analyse_action": "The scene features an intense motorcycle stunt sequence from \"Terminator Salvation\" with Christian Bale at the center. He's performing daring motorcycling maneuvers, including a wheelie along a grassy strip of road while performing a \nThe segment we are looking at shows him riding a motorcycle alongside a different character with an identical look as he and a passenger perform wheelies while ridden by a train train through the tips of the cargo containers resulting in onlookers with some currency thrown out at them in celebration of their daring ride.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 106,
+        "total_tokens": 2860
+      }
+    },
+    {
+      "intervalle_index": 353,
+      "intervalle_debut": 5295,
+      "intervalle_fin": 5310,
+      "analyse_action": "The scene depicts a series of separate but thematically connected moments:\n\nThe first moment shows a motorcycle with two people riding it on a road through what appears to be a construction zone or work area. The riders are wearing protective gear—textile helmets, blue jeans, and dark shirts—and are navigating around physical barriers and workers in the area.\n\nThe second moment captures a man in a bright white jacket decorated with red, white, and blue designs and fringes standing outdoors under a white overhang. He's animated and emphatic in his gestures, pointing upward and upward in a heated, expressive manner against a backdrop of a clear sky and red building wall with power lines visible.\n\nThe third moment focuses on two construction workers at what appears to be a staged event. One worker is buried against a metal railing in an orange construction vest and red hard hat. The other worker, dressed in a yellow hard hat and orange jumpsuit, is using a megaphone to address him, creating the impression of some kind of training exercise or work scenario taking place.\n\nThe fourth moment shows a protest scene with people gathered behind metal barricades. A man in an orange safety vest is pushing back the protesters to keep order. The protesters are holding various signs, including ones with phrases like \"Save Our School\" and \"Save Our,\" creating a tense atmosphere as the barriers are being maintained.\n\nThe final shot returns briefly to the two individuals from the construction scene, capturing them together once more.\n\nOverall, the sequence weaves together multiple scenes related to work environments, protests, and construction areas, each represented in a stylized, seemingly satirical manner.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 327,
+        "total_tokens": 3081
+      }
+    },
+    {
+      "intervalle_index": 355,
+      "intervalle_debut": 5325,
+      "intervalle_fin": 5340,
+      "analyse_action": "The scene shows a chaotic construction site in an uproar. People in orange construction safety vests with reflective stripes and other hard hats are milling around frantically as a crowd in the background holds various types of signs. The workers are running and moving around urgently, clearly reacting to something unexpected or dangerous that has occurred. The atmosphere is tense and crowded, with everyone appearing to be mobilizing in response to whatever situation has escalated into this emergency-like state.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 90,
+        "total_tokens": 2844
+      }
+    },
+    {
+      "intervalle_index": 356,
+      "intervalle_debut": 5340,
+      "intervalle_fin": 5355,
+      "analyse_action": "The scene depicts a safety demonstration taking place in a bike-centric area. A man wearing a red helmet is standing near some sport equipment like a press cannon, but a bigger black cannon is seen firing a yellow ball at him. He throws his hands up in shock while holding his helmet, as emergency response workers attempt to distract him by shooting yellow.ping-pong balls at him. The entire event is being managed in an organized manner with metal barriers separating the action area from spectators.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 96,
+        "total_tokens": 2850
+      }
+    },
+    {
+      "intervalle_index": 357,
+      "intervalle_debut": 5355,
+      "intervalle_fin": 5370,
+      "analyse_action": "The scene shows an outdoor gathering at a large event where a man who appears to be a commentator or referee is addressing a crowd through a microphone, shouting instructions to someone off-camera while raising a gesture with his hand, and people in high-visibility vests are standing around holding flags. The crowd has become very animated, with children who are then seen running towards someone through twin open wooden doors of a building. They jump into the arms of a woman, and the man with the microphone is seen running over to join them. The moment is filled with emotion and excitement.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 114,
+        "total_tokens": 2868
+      }
+    },
+    {
+      "intervalle_index": 358,
+      "intervalle_debut": 5370,
+      "intervalle_fin": 5385,
+      "analyse_action": "Four people are seen holding each other's hands in a line and a kid runs to them to grab hands as well.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 25,
+        "total_tokens": 2779
+      }
+    },
+    {
+      "intervalle_index": 359,
+      "intervalle_debut": 5385,
+      "intervalle_fin": 5400,
+      "analyse_action": "The scene takes place outdoors on a sunny day, with the children having a lively interaction. The boy and girl in the foreground are at the center of attention as they talk and face each other on the paved street.\n\nThe boy is wearing a blue polo shirt and a gray backpack, and he checks on the girl's shoulder while smiling. The girl is dressed in a green dress with white polka dots and has her hair styled in pigtails, showing a bright and cheerful demeanor.\n\nBehind them stands the woman in the gray T-shirt and khaki pants, observing the children closely while holding a walkie-talkie in one hand. She watches intently from their side.\n\nBeyond the street there's a large crowd gathered, watching the children with what appears to be interest or concern. People in the crowd include adults and children, some wearing baseball caps. They're standing on a grassy area next to a white fence, with buildings in view in the background, including a white house with a brown roof and a gray house.\n\nThe atmosphere suggests this is taking place at some kind of community gathering or event, with the children as the focal point even though the crowd is quite large around them. The bright daylight and outdoor setting contribute to the lively feel of the scene.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 255,
+        "total_tokens": 3009
+      }
+    },
+    {
+      "intervalle_index": 360,
+      "intervalle_debut": 5400,
+      "intervalle_fin": 5415,
+      "analyse_action": "Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two video\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two videos\">Two\">Two\">Two videos\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two videos\">Two\">Two videos\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two videos\">Two\">Two videos\">Two videos\">Two\">Two\">Two\">Two video\">Two\">Two\">Two\">Two\">Two video\">Two videos\">Two\">Two\">Two videos\">Two\">Two videos\">Two\">Two videos\">Two\">Two videos\">Two\">Two videos\">Two\">Two videos\">Two\">Two videos\">Two\">Two video\">Two videos\">Two\">Two video\">Two video\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two videos\">Two\">Two videos\">Two\">Two\">Two videos\">Two\">Two\">Two video\">Two\">Two\">Two\">Two video\">Two videos\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two video\">Two videos\">Two\">Two video\">Two videos\">Two\">Two video\">Two\">Two video\">Two\">Two video\">Two video\">Two\">Two\">Two\">Two\">Two\">Two video\">Two\">Two video\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two video\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two video\">Two\">Two video\">Two\">Two\">Two\">Two videos\">Two\">Two videos\">Two\">Two video\">Two video\">Two\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two videos\">Two video\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two video\">Two videos\">Two\">Two\">Two\">Two\">Two\">Two video\">Two\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two video\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two video\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two video\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two\">Two\">Two video\">Two video\">Two\">Two videos\">Two\">Two video\">Two\">Two\">Two\">Two\">Two video\">Two\">Two videos\">Two\">Two\">Two\">Two videos\">Two\" are currently playing on\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two videos\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">Two\">",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 1024,
+        "total_tokens": 3778
+      }
+    },
+    {
+      "intervalle_index": 361,
+      "intervalle_debut": 5415,
+      "intervalle_fin": 5430,
+      "analyse_action": "In the scene, a warm reunion is taking place. A man and woman embrace and hold each other in an affectionate hug, celebrating with obvious joy. They're at what appears to be an outdoor school event, standing in front of a red brick building with a large wooden gate.\n\nAround them, there's a mixed group of adults and children smiling and reacting positively to the reunion. A woman with long black hair stands nearby, cradling a small boy dressed in yellow. A man in a blue polo shirt hugs a young girl wearing a yellow shirt and backpack, while another boy in a blue shirt covers his face.\n\nThe moment captures a family gathering, with the couple embracing peacefully as their children and other adults watch with happy expressions. The overall atmosphere is one of celebration and connection.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 159,
+        "total_tokens": 2913
+      }
+    },
+    {
+      "intervalle_index": 362,
+      "intervalle_debut": 5430,
+      "intervalle_fin": 5445,
+      "analyse_action": "The scene captures a heartfelt outdoor celebration at night. Couples and small groups are embracing and laughing together on the grass, clearly reveling in joyous moments. Some are waving enthusiastically to those further away, while others are just smiling and hugging tightly.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 51,
+        "total_tokens": 2805
+      }
+    },
+    {
+      "intervalle_index": 363,
+      "intervalle_debut": 5445,
+      "intervalle_fin": 5460,
+      "analyse_action": "The scene takes place at night at Marty's Motel, where a family of four is gathered outdoors around a small fire pit on a rooftop deck. They're wrapped in blankets and enjoying what appears to be a cozy camping-style evening. Each family member is holding a marshmallow over the fire, likely roasting them together as a family activity.\n\nThe atmosphere is intimate and relaxed, with everyone dressed in warm clothing—be it jackets or blankets. They're all smiling and interacting warmly, sharing this special moment together. In front of them on a small table are two bowls and a carton of milk, suggesting they're taking their time savoring the experience.\n\nThe setting is beautifully festive, with trees in the background decorated with white fairy lights that create a magical, glowing ambiance against the dark night sky. The family's relaxed body language and cheerful expressions indicate they're having a wonderful, memorable night together in this cozy motel setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 188,
+        "total_tokens": 2942
+      }
+    },
+    {
+      "intervalle_index": 364,
+      "intervalle_debut": 5460,
+      "intervalle_fin": 5475,
+      "analyse_action": "The scene shows a nighttime family gathering in a casual outdoor setting. A man and woman are seated side by side on an orange-red couch, roasting marshmallows over a small fire pit between them. The man is wearing a black jacket over a green shirt and is holding a skewer with a marshmallow over the flames, occasionally glancing at the woman beside him who is wearing a gray jacket over a pink shirt.\n\nTwo children - a girl in a green dress with pink flowers and a boy in a black jacket - are seated nearby watching them roast marshmallows. The atmosphere is intimate and cozy, with warm flames crackling in the fire pit and soft lighting from a nearby lamp. You can see a white plastic cage with a hamster inside on the table next to them, suggesting this is a family bonding moment with their pet.\n\nThe setting is festive, with a Christmas tree visible in the background adorned with white lights and snowflakes. A red banner with white text hangs above, though the exact words aren't fully visible. The mood is relaxed and pleasant, capturing a moment of family fun and connection around the fire on what appears to be a special evening.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 237,
+        "total_tokens": 2991
+      }
+    },
+    {
+      "intervalle_index": 365,
+      "intervalle_debut": 5475,
+      "intervalle_fin": 5490,
+      "analyse_action": "In the scene, a man and a woman are gathered around a glowing campfire at night, surrounded by warm holiday decorations including a glowing tree with twinkling lights, a bouquet of pink flowers, and aNeon pink \"Merry Christmas\" sign.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 52,
+        "total_tokens": 2806
+      }
+    },
+    {
+      "intervalle_index": 366,
+      "intervalle_debut": 5490,
+      "intervalle_fin": 5505,
+      "analyse_action": "In the scene, there's a nighttime gathering happening around a campfire on a rooftop among the motel buildings. A young couple is sitting close together, smiling and joking as they toast marshmallows over the fire. One of them has their hand over their face in laughter while the other grins. There's a Christmas tree illuminating the area with lights, and a neon sign that says \"Marty's Motel\" visible nearby.\n\nThe night setting is filled with different people enjoying the outdoor atmosphere. In the background, there's also a woman sitting on a bed holding a stuffed animal, wearing pajamas, with a Christmas tree and a neon sign glowing behind her.\n\nThe scene creates an atmosphere of a whimsical, cozy gathering at this motel. However, what makes it particularly strange and distinctive is that the entire scene appears on a physical picture frame lying on the floor, set against a red carpeted room. A rider is sitting on the frame. \n\nThe whole image then pulls back to reveal it's part of a board game or pop-up book setup, showing the motel rooftop scene treated like flat artwork with a three-dimensional corner. The playful design continues with colorful cutout characters in suits and dresses positioned around the familiar motel building with the glass entryway and archway, creating the impression that the entire recreational scene is actually miniature artwork assembled as part of this imaginative board game or pop-up book display.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 284,
+        "total_tokens": 3038
+      }
+    },
+    {
+      "intervalle_index": 367,
+      "intervalle_debut": 5505,
+      "intervalle_fin": 5520,
+      "analyse_action": "The scene shows a lively house montage that takes viewers through various imaginative moments. A realistic older man with glasses moves through different settings, first as a character in a suit, then as a cartoon doctor with a nurse's hat, and later reappearing alongside other cartoon figures.\n\nVisually, it's a playful collage of styles - cartoon characters, board cutouts, real-world images, and toy-like vignettes are all mixed together. The video includes references to Hollywood culture through a prominent red sports car and a Hollywood sign backdrop.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 107,
+        "total_tokens": 2861
+      }
+    },
+    {
+      "intervalle_index": 368,
+      "intervalle_debut": 5520,
+      "intervalle_fin": 5535,
+      "analyse_action": "The scene takes you on a lively, paparazzi-style journey through two very different fictional worlds. \n\nFirst, you see a playful Hollywood-themed tableau with a red Corvette as the focal point. Celebrities with dark sunglasses and styled hair pose dramatically by the car, backed by palm trees and classic Hollywood signs. There's a movie star emblazoned on a movie poster, and the whole setting has that excess, glamorous feel you'd expect from celebrity news coverage.\n\nThen the atmosphere shifts to a whimsical palace world. A man dressed as a king and a woman in a flowing blue gown stand together. Around them are trumpets amplifying everything, decorative columns, architectural objects, assorted flags, donkeys, cows, and sheep—all creating this animated festival or parade setting. \n\nIt's essentially a montage that uses celebrity cutouts and film-themed elements to evoke that glamorous, over-the-top paparazzi coverage of Hollywood famous people, with quick bursts of drama and pageantry.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 198,
+        "total_tokens": 2952
+      }
+    },
+    {
+      "intervalle_index": 369,
+      "intervalle_debut": 5535,
+      "intervalle_fin": 5550,
+      "analyse_action": "The scene shows a whimsical, 3D animated collage where several family photos have been creatively rearranged in a garden-like setting. The arrangement features two couples positioned among various figurines and animals, with the children placed beside a house and a Tyrannosaurus rex and a dragon nearby. A small boy dressed as a pirate keeps a sword at the ready, while a girl dressed as a cowgirl stands playfully on a hippo, both with images for boys and girls faces layered on top in a collage style.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 106,
+        "total_tokens": 2860
+      }
+    },
+    {
+      "intervalle_index": 370,
+      "intervalle_debut": 5550,
+      "intervalle_fin": 5565,
+      "analyse_action": "The scene takes place in outer space with a man held onto a dinosaur hounsa that is attached to the Martian's motel sign that is placed on top of a building on Mars. In the background, white circles resembling astronaut's heads can be seen alongside clouds.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 54,
+        "total_tokens": 2808
+      }
+    },
+    {
+      "intervalle_index": 371,
+      "intervalle_debut": 5565,
+      "intervalle_fin": 5580,
+      "analyse_action": "The scene shows a dark, star-filled sky with a galaxy backdrop. Golden text appears displaying credits as it gradually blinks in from black. The names of commuters, including graphic designers Linda De Scenna, Adam Shankman, Jennifer Corbett, Ann Marie Sanderlin, and Garrett Grant are shown. The credits continue to appear against the starry night background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 74,
+        "total_tokens": 2828
+      }
+    },
+    {
+      "intervalle_index": 372,
+      "intervalle_debut": 5580,
+      "intervalle_fin": 5595,
+      "analyse_action": "The scene is scrolling through on-screen credits over a dark, star-filled background. The credits acknowledge the work of the production designer, editor, costume designer, and visual effects supervisor.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 37,
+        "total_tokens": 2791
+      }
+    },
+    {
+      "intervalle_index": 373,
+      "intervalle_debut": 5595,
+      "intervalle_fin": 5610,
+      "analyse_action": "The scene shows a simple title sequence set against a dark blue, starry night sky with a subtle gradient. Golden text appears in an elegant, flowing calligraphic style over credits that scroll downward against the starry background. The entire scene has a letterboxed black border and maintains a calm, serene aesthetic throughout.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 64,
+        "total_tokens": 2818
+      }
+    },
+    {
+      "intervalle_index": 374,
+      "intervalle_debut": 5610,
+      "intervalle_fin": 5625,
+      "analyse_action": "The scene presents a scrolling credit sequence that moves upward through a starry night sky. White stars of varying sizes punctuate a deep blue, space-like background throughout the motion. Yellow text appears in a stylized, cursive-y style that resembles handwriting with sharp edges throughout the upward scrolling, starting with \"Adam Sandler\" in the center, followed by \"Bedtime Stories,\" then \"A Film By Adam Shankman,\" then \"Corey Russell,\" and finally \"Guy Pearce.\"",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 98,
+        "total_tokens": 2852
+      }
+    },
+    {
+      "intervalle_index": 375,
+      "intervalle_debut": 5625,
+      "intervalle_fin": 5640,
+      "analyse_action": "The scene shows a cosmic journey through space. It opens with a dark, star-filled expanse where a few stars remain visible near the edges while denser star fields fill the center, creating a sense of depth and vastness. Bright points of light appear and move throughout the scene, some forming brief T-shaped twinkle patterns that constantly reappear. A soft, pale blue glow hovers near the center, adding a gentle luminous effect to the darkness. Cloud-like textures drift across the frame, and circular lens flares rotate slowly, creating a dreamy atmosphere. The composition has a cinematic feel with black bars at the top and bottom framing the view. Text notifications then appear, naming \"Russell Brand\" and \"Richard Griffiths,\" before the starfield continues to evolve with more drifting light and movement across the cosmic backdrop.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 168,
+        "total_tokens": 2922
+      }
+    },
+    {
+      "intervalle_index": 376,
+      "intervalle_debut": 5640,
+      "intervalle_fin": 5655,
+      "analyse_action": "The video presents a minimalist sequence showing three people's names against a starry backdrop. The opening feature is Jonathan Pryce, displayed prominently in a gold古今 script, followed by Courtney Cox in the same ornate style, and finally Lucy Lawless shown centered with a thin gold stroke beneath her name that gradually drifts downward. Aisha Tyler appears last in similar styling. Each name is clearly legible against the nighttime sky background. The lit elements slowly fade from view as the piece transitions to complete blackness, creating a moving title card style presentation that concludes on pure black.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 116,
+        "total_tokens": 2870
+      }
+    },
+    {
+      "intervalle_index": 377,
+      "intervalle_debut": 5655,
+      "intervalle_fin": 5670,
+      "analyse_action": "The scene is a simple title and credit sequence presented on a solid black background. At the beginning, the title \"Aisha Tyler\" appears prominently in the center. After a brief pause, the screen transitions to displaying credits for several people involved in the project.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 53,
+        "total_tokens": 2807
+      }
+    },
+    {
+      "intervalle_index": 378,
+      "intervalle_debut": 5670,
+      "intervalle_fin": 5685,
+      "analyse_action": "The scene shows rolling credits presented in a formal, minimalist style. Against a solid black background, yellow text appears in distinct rows, scrolling I continuously.\n\nThe credits begin by acknowledging key crew members, starting with: \"SECOND ASSISTANT DIRECTOR\" \"COONTE MATAL.\" This is followed by additional attribution lines including \"Creature Designed By\" with \"CRAASH McCREEBY\" (accented with diacritical marks), and \"Production Supervisor\" with \"ROBERT WEST.\"\n\nAs the roll continues, it transitions to a compiled cast listing under a central \"CAST\" heading. The actors and their roles are displayed in the same yellow type, providing a complete listing of the film's principal performers and notable contributors.\n\nThis is a typical post-film rolling credits sequence, summarizing the key creative teams and performers who contributed to the production while maintaining a clean, professional presentation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 179,
+        "total_tokens": 2933
+      }
+    },
+    {
+      "intervalle_index": 379,
+      "intervalle_debut": 5685,
+      "intervalle_fin": 5700,
+      "analyse_action": "The scene shows a classic film-style opening credit roll displaying the full cast of a production. The text appears in centered rows with names formatted appropriately for their character roles—lead actors and principals positioned at the top, and supporting and background roles scrolling down through the middle and bottom sections of the frame.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 60,
+        "total_tokens": 2814
+      }
+    },
+    {
+      "intervalle_index": 380,
+      "intervalle_debut": 5700,
+      "intervalle_fin": 5715,
+      "analyse_action": "The scene shows the closing credits for a production, displayed as a black screen with yellow text. The credits scroll upwards listing various roles and participants in a structured format, starting with leadership positions like Stunt Coordinator, then moving through technical roles such as Fight Choreographers, Sound, and Dancers, before concluding with special thanks at the bottom. This is a typical end sequence acknowledging all the crew and contributors who worked on the production.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 87,
+        "total_tokens": 2841
+      }
+    },
+    {
+      "intervalle_index": 381,
+      "intervalle_debut": 5715,
+      "intervalle_fin": 5730,
+      "analyse_action": "The scene shows a single still photograph displayed on a black background. The image remains unchanged throughout while yellow text scrolls downward over it, revealing production credits including cast names, dancers, associates producers, post-production supervision, art direction, assistant art directors, assistant set decoration, costume designers, costume supervisors, costumes, additional assistant costume designer, and camera operators. This is a typical end-credits sequence showing the thank-you information for a production.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 88,
+        "total_tokens": 2842
+      }
+    },
+    {
+      "intervalle_index": 382,
+      "intervalle_debut": 5730,
+      "intervalle_fin": 5745,
+      "analyse_action": "A film credits sequence is playing over a black background. The credits roll upward in gold text, moving from top to bottom, and list crew members for various departments including makeup, hairstylist, costume, lighting, camera operations, first and second assistant camera, set photography, printer operator, cinematographer, boom operator, sound mixers, and more, continuing through to the supervising sound editors and sound mixers.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 85,
+        "total_tokens": 2839
+      }
+    },
+    {
+      "intervalle_index": 383,
+      "intervalle_debut": 5745,
+      "intervalle_fin": 5760,
+      "analyse_action": "The scene shows a sequence of black screen title cards displaying production credits in gold/yellow text. The credits acknowledge the work of the entire film crew and departments, listing supervisors, editors, technical staff, and other key contributors involved in making the movie.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 51,
+        "total_tokens": 2805
+      }
+    },
+    {
+      "intervalle_index": 384,
+      "intervalle_debut": 5760,
+      "intervalle_fin": 5775,
+      "analyse_action": "The scene shows a typical film credits sequence scrolling over a completely black background with bright yellow text. Credits appear in three rotating columns. The main section lists an extensive range of department head titles including Production Assistant, Assistant Property Master, Assistants to Mr. Sandler, Assistant to Mr. Giguette, Assistant to Mr. King, Assistant to Mr. Santoro, Assistant to Mr. Health, Assistant to Mr. Chalamet, Assistant to Mr. Graham, Stand-in for Mr. Sandler.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 103,
+        "total_tokens": 2857
+      }
+    },
+    {
+      "intervalle_index": 385,
+      "intervalle_debut": 5775,
+      "intervalle_fin": 5790,
+      "analyse_action": "The credits are rolling at the end of the video, showing the acknowledgments and recognition given to everyone who contributed to the film. The text appears in centered columns against a black background, displaying roles such as animators, artists, editors, animatic editors, artwork coordinators, and other technical crew members in a rising format from top to bottom. This is a standard closing sequence typically shown after a movie to thank the cast, crew, and all the individuals who worked on the production.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 99,
+        "total_tokens": 2853
+      }
+    },
+    {
+      "intervalle_index": 386,
+      "intervalle_debut": 5790,
+      "intervalle_fin": 5805,
+      "analyse_action": "The scene shows a classic end-credits sequence rolling out on a black background with gold lettering. The credits appear in neat, centered columns, revealing the full roster of people responsible for every aspect of the film's production. As each category of work is completed, the credits scroll upward, maintaining the traditional format where names appear one by one and then rise off-screen as new ones come forward. This progression creates a rhythm and balance, allowing each contributor to be clearly visible before transitioning. The sequence concludes by naming the director, Simon Crane, as the final line of text to appear on screen.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 120,
+        "total_tokens": 2874
+      }
+    },
+    {
+      "intervalle_index": 387,
+      "intervalle_debut": 5805,
+      "intervalle_fin": 5820,
+      "analyse_action": "The scene shows a classic end credits sequence for a film. The credits roll in two sections: first, the director's name Simon Crane is displayed, followed by the full production crew.\n\nThe credits appear in gold text against a solid black background, presenting the credits in a well-organized grid format. All the text is centered on the screen, with no graphical elements, logos, or imagery—just the names of crew members and their roles as they scroll by. Throughout this entire sequence, there are no images or other visual content beyond the text displaying the various crew credits.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 116,
+        "total_tokens": 2870
+      }
+    },
+    {
+      "intervalle_index": 388,
+      "intervalle_debut": 5820,
+      "intervalle_fin": 5835,
+      "analyse_action": "The scene shows a typical end credits sequence rolling for a cinematic production. Credits are displayed on a black background with bright yellow text showing what roles all of the people worked in.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 36,
+        "total_tokens": 2790
+      }
+    },
+    {
+      "intervalle_index": 389,
+      "intervalle_debut": 5835,
+      "intervalle_fin": 5850,
+      "analyse_action": "This is a final credits sequence rolling after the end of a 3D animated film. The credits are displayed on a black screen with centered yellow text, organized into several circular paragraphs that cascade from the top of the frame to the bottom.\n\nThe sequence systematically acknowledges everyone who contributed to the production, starting with production supervisors, visual effects supervisors, and makeup supervisors, then moving through technical assistants, 3D supervisors, and visual effects effects designers. As the sequence progresses, it recognizes the modeling supervisors, 2D supervisors, 2D coordinators, and intermediate compositors, followed by character supervisors and additional visual effects composers.\n\nNear the bottom of the sequence, the credits continue with various production and support roles including character animators, rotoscopers, dynamic effects animators, character technicians, general CG technicians, character simulation technicians, and advanced lighting technicians. The final categories listed are comedists, camera trackers, matte painters, VFX editors, and supervisors for additional visual effects by Tippett Studio, along with VFX supervisors, CG producers, art director, an additional VFX artist, and the final editorial supervisor.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 230,
+        "total_tokens": 2984
+      }
+    },
+    {
+      "intervalle_index": 390,
+      "intervalle_debut": 5850,
+      "intervalle_fin": 5865,
+      "analyse_action": "The scene is showing movie ending credits rolling on a black background with centered yellow text. The credits begin with roles like CG General, shader technician, cloth simulation, and lighting technician, then progress through camera trackers, matte editor, VFX skills photographers, visual effects supervisor, VFX producer, and lead TD and lighting supervisor roles. As the sequence continues, it moves through compositing artists, rotoscopers, and additional visual effects production departments including JUFIG VFX, Fuel VFX, Simon Madison, Jason Bath, Sam Cole, Roy Mahi, and Luke Rubb. The text fades upward in organized blocks to complete the end credits roll.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 133,
+        "total_tokens": 2887
+      }
+    },
+    {
+      "intervalle_index": 391,
+      "intervalle_debut": 5865,
+      "intervalle_fin": 5880,
+      "analyse_action": "The scene shows a standard end credits sequence displaying the acknowledgements and production details for the complete 3D animated movie. The credits roll rapidly across a black screen with bright yellow and gold-tinted typography organized in multiple centered columns. \n\nThe sequence methodically presents all the contributing departments and personnel involved in making the film, including:\n\n**Craftspeople and Supervisors:**\n- Matchmove Artists\n- Matte Effects Supervisor\n- Art Director\n- Digital Matte Painters\n- VisualFX Effects Supervisors\n- Digital Painters\n- Art Directors\n- Sculptors\n\n**Production Support:**\n- Project Supervisors\n- Concept Designers\n- Concept Supervisors\n- Mold Supervisors\n- Dental Supervisors\n- Alien Cosupervisors\n- Foam Technicians\n- Effects Technicians\n- On-Set Application Crew (including Applications, Technicians, and Technomakers)\n\n**Music Acknowledgements:**\nThe credits also specify which songs are included in the movie, crediting all songwriters and performers involved in the film's musical electrics.\n\nThis typical credits roll represents the final comprehensive screening of all the creative minds, technical teams, and production departments that contributed to bringing the 3D animated film to completion, ending the viewing experience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 256,
+        "total_tokens": 3010
+      }
+    },
+    {
+      "intervalle_index": 392,
+      "intervalle_debut": 5880,
+      "intervalle_fin": 5895,
+      "analyse_action": "The scene shows an end credits sequence scrolling upward against a black background with gold text. The credits display acknowledgments for key crew members including the writers, composer, special effects supervisors, and makeup artists. It also enumerates the music featured in the film, presenting song titles alongside information about their composers and performers, along with record labels, licensing details, and performance credits. This is the classic post-film credits display that summarizes the production team and the music that was used in the movie.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 99,
+        "total_tokens": 2853
+      }
+    },
+    {
+      "intervalle_index": 393,
+      "intervalle_debut": 5895,
+      "intervalle_fin": 5910,
+      "analyse_action": "The scene shows a full end credit sequence for a Disney animated feature. It opens with yellow text on a black background listing the various music tracks featured in the film, including songs like \"Hawainai Lehi,\" \"Happy Thoughts,\" \"At The Nottingham Broadway Mega Resort,\" \"Eternal Flame,\" \"Disco Inferno,\" \"I'm On Fire,\" \"Fire,\" \"Turing Poke,\" \"Mona Hula,\" \"Waimea bound,\" and \"Hawaiian Lei,\" along with detailed information about who wrote, composed, performed, and arranged each piece.\n\nAs the sequence progresses, the scrolling credits continue listing director, producer, composer, editor, visual effects, music supervisor, and other key crew members involved in creating the film. The scrolling creates the classic end credits procession that allows viewers to acknowledge everyone who contributed to the production.\n\nThe closing of the sequence features the Walt Disney Records logo centered on the screen, followed by a standard disclaimer stating animals were monitored and not harmed during filming, plus an American Humane association logo and a credit noting polishing was done at IATSE Local 77, Unit 6.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 233,
+        "total_tokens": 2987
+      }
+    },
+    {
+      "intervalle_index": 394,
+      "intervalle_debut": 5910,
+      "intervalle_fin": 5925,
+      "analyse_action": "The scene shows a simple credits card presentation beginning with an animal welfare notice from AHAD (Animal Welfare Assurement inAGRiculture) stating that animals were not harmed, followed by a formal acknowledgment of various stakeholders and contributors.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 46,
+        "total_tokens": 2800
+      }
+    },
+    {
+      "intervalle_index": 395,
+      "intervalle_debut": 5925,
+      "intervalle_fin": 5940,
+      "analyse_action": "The scene shows the end credits rolling for a Disney film. The credits are displayed on a black background with green and yellow text, presenting various production logos including Dolby Digital in the upper sections and Digital Cinematography by Panavision branding centrally positioned. The text features multiple lines in yellow and white, scrolling or appearing one by one. As the credits progress, they include copyright information along with standard Hollywood production acknowledgments. The sequence continues moving downward until it concludes with distribution information centered on screen, specifically stating \"Distributed by Walt Disney Studios Motion Pictures.\" This represents the typical closing portion of a feature film that recognizes all the companies, technologies, and departments involved in the movie's production and distribution.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 142,
+        "total_tokens": 2896
+      }
+    },
+    {
+      "intervalle_index": 396,
+      "intervalle_debut": 5940,
+      "intervalle_fin": 5953.99,
+      "analyse_action": "The scene is a classic Walt Disney Productions end card. It begins with gold typography announcing \"Distributed by\" followed by Walt Disney Studios Motion Pictures, all set against a black screen. This transitions into the iconic Walt Disney Pictures \" xmlns\" card featuring the castle with moving shooting stars coming from behind the castle in the epilogue scene towards the cornucopia, with Walt Disney Pictures appearing in soft focus in the lower half of the screen.",
+      "tokens": {
+        "prompt_tokens": 2576,
+        "completion_tokens": 89,
+        "total_tokens": 2665
+      }
     }
   ]
 }

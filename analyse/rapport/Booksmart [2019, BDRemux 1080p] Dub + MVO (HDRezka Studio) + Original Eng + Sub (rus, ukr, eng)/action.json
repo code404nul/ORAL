@@ -1,0 +1,116 @@
+{
+  "movie_id": "Booksmart [2019, BDRemux 1080p] Dub + MVO (HDRezka Studio) + Original Eng + Sub (rus, ukr, eng)",
+  "date_analyse": "2026-02-15T20:48:17.431376",
+  "intervalles": [
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "analyse_action": "The scene takes place in a busy high school hallway and classroom. Students are moving through the space, with groups chatting, walking, and standing in clusters. A girl with long brown hair in a blue jean jacket with patches is the focal point, walking away from the camera with a red backpack on her shoulder while glancing back. Other students fill the frame as well - a girl with long brown hair in a green plaid jacket and a black backpack stands to one side, while a student with long dreadlocks in a striped shirt sits at a desk on the other side.\n\nThe hallway walls are decorated with posters and have gray lockers, creating that typical school atmosphere. Students in various colored clothing are either talking to friends or standing quietly in small groups. \n\nThe setting captures the kind of everyday bustle you'd see at a high school during class transitions or between periods - there's movement in all directions, casual conversations, and that general sense of organized chaos that comes with a crowded school space.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 201,
+        "total_tokens": 2955
+      }
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "analyse_action": "The scene takes place in a lively high school classroom during what appears to be a casual day before school begins. Students are gathered around desks engaged in conversation, standing near the courtyard, and moving through the room in small groups. The atmosphere is informal and energetic, with kids chatting and interacting in different clusters - some of the original cast as well as new students have all assembled in this space.\n\nThe focus shifts after the opening moments to a conversation between two girls sitting at a desk. One girl wears a blue jean jacket with \"Sisters\" written on the sleeve, while her friend is in a yellow jacket with fringe and a white shirt. They appear to be engaged in discussion, leaning toward each other as they talk. Behind them, another student with brown hair wearing a checkered blouse watches intently, while a fourth student in a yellow shirt looks away.\n\nThe classroom is furnished with gray lockers and yellow desks. The typical school decorations are visible - a clock on the wall, posters including one that says \"Metaphor\" and another with a sun illustration, and a bulletin board. Throughout, students can be seen at their seats or milling about, with some animated conversations breaking out.\n\nThis scene captures the day before school officially starts, showing the mix of new faces joining alongside the original students, all getting to know each other and settling into the start of a new school year.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 279,
+        "total_tokens": 3033
+      }
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "analyse_action": "The scene takes place in a busy high school classroom during school hours. Students are filling the room from their desks and moving around between activities. The environment has typical classroom elements like gray cabinets covered with posters, windows letting in daylight, and a teacher's desk with papers and a pencil cup.\n\nThe students are engaged in various types of study and movement. Some are flipping through booklets, others are leaning over desks or sitting in rows focused on their materials, while a noticeable number are walking around the room and talking to each other in small groups. There's a sense of buzz and activity throughout, with the room divided between focused students working alone and others who are socializing and shifting between seats.\n\nThe overall atmosphere is lively and bustling, capturing the everyday dynamics of a high school classroom during a lesson or class period where students move between studying, conversing, and occasionally crossing the room to get to different areas.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 183,
+        "total_tokens": 2937
+      }
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "analyse_action": "In this scene, we see a young man with short brown hair wearing a purple jacket over a graphic T-shirt standing near a woman in a plaid shirt with a red necklace. \n\nThe woman is seated at a desk that's covered with various items including a red coffee mug, books, papers, posters, a stapler, and pens. She has dreadlocks and is positioned in front of a black printer with a lamp above it. Behind her are some whiteboards, a test rack, and several people standing nearby.\n\nAdditionally, there's a close-up showing an image of the same young man printed on a white T-shirt in what appears to be a store setting, with The scene has This scene captures a moment that seems to show someone singing with a slideshow playing next to some static clips.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 161,
+        "total_tokens": 2915
+      }
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "analyse_action": "The scene takes place in a classroom setting, focusing on a young man who engages in several moments with his classmates and himself.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 26,
+        "total_tokens": 2780
+      }
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "analyse_action": "The scene takes place in a crowded classroom with students seated at desks, chatting and reading. The camera catches brief, natural moments of interaction between classmates - studying, exchanging glances, and talking among themselves.\n\nTwo students stand side by side in the classroom, holding white papers like sheets of paper or exam papers. The woman appears to be talking",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 69,
+        "total_tokens": 2823
+      }
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "analyse_action": "This scene is from the 2018 film \"Game Night\" and features Ice Cube and Kenan Thompson performing on stage. \n\nThe two actors are delivering a dramatic monologue or comedic performance with high energy. They're standing in front of an elaborate green tree-like backdrop decorated with leaves, flowers, and real gold accents, which creates an opulent and whimsical atmosphere. This backdrop appears to be designed for theatrical performances, with the actors positioned as the focal point on the stage.\n\nThe actors are dressed smartly—one in a vibrant, patterned colorful suit jacket, and the other in a dark gray suit jacket with a black turtleneck. Their body language is expressive, with one actor gesturing animatedly while the other holds a rolled-up poster that he appears to be referencing during their performance.\n\nThe entire scene has a theatrical quality, with lighting that highlights the actors and backdrop. It captures a moment of comedic or dramatic presentation, likely part of the film's events where characters sharply contrast their personalities or engage in witty banter, which is characteristic of \"Game Night's\" playful and unpredictable tone.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 225,
+        "total_tokens": 2979
+      }
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "analyse_action": "The scene takes place in a classroom where a teacher in a grey blazer is presenting to students seated at desks. Some students are attentively following along while holding papers, and a few appear to be doodling.\n\nTwo men stand near the front of the room by a wall decorated with text. One of them, wearing a colorful patterned shirt with a brooch, is acting animated and expressive—he looks around the room, gestures with an open hand, and points toward the students while speaking. His colleague in the grey blazer is holding papers and making adjustments to them. At one point, the man in the colorful shirt picks up a booklet that the papers were attached to while still continuing to gesture and talk, appearing particularly animated about whatever he's discussing with his colleague in front of the whiteboard.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 162,
+        "total_tokens": 2916
+      }
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "analyse_action": "The scene takes place in a classroom setting where a teacher is addressing a student. The class atmosphere is somewhat busy and somewhat lively, with students engaged in different activities throughout the room.\n\nTwo girls are at the center of attention - one wears a yellow turtleneck and plaid jacket, while the other has a red shirt and blue jean jacket with a patch on it. They're sharing an excited conversation, reacting to what's happening in the classroom with animated gestures and attentive expressions.\n\nThe teacher, dressed in a gray blazer and black turtleneck, is looking at the student in the red shirt who appears to be responding to something he's being asked. The teacher's expression is neutral as he doesn't quite grasp what's being said but seems prepared to continue the exchange.\n\nIn the background, there's activity among other students. Some are taking notes while others chat, and various items of clothing are visible throughout the classroom, creating a typical school environment with its mix of focused attention and casual chatter.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 202,
+        "total_tokens": 2956
+      }
+    },
+    {
+      "intervalle_index": 101,
+      "intervalle_debut": 1515,
+      "intervalle_fin": 1530,
+      "analyse_action": "The scene shows a nighttime car journey through what appears to be a city area. Three people are in the vehicle with a man driving. \n\nThe atmosphere is emotionally tense and charged. The driver becomes visibly animated and agitated, with his face showing strain as he drives with one hand on the wheel. The passengers in the back seats show concern for him - one wears a blue jacket with a black hat and glances over worriedly, while the other in a black-and-white top watches intently.\n\nThe setting has an old-school feel with interior lighting that creates deep shadow across the cabin, along with some red taillights visible through the windows. The overall mood suggests the driver may be dealing with stress or emotional difficulties, while his traveling companions are keeping a watchful eye on him in the quiet darkness of the night.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 166,
+        "total_tokens": 2920
+      }
+    }
+  ]
+}

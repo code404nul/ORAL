@@ -1,0 +1,4961 @@
+{
+  "movie_id": "Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS",
+  "movie_path": "E:\\film_oral\\Voyage of Time - Life's Journey (2017)\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS.mp4",
+  "subtitle_path": "E:\\film_oral\\Voyage of Time - Life's Journey (2017)\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS.en.srt",
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 356,
+  "dossier_videos": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS",
+  "date_traitement": "2026-02-18T10:37:11.947439",
+  "stats_extraction": {
+    "total": 356,
+    "reussis": 356,
+    "echecs": 0,
+    "timeouts": 0,
+    "gpu_errors": 0,
+    "cpu_fallbacks": 0
+  },
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": "﻿1",
+          "start": 27.029,
+          "end": 28.03,
+          "text": "Mother."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 2,
+          "start": 33.327,
+          "end": 35.078,
+          "text": "You walked with me then."
+        },
+        {
+          "index": 3,
+          "start": 38.832,
+          "end": 40.25,
+          "text": "In the silence."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 4,
+          "start": 47.758,
+          "end": 49.843,
+          "text": "Before there was a world."
+        },
+        {
+          "index": 5,
+          "start": 56.016,
+          "end": 58.936,
+          "text": "Before night or day."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 6,
+          "start": 64.149,
+          "end": 66.068,
+          "text": "Alone in the stillness."
+        },
+        {
+          "index": 7,
+          "start": 74.91,
+          "end": 76.954,
+          "text": "Where nothing was."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 8,
+          "start": 163.248,
+          "end": 164.458,
+          "text": "Mother."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 9,
+          "start": 168.462,
+          "end": 169.838,
+          "text": "Where are you?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 10,
+          "start": 186.146,
+          "end": 187.647,
+          "text": "Where have you gone?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 11,
+          "start": 223.934,
+          "end": 225.268,
+          "text": "I fear."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 12,
+          "start": 239.074,
+          "end": 240.367,
+          "text": "Full of trouble."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 13,
+          "start": 245.288,
+          "end": 247.207,
+          "text": "A riddle to myself."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 14,
+          "start": 290.0,
+          "end": 292.169,
+          "text": "Am I not your child?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 15,
+          "start": 337.881,
+          "end": 339.257,
+          "text": "Who are you?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 16,
+          "start": 346.89,
+          "end": 348.6,
+          "text": "Life giver."
+        },
+        {
+          "index": 17,
+          "start": 355.065,
+          "end": 356.733,
+          "text": "Light bringer."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0030_time_450.00s-465.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 585,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0039_time_585.00s-600.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "timecode_debut_extrait": 600,
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0040_time_600.00s-615.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 630,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0041_time_615.00s-630.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "timecode_debut_extrait": 630,
+      "timecode_fin_extrait": 645,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0042_time_630.00s-645.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "timecode_debut_extrait": 645,
+      "timecode_fin_extrait": 660,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0043_time_645.00s-660.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "timecode_debut_extrait": 660,
+      "timecode_fin_extrait": 675,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0044_time_660.00s-675.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "timecode_debut_extrait": 675,
+      "timecode_fin_extrait": 690,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0045_time_675.00s-690.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "timecode_debut_extrait": 690,
+      "timecode_fin_extrait": 705,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0046_time_690.00s-705.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "timecode_debut_extrait": 705,
+      "timecode_fin_extrait": 720,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0047_time_705.00s-720.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "timecode_debut_extrait": 720,
+      "timecode_fin_extrait": 735,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0048_time_720.00s-735.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "timecode_debut_extrait": 735,
+      "timecode_fin_extrait": 750,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0049_time_735.00s-750.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "timecode_debut_extrait": 750,
+      "timecode_fin_extrait": 765,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0050_time_750.00s-765.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "timecode_debut_extrait": 765,
+      "timecode_fin_extrait": 780,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0051_time_765.00s-780.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "timecode_debut_extrait": 780,
+      "timecode_fin_extrait": 795,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0052_time_780.00s-795.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "timecode_debut_extrait": 795,
+      "timecode_fin_extrait": 810,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0053_time_795.00s-810.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "timecode_debut_extrait": 810,
+      "timecode_fin_extrait": 825,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0054_time_810.00s-825.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "timecode_debut_extrait": 825,
+      "timecode_fin_extrait": 840,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0055_time_825.00s-840.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "timecode_debut_extrait": 840,
+      "timecode_fin_extrait": 855,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0056_time_840.00s-855.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "timecode_debut_extrait": 855,
+      "timecode_fin_extrait": 870,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0057_time_855.00s-870.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "timecode_debut_extrait": 870,
+      "timecode_fin_extrait": 885,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0058_time_870.00s-885.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "timecode_debut_extrait": 885,
+      "timecode_fin_extrait": 900,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0059_time_885.00s-900.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "timecode_debut_extrait": 900,
+      "timecode_fin_extrait": 915,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0060_time_900.00s-915.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "timecode_debut_extrait": 915,
+      "timecode_fin_extrait": 930,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0061_time_915.00s-930.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "timecode_debut_extrait": 930,
+      "timecode_fin_extrait": 945,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0062_time_930.00s-945.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "timecode_debut_extrait": 945,
+      "timecode_fin_extrait": 960,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0063_time_945.00s-960.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "timecode_debut_extrait": 960,
+      "timecode_fin_extrait": 975,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0064_time_960.00s-975.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "timecode_debut_extrait": 975,
+      "timecode_fin_extrait": 990,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0065_time_975.00s-990.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "timecode_debut_extrait": 990,
+      "timecode_fin_extrait": 1005,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0066_time_990.00s-1005.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "timecode_debut_extrait": 1005,
+      "timecode_fin_extrait": 1020,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0067_time_1005.00s-1020.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "timecode_debut_extrait": 1020,
+      "timecode_fin_extrait": 1035,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0068_time_1020.00s-1035.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1035,
+      "timecode_fin_extrait": 1050,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0069_time_1035.00s-1050.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "timecode_debut_extrait": 1050,
+      "timecode_fin_extrait": 1065,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0070_time_1050.00s-1065.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "timecode_debut_extrait": 1065,
+      "timecode_fin_extrait": 1080,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0071_time_1065.00s-1080.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "timecode_debut_extrait": 1080,
+      "timecode_fin_extrait": 1095,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0072_time_1080.00s-1095.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "timecode_debut_extrait": 1095,
+      "timecode_fin_extrait": 1110,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0073_time_1095.00s-1110.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "timecode_debut_extrait": 1110,
+      "timecode_fin_extrait": 1125,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0074_time_1110.00s-1125.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "timecode_debut_extrait": 1125,
+      "timecode_fin_extrait": 1140,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0075_time_1125.00s-1140.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "timecode_debut_extrait": 1140,
+      "timecode_fin_extrait": 1155,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0076_time_1140.00s-1155.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "timecode_debut_extrait": 1155,
+      "timecode_fin_extrait": 1170,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0077_time_1155.00s-1170.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "timecode_debut_extrait": 1170,
+      "timecode_fin_extrait": 1185,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0078_time_1170.00s-1185.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1185,
+      "timecode_fin_extrait": 1200,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0079_time_1185.00s-1200.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "timecode_debut_extrait": 1200,
+      "timecode_fin_extrait": 1215,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0080_time_1200.00s-1215.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 18,
+          "start": 1202.661,
+          "end": 1203.913,
+          "text": "Mother."
+        },
+        {
+          "index": 19,
+          "start": 1211.212,
+          "end": 1212.463,
+          "text": "Born."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "timecode_debut_extrait": 1215,
+      "timecode_fin_extrait": 1230,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0081_time_1215.00s-1230.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 20,
+          "start": 1219.678,
+          "end": 1220.554,
+          "text": "Now."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "timecode_debut_extrait": 1230,
+      "timecode_fin_extrait": 1245,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0082_time_1230.00s-1245.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 21,
+          "start": 1230.523,
+          "end": 1231.649,
+          "text": "I am."
+        },
+        {
+          "index": 22,
+          "start": 1244.912,
+          "end": 1245.996,
+          "text": "Life."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "timecode_debut_extrait": 1245,
+      "timecode_fin_extrait": 1260,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0083_time_1245.00s-1260.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 23,
+          "start": 1257.633,
+          "end": 1258.926,
+          "text": "Restless."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "timecode_debut_extrait": 1260,
+      "timecode_fin_extrait": 1275,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0084_time_1260.00s-1275.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "timecode_debut_extrait": 1275,
+      "timecode_fin_extrait": 1290,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0085_time_1275.00s-1290.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 24,
+          "start": 1278.195,
+          "end": 1279.822,
+          "text": "Unsatisfied."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1305,
+      "timecode_debut_extrait": 1290,
+      "timecode_fin_extrait": 1305,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0086_time_1290.00s-1305.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 25,
+          "start": 1297.131,
+          "end": 1298.591,
+          "text": "I thirst."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 87,
+      "intervalle_debut": 1305,
+      "intervalle_fin": 1320,
+      "timecode_debut_extrait": 1305,
+      "timecode_fin_extrait": 1320,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0087_time_1305.00s-1320.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 26,
+          "start": 1315.524,
+          "end": 1316.567,
+          "text": "Light."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 1320,
+      "intervalle_fin": 1335,
+      "timecode_debut_extrait": 1320,
+      "timecode_fin_extrait": 1335,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0088_time_1320.00s-1335.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 27,
+          "start": 1324.283,
+          "end": 1325.326,
+          "text": "Dark."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 1335,
+      "intervalle_fin": 1350,
+      "timecode_debut_extrait": 1335,
+      "timecode_fin_extrait": 1350,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0089_time_1335.00s-1350.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 28,
+          "start": 1340.216,
+          "end": 1341.926,
+          "text": "Speak with me."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 90,
+      "intervalle_debut": 1350,
+      "intervalle_fin": 1365,
+      "timecode_debut_extrait": 1350,
+      "timecode_fin_extrait": 1365,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0090_time_1350.00s-1365.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 29,
+          "start": 1354.063,
+          "end": 1355.272,
+          "text": "What am I?"
+        },
+        {
+          "index": 30,
+          "start": 1364.365,
+          "end": 1365.366,
+          "text": "Where?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 1365,
+      "intervalle_fin": 1380,
+      "timecode_debut_extrait": 1365,
+      "timecode_fin_extrait": 1380,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0091_time_1365.00s-1380.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 92,
+      "intervalle_debut": 1380,
+      "intervalle_fin": 1395,
+      "timecode_debut_extrait": 1380,
+      "timecode_fin_extrait": 1395,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0092_time_1380.00s-1395.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 93,
+      "intervalle_debut": 1395,
+      "intervalle_fin": 1410,
+      "timecode_debut_extrait": 1395,
+      "timecode_fin_extrait": 1410,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0093_time_1395.00s-1410.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 94,
+      "intervalle_debut": 1410,
+      "intervalle_fin": 1425,
+      "timecode_debut_extrait": 1410,
+      "timecode_fin_extrait": 1425,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0094_time_1410.00s-1425.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 95,
+      "intervalle_debut": 1425,
+      "intervalle_fin": 1440,
+      "timecode_debut_extrait": 1425,
+      "timecode_fin_extrait": 1440,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0095_time_1425.00s-1440.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 31,
+          "start": 1433.309,
+          "end": 1435.06,
+          "text": "Who brought me here?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 96,
+      "intervalle_debut": 1440,
+      "intervalle_fin": 1455,
+      "timecode_debut_extrait": 1440,
+      "timecode_fin_extrait": 1455,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0096_time_1440.00s-1455.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 97,
+      "intervalle_debut": 1455,
+      "intervalle_fin": 1470,
+      "timecode_debut_extrait": 1455,
+      "timecode_fin_extrait": 1470,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0097_time_1455.00s-1470.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 98,
+      "intervalle_debut": 1470,
+      "intervalle_fin": 1485,
+      "timecode_debut_extrait": 1470,
+      "timecode_fin_extrait": 1485,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0098_time_1470.00s-1485.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 99,
+      "intervalle_debut": 1485,
+      "intervalle_fin": 1500,
+      "timecode_debut_extrait": 1485,
+      "timecode_fin_extrait": 1500,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0099_time_1485.00s-1500.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 100,
+      "intervalle_debut": 1500,
+      "intervalle_fin": 1515,
+      "timecode_debut_extrait": 1500,
+      "timecode_fin_extrait": 1515,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0100_time_1500.00s-1515.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 101,
+      "intervalle_debut": 1515,
+      "intervalle_fin": 1530,
+      "timecode_debut_extrait": 1515,
+      "timecode_fin_extrait": 1530,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0101_time_1515.00s-1530.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 102,
+      "intervalle_debut": 1530,
+      "intervalle_fin": 1545,
+      "timecode_debut_extrait": 1530,
+      "timecode_fin_extrait": 1545,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0102_time_1530.00s-1545.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 32,
+          "start": 1530.948,
+          "end": 1532.199,
+          "text": "O mother."
+        },
+        {
+          "index": 33,
+          "start": 1534.743,
+          "end": 1536.412,
+          "text": "Abyss of light."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 103,
+      "intervalle_debut": 1545,
+      "intervalle_fin": 1560,
+      "timecode_debut_extrait": 1545,
+      "timecode_fin_extrait": 1560,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0103_time_1545.00s-1560.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 34,
+          "start": 1546.505,
+          "end": 1548.257,
+          "text": "All beholding."
+        },
+        {
+          "index": 35,
+          "start": 1558.225,
+          "end": 1559.435,
+          "text": "Blazing."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 104,
+      "intervalle_debut": 1560,
+      "intervalle_fin": 1575,
+      "timecode_debut_extrait": 1560,
+      "timecode_fin_extrait": 1575,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0104_time_1560.00s-1575.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 36,
+          "start": 1566.9,
+          "end": 1569.653,
+          "text": "Shining through all time."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 105,
+      "intervalle_debut": 1575,
+      "intervalle_fin": 1590,
+      "timecode_debut_extrait": 1575,
+      "timecode_fin_extrait": 1590,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0105_time_1575.00s-1590.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 106,
+      "intervalle_debut": 1590,
+      "intervalle_fin": 1605,
+      "timecode_debut_extrait": 1590,
+      "timecode_fin_extrait": 1605,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0106_time_1590.00s-1605.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 37,
+          "start": 1598.724,
+          "end": 1600.142,
+          "text": "I touch you."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 107,
+      "intervalle_debut": 1605,
+      "intervalle_fin": 1620,
+      "timecode_debut_extrait": 1605,
+      "timecode_fin_extrait": 1620,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0107_time_1605.00s-1620.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 38,
+          "start": 1605.439,
+          "end": 1607.357,
+          "text": "You burn with fire."
+        },
+        {
+          "index": 39,
+          "start": 1614.573,
+          "end": 1616.033,
+          "text": "I tremble,"
+        },
+        {
+          "index": 40,
+          "start": 1617.91,
+          "end": 1619.828,
+          "text": "Quake in wonder."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 108,
+      "intervalle_debut": 1620,
+      "intervalle_fin": 1635,
+      "timecode_debut_extrait": 1620,
+      "timecode_fin_extrait": 1635,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0108_time_1620.00s-1635.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 41,
+          "start": 1634.676,
+          "end": 1636.553,
+          "text": "Where are you leading me?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 109,
+      "intervalle_debut": 1635,
+      "intervalle_fin": 1650,
+      "timecode_debut_extrait": 1635,
+      "timecode_fin_extrait": 1650,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0109_time_1635.00s-1650.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 110,
+      "intervalle_debut": 1650,
+      "intervalle_fin": 1665,
+      "timecode_debut_extrait": 1650,
+      "timecode_fin_extrait": 1665,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0110_time_1650.00s-1665.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 111,
+      "intervalle_debut": 1665,
+      "intervalle_fin": 1680,
+      "timecode_debut_extrait": 1665,
+      "timecode_fin_extrait": 1680,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0111_time_1665.00s-1680.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 112,
+      "intervalle_debut": 1680,
+      "intervalle_fin": 1695,
+      "timecode_debut_extrait": 1680,
+      "timecode_fin_extrait": 1695,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0112_time_1680.00s-1695.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 113,
+      "intervalle_debut": 1695,
+      "intervalle_fin": 1710,
+      "timecode_debut_extrait": 1695,
+      "timecode_fin_extrait": 1710,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0113_time_1695.00s-1710.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 114,
+      "intervalle_debut": 1710,
+      "intervalle_fin": 1725,
+      "timecode_debut_extrait": 1710,
+      "timecode_fin_extrait": 1725,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0114_time_1710.00s-1725.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 115,
+      "intervalle_debut": 1725,
+      "intervalle_fin": 1740,
+      "timecode_debut_extrait": 1725,
+      "timecode_fin_extrait": 1740,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0115_time_1725.00s-1740.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 116,
+      "intervalle_debut": 1740,
+      "intervalle_fin": 1755,
+      "timecode_debut_extrait": 1740,
+      "timecode_fin_extrait": 1755,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0116_time_1740.00s-1755.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 117,
+      "intervalle_debut": 1755,
+      "intervalle_fin": 1770,
+      "timecode_debut_extrait": 1755,
+      "timecode_fin_extrait": 1770,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0117_time_1755.00s-1770.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 118,
+      "intervalle_debut": 1770,
+      "intervalle_fin": 1785,
+      "timecode_debut_extrait": 1770,
+      "timecode_fin_extrait": 1785,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0118_time_1770.00s-1785.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 42,
+          "start": 1779.571,
+          "end": 1780.781,
+          "text": "O life."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 119,
+      "intervalle_debut": 1785,
+      "intervalle_fin": 1800,
+      "timecode_debut_extrait": 1785,
+      "timecode_fin_extrait": 1800,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0119_time_1785.00s-1800.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 43,
+          "start": 1786.495,
+          "end": 1788.205,
+          "text": "Giver of good."
+        },
+        {
+          "index": 44,
+          "start": 1793.669,
+          "end": 1795.045,
+          "text": "Creating yourself"
+        },
+        {
+          "index": 45,
+          "start": 1798.006,
+          "end": 1800.55,
+          "text": "In evere changing shapes."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 120,
+      "intervalle_debut": 1800,
+      "intervalle_fin": 1815,
+      "timecode_debut_extrait": 1800,
+      "timecode_fin_extrait": 1815,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0120_time_1800.00s-1815.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 46,
+          "start": 1812.02,
+          "end": 1813.397,
+          "text": "You give"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 121,
+      "intervalle_debut": 1815,
+      "intervalle_fin": 1830,
+      "timecode_debut_extrait": 1815,
+      "timecode_fin_extrait": 1830,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0121_time_1815.00s-1830.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 47,
+          "start": 1818.568,
+          "end": 1820.07,
+          "text": "without asking."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 122,
+      "intervalle_debut": 1830,
+      "intervalle_fin": 1845,
+      "timecode_debut_extrait": 1830,
+      "timecode_fin_extrait": 1845,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0122_time_1830.00s-1845.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 123,
+      "intervalle_debut": 1845,
+      "intervalle_fin": 1860,
+      "timecode_debut_extrait": 1845,
+      "timecode_fin_extrait": 1860,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0123_time_1845.00s-1860.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 124,
+      "intervalle_debut": 1860,
+      "intervalle_fin": 1875,
+      "timecode_debut_extrait": 1860,
+      "timecode_fin_extrait": 1875,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0124_time_1860.00s-1875.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 125,
+      "intervalle_debut": 1875,
+      "intervalle_fin": 1890,
+      "timecode_debut_extrait": 1875,
+      "timecode_fin_extrait": 1890,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0125_time_1875.00s-1890.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 126,
+      "intervalle_debut": 1890,
+      "intervalle_fin": 1905,
+      "timecode_debut_extrait": 1890,
+      "timecode_fin_extrait": 1905,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0126_time_1890.00s-1905.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 127,
+      "intervalle_debut": 1905,
+      "intervalle_fin": 1920,
+      "timecode_debut_extrait": 1905,
+      "timecode_fin_extrait": 1920,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0127_time_1905.00s-1920.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 128,
+      "intervalle_debut": 1920,
+      "intervalle_fin": 1935,
+      "timecode_debut_extrait": 1920,
+      "timecode_fin_extrait": 1935,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0128_time_1920.00s-1935.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 129,
+      "intervalle_debut": 1935,
+      "intervalle_fin": 1950,
+      "timecode_debut_extrait": 1935,
+      "timecode_fin_extrait": 1950,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0129_time_1935.00s-1950.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 130,
+      "intervalle_debut": 1950,
+      "intervalle_fin": 1965,
+      "timecode_debut_extrait": 1950,
+      "timecode_fin_extrait": 1965,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0130_time_1950.00s-1965.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 131,
+      "intervalle_debut": 1965,
+      "intervalle_fin": 1980,
+      "timecode_debut_extrait": 1965,
+      "timecode_fin_extrait": 1980,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0131_time_1965.00s-1980.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 132,
+      "intervalle_debut": 1980,
+      "intervalle_fin": 1995,
+      "timecode_debut_extrait": 1980,
+      "timecode_fin_extrait": 1995,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0132_time_1980.00s-1995.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 133,
+      "intervalle_debut": 1995,
+      "intervalle_fin": 2010,
+      "timecode_debut_extrait": 1995,
+      "timecode_fin_extrait": 2010,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0133_time_1995.00s-2010.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 48,
+          "start": 1997.455,
+          "end": 1998.748,
+          "text": "Nature."
+        },
+        {
+          "index": 49,
+          "start": 2007.299,
+          "end": 2009.134,
+          "text": "Who am I to you ?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 134,
+      "intervalle_debut": 2010,
+      "intervalle_fin": 2025,
+      "timecode_debut_extrait": 2010,
+      "timecode_fin_extrait": 2025,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0134_time_2010.00s-2025.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 135,
+      "intervalle_debut": 2025,
+      "intervalle_fin": 2040,
+      "timecode_debut_extrait": 2025,
+      "timecode_fin_extrait": 2040,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0135_time_2025.00s-2040.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 50,
+          "start": 2025.692,
+          "end": 2027.861,
+          "text": "You devour youself"
+        },
+        {
+          "index": 51,
+          "start": 2030.447,
+          "end": 2033.45,
+          "text": "Only to give birth to yourself again."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 136,
+      "intervalle_debut": 2040,
+      "intervalle_fin": 2055,
+      "timecode_debut_extrait": 2040,
+      "timecode_fin_extrait": 2055,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0136_time_2040.00s-2055.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 137,
+      "intervalle_debut": 2055,
+      "intervalle_fin": 2070,
+      "timecode_debut_extrait": 2055,
+      "timecode_fin_extrait": 2070,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0137_time_2055.00s-2070.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 138,
+      "intervalle_debut": 2070,
+      "intervalle_fin": 2085,
+      "timecode_debut_extrait": 2070,
+      "timecode_fin_extrait": 2085,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0138_time_2070.00s-2085.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 139,
+      "intervalle_debut": 2085,
+      "intervalle_fin": 2100,
+      "timecode_debut_extrait": 2085,
+      "timecode_fin_extrait": 2100,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0139_time_2085.00s-2100.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 52,
+          "start": 2093.26,
+          "end": 2095.428,
+          "text": "Will we always be together?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 140,
+      "intervalle_debut": 2100,
+      "intervalle_fin": 2115,
+      "timecode_debut_extrait": 2100,
+      "timecode_fin_extrait": 2115,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0140_time_2100.00s-2115.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 141,
+      "intervalle_debut": 2115,
+      "intervalle_fin": 2130,
+      "timecode_debut_extrait": 2115,
+      "timecode_fin_extrait": 2130,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0141_time_2115.00s-2130.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 53,
+          "start": 2120.412,
+          "end": 2122.455,
+          "text": "O light of love."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 142,
+      "intervalle_debut": 2130,
+      "intervalle_fin": 2145,
+      "timecode_debut_extrait": 2130,
+      "timecode_fin_extrait": 2145,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0142_time_2130.00s-2145.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 54,
+          "start": 2130.839,
+          "end": 2132.674,
+          "text": "Don't be far from me."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 143,
+      "intervalle_debut": 2145,
+      "intervalle_fin": 2160,
+      "timecode_debut_extrait": 2145,
+      "timecode_fin_extrait": 2160,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0143_time_2145.00s-2160.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 144,
+      "intervalle_debut": 2160,
+      "intervalle_fin": 2175,
+      "timecode_debut_extrait": 2160,
+      "timecode_fin_extrait": 2175,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0144_time_2160.00s-2175.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 145,
+      "intervalle_debut": 2175,
+      "intervalle_fin": 2190,
+      "timecode_debut_extrait": 2175,
+      "timecode_fin_extrait": 2190,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0145_time_2175.00s-2190.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 146,
+      "intervalle_debut": 2190,
+      "intervalle_fin": 2205,
+      "timecode_debut_extrait": 2190,
+      "timecode_fin_extrait": 2205,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0146_time_2190.00s-2205.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 147,
+      "intervalle_debut": 2205,
+      "intervalle_fin": 2220,
+      "timecode_debut_extrait": 2205,
+      "timecode_fin_extrait": 2220,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0147_time_2205.00s-2220.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 148,
+      "intervalle_debut": 2220,
+      "intervalle_fin": 2235,
+      "timecode_debut_extrait": 2220,
+      "timecode_fin_extrait": 2235,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0148_time_2220.00s-2235.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 55,
+          "start": 2224.682,
+          "end": 2226.351,
+          "text": "You waken me."
+        },
+        {
+          "index": 56,
+          "start": 2233.191,
+          "end": 2234.984,
+          "text": "endless source."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 149,
+      "intervalle_debut": 2235,
+      "intervalle_fin": 2250,
+      "timecode_debut_extrait": 2235,
+      "timecode_fin_extrait": 2250,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0149_time_2235.00s-2250.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 57,
+          "start": 2239.614,
+          "end": 2241.157,
+          "text": "endless river."
+        },
+        {
+          "index": 58,
+          "start": 2244.869,
+          "end": 2247.455,
+          "text": "shapeless as a cloud."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 150,
+      "intervalle_debut": 2250,
+      "intervalle_fin": 2265,
+      "timecode_debut_extrait": 2250,
+      "timecode_fin_extrait": 2265,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0150_time_2250.00s-2265.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 59,
+          "start": 2260.552,
+          "end": 2262.512,
+          "text": "Mother of all."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 151,
+      "intervalle_debut": 2265,
+      "intervalle_fin": 2280,
+      "timecode_debut_extrait": 2265,
+      "timecode_fin_extrait": 2280,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0151_time_2265.00s-2280.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 60,
+          "start": 2268.268,
+          "end": 2269.644,
+          "text": "from you"
+        },
+        {
+          "index": 61,
+          "start": 2272.48,
+          "end": 2274.732,
+          "text": "all things ascend."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 152,
+      "intervalle_debut": 2280,
+      "intervalle_fin": 2295,
+      "timecode_debut_extrait": 2280,
+      "timecode_fin_extrait": 2295,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0152_time_2280.00s-2295.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 62,
+          "start": 2287.454,
+          "end": 2289.622,
+          "text": "stone flows"
+        },
+        {
+          "index": 63,
+          "start": 2290.582,
+          "end": 2291.541,
+          "text": "like mist."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 153,
+      "intervalle_debut": 2295,
+      "intervalle_fin": 2310,
+      "timecode_debut_extrait": 2295,
+      "timecode_fin_extrait": 2310,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0153_time_2295.00s-2310.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 154,
+      "intervalle_debut": 2310,
+      "intervalle_fin": 2325,
+      "timecode_debut_extrait": 2310,
+      "timecode_fin_extrait": 2325,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0154_time_2310.00s-2325.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 155,
+      "intervalle_debut": 2325,
+      "intervalle_fin": 2340,
+      "timecode_debut_extrait": 2325,
+      "timecode_fin_extrait": 2340,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0155_time_2325.00s-2340.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 156,
+      "intervalle_debut": 2340,
+      "intervalle_fin": 2355,
+      "timecode_debut_extrait": 2340,
+      "timecode_fin_extrait": 2355,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0156_time_2340.00s-2355.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 157,
+      "intervalle_debut": 2355,
+      "intervalle_fin": 2370,
+      "timecode_debut_extrait": 2355,
+      "timecode_fin_extrait": 2370,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0157_time_2355.00s-2370.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 158,
+      "intervalle_debut": 2370,
+      "intervalle_fin": 2385,
+      "timecode_debut_extrait": 2370,
+      "timecode_fin_extrait": 2385,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0158_time_2370.00s-2385.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 159,
+      "intervalle_debut": 2385,
+      "intervalle_fin": 2400,
+      "timecode_debut_extrait": 2385,
+      "timecode_fin_extrait": 2400,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0159_time_2385.00s-2400.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 160,
+      "intervalle_debut": 2400,
+      "intervalle_fin": 2415,
+      "timecode_debut_extrait": 2400,
+      "timecode_fin_extrait": 2415,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0160_time_2400.00s-2415.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 161,
+      "intervalle_debut": 2415,
+      "intervalle_fin": 2430,
+      "timecode_debut_extrait": 2415,
+      "timecode_fin_extrait": 2430,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0161_time_2415.00s-2430.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 64,
+          "start": 2421.546,
+          "end": 2423.59,
+          "text": "The many change"
+        },
+        {
+          "index": 65,
+          "start": 2426.342,
+          "end": 2427.802,
+          "text": "and pass."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 162,
+      "intervalle_debut": 2430,
+      "intervalle_fin": 2445,
+      "timecode_debut_extrait": 2430,
+      "timecode_fin_extrait": 2445,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0162_time_2430.00s-2445.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 66,
+          "start": 2435.602,
+          "end": 2437.103,
+          "text": "You endure."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 163,
+      "intervalle_debut": 2445,
+      "intervalle_fin": 2460,
+      "timecode_debut_extrait": 2445,
+      "timecode_fin_extrait": 2460,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0163_time_2445.00s-2460.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 67,
+          "start": 2446.529,
+          "end": 2448.239,
+          "text": "A living flame"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 164,
+      "intervalle_debut": 2460,
+      "intervalle_fin": 2475,
+      "timecode_debut_extrait": 2460,
+      "timecode_fin_extrait": 2475,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0164_time_2460.00s-2475.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 68,
+          "start": 2464.881,
+          "end": 2466.924,
+          "text": "hidden in all things."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 165,
+      "intervalle_debut": 2475,
+      "intervalle_fin": 2490,
+      "timecode_debut_extrait": 2475,
+      "timecode_fin_extrait": 2490,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0165_time_2475.00s-2490.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 166,
+      "intervalle_debut": 2490,
+      "intervalle_fin": 2505,
+      "timecode_debut_extrait": 2490,
+      "timecode_fin_extrait": 2505,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0166_time_2490.00s-2505.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 167,
+      "intervalle_debut": 2505,
+      "intervalle_fin": 2520,
+      "timecode_debut_extrait": 2505,
+      "timecode_fin_extrait": 2520,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0167_time_2505.00s-2520.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 168,
+      "intervalle_debut": 2520,
+      "intervalle_fin": 2535,
+      "timecode_debut_extrait": 2520,
+      "timecode_fin_extrait": 2535,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0168_time_2520.00s-2535.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 169,
+      "intervalle_debut": 2535,
+      "intervalle_fin": 2550,
+      "timecode_debut_extrait": 2535,
+      "timecode_fin_extrait": 2550,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0169_time_2535.00s-2550.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 69,
+          "start": 2542.542,
+          "end": 2543.876,
+          "text": "Where are you?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 170,
+      "intervalle_debut": 2550,
+      "intervalle_fin": 2565,
+      "timecode_debut_extrait": 2550,
+      "timecode_fin_extrait": 2565,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0170_time_2550.00s-2565.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 171,
+      "intervalle_debut": 2565,
+      "intervalle_fin": 2580,
+      "timecode_debut_extrait": 2565,
+      "timecode_fin_extrait": 2580,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0171_time_2565.00s-2580.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 172,
+      "intervalle_debut": 2580,
+      "intervalle_fin": 2595,
+      "timecode_debut_extrait": 2580,
+      "timecode_fin_extrait": 2595,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0172_time_2580.00s-2595.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 173,
+      "intervalle_debut": 2595,
+      "intervalle_fin": 2610,
+      "timecode_debut_extrait": 2595,
+      "timecode_fin_extrait": 2610,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0173_time_2595.00s-2610.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 174,
+      "intervalle_debut": 2610,
+      "intervalle_fin": 2625,
+      "timecode_debut_extrait": 2610,
+      "timecode_fin_extrait": 2625,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0174_time_2610.00s-2625.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 175,
+      "intervalle_debut": 2625,
+      "intervalle_fin": 2640,
+      "timecode_debut_extrait": 2625,
+      "timecode_fin_extrait": 2640,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0175_time_2625.00s-2640.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 70,
+          "start": 2633.007,
+          "end": 2634.008,
+          "text": "You."
+        },
+        {
+          "index": 71,
+          "start": 2638.012,
+          "end": 2640.264,
+          "text": "Too great to see."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 176,
+      "intervalle_debut": 2640,
+      "intervalle_fin": 2655,
+      "timecode_debut_extrait": 2640,
+      "timecode_fin_extrait": 2655,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0176_time_2640.00s-2655.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 72,
+          "start": 2648.064,
+          "end": 2650.525,
+          "text": "No end to your birth."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 177,
+      "intervalle_debut": 2655,
+      "intervalle_fin": 2670,
+      "timecode_debut_extrait": 2655,
+      "timecode_fin_extrait": 2670,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0177_time_2655.00s-2670.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 73,
+          "start": 2657.782,
+          "end": 2659.492,
+          "text": "Eternal birth."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 178,
+      "intervalle_debut": 2670,
+      "intervalle_fin": 2685,
+      "timecode_debut_extrait": 2670,
+      "timecode_fin_extrait": 2685,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0178_time_2670.00s-2685.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 179,
+      "intervalle_debut": 2685,
+      "intervalle_fin": 2700,
+      "timecode_debut_extrait": 2685,
+      "timecode_fin_extrait": 2700,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0179_time_2685.00s-2700.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 180,
+      "intervalle_debut": 2700,
+      "intervalle_fin": 2715,
+      "timecode_debut_extrait": 2700,
+      "timecode_fin_extrait": 2715,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0180_time_2700.00s-2715.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 181,
+      "intervalle_debut": 2715,
+      "intervalle_fin": 2730,
+      "timecode_debut_extrait": 2715,
+      "timecode_fin_extrait": 2730,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0181_time_2715.00s-2730.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 182,
+      "intervalle_debut": 2730,
+      "intervalle_fin": 2745,
+      "timecode_debut_extrait": 2730,
+      "timecode_fin_extrait": 2745,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0182_time_2730.00s-2745.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 183,
+      "intervalle_debut": 2745,
+      "intervalle_fin": 2760,
+      "timecode_debut_extrait": 2745,
+      "timecode_fin_extrait": 2760,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0183_time_2745.00s-2760.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 74,
+          "start": 2755.63,
+          "end": 2757.548,
+          "text": "What is this world?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 184,
+      "intervalle_debut": 2760,
+      "intervalle_fin": 2775,
+      "timecode_debut_extrait": 2760,
+      "timecode_fin_extrait": 2775,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0184_time_2760.00s-2775.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 75,
+          "start": 2764.513,
+          "end": 2766.182,
+          "text": "The stricken ox."
+        },
+        {
+          "index": 76,
+          "start": 2772.063,
+          "end": 2773.981,
+          "text": "The abandoned child."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 185,
+      "intervalle_debut": 2775,
+      "intervalle_fin": 2790,
+      "timecode_debut_extrait": 2775,
+      "timecode_fin_extrait": 2790,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0185_time_2775.00s-2790.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 77,
+          "start": 2778.653,
+          "end": 2780.029,
+          "text": "The wound."
+        },
+        {
+          "index": 78,
+          "start": 2784.7,
+          "end": 2786.202,
+          "text": "The old woman."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 186,
+      "intervalle_debut": 2790,
+      "intervalle_fin": 2805,
+      "timecode_debut_extrait": 2790,
+      "timecode_fin_extrait": 2805,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0186_time_2790.00s-2805.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 187,
+      "intervalle_debut": 2805,
+      "intervalle_fin": 2820,
+      "timecode_debut_extrait": 2805,
+      "timecode_fin_extrait": 2820,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0187_time_2805.00s-2820.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 79,
+          "start": 2815.523,
+          "end": 2817.441,
+          "text": "might we be decieved?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 188,
+      "intervalle_debut": 2820,
+      "intervalle_fin": 2835,
+      "timecode_debut_extrait": 2820,
+      "timecode_fin_extrait": 2835,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0188_time_2820.00s-2835.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 80,
+          "start": 2831.747,
+          "end": 2833.124,
+          "text": "The soul."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 189,
+      "intervalle_debut": 2835,
+      "intervalle_fin": 2850,
+      "timecode_debut_extrait": 2835,
+      "timecode_fin_extrait": 2850,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0189_time_2835.00s-2850.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 81,
+          "start": 2835.543,
+          "end": 2836.377,
+          "text": "A wish."
+        },
+        {
+          "index": 82,
+          "start": 2840.464,
+          "end": 2841.632,
+          "text": "A dream."
+        },
+        {
+          "index": 83,
+          "start": 2848.848,
+          "end": 2851.183,
+          "text": "And we know nothing."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 190,
+      "intervalle_debut": 2850,
+      "intervalle_fin": 2865,
+      "timecode_debut_extrait": 2850,
+      "timecode_fin_extrait": 2865,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0190_time_2850.00s-2865.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 84,
+          "start": 2863.821,
+          "end": 2865.072,
+          "text": "Blind."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 191,
+      "intervalle_debut": 2865,
+      "intervalle_fin": 2880,
+      "timecode_debut_extrait": 2865,
+      "timecode_fin_extrait": 2880,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0191_time_2865.00s-2880.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 85,
+          "start": 2877.752,
+          "end": 2879.128,
+          "text": "O life."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 192,
+      "intervalle_debut": 2880,
+      "intervalle_fin": 2895,
+      "timecode_debut_extrait": 2880,
+      "timecode_fin_extrait": 2895,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0192_time_2880.00s-2895.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 86,
+          "start": 2886.469,
+          "end": 2888.262,
+          "text": "Hear my voice."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 193,
+      "intervalle_debut": 2895,
+      "intervalle_fin": 2910,
+      "timecode_debut_extrait": 2895,
+      "timecode_fin_extrait": 2910,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0193_time_2895.00s-2910.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 194,
+      "intervalle_debut": 2910,
+      "intervalle_fin": 2925,
+      "timecode_debut_extrait": 2910,
+      "timecode_fin_extrait": 2925,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0194_time_2910.00s-2925.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 195,
+      "intervalle_debut": 2925,
+      "intervalle_fin": 2940,
+      "timecode_debut_extrait": 2925,
+      "timecode_fin_extrait": 2940,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0195_time_2925.00s-2940.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 196,
+      "intervalle_debut": 2940,
+      "intervalle_fin": 2955,
+      "timecode_debut_extrait": 2940,
+      "timecode_fin_extrait": 2955,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0196_time_2940.00s-2955.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 197,
+      "intervalle_debut": 2955,
+      "intervalle_fin": 2970,
+      "timecode_debut_extrait": 2955,
+      "timecode_fin_extrait": 2970,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0197_time_2955.00s-2970.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 87,
+          "start": 2965.923,
+          "end": 2967.174,
+          "text": "Mother."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 198,
+      "intervalle_debut": 2970,
+      "intervalle_fin": 2985,
+      "timecode_debut_extrait": 2970,
+      "timecode_fin_extrait": 2985,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0198_time_2970.00s-2985.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 88,
+          "start": 2973.973,
+          "end": 2976.559,
+          "text": "Does your goodness never fail?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 199,
+      "intervalle_debut": 2985,
+      "intervalle_fin": 3000,
+      "timecode_debut_extrait": 2985,
+      "timecode_fin_extrait": 3000,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0199_time_2985.00s-3000.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 200,
+      "intervalle_debut": 3000,
+      "intervalle_fin": 3015,
+      "timecode_debut_extrait": 3000,
+      "timecode_fin_extrait": 3015,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0200_time_3000.00s-3015.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 89,
+          "start": 3013.262,
+          "end": 3015.014,
+          "text": "Will you abandon me?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 201,
+      "intervalle_debut": 3015,
+      "intervalle_fin": 3030,
+      "timecode_debut_extrait": 3015,
+      "timecode_fin_extrait": 3030,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0201_time_3015.00s-3030.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 202,
+      "intervalle_debut": 3030,
+      "intervalle_fin": 3045,
+      "timecode_debut_extrait": 3030,
+      "timecode_fin_extrait": 3045,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0202_time_3030.00s-3045.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 203,
+      "intervalle_debut": 3045,
+      "intervalle_fin": 3060,
+      "timecode_debut_extrait": 3045,
+      "timecode_fin_extrait": 3060,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0203_time_3045.00s-3060.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 90,
+          "start": 3050.466,
+          "end": 3052.426,
+          "text": "Did love make me?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 204,
+      "intervalle_debut": 3060,
+      "intervalle_fin": 3075,
+      "timecode_debut_extrait": 3060,
+      "timecode_fin_extrait": 3075,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0204_time_3060.00s-3075.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 205,
+      "intervalle_debut": 3075,
+      "intervalle_fin": 3090,
+      "timecode_debut_extrait": 3075,
+      "timecode_fin_extrait": 3090,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0205_time_3075.00s-3090.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 206,
+      "intervalle_debut": 3090,
+      "intervalle_fin": 3105,
+      "timecode_debut_extrait": 3090,
+      "timecode_fin_extrait": 3105,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0206_time_3090.00s-3105.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 207,
+      "intervalle_debut": 3105,
+      "intervalle_fin": 3120,
+      "timecode_debut_extrait": 3105,
+      "timecode_fin_extrait": 3120,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0207_time_3105.00s-3120.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 208,
+      "intervalle_debut": 3120,
+      "intervalle_fin": 3135,
+      "timecode_debut_extrait": 3120,
+      "timecode_fin_extrait": 3135,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0208_time_3120.00s-3135.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 209,
+      "intervalle_debut": 3135,
+      "intervalle_fin": 3150,
+      "timecode_debut_extrait": 3135,
+      "timecode_fin_extrait": 3150,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0209_time_3135.00s-3150.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 210,
+      "intervalle_debut": 3150,
+      "intervalle_fin": 3165,
+      "timecode_debut_extrait": 3150,
+      "timecode_fin_extrait": 3165,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0210_time_3150.00s-3165.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 211,
+      "intervalle_debut": 3165,
+      "intervalle_fin": 3180,
+      "timecode_debut_extrait": 3165,
+      "timecode_fin_extrait": 3180,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0211_time_3165.00s-3180.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 212,
+      "intervalle_debut": 3180,
+      "intervalle_fin": 3195,
+      "timecode_debut_extrait": 3180,
+      "timecode_fin_extrait": 3195,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0212_time_3180.00s-3195.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 213,
+      "intervalle_debut": 3195,
+      "intervalle_fin": 3210,
+      "timecode_debut_extrait": 3195,
+      "timecode_fin_extrait": 3210,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0213_time_3195.00s-3210.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 214,
+      "intervalle_debut": 3210,
+      "intervalle_fin": 3225,
+      "timecode_debut_extrait": 3210,
+      "timecode_fin_extrait": 3225,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0214_time_3210.00s-3225.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 215,
+      "intervalle_debut": 3225,
+      "intervalle_fin": 3240,
+      "timecode_debut_extrait": 3225,
+      "timecode_fin_extrait": 3240,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0215_time_3225.00s-3240.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 216,
+      "intervalle_debut": 3240,
+      "intervalle_fin": 3255,
+      "timecode_debut_extrait": 3240,
+      "timecode_fin_extrait": 3255,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0216_time_3240.00s-3255.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 217,
+      "intervalle_debut": 3255,
+      "intervalle_fin": 3270,
+      "timecode_debut_extrait": 3255,
+      "timecode_fin_extrait": 3270,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0217_time_3255.00s-3270.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 218,
+      "intervalle_debut": 3270,
+      "intervalle_fin": 3285,
+      "timecode_debut_extrait": 3270,
+      "timecode_fin_extrait": 3285,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0218_time_3270.00s-3285.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 219,
+      "intervalle_debut": 3285,
+      "intervalle_fin": 3300,
+      "timecode_debut_extrait": 3285,
+      "timecode_fin_extrait": 3300,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0219_time_3285.00s-3300.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 220,
+      "intervalle_debut": 3300,
+      "intervalle_fin": 3315,
+      "timecode_debut_extrait": 3300,
+      "timecode_fin_extrait": 3315,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0220_time_3300.00s-3315.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 221,
+      "intervalle_debut": 3315,
+      "intervalle_fin": 3330,
+      "timecode_debut_extrait": 3315,
+      "timecode_fin_extrait": 3330,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0221_time_3315.00s-3330.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 222,
+      "intervalle_debut": 3330,
+      "intervalle_fin": 3345,
+      "timecode_debut_extrait": 3330,
+      "timecode_fin_extrait": 3345,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0222_time_3330.00s-3345.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 223,
+      "intervalle_debut": 3345,
+      "intervalle_fin": 3360,
+      "timecode_debut_extrait": 3345,
+      "timecode_fin_extrait": 3360,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0223_time_3345.00s-3360.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 91,
+          "start": 3346.386,
+          "end": 3347.638,
+          "text": "Mother."
+        },
+        {
+          "index": 92,
+          "start": 3354.019,
+          "end": 3355.729,
+          "text": "Where have you gone?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 224,
+      "intervalle_debut": 3360,
+      "intervalle_fin": 3375,
+      "timecode_debut_extrait": 3360,
+      "timecode_fin_extrait": 3375,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0224_time_3360.00s-3375.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 93,
+          "start": 3365.948,
+          "end": 3367.866,
+          "text": "Why are you silent?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 225,
+      "intervalle_debut": 3375,
+      "intervalle_fin": 3390,
+      "timecode_debut_extrait": 3375,
+      "timecode_fin_extrait": 3390,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0225_time_3375.00s-3390.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 94,
+          "start": 3379.628,
+          "end": 3382.339,
+          "text": "Can a mother forget her child?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 226,
+      "intervalle_debut": 3390,
+      "intervalle_fin": 3405,
+      "timecode_debut_extrait": 3390,
+      "timecode_fin_extrait": 3405,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0226_time_3390.00s-3405.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 95,
+          "start": 3396.478,
+          "end": 3398.105,
+          "text": "You do nothing."
+        },
+        {
+          "index": 96,
+          "start": 3402.192,
+          "end": 3403.986,
+          "text": "See nothing wrong."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 227,
+      "intervalle_debut": 3405,
+      "intervalle_fin": 3420,
+      "timecode_debut_extrait": 3405,
+      "timecode_fin_extrait": 3420,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0227_time_3405.00s-3420.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 97,
+          "start": 3417.499,
+          "end": 3419.001,
+          "text": "I fear you."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 228,
+      "intervalle_debut": 3420,
+      "intervalle_fin": 3435,
+      "timecode_debut_extrait": 3420,
+      "timecode_fin_extrait": 3435,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0228_time_3420.00s-3435.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 98,
+          "start": 3424.798,
+          "end": 3427.676,
+          "text": "You, whom I should love."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 229,
+      "intervalle_debut": 3435,
+      "intervalle_fin": 3450,
+      "timecode_debut_extrait": 3435,
+      "timecode_fin_extrait": 3450,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0229_time_3435.00s-3450.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 230,
+      "intervalle_debut": 3450,
+      "intervalle_fin": 3465,
+      "timecode_debut_extrait": 3450,
+      "timecode_fin_extrait": 3465,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0230_time_3450.00s-3465.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 231,
+      "intervalle_debut": 3465,
+      "intervalle_fin": 3480,
+      "timecode_debut_extrait": 3465,
+      "timecode_fin_extrait": 3480,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0231_time_3465.00s-3480.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 232,
+      "intervalle_debut": 3480,
+      "intervalle_fin": 3495,
+      "timecode_debut_extrait": 3480,
+      "timecode_fin_extrait": 3495,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0232_time_3480.00s-3495.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 99,
+          "start": 3484.941,
+          "end": 3486.693,
+          "text": "So much joy."
+        },
+        {
+          "index": 100,
+          "start": 3492.824,
+          "end": 3494.66,
+          "text": "Why not always?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 233,
+      "intervalle_debut": 3495,
+      "intervalle_fin": 3510,
+      "timecode_debut_extrait": 3495,
+      "timecode_fin_extrait": 3510,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0233_time_3495.00s-3510.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 101,
+          "start": 3503.418,
+          "end": 3505.17,
+          "text": "Giver of good."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 234,
+      "intervalle_debut": 3510,
+      "intervalle_fin": 3525,
+      "timecode_debut_extrait": 3510,
+      "timecode_fin_extrait": 3525,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0234_time_3510.00s-3525.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 102,
+          "start": 3515.639,
+          "end": 3516.932,
+          "text": "Life."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 235,
+      "intervalle_debut": 3525,
+      "intervalle_fin": 3540,
+      "timecode_debut_extrait": 3525,
+      "timecode_fin_extrait": 3540,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0235_time_3525.00s-3540.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 236,
+      "intervalle_debut": 3540,
+      "intervalle_fin": 3555,
+      "timecode_debut_extrait": 3540,
+      "timecode_fin_extrait": 3555,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0236_time_3540.00s-3555.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 237,
+      "intervalle_debut": 3555,
+      "intervalle_fin": 3570,
+      "timecode_debut_extrait": 3555,
+      "timecode_fin_extrait": 3570,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0237_time_3555.00s-3570.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 103,
+          "start": 3563.895,
+          "end": 3565.188,
+          "text": "to you"
+        },
+        {
+          "index": 104,
+          "start": 3567.649,
+          "end": 3569.776,
+          "text": "all things flow back."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 238,
+      "intervalle_debut": 3570,
+      "intervalle_fin": 3585,
+      "timecode_debut_extrait": 3570,
+      "timecode_fin_extrait": 3585,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0238_time_3570.00s-3585.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 105,
+          "start": 3579.202,
+          "end": 3580.537,
+          "text": "The bridge."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 239,
+      "intervalle_debut": 3585,
+      "intervalle_fin": 3600,
+      "timecode_debut_extrait": 3585,
+      "timecode_fin_extrait": 3600,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0239_time_3585.00s-3600.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 106,
+          "start": 3586.543,
+          "end": 3587.919,
+          "text": "The gate."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 240,
+      "intervalle_debut": 3600,
+      "intervalle_fin": 3615,
+      "timecode_debut_extrait": 3600,
+      "timecode_fin_extrait": 3615,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0240_time_3600.00s-3615.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 241,
+      "intervalle_debut": 3615,
+      "intervalle_fin": 3630,
+      "timecode_debut_extrait": 3615,
+      "timecode_fin_extrait": 3630,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0241_time_3615.00s-3630.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 242,
+      "intervalle_debut": 3630,
+      "intervalle_fin": 3645,
+      "timecode_debut_extrait": 3630,
+      "timecode_fin_extrait": 3645,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0242_time_3630.00s-3645.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 243,
+      "intervalle_debut": 3645,
+      "intervalle_fin": 3660,
+      "timecode_debut_extrait": 3645,
+      "timecode_fin_extrait": 3660,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0243_time_3645.00s-3660.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 244,
+      "intervalle_debut": 3660,
+      "intervalle_fin": 3675,
+      "timecode_debut_extrait": 3660,
+      "timecode_fin_extrait": 3675,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0244_time_3660.00s-3675.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 245,
+      "intervalle_debut": 3675,
+      "intervalle_fin": 3690,
+      "timecode_debut_extrait": 3675,
+      "timecode_fin_extrait": 3690,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0245_time_3675.00s-3690.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 246,
+      "intervalle_debut": 3690,
+      "intervalle_fin": 3705,
+      "timecode_debut_extrait": 3690,
+      "timecode_fin_extrait": 3705,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0246_time_3690.00s-3705.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 247,
+      "intervalle_debut": 3705,
+      "intervalle_fin": 3720,
+      "timecode_debut_extrait": 3705,
+      "timecode_fin_extrait": 3720,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0247_time_3705.00s-3720.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 107,
+          "start": 3707.163,
+          "end": 3708.498,
+          "text": "O mother."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 248,
+      "intervalle_debut": 3720,
+      "intervalle_fin": 3735,
+      "timecode_debut_extrait": 3720,
+      "timecode_fin_extrait": 3735,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0248_time_3720.00s-3735.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 108,
+          "start": 3720.26,
+          "end": 3722.137,
+          "text": "What did they accomplish?"
+        },
+        {
+          "index": 109,
+          "start": 3726.516,
+          "end": 3727.767,
+          "text": "Sorrow."
+        },
+        {
+          "index": 110,
+          "start": 3732.564,
+          "end": 3733.773,
+          "text": "Pain."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 249,
+      "intervalle_debut": 3735,
+      "intervalle_fin": 3750,
+      "timecode_debut_extrait": 3735,
+      "timecode_fin_extrait": 3750,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0249_time_3735.00s-3750.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 250,
+      "intervalle_debut": 3750,
+      "intervalle_fin": 3765,
+      "timecode_debut_extrait": 3750,
+      "timecode_fin_extrait": 3765,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0250_time_3750.00s-3765.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 251,
+      "intervalle_debut": 3765,
+      "intervalle_fin": 3780,
+      "timecode_debut_extrait": 3765,
+      "timecode_fin_extrait": 3780,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0251_time_3765.00s-3780.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 252,
+      "intervalle_debut": 3780,
+      "intervalle_fin": 3795,
+      "timecode_debut_extrait": 3780,
+      "timecode_fin_extrait": 3795,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0252_time_3780.00s-3795.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 253,
+      "intervalle_debut": 3795,
+      "intervalle_fin": 3810,
+      "timecode_debut_extrait": 3795,
+      "timecode_fin_extrait": 3810,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0253_time_3795.00s-3810.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 254,
+      "intervalle_debut": 3810,
+      "intervalle_fin": 3825,
+      "timecode_debut_extrait": 3810,
+      "timecode_fin_extrait": 3825,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0254_time_3810.00s-3825.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 111,
+          "start": 3815.021,
+          "end": 3816.314,
+          "text": "Time."
+        },
+        {
+          "index": 112,
+          "start": 3824.072,
+          "end": 3825.448,
+          "text": "Ravaging."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 255,
+      "intervalle_debut": 3825,
+      "intervalle_fin": 3840,
+      "timecode_debut_extrait": 3825,
+      "timecode_fin_extrait": 3840,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0255_time_3825.00s-3840.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 113,
+          "start": 3832.58,
+          "end": 3834.332,
+          "text": "Devouring all."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 256,
+      "intervalle_debut": 3840,
+      "intervalle_fin": 3855,
+      "timecode_debut_extrait": 3840,
+      "timecode_fin_extrait": 3855,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0256_time_3840.00s-3855.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 114,
+          "start": 3849.264,
+          "end": 3850.849,
+          "text": "What lasts?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 257,
+      "intervalle_debut": 3855,
+      "intervalle_fin": 3870,
+      "timecode_debut_extrait": 3855,
+      "timecode_fin_extrait": 3870,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0257_time_3855.00s-3870.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 258,
+      "intervalle_debut": 3870,
+      "intervalle_fin": 3885,
+      "timecode_debut_extrait": 3870,
+      "timecode_fin_extrait": 3885,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0258_time_3870.00s-3885.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 259,
+      "intervalle_debut": 3885,
+      "intervalle_fin": 3900,
+      "timecode_debut_extrait": 3885,
+      "timecode_fin_extrait": 3900,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0259_time_3885.00s-3900.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 115,
+          "start": 3890.638,
+          "end": 3892.557,
+          "text": "How do I reach you?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 260,
+      "intervalle_debut": 3900,
+      "intervalle_fin": 3915,
+      "timecode_debut_extrait": 3900,
+      "timecode_fin_extrait": 3915,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0260_time_3900.00s-3915.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 116,
+          "start": 3910.033,
+          "end": 3911.159,
+          "text": "You,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 261,
+      "intervalle_debut": 3915,
+      "intervalle_fin": 3930,
+      "timecode_debut_extrait": 3915,
+      "timecode_fin_extrait": 3930,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0261_time_3915.00s-3930.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 117,
+          "start": 3915.497,
+          "end": 3919.793,
+          "text": "the good towards which all things aspire."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 262,
+      "intervalle_debut": 3930,
+      "intervalle_fin": 3945,
+      "timecode_debut_extrait": 3930,
+      "timecode_fin_extrait": 3945,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0262_time_3930.00s-3945.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 118,
+          "start": 3934.974,
+          "end": 3936.643,
+          "text": "Beyond time."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 263,
+      "intervalle_debut": 3945,
+      "intervalle_fin": 3960,
+      "timecode_debut_extrait": 3945,
+      "timecode_fin_extrait": 3960,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0263_time_3945.00s-3960.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 119,
+          "start": 3945.527,
+          "end": 3947.32,
+          "text": "Beyond sorrow."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 264,
+      "intervalle_debut": 3960,
+      "intervalle_fin": 3975,
+      "timecode_debut_extrait": 3960,
+      "timecode_fin_extrait": 3975,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0264_time_3960.00s-3975.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 265,
+      "intervalle_debut": 3975,
+      "intervalle_fin": 3990,
+      "timecode_debut_extrait": 3975,
+      "timecode_fin_extrait": 3990,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0265_time_3975.00s-3990.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 266,
+      "intervalle_debut": 3990,
+      "intervalle_fin": 4005,
+      "timecode_debut_extrait": 3990,
+      "timecode_fin_extrait": 4005,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0266_time_3990.00s-4005.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 267,
+      "intervalle_debut": 4005,
+      "intervalle_fin": 4020,
+      "timecode_debut_extrait": 4005,
+      "timecode_fin_extrait": 4020,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0267_time_4005.00s-4020.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 268,
+      "intervalle_debut": 4020,
+      "intervalle_fin": 4035,
+      "timecode_debut_extrait": 4020,
+      "timecode_fin_extrait": 4035,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0268_time_4020.00s-4035.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 269,
+      "intervalle_debut": 4035,
+      "intervalle_fin": 4050,
+      "timecode_debut_extrait": 4035,
+      "timecode_fin_extrait": 4050,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0269_time_4035.00s-4050.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 270,
+      "intervalle_debut": 4050,
+      "intervalle_fin": 4065,
+      "timecode_debut_extrait": 4050,
+      "timecode_fin_extrait": 4065,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0270_time_4050.00s-4065.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 271,
+      "intervalle_debut": 4065,
+      "intervalle_fin": 4080,
+      "timecode_debut_extrait": 4065,
+      "timecode_fin_extrait": 4080,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0271_time_4065.00s-4080.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 272,
+      "intervalle_debut": 4080,
+      "intervalle_fin": 4095,
+      "timecode_debut_extrait": 4080,
+      "timecode_fin_extrait": 4095,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0272_time_4080.00s-4095.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 273,
+      "intervalle_debut": 4095,
+      "intervalle_fin": 4110,
+      "timecode_debut_extrait": 4095,
+      "timecode_fin_extrait": 4110,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0273_time_4095.00s-4110.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 274,
+      "intervalle_debut": 4110,
+      "intervalle_fin": 4125,
+      "timecode_debut_extrait": 4110,
+      "timecode_fin_extrait": 4125,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0274_time_4110.00s-4125.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 275,
+      "intervalle_debut": 4125,
+      "intervalle_fin": 4140,
+      "timecode_debut_extrait": 4125,
+      "timecode_fin_extrait": 4140,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0275_time_4125.00s-4140.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 276,
+      "intervalle_debut": 4140,
+      "intervalle_fin": 4155,
+      "timecode_debut_extrait": 4140,
+      "timecode_fin_extrait": 4155,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0276_time_4140.00s-4155.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 277,
+      "intervalle_debut": 4155,
+      "intervalle_fin": 4170,
+      "timecode_debut_extrait": 4155,
+      "timecode_fin_extrait": 4170,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0277_time_4155.00s-4170.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 278,
+      "intervalle_debut": 4170,
+      "intervalle_fin": 4185,
+      "timecode_debut_extrait": 4170,
+      "timecode_fin_extrait": 4185,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0278_time_4170.00s-4185.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 279,
+      "intervalle_debut": 4185,
+      "intervalle_fin": 4200,
+      "timecode_debut_extrait": 4185,
+      "timecode_fin_extrait": 4200,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0279_time_4185.00s-4200.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 280,
+      "intervalle_debut": 4200,
+      "intervalle_fin": 4215,
+      "timecode_debut_extrait": 4200,
+      "timecode_fin_extrait": 4215,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0280_time_4200.00s-4215.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 281,
+      "intervalle_debut": 4215,
+      "intervalle_fin": 4230,
+      "timecode_debut_extrait": 4215,
+      "timecode_fin_extrait": 4230,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0281_time_4215.00s-4230.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 282,
+      "intervalle_debut": 4230,
+      "intervalle_fin": 4245,
+      "timecode_debut_extrait": 4230,
+      "timecode_fin_extrait": 4245,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0282_time_4230.00s-4245.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 283,
+      "intervalle_debut": 4245,
+      "intervalle_fin": 4260,
+      "timecode_debut_extrait": 4245,
+      "timecode_fin_extrait": 4260,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0283_time_4245.00s-4260.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 284,
+      "intervalle_debut": 4260,
+      "intervalle_fin": 4275,
+      "timecode_debut_extrait": 4260,
+      "timecode_fin_extrait": 4275,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0284_time_4260.00s-4275.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 285,
+      "intervalle_debut": 4275,
+      "intervalle_fin": 4290,
+      "timecode_debut_extrait": 4275,
+      "timecode_fin_extrait": 4290,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0285_time_4275.00s-4290.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 286,
+      "intervalle_debut": 4290,
+      "intervalle_fin": 4305,
+      "timecode_debut_extrait": 4290,
+      "timecode_fin_extrait": 4305,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0286_time_4290.00s-4305.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 287,
+      "intervalle_debut": 4305,
+      "intervalle_fin": 4320,
+      "timecode_debut_extrait": 4305,
+      "timecode_fin_extrait": 4320,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0287_time_4305.00s-4320.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 288,
+      "intervalle_debut": 4320,
+      "intervalle_fin": 4335,
+      "timecode_debut_extrait": 4320,
+      "timecode_fin_extrait": 4335,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0288_time_4320.00s-4335.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 289,
+      "intervalle_debut": 4335,
+      "intervalle_fin": 4350,
+      "timecode_debut_extrait": 4335,
+      "timecode_fin_extrait": 4350,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0289_time_4335.00s-4350.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 290,
+      "intervalle_debut": 4350,
+      "intervalle_fin": 4365,
+      "timecode_debut_extrait": 4350,
+      "timecode_fin_extrait": 4365,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0290_time_4350.00s-4365.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 291,
+      "intervalle_debut": 4365,
+      "intervalle_fin": 4380,
+      "timecode_debut_extrait": 4365,
+      "timecode_fin_extrait": 4380,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0291_time_4365.00s-4380.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 292,
+      "intervalle_debut": 4380,
+      "intervalle_fin": 4395,
+      "timecode_debut_extrait": 4380,
+      "timecode_fin_extrait": 4395,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0292_time_4380.00s-4395.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 293,
+      "intervalle_debut": 4395,
+      "intervalle_fin": 4410,
+      "timecode_debut_extrait": 4395,
+      "timecode_fin_extrait": 4410,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0293_time_4395.00s-4410.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 294,
+      "intervalle_debut": 4410,
+      "intervalle_fin": 4425,
+      "timecode_debut_extrait": 4410,
+      "timecode_fin_extrait": 4425,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0294_time_4410.00s-4425.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 295,
+      "intervalle_debut": 4425,
+      "intervalle_fin": 4440,
+      "timecode_debut_extrait": 4425,
+      "timecode_fin_extrait": 4440,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0295_time_4425.00s-4440.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 296,
+      "intervalle_debut": 4440,
+      "intervalle_fin": 4455,
+      "timecode_debut_extrait": 4440,
+      "timecode_fin_extrait": 4455,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0296_time_4440.00s-4455.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 297,
+      "intervalle_debut": 4455,
+      "intervalle_fin": 4470,
+      "timecode_debut_extrait": 4455,
+      "timecode_fin_extrait": 4470,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0297_time_4455.00s-4470.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 298,
+      "intervalle_debut": 4470,
+      "intervalle_fin": 4485,
+      "timecode_debut_extrait": 4470,
+      "timecode_fin_extrait": 4485,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0298_time_4470.00s-4485.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 299,
+      "intervalle_debut": 4485,
+      "intervalle_fin": 4500,
+      "timecode_debut_extrait": 4485,
+      "timecode_fin_extrait": 4500,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0299_time_4485.00s-4500.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 300,
+      "intervalle_debut": 4500,
+      "intervalle_fin": 4515,
+      "timecode_debut_extrait": 4500,
+      "timecode_fin_extrait": 4515,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0300_time_4500.00s-4515.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 301,
+      "intervalle_debut": 4515,
+      "intervalle_fin": 4530,
+      "timecode_debut_extrait": 4515,
+      "timecode_fin_extrait": 4530,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0301_time_4515.00s-4530.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 302,
+      "intervalle_debut": 4530,
+      "intervalle_fin": 4545,
+      "timecode_debut_extrait": 4530,
+      "timecode_fin_extrait": 4545,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0302_time_4530.00s-4545.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 303,
+      "intervalle_debut": 4545,
+      "intervalle_fin": 4560,
+      "timecode_debut_extrait": 4545,
+      "timecode_fin_extrait": 4560,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0303_time_4545.00s-4560.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 304,
+      "intervalle_debut": 4560,
+      "intervalle_fin": 4575,
+      "timecode_debut_extrait": 4560,
+      "timecode_fin_extrait": 4575,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0304_time_4560.00s-4575.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 305,
+      "intervalle_debut": 4575,
+      "intervalle_fin": 4590,
+      "timecode_debut_extrait": 4575,
+      "timecode_fin_extrait": 4590,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0305_time_4575.00s-4590.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 120,
+          "start": 4586.459,
+          "end": 4587.543,
+          "text": "Mother."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 306,
+      "intervalle_debut": 4590,
+      "intervalle_fin": 4605,
+      "timecode_debut_extrait": 4590,
+      "timecode_fin_extrait": 4605,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0306_time_4590.00s-4605.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 121,
+          "start": 4596.51,
+          "end": 4598.22,
+          "text": "What do I love,"
+        },
+        {
+          "index": 122,
+          "start": 4602.391,
+          "end": 4604.143,
+          "text": "when I love you ?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 307,
+      "intervalle_debut": 4605,
+      "intervalle_fin": 4620,
+      "timecode_debut_extrait": 4605,
+      "timecode_fin_extrait": 4620,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0307_time_4605.00s-4620.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 308,
+      "intervalle_debut": 4620,
+      "intervalle_fin": 4635,
+      "timecode_debut_extrait": 4620,
+      "timecode_fin_extrait": 4635,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0308_time_4620.00s-4635.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 123,
+          "start": 4624.83,
+          "end": 4625.873,
+          "text": "You."
+        },
+        {
+          "index": 124,
+          "start": 4630.503,
+          "end": 4631.796,
+          "text": "The light."
+        },
+        {
+          "index": 125,
+          "start": 4634.507,
+          "end": 4635.8,
+          "text": "The dark."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 309,
+      "intervalle_debut": 4635,
+      "intervalle_fin": 4650,
+      "timecode_debut_extrait": 4635,
+      "timecode_fin_extrait": 4650,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0309_time_4635.00s-4650.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 126,
+          "start": 4639.845,
+          "end": 4641.222,
+          "text": "The moth."
+        },
+        {
+          "index": 127,
+          "start": 4644.183,
+          "end": 4645.309,
+          "text": "The flame."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 310,
+      "intervalle_debut": 4650,
+      "intervalle_fin": 4665,
+      "timecode_debut_extrait": 4650,
+      "timecode_fin_extrait": 4665,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0310_time_4650.00s-4665.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 128,
+          "start": 4650.648,
+          "end": 4652.024,
+          "text": "The friend"
+        },
+        {
+          "index": 129,
+          "start": 4654.235,
+          "end": 4655.903,
+          "text": "and the stranger."
+        },
+        {
+          "index": 130,
+          "start": 4661.033,
+          "end": 4662.409,
+          "text": "The wine"
+        },
+        {
+          "index": 131,
+          "start": 4664.161,
+          "end": 4665.079,
+          "text": "and the cup."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 311,
+      "intervalle_debut": 4665,
+      "intervalle_fin": 4680,
+      "timecode_debut_extrait": 4665,
+      "timecode_fin_extrait": 4680,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0311_time_4665.00s-4680.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 132,
+          "start": 4679.718,
+          "end": 4680.928,
+          "text": "The dawn."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 312,
+      "intervalle_debut": 4680,
+      "intervalle_fin": 4695,
+      "timecode_debut_extrait": 4680,
+      "timecode_fin_extrait": 4695,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0312_time_4680.00s-4695.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 133,
+          "start": 4686.725,
+          "end": 4688.143,
+          "text": "Our light."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 313,
+      "intervalle_debut": 4695,
+      "intervalle_fin": 4710,
+      "timecode_debut_extrait": 4695,
+      "timecode_fin_extrait": 4710,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0313_time_4695.00s-4710.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 314,
+      "intervalle_debut": 4710,
+      "intervalle_fin": 4725,
+      "timecode_debut_extrait": 4710,
+      "timecode_fin_extrait": 4725,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0314_time_4710.00s-4725.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 134,
+          "start": 4721.635,
+          "end": 4722.595,
+          "text": "O mother."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 315,
+      "intervalle_debut": 4725,
+      "intervalle_fin": 4740,
+      "timecode_debut_extrait": 4725,
+      "timecode_fin_extrait": 4740,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0315_time_4725.00s-4740.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 135,
+          "start": 4730.311,
+          "end": 4732.438,
+          "text": "The tears you wept."
+        },
+        {
+          "index": 136,
+          "start": 4736.525,
+          "end": 4738.903,
+          "text": "The scenes you've looked on."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 316,
+      "intervalle_debut": 4740,
+      "intervalle_fin": 4755,
+      "timecode_debut_extrait": 4740,
+      "timecode_fin_extrait": 4755,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0316_time_4740.00s-4755.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 137,
+          "start": 4743.908,
+          "end": 4745.326,
+          "text": "Love poured out."
+        },
+        {
+          "index": 138,
+          "start": 4750.539,
+          "end": 4752.166,
+          "text": "The strivings."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 317,
+      "intervalle_debut": 4755,
+      "intervalle_fin": 4770,
+      "timecode_debut_extrait": 4755,
+      "timecode_fin_extrait": 4770,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0317_time_4755.00s-4770.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 139,
+          "start": 4758.547,
+          "end": 4759.924,
+          "text": "Hopes."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 318,
+      "intervalle_debut": 4770,
+      "intervalle_fin": 4785,
+      "timecode_debut_extrait": 4770,
+      "timecode_fin_extrait": 4785,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0318_time_4770.00s-4785.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 319,
+      "intervalle_debut": 4785,
+      "intervalle_fin": 4800,
+      "timecode_debut_extrait": 4785,
+      "timecode_fin_extrait": 4800,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0319_time_4785.00s-4800.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 140,
+          "start": 4796.669,
+          "end": 4799.004,
+          "text": "The shadows flee."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 320,
+      "intervalle_debut": 4800,
+      "intervalle_fin": 4815,
+      "timecode_debut_extrait": 4800,
+      "timecode_fin_extrait": 4815,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0320_time_4800.00s-4815.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 141,
+          "start": 4806.762,
+          "end": 4808.138,
+          "text": "The show."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 321,
+      "intervalle_debut": 4815,
+      "intervalle_fin": 4830,
+      "timecode_debut_extrait": 4815,
+      "timecode_fin_extrait": 4830,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0321_time_4815.00s-4830.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 142,
+          "start": 4820.567,
+          "end": 4824.405,
+          "text": "Time goes back to her source."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 322,
+      "intervalle_debut": 4830,
+      "intervalle_fin": 4845,
+      "timecode_debut_extrait": 4830,
+      "timecode_fin_extrait": 4845,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0322_time_4830.00s-4845.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 323,
+      "intervalle_debut": 4845,
+      "intervalle_fin": 4860,
+      "timecode_debut_extrait": 4845,
+      "timecode_fin_extrait": 4860,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0323_time_4845.00s-4860.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 324,
+      "intervalle_debut": 4860,
+      "intervalle_fin": 4875,
+      "timecode_debut_extrait": 4860,
+      "timecode_fin_extrait": 4875,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0324_time_4860.00s-4875.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 143,
+          "start": 4871.702,
+          "end": 4872.995,
+          "text": "Mother."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 325,
+      "intervalle_debut": 4875,
+      "intervalle_fin": 4890,
+      "timecode_debut_extrait": 4875,
+      "timecode_fin_extrait": 4890,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0325_time_4875.00s-4890.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 144,
+          "start": 4879.543,
+          "end": 4881.42,
+          "text": "I take your hand."
+        },
+        {
+          "index": 145,
+          "start": 4889.303,
+          "end": 4890.763,
+          "text": "I dream no more."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 326,
+      "intervalle_debut": 4890,
+      "intervalle_fin": 4905,
+      "timecode_debut_extrait": 4890,
+      "timecode_fin_extrait": 4905,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0326_time_4890.00s-4905.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 146,
+          "start": 4897.311,
+          "end": 4899.146,
+          "text": "Joined to you."
+        },
+        {
+          "index": 147,
+          "start": 4904.985,
+          "end": 4908.238,
+          "text": "Leaf to branch."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 327,
+      "intervalle_debut": 4905,
+      "intervalle_fin": 4920,
+      "timecode_debut_extrait": 4905,
+      "timecode_fin_extrait": 4920,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0327_time_4905.00s-4920.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 148,
+          "start": 4912.367,
+          "end": 4915.37,
+          "text": "Branch to tree."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 328,
+      "intervalle_debut": 4920,
+      "intervalle_fin": 4935,
+      "timecode_debut_extrait": 4920,
+      "timecode_fin_extrait": 4935,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0328_time_4920.00s-4935.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 149,
+          "start": 4926.131,
+          "end": 4928.717,
+          "text": "Love binds us together."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 329,
+      "intervalle_debut": 4935,
+      "intervalle_fin": 4950,
+      "timecode_debut_extrait": 4935,
+      "timecode_fin_extrait": 4950,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0329_time_4935.00s-4950.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 330,
+      "intervalle_debut": 4950,
+      "intervalle_fin": 4965,
+      "timecode_debut_extrait": 4950,
+      "timecode_fin_extrait": 4965,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0330_time_4950.00s-4965.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 331,
+      "intervalle_debut": 4965,
+      "intervalle_fin": 4980,
+      "timecode_debut_extrait": 4965,
+      "timecode_fin_extrait": 4980,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0331_time_4965.00s-4980.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 150,
+          "start": 4967.172,
+          "end": 4969.216,
+          "text": "What lives in you"
+        },
+        {
+          "index": 151,
+          "start": 4971.009,
+          "end": 4972.219,
+          "text": "can't die."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 332,
+      "intervalle_debut": 4980,
+      "intervalle_fin": 4995,
+      "timecode_debut_extrait": 4980,
+      "timecode_fin_extrait": 4995,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0332_time_4980.00s-4995.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 152,
+          "start": 4984.815,
+          "end": 4986.191,
+          "text": "O life!"
+        },
+        {
+          "index": 153,
+          "start": 4993.866,
+          "end": 4994.999,
+          "text": "Oh mother!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 333,
+      "intervalle_debut": 4995,
+      "intervalle_fin": 5010,
+      "timecode_debut_extrait": 4995,
+      "timecode_fin_extrait": 5010,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0333_time_4995.00s-5010.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 334,
+      "intervalle_debut": 5010,
+      "intervalle_fin": 5025,
+      "timecode_debut_extrait": 5010,
+      "timecode_fin_extrait": 5025,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0334_time_5010.00s-5025.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 335,
+      "intervalle_debut": 5025,
+      "intervalle_fin": 5040,
+      "timecode_debut_extrait": 5025,
+      "timecode_fin_extrait": 5040,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0335_time_5025.00s-5040.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 336,
+      "intervalle_debut": 5040,
+      "intervalle_fin": 5055,
+      "timecode_debut_extrait": 5040,
+      "timecode_fin_extrait": 5055,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0336_time_5040.00s-5055.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 337,
+      "intervalle_debut": 5055,
+      "intervalle_fin": 5070,
+      "timecode_debut_extrait": 5055,
+      "timecode_fin_extrait": 5070,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0337_time_5055.00s-5070.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 338,
+      "intervalle_debut": 5070,
+      "intervalle_fin": 5085,
+      "timecode_debut_extrait": 5070,
+      "timecode_fin_extrait": 5085,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0338_time_5070.00s-5085.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 339,
+      "intervalle_debut": 5085,
+      "intervalle_fin": 5100,
+      "timecode_debut_extrait": 5085,
+      "timecode_fin_extrait": 5100,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0339_time_5085.00s-5100.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 340,
+      "intervalle_debut": 5100,
+      "intervalle_fin": 5115,
+      "timecode_debut_extrait": 5100,
+      "timecode_fin_extrait": 5115,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0340_time_5100.00s-5115.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 341,
+      "intervalle_debut": 5115,
+      "intervalle_fin": 5130,
+      "timecode_debut_extrait": 5115,
+      "timecode_fin_extrait": 5130,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0341_time_5115.00s-5130.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 342,
+      "intervalle_debut": 5130,
+      "intervalle_fin": 5145,
+      "timecode_debut_extrait": 5130,
+      "timecode_fin_extrait": 5145,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0342_time_5130.00s-5145.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 343,
+      "intervalle_debut": 5145,
+      "intervalle_fin": 5160,
+      "timecode_debut_extrait": 5145,
+      "timecode_fin_extrait": 5160,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0343_time_5145.00s-5160.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 344,
+      "intervalle_debut": 5160,
+      "intervalle_fin": 5175,
+      "timecode_debut_extrait": 5160,
+      "timecode_fin_extrait": 5175,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0344_time_5160.00s-5175.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 345,
+      "intervalle_debut": 5175,
+      "intervalle_fin": 5190,
+      "timecode_debut_extrait": 5175,
+      "timecode_fin_extrait": 5190,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0345_time_5175.00s-5190.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 346,
+      "intervalle_debut": 5190,
+      "intervalle_fin": 5205,
+      "timecode_debut_extrait": 5190,
+      "timecode_fin_extrait": 5205,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0346_time_5190.00s-5205.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 347,
+      "intervalle_debut": 5205,
+      "intervalle_fin": 5220,
+      "timecode_debut_extrait": 5205,
+      "timecode_fin_extrait": 5220,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0347_time_5205.00s-5220.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 348,
+      "intervalle_debut": 5220,
+      "intervalle_fin": 5235,
+      "timecode_debut_extrait": 5220,
+      "timecode_fin_extrait": 5235,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0348_time_5220.00s-5235.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 349,
+      "intervalle_debut": 5235,
+      "intervalle_fin": 5250,
+      "timecode_debut_extrait": 5235,
+      "timecode_fin_extrait": 5250,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0349_time_5235.00s-5250.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 350,
+      "intervalle_debut": 5250,
+      "intervalle_fin": 5265,
+      "timecode_debut_extrait": 5250,
+      "timecode_fin_extrait": 5265,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0350_time_5250.00s-5265.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 351,
+      "intervalle_debut": 5265,
+      "intervalle_fin": 5280,
+      "timecode_debut_extrait": 5265,
+      "timecode_fin_extrait": 5280,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0351_time_5265.00s-5280.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 352,
+      "intervalle_debut": 5280,
+      "intervalle_fin": 5295,
+      "timecode_debut_extrait": 5280,
+      "timecode_fin_extrait": 5295,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0352_time_5280.00s-5295.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 353,
+      "intervalle_debut": 5295,
+      "intervalle_fin": 5310,
+      "timecode_debut_extrait": 5295,
+      "timecode_fin_extrait": 5310,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0353_time_5295.00s-5310.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 354,
+      "intervalle_debut": 5310,
+      "intervalle_fin": 5325,
+      "timecode_debut_extrait": 5310,
+      "timecode_fin_extrait": 5325,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0354_time_5310.00s-5325.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 355,
+      "intervalle_debut": 5325,
+      "intervalle_fin": 5334.005,
+      "timecode_debut_extrait": 5325,
+      "timecode_fin_extrait": 5334.005,
+      "video_path": "analyse\\videos\\Voyage of Time Life's Journey (2016) 1080p BRRip x264 -YTS\\interval_0355_time_5325.00s-5334.01s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    }
+  ]
+}
