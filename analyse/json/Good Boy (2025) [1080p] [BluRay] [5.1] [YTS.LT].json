@@ -1,0 +1,5537 @@
+{
+  "movie_id": "Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]",
+  "movie_path": "E:\\film_oral\\Good Boy (2025)\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT].mp4",
+  "subtitle_path": "E:\\film_oral\\Good Boy (2025)\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT].en.srt",
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 296,
+  "dossier_videos": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]",
+  "date_traitement": "2026-02-18T22:01:14.568750",
+  "stats_extraction": {
+    "total": 296,
+    "reussis": 296,
+    "echecs": 0,
+    "timeouts": 0,
+    "gpu_errors": 0,
+    "cpu_fallbacks": 0
+  },
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": "﻿1",
+          "start": 120.801,
+          "end": 123.318,
+          "text": "Dude, you have to pick up your phone!"
+        },
+        {
+          "index": 2,
+          "start": 124.629,
+          "end": 126.87,
+          "text": "Todd?"
+        },
+        {
+          "index": 3,
+          "start": 126.974,
+          "end": 128.387,
+          "text": "Oh, my..."
+        },
+        {
+          "index": 4,
+          "start": 128.49,
+          "end": 130.801,
+          "text": "Okay, Todd. Uh..."
+        },
+        {
+          "index": 5,
+          "start": 130.905,
+          "end": 134.49,
+          "text": "Uh, hi. Um, I need help. I need an ambulance."
+        },
+        {
+          "index": 6,
+          "start": 134.594,
+          "end": 136.801,
+          "text": "My brother isn't breathing."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 7,
+          "start": 137.318,
+          "end": 140.352,
+          "text": "Uh, no, no, he's not-- he's not responding."
+        },
+        {
+          "index": 8,
+          "start": 140.456,
+          "end": 142.421,
+          "text": "He's unconscious. I..."
+        },
+        {
+          "index": 9,
+          "start": 142.525,
+          "end": 144.111,
+          "text": "I don't know. I don't know. I just--"
+        },
+        {
+          "index": 10,
+          "start": 144.214,
+          "end": 146.421,
+          "text": "I just found him like this. Something is really wrong."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 11,
+          "start": 160.318,
+          "end": 162.043,
+          "text": "Go get it. Go get it."
+        },
+        {
+          "index": 12,
+          "start": 163.145,
+          "end": 164.801,
+          "text": "Yeah. Fetch it up."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 13,
+          "start": 166.249,
+          "end": 168.56,
+          "text": "What's up, man? What are you looking at?"
+        },
+        {
+          "index": 14,
+          "start": 171.939,
+          "end": 176.836,
+          "text": "Who's my bestest friend? You? Is it you?"
+        },
+        {
+          "index": 15,
+          "start": 176.939,
+          "end": 179.387,
+          "text": "You're so cute! I could die!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 16,
+          "start": 187.008,
+          "end": 189.076,
+          "text": "Silly boy!"
+        },
+        {
+          "index": 17,
+          "start": 190.732,
+          "end": 193.525,
+          "text": "Aww! You're so cute!"
+        },
+        {
+          "index": 18,
+          "start": 193.629,
+          "end": 195.594,
+          "text": "What? Too scary for you?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 19,
+          "start": 195.698,
+          "end": 197.214,
+          "text": "Indy! Come on!"
+        },
+        {
+          "index": 20,
+          "start": 197.318,
+          "end": 198.905,
+          "text": "There's nothing there!"
+        },
+        {
+          "index": 21,
+          "start": 201.421,
+          "end": 202.939,
+          "text": "Look who's here!"
+        },
+        {
+          "index": 22,
+          "start": 203.043,
+          "end": 206.352,
+          "text": "Aww. There's my bestest friend. Look at him. Look at him."
+        },
+        {
+          "index": 23,
+          "start": 206.456,
+          "end": 208.214,
+          "text": "Look at that big boy."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 24,
+          "start": 210.318,
+          "end": 212.732,
+          "text": "Is that Papa?"
+        },
+        {
+          "index": 25,
+          "start": 212.836,
+          "end": 215.629,
+          "text": "Who's that?"
+        },
+        {
+          "index": 26,
+          "start": 215.732,
+          "end": 217.767,
+          "text": "He's free!"
+        },
+        {
+          "index": 27,
+          "start": 217.87,
+          "end": 222.283,
+          "text": "Oh, the boys are back!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 28,
+          "start": 252.49,
+          "end": 254.594,
+          "text": "Okay."
+        },
+        {
+          "index": 29,
+          "start": 254.698,
+          "end": 258.56,
+          "text": "Nope. Stay here, boy. Stay. Sit."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 30,
+          "start": 259.456,
+          "end": 261.629,
+          "text": "Good boy. Stay."
+        },
+        {
+          "index": 31,
+          "start": 263.456,
+          "end": 264.801,
+          "text": "Hey, sis. Question for you."
+        },
+        {
+          "index": 32,
+          "start": 264.905,
+          "end": 266.49,
+          "text": "<i>Todd, what the hell is going on?</i>"
+        },
+        {
+          "index": 33,
+          "start": 266.594,
+          "end": 268.387,
+          "text": "- Nothing. <i>- I'm standing in your</i>"
+        },
+        {
+          "index": 34,
+          "start": 268.49,
+          "end": 269.698,
+          "text": "<i>empty apartment right now.</i>"
+        },
+        {
+          "index": 35,
+          "start": 269.801,
+          "end": 271.456,
+          "text": "Oh, yeah. That's why I called."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 36,
+          "start": 271.56,
+          "end": 272.87,
+          "text": "Um, I decided to get out of town for a bit."
+        },
+        {
+          "index": 37,
+          "start": 272.974,
+          "end": 275.801,
+          "text": "Do you know where Grandpa hid the gate key?"
+        },
+        {
+          "index": 38,
+          "start": 275.905,
+          "end": 278.008,
+          "text": "<i>You're at Grandpa's?</i>"
+        },
+        {
+          "index": 39,
+          "start": 278.111,
+          "end": 279.421,
+          "text": "Do you know where he hid the key or not?"
+        },
+        {
+          "index": 40,
+          "start": 279.525,
+          "end": 281.145,
+          "text": "<i>Are you out of your mind?!</i>"
+        },
+        {
+          "index": 41,
+          "start": 281.249,
+          "end": 283.387,
+          "text": "<i>There is no way that the doctor said this was okay!</i>"
+        },
+        {
+          "index": 42,
+          "start": 283.49,
+          "end": 285.076,
+          "text": "They discharged me, didn't they?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 43,
+          "start": 285.18,
+          "end": 287.283,
+          "text": "<i>To go home, idiot!</i>"
+        },
+        {
+          "index": 44,
+          "start": 287.387,
+          "end": 289.421,
+          "text": "<i>You can't just go wherever the hell you want anymore!</i>"
+        },
+        {
+          "index": 45,
+          "start": 289.525,
+          "end": 291.387,
+          "text": "They keys, Vera. Where are the keys?"
+        },
+        {
+          "index": 46,
+          "start": 291.49,
+          "end": 293.387,
+          "text": "<i>- Why Grandpa's?</i> - Why not?"
+        },
+        {
+          "index": 47,
+          "start": 298.421,
+          "end": 301.594,
+          "text": "Exactly. It's available. I'm not bothering anybody."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 48,
+          "start": 301.698,
+          "end": 304.767,
+          "text": "I needed a break. This could be good for me."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 49,
+          "start": 316.008,
+          "end": 317.456,
+          "text": "Found 'em!"
+        },
+        {
+          "index": 50,
+          "start": 317.56,
+          "end": 319.594,
+          "text": "<i>Okay, I need you close in case something goes wrong.</i>"
+        },
+        {
+          "index": 51,
+          "start": 319.698,
+          "end": 321.283,
+          "text": "I gotta go. Call me when you calm down."
+        },
+        {
+          "index": 52,
+          "start": 321.387,
+          "end": 323.456,
+          "text": "<i>Wait! Wait, wait! Just tell me that you're oka--</i>"
+        },
+        {
+          "index": 53,
+          "start": 328.49,
+          "end": 330.629,
+          "text": "Enough of that."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 54,
+          "start": 330.732,
+          "end": 333.076,
+          "text": "Let's go."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 55,
+          "start": 359.008,
+          "end": 360.87,
+          "text": "<i>There'll be a lot of cleaning up to do</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 56,
+          "start": 360.974,
+          "end": 362.87,
+          "text": "<i>because of the weather over the next couple of days.</i>"
+        },
+        {
+          "index": 57,
+          "start": 362.974,
+          "end": 364.767,
+          "text": "<i>It should help out that at least Thursday</i>"
+        },
+        {
+          "index": 58,
+          "start": 364.87,
+          "end": 366.594,
+          "text": "<i>and Friday will be dryer.</i>"
+        },
+        {
+          "index": 59,
+          "start": 366.698,
+          "end": 369.767,
+          "text": "<i>More rain comes in on Friday night...</i>"
+        },
+        {
+          "index": 60,
+          "start": 369.767,
+          "end": 399.767,
+          "text": "<b>Subtitle | www.movieddl.me</b>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 61,
+          "start": 435.318,
+          "end": 437.352,
+          "text": "Come on, bud. Let's go."
+        },
+        {
+          "index": 62,
+          "start": 438.836,
+          "end": 440.594,
+          "text": "Come on, scaredy pants."
+        },
+        {
+          "index": 63,
+          "start": 442.456,
+          "end": 444.076,
+          "text": "It's not that bad."
+        },
+        {
+          "index": 64,
+          "start": 445.318,
+          "end": 446.698,
+          "text": "Come on, buddy."
+        },
+        {
+          "index": 65,
+          "start": 447.767,
+          "end": 450.732,
+          "text": "You coming out or not?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0030_time_450.00s-465.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 66,
+          "start": 454.318,
+          "end": 458.387,
+          "text": "There we go! Okay."
+        },
+        {
+          "index": 67,
+          "start": 458.49,
+          "end": 461.043,
+          "text": "This way. Come on."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 68,
+          "start": 516.18,
+          "end": 518.043,
+          "text": "Come on, bud."
+        },
+        {
+          "index": 69,
+          "start": 521.283,
+          "end": 523.076,
+          "text": "Okay."
+        },
+        {
+          "index": 70,
+          "start": 523.18,
+          "end": 524.18,
+          "text": "Welcome home."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 71,
+          "start": 525.698,
+          "end": 527.043,
+          "text": "I know!"
+        },
+        {
+          "index": 72,
+          "start": 527.145,
+          "end": 529.836,
+          "text": "But it beats the hospital, right?"
+        },
+        {
+          "index": 73,
+          "start": 536.56,
+          "end": 538.283,
+          "text": "Wait here."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 585,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0039_time_585.00s-600.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "timecode_debut_extrait": 600,
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0040_time_600.00s-615.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 74,
+          "start": 605.18,
+          "end": 606.939,
+          "text": "Ohh! Man!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 630,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0041_time_615.00s-630.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 75,
+          "start": 622.974,
+          "end": 624.421,
+          "text": "Okay."
+        },
+        {
+          "index": 76,
+          "start": 624.525,
+          "end": 626.49,
+          "text": "Ohh! Yes."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "timecode_debut_extrait": 630,
+      "timecode_fin_extrait": 645,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0042_time_630.00s-645.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 77,
+          "start": 633.801,
+          "end": 636.421,
+          "text": "Something smells awful down here."
+        },
+        {
+          "index": 78,
+          "start": 636.525,
+          "end": 638.836,
+          "text": "Glad I don't have <i>your</i> nose."
+        },
+        {
+          "index": 79,
+          "start": 640.456,
+          "end": 642.249,
+          "text": "Come on, bud."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "timecode_debut_extrait": 645,
+      "timecode_fin_extrait": 660,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0043_time_645.00s-660.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 80,
+          "start": 648.214,
+          "end": 650.732,
+          "text": "<i>So, how long have you been planning this?</i>"
+        },
+        {
+          "index": 81,
+          "start": 650.836,
+          "end": 654.767,
+          "text": "Planning? No planning. It wasn't some big thing, Vera."
+        },
+        {
+          "index": 82,
+          "start": 654.87,
+          "end": 656.525,
+          "text": "<i>- The red light's on.</i> - I just needed to go."
+        },
+        {
+          "index": 83,
+          "start": 656.629,
+          "end": 658.732,
+          "text": "<i>Hm. No. Yeah. That totally makes sense.</i>"
+        },
+        {
+          "index": 84,
+          "start": 658.836,
+          "end": 662.49,
+          "text": "<i>The cursed family house is a great place to relax.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "timecode_debut_extrait": 660,
+      "timecode_fin_extrait": 675,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0044_time_660.00s-675.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 85,
+          "start": 662.594,
+          "end": 665.111,
+          "text": "It's not really how I remember it."
+        },
+        {
+          "index": 86,
+          "start": 665.214,
+          "end": 666.836,
+          "text": "<i>Oh, yeah. Creepier?</i>"
+        },
+        {
+          "index": 87,
+          "start": 666.939,
+          "end": 668.629,
+          "text": "Not exactly. It's just..."
+        },
+        {
+          "index": 88,
+          "start": 668.732,
+          "end": 670.594,
+          "text": "You think \"house in the woods\" sounds so peaceful."
+        },
+        {
+          "index": 89,
+          "start": 670.698,
+          "end": 672.732,
+          "text": "Wait. Is that Indy?"
+        },
+        {
+          "index": 90,
+          "start": 672.836,
+          "end": 674.525,
+          "text": "No. Old home movie."
+        },
+        {
+          "index": 91,
+          "start": 674.629,
+          "end": 676.214,
+          "text": "Grandpa's playing fetch with Bandit."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "timecode_debut_extrait": 675,
+      "timecode_fin_extrait": 690,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0045_time_675.00s-690.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 92,
+          "start": 676.318,
+          "end": 677.352,
+          "text": "You remember that dog?"
+        },
+        {
+          "index": 93,
+          "start": 677.456,
+          "end": 678.87,
+          "text": "<i>Uh, kinda.</i>"
+        },
+        {
+          "index": 94,
+          "start": 678.974,
+          "end": 680.939,
+          "text": "<i>But didn't Grandpa just have a ton of dogs?</i>"
+        },
+        {
+          "index": 95,
+          "start": 681.043,
+          "end": 683.56,
+          "text": "Yeah, but they all just kept running away."
+        },
+        {
+          "index": 96,
+          "start": 683.663,
+          "end": 685.525,
+          "text": "Indy, on the other hand, never leaves my side."
+        },
+        {
+          "index": 97,
+          "start": 685.629,
+          "end": 687.283,
+          "text": "I can't poop without a witness."
+        },
+        {
+          "index": 98,
+          "start": 687.387,
+          "end": 689.939,
+          "text": "<i>Eww! Don't tell me that. I don't need to know that.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "timecode_debut_extrait": 690,
+      "timecode_fin_extrait": 705,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0046_time_690.00s-705.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 99,
+          "start": 691.698,
+          "end": 693.905,
+          "text": "Grandpa had a ton of these VHS tapes."
+        },
+        {
+          "index": 100,
+          "start": 694.008,
+          "end": 697.698,
+          "text": "Mostly this and shitty horror films."
+        },
+        {
+          "index": 101,
+          "start": 697.801,
+          "end": 700.111,
+          "text": "I think he was taping over them."
+        },
+        {
+          "index": 102,
+          "start": 700.214,
+          "end": 702.56,
+          "text": "<i>What's the point of making a home movie if you live alone?</i>"
+        },
+        {
+          "index": 103,
+          "start": 702.663,
+          "end": 704.767,
+          "text": "No idea."
+        },
+        {
+          "index": 104,
+          "start": 704.87,
+          "end": 706.594,
+          "text": "<i>Can you tell there's something wrong with him?</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "timecode_debut_extrait": 705,
+      "timecode_fin_extrait": 720,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0047_time_705.00s-720.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 105,
+          "start": 706.698,
+          "end": 708.56,
+          "text": "Wrong with who?"
+        },
+        {
+          "index": 106,
+          "start": 708.663,
+          "end": 710.87,
+          "text": "<i>With Grandpa. On the tape.</i>"
+        },
+        {
+          "index": 107,
+          "start": 710.974,
+          "end": 714.249,
+          "text": "Not at all. He seems happy."
+        },
+        {
+          "index": 108,
+          "start": 714.974,
+          "end": 718.076,
+          "text": "<i>Well, that's how Grandpa's generation did it, you know?</i>"
+        },
+        {
+          "index": 109,
+          "start": 718.18,
+          "end": 719.767,
+          "text": "<i>Put on a happy face,</i>"
+        },
+        {
+          "index": 110,
+          "start": 719.87,
+          "end": 722.801,
+          "text": "<i>even when you're rotting from the inside out, right?</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "timecode_debut_extrait": 720,
+      "timecode_fin_extrait": 735,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0048_time_720.00s-735.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 111,
+          "start": 724.456,
+          "end": 726.56,
+          "text": "<i>I guess living in a haunted house takes your mind off it.</i>"
+        },
+        {
+          "index": 112,
+          "start": 726.663,
+          "end": 728.663,
+          "text": "The house isn't haunted, Vera."
+        },
+        {
+          "index": 113,
+          "start": 728.767,
+          "end": 731.145,
+          "text": "<i>Oh, yeah? No one has lived there for more than a few weeks.</i>"
+        },
+        {
+          "index": 114,
+          "start": 731.249,
+          "end": 734.56,
+          "text": "- Grandpa did. <i>- Yeah, and it killed him.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "timecode_debut_extrait": 735,
+      "timecode_fin_extrait": 750,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0049_time_735.00s-750.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 115,
+          "start": 736.698,
+          "end": 739.421,
+          "text": "<i>Look, uh... you just have to promise me</i>"
+        },
+        {
+          "index": 116,
+          "start": 739.525,
+          "end": 741.318,
+          "text": "<i>that at the first sign of relapse,</i>"
+        },
+        {
+          "index": 117,
+          "start": 741.421,
+          "end": 744.594,
+          "text": "<i>you're gonna get in that car and you are coming back.</i>"
+        },
+        {
+          "index": 118,
+          "start": 744.698,
+          "end": 746.801,
+          "text": "Okay. Sure. But the rehab promised me..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "timecode_debut_extrait": 750,
+      "timecode_fin_extrait": 765,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0050_time_750.00s-765.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 119,
+          "start": 750.318,
+          "end": 751.836,
+          "text": "<i>Okay.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "timecode_debut_extrait": 765,
+      "timecode_fin_extrait": 780,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0051_time_765.00s-780.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "timecode_debut_extrait": 780,
+      "timecode_fin_extrait": 795,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0052_time_780.00s-795.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "timecode_debut_extrait": 795,
+      "timecode_fin_extrait": 810,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0053_time_795.00s-810.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "timecode_debut_extrait": 810,
+      "timecode_fin_extrait": 825,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0054_time_810.00s-825.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "timecode_debut_extrait": 825,
+      "timecode_fin_extrait": 840,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0055_time_825.00s-840.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 120,
+          "start": 835.387,
+          "end": 837.352,
+          "text": "God damn it!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "timecode_debut_extrait": 840,
+      "timecode_fin_extrait": 855,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0056_time_840.00s-855.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "timecode_debut_extrait": 855,
+      "timecode_fin_extrait": 870,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0057_time_855.00s-870.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "timecode_debut_extrait": 870,
+      "timecode_fin_extrait": 885,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0058_time_870.00s-885.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 121,
+          "start": 881.939,
+          "end": 883.043,
+          "text": "Hey, man."
+        },
+        {
+          "index": 122,
+          "start": 884.732,
+          "end": 887.076,
+          "text": "What's going on?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "timecode_debut_extrait": 885,
+      "timecode_fin_extrait": 900,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0059_time_885.00s-900.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 123,
+          "start": 895.698,
+          "end": 897.87,
+          "text": "Alright. Let's go."
+        },
+        {
+          "index": 124,
+          "start": 897.974,
+          "end": 899.56,
+          "text": "Come on."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "timecode_debut_extrait": 900,
+      "timecode_fin_extrait": 915,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0060_time_900.00s-915.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 125,
+          "start": 900.836,
+          "end": 903.214,
+          "text": "Come on. Come on."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "timecode_debut_extrait": 915,
+      "timecode_fin_extrait": 930,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0061_time_915.00s-930.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "timecode_debut_extrait": 930,
+      "timecode_fin_extrait": 945,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0062_time_930.00s-945.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "timecode_debut_extrait": 945,
+      "timecode_fin_extrait": 960,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0063_time_945.00s-960.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "timecode_debut_extrait": 960,
+      "timecode_fin_extrait": 975,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0064_time_960.00s-975.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "timecode_debut_extrait": 975,
+      "timecode_fin_extrait": 990,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0065_time_975.00s-990.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 126,
+          "start": 979.49,
+          "end": 981.111,
+          "text": "What?"
+        },
+        {
+          "index": 127,
+          "start": 983.87,
+          "end": 986.076,
+          "text": "Yeah. I know. It's creepy."
+        },
+        {
+          "index": 128,
+          "start": 986.18,
+          "end": 988.732,
+          "text": "It's all my family buried under here."
+        },
+        {
+          "index": 129,
+          "start": 988.836,
+          "end": 990.456,
+          "text": "Come on."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "timecode_debut_extrait": 990,
+      "timecode_fin_extrait": 1005,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0066_time_990.00s-1005.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 130,
+          "start": 994.87,
+          "end": 997.318,
+          "text": "They all died pretty young, too."
+        },
+        {
+          "index": 131,
+          "start": 1004.87,
+          "end": 1008.008,
+          "text": "Whoa. Stay here, boy."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "timecode_debut_extrait": 1005,
+      "timecode_fin_extrait": 1020,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0067_time_1005.00s-1020.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "timecode_debut_extrait": 1020,
+      "timecode_fin_extrait": 1035,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0068_time_1020.00s-1035.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1035,
+      "timecode_fin_extrait": 1050,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0069_time_1035.00s-1050.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "timecode_debut_extrait": 1050,
+      "timecode_fin_extrait": 1065,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0070_time_1050.00s-1065.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "timecode_debut_extrait": 1065,
+      "timecode_fin_extrait": 1080,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0071_time_1065.00s-1080.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 132,
+          "start": 1070.698,
+          "end": 1072.249,
+          "text": "Here, boy."
+        },
+        {
+          "index": 133,
+          "start": 1075.974,
+          "end": 1078.421,
+          "text": "What the hell are you doing out here?"
+        },
+        {
+          "index": 134,
+          "start": 1078.525,
+          "end": 1080.283,
+          "text": "Uh, excuse me?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "timecode_debut_extrait": 1080,
+      "timecode_fin_extrait": 1095,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0072_time_1080.00s-1095.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 135,
+          "start": 1080.387,
+          "end": 1082.767,
+          "text": "You should be more careful."
+        },
+        {
+          "index": 136,
+          "start": 1082.87,
+          "end": 1084.767,
+          "text": "It's fox huntin' season."
+        },
+        {
+          "index": 137,
+          "start": 1084.87,
+          "end": 1087.974,
+          "text": "I've got traps and snares all over these woods."
+        },
+        {
+          "index": 138,
+          "start": 1088.076,
+          "end": 1090.974,
+          "text": "Is that Mr. Downs?"
+        },
+        {
+          "index": 139,
+          "start": 1091.076,
+          "end": 1093.318,
+          "text": "Good to see you all grown up."
+        },
+        {
+          "index": 140,
+          "start": 1093.421,
+          "end": 1097.525,
+          "text": "How long will you be staying with us out here in the boonies?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "timecode_debut_extrait": 1095,
+      "timecode_fin_extrait": 1110,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0073_time_1095.00s-1110.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 141,
+          "start": 1097.629,
+          "end": 1099.801,
+          "text": "Well, indefinitely. I gave up my old place."
+        },
+        {
+          "index": 142,
+          "start": 1099.905,
+          "end": 1101.56,
+          "text": "Taking over Grandpa's."
+        },
+        {
+          "index": 143,
+          "start": 1101.663,
+          "end": 1102.87,
+          "text": "You staying in that place?"
+        },
+        {
+          "index": 144,
+          "start": 1102.974,
+          "end": 1104.836,
+          "text": "- Yeah. What? - Nothing."
+        },
+        {
+          "index": 145,
+          "start": 1104.939,
+          "end": 1107.525,
+          "text": "I just pray for you after everything,"
+        },
+        {
+          "index": 146,
+          "start": 1107.629,
+          "end": 1109.525,
+          "text": "the way your grandpa died."
+        },
+        {
+          "index": 147,
+          "start": 1109.629,
+          "end": 1111.145,
+          "text": "Well, we're gonna make it our own."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "timecode_debut_extrait": 1110,
+      "timecode_fin_extrait": 1125,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0074_time_1110.00s-1125.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 148,
+          "start": 1111.249,
+          "end": 1114.008,
+          "text": "Just gotta clear it out, get the electric going."
+        },
+        {
+          "index": 149,
+          "start": 1114.111,
+          "end": 1116.732,
+          "text": "I got an old generator if you need it."
+        },
+        {
+          "index": 150,
+          "start": 1116.836,
+          "end": 1120.249,
+          "text": "I'm just down the hill. Come by any time you need help."
+        },
+        {
+          "index": 151,
+          "start": 1121.594,
+          "end": 1124.905,
+          "text": "Your grandpa was out here with his dog, too."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "timecode_debut_extrait": 1125,
+      "timecode_fin_extrait": 1140,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0075_time_1125.00s-1140.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 152,
+          "start": 1127.008,
+          "end": 1131.076,
+          "text": "After we found his body, we never did find that dog."
+        },
+        {
+          "index": 153,
+          "start": 1137.008,
+          "end": 1138.801,
+          "text": "Am I crazy?"
+        },
+        {
+          "index": 154,
+          "start": 1138.905,
+          "end": 1141.008,
+          "text": "It's nice here, right?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "timecode_debut_extrait": 1140,
+      "timecode_fin_extrait": 1155,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0076_time_1140.00s-1155.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 155,
+          "start": 1142.56,
+          "end": 1144.939,
+          "text": "Right?"
+        },
+        {
+          "index": 156,
+          "start": 1145.043,
+          "end": 1147.87,
+          "text": "Indy? Right?"
+        },
+        {
+          "index": 157,
+          "start": 1153.283,
+          "end": 1155.111,
+          "text": "Yeah. You get it."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "timecode_debut_extrait": 1155,
+      "timecode_fin_extrait": 1170,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0077_time_1155.00s-1170.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 158,
+          "start": 1157.249,
+          "end": 1158.767,
+          "text": "Alright."
+        },
+        {
+          "index": 159,
+          "start": 1160.905,
+          "end": 1163.421,
+          "text": "You're sure you know how to set this up?"
+        },
+        {
+          "index": 160,
+          "start": 1163.525,
+          "end": 1165.456,
+          "text": "Electric for old houses is pretty tough."
+        },
+        {
+          "index": 161,
+          "start": 1165.56,
+          "end": 1168.008,
+          "text": "Yeah. I got it. Thank you, though."
+        },
+        {
+          "index": 162,
+          "start": 1168.111,
+          "end": 1169.387,
+          "text": "Okay."
+        },
+        {
+          "index": 163,
+          "start": 1169.49,
+          "end": 1170.629,
+          "text": "Just make sure you get it running"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "timecode_debut_extrait": 1170,
+      "timecode_fin_extrait": 1185,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0078_time_1170.00s-1185.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 164,
+          "start": 1170.732,
+          "end": 1172.214,
+          "text": "before this weather rolls in."
+        },
+        {
+          "index": 165,
+          "start": 1172.318,
+          "end": 1173.939,
+          "text": "Not really safe when it's wet."
+        },
+        {
+          "index": 166,
+          "start": 1174.043,
+          "end": 1176.663,
+          "text": "Yeah. No problem. Have a good night."
+        },
+        {
+          "index": 167,
+          "start": 1178.008,
+          "end": 1180.076,
+          "text": "Take care!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1185,
+      "timecode_fin_extrait": 1200,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0079_time_1185.00s-1200.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 168,
+          "start": 1187.905,
+          "end": 1189.698,
+          "text": "<i>Just out of curiosity,</i>"
+        },
+        {
+          "index": 169,
+          "start": 1189.801,
+          "end": 1192.698,
+          "text": "<i>have you noticed Indy acting weird lately?</i>"
+        },
+        {
+          "index": 170,
+          "start": 1192.801,
+          "end": 1194.594,
+          "text": "What do you mean?"
+        },
+        {
+          "index": 171,
+          "start": 1194.698,
+          "end": 1196.767,
+          "text": "<i>Weird-weird.</i>"
+        },
+        {
+          "index": 172,
+          "start": 1196.87,
+          "end": 1199.594,
+          "text": "<i>Like staring at nothing or sniffing for something he can't find.</i>"
+        },
+        {
+          "index": 173,
+          "start": 1199.698,
+          "end": 1202.87,
+          "text": "- One more time. Vera... <i>- This is serious. Okay?</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "timecode_debut_extrait": 1200,
+      "timecode_fin_extrait": 1215,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0080_time_1200.00s-1215.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 174,
+          "start": 1202.974,
+          "end": 1204.767,
+          "text": "<i>You're the one that keeps telling me</i>"
+        },
+        {
+          "index": 175,
+          "start": 1204.87,
+          "end": 1208.387,
+          "text": "<i>that he won't leave you alone, so I went online and...</i>"
+        },
+        {
+          "index": 176,
+          "start": 1208.49,
+          "end": 1210.49,
+          "text": "<i>Does it seem like he's searching for something</i>"
+        },
+        {
+          "index": 177,
+          "start": 1210.594,
+          "end": 1213.249,
+          "text": "<i>that you can't see or something that doesn't exist?</i>"
+        },
+        {
+          "index": 178,
+          "start": 1213.352,
+          "end": 1214.698,
+          "text": "Oh, you mean being a dog?"
+        },
+        {
+          "index": 179,
+          "start": 1214.801,
+          "end": 1216.49,
+          "text": "Trust me. There's nothing wrong with Indy."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "timecode_debut_extrait": 1215,
+      "timecode_fin_extrait": 1230,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0081_time_1215.00s-1230.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 180,
+          "start": 1216.594,
+          "end": 1218.387,
+          "text": "<i>Todd, I'm not worried there's something wrong with Indy.</i>"
+        },
+        {
+          "index": 181,
+          "start": 1218.49,
+          "end": 1220.49,
+          "text": "<i>I'm worried there's something wrong with you.</i>"
+        },
+        {
+          "index": 182,
+          "start": 1220.594,
+          "end": 1223.905,
+          "text": "<i>Okay? They-- They use dogs to detect all kinds of stuff now.</i>"
+        },
+        {
+          "index": 183,
+          "start": 1224.008,
+          "end": 1226.56,
+          "text": "Oh, yeah. I'm aware. Like bombs, cocaine."
+        },
+        {
+          "index": 184,
+          "start": 1226.663,
+          "end": 1229.043,
+          "text": "<i>Yeah, or, like, medical problems.</i>"
+        },
+        {
+          "index": 185,
+          "start": 1229.145,
+          "end": 1231.767,
+          "text": "Hey. Uh..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "timecode_debut_extrait": 1230,
+      "timecode_fin_extrait": 1245,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0082_time_1230.00s-1245.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 186,
+          "start": 1231.87,
+          "end": 1235.249,
+          "text": "Okay. Seriously. <i>Dogs' noses are very sensitive.</i>"
+        },
+        {
+          "index": 187,
+          "start": 1235.352,
+          "end": 1238.008,
+          "text": "- Ah. Jesus Christ. <i>- They can detect all kinds of stuff that tests miss.</i>"
+        },
+        {
+          "index": 188,
+          "start": 1238.111,
+          "end": 1240.18,
+          "text": "<i>And doctors have even been using dogs--</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "timecode_debut_extrait": 1245,
+      "timecode_fin_extrait": 1260,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0083_time_1245.00s-1260.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "timecode_debut_extrait": 1260,
+      "timecode_fin_extrait": 1275,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0084_time_1260.00s-1275.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 189,
+          "start": 1268.283,
+          "end": 1269.836,
+          "text": "Fuck."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "timecode_debut_extrait": 1275,
+      "timecode_fin_extrait": 1290,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0085_time_1275.00s-1290.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 190,
+          "start": 1288.145,
+          "end": 1290.629,
+          "text": "Hey!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1305,
+      "timecode_debut_extrait": 1290,
+      "timecode_fin_extrait": 1305,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0086_time_1290.00s-1305.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 191,
+          "start": 1290.732,
+          "end": 1292.663,
+          "text": "Knock it off!"
+        },
+        {
+          "index": 192,
+          "start": 1300.836,
+          "end": 1302.939,
+          "text": "There's nothing out there."
+        },
+        {
+          "index": 193,
+          "start": 1304.352,
+          "end": 1306.249,
+          "text": "None of that, please. Okay?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 87,
+      "intervalle_debut": 1305,
+      "intervalle_fin": 1320,
+      "timecode_debut_extrait": 1305,
+      "timecode_fin_extrait": 1320,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0087_time_1305.00s-1320.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 194,
+          "start": 1306.352,
+          "end": 1310.905,
+          "text": "Come on. You silly goose. Huh?"
+        },
+        {
+          "index": 195,
+          "start": 1311.008,
+          "end": 1312.732,
+          "text": "Come on."
+        },
+        {
+          "index": 196,
+          "start": 1314.421,
+          "end": 1319.214,
+          "text": "<i>For countless centuries, mankind dwelled in the dark.</i>"
+        },
+        {
+          "index": 197,
+          "start": 1319.318,
+          "end": 1321.352,
+          "text": "<i>But he wasn't alone.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 1320,
+      "intervalle_fin": 1335,
+      "timecode_debut_extrait": 1320,
+      "timecode_fin_extrait": 1335,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0088_time_1320.00s-1335.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 198,
+          "start": 1325.076,
+          "end": 1326.905,
+          "text": "<i>In caves all over the Earth,</i>"
+        },
+        {
+          "index": 199,
+          "start": 1327.008,
+          "end": 1329.421,
+          "text": "<i>we see evidence of the most successful partnership</i>"
+        },
+        {
+          "index": 200,
+          "start": 1329.525,
+          "end": 1333.008,
+          "text": "<i>between any two species on the planet.</i>"
+        },
+        {
+          "index": 201,
+          "start": 1333.111,
+          "end": 1335.318,
+          "text": "<i>With keener senses than their human partners,</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 1335,
+      "intervalle_fin": 1350,
+      "timecode_debut_extrait": 1335,
+      "timecode_fin_extrait": 1350,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0089_time_1335.00s-1350.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 202,
+          "start": 1335.421,
+          "end": 1339.008,
+          "text": "<i>dogs protected cave dwellers from unseen dangers</i>"
+        },
+        {
+          "index": 203,
+          "start": 1339.111,
+          "end": 1343.629,
+          "text": "<i>and alerted them to the presence of predators.</i>"
+        },
+        {
+          "index": 204,
+          "start": 1343.732,
+          "end": 1346.836,
+          "text": "<i>Mankind has left the caves,</i>"
+        },
+        {
+          "index": 205,
+          "start": 1346.939,
+          "end": 1349.421,
+          "text": "<i>but the darkness haunts us still.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 90,
+      "intervalle_debut": 1350,
+      "intervalle_fin": 1365,
+      "timecode_debut_extrait": 1350,
+      "timecode_fin_extrait": 1365,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0090_time_1350.00s-1365.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 206,
+          "start": 1357.698,
+          "end": 1361.043,
+          "text": "Oh. Can I help you?"
+        },
+        {
+          "index": 207,
+          "start": 1361.145,
+          "end": 1362.56,
+          "text": "You want some?"
+        },
+        {
+          "index": 208,
+          "start": 1362.663,
+          "end": 1365.629,
+          "text": "<i>...companions yield to this primordial doom.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 1365,
+      "intervalle_fin": 1380,
+      "timecode_debut_extrait": 1365,
+      "timecode_fin_extrait": 1380,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0091_time_1365.00s-1380.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 209,
+          "start": 1370.283,
+          "end": 1372.008,
+          "text": "Pretty good."
+        },
+        {
+          "index": 210,
+          "start": 1372.111,
+          "end": 1374.249,
+          "text": "Hm..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 92,
+      "intervalle_debut": 1380,
+      "intervalle_fin": 1395,
+      "timecode_debut_extrait": 1380,
+      "timecode_fin_extrait": 1395,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0092_time_1380.00s-1395.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 93,
+      "intervalle_debut": 1395,
+      "intervalle_fin": 1410,
+      "timecode_debut_extrait": 1395,
+      "timecode_fin_extrait": 1410,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0093_time_1395.00s-1410.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 94,
+      "intervalle_debut": 1410,
+      "intervalle_fin": 1425,
+      "timecode_debut_extrait": 1410,
+      "timecode_fin_extrait": 1425,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0094_time_1410.00s-1425.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 95,
+      "intervalle_debut": 1425,
+      "intervalle_fin": 1440,
+      "timecode_debut_extrait": 1425,
+      "timecode_fin_extrait": 1440,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0095_time_1425.00s-1440.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 96,
+      "intervalle_debut": 1440,
+      "intervalle_fin": 1455,
+      "timecode_debut_extrait": 1440,
+      "timecode_fin_extrait": 1455,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0096_time_1440.00s-1455.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 97,
+      "intervalle_debut": 1455,
+      "intervalle_fin": 1470,
+      "timecode_debut_extrait": 1455,
+      "timecode_fin_extrait": 1470,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0097_time_1455.00s-1470.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 98,
+      "intervalle_debut": 1470,
+      "intervalle_fin": 1485,
+      "timecode_debut_extrait": 1470,
+      "timecode_fin_extrait": 1485,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0098_time_1470.00s-1485.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 99,
+      "intervalle_debut": 1485,
+      "intervalle_fin": 1500,
+      "timecode_debut_extrait": 1485,
+      "timecode_fin_extrait": 1500,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0099_time_1485.00s-1500.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 100,
+      "intervalle_debut": 1500,
+      "intervalle_fin": 1515,
+      "timecode_debut_extrait": 1500,
+      "timecode_fin_extrait": 1515,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0100_time_1500.00s-1515.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 211,
+          "start": 1504.456,
+          "end": 1506.318,
+          "text": "Not so fast, boy. Come around here."
+        },
+        {
+          "index": 212,
+          "start": 1506.421,
+          "end": 1508.767,
+          "text": "Yeah, yeah, yeah, yeah, yeah, yeah."
+        },
+        {
+          "index": 213,
+          "start": 1508.87,
+          "end": 1510.456,
+          "text": "How's my boy doing?"
+        },
+        {
+          "index": 214,
+          "start": 1510.56,
+          "end": 1512.974,
+          "text": "Big, strong guy."
+        },
+        {
+          "index": 215,
+          "start": 1513.076,
+          "end": 1514.974,
+          "text": "Hey, buddy, buddy, buddy, buddy, buddy."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 101,
+      "intervalle_debut": 1515,
+      "intervalle_fin": 1530,
+      "timecode_debut_extrait": 1515,
+      "timecode_fin_extrait": 1530,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0101_time_1515.00s-1530.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 216,
+          "start": 1515.076,
+          "end": 1518.111,
+          "text": "Who's a handsome man? A big, handsome man!"
+        },
+        {
+          "index": 217,
+          "start": 1518.214,
+          "end": 1520.663,
+          "text": "Come on. Ooh! Hey."
+        },
+        {
+          "index": 218,
+          "start": 1522.283,
+          "end": 1524.111,
+          "text": "Good. Good boy."
+        },
+        {
+          "index": 219,
+          "start": 1525.318,
+          "end": 1527.801,
+          "text": "What? What's your problem?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 102,
+      "intervalle_debut": 1530,
+      "intervalle_fin": 1545,
+      "timecode_debut_extrait": 1530,
+      "timecode_fin_extrait": 1545,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0102_time_1530.00s-1545.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 220,
+          "start": 1533.283,
+          "end": 1537.698,
+          "text": "Hey. Bud. Leave that alone. Come on, Indy."
+        },
+        {
+          "index": 221,
+          "start": 1537.801,
+          "end": 1539.249,
+          "text": "Come on. It's breakfast time."
+        },
+        {
+          "index": 222,
+          "start": 1540.594,
+          "end": 1543.49,
+          "text": "Indy! Breakfast!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 103,
+      "intervalle_debut": 1545,
+      "intervalle_fin": 1560,
+      "timecode_debut_extrait": 1545,
+      "timecode_fin_extrait": 1560,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0103_time_1545.00s-1560.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 223,
+          "start": 1548.145,
+          "end": 1549.698,
+          "text": "Okay. Sit."
+        },
+        {
+          "index": 224,
+          "start": 1551.352,
+          "end": 1552.939,
+          "text": "Good."
+        },
+        {
+          "index": 225,
+          "start": 1556.18,
+          "end": 1561.49,
+          "text": "Alright, Indy. You good? Guard the house."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 104,
+      "intervalle_debut": 1560,
+      "intervalle_fin": 1575,
+      "timecode_debut_extrait": 1560,
+      "timecode_fin_extrait": 1575,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0104_time_1560.00s-1575.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 105,
+      "intervalle_debut": 1575,
+      "intervalle_fin": 1590,
+      "timecode_debut_extrait": 1575,
+      "timecode_fin_extrait": 1590,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0105_time_1575.00s-1590.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 106,
+      "intervalle_debut": 1590,
+      "intervalle_fin": 1605,
+      "timecode_debut_extrait": 1590,
+      "timecode_fin_extrait": 1605,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0106_time_1590.00s-1605.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 107,
+      "intervalle_debut": 1605,
+      "intervalle_fin": 1620,
+      "timecode_debut_extrait": 1605,
+      "timecode_fin_extrait": 1620,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0107_time_1605.00s-1620.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 108,
+      "intervalle_debut": 1620,
+      "intervalle_fin": 1635,
+      "timecode_debut_extrait": 1620,
+      "timecode_fin_extrait": 1635,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0108_time_1620.00s-1635.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 109,
+      "intervalle_debut": 1635,
+      "intervalle_fin": 1650,
+      "timecode_debut_extrait": 1635,
+      "timecode_fin_extrait": 1650,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0109_time_1635.00s-1650.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 110,
+      "intervalle_debut": 1650,
+      "intervalle_fin": 1665,
+      "timecode_debut_extrait": 1650,
+      "timecode_fin_extrait": 1665,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0110_time_1650.00s-1665.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 111,
+      "intervalle_debut": 1665,
+      "intervalle_fin": 1680,
+      "timecode_debut_extrait": 1665,
+      "timecode_fin_extrait": 1680,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0111_time_1665.00s-1680.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 112,
+      "intervalle_debut": 1680,
+      "intervalle_fin": 1695,
+      "timecode_debut_extrait": 1680,
+      "timecode_fin_extrait": 1695,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0112_time_1680.00s-1695.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 113,
+      "intervalle_debut": 1695,
+      "intervalle_fin": 1710,
+      "timecode_debut_extrait": 1695,
+      "timecode_fin_extrait": 1710,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0113_time_1695.00s-1710.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 114,
+      "intervalle_debut": 1710,
+      "intervalle_fin": 1725,
+      "timecode_debut_extrait": 1710,
+      "timecode_fin_extrait": 1725,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0114_time_1710.00s-1725.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 115,
+      "intervalle_debut": 1725,
+      "intervalle_fin": 1740,
+      "timecode_debut_extrait": 1725,
+      "timecode_fin_extrait": 1740,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0115_time_1725.00s-1740.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 116,
+      "intervalle_debut": 1740,
+      "intervalle_fin": 1755,
+      "timecode_debut_extrait": 1740,
+      "timecode_fin_extrait": 1755,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0116_time_1740.00s-1755.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 117,
+      "intervalle_debut": 1755,
+      "intervalle_fin": 1770,
+      "timecode_debut_extrait": 1755,
+      "timecode_fin_extrait": 1770,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0117_time_1755.00s-1770.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 118,
+      "intervalle_debut": 1770,
+      "intervalle_fin": 1785,
+      "timecode_debut_extrait": 1770,
+      "timecode_fin_extrait": 1785,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0118_time_1770.00s-1785.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 119,
+      "intervalle_debut": 1785,
+      "intervalle_fin": 1800,
+      "timecode_debut_extrait": 1785,
+      "timecode_fin_extrait": 1800,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0119_time_1785.00s-1800.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 120,
+      "intervalle_debut": 1800,
+      "intervalle_fin": 1815,
+      "timecode_debut_extrait": 1800,
+      "timecode_fin_extrait": 1815,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0120_time_1800.00s-1815.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 121,
+      "intervalle_debut": 1815,
+      "intervalle_fin": 1830,
+      "timecode_debut_extrait": 1815,
+      "timecode_fin_extrait": 1830,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0121_time_1815.00s-1830.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 122,
+      "intervalle_debut": 1830,
+      "intervalle_fin": 1845,
+      "timecode_debut_extrait": 1830,
+      "timecode_fin_extrait": 1845,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0122_time_1830.00s-1845.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 123,
+      "intervalle_debut": 1845,
+      "intervalle_fin": 1860,
+      "timecode_debut_extrait": 1845,
+      "timecode_fin_extrait": 1860,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0123_time_1845.00s-1860.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 226,
+          "start": 1859.56,
+          "end": 1861.594,
+          "text": "Not now, buddy."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 124,
+      "intervalle_debut": 1860,
+      "intervalle_fin": 1875,
+      "timecode_debut_extrait": 1860,
+      "timecode_fin_extrait": 1875,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0124_time_1860.00s-1875.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 227,
+          "start": 1861.698,
+          "end": 1864.352,
+          "text": "Can you just go lay down somewhere?"
+        },
+        {
+          "index": 228,
+          "start": 1869.49,
+          "end": 1871.249,
+          "text": "I said not now."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 125,
+      "intervalle_debut": 1875,
+      "intervalle_fin": 1890,
+      "timecode_debut_extrait": 1875,
+      "timecode_fin_extrait": 1890,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0125_time_1875.00s-1890.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 126,
+      "intervalle_debut": 1890,
+      "intervalle_fin": 1905,
+      "timecode_debut_extrait": 1890,
+      "timecode_fin_extrait": 1905,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0126_time_1890.00s-1905.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 127,
+      "intervalle_debut": 1905,
+      "intervalle_fin": 1920,
+      "timecode_debut_extrait": 1905,
+      "timecode_fin_extrait": 1920,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0127_time_1905.00s-1920.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 229,
+          "start": 1906.421,
+          "end": 1908.767,
+          "text": "I said not now, bud."
+        },
+        {
+          "index": 230,
+          "start": 1911.214,
+          "end": 1914.249,
+          "text": "I said give me a minute."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 128,
+      "intervalle_debut": 1920,
+      "intervalle_fin": 1935,
+      "timecode_debut_extrait": 1920,
+      "timecode_fin_extrait": 1935,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0128_time_1920.00s-1935.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 231,
+          "start": 1920.594,
+          "end": 1923.008,
+          "text": "I said get the fuck out of here!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 129,
+      "intervalle_debut": 1935,
+      "intervalle_fin": 1950,
+      "timecode_debut_extrait": 1935,
+      "timecode_fin_extrait": 1950,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0129_time_1935.00s-1950.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 130,
+      "intervalle_debut": 1950,
+      "intervalle_fin": 1965,
+      "timecode_debut_extrait": 1950,
+      "timecode_fin_extrait": 1965,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0130_time_1950.00s-1965.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 131,
+      "intervalle_debut": 1965,
+      "intervalle_fin": 1980,
+      "timecode_debut_extrait": 1965,
+      "timecode_fin_extrait": 1980,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0131_time_1965.00s-1980.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 132,
+      "intervalle_debut": 1980,
+      "intervalle_fin": 1995,
+      "timecode_debut_extrait": 1980,
+      "timecode_fin_extrait": 1995,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0132_time_1980.00s-1995.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 133,
+      "intervalle_debut": 1995,
+      "intervalle_fin": 2010,
+      "timecode_debut_extrait": 1995,
+      "timecode_fin_extrait": 2010,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0133_time_1995.00s-2010.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 134,
+      "intervalle_debut": 2010,
+      "intervalle_fin": 2025,
+      "timecode_debut_extrait": 2010,
+      "timecode_fin_extrait": 2025,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0134_time_2010.00s-2025.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 135,
+      "intervalle_debut": 2025,
+      "intervalle_fin": 2040,
+      "timecode_debut_extrait": 2025,
+      "timecode_fin_extrait": 2040,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0135_time_2025.00s-2040.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 136,
+      "intervalle_debut": 2040,
+      "intervalle_fin": 2055,
+      "timecode_debut_extrait": 2040,
+      "timecode_fin_extrait": 2055,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0136_time_2040.00s-2055.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 137,
+      "intervalle_debut": 2055,
+      "intervalle_fin": 2070,
+      "timecode_debut_extrait": 2055,
+      "timecode_fin_extrait": 2070,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0137_time_2055.00s-2070.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 138,
+      "intervalle_debut": 2070,
+      "intervalle_fin": 2085,
+      "timecode_debut_extrait": 2070,
+      "timecode_fin_extrait": 2085,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0138_time_2070.00s-2085.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 139,
+      "intervalle_debut": 2085,
+      "intervalle_fin": 2100,
+      "timecode_debut_extrait": 2085,
+      "timecode_fin_extrait": 2100,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0139_time_2085.00s-2100.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 140,
+      "intervalle_debut": 2100,
+      "intervalle_fin": 2115,
+      "timecode_debut_extrait": 2100,
+      "timecode_fin_extrait": 2115,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0140_time_2100.00s-2115.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 141,
+      "intervalle_debut": 2115,
+      "intervalle_fin": 2130,
+      "timecode_debut_extrait": 2115,
+      "timecode_fin_extrait": 2130,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0141_time_2115.00s-2130.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 142,
+      "intervalle_debut": 2130,
+      "intervalle_fin": 2145,
+      "timecode_debut_extrait": 2130,
+      "timecode_fin_extrait": 2145,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0142_time_2130.00s-2145.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 143,
+      "intervalle_debut": 2145,
+      "intervalle_fin": 2160,
+      "timecode_debut_extrait": 2145,
+      "timecode_fin_extrait": 2160,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0143_time_2145.00s-2160.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 144,
+      "intervalle_debut": 2160,
+      "intervalle_fin": 2175,
+      "timecode_debut_extrait": 2160,
+      "timecode_fin_extrait": 2175,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0144_time_2160.00s-2175.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 232,
+          "start": 2174.352,
+          "end": 2175.87,
+          "text": "Quiet!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 145,
+      "intervalle_debut": 2175,
+      "intervalle_fin": 2190,
+      "timecode_debut_extrait": 2175,
+      "timecode_fin_extrait": 2190,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0145_time_2175.00s-2190.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 233,
+          "start": 2177.214,
+          "end": 2178.352,
+          "text": "Stay."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 146,
+      "intervalle_debut": 2190,
+      "intervalle_fin": 2205,
+      "timecode_debut_extrait": 2190,
+      "timecode_fin_extrait": 2205,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0146_time_2190.00s-2205.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 234,
+          "start": 2192.456,
+          "end": 2195.698,
+          "text": "Go on. Back upstairs."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 147,
+      "intervalle_debut": 2205,
+      "intervalle_fin": 2220,
+      "timecode_debut_extrait": 2205,
+      "timecode_fin_extrait": 2220,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0147_time_2205.00s-2220.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 235,
+          "start": 2219.905,
+          "end": 2224.456,
+          "text": "<i>Okay. Where was I? Uh...</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 148,
+      "intervalle_debut": 2220,
+      "intervalle_fin": 2235,
+      "timecode_debut_extrait": 2220,
+      "timecode_fin_extrait": 2235,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0148_time_2220.00s-2235.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 236,
+          "start": 2224.56,
+          "end": 2226.939,
+          "text": "<i>All the taxidermy</i>"
+        },
+        {
+          "index": 237,
+          "start": 2227.043,
+          "end": 2230.18,
+          "text": "<i>I leave to my daughter, the vegan.</i>"
+        },
+        {
+          "index": 238,
+          "start": 2231.594,
+          "end": 2235.974,
+          "text": "<i>And, uh, to my grandson, Todd...</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 149,
+      "intervalle_debut": 2235,
+      "intervalle_fin": 2250,
+      "timecode_debut_extrait": 2235,
+      "timecode_fin_extrait": 2250,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0149_time_2235.00s-2250.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 239,
+          "start": 2237.732,
+          "end": 2239.111,
+          "text": "<i>Everything else.</i>"
+        },
+        {
+          "index": 240,
+          "start": 2239.214,
+          "end": 2241.698,
+          "text": "<i>Six generations...</i>"
+        },
+        {
+          "index": 241,
+          "start": 2241.801,
+          "end": 2243.939,
+          "text": "<i>of one family have lived in this place.</i>"
+        },
+        {
+          "index": 242,
+          "start": 2245.214,
+          "end": 2248.076,
+          "text": "<i>Lived and died.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 150,
+      "intervalle_debut": 2250,
+      "intervalle_fin": 2265,
+      "timecode_debut_extrait": 2250,
+      "timecode_fin_extrait": 2265,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0150_time_2250.00s-2265.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 243,
+          "start": 2253.698,
+          "end": 2256.525,
+          "text": "<i>I guess I'm next.</i>"
+        },
+        {
+          "index": 244,
+          "start": 2256.629,
+          "end": 2258.283,
+          "text": "<i>I should never have come here.</i>"
+        },
+        {
+          "index": 245,
+          "start": 2258.387,
+          "end": 2261.905,
+          "text": "<i>Are you still up for me coming out this weekend?</i>"
+        },
+        {
+          "index": 246,
+          "start": 2262.008,
+          "end": 2264.249,
+          "text": "When did we decide on that?"
+        },
+        {
+          "index": 247,
+          "start": 2264.352,
+          "end": 2266.56,
+          "text": "<i>Oh. Well, you know, I just thought that it could be really--</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 151,
+      "intervalle_debut": 2265,
+      "intervalle_fin": 2280,
+      "timecode_debut_extrait": 2265,
+      "timecode_fin_extrait": 2280,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0151_time_2265.00s-2280.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 248,
+          "start": 2266.663,
+          "end": 2267.801,
+          "text": "You thought what?"
+        },
+        {
+          "index": 249,
+          "start": 2267.905,
+          "end": 2269.076,
+          "text": "<i>I thought that it would be nice.</i>"
+        },
+        {
+          "index": 250,
+          "start": 2269.18,
+          "end": 2271.836,
+          "text": "You want to check in on me."
+        },
+        {
+          "index": 251,
+          "start": 2271.939,
+          "end": 2273.767,
+          "text": "<i>Well, isn't that what sisters do?</i>"
+        },
+        {
+          "index": 252,
+          "start": 2273.87,
+          "end": 2275.698,
+          "text": "<i>I just want to help.</i>"
+        },
+        {
+          "index": 253,
+          "start": 2275.801,
+          "end": 2277.49,
+          "text": "Can you not?"
+        },
+        {
+          "index": 254,
+          "start": 2277.594,
+          "end": 2279.249,
+          "text": "<i>I-I'm not trying to nag you. I just...</i>"
+        },
+        {
+          "index": 255,
+          "start": 2279.352,
+          "end": 2281.594,
+          "text": "<i>I really just want to make sure that you're okay.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 152,
+      "intervalle_debut": 2280,
+      "intervalle_fin": 2295,
+      "timecode_debut_extrait": 2280,
+      "timecode_fin_extrait": 2295,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0152_time_2280.00s-2295.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 256,
+          "start": 2281.698,
+          "end": 2283.939,
+          "text": "- You are so full of it. <i>- What?</i>"
+        },
+        {
+          "index": 257,
+          "start": 2284.043,
+          "end": 2286.905,
+          "text": "Can I have one day where I don't have to be a patient?"
+        },
+        {
+          "index": 258,
+          "start": 2287.008,
+          "end": 2289.456,
+          "text": "Can you help me with that? <i>- I'm not trying to make you--</i>"
+        },
+        {
+          "index": 259,
+          "start": 2289.56,
+          "end": 2291.698,
+          "text": "Because whenever you call-- and you call all the time--"
+        },
+        {
+          "index": 260,
+          "start": 2291.801,
+          "end": 2293.836,
+          "text": "I'm just sitting here dreading and waiting"
+        },
+        {
+          "index": 261,
+          "start": 2293.939,
+          "end": 2295.629,
+          "text": "for you to feel like we've chatted enough"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 153,
+      "intervalle_debut": 2295,
+      "intervalle_fin": 2310,
+      "timecode_debut_extrait": 2295,
+      "timecode_fin_extrait": 2310,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0153_time_2295.00s-2310.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 262,
+          "start": 2295.732,
+          "end": 2298.043,
+          "text": "that you can ask one of your inane questions."
+        },
+        {
+          "index": 263,
+          "start": 2298.145,
+          "end": 2300.111,
+          "text": "You know what? Maybe this would be helpful."
+        },
+        {
+          "index": 264,
+          "start": 2300.214,
+          "end": 2301.939,
+          "text": "Let me save you the trouble of asking"
+        },
+        {
+          "index": 265,
+          "start": 2302.043,
+          "end": 2303.456,
+          "text": "on your next ten phone calls."
+        },
+        {
+          "index": 266,
+          "start": 2303.56,
+          "end": 2304.974,
+          "text": "I'm fine. I'm feeling fine."
+        },
+        {
+          "index": 267,
+          "start": 2305.076,
+          "end": 2307.387,
+          "text": "Nothing's wrong. And I'm staying."
+        },
+        {
+          "index": 268,
+          "start": 2307.49,
+          "end": 2309.249,
+          "text": "<i>Well, alright...</i>"
+        },
+        {
+          "index": 269,
+          "start": 2309.352,
+          "end": 2310.974,
+          "text": "No, you're not sorry. Shut up."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 154,
+      "intervalle_debut": 2310,
+      "intervalle_fin": 2325,
+      "timecode_debut_extrait": 2310,
+      "timecode_fin_extrait": 2325,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0154_time_2310.00s-2325.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 270,
+          "start": 2311.076,
+          "end": 2313.56,
+          "text": "That's what I want. Shut up."
+        },
+        {
+          "index": 271,
+          "start": 2313.663,
+          "end": 2315.145,
+          "text": "Let's make a new rule. Until I come to you"
+        },
+        {
+          "index": 272,
+          "start": 2315.249,
+          "end": 2317.56,
+          "text": "with some kind of crisis, you just lay off."
+        },
+        {
+          "index": 273,
+          "start": 2317.663,
+          "end": 2319.283,
+          "text": "Think you can handle that?"
+        },
+        {
+          "index": 274,
+          "start": 2321.076,
+          "end": 2322.008,
+          "text": "<i>Yeah.</i>"
+        },
+        {
+          "index": 275,
+          "start": 2322.111,
+          "end": 2324.698,
+          "text": "Great..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 155,
+      "intervalle_debut": 2325,
+      "intervalle_fin": 2340,
+      "timecode_debut_extrait": 2325,
+      "timecode_fin_extrait": 2340,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0155_time_2325.00s-2340.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 156,
+      "intervalle_debut": 2340,
+      "intervalle_fin": 2355,
+      "timecode_debut_extrait": 2340,
+      "timecode_fin_extrait": 2355,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0156_time_2340.00s-2355.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 157,
+      "intervalle_debut": 2355,
+      "intervalle_fin": 2370,
+      "timecode_debut_extrait": 2355,
+      "timecode_fin_extrait": 2370,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0157_time_2355.00s-2370.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 158,
+      "intervalle_debut": 2370,
+      "intervalle_fin": 2385,
+      "timecode_debut_extrait": 2370,
+      "timecode_fin_extrait": 2385,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0158_time_2370.00s-2385.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 159,
+      "intervalle_debut": 2385,
+      "intervalle_fin": 2400,
+      "timecode_debut_extrait": 2385,
+      "timecode_fin_extrait": 2400,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0159_time_2385.00s-2400.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 160,
+      "intervalle_debut": 2400,
+      "intervalle_fin": 2415,
+      "timecode_debut_extrait": 2400,
+      "timecode_fin_extrait": 2415,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0160_time_2400.00s-2415.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 276,
+          "start": 2406.283,
+          "end": 2407.87,
+          "text": "Run!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 161,
+      "intervalle_debut": 2415,
+      "intervalle_fin": 2430,
+      "timecode_debut_extrait": 2415,
+      "timecode_fin_extrait": 2430,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0161_time_2415.00s-2430.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 162,
+      "intervalle_debut": 2430,
+      "intervalle_fin": 2445,
+      "timecode_debut_extrait": 2430,
+      "timecode_fin_extrait": 2445,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0162_time_2430.00s-2445.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 163,
+      "intervalle_debut": 2445,
+      "intervalle_fin": 2460,
+      "timecode_debut_extrait": 2445,
+      "timecode_fin_extrait": 2460,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0163_time_2445.00s-2460.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 277,
+          "start": 2459.352,
+          "end": 2460.905,
+          "text": "Indy?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 164,
+      "intervalle_debut": 2460,
+      "intervalle_fin": 2475,
+      "timecode_debut_extrait": 2460,
+      "timecode_fin_extrait": 2475,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0164_time_2460.00s-2475.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 278,
+          "start": 2464.905,
+          "end": 2466.352,
+          "text": "Indy?"
+        },
+        {
+          "index": 279,
+          "start": 2466.456,
+          "end": 2468.18,
+          "text": "Where you at?"
+        },
+        {
+          "index": 280,
+          "start": 2468.283,
+          "end": 2469.767,
+          "text": "Indy?"
+        },
+        {
+          "index": 281,
+          "start": 2469.87,
+          "end": 2472.008,
+          "text": "Come on."
+        },
+        {
+          "index": 282,
+          "start": 2474.352,
+          "end": 2475.87,
+          "text": "Indy!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 165,
+      "intervalle_debut": 2475,
+      "intervalle_fin": 2490,
+      "timecode_debut_extrait": 2475,
+      "timecode_fin_extrait": 2490,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0165_time_2475.00s-2490.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 283,
+          "start": 2482.767,
+          "end": 2485.214,
+          "text": "Indy? You down here, boy?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 166,
+      "intervalle_debut": 2490,
+      "intervalle_fin": 2505,
+      "timecode_debut_extrait": 2490,
+      "timecode_fin_extrait": 2505,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0166_time_2490.00s-2505.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 284,
+          "start": 2490.421,
+          "end": 2491.974,
+          "text": "Hello?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 167,
+      "intervalle_debut": 2505,
+      "intervalle_fin": 2520,
+      "timecode_debut_extrait": 2505,
+      "timecode_fin_extrait": 2520,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0167_time_2505.00s-2520.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 285,
+          "start": 2509.214,
+          "end": 2510.594,
+          "text": "Indy?"
+        },
+        {
+          "index": 286,
+          "start": 2512.387,
+          "end": 2514.939,
+          "text": "How did you..."
+        },
+        {
+          "index": 287,
+          "start": 2515.043,
+          "end": 2516.836,
+          "text": "What the hell?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 168,
+      "intervalle_debut": 2520,
+      "intervalle_fin": 2535,
+      "timecode_debut_extrait": 2520,
+      "timecode_fin_extrait": 2535,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0168_time_2520.00s-2535.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 288,
+          "start": 2520.456,
+          "end": 2523.594,
+          "text": "Come on, Houdini."
+        },
+        {
+          "index": 289,
+          "start": 2532.318,
+          "end": 2533.56,
+          "text": "Okay. Hold still, bud."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 169,
+      "intervalle_debut": 2535,
+      "intervalle_fin": 2550,
+      "timecode_debut_extrait": 2535,
+      "timecode_fin_extrait": 2550,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0169_time_2535.00s-2550.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 290,
+          "start": 2535.56,
+          "end": 2537.318,
+          "text": "It's almost over."
+        },
+        {
+          "index": 291,
+          "start": 2544.076,
+          "end": 2547.698,
+          "text": "Oh, you smell like death."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 170,
+      "intervalle_debut": 2550,
+      "intervalle_fin": 2565,
+      "timecode_debut_extrait": 2550,
+      "timecode_fin_extrait": 2565,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0170_time_2550.00s-2565.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 171,
+      "intervalle_debut": 2565,
+      "intervalle_fin": 2580,
+      "timecode_debut_extrait": 2565,
+      "timecode_fin_extrait": 2580,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0171_time_2565.00s-2580.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 292,
+          "start": 2572.663,
+          "end": 2576.249,
+          "text": "No. No, no, no, no, no, no, no, no."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 172,
+      "intervalle_debut": 2580,
+      "intervalle_fin": 2595,
+      "timecode_debut_extrait": 2580,
+      "timecode_fin_extrait": 2595,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0172_time_2580.00s-2595.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 293,
+          "start": 2592.352,
+          "end": 2595.008,
+          "text": "I'm sorry. It's just too late."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 173,
+      "intervalle_debut": 2595,
+      "intervalle_fin": 2610,
+      "timecode_debut_extrait": 2595,
+      "timecode_fin_extrait": 2610,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0173_time_2595.00s-2610.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 294,
+          "start": 2595.111,
+          "end": 2596.698,
+          "text": "What do you mean?"
+        },
+        {
+          "index": 295,
+          "start": 2596.801,
+          "end": 2599.87,
+          "text": "Maybe if you had come in earlier, before it progressed."
+        },
+        {
+          "index": 296,
+          "start": 2599.974,
+          "end": 2602.732,
+          "text": "So you're rejecting me because I'm too sick?"
+        },
+        {
+          "index": 297,
+          "start": 2602.836,
+          "end": 2604.836,
+          "text": "Clinical trials have strict entry requirements."
+        },
+        {
+          "index": 298,
+          "start": 2604.939,
+          "end": 2606.698,
+          "text": "That's bullshit."
+        },
+        {
+          "index": 299,
+          "start": 2606.801,
+          "end": 2608.767,
+          "text": "You don't even treat half the people you say you will."
+        },
+        {
+          "index": 300,
+          "start": 2608.87,
+          "end": 2611.318,
+          "text": "And if it works on me, it'll definitely work, right?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 174,
+      "intervalle_debut": 2610,
+      "intervalle_fin": 2625,
+      "timecode_debut_extrait": 2610,
+      "timecode_fin_extrait": 2625,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0174_time_2610.00s-2625.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 301,
+          "start": 2611.421,
+          "end": 2612.939,
+          "text": "Why are you trying to reject someone"
+        },
+        {
+          "index": 302,
+          "start": 2613.043,
+          "end": 2615.111,
+          "text": "that wants to be your guinea pig?"
+        },
+        {
+          "index": 303,
+          "start": 2615.214,
+          "end": 2618.214,
+          "text": "I'm sorry. It just doesn't work like that."
+        },
+        {
+          "index": 304,
+          "start": 2618.318,
+          "end": 2620.076,
+          "text": "God damn it!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 175,
+      "intervalle_debut": 2625,
+      "intervalle_fin": 2640,
+      "timecode_debut_extrait": 2625,
+      "timecode_fin_extrait": 2640,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0175_time_2625.00s-2640.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 176,
+      "intervalle_debut": 2640,
+      "intervalle_fin": 2655,
+      "timecode_debut_extrait": 2640,
+      "timecode_fin_extrait": 2655,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0176_time_2640.00s-2655.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 305,
+          "start": 2648.008,
+          "end": 2650.974,
+          "text": "What are you doing there, Todd?"
+        },
+        {
+          "index": 306,
+          "start": 2651.076,
+          "end": 2653.214,
+          "text": "Nothing! Nothing."
+        },
+        {
+          "index": 307,
+          "start": 2654.456,
+          "end": 2656.836,
+          "text": "Uh, wait. Actually..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 177,
+      "intervalle_debut": 2655,
+      "intervalle_fin": 2670,
+      "timecode_debut_extrait": 2655,
+      "timecode_fin_extrait": 2670,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0177_time_2655.00s-2670.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 308,
+          "start": 2656.939,
+          "end": 2659.145,
+          "text": "Do you know if any hyssop grows around here?"
+        },
+        {
+          "index": 309,
+          "start": 2659.249,
+          "end": 2662.836,
+          "text": "Honeysuckle root. I'm collecting those things."
+        },
+        {
+          "index": 310,
+          "start": 2662.939,
+          "end": 2665.145,
+          "text": "No. Sorry. Never heard of them."
+        },
+        {
+          "index": 311,
+          "start": 2665.249,
+          "end": 2669.076,
+          "text": "All good. All good. I'll figure it out."
+        },
+        {
+          "index": 312,
+          "start": 2669.18,
+          "end": 2671.698,
+          "text": "Well, figure it out over there 'cause you're getting"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 178,
+      "intervalle_debut": 2670,
+      "intervalle_fin": 2685,
+      "timecode_debut_extrait": 2670,
+      "timecode_fin_extrait": 2685,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0178_time_2670.00s-2685.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 313,
+          "start": 2671.801,
+          "end": 2674.939,
+          "text": "pretty close to where I placed those fox traps."
+        },
+        {
+          "index": 314,
+          "start": 2676.076,
+          "end": 2679.076,
+          "text": "You take care of yourself, son!"
+        },
+        {
+          "index": 315,
+          "start": 2679.18,
+          "end": 2681.145,
+          "text": "Be careful out here, boy."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 179,
+      "intervalle_debut": 2685,
+      "intervalle_fin": 2700,
+      "timecode_debut_extrait": 2685,
+      "timecode_fin_extrait": 2700,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0179_time_2685.00s-2700.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 316,
+          "start": 2687.56,
+          "end": 2689.629,
+          "text": "Okay."
+        },
+        {
+          "index": 317,
+          "start": 2690.905,
+          "end": 2693.111,
+          "text": "Coming through. Okay."
+        },
+        {
+          "index": 318,
+          "start": 2697.283,
+          "end": 2698.56,
+          "text": "Now we focus."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 180,
+      "intervalle_debut": 2700,
+      "intervalle_fin": 2715,
+      "timecode_debut_extrait": 2700,
+      "timecode_fin_extrait": 2715,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0180_time_2700.00s-2715.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 319,
+          "start": 2700.594,
+          "end": 2702.18,
+          "text": "That's perfect."
+        },
+        {
+          "index": 320,
+          "start": 2706.318,
+          "end": 2708.801,
+          "text": "To the northwest corner."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 181,
+      "intervalle_debut": 2715,
+      "intervalle_fin": 2730,
+      "timecode_debut_extrait": 2715,
+      "timecode_fin_extrait": 2730,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0181_time_2715.00s-2730.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 321,
+          "start": 2718.318,
+          "end": 2721.111,
+          "text": "And that-- that's it."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 182,
+      "intervalle_debut": 2730,
+      "intervalle_fin": 2745,
+      "timecode_debut_extrait": 2730,
+      "timecode_fin_extrait": 2745,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0182_time_2730.00s-2745.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 183,
+      "intervalle_debut": 2745,
+      "intervalle_fin": 2760,
+      "timecode_debut_extrait": 2745,
+      "timecode_fin_extrait": 2760,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0183_time_2745.00s-2760.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 184,
+      "intervalle_debut": 2760,
+      "intervalle_fin": 2775,
+      "timecode_debut_extrait": 2760,
+      "timecode_fin_extrait": 2775,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0184_time_2760.00s-2775.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 185,
+      "intervalle_debut": 2775,
+      "intervalle_fin": 2790,
+      "timecode_debut_extrait": 2775,
+      "timecode_fin_extrait": 2790,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0185_time_2775.00s-2790.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 186,
+      "intervalle_debut": 2790,
+      "intervalle_fin": 2805,
+      "timecode_debut_extrait": 2790,
+      "timecode_fin_extrait": 2805,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0186_time_2790.00s-2805.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 187,
+      "intervalle_debut": 2805,
+      "intervalle_fin": 2820,
+      "timecode_debut_extrait": 2805,
+      "timecode_fin_extrait": 2820,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0187_time_2805.00s-2820.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 188,
+      "intervalle_debut": 2820,
+      "intervalle_fin": 2835,
+      "timecode_debut_extrait": 2820,
+      "timecode_fin_extrait": 2835,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0188_time_2820.00s-2835.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 322,
+          "start": 2827.008,
+          "end": 2829.283,
+          "text": "What are you looking at, boy?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 189,
+      "intervalle_debut": 2835,
+      "intervalle_fin": 2850,
+      "timecode_debut_extrait": 2835,
+      "timecode_fin_extrait": 2850,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0189_time_2835.00s-2850.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 323,
+          "start": 2835.456,
+          "end": 2837.387,
+          "text": "It's alright."
+        },
+        {
+          "index": 324,
+          "start": 2837.49,
+          "end": 2839.801,
+          "text": "Just the wind outside."
+        },
+        {
+          "index": 325,
+          "start": 2839.905,
+          "end": 2841.111,
+          "text": "Sleep."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 190,
+      "intervalle_debut": 2850,
+      "intervalle_fin": 2865,
+      "timecode_debut_extrait": 2850,
+      "timecode_fin_extrait": 2865,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0190_time_2850.00s-2865.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 326,
+          "start": 2855.732,
+          "end": 2857.56,
+          "text": "Sorry, bud."
+        },
+        {
+          "index": 327,
+          "start": 2858.56,
+          "end": 2860.56,
+          "text": "Not tonight."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 191,
+      "intervalle_debut": 2865,
+      "intervalle_fin": 2880,
+      "timecode_debut_extrait": 2865,
+      "timecode_fin_extrait": 2880,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0191_time_2865.00s-2880.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 192,
+      "intervalle_debut": 2880,
+      "intervalle_fin": 2895,
+      "timecode_debut_extrait": 2880,
+      "timecode_fin_extrait": 2895,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0192_time_2880.00s-2895.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 193,
+      "intervalle_debut": 2895,
+      "intervalle_fin": 2910,
+      "timecode_debut_extrait": 2895,
+      "timecode_fin_extrait": 2910,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0193_time_2895.00s-2910.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 194,
+      "intervalle_debut": 2910,
+      "intervalle_fin": 2925,
+      "timecode_debut_extrait": 2910,
+      "timecode_fin_extrait": 2925,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0194_time_2910.00s-2925.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 195,
+      "intervalle_debut": 2925,
+      "intervalle_fin": 2940,
+      "timecode_debut_extrait": 2925,
+      "timecode_fin_extrait": 2940,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0195_time_2925.00s-2940.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 196,
+      "intervalle_debut": 2940,
+      "intervalle_fin": 2955,
+      "timecode_debut_extrait": 2940,
+      "timecode_fin_extrait": 2955,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0196_time_2940.00s-2955.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 197,
+      "intervalle_debut": 2955,
+      "intervalle_fin": 2970,
+      "timecode_debut_extrait": 2955,
+      "timecode_fin_extrait": 2970,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0197_time_2955.00s-2970.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 198,
+      "intervalle_debut": 2970,
+      "intervalle_fin": 2985,
+      "timecode_debut_extrait": 2970,
+      "timecode_fin_extrait": 2985,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0198_time_2970.00s-2985.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 199,
+      "intervalle_debut": 2985,
+      "intervalle_fin": 3000,
+      "timecode_debut_extrait": 2985,
+      "timecode_fin_extrait": 3000,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0199_time_2985.00s-3000.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 200,
+      "intervalle_debut": 3000,
+      "intervalle_fin": 3015,
+      "timecode_debut_extrait": 3000,
+      "timecode_fin_extrait": 3015,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0200_time_3000.00s-3015.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 201,
+      "intervalle_debut": 3015,
+      "intervalle_fin": 3030,
+      "timecode_debut_extrait": 3015,
+      "timecode_fin_extrait": 3030,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0201_time_3015.00s-3030.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 202,
+      "intervalle_debut": 3030,
+      "intervalle_fin": 3045,
+      "timecode_debut_extrait": 3030,
+      "timecode_fin_extrait": 3045,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0202_time_3030.00s-3045.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 203,
+      "intervalle_debut": 3045,
+      "intervalle_fin": 3060,
+      "timecode_debut_extrait": 3045,
+      "timecode_fin_extrait": 3060,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0203_time_3045.00s-3060.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 328,
+          "start": 3053.629,
+          "end": 3055.318,
+          "text": "Hello?!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 204,
+      "intervalle_debut": 3060,
+      "intervalle_fin": 3075,
+      "timecode_debut_extrait": 3060,
+      "timecode_fin_extrait": 3075,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0204_time_3060.00s-3075.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 329,
+          "start": 3061.043,
+          "end": 3062.594,
+          "text": "Hello?"
+        },
+        {
+          "index": 330,
+          "start": 3066.111,
+          "end": 3067.629,
+          "text": "It's okay, boy."
+        },
+        {
+          "index": 331,
+          "start": 3074.594,
+          "end": 3077.076,
+          "text": "Shh."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 205,
+      "intervalle_debut": 3075,
+      "intervalle_fin": 3090,
+      "timecode_debut_extrait": 3075,
+      "timecode_fin_extrait": 3090,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0205_time_3075.00s-3090.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 206,
+      "intervalle_debut": 3090,
+      "intervalle_fin": 3105,
+      "timecode_debut_extrait": 3090,
+      "timecode_fin_extrait": 3105,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0206_time_3090.00s-3105.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 332,
+          "start": 3093.56,
+          "end": 3095.663,
+          "text": "God damn it!"
+        },
+        {
+          "index": 333,
+          "start": 3096.421,
+          "end": 3099.076,
+          "text": "No! You stay there!"
+        },
+        {
+          "index": 334,
+          "start": 3104.49,
+          "end": 3105.421,
+          "text": "Fuck."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 207,
+      "intervalle_debut": 3105,
+      "intervalle_fin": 3120,
+      "timecode_debut_extrait": 3105,
+      "timecode_fin_extrait": 3120,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0207_time_3105.00s-3120.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 208,
+      "intervalle_debut": 3120,
+      "intervalle_fin": 3135,
+      "timecode_debut_extrait": 3120,
+      "timecode_fin_extrait": 3135,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0208_time_3120.00s-3135.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 209,
+      "intervalle_debut": 3135,
+      "intervalle_fin": 3150,
+      "timecode_debut_extrait": 3135,
+      "timecode_fin_extrait": 3150,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0209_time_3135.00s-3150.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 210,
+      "intervalle_debut": 3150,
+      "intervalle_fin": 3165,
+      "timecode_debut_extrait": 3150,
+      "timecode_fin_extrait": 3165,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0210_time_3150.00s-3165.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 211,
+      "intervalle_debut": 3165,
+      "intervalle_fin": 3180,
+      "timecode_debut_extrait": 3165,
+      "timecode_fin_extrait": 3180,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0211_time_3165.00s-3180.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 212,
+      "intervalle_debut": 3180,
+      "intervalle_fin": 3195,
+      "timecode_debut_extrait": 3180,
+      "timecode_fin_extrait": 3195,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0212_time_3180.00s-3195.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 213,
+      "intervalle_debut": 3195,
+      "intervalle_fin": 3210,
+      "timecode_debut_extrait": 3195,
+      "timecode_fin_extrait": 3210,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0213_time_3195.00s-3210.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 214,
+      "intervalle_debut": 3210,
+      "intervalle_fin": 3225,
+      "timecode_debut_extrait": 3210,
+      "timecode_fin_extrait": 3225,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0214_time_3210.00s-3225.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 215,
+      "intervalle_debut": 3225,
+      "intervalle_fin": 3240,
+      "timecode_debut_extrait": 3225,
+      "timecode_fin_extrait": 3240,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0215_time_3225.00s-3240.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 216,
+      "intervalle_debut": 3240,
+      "intervalle_fin": 3255,
+      "timecode_debut_extrait": 3240,
+      "timecode_fin_extrait": 3255,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0216_time_3240.00s-3255.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 217,
+      "intervalle_debut": 3255,
+      "intervalle_fin": 3270,
+      "timecode_debut_extrait": 3255,
+      "timecode_fin_extrait": 3270,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0217_time_3255.00s-3270.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 218,
+      "intervalle_debut": 3270,
+      "intervalle_fin": 3285,
+      "timecode_debut_extrait": 3270,
+      "timecode_fin_extrait": 3285,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0218_time_3270.00s-3285.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 219,
+      "intervalle_debut": 3285,
+      "intervalle_fin": 3300,
+      "timecode_debut_extrait": 3285,
+      "timecode_fin_extrait": 3300,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0219_time_3285.00s-3300.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 220,
+      "intervalle_debut": 3300,
+      "intervalle_fin": 3315,
+      "timecode_debut_extrait": 3300,
+      "timecode_fin_extrait": 3315,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0220_time_3300.00s-3315.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 335,
+          "start": 3303.145,
+          "end": 3304.594,
+          "text": "Stay."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 221,
+      "intervalle_debut": 3315,
+      "intervalle_fin": 3330,
+      "timecode_debut_extrait": 3315,
+      "timecode_fin_extrait": 3330,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0221_time_3315.00s-3330.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 336,
+          "start": 3326.56,
+          "end": 3328.836,
+          "text": "I told you to stay."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 222,
+      "intervalle_debut": 3330,
+      "intervalle_fin": 3345,
+      "timecode_debut_extrait": 3330,
+      "timecode_fin_extrait": 3345,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0222_time_3330.00s-3345.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 223,
+      "intervalle_debut": 3345,
+      "intervalle_fin": 3360,
+      "timecode_debut_extrait": 3345,
+      "timecode_fin_extrait": 3360,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0223_time_3345.00s-3360.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 224,
+      "intervalle_debut": 3360,
+      "intervalle_fin": 3375,
+      "timecode_debut_extrait": 3360,
+      "timecode_fin_extrait": 3375,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0224_time_3360.00s-3375.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 225,
+      "intervalle_debut": 3375,
+      "intervalle_fin": 3390,
+      "timecode_debut_extrait": 3375,
+      "timecode_fin_extrait": 3390,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0225_time_3375.00s-3390.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 226,
+      "intervalle_debut": 3390,
+      "intervalle_fin": 3405,
+      "timecode_debut_extrait": 3390,
+      "timecode_fin_extrait": 3405,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0226_time_3390.00s-3405.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 337,
+          "start": 3397.145,
+          "end": 3398.56,
+          "text": "No."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 227,
+      "intervalle_debut": 3405,
+      "intervalle_fin": 3420,
+      "timecode_debut_extrait": 3405,
+      "timecode_fin_extrait": 3420,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0227_time_3405.00s-3420.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 338,
+          "start": 3418.145,
+          "end": 3419.56,
+          "text": "Stay here."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 228,
+      "intervalle_debut": 3420,
+      "intervalle_fin": 3435,
+      "timecode_debut_extrait": 3420,
+      "timecode_fin_extrait": 3435,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0228_time_3420.00s-3435.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 229,
+      "intervalle_debut": 3435,
+      "intervalle_fin": 3450,
+      "timecode_debut_extrait": 3435,
+      "timecode_fin_extrait": 3450,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0229_time_3435.00s-3450.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 230,
+      "intervalle_debut": 3450,
+      "intervalle_fin": 3465,
+      "timecode_debut_extrait": 3450,
+      "timecode_fin_extrait": 3465,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0230_time_3450.00s-3465.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 231,
+      "intervalle_debut": 3465,
+      "intervalle_fin": 3480,
+      "timecode_debut_extrait": 3465,
+      "timecode_fin_extrait": 3480,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0231_time_3465.00s-3480.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 232,
+      "intervalle_debut": 3480,
+      "intervalle_fin": 3495,
+      "timecode_debut_extrait": 3480,
+      "timecode_fin_extrait": 3495,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0232_time_3480.00s-3495.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 233,
+      "intervalle_debut": 3495,
+      "intervalle_fin": 3510,
+      "timecode_debut_extrait": 3495,
+      "timecode_fin_extrait": 3510,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0233_time_3495.00s-3510.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 234,
+      "intervalle_debut": 3510,
+      "intervalle_fin": 3525,
+      "timecode_debut_extrait": 3510,
+      "timecode_fin_extrait": 3525,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0234_time_3510.00s-3525.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 235,
+      "intervalle_debut": 3525,
+      "intervalle_fin": 3540,
+      "timecode_debut_extrait": 3525,
+      "timecode_fin_extrait": 3540,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0235_time_3525.00s-3540.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 236,
+      "intervalle_debut": 3540,
+      "intervalle_fin": 3555,
+      "timecode_debut_extrait": 3540,
+      "timecode_fin_extrait": 3555,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0236_time_3540.00s-3555.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 237,
+      "intervalle_debut": 3555,
+      "intervalle_fin": 3570,
+      "timecode_debut_extrait": 3555,
+      "timecode_fin_extrait": 3570,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0237_time_3555.00s-3570.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 238,
+      "intervalle_debut": 3570,
+      "intervalle_fin": 3585,
+      "timecode_debut_extrait": 3570,
+      "timecode_fin_extrait": 3585,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0238_time_3570.00s-3585.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 239,
+      "intervalle_debut": 3585,
+      "intervalle_fin": 3600,
+      "timecode_debut_extrait": 3585,
+      "timecode_fin_extrait": 3600,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0239_time_3585.00s-3600.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 240,
+      "intervalle_debut": 3600,
+      "intervalle_fin": 3615,
+      "timecode_debut_extrait": 3600,
+      "timecode_fin_extrait": 3615,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0240_time_3600.00s-3615.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 241,
+      "intervalle_debut": 3615,
+      "intervalle_fin": 3630,
+      "timecode_debut_extrait": 3615,
+      "timecode_fin_extrait": 3630,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0241_time_3615.00s-3630.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 242,
+      "intervalle_debut": 3630,
+      "intervalle_fin": 3645,
+      "timecode_debut_extrait": 3630,
+      "timecode_fin_extrait": 3645,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0242_time_3630.00s-3645.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 243,
+      "intervalle_debut": 3645,
+      "intervalle_fin": 3660,
+      "timecode_debut_extrait": 3645,
+      "timecode_fin_extrait": 3660,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0243_time_3645.00s-3660.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 244,
+      "intervalle_debut": 3660,
+      "intervalle_fin": 3675,
+      "timecode_debut_extrait": 3660,
+      "timecode_fin_extrait": 3675,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0244_time_3660.00s-3675.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 245,
+      "intervalle_debut": 3675,
+      "intervalle_fin": 3690,
+      "timecode_debut_extrait": 3675,
+      "timecode_fin_extrait": 3690,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0245_time_3675.00s-3690.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 246,
+      "intervalle_debut": 3690,
+      "intervalle_fin": 3705,
+      "timecode_debut_extrait": 3690,
+      "timecode_fin_extrait": 3705,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0246_time_3690.00s-3705.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 247,
+      "intervalle_debut": 3705,
+      "intervalle_fin": 3720,
+      "timecode_debut_extrait": 3705,
+      "timecode_fin_extrait": 3720,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0247_time_3705.00s-3720.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 248,
+      "intervalle_debut": 3720,
+      "intervalle_fin": 3735,
+      "timecode_debut_extrait": 3720,
+      "timecode_fin_extrait": 3735,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0248_time_3720.00s-3735.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 249,
+      "intervalle_debut": 3735,
+      "intervalle_fin": 3750,
+      "timecode_debut_extrait": 3735,
+      "timecode_fin_extrait": 3750,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0249_time_3735.00s-3750.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 250,
+      "intervalle_debut": 3750,
+      "intervalle_fin": 3765,
+      "timecode_debut_extrait": 3750,
+      "timecode_fin_extrait": 3765,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0250_time_3750.00s-3765.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 251,
+      "intervalle_debut": 3765,
+      "intervalle_fin": 3780,
+      "timecode_debut_extrait": 3765,
+      "timecode_fin_extrait": 3780,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0251_time_3765.00s-3780.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 252,
+      "intervalle_debut": 3780,
+      "intervalle_fin": 3795,
+      "timecode_debut_extrait": 3780,
+      "timecode_fin_extrait": 3795,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0252_time_3780.00s-3795.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 253,
+      "intervalle_debut": 3795,
+      "intervalle_fin": 3810,
+      "timecode_debut_extrait": 3795,
+      "timecode_fin_extrait": 3810,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0253_time_3795.00s-3810.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 254,
+      "intervalle_debut": 3810,
+      "intervalle_fin": 3825,
+      "timecode_debut_extrait": 3810,
+      "timecode_fin_extrait": 3825,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0254_time_3810.00s-3825.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 255,
+      "intervalle_debut": 3825,
+      "intervalle_fin": 3840,
+      "timecode_debut_extrait": 3825,
+      "timecode_fin_extrait": 3840,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0255_time_3825.00s-3840.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 256,
+      "intervalle_debut": 3840,
+      "intervalle_fin": 3855,
+      "timecode_debut_extrait": 3840,
+      "timecode_fin_extrait": 3855,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0256_time_3840.00s-3855.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 339,
+          "start": 3854.283,
+          "end": 3856.18,
+          "text": "Who's there?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 257,
+      "intervalle_debut": 3855,
+      "intervalle_fin": 3870,
+      "timecode_debut_extrait": 3855,
+      "timecode_fin_extrait": 3870,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0257_time_3855.00s-3870.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 258,
+      "intervalle_debut": 3870,
+      "intervalle_fin": 3885,
+      "timecode_debut_extrait": 3870,
+      "timecode_fin_extrait": 3885,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0258_time_3870.00s-3885.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 259,
+      "intervalle_debut": 3885,
+      "intervalle_fin": 3900,
+      "timecode_debut_extrait": 3885,
+      "timecode_fin_extrait": 3900,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0259_time_3885.00s-3900.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 260,
+      "intervalle_debut": 3900,
+      "intervalle_fin": 3915,
+      "timecode_debut_extrait": 3900,
+      "timecode_fin_extrait": 3915,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0260_time_3900.00s-3915.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 261,
+      "intervalle_debut": 3915,
+      "intervalle_fin": 3930,
+      "timecode_debut_extrait": 3915,
+      "timecode_fin_extrait": 3930,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0261_time_3915.00s-3930.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 262,
+      "intervalle_debut": 3930,
+      "intervalle_fin": 3945,
+      "timecode_debut_extrait": 3930,
+      "timecode_fin_extrait": 3945,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0262_time_3930.00s-3945.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 340,
+          "start": 3939.732,
+          "end": 3942.111,
+          "text": "Indy."
+        },
+        {
+          "index": 341,
+          "start": 3942.214,
+          "end": 3945.214,
+          "text": "Ohh. I'm so sorry, boy."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 263,
+      "intervalle_debut": 3945,
+      "intervalle_fin": 3960,
+      "timecode_debut_extrait": 3945,
+      "timecode_fin_extrait": 3960,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0263_time_3945.00s-3960.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 342,
+          "start": 3956.283,
+          "end": 3958.56,
+          "text": "How did you get back here?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 264,
+      "intervalle_debut": 3960,
+      "intervalle_fin": 3975,
+      "timecode_debut_extrait": 3960,
+      "timecode_fin_extrait": 3975,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0264_time_3960.00s-3975.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 343,
+          "start": 3962.318,
+          "end": 3964.043,
+          "text": "Come on."
+        },
+        {
+          "index": 344,
+          "start": 3967.456,
+          "end": 3970.698,
+          "text": "Come here. Come here."
+        },
+        {
+          "index": 345,
+          "start": 3970.801,
+          "end": 3972.698,
+          "text": "What's going on?"
+        },
+        {
+          "index": 346,
+          "start": 3972.801,
+          "end": 3975.594,
+          "text": "What's wrong? What's wrong?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 265,
+      "intervalle_debut": 3975,
+      "intervalle_fin": 3990,
+      "timecode_debut_extrait": 3975,
+      "timecode_fin_extrait": 3990,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0265_time_3975.00s-3990.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 347,
+          "start": 3977.56,
+          "end": 3980.111,
+          "text": "What happened?"
+        },
+        {
+          "index": 348,
+          "start": 3980.214,
+          "end": 3983.905,
+          "text": "How did you do this? How did you get up here?"
+        },
+        {
+          "index": 349,
+          "start": 3984.008,
+          "end": 3985.801,
+          "text": "Huh?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 266,
+      "intervalle_debut": 3990,
+      "intervalle_fin": 4005,
+      "timecode_debut_extrait": 3990,
+      "timecode_fin_extrait": 4005,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0266_time_3990.00s-4005.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 267,
+      "intervalle_debut": 4005,
+      "intervalle_fin": 4020,
+      "timecode_debut_extrait": 4005,
+      "timecode_fin_extrait": 4020,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0267_time_4005.00s-4020.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 268,
+      "intervalle_debut": 4020,
+      "intervalle_fin": 4035,
+      "timecode_debut_extrait": 4020,
+      "timecode_fin_extrait": 4035,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0268_time_4020.00s-4035.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 269,
+      "intervalle_debut": 4035,
+      "intervalle_fin": 4050,
+      "timecode_debut_extrait": 4035,
+      "timecode_fin_extrait": 4050,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0269_time_4035.00s-4050.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 270,
+      "intervalle_debut": 4050,
+      "intervalle_fin": 4065,
+      "timecode_debut_extrait": 4050,
+      "timecode_fin_extrait": 4065,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0270_time_4050.00s-4065.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 271,
+      "intervalle_debut": 4065,
+      "intervalle_fin": 4080,
+      "timecode_debut_extrait": 4065,
+      "timecode_fin_extrait": 4080,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0271_time_4065.00s-4080.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 272,
+      "intervalle_debut": 4080,
+      "intervalle_fin": 4095,
+      "timecode_debut_extrait": 4080,
+      "timecode_fin_extrait": 4095,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0272_time_4080.00s-4095.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 273,
+      "intervalle_debut": 4095,
+      "intervalle_fin": 4110,
+      "timecode_debut_extrait": 4095,
+      "timecode_fin_extrait": 4110,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0273_time_4095.00s-4110.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 274,
+      "intervalle_debut": 4110,
+      "intervalle_fin": 4125,
+      "timecode_debut_extrait": 4110,
+      "timecode_fin_extrait": 4125,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0274_time_4110.00s-4125.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 275,
+      "intervalle_debut": 4125,
+      "intervalle_fin": 4140,
+      "timecode_debut_extrait": 4125,
+      "timecode_fin_extrait": 4140,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0275_time_4125.00s-4140.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 350,
+          "start": 4135.56,
+          "end": 4137.836,
+          "text": "You're a good dog."
+        },
+        {
+          "index": 351,
+          "start": 4139.283,
+          "end": 4140.905,
+          "text": "No."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 276,
+      "intervalle_debut": 4140,
+      "intervalle_fin": 4155,
+      "timecode_debut_extrait": 4140,
+      "timecode_fin_extrait": 4155,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0276_time_4140.00s-4155.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 352,
+          "start": 4147.456,
+          "end": 4150.663,
+          "text": "Boy, you can't save me."
+        },
+        {
+          "index": 353,
+          "start": 4152.283,
+          "end": 4155.076,
+          "text": "You gotta stay here."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 277,
+      "intervalle_debut": 4155,
+      "intervalle_fin": 4170,
+      "timecode_debut_extrait": 4155,
+      "timecode_fin_extrait": 4170,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0277_time_4155.00s-4170.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 278,
+      "intervalle_debut": 4170,
+      "intervalle_fin": 4185,
+      "timecode_debut_extrait": 4170,
+      "timecode_fin_extrait": 4185,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0278_time_4170.00s-4185.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 279,
+      "intervalle_debut": 4185,
+      "intervalle_fin": 4200,
+      "timecode_debut_extrait": 4185,
+      "timecode_fin_extrait": 4200,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0279_time_4185.00s-4200.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 280,
+      "intervalle_debut": 4200,
+      "intervalle_fin": 4215,
+      "timecode_debut_extrait": 4200,
+      "timecode_fin_extrait": 4215,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0280_time_4200.00s-4215.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 281,
+      "intervalle_debut": 4215,
+      "intervalle_fin": 4230,
+      "timecode_debut_extrait": 4215,
+      "timecode_fin_extrait": 4230,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0281_time_4215.00s-4230.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 282,
+      "intervalle_debut": 4230,
+      "intervalle_fin": 4245,
+      "timecode_debut_extrait": 4230,
+      "timecode_fin_extrait": 4245,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0282_time_4230.00s-4245.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 283,
+      "intervalle_debut": 4245,
+      "intervalle_fin": 4260,
+      "timecode_debut_extrait": 4245,
+      "timecode_fin_extrait": 4260,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0283_time_4245.00s-4260.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 354,
+          "start": 4251.421,
+          "end": 4253.663,
+          "text": "Oh, God."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 284,
+      "intervalle_debut": 4260,
+      "intervalle_fin": 4275,
+      "timecode_debut_extrait": 4260,
+      "timecode_fin_extrait": 4275,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0284_time_4260.00s-4275.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 355,
+          "start": 4264.56,
+          "end": 4266.974,
+          "text": "Hey!"
+        },
+        {
+          "index": 356,
+          "start": 4269.008,
+          "end": 4271.214,
+          "text": "Hey!"
+        },
+        {
+          "index": 357,
+          "start": 4273.594,
+          "end": 4275.49,
+          "text": "Okay. Come on., Indy. Let's go."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 285,
+      "intervalle_debut": 4275,
+      "intervalle_fin": 4290,
+      "timecode_debut_extrait": 4275,
+      "timecode_fin_extrait": 4290,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0285_time_4275.00s-4290.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 358,
+          "start": 4279.801,
+          "end": 4281.836,
+          "text": "Come on, Indy."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 286,
+      "intervalle_debut": 4290,
+      "intervalle_fin": 4305,
+      "timecode_debut_extrait": 4290,
+      "timecode_fin_extrait": 4305,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0286_time_4290.00s-4305.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 287,
+      "intervalle_debut": 4305,
+      "intervalle_fin": 4320,
+      "timecode_debut_extrait": 4305,
+      "timecode_fin_extrait": 4320,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0287_time_4305.00s-4320.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 288,
+      "intervalle_debut": 4320,
+      "intervalle_fin": 4335,
+      "timecode_debut_extrait": 4320,
+      "timecode_fin_extrait": 4335,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0288_time_4320.00s-4335.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 289,
+      "intervalle_debut": 4335,
+      "intervalle_fin": 4350,
+      "timecode_debut_extrait": 4335,
+      "timecode_fin_extrait": 4350,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0289_time_4335.00s-4350.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 290,
+      "intervalle_debut": 4350,
+      "intervalle_fin": 4365,
+      "timecode_debut_extrait": 4350,
+      "timecode_fin_extrait": 4365,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0290_time_4350.00s-4365.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 291,
+      "intervalle_debut": 4365,
+      "intervalle_fin": 4380,
+      "timecode_debut_extrait": 4365,
+      "timecode_fin_extrait": 4380,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0291_time_4365.00s-4380.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 292,
+      "intervalle_debut": 4380,
+      "intervalle_fin": 4395,
+      "timecode_debut_extrait": 4380,
+      "timecode_fin_extrait": 4395,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0292_time_4380.00s-4395.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 293,
+      "intervalle_debut": 4395,
+      "intervalle_fin": 4410,
+      "timecode_debut_extrait": 4395,
+      "timecode_fin_extrait": 4410,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0293_time_4395.00s-4410.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 294,
+      "intervalle_debut": 4410,
+      "intervalle_fin": 4425,
+      "timecode_debut_extrait": 4410,
+      "timecode_fin_extrait": 4425,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0294_time_4410.00s-4425.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 295,
+      "intervalle_debut": 4425,
+      "intervalle_fin": 4427.52,
+      "timecode_debut_extrait": 4425,
+      "timecode_fin_extrait": 4427.52,
+      "video_path": "analyse\\videos\\Good Boy (2025) [1080p] [BluRay] [5.1] [YTS.LT]\\interval_0295_time_4425.00s-4427.52s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    }
+  ]
+}

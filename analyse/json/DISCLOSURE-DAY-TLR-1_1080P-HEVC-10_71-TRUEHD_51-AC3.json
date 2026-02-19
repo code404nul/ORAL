@@ -1,0 +1,289 @@
+{
+  "movie_id": "DISCLOSURE-DAY-TLR-1_1080P-HEVC-10_71-TRUEHD_51-AC3",
+  "movie_path": "E:\\film_oral\\Disclosure Day (2026)\\DISCLOSURE-DAY-TLR-1_1080P-HEVC-10_71-TRUEHD_51-AC3.mkv",
+  "subtitle_path": "E:\\film_oral\\Disclosure Day (2026)\\DISCLOSURE-DAY-TLR-1_1080P-HEVC-10_71-TRUEHD_51-AC3.en.srt",
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 9,
+  "dossier_videos": "analyse\\videos\\DISCLOSURE-DAY-TLR-1_1080P-HEVC-10_71-TRUEHD_51-AC3",
+  "date_traitement": "2026-02-19T11:16:51.329831",
+  "stats_extraction": {
+    "total": 9,
+    "reussis": 0,
+    "echecs": 9,
+    "timeouts": 0,
+    "gpu_errors": 9,
+    "cpu_fallbacks": 0
+  },
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 15,
+      "video_path": null,
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": "﻿1",
+          "start": 1.633,
+          "end": 5.8,
+          "text": "(majestic orchestra music) (spaceships zooming)"
+        },
+        {
+          "index": 2,
+          "start": 8.667,
+          "end": 11.867,
+          "text": "(electricity crackling)"
+        },
+        {
+          "index": 3,
+          "start": 11.867,
+          "end": 15.467,
+          "text": "(majestic orchestra music)"
+        }
+      ],
+      "failed_attempts": 1
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": null,
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 4,
+          "start": 26.067,
+          "end": 29.067,
+          "text": "(suspenseful music)"
+        }
+      ],
+      "failed_attempts": 1
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": null,
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 5,
+          "start": 38.4,
+          "end": 41.8,
+          "text": "Co, jeżeli nie jesteśmy sami?"
+        },
+        {
+          "index": 6,
+          "start": 41.8,
+          "end": 44.033,
+          "text": "Co, jeżeli setki tysięcy ludzi twierdzi,"
+        },
+        {
+          "index": 7,
+          "start": 44.033,
+          "end": 47.667,
+          "text": "że widzieli niezidentyfikowane obiekty latające"
+        }
+      ],
+      "failed_attempts": 1
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": null,
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 8,
+          "start": 47.667,
+          "end": 51.833,
+          "text": "i w rzeczywistości widzieli pozaziemskie statki kosmiczne?"
+        },
+        {
+          "index": 9,
+          "start": 53.3,
+          "end": 55.533,
+          "text": "What if the thousands of people all over the world"
+        },
+        {
+          "index": 10,
+          "start": 55.533,
+          "end": 58.833,
+          "text": "who tell about their encounters with alien beings"
+        },
+        {
+          "index": 11,
+          "start": 58.833,
+          "end": 62.133,
+          "text": "through friendly contact or even forced abductions"
+        }
+      ],
+      "failed_attempts": 1
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": null,
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 12,
+          "start": 62.133,
+          "end": 64.8,
+          "text": "were actually telling the truth?"
+        },
+        {
+          "index": 13,
+          "start": 66.233,
+          "end": 68.833,
+          "text": "What if our governments had known about an ET presence"
+        },
+        {
+          "index": 14,
+          "start": 68.833,
+          "end": 71.1,
+          "text": "for more than half a century?"
+        },
+        {
+          "index": 15,
+          "start": 71.1,
+          "end": 73.7,
+          "text": "If they were in possession of alien technology"
+        },
+        {
+          "index": 16,
+          "start": 73.7,
+          "end": 78.167,
+          "text": "that had the potential of changing how our world is run"
+        }
+      ],
+      "failed_attempts": 1
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": null,
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 17,
+          "start": 78.167,
+          "end": 80.767,
+          "text": "and they chose to keep the public in the dark"
+        },
+        {
+          "index": 18,
+          "start": 80.767,
+          "end": 84.533,
+          "text": "through a secret campaign of suppressed information?"
+        },
+        {
+          "index": 19,
+          "start": 84.533,
+          "end": 87.7,
+          "text": "What if that campaign acted as a chain around the ankles"
+        },
+        {
+          "index": 20,
+          "start": 87.7,
+          "end": 91.867,
+          "text": "of humanity, keeping us from rising to a whole new level"
+        }
+      ],
+      "failed_attempts": 1
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": null,
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 21,
+          "start": 91.867,
+          "end": 95.2,
+          "text": "of consciousness and understanding of ourselves,"
+        },
+        {
+          "index": 22,
+          "start": 95.2,
+          "end": 98.433,
+          "text": "our planet, and the universe around us?"
+        },
+        {
+          "index": 23,
+          "start": 99.533,
+          "end": 102.933,
+          "text": "And what if that campaign ended tomorrow?"
+        }
+      ],
+      "failed_attempts": 1
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": null,
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 24,
+          "start": 105.1,
+          "end": 109.167,
+          "text": "(beeping and type keys clicking)"
+        }
+      ],
+      "failed_attempts": 1
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 129.888,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 129.888,
+      "video_path": null,
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 25,
+          "start": 123.833,
+          "end": 126.333,
+          "text": "- It's one of these currents of history"
+        },
+        {
+          "index": 26,
+          "start": 126.333,
+          "end": 128.3,
+          "text": "that won't be denied."
+        },
+        {
+          "index": 27,
+          "start": 128.3,
+          "end": 129.967,
+          "text": "The truth is going to come out."
+        }
+      ],
+      "failed_attempts": 1
+    }
+  ]
+}

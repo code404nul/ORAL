@@ -1,0 +1,1848 @@
+{
+  "movie_id": "Anthony.Jeselnik.Fire.in.the.Maternity.Ward.2019.1080p.NF.WEBRip.DDP5.1.x264-NTG",
+  "date_analyse": "2026-02-18T19:45:18.484541",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "analyse_action": "ERREUR: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "analyse_action": "ERREUR: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "analyse_action": "ERREUR: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "analyse_action": "ERREUR: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "analyse_action": "ERREUR: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's standing under bright stage lighting, holding a handheld microphone and speaking to an audience. The performance takes place in a dimly lit theater with red and black lighting, creating a dramatic atmosphere. The man is dressed casually in a black leather jacket over a gray shirt with blue jeans, and he has short brown hair with a beard and mustache. He's positioned on the left side of the stage, facing toward the right where the audience would be, and appears to be actively engaging with his audience during the performance."
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under bright stage lighting, holding a handheld microphone and addressing an unseen audience."
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an audience, gesturing with his hands as he delivers his material. The performance takes place in a dimly lit theater setting with red curtains and spotlights illuminating the stage."
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under red stage lighting with a backdrop of red and black horizontal lines, holding a handheld microphone and addressing an audience."
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up show. He's delivering a performance to an audience in a theater setting, holding a handheld microphone and speaking while moving across the stage."
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's standing under dramatic lighting with red and blue spotlights, holding a handheld microphone and speaking to an audience. The performance takes place on a stage with a red curtain backdrop, and he's dressed casually in a black leather jacket over a gray shirt with blue jeans."
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit venue with dramatic red lighting and a red curtain backdrop, creating an intimate atmosphere typical of comedy clubs or small performance spaces."
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an audience, with his mouth open mid-sentence and his eyes focused slightly to the left as he delivers his material."
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue to an audience, holding a handheld microphone in his right hand while gesturing with his left hand to emphasize his points."
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under dramatic lighting with a red backdrop featuring horizontal lines, holding a handheld microphone in his right hand. He's dressed casually in a black leather jacket over a gray T-shirt and blue jeans, with short brown hair and a beard.\n\nThe performer is actively engaging with his audience, using expressive hand gestures to emphasize his points. He's looking slightly to his left at times, then shifting his gaze to the right, suggesting he's addressing different sections of the crowd. His body language is animated and purposeful, with his left hand occasionally resting on his hip or gesturing outward.\n\nThe overall atmosphere is energetic and theatrical, with the lighting creating a moody, intimate feel to the performance space. The man appears to be delivering a speech or stand-up routine, maintaining a confident and engaging presence throughout."
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under a bright spotlight on a dimly lit stage with a red curtain backdrop, holding a handheld microphone and delivering what appears to be a stand-up routine or presentation."
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's standing under a spotlight on a dark stage with a red curtain backdrop, holding a handheld microphone and speaking to an audience."
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine while holding a handheld microphone, speaking directly to the audience with animated expressions and gestures. The performance takes place in a dimly lit venue with dramatic red lighting that creates a moody atmosphere. The comedian appears to be in the middle of an energetic set, engaging with the crowd and using his body language to emphasize his points."
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine to an audience, holding a handheld microphone and speaking with animated expressions. The performance takes place in a dimly lit comedy club setting with red curtains and spotlights creating a dramatic atmosphere. The comedian appears to be in the middle of his set, engaging with the audience while moving slightly on stage."
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under a spotlight, holding a handheld microphone and speaking to an unseen audience. He's dressed in a black leather jacket over a gray shirt and has a beard and mustache. The performance appears to be taking place in a dimly lit venue with red and black lighting effects in the background."
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an unseen audience, delivering his material with expressive facial movements and gestures."
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "analyse_action": "The scene shows a comedian performing on stage in a dimly lit theater. He's standing under spotlights, holding a microphone and delivering what appears to be a stand-up comedy routine. The performer is dressed in a black leather jacket over a gray shirt with blue jeans and black shoes, and he has short brown hair with a beard and mustache. He's engaging with the audience, occasionally glancing down at his notes and then back up to the crowd. The atmosphere is intimate and focused, with the red curtain backdrop and colored spotlights creating a dramatic setting for the comedy performance."
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "analyse_action": "A comedian is performing on stage in a dimly lit venue. He's standing under spotlights, wearing a black leather jacket over a gray shirt with blue jeans, holding a handheld microphone. He's delivering a stand-up routine, moving between addressing the audience directly and glancing to his right as if acknowledging someone offstage. The stage has a red curtain backdrop with red and white lighting, and you can see the silhouettes of audience members in the foreground. The atmosphere is that of a live comedy performance with the comedian engaging with his audience."
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "analyse_action": "A man is performing on stage in what appears to be a comedy or stand-up routine. He's standing under bright spotlights, holding a microphone and speaking to an audience whose heads are visible in the foreground."
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under a spotlight, holding a handheld microphone and delivering a stand-up routine to an audience. The comedian is wearing a black leather jacket over a gray shirt with blue jeans, and he has short brown hair with a beard and mustache. He's animatedly gesturing with his free hand while speaking, using expressive body language to emphasize his points. The stage has a dark red curtain backdrop with horizontal lines, and there's a bright red oval light visible behind him. The atmosphere is that of a live comedy performance, with the comedian engaging with the audience through his energetic delivery and physical gestures."
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit theater setting with dramatic red lighting that creates a moody atmosphere. The man maintains an engaged and animated presence throughout, looking slightly to the side as he speaks and occasionally glancing forward, clearly addressing an audience."
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "analyse_action": "The scene shows a comedian performing on stage in a dimly lit theater. He's standing under a spotlight, holding a handheld microphone and delivering what appears to be a stand-up comedy routine. The comedian is dressed in a black leather jacket over a gray shirt with blue jeans and black shoes, and he has short brown hair with a beard and mustache. He's animatedly gesturing with his hands as he speaks to the audience, who are visible as silhouettes in the foreground. The stage is set with red curtains and spotlights, creating an intimate comedy club atmosphere."
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "analyse_action": "A man is performing stand-up comedy on stage. He's holding a handheld microphone and delivering jokes to an audience, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit comedy club setting with red curtains and spotlights creating a dramatic atmosphere."
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "analyse_action": "A man is performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an audience while using expressive hand gestures to emphasize his points."
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "analyse_action": "The scene shows a comedian performing on stage in a dimly lit theater. He's standing under a spotlight, holding a handheld microphone and speaking to an audience seated in the darkened auditorium. The performer is dressed casually in a black leather jacket over a gray shirt with blue jeans, and he has short brown hair with a beard and mustache. He's gesturing with his free hand as he delivers his material, maintaining eye contact with the audience. The atmosphere is intimate and focused, with the red lighting creating a dramatic backdrop for the comedy performance."
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "analyse_action": "The scene shows a comedian performing on stage in a large theater. He's standing under bright stage lighting, wearing a black leather jacket over a gray shirt with blue jeans. The audience is seated in the dimly lit auditorium, watching him perform.\n\nThe comedian is holding a microphone and appears to be in the middle of delivering a stand-up routine. He's animated and expressive, using hand gestures to emphasize his points while speaking. His delivery is energetic and engaging, with him looking around the room and connecting with the audience.\n\nThe setting is quite dramatic, with the contrast between the brightly lit stage and the darkened auditorium creating an intimate atmosphere. The theater has multiple levels with balconies, and the overall ambiance suggests this is a professional comedy performance in a sizable venue."
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit theater setting with dramatic red and blue lighting, creating an intimate atmosphere. The performer is dressed in a black leather jacket over a gray shirt with blue jeans, and he has short spiky blonde hair with a beard and mustache. He's positioned slightly off-center on the stage, facing forward but looking to his right as he speaks, maintaining an engaged and animated presence throughout his act."
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's walking across the stage holding a handheld microphone, delivering his performance to an audience. The stage is set with dramatic lighting featuring red and blue spotlights, and there's a red curtain backdrop. The performer is dressed in a black leather jacket over a gray shirt with blue jeans, and he has a beard and mustache. He's engaging with the audience, looking around as he speaks, and occasionally glancing to his left while maintaining his position on stage."
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "analyse_action": "A comedian is performing on stage in a dimly lit theater. He's standing at the center of the stage holding a handheld microphone, wearing a black leather jacket over a gray T-shirt. The performer is delivering a stand-up routine, speaking with animated expressions and gesturing with his free hand as he addresses the audience."
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "analyse_action": "The scene shows a comedian performing on stage in a dimly lit theater. He's standing under a spotlight, holding a microphone and delivering a stand-up routine to an audience. The comedian is dressed in a black leather jacket over a gray shirt with blue jeans and black shoes. He has short brown hair with a beard and mustache, and is animatedly gesturing with his free hand while speaking. The stage has a red curtain backdrop with horizontal lines, and the lighting creates a dramatic atmosphere with a blue glow at his feet and a red light visible in the background."
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with animated energy, using expressive hand gestures and facial expressions to engage his audience. The performer is holding a handheld microphone and moving across the stage, addressing the crowd with his comedic material. The stage is set with dramatic lighting that creates a focused spotlight on him against a dark backdrop with red horizontal lines, creating an intimate and theatrical atmosphere typical of a comedy performance."
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under bright stage lighting, holding a handheld microphone and addressing an unseen audience."
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "analyse_action": "The scene shows a comedian performing on stage in a theater. He's standing under bright stage lights, holding a handheld microphone and delivering a stand-up routine to an audience. The comedian is wearing a black leather jacket over a gray shirt with blue jeans and black shoes. He's animated in his delivery, gesturing with his free hand while maintaining eye contact with the crowd. The stage is set with red curtains and spotlights, creating a classic comedy club atmosphere. The audience is visible in the foreground, watching attentively as he performs."
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's standing under bright stage lighting with a red curtain backdrop, holding a handheld microphone and speaking to an audience."
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, speaking directly to an unseen audience."
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit theater setting with red curtains and spotlights creating a dramatic atmosphere. The audience is visible in the foreground, watching attentively as he speaks."
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine while holding a handheld microphone, speaking directly to the audience with animated expressions and gestures. The performance takes place in a dimly lit theater setting with red curtains and spotlights, creating an intimate atmosphere typical of comedy shows."
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, speaking directly to an unseen audience."
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, speaking directly to the audience with animated expressions and gestures."
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under a spotlight, holding a handheld microphone and delivering what appears to be a stand-up routine or presentation."
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "analyse_action": "A comedian is performing on stage in a dimly lit theater. He's standing under two spotlights that create a blue glow on the floor and cast a red hue across the backdrop. The comedian is dressed in a black leather jacket over a gray shirt with blue jeans and black shoes. He's holding a handheld microphone and delivering a stand-up routine to an audience, moving slightly as he speaks and gesturing with his free hand while maintaining eye contact with the crowd."
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking directly to the audience, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit theater setting with dramatic red lighting and a red curtain backdrop, creating an intimate atmosphere typical of live comedy shows."
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with energetic body language, using expressive hand gestures and animated facial expressions to engage the audience."
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under bright stage lights, holding a microphone and delivering what appears to be a stand-up comedy routine. The performer is dressed casually in a black leather jacket over a gray shirt with blue jeans, and he has short brown hair with a beard and mustache. He's engaging with the audience, looking around the room and gesturing with his free hand as he speaks. The stage is set with red curtains and spotlights, creating an intimate comedy club atmosphere where he's entertaining the audience."
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's standing on a small black platform at the center of the stage, holding a handheld microphone in his right hand and speaking to an audience whose heads are visible in the foreground."
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue to an audience, holding a handheld microphone and speaking with animated expressions and gestures."
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue to an audience, holding a handheld microphone and using expressive hand gestures to emphasize his points."
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under bright stage lights, holding a handheld microphone and speaking to an audience. The performer is dressed in a black leather jacket over a gray shirt with blue jeans, and has short brown hair with a beard and mustache. He's delivering what appears to be a stand-up comedy routine, engaging with the audience while maintaining a focused, animated presence on stage."
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under bright stage lights, holding a handheld microphone and delivering a stand-up routine to an audience. The performer is dressed in a black leather jacket over a gray shirt with blue jeans, and he has short brown hair with a beard and mustache. He's animated and engaged with his material, using expressive hand gestures and facial expressions as he speaks. The stage is set with red curtains and spotlights, creating an intimate comedy club atmosphere."
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue to an unseen audience, holding a handheld microphone and using expressive hand gestures to emphasize his points."
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, using expressive hand gestures to emphasize his points. His body language is animated and engaged, with him looking slightly to the side as he speaks and occasionally glancing forward. The performance takes place in a dimly lit setting with red curtains and spotlights, creating an intimate atmosphere typical of a comedy club or small theater venue."
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under bright red lighting with a red curtain backdrop, holding a handheld microphone and speaking to an audience. He's dressed in a black leather jacket over a gray shirt and has short brown hair with a beard. Throughout his performance, he maintains a serious expression while occasionally glancing to his right, gesturing with his left hand, and occasionally smiling. The stage is well-lit with red spotlights, creating a focused atmosphere for what appears to be a stand-up comedy or monologue performance."
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under bright red lighting with a red curtain backdrop, holding a handheld microphone and speaking to an audience. He's dressed in a black leather jacket over a gray shirt and blue jeans, with short spiky brown hair and a beard. The performance appears to be taking place in a theater or comedy club setting, with the performer addressing the crowd from the stage."
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under dramatic lighting with a spotlight illuminating him against a red curtain backdrop. He's holding a handheld microphone and appears to be speaking or performing, likely as a comedian or entertainer. His body language suggests he's engaged in delivering a routine or presentation, with his gaze shifting between the audience and the stage. The overall atmosphere is that of a live performance or comedy show taking place on a professional stage."
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "analyse_action": "A man is performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an audience, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit theater setting with dramatic lighting, including red and white spotlights that create a moody atmosphere. The man is dressed casually in a black leather jacket over a gray shirt with blue jeans, and he has short brown hair with a beard and mustache. He's clearly engaging with the audience, moving around the stage and using his body language to punctuate his delivery."
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under bright stage lighting, holding a handheld microphone and speaking to an audience. He's dressed in a black leather jacket over a gray shirt with blue jeans, and has short spiky brown hair with a beard and mustache. The performance takes place in front of a red curtain backdrop with spotlights illuminating him."
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine while holding a handheld microphone, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit theater setting with a red curtain backdrop, creating an intimate atmosphere typical of comedy shows."
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, speaking directly to an unseen audience."
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "analyse_action": "The scene shows a comedian performing on stage in a theater setting. He's delivering a stand-up routine, holding a handheld microphone and speaking to an audience seated in the dimly lit auditorium. The performer is wearing a black leather jacket over a gray shirt with blue jeans, and has short brown hair with a beard and mustache. He's animated in his delivery, using expressive hand gestures and facial expressions to engage with the audience. The stage is illuminated by spotlights, creating a dramatic atmosphere with red and blue lighting effects against the dark backdrop."
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "analyse_action": "A man is performing on stage in what appears to be a comedy or stand-up routine. He's walking across the stage holding a handheld microphone in his left hand while gesturing with his right hand. The audience is seated in the dimly lit theater, watching him perform."
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under a spotlight on a dimly lit stage with red and blue lighting effects."
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "analyse_action": "A man is performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an audience, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit theater setting with dramatic lighting, including red spotlights and white beams that create a theatrical atmosphere. The man is dressed casually in a black leather jacket over a gray shirt with blue jeans, and he has short spiky blonde hair with a beard and mustache. He's positioned slightly to the right of center on the stage, engaging with the audience while delivering his material."
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under dramatic lighting with red curtains behind him, holding a handheld microphone and addressing an unseen audience."
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under dramatic lighting with a red curtain backdrop, holding a handheld microphone and addressing an unseen audience."
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "analyse_action": "A man is performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an audience while gesturing expressively with his free hand. He's dressed in a black leather jacket over a gray shirt with blue jeans and black shoes. The stage is set with red curtains and spotlights, creating a theatrical atmosphere. He's clearly engaging with his audience, using animated hand movements to emphasize his points as he delivers his performance."
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under bright stage lighting, holding a handheld microphone and speaking to an audience. He's dressed in a black leather jacket over a gray T-shirt and has short, spiky brown hair with a neatly trimmed beard and mustache."
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under a spotlight, holding a handheld microphone and speaking to an audience. He's dressed in a black leather jacket over a gray T-shirt, with short spiky brown hair and a beard. The performance takes place against a dark red backdrop with horizontal lines, creating a dramatic atmosphere. He appears to be delivering a speech or presentation, maintaining eye contact with the audience while occasionally glancing to his left. His body language is animated and engaged, with expressive gestures and facial movements that suggest he's making a point or telling a story."
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under bright spotlights, holding a handheld microphone and delivering a stand-up routine to an audience. The performer is wearing a black leather jacket over a gray shirt with blue jeans, and he has short brown hair with a beard and mustache. He's animated and expressive throughout his performance, using hand gestures to emphasize his points and occasionally glancing to his left as if acknowledging someone in the crowd. The stage is set with red curtains and red spotlights, creating a classic comedy club atmosphere."
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under a spotlight, holding a handheld microphone and delivering a stand-up routine to an audience. The performer is wearing a black leather jacket over a gray shirt with blue jeans, and has short spiky brown hair with a neatly trimmed beard and mustache. He's animated and engaged with his material, using expressive facial movements and gestures as he speaks. The stage is set with a red curtain backdrop and red and white spotlights, creating a classic comedy club atmosphere."
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine while holding a handheld microphone in his right hand and resting his left hand on his hip. He's wearing a black leather jacket over a gray T-shirt and blue jeans, with short brown hair and a beard. The performer is speaking to an unseen audience, maintaining a steady posture as he addresses them. The stage is dimly lit with red and black lighting, creating a dramatic atmosphere typical of comedy performances."
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with animated gestures, holding a handheld microphone and engaging with the audience. The performance takes place in a dimly lit theater setting with red curtains and spotlights, creating an intimate atmosphere typical of comedy shows."
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue to an audience, holding a handheld microphone and using expressive hand gestures to emphasize his points."
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under bright stage lighting, holding a handheld microphone and delivering a stand-up routine to an audience."
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with animated expressions and gestures, holding a handheld microphone as he speaks to an unseen audience."
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "analyse_action": "The scene shows a comedian performing on stage in a theater. He's standing under a spotlight, holding a microphone and delivering a stand-up routine to an audience. The comedian is wearing a black leather jacket over a gray shirt, with short brown hair and a beard. He's animated in his delivery, gesturing with his free hand while speaking. The theater has a dark, intimate atmosphere with red lighting and a balcony visible above the audience."
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking directly to the audience with an animated, expressive delivery. \n\nThroughout his performance, he uses various hand gestures to emphasize his points - he raises his left hand with the palm up while speaking, then places his hand over his chest in a moment of emphasis. He also points toward his chest with his left hand while continuing to talk.\n\nThe setting is quite dramatic, with a dark red backdrop featuring horizontal lines and a blue spotlight illuminating him from the side. The stage has a black floor with blue lighting at the bottom, creating a theatrical atmosphere. He's dressed casually in a black leather jacket over a gray shirt, paired with blue jeans and black shoes.\n\nThe overall impression is of a live stand-up performance, with the man engaging the audience through his energetic delivery and physical gestures while standing under the spotlight on the stage."
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's standing under bright stage lighting, holding a handheld microphone and speaking to an audience."
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an audience, with his mouth open mid-sentence and his eyes focused to the left as he delivers his material."
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking directly to the audience, delivering lines with animated expressions and gestures. His delivery is energetic and engaging, with him occasionally glancing to his left as if acknowledging someone offstage or reacting to something in the audience. The stage is set with dramatic red lighting and curtains, creating an intimate atmosphere typical of a comedy performance."
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under a spotlight, holding a handheld microphone and delivering a stand-up routine to an audience."
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under bright stage lighting, holding a handheld microphone and speaking to an audience. The performer is dressed in a black leather jacket over a gray shirt with blue jeans, and he has short brown hair with a beard and mustache. He's delivering what appears to be a stand-up comedy routine or monologue, maintaining eye contact with the audience while gesturing with his free hand. The stage is set with red curtains and spotlights, creating a classic comedy performance atmosphere."
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1305,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's standing under bright stage lights, holding a handheld microphone and speaking to an audience."
+    },
+    {
+      "intervalle_index": 87,
+      "intervalle_debut": 1305,
+      "intervalle_fin": 1320,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit theater setting with dramatic lighting that creates a moody atmosphere. The performer is dressed casually in a black leather jacket over a gray shirt, paired with blue jeans and black shoes. He's positioned in the center of the stage, engaging with the audience through his delivery and body language. The overall setting suggests this is a live comedy performance or similar entertainment act taking place in a theater environment."
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 1320,
+      "intervalle_fin": 1335,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under a spotlight, holding a handheld microphone and speaking to an audience. He's dressed in a black leather jacket over a gray shirt and has short brown hair with a beard and mustache. Throughout his performance, he uses expressive hand gestures to emphasize his points, occasionally pointing toward himself and making open-palmed motions. His delivery is animated and engaging, with him looking slightly upward at times and then back toward the audience. The stage is set with red curtains and a red staircase visible in the background, creating a theatrical atmosphere for his presentation or performance."
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 1335,
+      "intervalle_fin": 1350,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's standing alone on a dimly lit stage with a red curtain backdrop, holding a handheld microphone and speaking to an unseen audience."
+    },
+    {
+      "intervalle_index": 90,
+      "intervalle_debut": 1350,
+      "intervalle_fin": 1365,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under bright stage lighting, holding a handheld microphone and speaking to an audience. The performer is dressed in a black leather jacket over a gray T-shirt with blue jeans and black shoes. He has short brown hair with a beard and mustache, and is wearing a slight smile as he addresses the crowd. The stage has a dark red backdrop with horizontal lines, and there's a blue spotlight illuminating him from the side. The overall atmosphere suggests this is a comedy or stand-up performance taking place in a theater or similar venue."
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 1365,
+      "intervalle_fin": 1380,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under dramatic lighting with red and blue spotlights, delivering what appears to be a stand-up comedy routine or monologue. He's holding a handheld microphone and gesturing expressively with his free hand as he speaks to the audience. The stage has a theatrical atmosphere with red curtains and a dark floor, creating an intimate performance setting."
+    },
+    {
+      "intervalle_index": 92,
+      "intervalle_debut": 1380,
+      "intervalle_fin": 1395,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue to an audience, holding a handheld microphone and gesturing expressively with his free hand as he speaks."
+    },
+    {
+      "intervalle_index": 93,
+      "intervalle_debut": 1395,
+      "intervalle_fin": 1410,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an audience, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit venue with dramatic red and blue lighting that creates a moody atmosphere. The man is dressed casually in a black leather jacket over a gray shirt with blue jeans, and he has short brown hair with a beard and mustache. He's positioned slightly off-center on the stage, moving around as he delivers his material, with the audience visible as dark silhouettes in the foreground."
+    },
+    {
+      "intervalle_index": 94,
+      "intervalle_debut": 1410,
+      "intervalle_fin": 1425,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under dramatic lighting with red and white spotlights, delivering what appears to be a stand-up comedy routine. He's holding a handheld microphone and speaking directly to the audience, using expressive hand gestures to emphasize his points. His delivery is animated and engaging, with him looking around the room and making eye contact with different sections of the audience. The stage is set with a red curtain backdrop, creating an intimate and focused atmosphere for his performance."
+    },
+    {
+      "intervalle_index": 95,
+      "intervalle_debut": 1425,
+      "intervalle_fin": 1440,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under dramatic lighting with red and white spotlights, delivering a stand-up routine to an audience. The comedian is wearing a black leather jacket over a gray shirt with blue jeans, and he's holding a handheld microphone while gesturing expressively with his free hand. He appears to be in the middle of telling a joke or making a point, with his mouth open and eyes focused slightly to the left as he engages with the audience. The atmosphere is energetic and theatrical, with the red curtain backdrop and spotlights creating a classic comedy club setting."
+    },
+    {
+      "intervalle_index": 96,
+      "intervalle_debut": 1440,
+      "intervalle_fin": 1455,
+      "analyse_action": "A comedian is performing on stage in a dimly lit theater. He's standing under a spotlight, wearing a black leather jacket over a gray shirt with blue jeans, holding a handheld microphone. He's speaking to the audience with animated gestures, including pointing toward them and using his left hand to emphasize his points. The stage is set against a red curtain backdrop with red and blue spotlights creating a dramatic atmosphere. The audience is visible in the foreground, watching attentively as he delivers his stand-up routine."
+    },
+    {
+      "intervalle_index": 97,
+      "intervalle_debut": 1455,
+      "intervalle_fin": 1470,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue to an audience, holding a handheld microphone and using expressive hand gestures to emphasize his points."
+    },
+    {
+      "intervalle_index": 98,
+      "intervalle_debut": 1470,
+      "intervalle_fin": 1485,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, using expressive hand gestures to emphasize his points. The performer is positioned under bright stage lighting against a dark red curtain backdrop, creating a classic comedy club atmosphere. He's wearing a black leather jacket over a gray shirt and blue jeans, with his short brown hair and beard neatly styled. Throughout the performance, he maintains eye contact with the audience, occasionally glancing upward, and uses deliberate hand movements to punctuate his delivery."
+    },
+    {
+      "intervalle_index": 99,
+      "intervalle_debut": 1485,
+      "intervalle_fin": 1500,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with animated energy, holding a handheld microphone and using expressive hand gestures to emphasize his points. He's dressed in a black leather jacket over a gray T-shirt, with short spiky blonde hair and a beard. The performance takes place in a dimly lit theater setting with red curtains and spotlights creating a dramatic atmosphere. He appears to be engaging with the audience, looking slightly to the side as he speaks, and his body language suggests he's telling a story or making a point with humor."
+    },
+    {
+      "intervalle_index": 100,
+      "intervalle_debut": 1500,
+      "intervalle_fin": 1515,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, speaking directly to the audience with animated expressions and gestures."
+    },
+    {
+      "intervalle_index": 101,
+      "intervalle_debut": 1515,
+      "intervalle_fin": 1530,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, speaking directly to the audience with an engaged and expressive demeanor."
+    },
+    {
+      "intervalle_index": 102,
+      "intervalle_debut": 1530,
+      "intervalle_fin": 1545,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with animated gestures, holding a handheld microphone in his right hand while using his left hand to emphasize his points. He's standing in front of a red backdrop with horizontal lines, and the stage is illuminated by spotlights that create a dramatic atmosphere. The performer appears to be engaging with his audience, using expressive body language and facial expressions to convey his comedic material."
+    },
+    {
+      "intervalle_index": 103,
+      "intervalle_debut": 1545,
+      "intervalle_fin": 1560,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, speaking directly to the audience with animated gestures and expressive facial movements. The performance takes place in a dimly lit theater setting with dramatic red lighting that creates a moody, theatrical atmosphere. The man maintains a serious and focused expression throughout his act, suggesting he's engaging with the audience in a deliberate and purposeful manner."
+    },
+    {
+      "intervalle_index": 104,
+      "intervalle_debut": 1560,
+      "intervalle_fin": 1575,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an unseen audience, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit setting with dramatic red lighting that creates a theatrical atmosphere. The man is dressed in a black leather jacket over a gray shirt, and his delivery is animated and engaging as he addresses the audience."
+    },
+    {
+      "intervalle_index": 105,
+      "intervalle_debut": 1575,
+      "intervalle_fin": 1590,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under bright stage lights, holding a handheld microphone and delivering what appears to be a stand-up comedy routine. The comedian is wearing a black leather jacket over a gray shirt with blue jeans and black shoes. He's engaging with the audience, looking around the room and making eye contact with different people in the crowd. The performance takes place in a dimly lit venue with red curtains and spotlights creating a theatrical atmosphere."
+    },
+    {
+      "intervalle_index": 106,
+      "intervalle_debut": 1590,
+      "intervalle_fin": 1605,
+      "analyse_action": "The scene shows a comedian performing on stage in a dimly lit theater. He's standing center stage holding a handheld microphone, dressed in a black leather jacket over a gray shirt with blue jeans and black shoes. The performer is addressing an audience seated in the darkened theater, with the stage illuminated by red and blue spotlights that create a dramatic atmosphere."
+    },
+    {
+      "intervalle_index": 107,
+      "intervalle_debut": 1605,
+      "intervalle_fin": 1620,
+      "analyse_action": "The scene shows a comedian performing on stage in a dimly lit theater. He's standing under spotlights, wearing a black leather jacket over a gray shirt with blue jeans, holding a handheld microphone. The performer is addressing an audience seated in the darkened room, with red curtains and colored spotlights creating a dramatic atmosphere. He appears to be delivering a stand-up comedy routine, engaging with the audience as he speaks."
+    },
+    {
+      "intervalle_index": 108,
+      "intervalle_debut": 1620,
+      "intervalle_fin": 1635,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue to an unseen audience, holding a handheld microphone in his right hand while gesturing with his left hand to emphasize his points."
+    },
+    {
+      "intervalle_index": 109,
+      "intervalle_debut": 1635,
+      "intervalle_fin": 1650,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under bright stage lighting with a red curtain backdrop, holding a handheld microphone and addressing an unseen audience."
+    },
+    {
+      "intervalle_index": 110,
+      "intervalle_debut": 1650,
+      "intervalle_fin": 1665,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with animated expressions and gestures, holding a handheld microphone in his right hand while his left hand rests on his hip. He's wearing a black leather jacket over a gray T-shirt and blue jeans, with short spiky brown hair and a beard. The performance takes place in a dimly lit venue with red curtains and spotlights, creating an intimate atmosphere typical of a comedy club setting."
+    },
+    {
+      "intervalle_index": 111,
+      "intervalle_debut": 1665,
+      "intervalle_fin": 1680,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under a spotlight, holding a handheld microphone in his right hand while speaking to an audience. He's dressed in a black leather jacket over a gray T-shirt with blue jeans, and has short brown hair with a neatly trimmed beard and mustache."
+    },
+    {
+      "intervalle_index": 112,
+      "intervalle_debut": 1680,
+      "intervalle_fin": 1695,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under a spotlight on a dimly lit stage with red curtains and a red-and-black striped backdrop. He's holding a handheld microphone and speaking directly to the audience with an animated, expressive delivery. His body language is dynamic—he's gesturing with his free hand, occasionally glancing to his right, and his mouth is open mid-sentence as he engages with the crowd. The overall atmosphere is that of a live performance or presentation, with the performer commanding attention through his energetic delivery and stage presence."
+    },
+    {
+      "intervalle_index": 113,
+      "intervalle_debut": 1695,
+      "intervalle_fin": 1710,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under bright stage lighting, holding a handheld microphone and speaking to an audience. He's dressed in a black leather jacket over a gray shirt, with short spiky brown hair and a beard. The performer appears to be delivering a stand-up comedy routine or monologue, using expressive facial gestures and hand movements as he speaks. The stage has a dramatic red curtain backdrop with horizontal red lines, creating a theatrical atmosphere for his performance."
+    },
+    {
+      "intervalle_index": 114,
+      "intervalle_debut": 1710,
+      "intervalle_fin": 1725,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under bright stage lights, holding a handheld microphone and delivering what appears to be a stand-up comedy routine to an audience."
+    },
+    {
+      "intervalle_index": 115,
+      "intervalle_debut": 1725,
+      "intervalle_fin": 1740,
+      "analyse_action": "A comedian is performing on stage in a dimly lit theater. He's standing alone under a spotlight, holding a microphone and delivering a stand-up routine to an audience. The performer is dressed casually in a black leather jacket over a gray T-shirt with blue jeans, and he has short brown hair with a beard and mustache. He's animated and engaged with his material, using expressive facial movements and gestures as he speaks. The stage is set with red curtains and spotlights, creating a classic comedy club atmosphere."
+    },
+    {
+      "intervalle_index": 116,
+      "intervalle_debut": 1740,
+      "intervalle_fin": 1755,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under bright red and white spotlights, holding a handheld microphone and delivering what appears to be a stand-up routine. The comedian is wearing a black leather jacket over a gray shirt and has short brown hair with a beard and mustache. He's animated and expressive as he speaks, occasionally glancing to his left and right while maintaining eye contact with the audience. The performance takes place in a theater setting with a dark red curtain backdrop and a visible audience in the foreground."
+    },
+    {
+      "intervalle_index": 117,
+      "intervalle_debut": 1755,
+      "intervalle_fin": 1770,
+      "analyse_action": "The scene shows a comedian performing on stage in a theater. He's walking across the stage toward a microphone stand, then takes a seat on a stool while holding a microphone in his left hand. He appears to be preparing to begin his set, with the audience visible in the dimly lit theater below. The performer is dressed in a black leather jacket over a gray shirt with blue jeans, and he has short brown hair with a beard. The stage is illuminated by red and white spotlights against a red curtain backdrop, creating an intimate atmosphere for what seems to be a stand-up comedy performance."
+    },
+    {
+      "intervalle_index": 118,
+      "intervalle_debut": 1770,
+      "intervalle_fin": 1785,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under bright stage lighting with a red curtain backdrop, holding a handheld microphone and addressing an audience."
+    },
+    {
+      "intervalle_index": 119,
+      "intervalle_debut": 1785,
+      "intervalle_fin": 1800,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, speaking directly to the audience with animated gestures."
+    },
+    {
+      "intervalle_index": 120,
+      "intervalle_debut": 1800,
+      "intervalle_fin": 1815,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine while holding a handheld microphone, using expressive hand gestures to emphasize his points. The performer is positioned slightly off-center on the stage, with dramatic lighting creating a spotlight effect that highlights him against a dark backdrop with red horizontal lines. He appears to be in the middle of a set, engaging with the audience through his delivery and body language."
+    },
+    {
+      "intervalle_index": 121,
+      "intervalle_debut": 1815,
+      "intervalle_fin": 1830,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under bright stage lighting, holding a handheld microphone and speaking to an audience. He's dressed in a black leather jacket over a gray shirt with blue jeans and black shoes. The performer is animated and expressive, using hand gestures while delivering his material. The stage has a dramatic red backdrop with horizontal lines, and there are spotlights illuminating him from the sides. The overall atmosphere is that of a live stand-up comedy performance or similar stage act."
+    },
+    {
+      "intervalle_index": 122,
+      "intervalle_debut": 1830,
+      "intervalle_fin": 1845,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine while holding a handheld microphone, standing in front of a red curtain backdrop with spotlights illuminating him. The performance appears to be taking place in a theater or comedy club setting, with the comedian engaging the audience through his delivery."
+    },
+    {
+      "intervalle_index": 123,
+      "intervalle_debut": 1845,
+      "intervalle_fin": 1860,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's standing under bright stage lighting, holding a microphone and speaking to an audience. The performer is dressed casually in a black leather jacket over a gray shirt with blue jeans, and has short brown hair with a beard and mustache. He's positioned slightly to the left of center on the stage, which has a dark red curtain backdrop with red and white lights illuminating the space. The audience is visible in the foreground, watching attentively as he delivers his performance."
+    },
+    {
+      "intervalle_index": 124,
+      "intervalle_debut": 1860,
+      "intervalle_fin": 1875,
+      "analyse_action": "A man is performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an audience, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit theater setting with dramatic red and blue lighting, creating an intimate atmosphere. The man is dressed casually in a black leather jacket over a gray shirt, blue jeans, and black shoes, and he maintains an engaged, animated presence throughout his act."
+    },
+    {
+      "intervalle_index": 125,
+      "intervalle_debut": 1875,
+      "intervalle_fin": 1890,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with animated gestures and expressive facial movements, holding a handheld microphone as he speaks to the audience. The performance takes place in a dimly lit theater setting with dramatic red and blue lighting that creates a moody atmosphere. The comedian is positioned slightly off-center on the stage, using his body language and facial expressions to engage with the audience throughout his set."
+    },
+    {
+      "intervalle_index": 126,
+      "intervalle_debut": 1890,
+      "intervalle_fin": 1905,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing alone in the spotlight, holding a handheld microphone and delivering a stand-up routine to an audience."
+    },
+    {
+      "intervalle_index": 127,
+      "intervalle_debut": 1905,
+      "intervalle_fin": 1920,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue to an audience, holding a handheld microphone and speaking with animated expressions and gestures."
+    },
+    {
+      "intervalle_index": 128,
+      "intervalle_debut": 1920,
+      "intervalle_fin": 1935,
+      "analyse_action": "A comedian is performing on stage in a dimly lit theater. He's standing under a spotlight, wearing a black leather jacket over a gray shirt with blue jeans, holding a handheld microphone. He's speaking to an audience, gesturing with his free hand as he delivers his material. The stage has red curtains and red lighting that creates a dramatic atmosphere, with the audience visible as dark silhouettes in the foreground."
+    },
+    {
+      "intervalle_index": 129,
+      "intervalle_debut": 1935,
+      "intervalle_fin": 1950,
+      "analyse_action": "A comedian is performing on stage in a dimly lit theater. He's standing at the center of the stage holding a handheld microphone, delivering a stand-up routine to an audience seated in the darkened auditorium."
+    },
+    {
+      "intervalle_index": 130,
+      "intervalle_debut": 1950,
+      "intervalle_fin": 1965,
+      "analyse_action": "A man is performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an audience, gesturing with his free hand as he delivers his material. The performance takes place in a dimly lit theater setting with dramatic lighting, including red spotlights and blue beams that create a theatrical atmosphere. The man is dressed casually in a black leather jacket over a gray shirt with blue jeans, and he has short brown hair with a beard and mustache. He's clearly engaged in entertaining the audience, moving slightly as he speaks and occasionally glancing to his left while maintaining his focus on delivering the performance."
+    },
+    {
+      "intervalle_index": 131,
+      "intervalle_debut": 1965,
+      "intervalle_fin": 1980,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's walking across the stage with a microphone in hand, moving with a confident and relaxed demeanor. The performance takes place in a dimly lit venue with dramatic red and white lighting that creates a theatrical atmosphere.\n\nAs he walks, he's engaging with the audience, occasionally glancing down at his notes and then back up to connect with the crowd. He's also drinking from a black cup during his performance, which adds to the casual, authentic feel of the act.\n\nThe setting is quite elaborate, with a red curtain backdrop, a red staircase, and a balcony area visible above the audience. The lighting is particularly striking, with white spotlights creating beams that cut through the darkness and red lights illuminating the space, giving the entire performance a polished, professional quality.\n\nOverall, it's a typical stand-up comedy performance where the comedian is moving around the stage, interacting with the audience, and delivering his material in a lively, engaging manner."
+    },
+    {
+      "intervalle_index": 132,
+      "intervalle_debut": 1980,
+      "intervalle_fin": 1995,
+      "analyse_action": "The scene shows a comedian performing on stage in a dimly lit theater. He's walking across the stage with a microphone in hand, addressing an audience seated in the darkened auditorium. The performer is dressed in a black leather jacket over a gray shirt, with short brown hair and a beard. He's speaking to the crowd while moving across the stage, with the lighting creating dramatic shadows and highlighting his figure against the dark backdrop. The atmosphere is that of a live comedy performance, with the performer engaging with the audience in what appears to be a stand-up routine."
+    },
+    {
+      "intervalle_index": 133,
+      "intervalle_debut": 1995,
+      "intervalle_fin": 2010,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under bright stage lights, holding a handheld microphone and delivering a stand-up routine to an audience. The comedian is wearing a black leather jacket over a gray shirt with blue jeans, and has short brown hair with a beard and mustache. He's animatedly gesturing with his free hand as he speaks, occasionally glancing to his left and right while maintaining eye contact with the audience. The stage is set with red curtains and spotlights, creating a classic comedy club atmosphere."
+    },
+    {
+      "intervalle_index": 134,
+      "intervalle_debut": 2010,
+      "intervalle_fin": 2025,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under a spotlight, holding a handheld microphone and speaking to an unseen audience. He's dressed casually in a black leather jacket over a gray T-shirt with blue jeans, and has short brown hair with a beard and mustache."
+    },
+    {
+      "intervalle_index": 135,
+      "intervalle_debut": 2025,
+      "intervalle_fin": 2040,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, speaking directly to an unseen audience."
+    },
+    {
+      "intervalle_index": 136,
+      "intervalle_debut": 2040,
+      "intervalle_fin": 2055,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under bright stage lights, holding a handheld microphone and speaking to an audience. The performance takes place on a stage with red curtains and a red backdrop, with spotlights illuminating him from above. He appears to be delivering a stand-up comedy routine or similar spoken performance, engaging with the audience while maintaining a focused, serious expression."
+    },
+    {
+      "intervalle_index": 137,
+      "intervalle_debut": 2055,
+      "intervalle_fin": 2070,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an audience, though the audience itself is not visible in the frame."
+    },
+    {
+      "intervalle_index": 138,
+      "intervalle_debut": 2070,
+      "intervalle_fin": 2085,
+      "analyse_action": "A man is performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an audience, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit theater setting with red curtains and spotlights creating a dramatic atmosphere. The man is dressed casually in a black leather jacket over a gray shirt with blue jeans, and he has short brown hair with a beard and mustache. He's clearly engaging with the audience, maintaining eye contact and using his body language to punctuate his delivery."
+    },
+    {
+      "intervalle_index": 139,
+      "intervalle_debut": 2085,
+      "intervalle_fin": 2100,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under bright stage lights, holding a handheld microphone and delivering a stand-up routine to an audience. The comedian is wearing a black leather jacket over a gray shirt and has short spiky blonde hair with a beard and mustache. He's animatedly gesturing with his free hand as he speaks, occasionally pointing downward and making expressive facial movements. The performance takes place in a dimly lit theater setting with red curtains and spotlights creating a dramatic atmosphere."
+    },
+    {
+      "intervalle_index": 140,
+      "intervalle_debut": 2100,
+      "intervalle_fin": 2115,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under a spotlight, holding a handheld microphone and addressing an unseen audience."
+    },
+    {
+      "intervalle_index": 141,
+      "intervalle_debut": 2115,
+      "intervalle_fin": 2130,
+      "analyse_action": "A man is performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an audience, with his mouth open mid-sentence as he delivers his material."
+    },
+    {
+      "intervalle_index": 142,
+      "intervalle_debut": 2130,
+      "intervalle_fin": 2145,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing alone under bright stage lights, delivering a stand-up routine to an audience. The comedian is holding a handheld microphone and speaking directly to the crowd with animated expressions and gestures. He's dressed casually in a black leather jacket over a gray shirt, paired with blue jeans and black shoes. The performance takes place in a dimly lit theater setting with a red curtain backdrop, creating a classic comedy club atmosphere."
+    },
+    {
+      "intervalle_index": 143,
+      "intervalle_debut": 2145,
+      "intervalle_fin": 2160,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, speaking directly to the audience with animated facial expressions and occasional hand gestures."
+    },
+    {
+      "intervalle_index": 144,
+      "intervalle_debut": 2160,
+      "intervalle_fin": 2175,
+      "analyse_action": "A man is performing on stage in what appears to be a comedy or stand-up routine. He's standing under bright stage lighting, holding a handheld microphone and speaking to an audience."
+    },
+    {
+      "intervalle_index": 145,
+      "intervalle_debut": 2175,
+      "intervalle_fin": 2190,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with animated gestures and expressive facial movements, holding a handheld microphone as he speaks to the audience. The performance takes place in a dimly lit theater setting with dramatic red and blue lighting that creates a moody atmosphere. The comedian is positioned in the center of the stage, engaging with the audience while maintaining a dynamic presence throughout his set."
+    },
+    {
+      "intervalle_index": 146,
+      "intervalle_debut": 2190,
+      "intervalle_fin": 2205,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with animated gestures and expressive facial movements, holding a handheld microphone as he speaks to the audience. The performance takes place in a dimly lit setting with dramatic red lighting that creates a moody atmosphere. The comedian appears to be in the middle of an energetic set, using his body language and facial expressions to engage with the audience and emphasize his points during the comedy routine."
+    },
+    {
+      "intervalle_index": 147,
+      "intervalle_debut": 2205,
+      "intervalle_fin": 2220,
+      "analyse_action": "A man is performing stand-up comedy on stage. He's holding a handheld microphone and delivering jokes to an audience, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit theater setting with red curtains and spotlights creating a dramatic atmosphere."
+    },
+    {
+      "intervalle_index": 148,
+      "intervalle_debut": 2220,
+      "intervalle_fin": 2235,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, speaking directly to the audience with animated gestures and expressive facial movements."
+    },
+    {
+      "intervalle_index": 149,
+      "intervalle_debut": 2235,
+      "intervalle_fin": 2250,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's standing under bright red and white spotlights, holding a handheld microphone and speaking to an audience. The performance takes place on a dimly lit stage with a red curtain backdrop, and he's dressed casually in a black leather jacket over a gray shirt with blue jeans."
+    },
+    {
+      "intervalle_index": 150,
+      "intervalle_debut": 2250,
+      "intervalle_fin": 2265,
+      "analyse_action": "The scene shows a man performing on stage. He's standing alone in front of a red curtain backdrop, holding a handheld microphone and speaking to an unseen audience."
+    },
+    {
+      "intervalle_index": 151,
+      "intervalle_debut": 2265,
+      "intervalle_fin": 2280,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's standing under a spotlight on a dark stage, holding a handheld microphone and speaking to an audience."
+    },
+    {
+      "intervalle_index": 152,
+      "intervalle_debut": 2280,
+      "intervalle_fin": 2295,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under a spotlight, wearing a black leather jacket over a gray shirt with blue jeans and black boots. He's holding a handheld microphone and speaking to an audience, gesturing with his free hand as he delivers his performance. The stage has a red curtain backdrop with horizontal lines, and there's a blue light illuminating the floor. The atmosphere is that of a live stand-up comedy or monologue performance, with the performer engaging with his audience in a theatrical setting."
+    },
+    {
+      "intervalle_index": 153,
+      "intervalle_debut": 2295,
+      "intervalle_fin": 2310,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with animated gestures and expressive facial movements, holding a handheld microphone as he speaks to an unseen audience. The performance takes place in a dimly lit theater setting with dramatic red and blue lighting, creating an intimate atmosphere typical of comedy shows."
+    },
+    {
+      "intervalle_index": 154,
+      "intervalle_debut": 2310,
+      "intervalle_fin": 2325,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine while holding a handheld microphone, speaking directly to the audience with animated expressions and gestures. The performance takes place in a dimly lit theater setting with dramatic red and white lighting that creates a moody atmosphere. The comedian is dressed in a black leather jacket over a gray shirt, with his hair styled in a short, spiky manner and a neatly trimmed beard. He maintains eye contact with the audience throughout his set, using his left hand to gesture expressively while keeping the microphone in his right hand. The stage is framed by red curtains, and the lighting setup includes spotlights that highlight him against the darker background, creating the classic ambiance of a live comedy performance."
+    },
+    {
+      "intervalle_index": 155,
+      "intervalle_debut": 2325,
+      "intervalle_fin": 2340,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under bright spotlights, holding a handheld microphone and delivering a stand-up routine to an audience. The performer is dressed in a black leather jacket over a gray shirt with blue jeans and black shoes. He has short brown hair with a beard and mustache, and is animatedly gesturing with his free hand while speaking. The stage has a red backdrop with horizontal lines, and the lighting creates a dramatic atmosphere with beams cutting through the darkness. The audience is visible as silhouettes at the bottom of the frame, watching attentively as he performs."
+    },
+    {
+      "intervalle_index": 156,
+      "intervalle_debut": 2340,
+      "intervalle_fin": 2355,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing alone under bright stage lights, holding a handheld microphone and delivering a stand-up routine to an audience."
+    },
+    {
+      "intervalle_index": 157,
+      "intervalle_debut": 2355,
+      "intervalle_fin": 2370,
+      "analyse_action": "The scene shows a stand-up comedian performing on stage. He's delivering a routine with animated energy, using expressive hand gestures and facial expressions to engage the audience. The comedian is wearing a black leather jacket over a gray shirt and has short brown hair with a beard. He's holding a handheld microphone and speaking with intensity, occasionally laughing and looking around the stage. The performance takes place in a dimly lit venue with dramatic red and blue lighting that creates a moody atmosphere, with the comedian positioned slightly off-center under a spotlight."
+    },
+    {
+      "intervalle_index": 158,
+      "intervalle_debut": 2370,
+      "intervalle_fin": 2385,
+      "analyse_action": "A comedian is performing on stage in a dimly lit theater. He's standing under bright spotlights, wearing a black leather jacket over a gray shirt with blue jeans, and holding a handheld microphone. He's speaking to an audience, gesturing with his free hand as he delivers his material. The stage has a red curtain backdrop with horizontal red lines, and the audience is visible as dark silhouettes in the foreground. The atmosphere is that of a live comedy performance, with the comedian engaging with his audience while the lighting creates a focused, intimate setting."
+    },
+    {
+      "intervalle_index": 159,
+      "intervalle_debut": 2385,
+      "intervalle_fin": 2400,
+      "analyse_action": "A comedian is performing on stage in a dimly lit theater. He's standing under bright spotlights, holding a handheld microphone and delivering a stand-up routine to an audience. The performer is wearing a black leather jacket over a gray shirt with blue jeans, and has short brown hair with a beard and mustache. He's animated and engaged with his material, using expressive hand gestures and maintaining eye contact with the audience throughout his performance."
+    },
+    {
+      "intervalle_index": 160,
+      "intervalle_debut": 2400,
+      "intervalle_fin": 2415,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under a spotlight, holding a handheld microphone and speaking to an audience. He's dressed in a black leather jacket over a gray shirt with blue jeans, and has short brown hair with a beard and mustache."
+    },
+    {
+      "intervalle_index": 161,
+      "intervalle_debut": 2415,
+      "intervalle_fin": 2430,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under a spotlight, holding a handheld microphone and speaking to an unseen audience. He's dressed in a black leather jacket over a gray shirt and has short, spiky brown hair with a beard and mustache. The performance takes place in a dimly lit setting with red curtains and a red spotlight visible in the background."
+    },
+    {
+      "intervalle_index": 162,
+      "intervalle_debut": 2430,
+      "intervalle_fin": 2445,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under bright stage lights, holding a handheld microphone and delivering what appears to be a stand-up comedy routine. The performer is wearing a black leather jacket over a gray T-shirt with blue jeans, and has short brown hair with a beard and mustache. He's animated and expressive as he speaks, using hand gestures to emphasize his points. The stage is set with red curtains and spotlights, and you can see the silhouettes of audience members watching him from the front."
+    },
+    {
+      "intervalle_index": 163,
+      "intervalle_debut": 2445,
+      "intervalle_fin": 2460,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine while holding a handheld microphone, speaking directly to the audience with animated expressions and gestures. The performer is dressed in a black leather jacket over a gray shirt, with short brown hair and a beard. He's positioned in front of a striking red backdrop with horizontal lines, creating a dramatic stage setting. Throughout his performance, he uses expressive hand movements to emphasize his points, occasionally glancing to his left before returning his focus to the audience. The overall atmosphere is that of a live comedy show, with the performer engaging with his audience in a typical stand-up style."
+    },
+    {
+      "intervalle_index": 164,
+      "intervalle_debut": 2460,
+      "intervalle_fin": 2475,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under a spotlight, holding a handheld microphone and speaking to an audience. He's dressed in a black leather jacket over a gray shirt and has short, spiky brown hair with a beard and mustache."
+    },
+    {
+      "intervalle_index": 165,
+      "intervalle_debut": 2475,
+      "intervalle_fin": 2490,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under bright stage lighting, holding a handheld microphone and addressing an unseen audience."
+    },
+    {
+      "intervalle_index": 166,
+      "intervalle_debut": 2490,
+      "intervalle_fin": 2505,
+      "analyse_action": "A comedian is performing on stage in a dimly lit venue. He's standing under focused spotlights, wearing a black leather jacket over a gray shirt with blue jeans and black shoes. Holding a handheld microphone, he's delivering a stand-up routine with animated gestures and expressive facial movements. The stage has a red curtain backdrop with horizontal lines, and the audience is visible as silhouettes at the bottom of the frame. The performance has a professional, energetic atmosphere with the comedian engaging the crowd through his delivery and body language."
+    },
+    {
+      "intervalle_index": 167,
+      "intervalle_debut": 2505,
+      "intervalle_fin": 2520,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue to an audience, holding a handheld microphone and speaking with animated expressions and gestures."
+    },
+    {
+      "intervalle_index": 168,
+      "intervalle_debut": 2520,
+      "intervalle_fin": 2535,
+      "analyse_action": "A man is performing on stage in what appears to be a comedy or stand-up routine. He's standing alone on a dimly lit stage with red curtains behind him, holding a handheld microphone and speaking to an audience."
+    },
+    {
+      "intervalle_index": 169,
+      "intervalle_debut": 2535,
+      "intervalle_fin": 2550,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under bright red lighting with a red curtain backdrop, holding a handheld microphone and speaking to an audience."
+    },
+    {
+      "intervalle_index": 170,
+      "intervalle_debut": 2550,
+      "intervalle_fin": 2565,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under a spotlight against a dark backdrop with red horizontal lines, holding a handheld microphone and addressing an unseen audience."
+    },
+    {
+      "intervalle_index": 171,
+      "intervalle_debut": 2565,
+      "intervalle_fin": 2580,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under a spotlight, holding a handheld microphone and speaking to an audience. He's dressed in a black leather jacket over a gray T-shirt with blue jeans, and has short brown hair with a beard and mustache. The stage has a dark red curtain backdrop with a black base, and there's a blue light illuminating the floor. He appears to be delivering a speech or presentation, occasionally gesturing with his left hand while maintaining eye contact with the audience."
+    },
+    {
+      "intervalle_index": 172,
+      "intervalle_debut": 2580,
+      "intervalle_fin": 2595,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with animated gestures and expressive facial movements, holding a handheld microphone as he speaks to the audience. The performance takes place in a dimly lit theater setting with dramatic red and blue lighting that creates a moody atmosphere. The comedian appears to be in the middle of an energetic set, engaging with the audience through his delivery and physical expressions."
+    },
+    {
+      "intervalle_index": 173,
+      "intervalle_debut": 2595,
+      "intervalle_fin": 2610,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, using expressive body language to engage with his audience."
+    },
+    {
+      "intervalle_index": 174,
+      "intervalle_debut": 2610,
+      "intervalle_fin": 2625,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine while holding a handheld microphone, speaking directly to the audience with animated expressions and gestures. The performance takes place in a dimly lit venue with red curtains and a spotlight, creating an intimate atmosphere typical of comedy clubs or small performance spaces."
+    },
+    {
+      "intervalle_index": 175,
+      "intervalle_debut": 2625,
+      "intervalle_fin": 2640,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's holding a handheld microphone and delivering a routine to an audience in what appears to be a theater or comedy club setting."
+    },
+    {
+      "intervalle_index": 176,
+      "intervalle_debut": 2640,
+      "intervalle_fin": 2655,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with animated expressions and gestures, holding a handheld microphone in his right hand while using his left hand to emphasize his points. The performance takes place in a dimly lit venue with dramatic red lighting and a red curtain backdrop, creating an intimate atmosphere typical of a comedy club setting."
+    },
+    {
+      "intervalle_index": 177,
+      "intervalle_debut": 2655,
+      "intervalle_fin": 2670,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with animated energy, using expressive hand gestures to emphasize his points. He's holding a handheld microphone and speaking directly to the audience with a confident, engaging presence. The performance takes place in a dimly lit venue with dramatic red lighting that creates a moody atmosphere, highlighting his face and upper body as he moves across the stage."
+    },
+    {
+      "intervalle_index": 178,
+      "intervalle_debut": 2670,
+      "intervalle_fin": 2685,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine with animated energy, using expressive hand gestures to emphasize his points. He's holding a handheld microphone and speaking directly to the audience with a confident, engaging presence. The performance takes place in a dimly lit venue with dramatic red lighting and a curtain backdrop, creating an intimate atmosphere typical of comedy shows."
+    },
+    {
+      "intervalle_index": 179,
+      "intervalle_debut": 2685,
+      "intervalle_fin": 2700,
+      "analyse_action": "A man is performing on stage in what appears to be a comedy or stand-up show. He's holding a handheld microphone and speaking to an audience while gesturing with his free hand. The performance takes place in a dimly lit venue with dramatic red and blue lighting, and he's positioned in front of a red curtain backdrop."
+    },
+    {
+      "intervalle_index": 180,
+      "intervalle_debut": 2700,
+      "intervalle_fin": 2715,
+      "analyse_action": "A comedian is performing on stage in a dimly lit venue. He's standing under a spotlight, wearing a black leather jacket over a gray shirt, and holding a handheld microphone. He's speaking to an audience while gesturing with his free hand, moving slightly as he delivers his material. The stage has a red curtain backdrop with horizontal red lines, and there are red and white spotlights illuminating the space. The atmosphere is that of a live comedy performance, with the comedian engaging with his audience in a typical stand-up routine."
+    },
+    {
+      "intervalle_index": 181,
+      "intervalle_debut": 2715,
+      "intervalle_fin": 2730,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine to an audience, holding a handheld microphone in his right hand while gesturing with his left hand to emphasize his points. He's positioned slightly off-center on the stage, facing forward but occasionally glancing to his right as if acknowledging someone in the crowd. The performance takes place in a dimly lit venue with a striking red backdrop featuring horizontal lines that create a dramatic, theatrical atmosphere. The man appears engaged and animated as he speaks, with his mouth open mid-sentence and his eyes focused on the audience, clearly in the middle of telling a joke or making a point during his comedy set."
+    },
+    {
+      "intervalle_index": 182,
+      "intervalle_debut": 2730,
+      "intervalle_fin": 2745,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under bright stage lighting, holding a handheld microphone and addressing an unseen audience."
+    },
+    {
+      "intervalle_index": 183,
+      "intervalle_debut": 2745,
+      "intervalle_fin": 2760,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's holding a handheld microphone and speaking to an audience, though the audience itself is not visible in the frame."
+    },
+    {
+      "intervalle_index": 184,
+      "intervalle_debut": 2760,
+      "intervalle_fin": 2775,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, speaking directly to an unseen audience."
+    },
+    {
+      "intervalle_index": 185,
+      "intervalle_debut": 2775,
+      "intervalle_fin": 2790,
+      "analyse_action": "A comedian is performing on stage in a dimly lit comedy club. He's standing under spotlights, wearing a black leather jacket over a gray shirt with blue jeans, holding a microphone and speaking to the audience. The stage has red curtains and colored lighting, with the audience visible as silhouettes in the foreground."
+    },
+    {
+      "intervalle_index": 186,
+      "intervalle_debut": 2790,
+      "intervalle_fin": 2805,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under bright stage lights, holding a handheld microphone and delivering a stand-up routine to an audience. The performer is wearing a black leather jacket over a gray shirt and has short brown hair with a beard and mustache. He's animated and engaged with his material, using expressive hand gestures as he speaks. The stage has a dramatic red backdrop with horizontal lines and a spotlight illuminating him from the left side, creating a classic comedy performance atmosphere."
+    },
+    {
+      "intervalle_index": 187,
+      "intervalle_debut": 2805,
+      "intervalle_fin": 2820,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering a routine while holding a handheld microphone in his right hand. The performance takes place in a dimly lit comedy club setting with red curtains and spotlights creating a theatrical atmosphere."
+    },
+    {
+      "intervalle_index": 188,
+      "intervalle_debut": 2820,
+      "intervalle_fin": 2835,
+      "analyse_action": "The scene shows a man performing on stage. He's standing under bright spotlights against a red curtain backdrop, holding a handheld microphone in his left hand. He's wearing a black leather jacket over a gray shirt and has short brown hair with a beard and mustache.\n\nThe performer appears to be in the middle of a stand-up comedy routine. He's actively engaging with his audience, using expressive hand gestures to emphasize his points. At one point, he pauses to take a sip from a black coffee mug before continuing his performance.\n\nThe stage setup is quite dramatic, with the red curtain and lighting creating a theatrical atmosphere typical of comedy shows. The performer maintains eye contact with the audience throughout, suggesting he's addressing them directly and making his case or telling a joke."
+    },
+    {
+      "intervalle_index": 189,
+      "intervalle_debut": 2835,
+      "intervalle_fin": 2850,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under bright stage lighting against a backdrop of red horizontal lines, holding a handheld microphone and addressing an unseen audience."
+    },
+    {
+      "intervalle_index": 190,
+      "intervalle_debut": 2850,
+      "intervalle_fin": 2865,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue to an audience, holding a handheld microphone and gesturing with his free hand as he speaks. The performance takes place in a dimly lit theater setting with red curtains and spotlights illuminating the stage."
+    },
+    {
+      "intervalle_index": 191,
+      "intervalle_debut": 2865,
+      "intervalle_fin": 2880,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under a spotlight, holding a handheld microphone and addressing an unseen audience. He's dressed casually in a black leather jacket over a gray T-shirt with blue jeans, and has a beard and short hair. Throughout his performance, he uses expressive hand gestures to emphasize his points, occasionally glancing to his left and right as if acknowledging different sections of the audience. The stage has a dramatic red backdrop with horizontal lines, creating a theatrical atmosphere for his presentation."
+    },
+    {
+      "intervalle_index": 192,
+      "intervalle_debut": 2880,
+      "intervalle_fin": 2895,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, using expressive body language to engage with his audience. His gestures are animated and purposeful, with his left hand often resting on his hip and his right hand moving to emphasize points. He's looking around the room, occasionally glancing to his left and right, and his facial expressions shift as he speaks, suggesting he's telling a story or making jokes. The dramatic red lighting and stage setup create an intimate atmosphere typical of a comedy performance."
+    },
+    {
+      "intervalle_index": 193,
+      "intervalle_debut": 2895,
+      "intervalle_fin": 2910,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing under bright stage lighting against a dark backdrop with red horizontal lines, holding a handheld microphone in his right hand. He's speaking to an audience, using expressive hand gestures to emphasize his points. His delivery is animated and engaging, with his mouth open mid-sentence and his left hand moving in various gestures throughout his performance."
+    },
+    {
+      "intervalle_index": 194,
+      "intervalle_debut": 2910,
+      "intervalle_fin": 2925,
+      "analyse_action": "The scene shows a comedian performing on stage. He's standing under bright stage lights, holding a microphone and delivering a stand-up routine to an audience. The comedian is wearing a black leather jacket over a gray shirt with blue jeans, and has short brown hair with a beard and mustache. He's animated in his delivery, using expressive hand gestures and shifting his weight as he speaks. The stage is set with red curtains and spotlights, creating a classic comedy club atmosphere."
+    },
+    {
+      "intervalle_index": 195,
+      "intervalle_debut": 2925,
+      "intervalle_fin": 2940,
+      "analyse_action": "The scene shows a man performing on stage in what appears to be a comedy or stand-up routine. He's delivering a monologue while holding a handheld microphone, using expressive hand gestures to emphasize his points. The performance takes place in a dimly lit theater setting with dramatic lighting that creates a moody atmosphere. The performer is positioned slightly off-center on the stage, with spotlights illuminating him against a backdrop of red curtains."
+    },
+    {
+      "intervalle_index": 196,
+      "intervalle_debut": 2940,
+      "intervalle_fin": 2955,
+      "analyse_action": "The scene shows a man performing on stage, likely as a comedian or speaker. He's standing alone under dramatic lighting, holding a handheld microphone and addressing an unseen audience."
+    },
+    {
+      "intervalle_index": 197,
+      "intervalle_debut": 2955,
+      "intervalle_fin": 2970,
+      "analyse_action": "The scene shows a comedian giving a stand-up performance on stage. He's performing for an audience in what appears to be a theater or comedy club setting. He's animated and engaging as he speaks to the crowd, occasionally glancing to his side (probably checking a cue card) and making deliberate gestures with his free hand. He's using a microphone throughout the performance, channeling the energy of a live comedy bit.\n\nThe stage is dramatically lit with red and white lighting, particularly concentrated behind curtains, with a spotlight also illuminating him from below. The atmosphere has the typical feel of a comedy club performance—sizable crowd, carefully designed lighting, and a performer fully immersed in his act. As the performance progresses, he continues to move with energy, keeping his arm extended for emphasis on certain points, and maintaining the engaging, expressive style of a professional comedian delivering material to an audience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 179,
+        "total_tokens": 2933
+      }
+    },
+    {
+      "intervalle_index": 198,
+      "intervalle_debut": 2970,
+      "intervalle_fin": 2985,
+      "analyse_action": "The scene shows a man performing stand-up comedy on stage. He's delivering his material to an audience while engaging with the room using expressive gestures and facial expressions.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 33,
+        "total_tokens": 2787
+      }
+    },
+    {
+      "intervalle_index": 199,
+      "intervalle_debut": 2985,
+      "intervalle_fin": 3000,
+      "analyse_action": "The scene shows a comedian performing on stage during what appears to be a live comedy show or stand-up performance. He's engaging directly with his audience, holding a microphone and speaking with expressive body language. His delivery is animated - he uses hand gestures, moves his body with visible energy, and shows natural reactions like genuine laughter to emphasize points about a topic.\n\nThe performance takes place in a dimly lit venue with dramatic red and black lighting that creates an intimate, intimate atmosphere. The blonde-haired comedian with a beard is wearing a black leather jacket over a gray shirt and blue jeans, giving him a casual yet polished stage presence. The red lighting particularly highlights his face and upper body while leaving the background darker with some visual texture.\n\nThroughout the performance, he maintains constant connection with the audience, occasionally shifting his gaze as if observing them and picking up their reactions. His hair is spiking slightly, adding to the theatrical quality of his stage presence. Overall, he's delivering what seems to be an energetic, personal comedy routine to an attentive audience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 209,
+        "total_tokens": 2963
+      }
+    },
+    {
+      "intervalle_index": 200,
+      "intervalle_debut": 3000,
+      "intervalle_fin": 3015,
+      "analyse_action": "The scene shows a stand-up comedian performing on stage in front of an audience. He's delivering a comedic routine while speaking directly to the crowd, using a handheld microphone as he moves subtly during his performance.\n\nThe comedian is wearing a black leather jacket over a muted shirt and blue jeans, giving him a casual appearance. He's engaged with the audience, making eye contact and gesturing with energetic movements as he performs.\n\nThe stage has a dramatic setup with deep red curtains and multiple colored lights, including prominent red and blue spotlights that create a professional comedy performance atmosphere. The crowd is visible in silhouette at the bottom of the frame, attentively watching the comedian.\n\nThe clip captures the immersive experience of live stand-up comedy - a performer entertaining people on stage, with the theatrical lighting and audience presence emphasizing the comedic setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 164,
+        "total_tokens": 2918
+      }
+    },
+    {
+      "intervalle_index": 201,
+      "intervalle_debut": 3015,
+      "intervalle_fin": 3030,
+      "analyse_action": "The scene shows a stand-up comedian performing on a stage with his audience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 16,
+        "total_tokens": 2770
+      }
+    },
+    {
+      "intervalle_index": 202,
+      "intervalle_debut": 3030,
+      "intervalle_fin": 3045,
+      "analyse_action": "A man is performing what appears to be a stand-up comedy set. He's holding a microphone and delivering remarks to an audience while standing under a spotlight on a dark stage. The audience, though not clearly visible, is clearly present as his performance to an attentive crowd. The energetic atmosphere, the spotlight, and the comedian's animated expressions all point to this being part of a comedic performance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 79,
+        "total_tokens": 2833
+      }
+    },
+    {
+      "intervalle_index": 203,
+      "intervalle_debut": 3045,
+      "intervalle_fin": 3060,
+      "analyse_action": "The scene shows a stand-up comedy performance in progress. A comedian is delivering jokes on stage while speaking directly to an audience. He uses animated hand gestures as he talks and shakes his head in response to his own jokes to emphasize points and maintain audience engagement. The comedian is dressed in a black leather jacket over a gray T-shirt and blue jeans, holding a handheld microphone while performing against a backdrop of red pleated curtains with dramatic lighting featuring bright white and red spotlights. His expressive body language, including directional hand movements and facial expressions, creates an energetic and lively atmosphere typical of comedy shows.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 119,
+        "total_tokens": 2873
+      }
+    },
+    {
+      "intervalle_index": 204,
+      "intervalle_debut": 3060,
+      "intervalle_fin": 3075,
+      "analyse_action": "A stand-up comedian is performing on stage in a dark, intimate comedy club setting. He's holding a microphone in his right hand throughout the act, speaking to the audience with animated facial expressions, including smiling at one point. \n\nHis presentation style is energetic and expressive, with his body language constantly shifting as he makes his points. The stage lighting creates a focused atmosphere with dramatic lighting effects - a blue spotlight illuminates the performer, and there's an orange glow washing over the red curtain backdrop with heavy shadowing that adds to the club's moody ambiance.\n\nAs the performance progresses, he becomes increasingly animated, using hand gestures for emphasis. He finishes with an especially engaging moment - extending his left arm outward with palm up to emphasize his closing point, creating a dynamic, theatrical feel to his delivery. The overall atmosphere suggests this is a comedy performance designed to captivate and entertain the audience with expressive, physically animated storytelling.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 185,
+        "total_tokens": 2939
+      }
+    },
+    {
+      "intervalle_index": 205,
+      "intervalle_debut": 3075,
+      "intervalle_fin": 3090,
+      "analyse_action": "A man is delivering a comedy performance on stage. He's holding a handheld microphone and actively engaging with the audience through expressive facial expressions and body gestures. His demeanor and animated movements suggest he's performing observational or relatable humor typical of stand-up comedy shows. The stage lighting creates dramatic red and black mood lighting from behind him, which helps set the atmosphere for his performance as he addresses the audience from center stage.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 83,
+        "total_tokens": 2837
+      }
+    },
+    {
+      "intervalle_index": 206,
+      "intervalle_debut": 3090,
+      "intervalle_fin": 3105,
+      "analyse_action": "A comedian is performing on stage during what appears to be a comedy show. He's addressing the audience directly while holding a microphone in his right hand and gesturing expressively with his left hand for emphasis.\n\nThe performer has short, blondish-brown hair and a neatly trimmed beard. He's wearing a black leather jacket over a gray shirt and blue jeans, projecting a casual yet polished stage presence. He frequently alternates his gaze between looking into the crowd and glancing down at moments as he speaks.\n\nAs the performance continues, he shifts his stance and moves across the stage. The atmosphere is lit dramatically with dark red curtains as the backdrop, featuring a bright circular spotlight overhead that casts colored light across the scene, contributing to the classic comedy club setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 152,
+        "total_tokens": 2906
+      }
+    },
+    {
+      "intervalle_index": 207,
+      "intervalle_debut": 3105,
+      "intervalle_fin": 3120,
+      "analyse_action": "A stand-up comedian is performing on stage. He's delivering a bit to the audience while holding a handheld microphone, with expressive facial gestures and animated body language throughout his performance. The man is addressing and engaging a crowd in what appears to be a live comedy show, delivering his routine under dramatic stage lighting and a single spotlight. He's walking across the stage, and the camera pans to his back.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 81,
+        "total_tokens": 2835
+      }
+    },
+    {
+      "intervalle_index": 208,
+      "intervalle_debut": 3120,
+      "intervalle_fin": 3135,
+      "analyse_action": "The scene shows a stand-up comedian performing on stage during a comedy routine. The comedian is positioned at the edge of the brightly lit stage, which is set against a red backdrop with a dark border. He's holding a microphone in his right hand and wearing a black leather jacket over a gray shirt with blue jeans.\n\nAs he delivers his routine, he directs his attention to the audience by looking around, making subtle body movements, and using gestures to emphasize his points. He walks slightly while maintaining eye contact with different sections of the crowd. His expressions shift naturally—he opens his mouth wide at moments to punctuate jokes, squints slightly at times, and briefly tilts his head before returning to his neutral, serious stance between lines.\n\nThe performance takes place in a professional studio or theater setting, with the comedian commanding the stage and captivating the audience through his delivery. His casual yet polished attire and confident movements suggest he's comfortable in this performance space, fully engaged in entertaining the crowd with his material.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 200,
+        "total_tokens": 2954
+      }
+    },
+    {
+      "intervalle_index": 209,
+      "intervalle_debut": 3135,
+      "intervalle_fin": 3150,
+      "analyse_action": "This appears to be a stand-up comedy performance taking place on stage. The man is delivering a comedy routine, addressing an audience while actively engaging with the room through his animated gestures and expressive facial movements.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 41,
+        "total_tokens": 2795
+      }
+    },
+    {
+      "intervalle_index": 210,
+      "intervalle_debut": 3150,
+      "intervalle_fin": 3165,
+      "analyse_action": "The scene shows a stand-up comedian performing on stage. He's positioned on a dimly lit stage with a dark red backdrop and spotlight, delivering what appears to be a comedy bit. \n\nThe comedian is wearing a black leather jacket over a gray T-shirt and is holding a microphone. He's animated and expressive in his delivery, using his body language to enhance his performance – gesturing with his free hand, turning his head to the side while speaking, and pointing toward the audience at various moments. His facial expressions change dynamically as he tells his story, ranging from focused and intent to more animated when making particular points.\n\nThe right half of the stage lighting is amber-toned, while Projected red horizontal lines from an off-camera projector appear behind him on the red backdrop, adding a visual element to his performance. Throughout the performance, he maintains steady eye contact with the camera, creating the impression of speaking directly to an audience in an intimate, conversational setting.\n\nThe combination of his energetic physical gestures, animated expressions, and measured use of eye contact all indicate he's in the midst of telling a humorous story or joke to his audience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 229,
+        "total_tokens": 2983
+      }
+    },
+    {
+      "intervalle_index": 211,
+      "intervalle_debut": 3165,
+      "intervalle_fin": 3180,
+      "analyse_action": "A stand-up comedian is performing on stage to an audience. He's holding a handheld microphone and delivering material with energetic, animated gestures—pointing outward, spreading his left hand wide, and occasionally placing a hand over his heart while emphasizing his points.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 51,
+        "total_tokens": 2805
+      }
+    },
+    {
+      "intervalle_index": 212,
+      "intervalle_debut": 3180,
+      "intervalle_fin": 3195,
+      "analyse_action": "The scene shows a comedian performing on stage during a stand-up comedy act. He's addressing an audience while delivering a humorous monologue, using animated gestures to emphasize his points.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 36,
+        "total_tokens": 2790
+      }
+    },
+    {
+      "intervalle_index": 213,
+      "intervalle_debut": 3195,
+      "intervalle_fin": 3210,
+      "analyse_action": "A man is performing what appears to be a stand-up comedy routine on stage. He's giving a talk or monologue while holding a microphone, speaking to an audience off-camera. His delivery is animated and theatrical—he frequently uses expressive hand gestures to punctuate his points, raises his eyebrows for emphasis, and at one moment even drops his eyes toward the floor before rocking back onto his heels and stepping out of the spotlight with a smirk. The dramatic red stage lighting creates a spotlight effect against the dark background as he engages with the unseen crowd during his performance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 112,
+        "total_tokens": 2866
+      }
+    },
+    {
+      "intervalle_index": 214,
+      "intervalle_debut": 3210,
+      "intervalle_fin": 3225,
+      "analyse_action": "The scene shows a stand-up comedian performing on stage. He's delivering a live comedy routine, holding a handheld microphone and moving an animatedly as he tells his joke. His facial expressions and gestures shift throughout - he starts with a questioning look that changes to a mix of surprise and frustration, then brings his hand to his chest as his expression shifts dramatically again.\n\nThe stage setup includes dim lighting with dramatic red illumination creating theatrical spotlights, and red curtains visible in the backdrop. The performance feels energetic and engaging, with the comedian's physical movements and changing expressions real-time during his routine. He maintains an expressive performance throughout, transitioning between various emotions as he tells his story or joke to the audience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 140,
+        "total_tokens": 2894
+      }
+    },
+    {
+      "intervalle_index": 215,
+      "intervalle_debut": 3225,
+      "intervalle_fin": 3240,
+      "analyse_action": "The scene shows a comedian performing on a stage. He's standing alone under focused lighting, delivering a stand-up routine to an audience. His performance is energetic and animated, with him smiling, making direct eye contact with the crowd, and telling stories in an expressive manner.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 55,
+        "total_tokens": 2809
+      }
+    },
+    {
+      "intervalle_index": 216,
+      "intervalle_debut": 3240,
+      "intervalle_fin": 3255,
+      "analyse_action": "A stand-up comedian is performing in front of a live audience. He delivers a monologue while moving around the stage and engaging with the crowd through expressive gestures.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 33,
+        "total_tokens": 2787
+      }
+    },
+    {
+      "intervalle_index": 217,
+      "intervalle_debut": 3255,
+      "intervalle_fin": 3270,
+      "analyse_action": "The scene shows a stand-up comedian delivering a performance on stage. He's positioned slightly to the left side of the dimly-lit stage, facing the audience with a handheld microphone. He's gesturing expressively as he speaks, including holding the microphone near his shoulder and pointing outward toward the crowd.\n\nThe comedian maintains direct engagement with the audience through his gaze and animated movements. He's dressed in a black leather jacket over a black shirt, creating a stark contrast with the dark stage setting. Throughout his routine, his facial expressions shift naturally—moving from open-mouthed speaking to contemplative pauses with controlled head tilts and hand gestures.\n\nThe performance takes place against a predominantly dark background punctuated by various colored lighting elements, including spotlights that highlight the performer against the crimson-curtained backdrop. The overall mood is intimate and energetic, typical of a live comedy show, with the comedian fully immersed in telling his story while interacting with the audience present in the theater.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 195,
+        "total_tokens": 2949
+      }
+    },
+    {
+      "intervalle_index": 218,
+      "intervalle_debut": 3270,
+      "intervalle_fin": 3285,
+      "analyse_action": "The scene shows a man performing on stage as a stand-up comedian. He's holding a microphone in his right hand and standing in a relaxed, conversational manner while delivering his performance. Throughout his act, he uses natural, expressive gestures with his left hand - he occasionally rests it on his hip and at other moments has it hovering or gesturing near his chest.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 74,
+        "total_tokens": 2828
+      }
+    },
+    {
+      "intervalle_index": 219,
+      "intervalle_debut": 3285,
+      "intervalle_fin": 3300,
+      "analyse_action": "A stand-up comedian is giving a performance on stage. He's addressing an audience while passionately sharing material that includes both serious observations and humorous moments. The comedian's delivery is animated and expressive, with his head tilting, brow furrowing for emphasis, and constant hand gestures throughout his presentation. He alternates between laughing and gesturing to drive home his points.\n\nThe stage setting features dramatic lighting that isolates the performer against a dark red and black backdrop with vertical texture. The lighting shifts between focused spotlights and broader blue washes, creating a professional, intimate performance atmosphere that heightens the entertainment value of his material. It's a typical well-executed comic set piece where the comedian engages the unseen audience in a comedic routine.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 147,
+        "total_tokens": 2901
+      }
+    },
+    {
+      "intervalle_index": 220,
+      "intervalle_debut": 3300,
+      "intervalle_fin": 3315,
+      "analyse_action": "The performer stands on stage delivering a stand-up comedy routine. He's addressing the audience directly while speaking into the microphone in a professional comedy theater setting. The red backdrop and focused spotlight create an intimate atmosphere typical of a comedy club performance, and his amused expressions suggest he's making the audience laugh.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 60,
+        "total_tokens": 2814
+      }
+    },
+    {
+      "intervalle_index": 221,
+      "intervalle_debut": 3315,
+      "intervalle_fin": 3330,
+      "analyse_action": "The scene shows a comedian performing stand-up on stage. He's positioned center stage under blue light, wearing a black leather jacket over a gray T-shirt with blue jeans, holding a microphone in his right hand and using his left hand for gestures as he speaks animatedly to the audience.\n\nThe performance takes place in a dimly lit venue with a largely black backdrop. You can see a red circular spotlight element and red horizontal lines creating visual textures on the darker background behind him.  Red fades into blue as the stage shifts to a composition where the right side features the red circular element, while the left side brightens with additional stage lighting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 129,
+        "total_tokens": 2883
+      }
+    },
+    {
+      "intervalle_index": 222,
+      "intervalle_debut": 3330,
+      "intervalle_fin": 3345,
+      "analyse_action": "The scene shows a comedian performing on stage during what appears to be a stand-up comedy routine or talk. He's speaking directly to an audience while holding a microphone, wearing a black leather jacket over a gray shirt with blue jeans. \n\nThe performer is actively engaged in his delivery, using various expressive body language to emphasize his points. He maintains an animated presence with natural, conversational movements - his gestures are broad and deliberate as he engages the crowd. At one point, he specifically points to his left side while continuing his speech, indicating he's referencing something or someone nearby on stage.\n\nThe lighting creates an intimate atmosphere, with a focused pool of light illuminating him against a predominantly dark background that has a faint red glow. This setup suggests a comedy club or theater performance setting where the comedian is addressing the audience directly, likely sharing jokes or humorous observations as part of his routine.\n\nOverall, it captures the essence of stand-up comedy performance - a performer connecting with an audience through direct eye contact, energetic delivery, and various physical gestures to convey his message.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 212,
+        "total_tokens": 2966
+      }
+    },
+    {
+      "intervalle_index": 223,
+      "intervalle_debut": 3345,
+      "intervalle_fin": 3360,
+      "analyse_action": "A man is performing what appears to be a comedy set on stage. He's holding a microphone and speaking to an audience, gesturing with his free hand as he performs. He shakes the microphone in a rhythm, moves his left hand occasionally in expressive ways, and reflects in the crowd with faint grins and head shakes. His facial expressions shift throughout, suggesting he's making a point or telling a liners.\n\nThe stage lighting creates dramatic shadows against the bold red drapery and geometric backdrop behind him, enhancing the theatrical atmosphere. He maintains an engaged, lively stance throughout his performance, delivering his routine with animated body language and expressive movement.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 129,
+        "total_tokens": 2883
+      }
+    },
+    {
+      "intervalle_index": 224,
+      "intervalle_debut": 3360,
+      "intervalle_fin": 3375,
+      "analyse_action": "The scene shows a stand-up comedian performing on stage. He's delivering a comedic routine with expressive facial movements and physical gestures, speaking into a handheld microphone. The performance takes place in a dimly lit venue with moody lighting that creates a theatrical atmosphere. The performer is animated and engaged in what appears to be an extended comedic set, likely building off material or telling jokes while maintaining an intentional pacing and rapport with his performance space.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 87,
+        "total_tokens": 2841
+      }
+    },
+    {
+      "intervalle_index": 225,
+      "intervalle_debut": 3375,
+      "intervalle_fin": 3390,
+      "analyse_action": "John Krasinski is performing stand-up comedy on a dimly lit stage. He's holding a microphone with a silver top and black handle as he delivers his routine while facing the audience seated before him.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 42,
+        "total_tokens": 2796
+      }
+    },
+    {
+      "intervalle_index": 226,
+      "intervalle_debut": 3390,
+      "intervalle_fin": 3405,
+      "analyse_action": "A stand-up comedian is performing on stage. He's holding a microphone in his right hand and addresses the audience with his mouth slightly open as he delivers his material. He uses measured pauses and controlled hand gestures to emphasize his performance, occasionally adjusting the microphone or moving his hand in short, dotted movements to add emphasis. Throughout his bit, he demonstrates good pacing and deliberate comedic timing while keeping his energy contained to effectively engage with the room.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 88,
+        "total_tokens": 2842
+      }
+    },
+    {
+      "intervalle_index": 227,
+      "intervalle_debut": 3405,
+      "intervalle_fin": 3420,
+      "analyse_action": "In the scene, a stand-up comedian is performing on a dimly lit stage. He's giving a focused, animated performance while speaking into a handheld microphone, alternately gesturing with his hands raised or bringing them back down to his sides as he builds his routine.\n\nThe comedian maintains an energetic presence throughout, occasionally nodding, tilting his head slightly, and shifting his stance for emphasis. At times he appears to be making a point or reacting to something, before settling into a more contemplative pose.\n\nThe intimate, close-framed setup and his smooth movements as he speaks suggest he's maintaining a steady flow of laughter moments through his performance, creating an engaging one-man stand-up act at what appears to be a comedy club or similar venue. The controlled red lighting and focused framing help draw attention to his delivery while adding atmosphere to his performance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 171,
+        "total_tokens": 2925
+      }
+    },
+    {
+      "intervalle_index": 228,
+      "intervalle_debut": 3420,
+      "intervalle_fin": 3435,
+      "analyse_action": "A stand-up comedian is performing on stage, delivering what appears to be a punchline during his routine. He's animated and expressive in his delivery, using his hands for emphasis throughout - starting with both hands spread for impact, then bringing his hand nearer to his chest as he continues, and finally bringing it back out in another emphatic gesture.\n\nThe performer is wearing a black leather jacket over a gray T-shirt, with his short brown hair styled and facial hair neatly kept. He's holding a handheld microphone and maintaining eye contact with the audience while speaking with evident enthusiasm and confidence throughout his performance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 120,
+        "total_tokens": 2874
+      }
+    },
+    {
+      "intervalle_index": 229,
+      "intervalle_debut": 3435,
+      "intervalle_fin": 3450,
+      "analyse_action": "A man is performing comedy on stage as a comedian. He's standing under warm stage lights with a glowing spotlight, holding a handheld microphone in his right hand. Throughout the speech, he alternates between addressing the audience and glancing off to his left. His comedic delivery includes animated facial expressions—his mouth shapes into distinct curves that suggest the rhythm of a joke, and he briefly closes his eyes and tilts his head back with a concentrated, comic look.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 93,
+        "total_tokens": 2847
+      }
+    },
+    {
+      "intervalle_index": 230,
+      "intervalle_debut": 3450,
+      "intervalle_fin": 3465,
+      "analyse_action": "A stand-up comedian is performing on stage. He's addressing the audience while holding a microphone, speaking with expressive facial expressions and occasional smiles. Throughout his performance, he moves dynamically, briefly gesturing with his left hand before bringing it back to his side, then bringing it forward again as if emphasizing a point.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 63,
+        "total_tokens": 2817
+      }
+    },
+    {
+      "intervalle_index": 231,
+      "intervalle_debut": 3465,
+      "intervalle_fin": 3480,
+      "analyse_action": "The scene shows a stand-up comedian performing live on stage during what appears to be a comedy set. He's delivering material to an audience, gesturing expressively as he speaks with a microphone in hand. \n\nThe performance has a typical stand-up comedy energy - the comedian is animated, using various hand movements including palm-up gestures and pointing toward the audience to emphasize his points. He's looking around the room while speaking, maintaining eye contact with the crowd as he builds up what seems to be a punchline or joke.\n\nThe setting is professional, with dramatic stage lighting that illuminates him against a dark, red-accented backdrop, adding to the theatrical atmosphere of the performance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 137,
+        "total_tokens": 2891
+      }
+    },
+    {
+      "intervalle_index": 232,
+      "intervalle_debut": 3480,
+      "intervalle_fin": 3495,
+      "analyse_action": "The scene shows a man performing on stage as part of what appears to be a stand-up comedy routine. He's addressing an audience while on stage, gesturing expressively with his hands and appears to be engaged in the performance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 47,
+        "total_tokens": 2801
+      }
+    },
+    {
+      "intervalle_index": 233,
+      "intervalle_debut": 3495,
+      "intervalle_fin": 3510,
+      "analyse_action": "A stand-up comedian is performing on stage during a comedy show. He's standing on the right side of the stage directly addressing an audience, holding a microphone and speaking with animated gestures. His delivery is lively and expressive, punctuated by hand movements and occasional head nods as he conveys his material.\n\nThe stage has a dark, moody aesthetic with deep red lighting that's most prominent along one side. A red backdrop and red lighting create an atmospheric, dimly lit environment behind the performer. As the performance progresses, the lighting shifts to reveal more of the stage setup, including multiple spotlights and a two-tone red curtain that becomes visible.\n\nThe performer maintains engagement with the audience throughout the set, his expression showing moments of concentration and mild animation as he tells his jokes. Although the crowd itself isn't clearly visible, their presence is evident. The overall scene captures the essence of a live comedy performance – the performer using stage presence, physical comedy, and expressive delivery to connect with an unseen audience in what appears to be a well-executed comedy routine.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 212,
+        "total_tokens": 2966
+      }
+    },
+    {
+      "intervalle_index": 234,
+      "intervalle_debut": 3510,
+      "intervalle_fin": 3525,
+      "analyse_action": "A man is delivering a stand-up comedy performance on stage. He's holding a microphone in his right hand and speaking animatedly to an audience whose heads are visible at the bottom of the frame.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 40,
+        "total_tokens": 2794
+      }
+    },
+    {
+      "intervalle_index": 235,
+      "intervalle_debut": 3525,
+      "intervalle_fin": 3540,
+      "analyse_action": "A comedian is delivering a stand-up performance on stage in what appears to be a club or comedy venue. He's performing a routine with energetic and animated delivery, using expressive gestures throughout his routine as he interacts with the audience. A small red spotlight highlights him against the dark background with red curtains, while purple or blue stage lights create dramatic framing along the edges of the scene. His facial expressions range from lighthearted and amused to more serious or intense as he tells his story, engaging viewers with animated body language and maintaining eye contact with them. The performance takes place in a dimly lit setting designed to make the comedian stand out, giving the impression of an intimate comedy venue or club atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 142,
+        "total_tokens": 2896
+      }
+    },
+    {
+      "intervalle_index": 236,
+      "intervalle_debut": 3540,
+      "intervalle_fin": 3555,
+      "analyse_action": "A comedian is performing on stage during a stand-up comedy routine. He's holding a handheld microphone and delivering his set in a dimly lit venue with dramatic lighting.\n\nThe performance takes place against a backdrop of red and black curtains, with both red and white stage lights focusing attention on him as he speaks. He gestures animatedly with his free hand throughout his delivery, occasionally pausing to address the audience more directly. At one point, he raises his left hand while continuing to hold the microphone in his right hand, creating a moment of heightened expression in his routine.\n\nThe audience is visible below him as silhouettes, their heads forming a dark crowd that frames the performance space. The entire scene has the formal energy of a comedy club show, with the performer maintaining stage presence through his body language and expressions as he engages with both the immediate crowd and an audience beyond them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 176,
+        "total_tokens": 2930
+      }
+    },
+    {
+      "intervalle_index": 237,
+      "intervalle_debut": 3555,
+      "intervalle_fin": 3570,
+      "analyse_action": "The scene shows a stand-up comedian performing live on stage. The comedian stands centered under a spotlight on a black stage floor, speaking into a handheld microphone in a natural conversational manner. He pauses occasionally, listens faintly to an off-camera response, and then continues speaking.\n\nThe performance takes place in a dimly lit venue with dramatic lighting. Behind the comedian, a large red backdrop with horizontal lines creates a vivid contrast against the dark stage. Blue stage lights wash across the floor, reflecting off his black leather jacket and white shirt.\n\nThe delivery appears confident and relaxed, characteristic of a comedian working through material during a live performance. The simple yet striking stage design—with its combination of the bold red background and cool blue floor lighting—creates an engaging visual atmosphere that complements the verbal performance. Throughout the scene, the focus remains on the comedian and the interaction with the audience via the microphone.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 179,
+        "total_tokens": 2933
+      }
+    },
+    {
+      "intervalle_index": 238,
+      "intervalle_debut": 3570,
+      "intervalle_fin": 3585,
+      "analyse_action": "A comedian is performing a stand-up routine on stage. He's delivering a comedy performance while standing on a lit stage, speaking into a microphone and telling what appears to be a joke or funny story to an audience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 44,
+        "total_tokens": 2798
+      }
+    },
+    {
+      "intervalle_index": 239,
+      "intervalle_debut": 3585,
+      "intervalle_fin": 3600,
+      "analyse_action": "The scene shows a stand-up comedy performance in a theater setting. A comedian is performing on stage, holding a microphone in his right hand and delivering his routine with animated gestures, expressive facial movements, and body shifts. He moves back and forth slightly while maintaining constant eye contact with the audience.\n\nThe theater atmosphere is vivid with dramatic lighting - a bright spotlight illuminates the performer against a dark, moody backdrop while red and white ceiling lights bathe the surrounding space. Audience members are visible in the foreground and throughout the lower levels, with one person noticeable with both arms raised. The venue features multiple levels including balcony seating with chairs, creating an intimate atmosphere despite the larger space.\n\nThe performance takes place in a dimly lit auditorium, with the comedian as the central focus of attention, addressing the crowd with his routine under the sharp beam of stage lighting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 172,
+        "total_tokens": 2926
+      }
+    },
+    {
+      "intervalle_index": 240,
+      "intervalle_debut": 3600,
+      "intervalle_fin": 3615,
+      "analyse_action": "In the scene, a comedian is delivering a stand-up performance to a live audience. He's performing on a blue-lit stage against a red curtain backdrop. He wears a black leather jacket over a gray collared shirt, paired with blue jeans and black shoes.\n\nThe comedian holds a handheld microphone in his right hand as he talks to the audience, making expressive facial expressions, occasionally laughing, and gesturing with his left hand. At one point, he walks across the stage holding the microphone while performing. The stage lighting is dramatic - a beam spotlights him from above while a red glow washes the environment.\n\nYou can see the heads of audience members watching from the darkened section at the bottom of the frame, confirming this is a live comedy show in progress. The performer creates a dynamic, engaging atmosphere as he moves and interacts with the room, fully immersed in his material while sampling it with the crowd.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 184,
+        "total_tokens": 2938
+      }
+    },
+    {
+      "intervalle_index": 241,
+      "intervalle_debut": 3615,
+      "intervalle_fin": 3630,
+      "analyse_action": "A comedian is giving a spoken routine on stage. The performer is actively engaging the audience with animated delivery, alternating between standing close to the microphone and moving around the performance space. He's making expressive hand gestures throughout—keeping one hand near his chest, extending his arm outward, placing his hands together near his waist, and eventually bringing one hand back to his chest.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 74,
+        "total_tokens": 2828
+      }
+    },
+    {
+      "intervalle_index": 242,
+      "intervalle_debut": 3630,
+      "intervalle_fin": 3645,
+      "analyse_action": "The scene shows a man giving a performance or presentation on stage. He's standing at a microphone, addressing an audience in what appears to be a formal, theatrical, or comedic setting. \n\nThroughout his delivery, he varies his expressions and body language. He alternates between attentive listening—leaning forward with hands clasped, eyes shifting slightly to his left—then actively speaking into the microphone. He gestures with both hands at times, and his facial expressions change to match his delivery, moving from a slightly open-mouthed, focused look to moments with eyes closed and mouth open as he emphasizes points. His gaze shifts between forward, slightly to the side, and upward at different points in his performance.\n\nThe man is speaking passionately and appears to be telling a story or making an argument to his audience. The dramatic backdrop with red and black curtains, the single bright spotlight, and his theatrical styling all suggest this is a stand-up comedy routine, monologue, or dramatic performance where he's deliberately engaging with his audience through expressive body language and vocal delivery.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 210,
+        "total_tokens": 2964
+      }
+    },
+    {
+      "intervalle_index": 243,
+      "intervalle_debut": 3645,
+      "intervalle_fin": 3660,
+      "analyse_action": "The comedian is performing stand-up on a theater stage. He's delivering a set to a large audience in a dimly lit auditorium, standing behind a microphone and moving animatedly as he speaks. The venue has several levels filled with people, and modern theater lighting highlights him against a large red curtain backdrop throughout his performance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 66,
+        "total_tokens": 2820
+      }
+    },
+    {
+      "intervalle_index": 244,
+      "intervalle_debut": 3660,
+      "intervalle_fin": 3675,
+      "analyse_action": "In the scene, jim gaffigan is delivering a live stand-up performance to an audience. He's performing on stage from a speaking position at a podium",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 32,
+        "total_tokens": 2786
+      }
+    },
+    {
+      "intervalle_index": 245,
+      "intervalle_debut": 3675,
+      "intervalle_fin": 3690,
+      "analyse_action": "The scene shows a comedy performance in progress on stage. A man with short, spiky brown hair and a beard is addressing the audience at center stage. He's delivering stand-up material with animated, expressive movements, speaking into a microphone while gesturing frequently with his hands. He shifts between closing his eyes in contemplation and opening them wide.\n\nHis energetic performance style includes quick arm movements, palms up open gestures, downward clasping of his hands, and dramatic head tilts. At certain points, he raises his eyebrows, lifts his hands outward, and brings them back together near the microphone stand. He alternates between speaking directly to the audience and angling his gaze slightly to his right, creating an engaging presence.\n\nThe stage lighting is simple yet effective, with a bright spotlight highlighting the performer against a dark backdrop featuring a red curtain or patterned surface. The overall presentation maintains the typical atmosphere of a stand-up comedy show.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 188,
+        "total_tokens": 2942
+      }
+    },
+    {
+      "intervalle_index": 246,
+      "intervalle_debut": 3690,
+      "intervalle_fin": 3705,
+      "analyse_action": "A man is performing stand-up comedy on stage. He stands center stage speaking into a microphone, using animated hand gestures to emphasize his points while telling jokes. He alternates his gaze between looking directly at the audience and glancing slightly to his left and right.\n\nThe lighting creates dramatic spotlighting against a dark red curtain backdrop, intensifying the performance atmosphere. Throughout his routine, he maintains a confident and engaging presence, delivering his material with expressive body movements and facial expressions.\n\nThe overall scene captures a live comedy performance where the comedian is actively engaging with his audience through his routine.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 116,
+        "total_tokens": 2870
+      }
+    },
+    {
+      "intervalle_index": 247,
+      "intervalle_debut": 3705,
+      "intervalle_fin": 3720,
+      "analyse_action": "A man is performing a stand-up comedy routine on stage. He's speaking into a microphone while addressing an audience, using expressive hand gestures throughout his performance. He maintains energetic delivery with natural physicality, including occasional head tilts, lifted eyebrows, and emphatic gestures with his hands that extend toward the audience. The scene captures him mid-performance, fully engaged in delivering his comedy material with animated body language and facial expressions. His presentation style appears energetic and dynamic as he addresses the group in this intimate comedy setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 103,
+        "total_tokens": 2857
+      }
+    },
+    {
+      "intervalle_index": 248,
+      "intervalle_debut": 3720,
+      "intervalle_fin": 3735,
+      "analyse_action": "A stand-up comedian is performing live on stage to an engaged audience. He's on a dimly lit stage with red lighting, wearing a black leather jacket, speaking into a microphone with expressive facial expressions and hand gestures. The performance builds to a dramatic moment where the camera pulls back to reveal the venue as a large auditorium with three tiers of seating—ground, mezzanine, and balcony—filled with audience members hanging off chairs in appreciation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 91,
+        "total_tokens": 2845
+      }
+    },
+    {
+      "intervalle_index": 249,
+      "intervalle_debut": 3735,
+      "intervalle_fin": 3750,
+      "analyse_action": "A man with short brown hair and facial hair is standing on stage in a dimly lit setting, performing a comedy routine for an audience. He's wearing casual clothing and interacting with the crowd, at one point raising his left hand while making a humorous expression directed toward the audience. The scene captures a lighthearted comedic performance moment, creating an engaging mood.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 75,
+        "total_tokens": 2829
+      }
+    },
+    {
+      "intervalle_index": 250,
+      "intervalle_debut": 3750,
+      "intervalle_fin": 3765,
+      "analyse_action": "The scene is showing title cards appearing one after another on a completely black screen with centered red text. It opens with credits dedicated to Jessica, then displays credits for writer-performer Anthony Jeselnik as well as director Marcus Raboy. The sequence continues with producer and executive producer credits, including Christy Smith and Ravi Nandan, each name presented in its own centered block of red text on the stark black background. It's essentially a minimal, high-contrast end credits sequence or dedication sequence for a work.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 104,
+        "total_tokens": 2858
+      }
+    },
+    {
+      "intervalle_index": 251,
+      "intervalle_debut": 3765,
+      "intervalle_fin": 3780,
+      "analyse_action": "The video begins displaying a crew credits sequence on a solid black background. Red text appears one at a time, centered in a clean, simple format that maintains this minimal aesthetic throughout the entire sequence.\n\nThe credits roll by showing a complete list of production contributors: an Executive Producer, a Line Producer, multiple Producers, a Director of Photography, and a Production Designer. Each title and name appears in red against the black background with straightforward, professional typography.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 91,
+        "total_tokens": 2845
+      }
+    },
+    {
+      "intervalle_index": 252,
+      "intervalle_debut": 3780,
+      "intervalle_fin": 3795,
+      "analyse_action": "The camera is zooming onto the credits.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 10,
+        "total_tokens": 2764
+      }
+    },
+    {
+      "intervalle_index": 253,
+      "intervalle_debut": 3795,
+      "intervalle_fin": 3810,
+      "analyse_action": "The scene shows a rolling end credits sequence listing crew and cast members for the production. All text appears in a uniform bold font against a solid deep black background, moving continuously from top to bottom in an elegant cascading style.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 46,
+        "total_tokens": 2800
+      }
+    },
+    {
+      "intervalle_index": 254,
+      "intervalle_debut": 3810,
+      "intervalle_fin": 3825,
+      "analyse_action": "The scene shows a simple, clean credits or acknowledgments sequence. It presents a series of names and appreciation messages centered on the screen in red text against a solid black background. The text is formatted with varying sizes and hues of red, with larger font highlighting names that appear earlier and smaller text for later entries. The sequence scrolls upward, moving from the bottom of the screen toward the top as it displays each person or group. All the text remains in all capital letters and appears to serve as credits acknowledging staff, collaborators, performers, families, and supporters who contributed to the production or recording.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 119,
+        "total_tokens": 2873
+      }
+    },
+    {
+      "intervalle_index": 255,
+      "intervalle_debut": 3825,
+      "intervalle_fin": 3840,
+      "analyse_action": "The scene opens with red and white lettering against a black background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 15,
+        "total_tokens": 2769
+      }
+    },
+    {
+      "intervalle_index": 256,
+      "intervalle_debut": 3840,
+      "intervalle_fin": 3846.944,
+      "analyse_action": "The scene shows a simple yet eye-catching sequence of visual elements transitioning on a black background. It begins with bold titular text in red and white arranged on multiple lines, then cuts to a minimalist red \"N\" logo. This logo has a darker vertical line on the left and a slightly lighter red diagonal line on the right that creates a subtle three-dimensional effect.\n\nThe red \"N\" gradually expands and elongates vertically, transforming into thin vertical streaks of color. These streaks sweep outward in a sweeping, dynamic motion, displaying a spectrum of vibrant hues including red, pink, purple, blue, and green.\n\nThe overall presentation has a modern, branded feel that's both clean and striking, with the stark contrast between the bright colors and the black background keeping full attention on the evolving visual elements. \n\nAfter the colorful sequence completes, all elements resolve and disappear, ending the scene.",
+      "tokens": {
+        "prompt_tokens": 1247,
+        "completion_tokens": 178,
+        "total_tokens": 1425
+      }
+    }
+  ]
+}
