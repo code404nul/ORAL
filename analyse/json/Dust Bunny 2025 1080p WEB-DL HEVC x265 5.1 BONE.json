@@ -8,7 +8,7 @@
   "date_traitement": "2026-02-19T11:17:14.162586",
   "stats_extraction": {
     "total": 424,
-    "reussis": 421,
+    "reussis": 424,
     "echecs": 0,
     "timeouts": 0,
     "gpu_errors": 0,
@@ -10128,7 +10128,7 @@
       "intervalle_fin": 6330,
       "timecode_debut_extrait": 6315,
       "timecode_fin_extrait": 6330,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Dust Bunny 2025 1080p WEB-DL HEVC x265 5.1 BONE\\interval_0421_time_6315.00s-6330.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -10139,7 +10139,7 @@
       "intervalle_fin": 6345,
       "timecode_debut_extrait": 6330,
       "timecode_fin_extrait": 6345,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Dust Bunny 2025 1080p WEB-DL HEVC x265 5.1 BONE\\interval_0422_time_6330.00s-6345.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -10150,7 +10150,7 @@
       "intervalle_fin": 6353.557,
       "timecode_debut_extrait": 6345,
       "timecode_fin_extrait": 6353.557,
-      "video_path": null,
+      "video_path": "analyse\\videos\\Dust Bunny 2025 1080p WEB-DL HEVC x265 5.1 BONE\\interval_0423_time_6345.00s-6353.56s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0

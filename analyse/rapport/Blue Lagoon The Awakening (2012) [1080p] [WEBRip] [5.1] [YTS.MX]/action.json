@@ -2256,6 +2256,1689 @@
         "completion_tokens": 242,
         "total_tokens": 2996
       }
+    },
+    {
+      "intervalle_index": 205,
+      "intervalle_debut": 3075,
+      "intervalle_fin": 3090,
+      "analyse_action": "The scene takes place at a wooden desk where a woman with short blonde hair tied back, wearing a beige collared shirt over a black undershirt, is leaning forward working on materials. She has papers spread out before her along with a silver laptop, and holds a map sturdy that she consults while studying it intently. \n\nThe camera then moves to show her interacting with another woman with short brown hair who is sitting nearby, engaged in conversation across the desk. \n\nThere's also a moment outdoors where three girls are sitting on a bench. One is seated, appearing deep in thought and looking downward, while two others beside her share expressions of curiosity and contemplation. Sunlight illuminates the scene, indicating they're sitting outside.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 149,
+        "total_tokens": 2903
+      }
+    },
+    {
+      "intervalle_index": 206,
+      "intervalle_debut": 3090,
+      "intervalle_fin": 3105,
+      "analyse_action": "In the scene, two women are having an intense conversation in an office setting. One woman with short brown hair is sitting at a desk working on a laptop, while the other woman with blonde hair is facing her. The exchange appears serious and focused, with both women looking directly at each other.\n\nThe office is clearly active with multiple people working throughout. Behind a tan-colored desk, a man in a white shirt and black tie is absorbed in his work, focused on a computer screen. He's leaning slightly forward and appears preoccupied with his tasks. The workspace is illuminated by overhead lighting, and there's a red flag with black and white stripes visible in the background, along with a brown desk lamp positioned nearby.\n\nThroughout the interaction between the two women, the professional office environment remains consistent, showing various staff members working at different stations. The tone suggests this is likely some important discussion or meeting, given the body language and the intensity between the women. The scene captures the organized, busy atmosphere of a workplace where multiple people are engaged in their roles simultaneously.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 212,
+        "total_tokens": 2966
+      }
+    },
+    {
+      "intervalle_index": 207,
+      "intervalle_debut": 3105,
+      "intervalle_fin": 3120,
+      "analyse_action": "The scene depicts a tense moment involving aerial surveillance and people on the ground. A white helicopter with a black exterior is flying low over a tropical-looking area, mounted with a camera and a microphone suggesting surveillance or observation is taking place.\n\nInside the helicopter, you can see crew members focused on their work—the pilots wearing headsets are deeply concentrated on the mission, maintaining their course while operating the aircraft and its equipment.\n\nOn the ground, passengers are celebrating in what appears to be a festive outdoor setting—with a market area visible under colorful umbrellas. Employees are handing out flyers or newspapers to the gathering crowd. People are holding photographs and blonde woman carrying a white piece of paper with the word \"MISSING\" written in bold red letters appears.\n\nThe contrast between the professional, concentrated work happening in the circling helicopter above, and the casual, energetic crowd celebration below creates an atmosphere of tension and urgency around this surveillance mission.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 184,
+        "total_tokens": 2938
+      }
+    },
+    {
+      "intervalle_index": 208,
+      "intervalle_debut": 3120,
+      "intervalle_fin": 3135,
+      "analyse_action": "The scene unfolds as a multi-part sequence centered around a couple and separate events involving other characters.\n\nThe main focus is on a young man and woman engaged in a tense moment near a white building with green doors. They're standing facing each other, but the connection between them is unclear—there's no visible tension, conflict, or positive interaction occurring. Instead of a dramatic confrontation or affectionate exchange, their relationship appears neutral to potentially contentious.\n\nThe man is wearing a black shirt and khaki pants, holding white papers that look like documents or files. The woman is dressed in a striped dress and carrying a white bag. They're standing close together in what appears to be a commercial or public area with yellow umbrellas, a street, parked cars, and other buildings visible in the background—an industrial or warehouse district with people milling about.\n\nAmid this quiet tension between the couple, the scene suddenly cuts to flashes of black-and-white footage showing someone running in the rain and a woman speaking near a closed door. Then it returns to the present moment, maintaining the same neutral yet unresolved dynamic between the two people.\n\nThe atmosphere throughout is subdued and ambiguous, with no clear narrative progression between the running figure, the quiet exchange, and the urban setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 250,
+        "total_tokens": 3004
+      }
+    },
+    {
+      "intervalle_index": 209,
+      "intervalle_debut": 3135,
+      "intervalle_fin": 3150,
+      "analyse_action": "In the scene, there's a spacious warehouse interior with industrial features including gray floors, metal walls, and a second-floor balcony. Two people are sitting on a gray bench near a small recessed seating area beneath a red \"Scarlet Ibis\" sign. One person is wearing a white shirt over a green top with their khaki jacket beside them, while the other is dressed in a gray polo shirt.\n\nA young girl is by(who is on the far left). \n\nA man in shorts and a black shirt is running on a treadmill, moving briskly as part of his workout while the seated pair watches him go by.\n\nThe room has a somewhat somber atmosphere, with all the occupants displaying serious, concerned expressions as they observe the man's run from their bench. The scene has a candid, observational quality that makes it feel like it could be from a film.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 177,
+        "total_tokens": 2931
+      }
+    },
+    {
+      "intervalle_index": 210,
+      "intervalle_debut": 3150,
+      "intervalle_fin": 3165,
+      "analyse_action": "In the scene, a man and a woman are having a conversation in an outdoor setting. The man with gray hair and a gray polo shirt is speaking to the woman, who has blonde hair in a ponytail and is wearing a white jacket over a green shirt. The woman is listening to him attentively, at moments glancing at him and at others looking off into the distance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 78,
+        "total_tokens": 2832
+      }
+    },
+    {
+      "intervalle_index": 211,
+      "intervalle_debut": 3165,
+      "intervalle_fin": 3180,
+      "analyse_action": "In the scene, the man and woman are engaged in a quiet conversation while seated side by side. The man speaks most of the time, his voice with a weary quality as he alternates between looking ahead and down at their clasped hands on his lap. \n\nMeanwhile, the woman remains silent throughout, maintaining a composed, stiff posture with her hands folded tightly together. She listens intently, her expression serious and fixed on whatever he's saying. \n\nTheir body language reflects an important, possibly uncomfortable exchange—both maintaining their focus on the conversation despite the brief pauses between speaking. The setting adds to the quiet intensity of the moment, with its white concrete surfaces, the cloth and bottles on the bench behind them, and various items on the counter in the background. The woman's active blinking contrasts with the man's mostly still face, highlighting the difference in their engagement with the conversation as they lap someone about their circumstances.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 185,
+        "total_tokens": 2939
+      }
+    },
+    {
+      "intervalle_index": 212,
+      "intervalle_debut": 3180,
+      "intervalle_fin": 3195,
+      "analyse_action": "The scene shows a domestic interior moment with an older man and younger woman seated together in what appears to be a familiar space. The man is wearing a gray polo shirt. The woman is wearing a white button-down shirt worn open over a light green or teal tank top, and she has her long blonde hair tied back in a ponytail. They're positioned in what looks like a home setting rather than a clinical or official environment.\n\nThe older man appears particularly animated - his mouth is open mid-speech, he leans forward with his hands on his knees in a more engaged posture, and his gaze shifts between looking left and right as if addressing different people in the room.\n\nThe younger woman contrasts with his energy, sitting with her hands clasped together in her lap, her eyes downcast, and appearing Rock solid. This creates a clear tension in the scene, as she doesn't seem to share his enthusiasm or interest.\n\nIn the background, there's a shelf with a white bag that has red and white writing on it. A red bottle with a white label is also visible on the shelving.\n\nThe overall atmosphere feels like a challenging or emotionally difficult conversation is taking place between them, with the man animatedly describing something important to others off-camera, while the woman appears reserved, somewhat withdrawn, and possibly troubled by what she's hearing. The setting reinforces the impression that this is an ordinary home rather than a formal environment, which makes the stark emotional difference between the two people even more pronounced. Their contrasting postures and expressions - one deeply engaged and energetic, the other quiet and emotionally challenged by the interaction - create a moment of unease and complexity.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 332,
+        "total_tokens": 3086
+      }
+    },
+    {
+      "intervalle_index": 213,
+      "intervalle_debut": 3195,
+      "intervalle_fin": 3210,
+      "analyse_action": "In the scene, an older couple - a man in a gray polo shirt and a woman in a white jacket over a turquoise shirt - sit together on the bench in an industrial workshop along a dirt road. They're looking in different directions - he gazes to the right and speaks, while she looks ahead with a serious expression. Nearby, a makeshift enclosure stands beside the man, containing a line of red and white cylinders, and there's a table with a chair at its side.\n\nThe setting has a crammed, functional feel with various equipment and supplies scattered around. After spending some time in this rugged, work-oriented environment, the scene transitions to a completely different location.\n\nThe environment shifts to a quiet suburban roadway in front of a large white house with a gray roof. Here, a blonde woman wearing a black coat and pants walks along the street carrying two suitcases. She passes an overgrown area featuring a brick structure marked with the number \"17-182.\" The grassy yard contains a sandbox with a small sandcastle and several colorful balloons. The driveway holds multiple parked vehicles, including a truck and a car.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 229,
+        "total_tokens": 2983
+      }
+    },
+    {
+      "intervalle_index": 214,
+      "intervalle_debut": 3210,
+      "intervalle_fin": 3225,
+      "analyse_action": "The scene shows a woman arriving at the doorstep of a house that appears to be a place of mourning. Standing on the gray sidewalk, she has a suitcase and a small bag in her hands. Her face is in shock as she processes what she sees.\n\nThe approach to the house is marked by a cluster of colorful balloons – blue with yellow text, purple with green text, and red – alongside scattered drawings and flowers arranged on the ground. A glass candle holder containing a lit candle stands among the display, and there's a small sign that reads \"come\" with additional text that isn't clearly visible.\n\nThe woman lowers herself down by kneeling beside the flowers and clutches her suitcase tightly, looking around with a bewildered and appalled expression. Her posture and body language suggest she's suddenly encountered something troubling or distressing at this gathering. More balloons and floral petals surround her on the ground, creating an atmosphere of somber remembrance or commemoration as she stands motionless, processing what she sees.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 202,
+        "total_tokens": 2956
+      }
+    },
+    {
+      "intervalle_index": 215,
+      "intervalle_debut": 3225,
+      "intervalle_fin": 3240,
+      "analyse_action": "The scene shows a woman with blonde hair in a ponytail, wearing a black jacket over a black shirt with white squiggly lines, standing quietly in a grassy area near a sidewalk.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 40,
+        "total_tokens": 2794
+      }
+    },
+    {
+      "intervalle_index": 216,
+      "intervalle_debut": 3240,
+      "intervalle_fin": 3255,
+      "analyse_action": "In the scene, a man and a woman are sitting shoulder to shoulder on a beach at sunset, gazing out together at the ocean. They're sitting close on the sand with their knees slightly bent, positioned right side by side as they face the water. The man is shirtless, and the woman is wearing a blue tank top with dark pants, both turning slightly to their right to look out at the waves.\n\nThey appear to be sharing a quiet, intimate moment together as they watch the water and watch the sky as faint clouds drift by. The man turns to the woman and speaks to her, prompting her to turn and look at him. As they continue to look at each other, the man then stretches out his arm toward the water, reaching out into the distance past her.\n\nThe scene captures the beautiful twilight over the ocean, with the sun partially hidden by a few clouds casting oranges and yellows across the sky, and small waves rolling in over rocks in the foreground. It's a peaceful, contemplative moment between the two of them as they sit side by side on the beach, taking in the view of the water together.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 230,
+        "total_tokens": 2984
+      }
+    },
+    {
+      "intervalle_index": 217,
+      "intervalle_debut": 3255,
+      "intervalle_fin": 3270,
+      "analyse_action": "The scene shows a quiet, intimate moment between two people resting together on the beach during sunset. A short scene in the movie \"Call Me by Your Name.\"",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 33,
+        "total_tokens": 2787
+      }
+    },
+    {
+      "intervalle_index": 218,
+      "intervalle_debut": 3270,
+      "intervalle_fin": 3285,
+      "analyse_action": "In the scene, a young woman with long blonde hair is seated by the water's edge, wearing a green and white striped tank top. A young man with short brown hair who is shirtless sits beside her, with his back to the camera.\n\nThe woman appears deeply focused on something in the distance, occasionally shifting her gaze downward between glances toward the horizon. Her expression is serious and absorbed, suggesting she's observing something significant happening far away.\n\nThe young man eventually turns toward her, and their eyes meet across the shallow water. There's a moment of quiet connection between them - she responds to his gaze with a small, genuine smile, while he continues to look at her with a semblance of presence. This exchange between them creates a tender, meaningful connection against the peaceful backdrop of the beach and gray sky.\n\nThe overall atmosphere is subdued but charged with emotion, capturing a brief yet intimate moment between the two individuals as they sit side by side at the shore, sharing a silent understanding.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 200,
+        "total_tokens": 2954
+      }
+    },
+    {
+      "intervalle_index": 219,
+      "intervalle_debut": 3285,
+      "intervalle_fin": 3300,
+      "analyse_action": "The scene captures a progression through several distinct aquatic environments. It opens with people wading through shallow water along a tropical shoreline, then transitions underwater where two swimmers explore coral reefs with schools of fish. The video continues with more underwater activity, showing a marine landscape enhanced with distortions that create stylized effects through a lens shader.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 67,
+        "total_tokens": 2821
+      }
+    },
+    {
+      "intervalle_index": 220,
+      "intervalle_debut": 3300,
+      "intervalle_fin": 3315,
+      "analyse_action": "The scene shows two people diving into clear water together. After their dive, they emerge from the water and is later seen holding each other in the water.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 32,
+        "total_tokens": 2786
+      }
+    },
+    {
+      "intervalle_index": 221,
+      "intervalle_debut": 3315,
+      "intervalle_fin": 3330,
+      "analyse_action": "This is a continuation of two people enjoying both above and below the waterline.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 17,
+        "total_tokens": 2771
+      }
+    },
+    {
+      "intervalle_index": 222,
+      "intervalle_debut": 3330,
+      "intervalle_fin": 3345,
+      "analyse_action": "The scene captures a slow, intimate underwater sequence that transitions to a beach embrace.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 17,
+        "total_tokens": 2771
+      }
+    },
+    {
+      "intervalle_index": 223,
+      "intervalle_debut": 3345,
+      "intervalle_fin": 3360,
+      "analyse_action": "In the scene, there are two intimate moments unfolding. \n\nFirst, a woman and a man share a passionate kiss on a beach. They're lying close together on the sand with water splash marks all around them—his arm wraps around her waist as waves crash nearby. The setting is bright and sunlit with the beautiful beach atmosphere. This moment exudes romantic tenderness as they embrace in the ocean during the daytime.\n\nThe second segment shifts to a nighttime scene at an outdoor beach location. A couple lies under palm branch awnings and dried leaves near a wooden structure. One person rest their head tenderly on their partner's chest during this quiet, intimate moment against the night sky.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 138,
+        "total_tokens": 2892
+      }
+    },
+    {
+      "intervalle_index": 224,
+      "intervalle_debut": 3360,
+      "intervalle_fin": 3375,
+      "analyse_action": "In the scene, two people are kissing in an intimate, affectionate moment. They're lying down together, and what appears to be very passionate kissing.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 32,
+        "total_tokens": 2786
+      }
+    },
+    {
+      "intervalle_index": 225,
+      "intervalle_debut": 3375,
+      "intervalle_fin": 3390,
+      "analyse_action": "The scene shows an intimate moment between two people relaxing together in what appears to be a natural, outdoor setting. The woman is lying on her back on a hammock while the man is lying chest down beside her, facing her.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 47,
+        "total_tokens": 2801
+      }
+    },
+    {
+      "intervalle_index": 226,
+      "intervalle_debut": 3390,
+      "intervalle_fin": 3405,
+      "analyse_action": "In the scene, the two characters, Caleb and Juliet, are lying together in their rough, handcrafted shelter on the island. They're resting together beneath the thatched roof made of palm fronds on the sandy ground, with an old tire visible nearby.\n\nTheir positions suggest a quiet moment of intimacy and closeness. Caleb and Juliet are lying in close proximity to each other, creating an atmosphere of connection and shared experience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 86,
+        "total_tokens": 2840
+      }
+    },
+    {
+      "intervalle_index": 227,
+      "intervalle_debut": 3405,
+      "intervalle_fin": 3420,
+      "analyse_action": "The scene shows an intimate, tender moment between two young adults lying close together in a primitive natural setting. They're resting on a light brown woven structure with green leaves visible in the background, creating a tranquil atmosphere.\n\nBoth individuals are shirtless and appear relaxed, with their bodies positioned in a close, affectionate manner. The woman has blonde hair and rests her head on the man's arm as she leans toward his face, speaking softly while looking intently at him. The man has short light brown hair and remains lying with his arm resting casually behind his head, appearing calm and contemplative as he listens to her. They share a quiet, focused connection with one another, creating an atmosphere of intimacy and warmth in their natural surroundings.\n\nThe overall mood is peaceful and emotionally resonant, capturing a moment of calm conversation and emotional closeness between the two people.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 173,
+        "total_tokens": 2927
+      }
+    },
+    {
+      "intervalle_index": 228,
+      "intervalle_debut": 3420,
+      "intervalle_fin": 3435,
+      "analyse_action": "The scene captures an intimate moment between two people lying together on their backs in what appears to be a hammock. They're engaged in a quiet, romantic conversation with the woman resting her head on the man's chest. \n\nThe woman occasionally smiles at him, showing a progression from a slow smile to a small laugh, creating a relaxed and lighthearted atmosphere. Meanwhile, the man maintains a peaceful expression, often looking directly at her with noticeable affection as he listens intently. Their closeness is evident through his hand resting gently on her chest.\n\nThe setting appears to be outdoors in a natural environment, with the hammock swaying softly, likely on a palm tree based on the visible palm fronds. Throughout the exchange, the mood remains calm and intimate, with both individuals clearly comfortable and enjoying this tender moment together. While their dialogue isn't audible, their body language strongly suggests they're sharing something personal and meaningful.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 188,
+        "total_tokens": 2942
+      }
+    },
+    {
+      "intervalle_index": 229,
+      "intervalle_debut": 3435,
+      "intervalle_fin": 3450,
+      "analyse_action": "The scene shows two young people sharing an intimate moment outdoors on a hammock or hanging seat. They're lying close together in a relaxed, affectionate pose with only their upper bodies visible. The boy and girl are touching each other gently, with the girl's hand positioned on the boy's chest while they look at one another and smile warmly. Their body language conveys closeness and happiness as they enjoy this casual, intimate contact outdoors.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 89,
+        "total_tokens": 2843
+      }
+    },
+    {
+      "intervalle_index": 230,
+      "intervalle_debut": 3450,
+      "intervalle_fin": 3465,
+      "analyse_action": "A golden retriever is eating something green from the plastic bag as a blonde woman in white clothes sits across from him on the grass.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 28,
+        "total_tokens": 2782
+      }
+    },
+    {
+      "intervalle_index": 231,
+      "intervalle_debut": 3465,
+      "intervalle_fin": 3480,
+      "analyse_action": "The scene shows a quiet, intimate moment between a young couple lying on their sides together. They appear relaxed and connected as they enjoy each other's company.\n\nThe woman is positioned on her right side with her head resting against the boy's left shoulder. She has blonde hair that falls softly around her face and is smiling warmly while having her left arm wrapped around his neck. Her relaxed posture and gentle smile suggest she's comfortable and at ease in his presence.\n\nThe boy is lying on his right side facing her, with his head turned toward her face. He has short, curly brown hair and a very slender build. His left arm is bent at the elbow with his hand in front of his chest, giving a casual, unhurried appearance. The couple's proximity and the way they're positioned—with her arm around his neck and his face close to her—indicates a tender, affectionate moment.\n\nThe overall atmosphere is peaceful and intimate, capturing what appears to be a private, loving exchange between two young people who feel close to each other. The framing, their body language, and the soft expressions suggest this is a meaningful connection rather than just a casual encounter.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 235,
+        "total_tokens": 2989
+      }
+    },
+    {
+      "intervalle_index": 232,
+      "intervalle_debut": 3480,
+      "intervalle_fin": 3495,
+      "analyse_action": "In the scene, two people are lying very close together on a bright, cool day, sharing a gentle, intimate moment. The woman has her head resting on the man's shoulder and upper chest, with her arm draped loosely around his neck. They're both holding a relaxed posture and maintain comfortable, affectionate contact with each other. There's a clear sense of closeness and comfort as they stay near one another. The scene has these very soft, understated qualities to it—casual, peaceful, and unhurried. It seems like a quiet, tender moment where they're simply there with each other, comfortable in each other's presence.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 132,
+        "total_tokens": 2886
+      }
+    },
+    {
+      "intervalle_index": 233,
+      "intervalle_debut": 3495,
+      "intervalle_fin": 3510,
+      "analyse_action": "The scene depicts a tranquil, intimate moment between a young couple lying together in a tropical setting. They're nestled closely in a hammock suspended among palm trees, creating a peaceful, summery atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 41,
+        "total_tokens": 2795
+      }
+    },
+    {
+      "intervalle_index": 234,
+      "intervalle_debut": 3510,
+      "intervalle_fin": 3525,
+      "analyse_action": "The scene shows a quiet, intimate moment between two people sharing a hammock. They're lying close together with relaxed, unhurried body language, communicating through soft facial expressions and barely moving. The young man remains comfortably reclined with his arm bent behind his head, while the woman stays nearby with a gentle, attentive presence. Their proximity and unhurried interaction create an atmosphere of quiet connection and comfort as they appear to enjoy each other's company in this peaceful outdoor setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 97,
+        "total_tokens": 2851
+      }
+    },
+    {
+      "intervalle_index": 235,
+      "intervalle_debut": 3525,
+      "intervalle_fin": 3540,
+      "analyse_action": "The scene depicts an intense, intimate moment between two people lying together on a hammock in a tropical setting. The young man with curly brown hair is shirtless and lying on his back, propped up on an elbow. He's staring at his partner with admiration, his gaze lingering as he seems to be recounting something. His partner, a young woman with long blonde hair who is also shirtless, lies close by resting her head near his chest and upper arm. \n\nThe atmosphere is calm and warm, with lush leafy greenery framing them in the background. Their bodies are positioned closely together, with their shoulders and chests touching, suggesting they're comfortable and intimately familiar with each other. The focus remains intimately on them alone throughout, capturing this quiet, affectionate exchange in what appears to be an intimate tropical moment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 167,
+        "total_tokens": 2921
+      }
+    },
+    {
+      "intervalle_index": 236,
+      "intervalle_debut": 3540,
+      "intervalle_fin": 3555,
+      "analyse_action": "The scene captures an intimate, emotionally charged moment between two shirtless people lying together on woven wicker furniture beneath a tree in a tranquil outdoor setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 31,
+        "total_tokens": 2785
+      }
+    },
+    {
+      "intervalle_index": 237,
+      "intervalle_debut": 3555,
+      "intervalle_fin": 3570,
+      "analyse_action": "The scene shows an intimate moment between a young man and woman in a cozy, natural setting. They sit close together on the ground with what appears to be a small tree or branch growing nearby.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 40,
+        "total_tokens": 2794
+      }
+    },
+    {
+      "intervalle_index": 238,
+      "intervalle_debut": 3570,
+      "intervalle_fin": 3585,
+      "analyse_action": "In the scene, a young couple is sharing a romantic moment in a lush, outdoor setting. They're lying very close together on what appears to be a woven hammock, with both individuals being shirtless.\n\nThe atmosphere is intimate and natural, with soft sunlight filtering through leaves above them, creating warm highlights and shadows across their skin. The girl seems comfortable and down-to-earth in environments like this.\n\nThe young woman sits up with her left arm resting behind her head, appearing relaxed. The young man initially has his eyes closed before opening them as the moment becomes more playful. Their bare torsos are visible against the earthy, wood-toned environment around them, including the texture of the hammock material. There's a warm, earthy gradient of brown in the background that complements the natural setting.\n\nThe overall mood is gentle and natural, portraying a quiet, reciprocal moment between them. They seem comfortable and at ease with each other and their surroundings, sharing genuine smiles in what feels like a relaxed, affectionate setting that allows them to connect with one another and their environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 218,
+        "total_tokens": 2972
+      }
+    },
+    {
+      "intervalle_index": 239,
+      "intervalle_debut": 3585,
+      "intervalle_fin": 3600,
+      "analyse_action": "Two people are lying together in a calm, intimate outdoor setting. A blonde-haired woman is propped up with her head resting on her arm. A man with short curly brown hair, a small mustache, and a beard is lying nearby, engaged in conversation. The woman nods while listening to him talk, leaning in close. Smiling, she tilts her head and brings her hand to her chin, snuggling closer. She lightly bounces her head back and forth with her eyes closed, then responds with a soft, amused laugh and a content smile, creating a relaxed yet warm atmosphere between them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 123,
+        "total_tokens": 2877
+      }
+    },
+    {
+      "intervalle_index": 240,
+      "intervalle_debut": 3600,
+      "intervalle_fin": 3615,
+      "analyse_action": "The scene depicts a private, intimate moment between two people lying close together on a bed. They're engaged in a quiet, affectionate exchange with soft smiles and meaningful looks. The woman leans in to place a gentle kiss on the man, and they share a warm, tender connection with their eyes moving slowly.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 63,
+        "total_tokens": 2817
+      }
+    },
+    {
+      "intervalle_index": 241,
+      "intervalle_debut": 3615,
+      "intervalle_fin": 3630,
+      "analyse_action": "In the scene, a young couple is lying outdoors together on grass while the girl falls back into the boy's chest after talking to him.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 29,
+        "total_tokens": 2783
+      }
+    },
+    {
+      "intervalle_index": 242,
+      "intervalle_debut": 3630,
+      "intervalle_fin": 3645,
+      "analyse_action": "The scene shows a quiet, intimate moment between what appears to be a romantic couple sharing a close, playful interaction in a natural setting. They're lying together on a bed of green palm fronds, with a soft, leafy canopy overhead providing natural shade. The male partner is lying on his back with his head resting on his arm, smiling at the female partner beside him, creating a relaxed, affectionate atmosphere. The female partner is seated nearby on the fronds, leaning on her right elbow with her hand resting on her cheek as she looks down at him with a gentle smile, then glances off to the side before returning her gaze to him, showing engagement in their interaction.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 139,
+        "total_tokens": 2893
+      }
+    },
+    {
+      "intervalle_index": 243,
+      "intervalle_debut": 3645,
+      "intervalle_fin": 3660,
+      "analyse_action": "The video shows a rustic bedroom scene with two people. A woman with long blonde hair is sitting up in bed, leaning forward with her head slightly bowed, looking downward in a contemplative or pensive manner. Only one shoulder is visible in this staged indoor setting.\n\nOpposite her sits a young man with short, curly brown hair, looking up at the blonde woman with a subtle smile on his face. The atmosphere appears calm and intimate.\n\nThe scene then transitions outside, where you can see foliage of various colors in bright natural light.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 108,
+        "total_tokens": 2862
+      }
+    },
+    {
+      "intervalle_index": 244,
+      "intervalle_debut": 3660,
+      "intervalle_fin": 3675,
+      "analyse_action": "The scene depicts a quiet, contemplative moment in a lush green forest. A shirtless man with short brown hair wearing a necklace stands among dense foliage, picking a red flower from the forest floor while surrounded by vibrant greenery, orange blooms, and flowers in various stages of blossoming.\n\nThe focus then shifts to a woman leaning back against a large dark brown tree trunk, resting with her eyes closed in a peaceful pose. She wears a light blue tank top that exposes her shoulders and upper chest, and has long wavy brown hair cascading over her shoulders.\n\nThe atmosphere throughout is very serene and natural, emphasizing uninterrupted relaxation and quiet presence, set entirely within this sunlit forest environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 139,
+        "total_tokens": 2893
+      }
+    },
+    {
+      "intervalle_index": 245,
+      "intervalle_debut": 3675,
+      "intervalle_fin": 3690,
+      "analyse_action": "The scene shows a young woman with long light brown dirty blonde hair leaning against a tree in a lush forest clearing. She's wearing a white tank top and a silver necklace, with her head softly tilted back and closed eyes. Sunlight filters through the leaves, illuminating her hair and face.\n\nLater in the scene, another young person with short brown curly hair appears shirtless, wearing a black necklace, standing near plants with bright red flowers and leaves. They stand among green foliage, with trees visible in the background. The young woman gazes across at this person. \n\nThe setting conveys an intimate, natural atmosphere with the sunlight playing through the dense trees and leaves. After moments standing together in this peaceful woodland environment, the camera suddenly tilts upward as if trying to look up through the canopy, capturing the sky peeking through the leaves above them.\n\nOverall, it appears to be a quiet, contemplative moment between two people sharing this forest space, possibly soaking in the natural surroundings and nature sounds together.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 204,
+        "total_tokens": 2958
+      }
+    },
+    {
+      "intervalle_index": 246,
+      "intervalle_debut": 3690,
+      "intervalle_fin": 3705,
+      "analyse_action": "This is a scene from the 2005 movie \"predators\" where Adrien Brody plays an amateur swimmer who has been shipwrecked and is stranded in a dense tropical jungle. He encounters a beautiful woman hiding among tree roots, thinking he's in trouble. As she starts speaking, Brody notices her and comes running to look for her. This encounter takes place in the tropical jungle setting where Brody's character is stranded.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 93,
+        "total_tokens": 2847
+      }
+    },
+    {
+      "intervalle_index": 247,
+      "intervalle_debut": 3705,
+      "intervalle_fin": 3720,
+      "analyse_action": "In the scene, a deeply distressed young woman is running through a dense, sunlit forest with urgency and desperation. She has long blonde hair and is wearing a light blue tank top and dark blue pants, moving rapidly through the bright woodland with a faint trail of footprints behind her.\n\nThe atmosphere is chaotic and action-driven, conveying a sense of imminent danger forcing her to flee at high speed. Alongside her pursuit, a shirtless man with brown hair and a beard can be seen running through the trees at a similar pace, appearing to chase or follow her through the forest.\n\nThe sequence culminates in a beach area. The woman is seen from behind, bent over on the sandy shore, while a small single-engine aircraft passes overhead in the sky above a clear blue beach scene.\n\nThe overall impression is of a frantic escape through contrasting natural environments – from the dense, thick forest to the open space of the beach beneath daylight skies – with two people in high-speed pursuit. The woman's distressed running away and the presence of the aircraft above the beach all suggest she's in significant peril, compelled to flee whatever threatening situation may be surrounding them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 231,
+        "total_tokens": 2985
+      }
+    },
+    {
+      "intervalle_index": 248,
+      "intervalle_debut": 3720,
+      "intervalle_fin": 3735,
+      "analyse_action": "A man is sprinting across a sandy beach, racing against a small propeller plane that's flying low over the ocean. He runs through the surf and inland toward the dunes, while others watch from near the water's edge.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 48,
+        "total_tokens": 2802
+      }
+    },
+    {
+      "intervalle_index": 249,
+      "intervalle_debut": 3735,
+      "intervalle_fin": 3750,
+      "analyse_action": "The scene depicts a couple relaxing on a beach at sunset, watching a fish hanging from a tree branch. After this peaceful moment on the beach, the woman gets up, runs into the dense foliage, and eventually finds herself in what appears to be a makeshift shelter or hut.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 56,
+        "total_tokens": 2810
+      }
+    },
+    {
+      "intervalle_index": 250,
+      "intervalle_debut": 3750,
+      "intervalle_fin": 3765,
+      "analyse_action": "In the scene, there are two people meeting at a beach.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 14,
+        "total_tokens": 2768
+      }
+    },
+    {
+      "intervalle_index": 251,
+      "intervalle_debut": 3765,
+      "intervalle_fin": 3780,
+      "analyse_action": "This is an outdoor scene unfolding on what appears to be a tropical island. Two people are in different locations on the same setting.\n\nThe man is shirtless, standing shirtless in an outdoor area. We see him from the back as he stands and then moves forward toward his left side, transitioning from a back view to a forward-facing stance. His stance appears deliberate and controlled as he extends his right foot to step. During this, palm fronds gradually come into view at the edge of the frame, confirming the tropical setting. At the moment he completes his step, the camera catches a direct, straight-on view of his face, showing him in profile with the bright white sky behind him. He wears a necklace that flashes briefly in the sunlight during this transition.\n\nMeanwhile, the woman is positioned near what appears to be a tropical shoreline or riverbank. She has long blonde hair and is wearing what looks like a light blue or white dress. As the wind blows through her hair, she uses her hands to briefly brush it back from her face. The background around her is quite lush and vibrant, featuring a tree with brown bark and a thick palm frond overhanging her path. When she shifts her position, green grass, brown sand, and the blurred edges of palm fronds become visible in the background.\n\nThe two scenes are connected by the same tropical environment. The moment the camera cuts and captures the man's face directly after he completes his step creates an emotional connection between their movements. His face shows surprise at the sight of the shirtless man, with his expression frozen in that instant as he stands there under the bright tropical sky with the palm fronds framing him. The entire sequence conveys an atmosphere of heat, movement, and the unfolding of an encounter in this sunny, palm-lined setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 364,
+        "total_tokens": 3118
+      }
+    },
+    {
+      "intervalle_index": 252,
+      "intervalle_debut": 3780,
+      "intervalle_fin": 3795,
+      "analyse_action": "In this beach scene, a couple is engaged in what appears to be a romantic picnic-like setup. They're sitting side by side among palm trees with brown sand all around them, surrounded by lush palm fronds. The woman is kneeling and holding something yellow, while the man has his hands raised to his face as if adjusting it before turning aside. Between them is a small table with various items, including some red objects. It looks like they've arranged this intimate outdoor space together, either to enjoy the beach or perhaps to prepare for a romantic short outing. The peaceful tropical setting and the natural, casual placement of their gear suggest they're spending quality time together in this serene location.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 138,
+        "total_tokens": 2892
+      }
+    },
+    {
+      "intervalle_index": 253,
+      "intervalle_debut": 3795,
+      "intervalle_fin": 3810,
+      "analyse_action": "The scene shows two friends at a tropical beach in the early morning. A man in shorts is playing with a woman in a white tank top on the sandy shore, digging through the sand and tossing a ball while her laughter can be heard. The woman then runs excitedly along the beach, eventually climbing onto rocks overlooking the ocean, where she gazes at the bright horizon. Both appear to be caught up in the simple joy of time together on this beautiful tropical beach.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 95,
+        "total_tokens": 2849
+      }
+    },
+    {
+      "intervalle_index": 254,
+      "intervalle_debut": 3810,
+      "intervalle_fin": 3825,
+      "analyse_action": "The scene depicts a man and woman enjoying a relaxed day at the beach. \n\nThe woman is positioned on a sandy beach area near what appears to be a sturdy platform or dock with dark wooden planks. She has her back to the camera, observing the calm, expansive blue ocean with small waves rolling in. Her long hair is flowing, and despite how far away she is, her face is visible as she looks to her right, gazing out at the water while the branches sway gently above her.\n\nLater, the scene shows a man standing on the beach himself, silhouetted against a bright, clear sky. He's wearing a white tank top and shorts, positioned between two trees - a tall palm tree on his left and a leafless tree with bare branches on his right. Behind him, the ocean stretches out with gentle waves, and the sandy shoreline expands toward distant hills where rocky outcrops are visible near the water's edge.\n\nOverall, the scene captures a peaceful, sunlit beach day with both individuals appearing to take in the natural surroundings, though the man is distracted and leaning against a tree.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 226,
+        "total_tokens": 2980
+      }
+    },
+    {
+      "intervalle_index": 255,
+      "intervalle_debut": 3825,
+      "intervalle_fin": 3840,
+      "analyse_action": "The scene shows a quiet moment of connection between two people at the beach. Two individuals, a shirtless man with shoulder-length wavy brown hair and a blonde woman, are sitting side by side facing the ocean. While their backs are mostly turned to the camera, they appear relaxed and comfortable in each other's presence as they watch the waves roll in and meet the shore.\n\nThe setting has a peaceful, intimate feel with soft lighting that creates gentle contrasts. The couple seems drawn together, their attention focused on the water as they share this tranquil time together. Palm leaves frame the scene, adding to the natural coastal atmosphere. At one point the image becomes completely solid black momentarily, before returning to the calm beach view with the couple remaining seated and still, gazing out at the ocean.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 158,
+        "total_tokens": 2912
+      }
+    },
+    {
+      "intervalle_index": 256,
+      "intervalle_debut": 3840,
+      "intervalle_fin": 3855,
+      "analyse_action": "In the scene, a young couple is hiking through dense jungle vegetation. They're walking together with long hair blowing in the wind among tropical plants and trees. The girl is wearing a light blue tank top and appears initially calm, while the shirtless boy wears a pendant necklace and has earnest, slightly spaceship face. He looks surprised or troubled, shielding his eyes as he takes in his surroundings with his mouth slightly open. The woman follows closely, watching him intently with a concerned expression. The boy suddenly drops to his knees and starts screaming, as if he has discovered something shocking. After this startling moment, the man is shown standing on a rocky beach, looking out at the ocean and staring at the shoreline with a tight, uneasy expression on his face.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 152,
+        "total_tokens": 2906
+      }
+    },
+    {
+      "intervalle_index": 257,
+      "intervalle_debut": 3855,
+      "intervalle_fin": 3870,
+      "analyse_action": "The video presents a compelling contrast through a series of interconnected scenes.\n\nThe opening features Adrien Brody as Kanaka standing on a rocky shoreline, surrounded by lush tropical vegetation and facing the ocean. He's wearing what appears to be a minimalist necklace or white garment, barefoot in the sand. With a calm, thoughtful posture, he gazes out at the still sea as wind stirs through the palm fronds and leaves, creating a moment of serenity and contemplation amidst the rugged coastal setting.\n\nSuddenly, the atmosphere shifts dramatically from this peaceful beach scene to forces beyond control - rough ocean waters churning under a dark gray, storm-laden sky. These weather conditions introduce an element of danger and isolation to the location.\n\nThe video concludes with the same stormy seas but now shows additional hazards: waves are crashing violently against jagged rocks on the shore, with spray flying high. In this turbulent environment, a lone diver can be seen in the water, emphasizing the peril and human vulnerability in the face of nature's raw power.\n\nThe progression moves from human connection to the natural world at peace, through threatening weather conditions, to an explicit demonstration of danger with the diver amidst the assault of rocks and storm-battered waves. This progression suggests themes of perspective and fragility - how quickly a tranquil moment by the sea can give way to stark reminders of nature's might and human exposure to its elements.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 282,
+        "total_tokens": 3036
+      }
+    },
+    {
+      "intervalle_index": 258,
+      "intervalle_debut": 3870,
+      "intervalle_fin": 3885,
+      "analyse_action": "The scene shows a powerful close-up of a wave crashing against a rocky beach. The wave comes in violently, with white foam spreading across the water and mist rising from its impact on the rocks. The ocean appears rough and tumultuous, with shaky camera movements that suggest the operator is holding the camera near the surf line while bracing against the wind. The entire scene feels like it was filmed on a stormy, windy day.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 87,
+        "total_tokens": 2841
+      }
+    },
+    {
+      "intervalle_index": 259,
+      "intervalle_debut": 3885,
+      "intervalle_fin": 3900,
+      "analyse_action": "This is a quiet, intimate moment from the movie \"Midsommar,\" showing a tropical afternoon setting with two characters—a man with curly brown hair and a woman with long, wavy brown hair—resting beneath a palm leaf structure. They appear relaxed and contemplative, with minimal movement and soft expressions.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 64,
+        "total_tokens": 2818
+      }
+    },
+    {
+      "intervalle_index": 260,
+      "intervalle_debut": 3900,
+      "intervalle_fin": 3915,
+      "analyse_action": "In the scene, a couple sits together under a rustic straw thatched shelter in a tropical, beachside setting. \n\nThe woman has long blonde hair and wears a white tank top, while the man, shirtless with dark, curly hair, holds her close as they sit on a towel near a produce bag on the sand. Their conversation seems relaxed and intimate—she occasionally smiles, and he gazes down at her with his arm wrapped around her shoulder.\n\nThe ambiance is peaceful with blue sky overhead, tropical plants including a palm tree visible nearby, and the sounds of nature including a distant wave and birds chirping. The handcrafted shelter provides a cozy base for their quiet moment together by the sea.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 142,
+        "total_tokens": 2896
+      }
+    },
+    {
+      "intervalle_index": 261,
+      "intervalle_debut": 3915,
+      "intervalle_fin": 3930,
+      "analyse_action": "The scene takes place in a lush tropical forest with dense foliage and shafts of light filtering through the greenery. There are red flowers scattered among the vegetation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 33,
+        "total_tokens": 2787
+      }
+    },
+    {
+      "intervalle_index": 262,
+      "intervalle_debut": 3930,
+      "intervalle_fin": 3945,
+      "analyse_action": "The scene shows a woman hiking through a dense, tropical rainforest. She's moving along a path while navigating the woods, surrounded by vibrant green foliage, tree trunks, and various tropical plants. The forest canopy creates a semi-covered view with shafts of sunlight filtering down through the leaves.\n\nYou can see the bush walking by herself.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 69,
+        "total_tokens": 2823
+      }
+    },
+    {
+      "intervalle_index": 263,
+      "intervalle_debut": 3945,
+      "intervalle_fin": 3960,
+      "analyse_action": "The scene takes place in a dense, tropical forest where a woman moves steadily through the environment. She is wearing a light blue tank top and navigates between trees, vines, and ferns, with her long wavy brown hair and fair skin visible as she threads through the foliage.\n\nThe woman appears focused on something ahead of her, repeatedly glancing up toward what seems to be a distant hill or mountain visible through the clearing. The camera maintains a naturalistic, almost documentary feel with handheld movement that pans and tilts to follow her path.\n\nThe forest itself is richly layered with natural textures—dappled light filters through the canopy, leaving shifting patches of brightness and shadow on the ground. Various plants are visible around her path, including tree trunks, vines, and plants with vivid pink flowers. The landscape gives off a lush, rainforest-like impression with its abundant vegetation.\n\nThroughout the sequence, the atmosphere suggests a sense of purpose or investigation, as the woman moves deliberately through the undergrowth while maintaining her attention on the distant hill in the clearing ahead.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 215,
+        "total_tokens": 2969
+      }
+    },
+    {
+      "intervalle_index": 264,
+      "intervalle_debut": 3960,
+      "intervalle_fin": 3975,
+      "analyse_action": "The scene takes place in a dense jungle where a shirtless man with long shaggy brown hair and a necklace walks forward, surrounded by thick forest floor vegetation. He eventually encounters a wild black panther in the undergrowth. The animal emerges directly in front of him in the clearing, snarling with its mouth open to display sharp teeth, yellow eyes glowing, and ears pinned back. An intense confrontation unfolds between the man and the panther within the shadowy, green jungle environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 100,
+        "total_tokens": 2854
+      }
+    },
+    {
+      "intervalle_index": 265,
+      "intervalle_debut": 3975,
+      "intervalle_fin": 3990,
+      "analyse_action": "A group of people are running through dense jungle terrain. The bushes are bouncing and moving as the runners sprint through the area, creating a dynamic scene of vigorous physical activity in tight, green surroundings. The runners' movements disturb the vegetation, and their sprint through the foliage creates an energetic atmosphere amidst the lush, closed-canopy jungle setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 68,
+        "total_tokens": 2822
+      }
+    },
+    {
+      "intervalle_index": 266,
+      "intervalle_debut": 3990,
+      "intervalle_fin": 4005,
+      "analyse_action": "In the scene, a man and woman are experiencing an intense safari-style adventure through a dense, overgrown jungle. They're moving through the terrain under heavy tree cover with only bright patches of sunlight filtering through.\n\nThe situation escalates quickly when a large black panther unexpectedly charges at them. This causes immediate panic and action among the group. You can see the man physically reacting—with tense, heightened energy—as he moves to evade danger. The woman raises her hands high over her head in a defensive posture.\n\nThe man and woman appear to be working together, trying to navigate the thick vegetation and keep moving through the jungle. The energy level of the scene is extremely high, conveying fear and urgency as they're pursued by the panther.\n\nThis appears to be a dramatic chase scene set in an exotic, lush forest environment, capturing the thrilling and potentially life-threatening moments of evasion from wildlife in a dense jungle setting. The rapid movements and dramatic reactions emphasize the intensity of this safari encounter.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 197,
+        "total_tokens": 2951
+      }
+    },
+    {
+      "intervalle_index": 267,
+      "intervalle_debut": 4005,
+      "intervalle_fin": 4020,
+      "analyse_action": "The scene depicts a tense chase unfolding in a dense tropical jungle. A man in dirty khaki shorts sprints through the foliage while being pursued by a large black panther that clings to his leg and leaves a visible bite mark on him.\n\nThe prey is trying to escape through the thick undergrowth, struggling against the pursuit. Shortly after, a woman with long blonde hair in a light blue top and jeans joins the chase, sprinting after the panther and glimpsing the man clinging to the animal's body during the pursuit.\n\nAn intense confrontation ensues when the man is wounded by the pursuing animal. He ends up on his back at ground level with a bloody wound on his hand, gripping a knife while biting at the panther's neck in a desperate struggle amidst the grass and dirt. In a final desperate attempt, he drives the knife into the panther's head as a last stand.\n\nThe woman, clearly distressed,赶到 the scene with the wound and bleeding, speaking urgently while the struggle between man and predator plays out in the foreground. It's a scene of survival, pain, and raw instinct—a brutal encounter between human and wild predator in the jungle.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 236,
+        "total_tokens": 2990
+      }
+    },
+    {
+      "intervalle_index": 268,
+      "intervalle_debut": 4020,
+      "intervalle_fin": 4035,
+      "analyse_action": "This is from the movie Noah. In the scene,atchwood is filming Noah.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 18,
+        "total_tokens": 2772
+      }
+    },
+    {
+      "intervalle_index": 269,
+      "intervalle_debut": 4035,
+      "intervalle_fin": 4050,
+      "analyse_action": "A man and woman are spending a quiet moment together standing in deep water beneath a powerful waterfall. The water surrounds them at the waist as they stand close with their arms wrapped around each other, creating an intimate, embracing position. They remain still and immersed in this connection while the massive cascade crashes down above them, with mist and raindrops enveloping their figures and creating a dramatic, enveloping atmosphere. The scene captures a serene, loving moment between two people sharing both water and space beneath nature's force.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 102,
+        "total_tokens": 2856
+      }
+    },
+    {
+      "intervalle_index": 270,
+      "intervalle_debut": 4050,
+      "intervalle_fin": 4065,
+      "analyse_action": "The scene depicts a classroom setting where a class discussion is taking place. A woman in the front row is seated in a blue chair with a white folder, looking down at her open notebook. To her left sits a student in a blue hoodie, and behind him is a student in a green hoodie.\n\nIn the background, several windows allow natural light to stream into the room. The students appear to be engaged in what looks like a lesson or lecture, with some actively participating - one student raises his hand while another looks toward the camera. The atmosphere suggests an educational environment with a focus on textual studies, likely involving historical topics given the chalkboard with Cold War-related dates and events like the Berlin Wall. There is some great scenery, too.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 149,
+        "total_tokens": 2903
+      }
+    },
+    {
+      "intervalle_index": 271,
+      "intervalle_debut": 4065,
+      "intervalle_fin": 4080,
+      "analyse_action": "The scene shows a woman in a light blue shirt picking fresh fruit from a tree and eating it while walking through a lush, green forest. She has long blonde hair and a purple flower tucked behind her ear. As she moves through the foliage, she uses her blonde-handled tool to carefully pluck the fruit from the branches. You can see her concentrating as she reaches towards a branch with green leaves and twigs. She takes the fruit she has picked and eats it. The natural setting is rich with green leaves and trees, and there's a hint of brown branches framing the scene. It's a peaceful moment of her enjoying nature and harvesting fresh fruit directly from the plants.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 137,
+        "total_tokens": 2891
+      }
+    },
+    {
+      "intervalle_index": 272,
+      "intervalle_debut": 4080,
+      "intervalle_fin": 4095,
+      "analyse_action": "The scene takes place in a lush jungle environment where a young woman with blonde hair is carefully working with wood among various plants and trees. She's focused on crafting or assembling a piece of bamboo contraption, trimming a thin strip from a palm leaf and wrapping it around a bamboo pole with her hands.\n\nThe setting shifts to show collaborative work around a small wooden hut or raft. A shirtless man and the blonde woman are working together to build the structure using thin wooden poles tied together with bright green leaves. They continue constructing it, connecting more beams to the grid-like framework.\n\nThe scene concludes with a stark contrast - a bedroom with white walls and a minimalist design. A man in a white shirt and gray pants stands near a white door, framed by a bed with white pillows and gray blankets, black furniture, and a poster of a car with a black silhouette labeled \"SCREEE.\" There are also a lamp and a red object on the wooden floor.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 193,
+        "total_tokens": 2947
+      }
+    },
+    {
+      "intervalle_index": 273,
+      "intervalle_debut": 4095,
+      "intervalle_fin": 4110,
+      "analyse_action": "In the scene, a middle‑aged man is standing at the end of a well‑appointed bedroom. The bedroom has a neat, organized appearance with white walls and dark brown hardwood floors. \n\nThe man is positioned beside a black nightstand that holds two items - a silver lamp with a black shade and a book with a white cover. There's also a distinctive black helmet with a clear visor resting on the nightstand. Behind him, a white door with a window in the center has its blinds partially open, and there's a red object leaning against the wall next to the thermostat. The bed has white bedding with a dark blanket and several white pillows.\n\nThe man is simply holding onto the black bike helmet with his right hand over the nightstand and looking at it while standing in the bedroom, taking in the details of his surroundings and the items that are present in the space.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 179,
+        "total_tokens": 2933
+      }
+    },
+    {
+      "intervalle_index": 274,
+      "intervalle_debut": 4110,
+      "intervalle_fin": 4125,
+      "analyse_action": "The scene shows two people wading together in shallow water, waist-deep, holding a long stick angled between themselves. A large wave then hits, knocking them apart before subsiding. The video alternates between these moments.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 46,
+        "total_tokens": 2800
+      }
+    },
+    {
+      "intervalle_index": 275,
+      "intervalle_debut": 4125,
+      "intervalle_fin": 4140,
+      "analyse_action": "A person and a girl together falls into the water together.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 13,
+        "total_tokens": 2767
+      }
+    },
+    {
+      "intervalle_index": 276,
+      "intervalle_debut": 4140,
+      "intervalle_fin": 4155,
+      "analyse_action": "The scene captures two distinct moments unfolding in succession.\n\nThe first scene takes place in a bustling high school hallway. A teenage girl with long brown hair is walking past clustered students along the corridor. She's wearing a light blue zip-up hoodie over a black-and-white striped shirt with blue jeans, and she's carrying a green notebook with a red cover while looking straight ahead. The hallway is active with students moving in various directions under a blue \"Knights\" banner displayed above. The camera stays steady, following her movement through the busy school corridor. At one point, another girl with long dark hair approaches quickly from the side, holding something in her hand, while behind them a person in a red backpack walks by.\n\nThe video then transitions to a tranquil forest setting where a serene waterfall cascades softly over rocks into a small, dark green pool. The water appears to be falling only a short distance, creating a misty spray that hangs in the air. The scene is framed by lush trees and dense greenery, with overhanging leaves creating a natural canopy. At the bottom of the frame, there's a small, dark shape partially submerged in the water—likely a rock or possibly a person's head. Sunlight filters through the trees, illuminating the water and casting gentle highlights on the ripples. Green vines dangle from above, and tree trunks and branches surround the pool. The water moves continuously down the center before streaking to the left side.\n\nAfter this peaceful interlude, the view returns to two women sitting together in the same pool beneath the waterfall. They're turned toward one another, with the woman on the right gently holding the other on the left from behind, her head resting on her shoulder. Their silhouettes are soft against the bright white spray of the waterfall cascading above them, and water continues to splash around them. This concludes the sequence.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 380,
+        "total_tokens": 3134
+      }
+    },
+    {
+      "intervalle_index": 277,
+      "intervalle_debut": 4155,
+      "intervalle_fin": 4170,
+      "analyse_action": "In the scene, two people are sharing a kiss in the rain while standing in water.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 19,
+        "total_tokens": 2773
+      }
+    },
+    {
+      "intervalle_index": 278,
+      "intervalle_debut": 4170,
+      "intervalle_fin": 4185,
+      "analyse_action": "In this scene, a woman gives birth to a baby in the river beneath a waterfall.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 19,
+        "total_tokens": 2773
+      }
+    },
+    {
+      "intervalle_index": 279,
+      "intervalle_debut": 4185,
+      "intervalle_fin": 4200,
+      "analyse_action": "The scene moves between multiple moments. First, there's a romantic close-up of a couple kissing during a rain shower, with their intertwined arms and faces nearly touching as rain creates a misty backdrop.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 41,
+        "total_tokens": 2795
+      }
+    },
+    {
+      "intervalle_index": 280,
+      "intervalle_debut": 4200,
+      "intervalle_fin": 4215,
+      "analyse_action": "The scene is split between two different moments showing a high school prom planning process. First, it shows a classroom where a teacher in a black-and-white striped sweater is giving a formal presentation to students sitting at desks in front of a whiteboard that displays detailed prom information. The board shows \"PROM 2012\" details including theme \"Night Under the Stars,\" venue_MEMORIAL, and two columns for \"Homework\" and \"Volunteers.\"\n\nThen the scene shifts to a more intimate, romantic moment where a young man and woman are sitting closely together on a beach at sunset.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 121,
+        "total_tokens": 2875
+      }
+    },
+    {
+      "intervalle_index": 281,
+      "intervalle_debut": 4215,
+      "intervalle_fin": 4230,
+      "analyse_action": "The scene shows a romantic moment between a couple sharing the quiet stillness of a sunset beach. They are sitting together on the sand with their backs to the viewer, watching the sun dip below the horizon over the water.\n\nThe man eventually reaches for the woman's arm, leaning in close and gently kissing her neck. After this intimate moment, something uncomfortable happens. He stands up, and the woman gives chase, closing the distance between them with determination.\n\nWhile they're engaged in this interaction, the camera briefly cuts to a close-up of a large gray boulder covered in what appears to be written text or markings, along with a tree trunk and scattered debris, which might be a meaningful location or symbol for them.\n\nThe scene then returns to the woman alone on the beach, now curled up in an fetal position on the sand with her knees bent up and arms wrapped around her legs, appearing contemplative or distressed.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 184,
+        "total_tokens": 2938
+      }
+    },
+    {
+      "intervalle_index": 282,
+      "intervalle_debut": 4230,
+      "intervalle_fin": 4245,
+      "analyse_action": "The scene takes place on an island setting that appears to be a remote, tropical location with dense vegetation, damp foliage, and a simple straw-and-rainbow shelter.\n\nA man arrives on the island wearing tan shorts and carrying a coconut in one hand and a coconuts skin in the other. He walks through the lush greenery carrying items, moving past the small shelter made from natural materials like leaves and sticks. He has short black hair and seems to be gathering supplies, moving through the forested area with the items in his hands.\n\nAt another point, the man is engaged with a woman kneeling in a mossy area holding a rectangular wooden board. He picks up a bunch of bananas and passes them to her. A mosquito hovers near them during this interaction. The presence of the banana husk and the way he brings over bananas suggests they may be preparing food or supplies.\n\nThe overall setting looks like a young couple who have arrived on the island, establishing their presence there by gathering materials and supplies. The simple shelter, tropical environment, and their actions indicate they're in the process of setting up or adapting to their new location, possibly preparing to live there or make use of the resources around them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 244,
+        "total_tokens": 2998
+      }
+    },
+    {
+      "intervalle_index": 283,
+      "intervalle_debut": 4245,
+      "intervalle_fin": 4260,
+      "analyse_action": "The scene takes place in a lush tropical jungle setting where two performers are engaged in a conversation. The woman has long blonde hair tied back in a braid and is wearing a light blue tank top. She's speaking while standing in the foreground with her back partially turned toward the camera.\n\nOpposite her is a shirtless man with short brown hair who is sitting nearby. He's wearing a necklace with a small pendant and is engaged in what appears to be an animated conversation with the woman. The two are clearly in a discussion or exchange, with the man responding and reacting as the woman speaks to him.\n\nThe environment is dense and green, with vines, leaves, and tree trunks surrounding them. They seem to be discussing something important, with the man's expressions—like his open mouth and visible teeth as he speaks—suggesting he might be explaining or emphasizing particular points.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 177,
+        "total_tokens": 2931
+      }
+    },
+    {
+      "intervalle_index": 284,
+      "intervalle_debut": 4260,
+      "intervalle_fin": 4275,
+      "analyse_action": "In the scene, two people share an intimate moment in a lush tropical jungle setting. A young man with long, wavy brown hair and a necklace sits shirtless on the forest floor facing a woman with long blonde hair. \n\nThey're positioned close to each other on the leaves and ferns, with a thick brown vine wrapped around a nearby tree trunk. The atmosphere is calm and contemplative as they connect and converse.\n\nLater, they both kneel on the ground together. The woman offers a small brown package to the man as he rests with his head bowed for a moment. The scene has a peaceful, natural quality with dappled sunlight filtering through the dense foliage creating soft patterns of light and shadow on the ground around them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 149,
+        "total_tokens": 2903
+      }
+    },
+    {
+      "intervalle_index": 285,
+      "intervalle_debut": 4275,
+      "intervalle_fin": 4290,
+      "analyse_action": "In this scene, a young girl in a jungle setting is sitting outdoors in a natural clearing with lush green vegetation and a small stream behind her. She's wearing light blue tank top and very short denim shorts and is holding a basket of food in one hand. She appears to be speaking to a shirtless man with dark brown, bushy hair, who is facing away from the camera wearing a necklace with a small pendant. His expression alternates between smiling warmly when looking toward the camera and a more neutral expression when facing her.\n\nThe conversation seems to take place in a casual, friendly manner as they talk amidst the tranquil jungle surroundings.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 128,
+        "total_tokens": 2882
+      }
+    },
+    {
+      "intervalle_index": 286,
+      "intervalle_debut": 4290,
+      "intervalle_fin": 4305,
+      "analyse_action": "The woman crawls down to a man who is laying in the jungle.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 16,
+        "total_tokens": 2770
+      }
+    },
+    {
+      "intervalle_index": 287,
+      "intervalle_debut": 4305,
+      "intervalle_fin": 4320,
+      "analyse_action": "In the scene, two people are lying intimately together on a bed of dry leaves in a forested area. They're lying close side by side in a relaxed, peaceful position, with the woman resting her head on the man's chest. They appear to be engaged in quiet, close conversation and physical contact.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 63,
+        "total_tokens": 2817
+      }
+    },
+    {
+      "intervalle_index": 288,
+      "intervalle_debut": 4320,
+      "intervalle_fin": 4335,
+      "analyse_action": "In the scene, a shirtless man in khaki pants lies on his back on a bed of banana leaves in a dense tropical forest clearing, with a blonde woman seated nearby in a light blue tank top and denim shorts, leaning on her right arm with her legs extended. They're nestled among towering trees and lush foliage in a wooded area, with a clear plastic water bottle with a blue cap visible on the leaf-covered ground next to them.\n\nAbove them in a tree branch, a small monkey appears with a bright pink object in paw. The man starts lying in the leaves and playfully throws the bright pink items towards the monkeys. The monkey catches the item and dangles it up and down on its paw.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 144,
+        "total_tokens": 2898
+      }
+    },
+    {
+      "intervalle_index": 289,
+      "intervalle_debut": 4335,
+      "intervalle_fin": 4350,
+      "analyse_action": "In the scene, two young people are in a tropical jungle. The man, shirtless with long curly brown hair, is stretching and looking up at the branches above him while wearing a necklace around his neck. Next to him, a woman with long blonde hair and a light blue tank top is picking green bananas from nearby.\n\nIn the trees above them in a tree stand close to a monkey, there's a small black monkey with a white face holding a toy red and black gun and aiming it down at them, with it poised as if ready to shoot at them. The monkey repeatedly attempts to shoot at both people.\n\nThe atmosphere is playful and slightly tense, as the monkey is quite playful and interacts undisturbed with the people below the tree.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 151,
+        "total_tokens": 2905
+      }
+    },
+    {
+      "intervalle_index": 290,
+      "intervalle_debut": 4350,
+      "intervalle_fin": 4365,
+      "analyse_action": "In the scene, a young man and woman are exploring a dense, lush jungle together. They're standing beneath a tree that has a flat, sturdy branch covered with green foliage. The woman, who's wearing a light blue tank top and has long blonde hair in a braid, is looking downward with her eyes closed. She throws an orange, rectangular object. The location feels like a jungle or rainforest environment, with the man watching intently as the woman throws an object that lands on a branch.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 103,
+        "total_tokens": 2857
+      }
+    },
+    {
+      "intervalle_index": 291,
+      "intervalle_debut": 4365,
+      "intervalle_fin": 4380,
+      "analyse_action": "Two people are having an animated conversation in a lush forest. The scene captures them engaged in what appears to be intense dialogue, with one person speaking passionately and gesturing expressively while the other listens intently, occasionally responding.\n\nThe atmosphere is lively and emotional, with dappled sunlight occasionally breaking through the foliage to illuminate their faces as they exchange words. The forest setting adds to the intensity of their interaction—the natural beauty of the environment contrasts with the passionate conversation taking place within it.\n\nBy the end of the exchange, their body language suggests the conversation has gained momentum, possibly bringing them closer together as the moment builds. The overall mood is charged with energy and emotion, with both individuals appearing deeply engaged in what they're discussing.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 147,
+        "total_tokens": 2901
+      }
+    },
+    {
+      "intervalle_index": 292,
+      "intervalle_debut": 4380,
+      "intervalle_fin": 4395,
+      "analyse_action": "In the scene from \"Mamma Mia!\" Lily James' character receives a romantic message from a man in her life in the letter she discovers during her time on the Greek island. Her expressive reactions capture her emotional response as she reads the letter, with visible surprise and excitement. The shirtless man with the necklace represents Dominic Cooper's character, and this moment marks the dawning realization of her romantic history as she comes to understand the story behind the letters that have been left behind.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 97,
+        "total_tokens": 2851
+      }
+    },
+    {
+      "intervalle_index": 293,
+      "intervalle_debut": 4395,
+      "intervalle_fin": 4410,
+      "analyse_action": "A young woman with long blonde hair wearing a light blue tank top is running through the dense green forest and passes a bare-chested young man with medium-length brown hair, a necklace, a brown leather bracelet, and khaki cargo shorts. He's holding a bamboo staff topped with feathers in his left hand and resting his right hand on his forehead.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 71,
+        "total_tokens": 2825
+      }
+    },
+    {
+      "intervalle_index": 294,
+      "intervalle_debut": 4410,
+      "intervalle_fin": 4425,
+      "analyse_action": "In the scene, two people are at a shallow river in a lush, jungle-like setting. The man is shirtless and stands in the water wearing short gray pants, holding a stick. He's using it to probe at near the dirt banks at the river's edge, carefully checking around the muddy areas. The woman is standing several feet away on the grassy, rocky shoreline facing him. He's intentionally exploring along the bankuated area, checking where his feet shouldn't go or possibly searching for something specific in the mud and sand near the waterline.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 113,
+        "total_tokens": 2867
+      }
+    },
+    {
+      "intervalle_index": 295,
+      "intervalle_debut": 4425,
+      "intervalle_fin": 4440,
+      "analyse_action": "In this scene, two young people are spending time in a river surrounded by dense tropical greenery in daylight. A shirtless young man is bent over washing himself in the water while a young woman stands nearby, watching him with a look of disgust. After washing and rubbing a sponge over water that streams around his body, the man turns to look up at the woman and sparkles. The woman then approaches cautiously with a bottle of water, taking a sip and briefly closing her eyes. She continues walking toward him calmly and speaks to him. He responds with his mouth open, revealing his teeth, and shifts his gaze upward with his eyes widened before turning his face to the side. A wooden staff with black rope wrapped around it is visible in the scene as part of the young man's possessions in this jungle setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 164,
+        "total_tokens": 2918
+      }
+    },
+    {
+      "intervalle_index": 296,
+      "intervalle_debut": 4440,
+      "intervalle_fin": 4455,
+      "analyse_action": "The scene takes place on a tropical beach with tall trees, blue ocean, and sandy shoreline. Three people are featured in the beach setting. The scene opens with a woman in a white shirt and woman in a light blue tank top, then shifts to a bare-chested man with short brown hair wearing gray shorts standing in the sand. The beach has scattered trees, some bushes, and a few people walking in the background. The blue sky has a few white clouds overhead.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 96,
+        "total_tokens": 2850
+      }
+    },
+    {
+      "intervalle_index": 297,
+      "intervalle_debut": 4455,
+      "intervalle_fin": 4470,
+      "analyse_action": "In the scene, a woman with long blonde hair wearing a white tank top and jean shorts is standing on a beach holding a red device with a small antenna in her right hand. She's looking down at it while appearing to laugh at a young man who is standing nearby. The man has curly brown hair, is shirtless, and is wearing faded blue denim shorts. He's smiling, showing very white teeth, and his body language suggests a playful, teasing interaction between them.\n\nThe beach setting includes palm trees, a leafless tree with a long branch, green bushes, and clear blue water with waves rolling in. The woman pulls the red device and turns to show the back of it, then suddenly releases an object from it. Shortly after, a helicopter appears overhead.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 156,
+        "total_tokens": 2910
+      }
+    },
+    {
+      "intervalle_index": 298,
+      "intervalle_debut": 4470,
+      "intervalle_fin": 4485,
+      "analyse_action": "The scene captures an intense, multi-faceted moment. It opens with people being herded onto a plane, followed by people boarding an airplane. A group walks down a corridor together. The main focus is on a blonde woman staring at an airplane taking off with a look of shock. It seems like she is being chased.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 67,
+        "total_tokens": 2821
+      }
+    },
+    {
+      "intervalle_index": 299,
+      "intervalle_debut": 4485,
+      "intervalle_fin": 4500,
+      "analyse_action": "The scene takes place at an airport in a bright, bustling terminal with an escalator visible in the background. Two young people are walking together down a corridor. The girl on the left has long blonde hair and is dressed in a purple and white plaid shirt rolled up to her elbows with very light blue pants. She's holding the hand of the boy, who has messy brown hair and is wearing a gray button-up shirt with rolled-up sleeves. He has a black strap across his left shoulder. \n\nThey pause and look around, appearing to observe something or someone off-camera. As they shift their gaze, the boy offers a quick smile.\n\nThe scene then cuts to a news reporter standing with a microphone. She's interviewing a man wearing a tan jacket who has his back to the camera, though only the side of his face is visible and appears to be laughing. The reporter has reddish-brown hair pulled back and is wearing red lipstick.\n\nIn the background of the airport setting, several people can be seen milling around. A cameraman is visible filming the scenes, holding a camera with a microphone mounted on it. The overall atmosphere is busy and lively, with the hustle of an airport setting as people move through the terminal carrying suitcases and bags.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 253,
+        "total_tokens": 3007
+      }
+    },
+    {
+      "intervalle_index": 300,
+      "intervalle_debut": 4500,
+      "intervalle_fin": 4515,
+      "analyse_action": "The scene takes place at an airport and appears to be centered around an arrival or departure gathering. Multiple groups are interacting in different areas of the terminal.\n\nThe most prominent activity shows a newly arrived family group - a man holding a child's hands while another child hugs him - composed of a man, a woman, and two children. This family is walking together down an escalator toward the camera, with the child on the left carrying a large blue backpack.\n\nAround them, other passengers are moving through the terminal space. There's a young woman with long brown hair wearing a light blue sweater standing near a white pillar, and nearby a young man in a black suit jacket with a blue tie is visible. Staff members in blue uniforms with white badges are also present, working throughout the terminal.\n\nThe setting is filled with typical airport elements like escalators, signage, and a mix of white and gray walls. This appears to be either a celebration of people returning from a trip or a group gathering where family members have reunited with loved ones at the airport.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 210,
+        "total_tokens": 2964
+      }
+    },
+    {
+      "intervalle_index": 301,
+      "intervalle_debut": 4515,
+      "intervalle_fin": 4530,
+      "analyse_action": "In the scene, celebrities are arriving at what appears to be an airport terminal and capturing the attention of fans and media. Kirby Howell-Baptiste andalia Brewer greet and embrace fans, while Tom Welling engages in interviews with reporters.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 48,
+        "total_tokens": 2802
+      }
+    },
+    {
+      "intervalle_index": 302,
+      "intervalle_debut": 4530,
+      "intervalle_fin": 4545,
+      "analyse_action": "I can see a young man in a gray button-up shirt with a black strap being interviewed or addressed by someone who appears to be official-looking. A woman with long brown hair is hugging a man completely at ease as a female reporter with a red microphone interviews him. A woman in a distinctive plaid shirt and blue backpack is moving through the crowd delivering a passionate speech gesture, moving quickly",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 79,
+        "total_tokens": 2833
+      }
+    },
+    {
+      "intervalle_index": 303,
+      "intervalle_debut": 4545,
+      "intervalle_fin": 4560,
+      "analyse_action": "This scene depicts a chaotic, high-pressure celebrity encounter taking place in a busy airport terminal. A young man with short brown hair wearing a gray shirt is being surrounded and escorted by an older gray-haired man in a gray suit jacket as they move through a crowd of onlookers and people holding cameras. The handlers appear intent on guiding the young man through the throng.\n\nThe tension rises when the young man suddenly ducks, bursting into tears in front of everyone. This unexpected display draws even more attention as people shift to watch him and crowd closer in curiosity.\n\nIn another part of the scene, a small group gathers near a woman, with someone attempting to raise a microphone toward her in what seems to be an interview or questions session, though the complete content isn't visible. A darker area shows a brown-haired person with their face obscured.\n\nThe environment remains very crowded and hectic, with camera flashes going off and various people moving and reacting to the unfolding situation. It's the kind of press encounter where fans and media frenzy becomes overwhelming, with confused and surprised people trying to navigate through the chaotic atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 220,
+        "total_tokens": 2974
+      }
+    },
+    {
+      "intervalle_index": 304,
+      "intervalle_debut": 4560,
+      "intervalle_fin": 4575,
+      "analyse_action": "Several film production scenes are taking place:\n\nIn the first scene, a man and woman are in a warmly lit two-story living area. They appear calm and intimate - the man is standing near the staircase with his arm around the woman, while she's standing beside him in a blue shirt and brown jacket. They seem engaged in a quiet, romantic moment, possibly the beginning of an intimate conversation.\n\nThe second scene cuts to a busy residential street set for a film shoot. A paramedic ambulance is parked at an angle, while a black crew van is present. People are moving around the location - some in casual clothing, others wearing dark suits and lanyards - with cameras and equipment being moved through the space. Brick pillars add structure to the driveway area. The scene's controlled activity and presence of crew indicates this is part of a production schedule.\n\nThe final scene shows a gray SUV stopped at the curb. A medium-haired woman steps out through the passenger-side door wearing a light cream-colored dress. She's followed by a man in a white shirt wearing a name tag. A photographer immediately moves into position with a large professional video camera, documenting this arrival.\n\nThese scenes showcase different aspects of filmmaking - from quiet character moments to bustling production logistics and staged arrivals.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 254,
+        "total_tokens": 3008
+      }
+    },
+    {
+      "intervalle_index": 305,
+      "intervalle_debut": 4575,
+      "intervalle_fin": 4590,
+      "analyse_action": "This appears to be a scene set in a residential home featuring an intimate character moment between two men.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 21,
+        "total_tokens": 2775
+      }
+    },
+    {
+      "intervalle_index": 306,
+      "intervalle_debut": 4590,
+      "intervalle_fin": 4605,
+      "analyse_action": "In the scene, there are two separate moments unfolding.\n\nThe first part shows two adults—a man and a woman—standing together in a warmly decorated living room. They're embracing tightly and talking quietly while facing the view outside through the glass-doored doors. The man wraps his arms firmly around the woman as they stand close to the doorway, creating a cozy, intimate atmosphere in the well-lit room.\n\nThe second part takes place in a bedroom where a young woman with long blonde hair is sitting at her desk working on a laptop at night. She has her hand resting on her cheek in a thoughtful pose and appears calm and focused. After a while of quietly working, she gets up and walks out of the room. \n\nOnce she's outside, she approaches the window and opens it to reveal a young man on the other side. They exchange smiles—her smiling warmly while he smiles more broadly with an open-mouthed expression.\n\nOverall, the scene conveys quiet moments of personal connection and comfort, transitioning from indoor interaction to a nighttime exchange between the two people.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 214,
+        "total_tokens": 2968
+      }
+    },
+    {
+      "intervalle_index": 307,
+      "intervalle_debut": 4605,
+      "intervalle_fin": 4620,
+      "analyse_action": "A young woman leans toward a closed window at night, extending her hand toward the other side where a young man is positioned. As she reaches for him, their hands meet midair, creating a brief touch that marks the moment as significant. Their expressions shift to accommodate this near connection—his face softens into a wide, open smile while hers changes from surprised to a faint, closed-lipped smile.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 82,
+        "total_tokens": 2836
+      }
+    },
+    {
+      "intervalle_index": 308,
+      "intervalle_debut": 4620,
+      "intervalle_fin": 4635,
+      "analyse_action": "In the scene, a young woman with long blonde hair and a young man with brown hair are engaged in an intimate, serious conversation. They're facing each other closely in what appears to be a quiet indoor setting. At the start, the woman speaks to the young man, whose expression gradually shifts from open concern to a tight smile with his lips pressed together, showing some tension in his expression. The exchange continues with the woman responding while maintaining close eye contact, her face showing a mix of concentration and gentle concern. The young man then responds with a softer look, bringing his closed lips together as he begins to share what seems to be a partial smile or smirk. The woman mirrors his expression at that moment, smiling with her lips closed. The interaction has an emotional quality, with both individuals maintaining focused eye contact and displaying warm, genuine expressions throughout their exchange.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 173,
+        "total_tokens": 2927
+      }
+    },
+    {
+      "intervalle_index": 309,
+      "intervalle_debut": 4635,
+      "intervalle_fin": 4650,
+      "analyse_action": "Two young people are having a quiet, intimate conversation. The boy with short brown hair stands close to the girl with long blonde hair, leaning down with an attentive posture as they talk. They appear comfortable and at ease with each other, with the boy maintaining visual contact with the girl while she holds his arm gently.\n\nThe exchange has genuine emotion to it—he listens carefully and responds, with his expression shifting between thoughtful and warm. His body language suggests he's sharing something important or meaningful with her. The overall mood is tender and tenderly-loving. You can sense there's a kind of connection between them, possibly something romantic.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 126,
+        "total_tokens": 2880
+      }
+    },
+    {
+      "intervalle_index": 310,
+      "intervalle_debut": 4650,
+      "intervalle_fin": 4665,
+      "analyse_action": "The scene depicts a quiet, intimate moment between a young couple in a dimly lit setting. The conversation begins with a serious tone, as evidenced by the woman's concerned expression and furrowed brows while she looks at the man with her arms crossed.\n\nThe mood then quietly shifts to something more tender and romantic. The young man becomes animated and enthusiastic, gently leaning in closer toward the woman's face. There's a blossoming of vulnerability and connection—they're both relaxing into each other's physical space in a very close, personal way. The final moments, where the woman's hand rests lightly on his shoulder with him leaning in, seem to be the culmination of this emotional progression.\n\nOverall, it appears to be a deeply personal moment of connection, where the initial weight of what he's saying gives way to something warmer and more intimate between them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 171,
+        "total_tokens": 2925
+      }
+    },
+    {
+      "intervalle_index": 311,
+      "intervalle_debut": 4665,
+      "intervalle_fin": 4680,
+      "analyse_action": "The scene opens with a man and a woman leaning in close to one another, their faces nearly touching as they converse in a dimly lit setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 31,
+        "total_tokens": 2785
+      }
+    },
+    {
+      "intervalle_index": 312,
+      "intervalle_debut": 4680,
+      "intervalle_fin": 4695,
+      "analyse_action": "This appears to be a backyard gathering where someone is participating in a game that involves reaching up into a tree to pick something. There's a lively social atmosphere with people holding drinks and standing around talking, while one person climbs or stands on the tree trying to get what they need for the game. \n\nThe celebration seems to be quite social, with guests of various ages coming together in a garden setting. While the central action is focused on the game with the tree, the overall mood is casual and festive, with drawn curtains and a relaxed arrangement of people chat, laugh, and enjoy each other's company.\n\nThe scene captures a typical neighborhood get-together where there's a playful activity at its center, but the main element is the human interactions and social engagement taking place among the guests.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 158,
+        "total_tokens": 2912
+      }
+    },
+    {
+      "intervalle_index": 313,
+      "intervalle_debut": 4695,
+      "intervalle_fin": 4710,
+      "analyse_action": "The scene takes place at an outdoor party gathering with people holding drinks and socializing. A man in a blue polo shirt and matching baseball cap is discussing something with a blonde woman in a floral dress who smiles while listening. Nearby, a group of young women stand together among guests who are moving about the lawn.\n\nAs the man talking with the blonde continues his conversation, he turns around and makes an announcement or remark to the crowd gathered around him, which causes the assembled group to shift their attention in his direction as they listen. The outdoor setting shows trees, bushes, a white building with windows, and a white pole in the background, creating a casual, social atmosphere typical of a party gathering. People are standing in small groups with drinks in hand, conversing and reappearing behind the characters as the interaction unfolds.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 165,
+        "total_tokens": 2919
+      }
+    },
+    {
+      "intervalle_index": 314,
+      "intervalle_debut": 4710,
+      "intervalle_fin": 4725,
+      "analyse_action": "The scene shows an outdoor party with a relaxed, social atmosphere. People have gathered around a white table set with a white tablecloth, various drinks, and flowers, enjoying a celebratory moment together. Guests are dressed casually in summer attire—short sleeves, tank tops,bare-shoulders, and sundresses—holding glasses of wine, antiphon and other alcoholic beverages while engaging in conversation and laughter. A young man wearing a blue baseball cap and a woman in a floral sundress are part of the group mingling among friends. Despite the gathering, there is one notable difference: Alex, the man in the blue baseball cap seen earlier with the other two characters, isn't drinking like the others. This creates an interesting contrast within the otherwise festive social setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 155,
+        "total_tokens": 2909
+      }
+    },
+    {
+      "intervalle_index": 315,
+      "intervalle_debut": 4725,
+      "intervalle_fin": 4740,
+      "analyse_action": "In the scene, four teenagers are gathered outdoors in front of a white house with a window and leafy plant visible in the background. The group appears to be at a casual social gathering where people are holding drinks and conversing. \n\nA girl in a blue-and-purple plaid shirt stands there with her arms crossed and looks toward someone off-camera. Beside her is a boy in a light blue denim shirt holding a wooden chair with both hands. Two other girls stand nearby— one wearing a pink-and-white top over a red shirt, and another in a red shirt. \n\nThe focus is primarily on the boy and girl in the plaid shirt, who are engaged in conversation with each other and listening to someone nearby. The atmosphere is relaxed and social, with the teenagers interacting casually in what appears to be a small outdoor party or gathering where people cluster together in small groups and exchange brief remarks while holding drinks.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 184,
+        "total_tokens": 2938
+      }
+    },
+    {
+      "intervalle_index": 316,
+      "intervalle_debut": 4740,
+      "intervalle_fin": 4755,
+      "analyse_action": "The scene shows a lively outdoor party with people gathered among trees and white fence-lined spaces. A young woman with long dark hair in a blue-and-purple checked shirt stands between a man with long brown hair in a light blue jean jacket and a green plant. Nearby, a conversation unfolds between a blonde woman in a green dress and a man in a blue-and-white checkered shirt, surrounded by others holding drinks.\n\nThe central focus shifts to the long-haired man in the jean jacket, who moves closer to the woman in the checked shirt. As he leans in, she meets his gaze and smiles. Nearby, a blond man with brown eyes looks thoughtful, while the blonde woman in the dress turns away. Eventually, she looks toward the attentive man and speaks with him intently.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 156,
+        "total_tokens": 2910
+      }
+    },
+    {
+      "intervalle_index": 317,
+      "intervalle_debut": 4755,
+      "intervalle_fin": 4770,
+      "analyse_action": "The scene appears to capture a social gathering or party taking place outdoors. The young man in the light denim shirt is engaged in conversation with someone off-screen, suggesting an active social interaction. \n\nThe atmosphere seems lively and relaxed. Multiple people are present, including a woman with long blonde hair and another with dark hair standing nearby, with a man in a blue-and-white checkered shirt in the background. A green bush adds to the outdoor setting, and someone is holding a cup of wine, indicating this is likely a casual get-together with drinks.\n\nThroughout the scene, people are engaged in conversation and interacting with each other. There's activity happening in the background with additional individuals present. The young man in the denim shirt appears to be moving around, eventually standing near two darker-haired girls who are holding cups, possibly sharing toast or continuing their conversation. The overall mood seems friendly and social, typical of a casual outdoor event or party.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 188,
+        "total_tokens": 2942
+      }
+    },
+    {
+      "intervalle_index": 318,
+      "intervalle_debut": 4770,
+      "intervalle_fin": 4785,
+      "analyse_action": "This scene shows actors performing at an outdoor event or gathering. \n\nThe setup appears to be for a broadcast or documentary production, as evidenced by the camera crew operating a large black camera on a tripod - you can see the cameraman in a red-and-blue plaid shirt framing shots.\n\nThe footage captures people interacting in various ways. One moment shows a man in a blue plaid shirt speaking with a woman with long brown hair standing before him. Another scene features a man in a dark suit addressing someone in what looks like a public speaking moment, with production equipment visible nearby.\n\nThere are also glimpses of everyday life flowing through the frame - a blue pickup truck parked on the street with people in and around it, and pedestrians walking along the sidewalk.\n\nThe overall atmosphere suggests this is the behind-the-scenes look at a live production day, where actors are interacting and engaging in character scenes while the camera and crew capture the moments for filming. It's essentially documentation of the production process during what appears to be a planned outdoor shoot or public event scenario.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 210,
+        "total_tokens": 2964
+      }
+    },
+    {
+      "intervalle_index": 319,
+      "intervalle_debut": 4785,
+      "intervalle_fin": 4800,
+      "analyse_action": "A small group of friends is gathering together on the street near a grassy area. They appear to be friends next to each other carrying folders and bags.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 32,
+        "total_tokens": 2786
+      }
+    },
+    {
+      "intervalle_index": 320,
+      "intervalle_debut": 4800,
+      "intervalle_fin": 4815,
+      "analyse_action": "The scene takes place in a lively high school hallway, showcasing start-of-year energy and social dynamics. Students stream through the space in various directions, many carrying backpacks and dressed in typical school uniforms. Some gather in groups for conversation while others move individually, creating a constant flow of activity.\n\nThe hallway itself is visually characterized by a yellow floor with gray walls, and there's an important educationalnotice posted on the wall about ticket sales for an upcoming graduation event. The atmosphere feels busy and energetic, with students of different races interacting with each other, suggesting the beginning or continuation of the school year.\n\nThroughout the scene, there's a mix of activity levels - some students pause to talk with friends, while others navigate through the crowds swiftly. A particularly notable moment occurs when one student in a blue-and-black striped hoodie over a red shirt stops and looks toward the camera. The overall mood is one of bustling school life, capturing the social interactions and movement that define a typical academic environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 197,
+        "total_tokens": 2951
+      }
+    },
+    {
+      "intervalle_index": 321,
+      "intervalle_debut": 4815,
+      "intervalle_fin": 4830,
+      "analyse_action": "In the scene, a crowd is milling about outdoors near white pillars and a gray wall with greenery visible in the background. Many of the people are absorbed in their activities - some are moving around in conversation, while others are absorbed in their phones. A young man wearing a white shirt with a black strap over one shoulder repeatedly glances off to the side with a somewhat open, contemplative expression as he walks through the scene, appearing distracted or lost in thought. The atmosphere is casual and busy, with daylight filtering across the gathering, and people appear engaged in their own routines - walking, stopping, looking at their devices before resuming their natural movements around the white pillar and wall area.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 139,
+        "total_tokens": 2893
+      }
+    },
+    {
+      "intervalle_index": 322,
+      "intervalle_debut": 4830,
+      "intervalle_fin": 4845,
+      "analyse_action": "The scene takes place on a busy college campus with students engaged in various activities throughout. On the grassy lawn near the brick building, there's a diverse group of young adults interacting. Two women with long dark hair are seated and talking – one in a green and white striped shirt holding a paper cup with a black lid, and the other in a brown patterned top talking to a blonde woman wearing a red floral dress with a purple jacket. Around them, other students sit on benches or walk by carrying drinks and bags, and some have their hair styled in buns or braids.\n\nScenes of individual students in different locations are shown as well. A man in blue jeans and a blue-and-white striped shirt sits on concrete steps outdoors. Another student in a blue-and-orange striped shirt stands and looks down. The scene concludes with a blonde-haired woman wearing a purple hoodie looking towards the camera. Trees, buildings, and the park-like setting provide the backdrop for this active college day.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 199,
+        "total_tokens": 2953
+      }
+    },
+    {
+      "intervalle_index": 323,
+      "intervalle_debut": 4845,
+      "intervalle_fin": 4860,
+      "analyse_action": "The scene takes place in a casual outdoor setting with two people at the forefront. On the left sits a man wearing jeans and a blue-and-white striped button-down shirt with the top buttons undone and sleeves rolled up. He's seated on concrete steps by a brick wall, holding a cigarette that he wears on his right hand's middle finger wearing a gold ring. The man appears entranced by something he's observing or watching.\n\nTo his right is a woman who draws visible attention and seems to be the focus of much of the activity. Her posture is tense - she stands with all her weight on one leg and holds her arms across her chest as if bracing herself or shielding something from view. Her head remains turned, and the small pink earring is visible in her left ear.\n\nBehind them, there's constant movement. A woman in a green-and-white striped shirt and another person in a pink shirt are visible in the background, with the latter moving around more urgently. An older woman with a gray suit jacket and long dark hair passes hastily, nearly colliding with the seated man's head as she goes by.\n\nThe cigarette-wielding man leans slightly more forward at times, seeming even more focused on whatever has captured his attention Laughter in the distance briefly interrupts the heavy, watchful atmosphere, adding an unsettling contrast to the tense scene.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 270,
+        "total_tokens": 3024
+      }
+    },
+    {
+      "intervalle_index": 324,
+      "intervalle_debut": 4860,
+      "intervalle_fin": 4875,
+      "analyse_action": "The scene is split between two locations. In a finished bedroom with a white bed and white walls, a girl is sitting cross-legged on a white bedspread, wearing blue jeans and a colorful blouse with red trim while opening a large book. She glances down at it briefly before placing it aside.\n\nMeanwhile, outdoors in a grassy area with a walkway, a small group is gathered around a conversation. A girl with blonde braids wears a purple sleeveless top, while another girl with dark hair has her mouth open slightly mid-sentence. Two blonde girls talk in hushed tones while another group waits their turn to talk. The setting is casual and subdued, with some activity occurring in the blurred background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 144,
+        "total_tokens": 2898
+      }
+    },
+    {
+      "intervalle_index": 325,
+      "intervalle_debut": 4875,
+      "intervalle_fin": 4890,
+      "analyse_action": "In the scene, two people are going through their nightly routines while using their phones. \n\nThe woman is sitting on her bed in a bedroom, tapping on her cell phone and reading something while the screen lights up. She appears to be engaged in some kind of call or text exchange.\n\nMeanwhile, the man is sitting on a couch in a living room, focused on studying. He has a pencil in hand, writing notes in a notebook with papers spread out in front of him. Beside him, there's a red candle and an open book on the coffee table.\n\nBoth individuals are using their phones as they go about their activities—one checking her device while seated on her bed, and the other using his phone while studying on the couch. It appears to be nighttime or evening, with both scenes taking place in well-lit indoor settings as part of what seems to be their evening routine.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 179,
+        "total_tokens": 2933
+      }
+    },
+    {
+      "intervalle_index": 326,
+      "intervalle_debut": 4890,
+      "intervalle_fin": 4905,
+      "analyse_action": "A man is sitting on a white couch in a cozy living room, engaged in quiet writing. He sits slightly off-center, wearing a yellow and blue plaid shirt over a white t-shirt. He holds a yellow pencil in his right hand while his left hand steadies a white sheet of paper that he's marking, appearing thoughtfully focused on his task. His warm brown eyes are downcast as he concentrates on the paper, which sits on the couch beside him.\n\nBehind him, you can see the home's interior details - a gray lamp with a matching lampshade illuminating the space, a green-and-white striped pillow adding a pop of color to the neutral setting, and a banister leading up a staircase, all contributing to the room's calm, lived-in atmosphere. There's also a staircase visible in the background, with a lamp positioned beside it.\n\nThen, the scene shifts to show a blonde girl with long wavy hair looking at a pink calendar on a white wall with vertical lines. She wears a red and blue tank top, and her face isn't shown as she examines the calendar dates spread across its grid before walking out of the room.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 234,
+        "total_tokens": 2988
+      }
+    },
+    {
+      "intervalle_index": 327,
+      "intervalle_debut": 4905,
+      "intervalle_fin": 4920,
+      "analyse_action": "In the scene, two young women are in a bedroom engaged in a tense conversation about a dress. One woman, appearing upset and defensive, is standing in front of an open closet holding a pile of clothes. She's wearing a bright blue shirt that appears wet, with floral details visible, and she's showing a subdued, frustrated emotion while speaking.\n\nThe second woman, standing in another doorway, has long brown hair styled in a neat way. She's dressed casually in a gray sweater over a blue shirt, dark jeans, and dark boots. Her body language is very telling—she has her hands folded across her chest and is maintaining a skeptical, dissing posture as she watches and listens to the other woman.\n\nBehind the woman with the floral blue shirt is the open closet, which shows several clothes hanging on the shelves, with a few neatly folded on lower shelves. To the right of the scene, there's a white dresser and a bed covered with a pink blanket, creating a typical bedroom setting.\n\nThe atmosphere is distinctly confrontational and emotional, with the two women clearly disagreeing about the dress under discussion. The body language tells the story more than words—they're having a heated argument where one is accusing or complaining, while the other appears skeptical and possibly rebuking. The scene captures an emotionally charged moment of conflict taking place in a personal, intimate space where they should both feel safe and comfortable.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 283,
+        "total_tokens": 3037
+      }
+    },
+    {
+      "intervalle_index": 328,
+      "intervalle_debut": 4920,
+      "intervalle_fin": 4935,
+      "analyse_action": "Two young women are visiting with another girl who is at the fish tank.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 16,
+        "total_tokens": 2770
+      }
+    },
+    {
+      "intervalle_index": 329,
+      "intervalle_debut": 4935,
+      "intervalle_fin": 4950,
+      "analyse_action": "The video shows a scene in a bedroom capture. There are two fish swimming towards the left while the camera is zoomed in. A girl appears and is talking, then breaking into a smile.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 40,
+        "total_tokens": 2794
+      }
+    },
+    {
+      "intervalle_index": 330,
+      "intervalle_debut": 4950,
+      "intervalle_fin": 4965,
+      "analyse_action": "Two women are sitting in a casual interior space engaged in what appears to be a conversation. One woman with long blonde wavy hair is holding a kitchen knife, seemingly preparing to stab the other woman.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 41,
+        "total_tokens": 2795
+      }
+    },
+    {
+      "intervalle_index": 331,
+      "intervalle_debut": 4965,
+      "intervalle_fin": 4980,
+      "analyse_action": "Two young women are having a conversation in an indoor domestic setting that appears to be either a home or house, with a domestic and relational tone.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 30,
+        "total_tokens": 2784
+      }
+    },
+    {
+      "intervalle_index": 332,
+      "intervalle_debut": 4980,
+      "intervalle_fin": 4995,
+      "analyse_action": "In the scene, two women are having a friendly exchange in what appears to be a room setting. One has long blonde hair and is seated, facing toward her companion. She listens attentively with a subtle, closed-mouth smile and occasionally glances down briefly before refocusing on the other woman's face. Her companion is the other woman with long, straight brown hair seated across from her, who gently shakes her head while speaking and maintains a warm, attentive smile as she engages in the conversation.\n\nThe interaction appears relaxed and lighthearted, with both women maintaining positive expressions and demonstrating mutual engagement through their facial expressions and body language. There's a natural, comfortable quality to their exchange - the blonde woman nods thoughtfully while her friend smiles at her, creating an atmosphere of pleasant social interaction between the two.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 164,
+        "total_tokens": 2918
+      }
+    },
+    {
+      "intervalle_index": 333,
+      "intervalle_debut": 4995,
+      "intervalle_fin": 5010,
+      "analyse_action": "In the scene, two young girls are sharing a warm, emotional moment together. They begin by sitting close to each other, smiling at one another with genuine warmth. The girl with long brown hair in the gray sweater smiles brightly while facing her friend, who has long blonde hair and is wearing a red tank top.\n\nThe atmosphere is intimate and affectionate as they look directly into each other's eyes. The conversation builds into a more tender connection, and they share a heartfelt embrace - each resting their head on the other's shoulder while holding each other tightly. Through this embrace, both girls maintain soft, contented smiles, eyes closed in a moment of complete comfort and closeness.\n\nThe setting - with its white floor lamp, framed pictures on the wall, and wooden desk - creates an inviting, domestic backdrop that complements the sincere and caring nature of their interaction. It appears to be a meaningful, personal moment between friends where they're expressing emotional support and genuine affection for one another.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 198,
+        "total_tokens": 2952
+      }
+    },
+    {
+      "intervalle_index": 334,
+      "intervalle_debut": 5010,
+      "intervalle_fin": 5025,
+      "analyse_action": "The scene takes place in a cemetery during daytime. A man with short brown hair is standing in the cemetery wearing a light blue shirt under an unbuttoned dark plaid shirt. He is positioned behind a large rectangular gray tombstone that is bordered by dense green bushes and surrounded by headstones, with trees showing green leaves and red flowers visible throughout the background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 73,
+        "total_tokens": 2827
+      }
+    },
+    {
+      "intervalle_index": 335,
+      "intervalle_debut": 5025,
+      "intervalle_fin": 5040,
+      "analyse_action": "In the scene, a young man is standing at a gravestone in a cemetery. He's placed a bouquet of purple flowers carefully at the base of the stone and pauses in quiet contemplation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 40,
+        "total_tokens": 2794
+      }
+    },
+    {
+      "intervalle_index": 336,
+      "intervalle_debut": 5040,
+      "intervalle_fin": 5055,
+      "analyse_action": "A young man is visiting a cemetery and paying his respects at a tombstone. He stands in a reflective and somber mood, dressed in a rolled-up plaid shirt with blue jeans, holding a bouquet of purple flowers.\n\nThe scene shows him in a quiet moment of remembrance, carefully placing the purple bouquet on the base of a gray headstone, as if marking a significant occasion like Mother's Day. He stands there for a while in this contemplative pose, thinking quietly about the person memorialized at the grave.\n\nEventually, he turns away from the tombstone, his expression now more composed and reserved, and walks off. The scene captures the emotional process of grief and tribute, showing the young man moving through this ritual of remembering with measured, respectful steps.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 155,
+        "total_tokens": 2909
+      }
+    },
+    {
+      "intervalle_index": 337,
+      "intervalle_debut": 5055,
+      "intervalle_fin": 5070,
+      "analyse_action": "The man visits a cemetery. He approaches and places his hand on the headstone of his late father whose grave is marked with purple flowers. While there, he stands near another grave with his hand resting on a nearby stone marker.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 47,
+        "total_tokens": 2801
+      }
+    },
+    {
+      "intervalle_index": 338,
+      "intervalle_debut": 5070,
+      "intervalle_fin": 5085,
+      "analyse_action": "The scene takes place at an elegant outdoor wedding reception. The atmosphere is festive and formal, with people dressed in their finest attire gathered for the celebration. \n\nThe setting features:\n• A beautifully landscaped garden with green grass, trees, and bushes dotted with red flowers\n• A formal dining area inside with white tablecloths, set tables with wine glasses, silverware, and plates\n• A decorated steel list adorned with white ribbons and small white lights\n• Guests mingling and conversing throughout, with men in suits and women in long formal dresses\n\nTwo women—one in a white dress and the other in a black dress with a green belt—are shown speaking together. The bride, who has long brown hair, stands out in a striking red dress and mid-stride, surrounded by guests including a man in a black suit and another woman in a blue dress.\n\nThe event has a classic, refined ambiance with white lighting creating a warm glow throughout the garden and reception area. People are dressed elegantly and participating in the reception, creating a joyful and celebratory atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 217,
+        "total_tokens": 2971
+      }
+    },
+    {
+      "intervalle_index": 339,
+      "intervalle_debut": 5085,
+      "intervalle_fin": 5100,
+      "analyse_action": "The scene takes place at a formal wedding reception. The bride in her white dress is standing near a doorway surrounded by guests in formal attire, with women in colorful dresses and men in suits mingling around her. She's smiling and talking with people in the same area.\n\nThe venue has warm yellow walls, brown wooden accents, and a polished reception space decorated with a large decorative green plant. Tables covered in white tablecloths are visible in the background, along with various guests chatting and interacting. Some groomsmen can be seen in conversation, wearing maroon jackets as part of the wedding party.\n\nThe celebration has that lively, celebratory atmosphere of a wedding reception—with guests moving around, conversing, and enjoying the festivities. The overall setting appears well-lit and bright, giving it an elegant quality that's typical of a formal wedding celebration. The bride maintains a warm smile even when her gaze shifts, conveying her enthusiastic and joyful mood as part of the wedding proceedings.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 196,
+        "total_tokens": 2950
+      }
+    },
+    {
+      "intervalle_index": 340,
+      "intervalle_debut": 5100,
+      "intervalle_fin": 5115,
+      "analyse_action": "In the scene, a man is relaxing on a couch while watching TV. He's comfortable and at ease in a casual, domestic setting. After he's settled in his spot, another man walks down the staircase and approaches the couch, creating an interaction between the two individuals. The overall atmosphere appears to be that of someone unwinding at home, followed by a brief social encounter between companions.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 79,
+        "total_tokens": 2833
+      }
+    },
+    {
+      "intervalle_index": 341,
+      "intervalle_debut": 5115,
+      "intervalle_fin": 5130,
+      "analyse_action": "The scene takes place in what appears to be a late-night setting in a bedroom. A man lies in bed looking awake and alert, while another man wearing a black blazer, white shirt, and yellow tie stands over him by the bed rail. The standing man speaks sternly, gesturing emphatically as he delivers what seems to be an important or serious message. He eventually turns and walks away down a staircase, leaving the young man bedsheets loosely draped in the bed, who remains lying there in his plaid shirt looking toward him. The presence of the well-dressed, briskly moving man who can transform the peaceful bedroom atmosphere into something more urgent and significant suggests this may be related to an important topic like the young man's future, an important event about to happen, or some kind of critical transformation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 165,
+        "total_tokens": 2919
+      }
+    },
+    {
+      "intervalle_index": 342,
+      "intervalle_debut": 5130,
+      "intervalle_fin": 5145,
+      "analyse_action": "The scene takes place at a festive formal event, likely a wedding or gala with a ballroom atmosphere. Under dim lighting from multi-sided glow lights, guests in elegant attire are moving about socially. A woman with long wavy blonde hair converses with a brunette woman. There's lively dancing, including spontaneous individual spins, with guests waving their arms and enjoying the celebration. Silver balloons decorate the space, creating an elegant, celebratory mood with people connecting, gesturing, and having a joyful time together in this intimate setting.  There is a DJ as well who is playing the music keeping the room dancing.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 123,
+        "total_tokens": 2877
+      }
+    },
+    {
+      "intervalle_index": 343,
+      "intervalle_debut": 5145,
+      "intervalle_fin": 5160,
+      "analyse_action": "The scene takes place at a festive, elegant party or gala. Guests are dressed formally in evening gowns, suits, and tuxedos, and the atmosphere is lively as people mingle, socialize, and talk with each other throughout the room.\n\nThe space has a warm, sophisticated feel with a wooden pillar, brown walls, a white door, and what appears to be white curtains creating an inviting backdrop. There's a decorative tree branch with white lights adding a festive touch to the environment.\n\nThe focus remains on two women standing close together—one in a blue dress and the other in a white dress—who are engaging in conversation. They shift positions slightly over the course of their interaction, smiling at each other and talking. Their conversation appears meaningful, and at times they exchange glances before continuing their discussion.\n\nThe shot compositions work to capture both the exciting party atmosphere with people moving in the background and the intimate, personal moment between the two women as they converse amidst the bustling social setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 199,
+        "total_tokens": 2953
+      }
+    },
+    {
+      "intervalle_index": 344,
+      "intervalle_debut": 5160,
+      "intervalle_fin": 5175,
+      "analyse_action": "The scene shows a lively prom-style dance party taking place in a ballroom. The focus is on two women walking through the event together - one wearing a sparkling blue sequined dress and the other in a strapless white gown. They're smiling and talking as they move through the crowd, taking in the atmosphere around them.\n\nThe room is filled with people dancing in colorful evening gowns and tuxedos. There are white chairs surrounding round tables with floral centerpieces, and the space is decorated with multiple lights hanging from above that create a warm, festive glow.\n\nAt one point, the two women pass by what appears to be a large window or glass wall. Through it, you can see another young man standing outside looking in at the celebration while it's raining outside the glass.\n\nOverall, it's a classic prom night scene with a mix of dancing, conversation, and the excitement of the event unfolding around the two women as they navigate through the festivities.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 194,
+        "total_tokens": 2948
+      }
+    },
+    {
+      "intervalle_index": 345,
+      "intervalle_debut": 5175,
+      "intervalle_fin": 5190,
+      "analyse_action": "In the scene, two women are attending a formal wedding or ceremony. They stand in conversation among elegantly set tables adorned with white tablecloths, centerpieces, and gold ornaments under warm lighting. The atmosphere is lively with guests mingling and chatting.\n\nThe brunette in the sparkly blue dress mostly stays with her friend, and although they occasionally pause their conversation to watch the festivities around them, they return to discussing something with evident satisfaction and deep caring.\n\nMeanwhile, a two-faced brunette woman talks to her friend but maintains casual eye contact while avoiding meaningful engagement. Her expression remains ambiguous, showing no strong emotion as she shifts focus, leaving her friend puzzled by her behavior.\n\nSeparately, a woman in a white wedding dress stands alone by a rain-speckled window, facing directly toward the viewer and appearing to look through the glass at the indoor ceremony. Her presence creates an interesting juxtaposition between the indoor celebration and the rainy exterior world beyond the window.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 192,
+        "total_tokens": 2946
+      }
+    },
+    {
+      "intervalle_index": 346,
+      "intervalle_debut": 5190,
+      "intervalle_fin": 5205,
+      "analyse_action": "The scene takes place at a wedding venue on a rainy evening. A woman in a white strapless wedding dress with a sweetheart neckline, wearing a delicate necklace and has long wavy blonde hair, opens a glass door and descends a shallow set of steps into the outdoor area.\n\nOutside, she stands in front of a small ornamental tree decorated with twinkling lights. There's an illuminated decorative fire feature positioned within the roped-off area. Mixed seating is arranged around the space—a combination of chairs and tables set up for guests.\n\nWater streams down the glass and turns the black stone walkway into a mirror-moist path. The woman closes the door behind her, pulls out a small white handkerchief, and uses it to dab at her face with a quick, smiling laugh.\n\nA man in a black leather jacket over a white shirt then appears from the left to join her. He steps into frame with a white handkerchief in his left hand as well, his expression softening into a smile. The two stand facing each other lightly in the gentle rainfall.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 217,
+        "total_tokens": 2971
+      }
+    },
+    {
+      "intervalle_index": 347,
+      "intervalle_debut": 5205,
+      "intervalle_fin": 5220,
+      "analyse_action": "In the scene, a man and woman are sharing an intimate moment in the rain at night. The woman, dressed in a white dress, kisses the man on his cheek, both smiling through the downpour.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 43,
+        "total_tokens": 2797
+      }
+    },
+    {
+      "intervalle_index": 348,
+      "intervalle_debut": 5220,
+      "intervalle_fin": 5235,
+      "analyse_action": "In the scene, two people are sharing an intimate moment in heavy rainfall. The woman is already wearing a white strapless dress that's soaked, while the man is bare-handed and dressed in a black leather jacket with a white collared shirt.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 50,
+        "total_tokens": 2804
+      }
+    },
+    {
+      "intervalle_index": 349,
+      "intervalle_debut": 5235,
+      "intervalle_fin": 5250,
+      "analyse_action": "In the scene, a young man and woman are sharing a romantic moment in the rain. Despite being completely drenched, they're not concerned about staying dry—they're soaked and grinning. As he continues speaking, her smile grows warmer and more genuine, and she reaches up to touch his face, wrapping her hand around his jaw and cheek. He leans in and kisses her, showing their emotional connection through physical touch. The rain continues to fall around them while they remain completely saturated, turning what would typically be a troubling situation into a passionate and intimate embrace.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 113,
+        "total_tokens": 2867
+      }
+    },
+    {
+      "intervalle_index": 350,
+      "intervalle_debut": 5250,
+      "intervalle_fin": 5265,
+      "analyse_action": "A young couple shares an intimate moment outdoors in the rain at night. She is very wet and is kissing the young man while holding his jaw with her hands. They part and he hugs her close.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 41,
+        "total_tokens": 2795
+      }
+    },
+    {
+      "intervalle_index": 351,
+      "intervalle_debut": 5265,
+      "intervalle_fin": 5280,
+      "analyse_action": "The scene depicts a romantic moment between a man and woman during a heavy rainstorm.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 18,
+        "total_tokens": 2772
+      }
+    },
+    {
+      "intervalle_index": 352,
+      "intervalle_debut": 5280,
+      "intervalle_fin": 5295,
+      "analyse_action": "A man in a black suit and a woman in a white dress stand together on a wet sidewalk in the rain, embracing tightly against each other. Rain falls heavily around them, hitting the wet pavement and creating puddles that splash as they move. They remain locked in their close embrace, facing each other, showing each other affection through their tight hold.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 71,
+        "total_tokens": 2825
+      }
+    },
+    {
+      "intervalle_index": 353,
+      "intervalle_debut": 5295,
+      "intervalle_fin": 5310,
+      "analyse_action": "In the scene, a young man and woman are embracing beneath rain in a dimly lit space. The man, who has short brown hair and is wearing a black suit, holds the woman close around her waist. She has long, dark hair and is wearing a white dress with dark trim.\n\nThey're caught in a strong downpour, with large raindrops striking the dark ground around them and pooling into visible puddles. The pair appear cocooned together in the rainfall, with much of the background fading into darkness containing what appears to be a table, and faint outlines of building elements are visible. The moisture and rain continue to fall steadily as they remain in their intimate embrace, creating an atmospheric, nighttime vignette that conveys a sense of protection and connection in the face of the storm.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 161,
+        "total_tokens": 2915
+      }
+    },
+    {
+      "intervalle_index": 354,
+      "intervalle_debut": 5310,
+      "intervalle_fin": 5325,
+      "analyse_action": "A simple black screen with white text shows credits, acknowledging cast members, production staff, and crew, identifying roles from pilots and officials to makeup department heads and assistant directors who contributed to the production.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 40,
+        "total_tokens": 2794
+      }
+    },
+    {
+      "intervalle_index": 355,
+      "intervalle_debut": 5325,
+      "intervalle_fin": 5340,
+      "analyse_action": "The scene shows the closing credits rolling on a black background with white text, presenting information about the production crew and technical staff involved in making the film. \n\nThe credits systematically list department head positions such as Costume Designer, Costume Supervisor, On-Set Customizers, and Makeup Department heads, followed by creative team members including art director, lead artists, painters, special effects supervisors, foam makers, and animal trainers. Technical departments are credited next, noting camera operators, art assistants, camera operators, stunt coordinators, and various support staff like sound mixer, key grip, script supervisor, production coordinator, and prime casting.\n\nThe final portion shifts to post-production finance and runtime information, with details about company provides, set recording engineers, and additional crew members involved in music and location filming.\n\nThis is a standard film credits roll displaying every team member who contributed to the production of the movie.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 178,
+        "total_tokens": 2932
+      }
+    },
+    {
+      "intervalle_index": 356,
+      "intervalle_debut": 5340,
+      "intervalle_fin": 5355,
+      "analyse_action": "The scene shows a sequence of end credits presented over a solid black background. At the beginning, centered white text appears listing production credits, including equipment and support acknowledgments. Following this, there's a clear legal disclaimer in white text explaining that the characters and events in the film are fictional and attaching liability warnings.\n\nAfter the initial credits, the production company logos appear as follows: First is the **Peace Out Productions** logo, featuring a silver, slightly shiny circular peace symbol with a black interior, surrounded by the phrase \"Peace Out\" at the top and \"Productions\" at the bottom in navy blue text that transitions to white with a gray outline. Next is the **Storyline Entertainment** logo, which shows a black silhouette holding a megaphone inside a white circle, positioned above the \"St\" in \"Storyline,\" which is designed with decorative \"L\" and \"E\" forms, all set within red horizontal lines against a white background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 193,
+        "total_tokens": 2947
+      }
+    },
+    {
+      "intervalle_index": 357,
+      "intervalle_debut": 5355,
+      "intervalle_fin": 5355.433417,
+      "analyse_action": "The scene shows a stylized logo animation. There's a black and white illustration of a muscular man standing inside a gray circle, holding a megaphone to his mouth. Around him is a red circular design. At the bottom, there's text with \"Storyline\" in bold red letters above \"Entertainment\" in smaller black letters. The entire design is set against a white background.",
+      "tokens": {
+        "prompt_tokens": 191,
+        "completion_tokens": 80,
+        "total_tokens": 271
+      }
     }
   ]
 }

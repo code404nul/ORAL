@@ -5,13 +5,13 @@
   "intervalle_secondes": 15,
   "nombre_intervalles": 202,
   "dossier_videos": "analyse\\videos\\Miraculous.World.Tokyo.Stellar.Force.2025.WEB-DL.1080p.x264.AAC...",
-  "date_traitement": "2026-02-18T23:36:52.406920",
+  "date_traitement": "2026-02-25T11:02:01.540231",
   "stats_extraction": {
     "total": 202,
     "reussis": 0,
-    "echecs": 150,
+    "echecs": 202,
     "timeouts": 0,
-    "gpu_errors": 151,
+    "gpu_errors": 202,
     "cpu_fallbacks": 0
   },
   "intervalles": [
@@ -5890,7 +5890,7 @@
           "text": "Kazuno!"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 151,
@@ -5914,7 +5914,7 @@
           "text": "<i>Leo's been captured!</i>"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 152,
@@ -5962,7 +5962,7 @@
           "text": "<i>but you've really got to talk to each other.</i>"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 153,
@@ -5998,7 +5998,7 @@
           "text": "She's one of them."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 154,
@@ -6034,7 +6034,7 @@
           "text": "Storm Subsides."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 155,
@@ -6064,7 +6064,7 @@
           "text": "Unless they're just victims!"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 156,
@@ -6094,7 +6094,7 @@
           "text": "Miraculous Ladybug!"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 157,
@@ -6136,7 +6136,7 @@
           "text": "and I want my Stellar Matrix."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 158,
@@ -6166,7 +6166,7 @@
           "text": "I owe you one, Ladybug."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 159,
@@ -6196,7 +6196,7 @@
           "text": "{\\an8}<i>with anyone before, but I feel like I've been lucky enough</i>"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 160,
@@ -6226,7 +6226,7 @@
           "text": "Is everything okay, Kagami?"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 161,
@@ -6268,7 +6268,7 @@
           "text": "<i>but for me the music stops today.</i>"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 162,
@@ -6316,7 +6316,7 @@
           "text": "Oh..."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 163,
@@ -6376,7 +6376,7 @@
           "text": "<i>You dream of dancing with Miki, not me.</i>"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 164,
@@ -6412,7 +6412,7 @@
           "text": "What? But..."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 165,
@@ -6454,7 +6454,7 @@
           "text": "I'm the one who made you suffer."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 166,
@@ -6496,7 +6496,7 @@
           "text": "I hope you can forgive me"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 167,
@@ -6514,7 +6514,7 @@
           "text": "and dance again."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 168,
@@ -6544,7 +6544,7 @@
           "text": "Lucky Charm! Miraculous Ladybug!"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 169,
@@ -6580,7 +6580,7 @@
           "text": "The proper summoning requires all of us to do the choreography together,"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 170,
@@ -6628,7 +6628,7 @@
           "text": "let's rise to our opponents' level so we can defeat them!"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 171,
@@ -6652,7 +6652,7 @@
           "text": "Celestial Spirit Complete!"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 172,
@@ -6676,7 +6676,7 @@
           "text": "Hey, Ladybug, don't tell me you can't make your own robot."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 173,
@@ -6712,7 +6712,7 @@
           "text": "Lightning Dragon!"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 174,
@@ -6742,7 +6742,7 @@
           "text": "Now let's see which one's the best!"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 175,
@@ -6760,7 +6760,7 @@
           "text": "Capricorn, tell us where the <i>kaiju's</i> spots are."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 176,
@@ -6790,7 +6790,7 @@
           "text": "Transmitting targets."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 177,
@@ -6814,7 +6814,7 @@
           "text": "Last dance!"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 178,
@@ -6825,7 +6825,7 @@
       "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": [],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 179,
@@ -6843,7 +6843,7 @@
           "text": "Sagittarius, which would you say was the best robot?"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 180,
@@ -6891,7 +6891,7 @@
           "text": "and I'm sure that we can do it too."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 181,
@@ -6927,7 +6927,7 @@
           "text": "That name is lame too, isn't it?"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 182,
@@ -6957,7 +6957,7 @@
           "text": "Miraculous Stellar Force!"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 183,
@@ -6999,7 +6999,7 @@
           "text": "<i>but it was a mere battle, Moddler.</i>"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 184,
@@ -7035,7 +7035,7 @@
           "text": "Oh, wow!"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 185,
@@ -7059,7 +7059,7 @@
           "text": "and that he's after our Stellar Matrixes."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 186,
@@ -7107,7 +7107,7 @@
           "text": "Did you know that Kagami's a superhero?"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 187,
@@ -7161,7 +7161,7 @@
           "text": "since you all know who you are and..."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 188,
@@ -7197,7 +7197,7 @@
           "text": "It seems like she doesn't like anybody."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 189,
@@ -7245,7 +7245,7 @@
           "text": "to tell Miki that you love her one day."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 190,
@@ -7281,7 +7281,7 @@
           "text": "Come on!"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 191,
@@ -7299,7 +7299,7 @@
           "text": "Whoa!"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 192,
@@ -7347,7 +7347,7 @@
           "text": "but in the meantime, Japanese fashion"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 193,
@@ -7401,7 +7401,7 @@
           "text": "I didn't tell him that I love him."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 194,
@@ -7443,7 +7443,7 @@
           "text": "and that I can't wait to see you again."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 195,
@@ -7479,7 +7479,7 @@
           "text": "I miss you too, I too can't live so far away from you."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 196,
@@ -7509,7 +7509,7 @@
           "text": "Huh?"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 197,
@@ -7545,7 +7545,7 @@
           "text": "Yes, I'll reply later."
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 198,
@@ -7575,7 +7575,7 @@
           "text": "Plagg, Claws Out!"
         }
       ],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 199,
@@ -7586,7 +7586,7 @@
       "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": [],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 200,
@@ -7597,7 +7597,7 @@
       "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": [],
-      "failed_attempts": 0
+      "failed_attempts": 1
     },
     {
       "intervalle_index": 201,
@@ -7608,7 +7608,7 @@
       "video_path": null,
       "nombre_sous_titres": 0,
       "sous_titres": [],
-      "failed_attempts": 0
+      "failed_attempts": 1
     }
   ]
 }

@@ -1,0 +1,1018 @@
+{
+  "movie_id": "Calamity Jane (1953) 1080p BRRip x264 -YTS",
+  "date_analyse": "2026-02-19T00:12:11.003875",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "analyse_action": "The scene is a classic film studio opening sequence built around 3D animated title cards.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 19,
+        "total_tokens": 2773
+      }
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "analyse_action": "The scene is a vintage-style opening sequence that introduces a Warner Bros. film through a rolling hill landscape. The name \"Howard Keel\" appears in bold, three-dimensional Western-style lettering in vivid red with yellow outline, creating a dramatic title card effect with a shadow that gives depth against the natural background. The camera subtly changes its perspective, shifting either left or right to show different angles of the same countryside setting—rolling hills, a solitary leafless tree, and bare trees dotting the white sky—while the text overlays the landscape. The overall presentation has that classic 1950s movie introduction feel, with the warm golden-tan hillside creating a picturesque, nostalgic atmosphere as the title is revealed. The camera is indeed moving down toward the landscape from an aerial overhead view, adding dynamic movement to the otherwise serene pastoral scene while maintaining the Western, archival aesthetic of the title card sequence.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 183,
+        "total_tokens": 2937
+      }
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "analyse_action": "The scene is a static, wide establishing shot of a grassy hillside beneath a light blue, clouded sky. The landscape features yellowing green grass, a small leafless tree, and a small cluster of trees in the distance, creating a muted, vintage atmosphere. Bold, colorful credits appear as they fade in and out against this background, scrolling upward through the image starting with \"written by\" and progressing through compositions that include names like James O'Hanlon, Technicolor, Wilford M. Cline, and Mitchell G. Kovaleski. The typography shifts in color from warm gold to brilliant red, with varied borders and drop shadows that emphasize the nostalgic tone before gradually receding until only the landscape remains visible at the end.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 151,
+        "total_tokens": 2905
+      }
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "analyse_action": "The scene shows a wide, tranquil landscape featuring an expansive field with mixed green and brown grass, rolling hills, and a lone tree in the distance. The setting has an overcast, muted atmosphere with gray light bathing the entire view. This peaceful countryside backdrop serves as the background for the end credits, while yellow lettering appears over the scene listing various production credits including roles like Art Director, Film Editor, Sound by, Dialogue Director, Set Decorator, Wardrobe by, Makeup Artist, Assistant Director, and others.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 105,
+        "total_tokens": 2859
+      }
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "analyse_action": "The scene is showing the rolling credits of a film over a tranquil rural landscape. A grassy field stretches across the foreground under an overcast gray sky, with distant hills, trees, and a few scattered trees and bushes visible on the horizon.\n\nThe credits themselves are displayed against this peaceful countryside backdrop, appearing in the center of the frame with various text elements in yellow and red that have a soft 3D effect with black shadows. They announce credits for original songs, musical direction, music by Sammy Fane, lyrics by Paul Francis Webster, and feature William Jacobs and David Butler among other contributors. The calm, still landscape remains unchanged throughout, creating a serene visual setting for this closing acknowledgement of the creative team behind the production.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 147,
+        "total_tokens": 2901
+      }
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "analyse_action": "The video opens with an overcast, rural landscape featuring a vast yellowish-brown field with rolling hills and a single tree under a gray sky, establishing a wide, open setting in the distance. A group of black horses then gallops through the field pulling a two-wheeled covered carriage. It features wooden frames and a cloth top for shelter, with a driver seated at the front steering the reins. The carriage is traveling from left to right across the scene. In the final moments, two cowboys on horseback take a prominent position in the foreground, watching as the carriage moves with a third horse following behind.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 126,
+        "total_tokens": 2880
+      }
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "analyse_action": "The scene shows a Western stagecoach traveling through an arid, desert landscape under a clear blue sky.\n\nThe stagecoach, covered with tan canvas, carries two passengers navigating the sandy roads. A woman in dark traveler attire is operating the reins from the front seat, directing the vehicle through the desert terrain. She's gripping the reins firmly with leather-gloved hands and has a rifle resting across her lap on her left side.\n\nAccompanying her is a man seated in the back, dressed in rugged cowboy wear including a brown leather vest, brown leather gloves, and a brown cowboy hat. He has a mustache that stands out clearly. Seated next to him is a woman wearing a black Civil War-style hat with a silver star, a red bandana, and a leather vest, holding a shotgun across her lap.\n\nThroughout their journey across the sandy expanse, the two riders engage in animated conversation. At one point, the woman with the shotgun developmentally acknowledges something said by the others as she turns toward them, shaking her head and raising her arms in excitement, leaning dramatically toward the company that caused her reaction, and letting out an energetic exclamation before sitting back down. The man maintains a steady rhythm with the reins while the group continues their travel through this desolate, sunlit Western landscape that stretches out in front of them with its sandy brown hills and scrubby vegetation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 281,
+        "total_tokens": 3035
+      }
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "analyse_action": "In the scene, a cowboy and a young woman are sitting in a covered wagon moving across a barren desert landscape. The cowboy sits on the wagon frame or seat in traditional Western attire—brown vest over green jacket with a brown collar and an undershirt with pink sleeves, gray pants, brown gloves, and a light brown hat.\n\nThe young woman actively engages with the blonde driver. She first sits by his side, then begins interacting with him and later moves to stand on the brown tarp or cloth covering over the wagon bed. Throughout this sequence, she gestures toward the distance at one point, and the driver keeps his gaze fixed ahead as they continue traveling along the desert road.\n\nThe setting remains constant—a sandy, light brown terrain under a clear blue sky—while the scene maintains a classic Western film aesthetic with everything rendered in earthy tones of brown, tan, green, red, blue, and black. The two characters share this journey together in the wagon across the desert landscape.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 199,
+        "total_tokens": 2953
+      }
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "analyse_action": "In the scene, Clint Eastwood wearing brown hat and cowboy clothes climbs to the top of a brown covered wagon. He climbs down onto the bench seat inside the wagon. At this moment someone opens the window near Clint with a shotgun and fires at him. He manages to shoot back at the person with the shotgun before he jumps to the far side of the wagon. As he walks around he continues to look for threats.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 85,
+        "total_tokens": 2839
+      }
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "analyse_action": "In the scene, a woman dressed as a Confederate woman is leaning over a moving covered wagon, smiling and shouting at someone out of frame with an expression of cheeky, flirtatious defiance. Her movements are animated and playful rather than threatening.\n\nBehind her, the covered wagon is traveling across rolling brown hills beneath a clear blue sky. Three men in suits, ties, and bowler-style hats can be seen inside the wagon, peering out from the windows with expectant or eager expressions. They are watching her intently as the wagon passes.\n\nThe scene captures a moment of mischievous interaction during the journey—she's clearly engaged in some playful, flirtatious exchange with someone off-screen, while the elegantly dressed men watch from their covered wagon.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 154,
+        "total_tokens": 2908
+      }
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "analyse_action": "This is a lighthearted scene from a western movie featuring Gloria Swanson as a sheriff.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 22,
+        "total_tokens": 2776
+      }
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "analyse_action": "In the scene, Joan Crawford is riding bareback atop a covered wagon rolling down a dirt road through a barren, desert-like landscape.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 28,
+        "total_tokens": 2782
+      }
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "analyse_action": "The scene shows a lively Western town street filled with everyday activity. Horse-drawn wagons and carriages are moving through the dirt road, including a covered wagon with a yellow canopy traveling along the path. \n\nAll the people are dressed in period clothing with cowboy hats and leather vests, fitting the Old West atmosphere. The storefronts and two-story buildings lining both sides of the street display signs reading \"GEN.FLORIDA\" and \"Golden Carter,\" giving it that authentic pioneer feel. \n\nAt the edges of the street, numerous people are seen raising their hands in greeting or waving to each other, contributing to the community feel of the scene. This appears to be a bustling day in a frontier town, capturing the kind of daily life and town atmosphere you'd expect during the Old West era.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 161,
+        "total_tokens": 2915
+      }
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "analyse_action": "This looks like a \"Wild West\" themed set piece, not an authentic historical scene.\n\nThe staged Wild West setting depicts a group of actors in period costumes gathered around a gold-detailed wagon. The wagon is being pulled by two mules and sits on a dirt road in front of a building marked as the \"Golden Carter Hotel.\" There's an air of anticipation or celebration as these costumed participants surround the wagon, with multiple people nearby holding up pistols with visible smoke puffs from recent firing.\n\nThe building has upbeat decorations including red, white, and blue bunting, American flags, and a banner. One man stands prominently with a badge and hat, suggesting he may be the \"star\" or focus of this presentation. Audience members are visible watching from an upper balcony - one man with gray hair is saluting enthusiastically while making eye contact with the performers below. People are frequently turning to look up and acknowledging the balcony spectators.\n\nThe entire scenario appears to be a performance or reenactment with deliberate theatrical staging rather than a genuine historical event. The structure, crowd arrangement, and costumed nature all indicate this is a staged entertainment piece designed to capture the Wild West atmosphere, with both in-character participants and actors portraying onlookers in what's clearly a carefully constructed set.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 258,
+        "total_tokens": 3012
+      }
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "analyse_action": "The scene shows a festive celebration at what appears to be Golden Miller's establishment. A group of cowboys in Western attire are gathered outdoors, some standing on a balcony above the entrance decorated with red, white, and blue bunting.\n\nThe atmosphere is lively and festive. A woman in a dark hat and blouse dances energetically, and the surrounding townspeople are moving around the street with enjoyment. There's a man wearing a blue hat who drops a bottle, while another person is seated on a covered flatbed carriage below near the Golden Miller sign.\n\nThe setting has a distinctly Western character with brown buildings, blue sky, and a vibrant street scene typical of an old Western town celebration. The overall mood is one of merriment and community celebration in this Western town setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 157,
+        "total_tokens": 2911
+      }
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "analyse_action": "In the scene, a performer dressed as a cowboy from the 1950s-60s is on stage executing lively stage choreography. The performer moves through a dynamic routine that includes sweeping gestures, turning, and dramatic movements while dressed in brown leather clothing with various accessories including a black hat, red bandana, and a holster. The setting is an Old West-themed theatrical venue called The Golden Theater Company, with patriotic decorations and audience members watching from the balcony above. The performer appears to be engaging in an energetic, acrobatic routine that likely accompanies the theater's patriotic show, with the performance space decorated with colorful red, white, and blue bunting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 137,
+        "total_tokens": 2891
+      }
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "analyse_action": "The scene shows a lively celebration in what appears to be a Western-themed venue, possibly in another country. A young man dressed in a brown outfit with red scarf and black hat waves energetically to people gathered under colorful banners. The woman is dancing next to the man. A large cardboard box with flowers on top is being tossed around. Onlookers in period attire watch both from the crowd below and from a balcony decorated in red, white, and blue bunting. A balcony sign reads partially \"PARTY THEATER & HOTEL,\" and a \"STAGE DEPOT\" sign is visible below. The atmosphere is festive and chaotic, with multiple people in cowboy hats and women in plaid kerchiefs participating in the celebration.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 150,
+        "total_tokens": 2904
+      }
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "analyse_action": "The scene takes place in a lively western-style bar where a dramatic crowd is gathered around the counter watching an arrest unfold.\n\nA blonde woman in a green outfit and black hat emerges from a hotel doorway with her hands up, treated as a prisoner or suspect. She's immediately surrounded by a diverse crowd including cowboys, a mustached man in a blue suit with a white shirt, men in suits and vests, and a bartender. The weapons are holstered, suggesting the immediate threat has passed, though they remain nearby, keeping watch.\n\nAs the situation settles, the woman is bundled face-down by bar attendants and carried onto the bar surface, where she's laid with her knees propped up and arms by her sides. The tense atmosphere persists as the bartender serves drinks while the interpreter continues addressing the group in what appears to be Czech, possibly related to the language of the man involved in the situation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 182,
+        "total_tokens": 2936
+      }
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "analyse_action": "The scene takes place in an upscale frontier bar with white walls, gold trim, a brown shelf lined with liquor bottles, and decorative sculptures including a black lion statue.\n\nAt the center is a tall, blond woman in military-style attire—a brown leather uniform with a utility belt, red bandana, and black hat—who comes sliding across the bar with one leg stretched out behind her. She pauses to strike a playful, showy pose, lifting her right hand and spreading her legs to address the room with a broad, animated expression.\n\nReactions are mixed—while some onlookers like the gentleman in the blue suit clap and some men in cowboy hats smile and momentarily look more approving, others don't seem to care much about her presence.\n\nThe woman briefly turns away to attend to something off to the side, then pivots back and leaves in a dramatic flourish. As she starts to walk away in her full military garb, a man speaks to her from the bar.\n\nThe camera catches snippets of other patrons, a staircase, and a red curtain in the background, with the atmosphere suggesting some theatrical entertainment mixed with the usual West Coast goings-on. The moment plays out like a lively, attention-grabbing performance or entrance amid the bar's regular bustle.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 255,
+        "total_tokens": 3009
+      }
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "analyse_action": "In this scene from新西遊記 a saloon room, a confrontation erupts centered on a cowboy standing on a poker table while men in cowboy hats and varied attire crowd around in a tense standoff. The setting inside the white-walled, red-curtained saloon hums with energy as the room fills with chatter and laughter, though excitement builds rapidly around the central figure.\n\nThe surrounding bystanders form tight clusters, their attention fixed on the unfolding confrontation. The social dynamics shift as the room transforms from its usual liveliness into charged anticipation, with men transitioning from conversing in small groups to actively positioning themselves with hands on hips, leaning in, or moving closer to the commotion. The overall mood intensity suggests this moment is turning into something particularly dramatic.\n\nThe saloon bustles with activity around the participants- the exchange has clearly drawn an audience eager to see what happens next. Without knowing the specific outcome, the scene captures a classic high-stakes moment of friction, with everyone gathered in suspense waiting to see how the situation will resolve.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 210,
+        "total_tokens": 2964
+      }
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "analyse_action": "The scene takes place in a lively, upscale cowboy saloon filled with people dressed in Western attire. Men gather around what appears to be a poker game at a felt-covered table, while others sit at additional tables throughout the elegant space.\n\nThe main action focuses on two men: one with long blonde hair wearing a brown fringed outfit with a red bandana and black hat perches on a table with his hands on his hips, appearing to be in control or making a declaration. Another man in a gray shirt is seated at the table, looking up at him with a surprised expression, while the rest of the saloon regulars watch the exchange, some with amused expressions.\n\nThe atmosphere is that of a typical Western frontier setting— cultivated and well-appointed yet vibrant with ongoing activity. This is from the 1966 film \"Buffalo Bill and the Indians, or How the deficiencies of the Indian Force Gave Birth to the cowboys.\"",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 191,
+        "total_tokens": 2945
+      }
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "analyse_action": "The scene takes place in a Western saloon during what appears to be an intense moment between two characters. The man in the white shirt and black cowboy hat is having a heated conversation or confrontation with a blonde woman wearing a black hat and red scarf. They're standing close together in the foreground, with the man keeping a firm proximity and resting a hand on his holster while she looks back at him with tension.\n\nThe exchange seems argumentative or confrontational in nature, as the man maintains his stance while the woman reacts. As the woman attempts to walk away, the man grabs her from behind and forces her to sit down forcefully. This act of restraint creates a charged atmosphere in the room.\n\nThe saloon patrons watch this interaction with visible interest, leaning in from various tables and pointing. Some cards are visible on a nearby table, and the overall mood is tense, with everyone focused on the escalating situation between the man and woman in the center of the bustling bar.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 194,
+        "total_tokens": 2948
+      }
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "analyse_action": "In the scene, Gene Kelly explodes onto a Western-style saloon in full ballroom-dancer mode, opening with thrilling floorwork that sweeps other men from the tables. Dressed in showy travel attire—a dark, fringed jacket cinched with a red bandana and hat—he becomes the center of an uproarious spectacle. His exuberant performance draws attention from patrons, causing the room to go quiet as he falls back and swings his arms in theatrical gestures, waving a red handkerchief.\n\nWhile he's commanding center stage, a man dressed in brown Western clothing with blonde hair slips up behind him and, with a swift movement, knocks Gene Kelly off to the side, sending him askew. The room erupts into chaos—patrons jump from their tables, raise their fists, and crowd forward in surprise, excitement, and anger. Lawlessness takes over as fists fly and revelers abruptly abandon their games and drinks to shout and bicker amid the sudden disorder.\n\nThe clash reveals the lawlessness beneath the saloon's surface, exposing the rough-and-tumble reality beneath the dancing and cowboy show bravado. The facade of entertainment gives way to a genuine brawl, transforming what was moments before a twisting, high-energy performance into a full-blown fight scene that completely upends the atmosphere of the hall.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 266,
+        "total_tokens": 3020
+      }
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "analyse_action": "The scene unfolds in a Western-style saloon bar with a lively atmosphere full of cowboys in period attire. \n\nThe activity centers on a barman who is leaning over a white bar counter decorated with gold trim, working behind the bar where cocktails are being prepared and a pocket watch hangs on the wall nearby. Around the bar area, several cowboys are gathered - some in brown suits with white shirts, others in blue shirts with red bandanas, and several wearing cowboy hats.\n\nA vibrant altercation breaks out as a woman in dark green clothing steps into view from the left, confronting two men at the bar over a dispute. She draws a gun and shoots one man in the stomach and the other in the lower back, with the two victims reacting with pain.\n\nAfterward, she stands with her hands at her hips, gazing at the bartender and cowboys present, effectively asserting herself in the saloon environment before the scene concludes.\n\nThe bar remains animated with patrons including a man in a black suit jacket talking with a shorter companion in a brown jacket, while a blonde-haired man in a brown suit and hat looks up from the bar area as the commotion settles but attention stays focused on her.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 242,
+        "total_tokens": 2996
+      }
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "analyse_action": "The scene takes place in a Western-style bar where tension quickly escalates into a chaotic confrontation before calming down into a more subdued gathering. \n\nAt the outset, several men in cowboy attire—most wearing black hats—cluster at the bar and around the countertop, with barware scattered across the table and bottles and glasses visible throughout. The atmosphere is charged, and as a man in dark clothing lands on the floor and groans after apparently being knocked down, others from across the room step in, bringing the total number of people gathered to nearly two dozen, with about ten or more still collecting nearby.\n\nThe room itself features pink curtains, a white wall with a gold trim, decorative windows, and a balcony above, all adding to the saloon ambiance. During the commotion, these seated and standing patrons react with exaggerated expressions—frowning, laughing, or tilting their hats—before eventually settling into what appears to be an after-the-fuss atmosphere where they resume their drinking and socializing.\n\nThroughout the scene, there's an underlying layer of surprise and unease among the patrons, with many reacting with shock or concern to what happens during and immediately after the physical altercation. This dramatic moment of physical confrontation in the saloon brings out different reactions from the gathered crowd, creating a vivid snapshot of life in this Western setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 269,
+        "total_tokens": 3023
+      }
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "analyse_action": "The scene takes place in a Western barroom filled with cowboy patrons and revolves around three main characters at the front of the scene. A blonde man wearing a green jacket and red kerchief sits among other cowboys. The three are headed to a town.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 52,
+        "total_tokens": 2806
+      }
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "analyse_action": "The scene takes place in a Western movie setting centered around a horse-drawn carriage.\n\nEarly in the scene, a man dressed entirely in black—wearing a hat—is leaning out the window of the carriage before stepping fully outside and shuttling the door. Inside the carriage, a passenger wearing a cowboy hat looks toward him as this happens.\n\nThe carriage itself is a solid brown vehicle with gold accents and features a distinctive gold-framed emblem with a white background that depicts a person in a cowboy hat holding a gun. It's packed with various items strapped to its roof, including a brown bag, a red box, a white sign with red lettering, a blue tarp, and what appears to be an axe and ropes.\n\nToward the end, the activity shifts as a different man appears who is clean-shaven with slicked-back gray hair, wearing a dark blue pinstripe suit over a light gray vest, white shirt, and dark blue tie. He's shown multiple times in various positions—standing in a doorway with his hand on the door, walking near the carriage with a cigar in his mouth, and finally boarding or about to board a train. In his left hand, he clutches a silver metal canteen.\n\nThe backdrop includes a brown brick building where several people are gathered, along with two horses. One of them carries a black sack with a white label on its back. The atmosphere is clearly that of an old-fashioned town setting with activity around transport and travel.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 302,
+        "total_tokens": 3056
+      }
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "analyse_action": "In the scene, a tense confrontation is unfolding inside the railcar. An older train conductor stands at the doorway, shown in tight close-up as he shouts angrily while leaning forward, his expression intense with urgency and agitation.\n\nThe situation resolves when someone opens the door and several people - including a man in a black suit and top hat and the two Native American men in brown outfits - rush inside quickly. The person who had been shouting turns and leaves. The newcomers' sudden entrance, quick motion, and apparent concern suggest they've come to investigate the commotion or respond to the urgent call.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 119,
+        "total_tokens": 2873
+      }
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "analyse_action": "The scene takes place in a Western law enforcement bar where a blonde woman in military attire and a black hat is the central figure. She stands at the wooden bar, raising her hand and addressing the room while looking directly toward the tall man in a light blue shirt with a black tie who is leaning against the bar opposite her.\n\nAround them, several other men in cowboy hats and period clothing are either seated at the counter or standing behind her in a casual, relaxed manner. A bottle of whiskey and multiple glasses—including one holding a dark brown drink—are scattered across the bar top, with liquid pooled around the bases of some of the glasses. Behind the bar, mounted on the wall, hangs a framed \"Wild West\" painting.\n\nThe atmosphere is lively and social, with the blonde woman in the military-style uniform maintaining her composed, authoritative stance as she speaks and gestures to the tall man in blue. The other patrons appear intrigued or engaged in whatever is being said, creating an active, conversational scene typical of a frontier drinking establishment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 207,
+        "total_tokens": 2961
+      }
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "analyse_action": "The scene takes place in a crowded Western saloon where a tense confrontation is unfolding. A young blonde woman in a dark green cowboy outfit with a red bandana and silver star emblem stands at the bar, leaning on the counter with her hands on it, as a tall blond man in a light-colored shirt and black tie leans toward her. The woman appears to be confronting him, her body language intense and engaged, suggesting she's making a serious accusation or serious point.\n\nAround them, a completely Western-wearing crowd of men in cowboy hats gathers at the bar, their expressions ranging from watchful to openly interested. Everyone in the room seems tuned in to the developing exchange between the two central figures, watching it unfold with focused attention.\n\nThe atmosphere is charged with tension and anticipation. It's a confrontational moment in the saloon's dense social setting, where the gathered men are all intently observing whatever disagreement or confrontation the woman and man are having at the wooden counter.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 196,
+        "total_tokens": 2950
+      }
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "analyse_action": "In the scene, a heated argument is unfolding at a Western saloon bar. A woman wearing a black hat with a star emblem and red bandana is seated at the bar, animatedly making forceful gestures as she speaks. The bar is crowded with cowboys in period dress wearing hats.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 60,
+        "total_tokens": 2814
+      }
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "analyse_action": "The scene takes place in a Western saloon where a tense standoff is unfolding. A blonde woman with a red bandana and brown leather jacket confronts a heavyset man with a bandaged mouth who's leaning against the bar. She punctuates the confrontation by thrusting a stick into her victim's face.\n\naround her, the saloon erupts in chaos - a gunfight breaks out with gunfire crackling through the air, and several men are seen firing at each other. One cowboy with a bandage around his mouth is pointing a gun at the woman with the bandana on her head.\n\nDespite this violence, others in the crowd are engaged in more mundane activities. The room contains gambling tables where people are playing, typical green felt tables, and bar patrons who are drinking and relaxing. The atmosphere is crowded and noisy, with a chandelier overhead and white walls contrasted by red curtains.\n\nIt's a quintessential Wild West saloon scene combining the raw, gritty violence of gunfights with the everyday social aspects of a frontier watering hole, all set to the energetic music established in the clip.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 223,
+        "total_tokens": 2977
+      }
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "analyse_action": "The scene takes place in what appears to be a lively Western bar or club. A blonde woman wearing a Confederate hat is standing out in the crowd, dressed in green with a red scarf. She's engaged in conversation with a rugged man with a bandolier.\n\nBehind them, there's an atmosphere of excitement and tension building, with people exchanging serious looks and the crowd cheering. Johnny Weissmuller can be seen among several other men who are shouting and laughing in the background, adding to the rowdy atmosphere.\n\nThe setting includes typical Western bar features like a green felt table, white walls with a framed picture, red curtains, and a roulette wheel, indicating this is likely a gambling hall. A bartender is serving drinks at a counter with rows of liquor bottles.\n\nInterestingly, there's also a man who took hold of another man's hat and slid it on, adding a touch of playful mischief to the otherwise tense gathering. The scene captures the contrast between calm conversation in the foreground and the lively, potentially confrontational atmosphere in the packed background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 211,
+        "total_tokens": 2965
+      }
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "analyse_action": "The scene takes place in a Western-style bar where a tense standoff or negotiation has developed. A group of men in cowboy hats and Western clothing are gathered around the bar counter, standing in a loose circle with serious, intense expressions as they appear to be engaged in conversation and exchange money—specifically dollar bills—suggesting some kind of agreement, deal, or confrontation is taking place.\n\nThe atmosphere is charged and focused, with the men clearly invested in the outcome of whatever discussion they're having. Behind them, a theater-style area with red curtains and a stage suggests this encounter might be taking place while actors are preparing or performing nearby, adding an unusual layer to the situation.\n\nThe bartender stands behind the counter observing the group, while elsewhere in the establishment, more patrons can be seen—a woman in a brown dress and hat wearing a red bandana looks on with her mouth open, shocked and curious, while a man in a light gray shirt and black hat watches closely, creating an undercurrent of curiosity and tension about what the situation entails.\n\nThe overall scene captures the lively, mounted nature of Western town life, complete with alcohol bottles on the counter, the sound of coins clinking, and the anxiously anticipatory atmosphere of men making important decisions in an Old West saloon.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 257,
+        "total_tokens": 3011
+      }
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "analyse_action": "In the scene, several groups are gathered in front of a red curtain, each showing their money in front of each other.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 26,
+        "total_tokens": 2780
+      }
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "analyse_action": "The scene unfolds in a saloon where two cowboys are engaged in conversation at a wooden bar. One cowboy leans casually against the bar with a cigar in his mouth, while the other stands nearby in front of him. The setting is an intimate bar interior with bright, theatrical lighting that really highlights their exchange as the focal point.\n\nThe conversation is quite animated and intense. The cowboy leaning on the bar appears to be the one doing most of the talking, leaning forward and gesturing with his free hand as he speaks, and at times turning to glance toward the crowd before returning his focus to his companion. His body language is supported by the cigar in his mouth, conveying confidence and control over the situation.\n\nOne of the cowboys is dressed in a brown leather uniform with a red-and-white bandana around his neck, appearing to be in a military-style outfit. His face shows a heated, agitated expression that contrasts with his companion's more measured demeanor.\n\nThe atmosphere of the exchange is charged yet controlled - more of an argument or high-stakes discussion than outright violence, though the intensity between them suggests the potential for any moment to escalate. Their animated back-and-forth takes place against the stage-lit backdrop of the saloon, with bottles of liquor visible on the bar, contributing to the traditional Western ambiance of the scene.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 268,
+        "total_tokens": 3022
+      }
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "analyse_action": "Two cowboys are in a bar, they are talking and exchanging cards.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 16,
+        "total_tokens": 2770
+      }
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "analyse_action": "The scene depicts an exchange between two men in what appears to be an official transaction or inspection taking place inside a building with white walls and warm red drapes. \n\nOne man is wearing military-style clothing—a black outdoor cap with crossed sword decoration, a red bandana, and a brown jacket with tassels on the sleeves—with blonde hair visible beneath his headwear. He's holding what looks like a ticket or train pass when they first meet.\n\nThe other man, who also has blonde hair, is wearing a dark black cowboy hat and a light-colored button-up shirt with a black tie. He's positioned more centrally in the frame and seems to be conducting an official inquiry or inspection.\n\nThe overall atmosphere feels tense and formal, suggesting this might be law enforcement or military personnel questioning or verifying the information shown on the ticket. The official black cap with the crossed sword emblem and the styling of both men's hats—though one appears military and the other cowboy-like—strongly suggest this is set in a Western or frontier era with multiple law enforcement or official roles present.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 215,
+        "total_tokens": 2969
+      }
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "analyse_action": "In the scene, a tense confrontation is unfolding at a green-felt table in what appears to be a frontier saloon or meeting room. A man in white with a black cowboy hat is seated at the table, intensely engaged in conversation with a woman in brown Western attire—she's wearing a brown jacket with braids and fringe, a black hat, and a red bandana.\n\nThe two are standing close together and speaking with what looks like heated disagreement, their expressions displeased. They're examining items on the table, with the man gesturing emphatically with his hands and appearing particularly agitated during their exchange. The atmosphere is one of conflict or disagreement between these two characters in this Old West-style setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 144,
+        "total_tokens": 2898
+      }
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "analyse_action": "The scene takes place in a Western-style saloon, where two actors are engaging in a conversation. One man sits at a table in a white shirt and black tie, while a woman stands beside him in a brown fringed outfit with a red bandana. The woman leans in to talk to him, and the seated man laughs heartily at whatever she says before responding. The exchange continues with the woman at his side leaning back slightly as if listening, creating a warm and casual atmosphere with the saloon's Western decor as their backdrop. It's a conversational moment between the two characters in this Western setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 124,
+        "total_tokens": 2878
+      }
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "analyse_action": "The scene takes place in a Western-style diner with a bustling atmosphere. A blonde waitress in a brown leather outfit, red bandana, and black hat approaches the table where the man in the white shirt, black tie, and black cowboy hat is sitting. They start a conversation that appears serious, with the man resting his hands on the table while the woman watches him intently.\n\nAs their exchange continues, the waitress's expression shifts from concern to upset, suggesting the conversation may turn negative or troubling. The colorful interior - featuring a large gold-framed painting, green tabletop, and busy background with other patrons - creates a stark contrast to the tension between the two characters.\n\nThe scene feels like an important moment where the man is being questioned or confronted about something, with the waitress reacting emotionally as the conversation unfolds.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 163,
+        "total_tokens": 2917
+      }
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "analyse_action": "In the scene, two men in formal suits are in what appears to be an old-fashioned hotel lobby, and they are setting up a distraction. The man in the gray fedora and dark suit is hustling the other man down the staircase with a brown briefcase in his left hand. The atmosphere is tense as people are lined up with luggage suggesting a busy hotel check-in area.\n\nOne of the men in the suits then moves to a wooden desk where there's an ledger, picks up a pen, and appears to sign it before turning angrily toward the other man. Their conversation sometimes breaks into intense, agitated gestures and looks, with both men showing sharp emphasis in their expressions and body language. \n\nThe two men are clearly engaged in some form of urgent interaction - the one signing seems to be taking some kind of action or documentation while the other reacts strongly, suggesting they're working together on some plan or dealing with an important situation requiring deception or misdirection at the hotel. The formal uniforms, period setting, and their hurried movements indicate this is taking place in the context of a 1940s-style hotel during some kind of critical, clandestine operation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 236,
+        "total_tokens": 2990
+      }
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "analyse_action": "Two sharply dressed men are having an animated conversation in an elegant room. They appear to be politely disagreeing or discussing something important. The older man in the gray suit with the pocket watch speaks at length with pensive gestures, eventually looking up toward the wall where there's a framed poster for \"The Golden Garter\" with Miss Frances Fryer's name on it.\n\nThe younger man in the gray hat watches intently, nodding along while taking in the room's decor – the framed landscape, stylish lamp, and red curtain. His expression shifts from focused attention to amused delight, with a wide smile breaking across his face.\n\nAs the exchange continues, the younger man appears to make a witty remark or clever observation. His companion responds with visible surprise, his mouth forming an O-shape and his eyes widening. The dynamic suggests they're engaged in some sort of friendly banter or persuasive discussion, with the younger man catching his opponent off guard at the conclusion of their conversation.\n\nThe scene captures a moment of intense interpersonal interaction in what seems to be a casual, sophisticated setting, possibly related to their conversation about the gambling hall poster visible in the room.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 232,
+        "total_tokens": 2986
+      }
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "analyse_action": "In the scene, two well-dressed men in dark suits are having what appears to be a suspenseful conversation in a hotel room. One man is holding a brown briefcase and smiling as the other man speaks to him with his mouth open in surprise. The atmosphere suggests this could be a tense or dramatic moment, possibly involving a mystery or heist plot. The background details—the gold-framed picture, the red curtain, and the white table with a lamp—reinforce the formal, tense hotel setting where important secrets or revelations might be taking place.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 113,
+        "total_tokens": 2867
+      }
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "analyse_action": "The scene takes place inside an elegant interior of an upscale building. A group of men in cowboy and saloon-style attire—wearing hats, vests, and shirts—are entering through a grand white door with gold trim. They bring in an older man who's dressed in a brown jacket, red shirt, and tan pants, showing visible signs of age and discomfort. This man's wrists are held behind his back by one of the men accompanying him.\n\nWhen they enter the room, the others immediately turn to look toward the center where there's a table against a red curtain. The newcomer in brown appears to want to sit there, but the men stop him at the door, positioning him instead in front of a brown table while keeping hold of his wrists.\n\nThe group then gathers around this table bench area, drawing attention from other people in the room. Some move to join the cluster, while others watch from nearby. Handshakes and colored drinks are visible on the table—they're holding bottles of liquor and pouring drinks. The men engage in conversation, pressing leather hats together as part of their interaction. A golden-framed picture hangs on the white wall behind them.\n\nThe atmosphere appears to be one of tension mixed with social gathering, with soldiers or police officers in suits and hats present observing the group. The scene has the feel of people making introductions or settling in after arriving, though their vigilant hovering suggests something more serious is underway.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 288,
+        "total_tokens": 3042
+      }
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "analyse_action": "The scene takes place in a Western-style saloon with a bustling group of cowboys gathered around a bar. The room has white walls, red curtains, and gold-framed paintings hanging on the walls, creating an authentic Wild West atmosphere.\n\nIn the foreground, three people have drinks in front of them. On the left is a man in a brown leather jacket and brown cowboy hat, a woman wearing a black hat with a gold star, a red bandana, and a matching jacket, and an older gray-haired man in a yellow jacket. The woman sits between the two men, looking at the older man.\n\nBehind them stands a man in a black cowboy hat, white shirt, and dark tie, his position drawing particular attention. The group appears to be engaged in conversation, with several bottles of liquor and shot glasses lined up along the wooden counter.\n\nThe scene captures that characteristic Western moment – a tense gathering around drinks before an impending confrontation. The mix of patrons, the leather jackets and hats, the array of beverages, and the stern figure watching from behind all contribute to the atmosphere of an old-time Western showdown about to unfold.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 228,
+        "total_tokens": 2982
+      }
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "analyse_action": "The scene takes place in a Western saloon filled with a crowd of men in cowboy hats. Three men are seated at the saloon bar, each with a clear glass of liquor and a bottle on the table in front of them. The atmosphere is tense and charged with confrontation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 57,
+        "total_tokens": 2811
+      }
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "analyse_action": "The scene takes place in a crowded Western bar where men in cowboy hats are seated at tables, most with bottles and glasses in front of them. The atmosphere is tense and confrontational.\n\nAt the center of the confrontation is a scarred older gray-haired gentleman in a brown leather jacket and red shirt. He's the focal point of the exchange, speaking while being confronted by others around him. He has a serious expression, occasionally looking down at his glass.\n\nNext to him stands Clint Eastwood in a distinct silver-gray button-up shirt, black tie, and black cowboy hat, projecting intensity as he challenges the older man. In front of a long brown bar, a woman wearing a black cowboy hat with a star, a red bandana, and a brown top watches the exchange before turning away.\n\nThe bar's classic Western decor - white walls with a red curtain along one side - frames all of this, while the crowd of men, men and women, creates an atmosphere of tension and uncertainty about what will happen next in this apparently serious confrontation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 210,
+        "total_tokens": 2964
+      }
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "analyse_action": "The scene takes place in a saloon during a tense confrontation. Clint Eastwood's character stands at the bar wearing his light-colored shirt and black hat, while Yul Brynner's character, dressed in brown fringed cowboy attire with a red handkerchief, engages in a heated argument with Eastwood.\n\nOther patrons gather nearby—you can see men in cowboy hats pinned around a table, with bottles and glasses set out on the surface. Some are drinking and watching the confrontation, while others remain standing, taking in the situation.\n\nThe atmosphere is charged with rivalry between the two men, and the tension is palpable as Eastwood remains focused on Brynner's character from inside the saloon. A young woman in uniform stands by, seemingly observing the interaction.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 155,
+        "total_tokens": 2909
+      }
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "analyse_action": "The scene opens on a late 1800s frontier town at dusk as a woman in brownish-orange vacation wear enters through double doors and quickly runs across a dirt street lined with wooden buildings, past people on horseback. She then rushes into a nearby street where cowboys on both sides of the road draw their guns. A cowboy in a blue shirt fires a shot, with muzzle flashes lighting the scene, which is seen through a dirty lens with clipped text.\n\nThe action escalates into a full-blown gunfight with two separate cowboy confrontations side by side, various men shooting at each other under a bright blue sky as smoke pours from the town's buildings and the street scene becomes chaotic.\n\nThe scene shifts at night to a forest where shirtless Native Americans with painted faces and feathered headdresses gather around a small fire. They stand and dance frantically amid their camp equipment under the darkness of the forest, lingering on this intense action before the clip ends.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 197,
+        "total_tokens": 2951
+      }
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "analyse_action": "The scene shows four Native Americans sitting around a small fire in a dark forest clearing at night. They're gathered near a colorful blanket and have beads around their necks, listening attentively with what appears to be concentration and perhaps discussion.\n\nA rider on horseback has approached the camp. The rider is a woman wearing period clothing - a black hat with a red bandana, brown leather jacket with fringe, a white skirt, and carrying a white rope. She's mounted on a dark brown horse with a black mane and tail that comes to a stop before the circle of Native Americans at the campfire, watching them intently with her face partially illuminated by the fire's glow.\n\nThis creates a compelling standoff moment where the Native Americans, who appear to be warriors, remain seated and focused on the horse and rider while the woman observes them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 169,
+        "total_tokens": 2923
+      }
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "analyse_action": "The scene depicts an intense, violent confrontation between Native Americans and white settlers in a nighttime forest setting. A small group of Native Americans has captured a white man dressed in blue clothing, who sits bound to a tree with his limbs tied and his face smeared in blood.\n\nThe Native Americans are gathered around him at night, having their fires lit during what appears to be a torturous interrogation or punishment session. One Native American stands over the white man inspecting his face closely, while others wait nearby.\n\nThis happened while James's girlfriend was tied to a tree, and James sprayed poison wax all over the Native American girl. All of the Native Americans are shirtless, wearing what appear to be traditional ritualistic outfits.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 144,
+        "total_tokens": 2898
+      }
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "analyse_action": "The scene is a tense nighttime camp ambush set in a forest. \n\nIt begins with a man on horseback in military-like attire, tightening his hand on a pistol. His horse moves into motion under this watchful rider.\n\nThe situation then shifts to a Native American campsite where an intense confrontation is unfolding. Four Native Americans wearing traditional headgear are gathered around a campfire, engaged in what appears to be a serious discussion or confrontation. Their body language and focus suggest they're debating or preparing some strategy, with one man standing while the others remain seated.\n\nThe tension escalates as a Native American man suddenly rises, knocking something from the campfire. Others are scrambling up and running off, creating a panic that spills into the woods. The rider on horseback is clearly an intruder, having entered to attack or capture unsuspecting campers, likely targeting men in uniform based on his own attire.\n\nAnother man wearing a blue uniform and yellow scarf tied around his neck is shown bound to a tree, with his arms tied behind his back and his legs pinned around the trunk. He appears to be the captive the rider came to find or capture during this tense confrontation.\n\nThe scene culminates with men on horseback charging toward the camera through the dark forest, while someone is left tied to the tree—which appears to be Nixon.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 268,
+        "total_tokens": 3022
+      }
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "analyse_action": "In this scene, two people are captured and restrained in a wooded, forested area. The man wearing a blue jacket with a yellow bandana is tied to a tree with ropes, while another man in a brown jacket with a red bandana and a black leather hat with a white X is standing nearby observing him, holding a gun.\n\nThe cowboy then loads the pistol from a holster and fires the revolver into the ground, alarming the man tied to the tree. This causes the man in blue to squirm and look terrified, instinctively reaching toward the rope binding his hands and talking as he adjusts his grip in an attempt to loosen it.\n\nAfter the shot, the cowboy who had fired the gun turns away and runs from the scene through the woods.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 152,
+        "total_tokens": 2906
+      }
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "analyse_action": "In the scene, Clint Eastwood is riding through a dark, forested area at night. He's mounted on a brown horse that's wearing a saddle and bridle, moving steadily along a path through the trees.\n\nThe atmosphere is quite dramatic—you can see the moon shining through the dense foliage, casting dappled light on the forest floor below and creating an eerie, suspenseful mood. Eastwood is wearing a blue shirt and some kind of necklace around his neck.\n\nAs he continues through this nighttime wilderness, he experiences something that causes him to turn around in shock and scream. His face shows immediate distress with his mouth wide open and eyes widened. His right arm extends outward, and his left arm bends as he braces himself.\n\nThere's also a woman seated behind him who's partially obscured by his body, struggling to get into a better position or hold onto something in front of him. The entire scene conveys a tense, fraught moment—the kind of sudden, unsettling discovery that would explain why Eastwood reacts so dramatically and abruptly. The combination of the moonlit forest and Eastwood's violent reaction creates a sense of immediate danger or revelation taking place during this horseback ride.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 238,
+        "total_tokens": 2992
+      }
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "analyse_action": "This appears to be a tense, dramatic scene from a Western movie.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 15,
+        "total_tokens": 2769
+      }
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "analyse_action": "The scene takes place in a Western bar where a tense confrontation is unfolding. A cowboy sheriff in a dark blue uniform stands at the bar facing a young woman dressed in cowboy attire—her brown jacket and black hat concealed by a black star-emblazoned collar. She speaks to him with animated gestures, clearly challenging him or addressing his authority.\n\nSeveral men in cowboy hats gather around them, watching and listening to their exchange. The atmosphere is charged and confrontational. The woman proves herself to be a skilled fighter, holding her own in the tense staring match with the sheriff.\n\nAs the woman speaks, the sheriff warns her about what she may do or chase. Following this brief exchange, she turns on her heel and walks away from the bar. The bartender pauses in his work to observe the situation developing. The gathering men remain poised, suggestive of additional potential conflict or a complex backstory connecting them to whatever transpired between the sheriff and the woman. The white building with its balcony visible through the doorway frames the energetic, dramatic bar setting, amplifying the unfolding drama in the saloon.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 218,
+        "total_tokens": 2972
+      }
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "analyse_action": "The scene takes place in a wild west saloon, where a tense confrontation unfolds between two main characters.\n\nA man in a stern, confrontational stance with arms crossed and serious expression faces a woman who remains calm and composed. The atmosphere is charged with rivalry and anonymity, as the man's aggressive posture signals confrontation while the woman stays steady. Their interaction centers on drawing a line, representing two opposing perspectives in this tense standoff.\n\nAdditional details reveal the environment:\n\n- A counter with bottles and a glass of water sits nearby\n- The bar area extends with a man seated, a man in a yellow vest standing, another in a blue shirt, and someone hanging a hat\n- Red and white walls create a warm-toned backdrop\n\nThe scene captures a moment of conflict escalation or positioning in what appears to be a Western setting, with the two characters seemingly preparing for or building toward some kind of showdown or significant event that will test their differing attitudes.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 190,
+        "total_tokens": 2944
+      }
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "analyse_action": "In the scene, a tense confrontation is taking place in a Western saloon between Clint Eastwood's character and a woman who works at the bar. \n\nThe man in the brown vest confronts the blonde woman at the counter, causing her to return his stare challengingly. He then reaches into his holster and pulls out a gun, which visibly unsettles her. \n\nIn response to his threat, the woman swiftly reaches below her shirt and draws her own gun from her holster at work, pointing it back at him. This creates a standoff between the two, with the woman counter-threatening him with her weapon.\n\nThe situation ischarged with danger and intensity, showcasing a classic Western gunfight scenario set in the bustling saloon environment. The confrontation unfolds very rapidly, with both characters ready with their firearms drawn just inches from each other's faces, creating a moment of potential violence hanging in the air.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 180,
+        "total_tokens": 2934
+      }
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "analyse_action": "In this Western film scene, a tense confrontation takes place in a bar. A young woman in a black hat, red territory scarf, and brown clothing is forcefully removed from the bar by law enforcement officers in blue military uniforms with black hats. She appears upset as they escort her away, and several cowboy townspeople wearing brown, black, and white hats can be seen observing from the bar area.\n\nThe setting is quite grand for a Western, with red curtains, white walls, a chandelier, and elegant red carpeting, creating an upscale but period-appropriate atmosphere for the era.\n\nAfter the bar confrontation, the scene shifts to a large, lively audience seated at tables arranged in a semi-circle around a central stage. The crowd is made up of men and women in period attire—khaki and brown hats, suits, glasses, and checkered shirts—watching and applause as a man in a blue suit and white shirt addresses them from the stage. The space features white pillars, gold curtains framing the performance area, and a balcony with railings filled with spectators, suggesting this is a significant public gathering or presentation taking place at the same establishment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 232,
+        "total_tokens": 2986
+      }
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "analyse_action": "The scene shows a lively Western-themed hall where a man with slicked-back hair and a mustache is addressing a crowd and fooling them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 30,
+        "total_tokens": 2784
+      }
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "analyse_action": "A man in a dark blue suit delivers an animated, impassioned speech on a balcony-like stage, gesturing expressively with a pocket watch and pointing emphatically while speaking. The scene then transitions to a large, lively crowd gathered in what appears to be a casino or gambling hall with ornate chandeliers and white walls. The audience members, dressed in period attire with many wearing hats, are standing, cheering, and applauding energetically. Their excited reactions and enthusiastic clapping suggest they are responding strongly to the man's dramatic monologue from the stage.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 115,
+        "total_tokens": 2869
+      }
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "analyse_action": "The scene depicts a theatrical performance with a dramatic conflict building between two characters. onstage, a man is delivering an impassioned performance with his sleeves rolled up (blue suit jacket, white shirt, gray vest, mustache, and key fob) using exaggerated arm movements and expressive gesturing for his audience. Meanwhile, in a separate location - a small wooden room - an orange-haired woman wearing a green dress is undergoing intense emotional anguish, displays visible distress with tears and gritted teeth as she reacts to what the performer is doing.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 107,
+        "total_tokens": 2861
+      }
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "analyse_action": "The scene takes place in two distinct locations with contrasting atmospheres and interactions.\n\nIn the first setting, a middle-aged man with gray hair, a mustache, and a white beard stands in a room with dark wood-paneled walls and a white ceiling. A wooden barrel with a green handle sits behind him as he turns to his right toward a woman dressed in green. She wears a corset-like black-and-yellow dress adorned with a green leafy accessory on her shoulder, a black choker with a pendant, vivid gloves, and a large hairpiece with leaves and flowers. The two appear to be engaged in a tense conversation.\n\nIn the second setting, the same gray-haired man stands before a brown table with a gray top. A light gray coat hangs nearby. Without warning, he suddenly smacks the woman, prompting her to cry and run. The scene captures a domestic moment of conflict, from what seemed like an ordinary conversation to an abrupt and forceful outburst of aggression that leads to her fleeing in distress.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 206,
+        "total_tokens": 2960
+      }
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "analyse_action": "The scene shows a theatrical performance unfolding on an opulent stage. A performer dressed in a striking yellow outfit is singing and performing while also playing a piano, combining music and live instrumentation on stage.\n\nThe stage design is grand and detailed, featuring large golden curtains, painted scenery including mountains and trees, and ornate architectural elements. The performance space is filled with enthusiastic audience members wearing fedoras and suits, who are seated in the main auditorium and on balcony levels along both sides of the stage. They are applauding the singer and watching attentively throughout the performance.\n\nThe setting suggests this is taking place in a period theatre, with the performers creating what appears to be a lively musical or operatic presentation that has drawn a full house of appreciative spectators.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 152,
+        "total_tokens": 2906
+      }
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "analyse_action": "In the scene, you're watching \"The Green Mile,\" a dramatic piece set in what appears to be a theater interior. The staging shifts between two distinct moments:\n\nThe first takes place in a formal theater performance space, where a woman in vivid yellow and black performances against a painted backdrop showing a mountain and trees. She wears a dramatic black choker and holds a dark scarf while her face contorts in distress.\n\nThe second scene shows a moment of tense interaction, possibly in preparation for or between performances. A man in a black military-style uniform with a holstered pistol stands next to a woman dressed in a brown shirt with a red scarf and black hat. She's holding a glass of black liquid while surrounded by men in cowboy outfits wearing black hats. The woman in brown appears to be addressing them, creating a charged atmosphere that suggests conflict or brewing confrontation before the dramatic performance begins.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 178,
+        "total_tokens": 2932
+      }
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "analyse_action": "The scene takes place in a Western-themed bar setting. In the foreground, a man in a brown hat and checkered shirt stands at a green table with a stack of cards and two glasses. Behind him, other patrons sit at similar tables with drinks. \n\nThe scene then transitions to the porch of a row house. A man stands on this porch wearing a yellow-and-black dress. He has long curly red hair and is adorned with green gloves and a black choker. He strikingly holds a green frog in his left hand while wearing a yellow dress with black stripes.\n\nThe two scenes – the bar interior with the hatted man, and the porch setting with the costumed man holding the frog – are separate moments occurring in different locations, presented back-to-back.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 155,
+        "total_tokens": 2909
+      }
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "analyse_action": "A performer is channeling a showgirl at a vaudeville-style theatre, singing and dancing to an orchestra. He's wearing a bold yellow and black striped dress with a black choker, waving his arms and holding a long black feather boa while a band plays behind a barrier and audience members watch.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 62,
+        "total_tokens": 2816
+      }
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "analyse_action": "The scene depicts a lively, theatrical moment centered on a performer delivering an energetic routine on stage. \n\nA striking woman with red, curly hair takes center stage wearing a bold yellow and black outfit complete with matching gloves, holding a black fan as she performs. Her outfit is accented with a choker necklace and a green bow perched in her hair, and she wears vivid red lipstick.\n\nThe show draws quite a crowd, with audience members visible both in the theater seats below and gathered around balconies above. The setting appears to be a formal venue with white walls, gold-toned trim, red curtains, and chandeliers overhead.\n\nThe performance escalates when an older man in a brown suit and brown hat unexpectedly jumps onto the stage and seizes the performer in a dramatic, energetic embrace. The two begin dancing together enthusiastically to the crowd's obvious delight, prompting many smiles and laughter throughout the audience.\n\nThe moment captures the exuberance of the performance, the chemistry between performer and dancer, and the festive atmosphere as the entire audience joins in the celebration with smiles and excited responses.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 219,
+        "total_tokens": 2973
+      }
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "analyse_action": "The scene depicts a lively song and dance number set in the 1920s or 1930s. A flamboyantly dressed woman with a green and black dress anchors the performance, moving with the stage while interacting with a supporting chorus of men in hats who watch attentively. At one point, a man in a gray suit and hat leans toward her with a cigarette while others cluster around—one older man stands on the steps, another sits nearby holding his hat, and a man in a plaid shirt appears at the lower right. The group gathers in what appears to be a cozy indoor space, with additional men visible behind a wooden railing watching the performance. Later in the scene, a man sits on a staircase wearing a gray hat, gray jacket, and brown vest.\n\nThe atmosphere is festive and theatrical, with the woman smiling and laughing as she moves through the stage area while the men around her observe and react to her. The overall mood is clearly celebratory, with on-screen text emphasizing that there's \"a romantic moment\" happening as part of the performance. The men maintain their positions around the performers, contributing to the sense of a live theatrical production or party setting where music, dance, and audience participation are all key elements.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 254,
+        "total_tokens": 3008
+      }
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "analyse_action": "A lively patter-ballet scene unfolds featuring a man playing an accordion on a raised balcony and a woman with red hair holding a black feather boa and a black ribbon in her right hand, about to catch a knife and cheer with her left hand raised. Several men in suits, hats, and a plaid shirt with a blue bandana are dancing on the floor below.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 75,
+        "total_tokens": 2829
+      }
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "analyse_action": "This is a lively scene from a western set in the Old West. On the right, there is a group of cowboys in traditional attire gathered around a round table, playing a card game. Some are turned toward the performance while others continue their conversation over cocktails. Adding to the atmosphere, there's a musician playing a guitar nearby with other musicians playing instruments in the background.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 76,
+        "total_tokens": 2830
+      }
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "analyse_action": "The scene takes place in an opulent, theatrical setting with red curtains and a gold-framed picture on the wall. On the second story, musicians are performing with an instrument, creating a lively atmosphere, while below them a woman energetically dances in a yellow-and-black dress, drawing attention from several men below.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 65,
+        "total_tokens": 2819
+      }
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "analyse_action": "An actor dressed as a performing magician stands on the stage, with the props moved around and a blue screen positioned behind him.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 26,
+        "total_tokens": 2780
+      }
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "analyse_action": "The scene depicts a chaotic stage performance in a grand theater covered with violence and pandemonium. An older man at center stage punches and throws his arms around as men in cowboy hats descend a staircase and engage in a brawl on a balcony above and below. Smoke pours through the theater as people wearing hats, bowties, and full suits rush through the hectic space around the stage.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 77,
+        "total_tokens": 2831
+      }
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "analyse_action": "The scene takes place in a Western-themed saloon filled with cowboys in hats filling the venue. Western folk-dance music plays as patrons sit at round green tables, dance, chat, and raise their drinks. A wooden bar with a gold faucet stands in the foreground where older men serve customers wearing red neckerchiefs, brown vests, and khaki trousers, while a lively bartender works behind it. The saloon features pink walls, a green circular table with a metal gate at its center, a balcony-level door, and a large window framing a colorful mural of a mountain range and blue sky. A man in a blue jacket and gray pants stands on a ledge addressing the crowd as stirrups hang from a nearby doorway, creating an energetic, bustling Western atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 157,
+        "total_tokens": 2911
+      }
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "analyse_action": "The scene takes place in a grand Western-style ballroom, reminiscent of a Wild West setting. The room features ornate gold curtain and bears a large scenic painting with red curtains.\n\nAt the center of the action is a man dressed as a stage cowboy performing for an audience. He stands confidently on a green felt table, wearing a brown leather outfit complete with red scarf, brown hat, and cowboy boots, with his hand resting on his holster.\n\nThe space buzzes with activity - men wear brown vests, hats, plaid shirts fill the area, some seated at tables, others standing and gathered around. There's even a person at a card table playing games while the performance carries on.\n\nA man in a blue suit with gray pants observes from the balcony area, and there's another figure in a black vest and hat watching intently below.\n\nThe atmosphere is energetic and lively, with the crowd clearly engrossed in the cowboy's performance. The setting creates a vivid contrast between the theatrical grandeur of the ballroom and the bold, charismatic presence of the stage cowboy, delivering an entertaining show that draws in the watching audience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 227,
+        "total_tokens": 2981
+      }
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "analyse_action": "The scene depicts a tense confrontation taking place in an ornately decorated theater.\n\nA tall, muscular man stands authoritatively at center stage, raising his right hand while holding a pistol pointed down toward a crowd gathered on the floor. He's wearing brown clothing, green shirt, red bandana, and a distinctive black hat with a white star emblem.\n\nThe man delivering the speech has blonde hair and wears a brown shirt and a red bandana, holding a rifle with a bayonet attached. The onlookers, mostly men in cowboy hats, fill the space looking in various directions—some facing away from the platform, others turning toward the balcony rail where additional men in formal attire stand watching.\n\nThe grand theater setting—with its balcony, curtain backdrops featuring scenic landscapes, and dramatic lighting—frames this dramatic standoff or heated exchange. The crowd appears engaged, focused attentively on the events unfolding, creating a charged atmosphere of anticipation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 187,
+        "total_tokens": 2941
+      }
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "analyse_action": "The scene takes place in a grand, ornate theater during what appears to be a tense confrontation or dramatic moment in a Western film.\n\nAt the center is a tall blonde woman dressed in a distinctive green military-style outfit with a black leather jacket adorned with a swastika and a red bandana. She's elevated above the crowd on what looks like a stage or balcony area. Her posture and the gestures of those around her suggest she's addressing or confronting the large gathering of men in cowboy hats.\n\nThe audience is composed of cowboys dressed in period-appropriate attire—brown shirts, vests, checkered patterns, red bandanas, and various colored cowboy hats. They're densely packed in the foreground, bobbing heads and watching intently while some appear to be in a heated exchange or argument.\n\nThe ornate setting—with its gold curtains, painted backdrop of a mountain scene, white banisters, chandeliers (including one with a red center), gold-tarnished sculpture pieces, and red-and-gold drapery—creates a theatrical atmosphere. The overall mood is tense and dramatic, with a clear sense of conflict or confrontation unfolding among the characters.\n\nThis appears to be a pivotal scene where the woman in military attire is addressing or confronting a crowd of Western-style cowboys, with some of them clearly showing anger.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 267,
+        "total_tokens": 3021
+      }
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "analyse_action": "The scene takes place in a lively saloon where a confrontation is unfolding.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 16,
+        "total_tokens": 2770
+      }
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "analyse_action": "The scene depicts a playful, theatrical moment from a Western film on a crowded stage. A cowboy wearing a black hat, brown jacket, and red bandana stands center stage, humorous and animated, lifting an arm toward a sea of brown cowboy hats as a hoop flies past his head. The lively audience responds with laughter and cheers, throwing hats and objects up into the air while a woman in a black jacket walks along the balcony behind him, where more people watch. A white man in a suit suddenly screams in fear. Azure skies, trees, mountains in the backdrop, and vivid green-blue curtains frame the bright, energetic sequence.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 127,
+        "total_tokens": 2881
+      }
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "analyse_action": "The scene takes place in a richly decorated, theatrical space that appears to be part of a film or theatrical production set. Two men are the focus—one dressed entirely in black and another in a black-and-yellow dress with green gloves and a flower garland. Their conversation reveals underlying tension, with one wiping an eye during their interaction. The setting, including the ornate decoration, means this is most likely a staged performance taking place in a luxurious set rather than an outdoor location.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 97,
+        "total_tokens": 2851
+      }
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "analyse_action": "In the scene, three men are sitting around a small, round table laughing together and enjoying drinks in a bar or restaurant setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 27,
+        "total_tokens": 2781
+      }
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "analyse_action": "The scene takes place in a western-themed saloon with three men seated around a table. The men appear to be having a conversation and possibly a business discussion, with one leaning forward earnestly toward the others while holding papers and a cigar. \n\nThe older man in the blue suit seems particularly focused on reading through documents, which suggests this could be related to some kind of planning or investigation. The younger men in cowboy attire—one in a brown jacket and hat, another in a gray shirt with brown vest—remain engaged and attentive, indicating this discussion matters to them.\n\nThroughout the exchange, one man speaks while the others listen, maintaining an air of concentration and seriousness about whatever they're discussing. The presence of drinks, newspapers, and their formal-dressed gathering with cowboy attire suggests this could be a planning meeting, recruitment discussion, or some important conversation related to their shared objectives in this western town setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 181,
+        "total_tokens": 2935
+      }
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "analyse_action": "In the scene, three men are gathered around a circular table in a bar, deeply engaged in conversation and discussion. The setting creates an atmosphere of serious planning and coordination, with several newspapers spread out on the table serving as reference materials for their discussion. \n\nDuring the conversation, the man wearing the cowboy hat on the right side of the table appears particularly intent on directing the interaction, moving his gaze and gestures toward the second man seated beside the woman. This suggests he's attempting to steer the conversation or emphasize certain points in their discussion about whatever matters they're reviewing from the papers in front of them.\n\nThe scene clearly depicts a moment of strategic planning or information gathering among the group. The presence of newspapers, the serious expressions, and their focused body language all point to them analyzing documents—likely some kind of plans, reports, or important information related to their purpose. The cowboy-hatted man's effort to lead the discussion indicates there may be some hierarchy or differing approaches to decision-making within the group.\n\nAt one point, the scene shows one of the men (possibly the suited individual) standing—it's not clear if he's part of that same indoor gathering. However, the primary action is focused on the three men seated at the bar, working through whatever critical information they've laid out in front of them.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 263,
+        "total_tokens": 3017
+      }
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "analyse_action": "The scene shows three men seated at a table in what appears to be a western-style bar or saloon. \n\nThe setting creates a tense, anticipatory atmosphere as the exchange unfolds. The man in the suit is positioned like an interviewer or investigator, engrossed in reading a newspaper while holding a glass. His body language is careful and deliberate, suggesting he aims to extract information or provoke a confession through his questioning.\n\nThe two men across from him—one in a military uniform with his cap placed on his lap, wearing a red bandana around his neck, and the cowboy dressed in a period-appropriate outfit—display very contrasting reactions. While one folds his arms and listens with a guarded expression, the other, in the military-style outfit, repeatedly smiles and reacts in an unexpectedly cordial manner to the questions being asked.\n\nThe bar remains dimly lit throughout, with reflections visible on shelves and bottles in the background, which contributes to the intimate yet watchful setting. The men maintain their positions at the table, with newspapers strewn across it and small glasses of liquid placed in front of them, as they move through this tense informational exchange.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 230,
+        "total_tokens": 2984
+      }
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1305,
+      "analyse_action": "In the scene, a tense cowboy standoff is taking place inside a Western saloon. Two men are seated at a green table around a newspaper and glasses of liquor - Clint Eastwood sits on the left in a black cowboy hat, brown vest, and white shirt, while another man in a blue suit with a white shirt and blue tie sits opposite him, smoking a cigar.\n\nThe atmosphere is charged with anticipation as the man in the vest suddenly stands and leaves the table. Eastwood follows suit, rising to his feet in a physically imposing manner. Eastwood glances over his shoulder as he moves, acknowledges the others with a steady, serious look, and heads back toward some stairs.\n\nThe two men who remain seated continue watching with concern, their body language conveying worry. The woman at the table turns toward them with a wide, frightened expression as Eastwood silhouettes at the stairwell entrance. There's a silent communication occurring between Eastwood and the woman at the table as Eastwood makes his way down the stairs, leaving the man in the blue suit looking up with concern.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 218,
+        "total_tokens": 2972
+      }
+    },
+    {
+      "intervalle_index": 87,
+      "intervalle_debut": 1305,
+      "intervalle_fin": 1320,
+      "analyse_action": "The scene shows two cowboys engaged in a brief, casual conversation in the bar's interior. The man in the brown jacket asks a question, and the man in the black cowboy hat responds to him. The exchange between them is concise and seems to conclude on a friendly note, as their expressions soften and they both break into warm smiles at the end. It's a straightforward social interaction typical of Western film interactions - two cowboys having quick words together in the lively setting of an old Western saloon or bar.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 104,
+        "total_tokens": 2858
+      }
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 1320,
+      "intervalle_fin": 1335,
+      "analyse_action": "The scene shows a Western bar room where Clint Eastwood's character, dressed in frontier western attire, engages in a brief conversation with a woman wearing an cowgirl outfit. During their exchange, the woman suddenly clutches Clint's arm and warns him about the arrival of another cowboy, prompting an urgent response from him.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 64,
+        "total_tokens": 2818
+      }
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 1335,
+      "intervalle_fin": 1350,
+      "analyse_action": "The scene depicts an exaggerated romantic comedy moment between two individuals. A man dressed in a classic cowboy style is standing prominently in what appears to be an upscale old-fashioned western saloon with ornate decor, including white pillars with gold accents, red curtains, a bar area with shelves of liquor, a chandelier, and a portrait of a cowboy.\n\nThe woman in the dark brown riding outfit with the black hat pounces on him with a playful, flirtatious energy. She wraps an arm around him and pulls him down in an exaggerated swooning motion, propping herself against him. He ends up sitting on a white pillar with a gold stripe and brown top while she gazes up at him with mock adoration, pressing her cheek against his chest.\n\nTheir movements and expressions suggest this is an intentionally over-the-top performance style typical of romantic comedy or parody westerns, where the interaction is staged with dramatic flair rather than realism. The setting with its chandelier, portrait of a cowboy, and bar with shelves of bottles reinforces the Western theme mixed with period glamour.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 214,
+        "total_tokens": 2968
+      }
+    },
+    {
+      "intervalle_index": 90,
+      "intervalle_debut": 1350,
+      "intervalle_fin": 1365,
+      "analyse_action": "It's a tense standoff scene. A man and a woman are in a standoff at a grand staircase, facing each other with intensity. The woman appears in the foreground wearing a black hat with blonde hair, while a man in a brown vest and cowboy hat stands at the top of the stairs in a confrontational stance.\n\nThe confrontation escalates rapidly when the woman breaks into a run, moving swiftly past the man as he remains at the top of the stairs. The setting is an opulent, richly decorated hall with white walls, gold accents, and ornate furnishings including a table with a green tablecloth and a chandelier.\n\nAmid this tense situation, a man with short brown hair wearing a white shirt, a black tie, a brown leather vest, and a black cowboy hat is sternly yelling at the woman. His mouth is open in an angry expression as he raises his hands to emphasize his frustration. He runs off down the staircase as the woman angrily pulls him up and keeps him from running away the other direction.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 208,
+        "total_tokens": 2962
+      }
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 1365,
+      "intervalle_fin": 1380,
+      "analyse_action": "In the scene, Clint Eastwood's character is engaged in a tense confrontation with a crouching woman dressed in brown and black attire with a red scarf. \n\nA sudden altercation breaks out. The man fires his gun at the woman, then turns to look behind him as if reacting to another threat or situation emerging. He draws his hand back in a ready position, indicating a high-stress, defensive stance.\n\nThe two characters are positioned in what appears to be a richly decorated Western-themed interior with dining tables and chairs. The red curtains provide a vibrant backdrop to the intense standoff unfolding in this beautifully appointed room.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 125,
+        "total_tokens": 2879
+      }
+    }
+  ]
+}

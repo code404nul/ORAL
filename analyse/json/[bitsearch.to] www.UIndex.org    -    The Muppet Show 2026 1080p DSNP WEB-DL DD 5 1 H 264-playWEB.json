@@ -1,0 +1,4398 @@
+{
+  "movie_id": "[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB",
+  "movie_path": "E:\\film_oral\\The Muppet Show (2026)\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB.mkv",
+  "subtitle_path": "E:\\film_oral\\The Muppet Show (2026)\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB.en.srt",
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 121,
+  "dossier_videos": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB",
+  "date_traitement": "2026-02-20T12:51:14.533974",
+  "stats_extraction": {
+    "total": 121,
+    "reussis": 121,
+    "echecs": 0,
+    "timeouts": 0,
+    "gpu_errors": 0,
+    "cpu_fallbacks": 0
+  },
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": "﻿1",
+          "start": 49.174,
+          "end": 50.175,
+          "text": "Mmm."
+        },
+        {
+          "index": 2,
+          "start": 51.51,
+          "end": 56.348,
+          "text": "Mmm. Hmm."
+        },
+        {
+          "index": 3,
+          "start": 57.724,
+          "end": 58.725,
+          "text": "-Oh. -What?"
+        },
+        {
+          "index": 4,
+          "start": 58.809,
+          "end": 59.81,
+          "text": "-Rowlf? -What?"
+        },
+        {
+          "index": 5,
+          "start": 59.893,
+          "end": 62.437,
+          "text": "Have you been playing this whole time?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 6,
+          "start": 63.188,
+          "end": 64.332,
+          "text": "Well, what did you think it was?"
+        },
+        {
+          "index": 7,
+          "start": 64.356,
+          "end": 66.483,
+          "text": "Some kinda sentimental montage in your head?"
+        },
+        {
+          "index": 8,
+          "start": 66.567,
+          "end": 68.193,
+          "text": "We're doing the show again, frog."
+        },
+        {
+          "index": 9,
+          "start": 68.277,
+          "end": 69.528,
+          "text": "Oh, that's right. Uh..."
+        },
+        {
+          "index": 10,
+          "start": 69.611,
+          "end": 71.363,
+          "text": "Scooter, it's time."
+        },
+        {
+          "index": 11,
+          "start": 71.446,
+          "end": 72.614,
+          "text": "You got it, boss."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 12,
+          "start": 75.325,
+          "end": 78.203,
+          "text": "Sabrina Carpenter. Thirty seconds to curtain, Ms. Carpenter."
+        },
+        {
+          "index": 13,
+          "start": 78.912,
+          "end": 80.163,
+          "text": "Ms. Carpenter?"
+        },
+        {
+          "index": 14,
+          "start": 80.247,
+          "end": 81.331,
+          "text": "Thank you, Scooter."
+        },
+        {
+          "index": 15,
+          "start": 81.832,
+          "end": 85.752,
+          "text": "Oh, my God. It's you. I love your outfit."
+        },
+        {
+          "index": 16,
+          "start": 85.836,
+          "end": 88.297,
+          "text": "So do I. You're gonna have to change."
+        },
+        {
+          "index": 17,
+          "start": 88.38,
+          "end": 89.673,
+          "text": "Yes, ma'am."
+        },
+        {
+          "index": 18,
+          "start": 89.756,
+          "end": 90.799,
+          "text": "Is that my wig?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 19,
+          "start": 92.05,
+          "end": 94.511,
+          "text": "I don't wear wigs. This is my real hair."
+        },
+        {
+          "index": 20,
+          "start": 94.595,
+          "end": 96.888,
+          "text": "Oh. Yeah. Same."
+        },
+        {
+          "index": 21,
+          "start": 96.972,
+          "end": 98.741,
+          "text": "-No, I... And I know that. -No, I know you know."
+        },
+        {
+          "index": 22,
+          "start": 98.765,
+          "end": 100.058,
+          "text": "-Great. -Okay."
+        },
+        {
+          "index": 23,
+          "start": 103.145,
+          "end": 108.692,
+          "text": "It's <i>The Muppet Show</i> with our very special guest star, Sabrina Carpenter."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 24,
+          "start": 121.997,
+          "end": 126.084,
+          "text": "<i>♪ It's time to play the music It's time to light the lights ♪</i>"
+        },
+        {
+          "index": 25,
+          "start": 126.168,
+          "end": 129.212,
+          "text": "<i>♪ It's time to meet the Muppets On The Muppet Show tonight ♪</i>"
+        },
+        {
+          "index": 26,
+          "start": 130.339,
+          "end": 134.426,
+          "text": "<i>♪ It's time to put on makeup It's time to dress up right ♪</i>"
+        },
+        {
+          "index": 27,
+          "start": 134.509,
+          "end": 137.679,
+          "text": "<i>♪ It's time to raise the curtain On The Muppet Show tonight ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 28,
+          "start": 138.263,
+          "end": 140.265,
+          "text": "<i>♪ Why do we always come here? ♪</i>"
+        },
+        {
+          "index": 29,
+          "start": 140.349,
+          "end": 142.351,
+          "text": "<i>♪ I guess we'll never know ♪</i>"
+        },
+        {
+          "index": 30,
+          "start": 142.434,
+          "end": 144.436,
+          "text": "<i>♪ It's like a kind of torture ♪</i>"
+        },
+        {
+          "index": 31,
+          "start": 144.519,
+          "end": 145.854,
+          "text": "♪ <i>To have to watch the show ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 32,
+          "start": 152.194,
+          "end": 154.196,
+          "text": "<i>♪ But now let's get things started ♪</i>"
+        },
+        {
+          "index": 33,
+          "start": 154.279,
+          "end": 156.239,
+          "text": "<i>♪ Why don't you get things started? ♪</i>"
+        },
+        {
+          "index": 34,
+          "start": 156.323,
+          "end": 158.158,
+          "text": "<i>♪ It's time to get things started ♪</i>"
+        },
+        {
+          "index": 35,
+          "start": 158.241,
+          "end": 162.412,
+          "text": "<i>♪ On the most sensational, inspirational Celebrational, Muppetational ♪</i>"
+        },
+        {
+          "index": 36,
+          "start": 162.496,
+          "end": 169.169,
+          "text": "<i>♪ This is what we call The Muppet Show ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 37,
+          "start": 176.385,
+          "end": 179.805,
+          "text": "Thank you. Thank you. Uh, thank you."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 38,
+          "start": 180.472,
+          "end": 182.933,
+          "text": "Hi-ho, and welcome to <i>The Muppet Show,</i> everybody."
+        },
+        {
+          "index": 39,
+          "start": 184.518,
+          "end": 189.147,
+          "text": "{\\an8}You know, we are so excited to be back on the very stage where it all started,"
+        },
+        {
+          "index": 40,
+          "start": 189.231,
+          "end": 190.857,
+          "text": "{\\an8}and then ended, and then,"
+        },
+        {
+          "index": 41,
+          "start": 190.941,
+          "end": 193.985,
+          "text": "{\\an8}is maybe starting again depending on how tonight goes."
+        },
+        {
+          "index": 42,
+          "start": 194.069,
+          "end": 197.072,
+          "text": "Hmph. I can't believe they're doing the old show again."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 43,
+          "start": 197.155,
+          "end": 198.407,
+          "text": "Well, if it ain't broke."
+        },
+        {
+          "index": 44,
+          "start": 198.49,
+          "end": 201.326,
+          "text": "No, they are broke. That's why they're doing it."
+        },
+        {
+          "index": 45,
+          "start": 203.412,
+          "end": 205.038,
+          "text": "Okay. Now to kick us off,"
+        },
+        {
+          "index": 46,
+          "start": 205.122,
+          "end": 206.706,
+          "text": "it's our very special guest,"
+        },
+        {
+          "index": 47,
+          "start": 206.79,
+          "end": 210.293,
+          "text": "a sensational singer-songwriter and global superstar,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 48,
+          "start": 210.377,
+          "end": 215.215,
+          "text": "the one and only, Sabrina Carpenter. Yay!"
+        },
+        {
+          "index": 49,
+          "start": 217.634,
+          "end": 220.929,
+          "text": "Ugh. Quiet. Hooligans."
+        },
+        {
+          "index": 50,
+          "start": 221.012,
+          "end": 222.139,
+          "text": "Do it. Do it. Toss."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 51,
+          "start": 226.143,
+          "end": 227.811,
+          "text": "Stop, or you'll be removed."
+        },
+        {
+          "index": 52,
+          "start": 229.438,
+          "end": 230.939,
+          "text": "Don't worry, Sam. I got it."
+        },
+        {
+          "index": 53,
+          "start": 238.655,
+          "end": 242.826,
+          "text": "<i>♪ You said your phone was broken Just forgot to charge it ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 54,
+          "start": 242.909,
+          "end": 246.621,
+          "text": "<i>♪ Whole outfit you're wearing God, I hope it's ironic ♪</i>"
+        },
+        {
+          "index": 55,
+          "start": 246.705,
+          "end": 250.417,
+          "text": "<i>♪ Did you just say you're finished? Didn't know we started ♪</i>"
+        },
+        {
+          "index": 56,
+          "start": 250.5,
+          "end": 254.796,
+          "text": "<i>♪ It's all just so familiar, baby What do you call it? ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 57,
+          "start": 256.089,
+          "end": 257.299,
+          "text": "<i>-♪ Stupid ♪ -♪ Cluck-cluck ♪</i>"
+        },
+        {
+          "index": 58,
+          "start": 258.049,
+          "end": 261.344,
+          "text": "<i>-♪ Or is it slow? ♪ -♪ Cluck ♪</i>"
+        },
+        {
+          "index": 59,
+          "start": 261.928,
+          "end": 265.515,
+          "text": "<i>-♪ Maybe it's useless? ♪ -♪ Cluck-cluck ♪</i>"
+        },
+        {
+          "index": 60,
+          "start": 266.266,
+          "end": 267.577,
+          "text": "<i>♪ But there's a cuter word for it ♪</i>"
+        },
+        {
+          "index": 61,
+          "start": 267.601,
+          "end": 269.06,
+          "text": "-<i>♪ Cluck? ♪ -♪ I know ♪</i>"
+        },
+        {
+          "index": 62,
+          "start": 269.978,
+          "end": 273.607,
+          "text": "<i>♪ Manchild ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 63,
+          "start": 273.69,
+          "end": 277.319,
+          "text": "<i>♪ Why you always come a-running to me? ♪</i>"
+        },
+        {
+          "index": 64,
+          "start": 277.819,
+          "end": 281.239,
+          "text": "<i>♪ It's my life ♪</i>"
+        },
+        {
+          "index": 65,
+          "start": 281.323,
+          "end": 284.951,
+          "text": "<i>♪ Won't you let an innocent woman be ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 66,
+          "start": 285.452,
+          "end": 287.454,
+          "text": "<i>♪ Never heard of self-care ♪</i>"
+        },
+        {
+          "index": 67,
+          "start": 289.331,
+          "end": 291.5,
+          "text": "<i>♪ Half your brain just ain't there ♪</i>"
+        },
+        {
+          "index": 68,
+          "start": 292.167,
+          "end": 293.084,
+          "text": "Whoa."
+        },
+        {
+          "index": 69,
+          "start": 293.168,
+          "end": 296.922,
+          "text": "<i>♪ Manchild ♪</i>"
+        },
+        {
+          "index": 70,
+          "start": 297.005,
+          "end": 301.009,
+          "text": "<i>♪ Why you always come a-running Taking all my ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 71,
+          "start": 301.092,
+          "end": 304.763,
+          "text": "<i>♪ Oh, I like my boys playing hard to get ♪</i>"
+        },
+        {
+          "index": 72,
+          "start": 304.846,
+          "end": 308.767,
+          "text": "<i>♪ And I like my men all incompetent ♪</i>"
+        },
+        {
+          "index": 73,
+          "start": 308.85,
+          "end": 312.521,
+          "text": "<i>♪ And I swear they choose me I'm not choosing them ♪</i>"
+        },
+        {
+          "index": 74,
+          "start": 312.604,
+          "end": 316.608,
+          "text": "<i>-♪ Amen, hey, men ♪ -♪ Cluck-cluck ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 75,
+          "start": 316.691,
+          "end": 320.737,
+          "text": "<i>♪ Manchild ♪</i>"
+        },
+        {
+          "index": 76,
+          "start": 320.821,
+          "end": 323.365,
+          "text": "<i>♪ Why you always come a-running to me? ♪</i>"
+        },
+        {
+          "index": 77,
+          "start": 324.533,
+          "end": 328.119,
+          "text": "<i>♪ It's my life ♪</i>"
+        },
+        {
+          "index": 78,
+          "start": 328.203,
+          "end": 333.083,
+          "text": "<i>♪ Won't you let an innocent woman be? Oh ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 79,
+          "start": 333.166,
+          "end": 336.169,
+          "text": "<i>♪ And I like my boys Playing hard to get ♪</i>"
+        },
+        {
+          "index": 80,
+          "start": 336.253,
+          "end": 338.755,
+          "text": "<i>♪ And I like my men all incompetent ♪</i>"
+        },
+        {
+          "index": 81,
+          "start": 344.636,
+          "end": 347.514,
+          "text": "<i>♪ Amen, hey, men ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 82,
+          "start": 359.234,
+          "end": 360.694,
+          "text": "-Great talent! -Whoo-hoo!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 83,
+          "start": 360.777,
+          "end": 363.196,
+          "text": "-Love it! More! More! -Yes, it's great."
+        },
+        {
+          "index": 84,
+          "start": 363.28,
+          "end": 366.157,
+          "text": "Wow, what an exciting opening, Uncle Kermit."
+        },
+        {
+          "index": 85,
+          "start": 366.241,
+          "end": 369.244,
+          "text": "Great job, Chickens. Again, I'm sorry about the fan."
+        },
+        {
+          "index": 86,
+          "start": 369.327,
+          "end": 370.954,
+          "text": "I'm mortified."
+        },
+        {
+          "index": 87,
+          "start": 371.037,
+          "end": 373.623,
+          "text": "-Scooter. Come here, come here, come here. -Uh. Yeah."
+        },
+        {
+          "index": 88,
+          "start": 373.707,
+          "end": 375.208,
+          "text": "Why is it so crowded back here?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 89,
+          "start": 375.292,
+          "end": 377.711,
+          "text": "Well, uh, these are all the acts in the show, boss."
+        },
+        {
+          "index": 90,
+          "start": 377.794,
+          "end": 380.38,
+          "text": "What? Are you sure I approved all of that?"
+        },
+        {
+          "index": 91,
+          "start": 380.463,
+          "end": 381.464,
+          "text": "And more."
+        },
+        {
+          "index": 92,
+          "start": 383.341,
+          "end": 385.594,
+          "text": "Let's go already. We gotta get on stage."
+        },
+        {
+          "index": 93,
+          "start": 385.677,
+          "end": 387.864,
+          "text": "Remember how excited everyone was to be on our first show back?"
+        },
+        {
+          "index": 94,
+          "start": 387.888,
+          "end": 390.765,
+          "text": "And you kept telling them that their acts sounded fun."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 95,
+          "start": 390.849,
+          "end": 393.935,
+          "text": "Scooter, everybody knows that \"that sounds fun\""
+        },
+        {
+          "index": 96,
+          "start": 394.019,
+          "end": 396.229,
+          "text": "is just a polite way of saying no."
+        },
+        {
+          "index": 97,
+          "start": 396.313,
+          "end": 398.064,
+          "text": "Yeah, that feels pretty indirect, boss."
+        },
+        {
+          "index": 98,
+          "start": 398.148,
+          "end": 399.983,
+          "text": "-Hmm. -You know, this could be a problem."
+        },
+        {
+          "index": 99,
+          "start": 400.066,
+          "end": 403.695,
+          "text": "Okay. Well, the next person who talks to me is definitely getting cut."
+        },
+        {
+          "index": 100,
+          "start": 403.778,
+          "end": 405.906,
+          "text": "-Mm-hmm. -Oh, Kermie."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 101,
+          "start": 408.658,
+          "end": 410.66,
+          "text": "-Excuse moi, talent walking. -Hmm?"
+        },
+        {
+          "index": 102,
+          "start": 410.744,
+          "end": 412.287,
+          "text": "Oh. Oh, where's the talent?"
+        },
+        {
+          "index": 103,
+          "start": 412.787,
+          "end": 415.457,
+          "text": "-Me. Me. I'm the t... -Who?"
+        },
+        {
+          "index": 104,
+          "start": 416.207,
+          "end": 420.211,
+          "text": "Oh, Kermit. Isn't it wonderful being back in the theater again,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 105,
+          "start": 420.295,
+          "end": 422.839,
+          "text": "giving the people what they truly want?"
+        },
+        {
+          "index": 106,
+          "start": 423.34,
+          "end": 425.091,
+          "text": "Moi."
+        },
+        {
+          "index": 107,
+          "start": 425.592,
+          "end": 426.676,
+          "text": "Good luck."
+        },
+        {
+          "index": 108,
+          "start": 427.218,
+          "end": 428.219,
+          "text": "Scooter?"
+        },
+        {
+          "index": 109,
+          "start": 428.303,
+          "end": 433.85,
+          "text": "Yeah. Um, Piggy, uh, you know... the show is, uh, it's running kinda long,"
+        },
+        {
+          "index": 110,
+          "start": 434.351,
+          "end": 436.978,
+          "text": "and, uh, you know, it looks like you're doing two acts."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 111,
+          "start": 437.062,
+          "end": 439.397,
+          "text": "Exactly. Now about the musical number,"
+        },
+        {
+          "index": 112,
+          "start": 439.481,
+          "end": 443.276,
+          "text": "when I emerge from the giant seashell dressed as Aphrodite,"
+        },
+        {
+          "index": 113,
+          "start": 443.36,
+          "end": 446.738,
+          "text": "let's make sure our 300 dancing Spartans know to exit the Trojan horse"
+        },
+        {
+          "index": 114,
+          "start": 446.821,
+          "end": 452.869,
+          "text": "precisely on my high B flat."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0030_time_450.00s-465.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 115,
+          "start": 452.952,
+          "end": 455.705,
+          "text": "Right. Uh, just thinking out loud here,"
+        },
+        {
+          "index": 116,
+          "start": 455.789,
+          "end": 460.418,
+          "text": "but, uh, you think maybe all that historical accuracy might upstage you?"
+        },
+        {
+          "index": 117,
+          "start": 460.502,
+          "end": 462.879,
+          "text": "No."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 118,
+          "start": 465.423,
+          "end": 466.549,
+          "text": "Kermit. Kermit."
+        },
+        {
+          "index": 119,
+          "start": 466.633,
+          "end": 468.944,
+          "text": "I couldn't help but overhear because I was spying on you guys."
+        },
+        {
+          "index": 120,
+          "start": 468.968,
+          "end": 471.137,
+          "text": "If you need, I can help you trim some of the show."
+        },
+        {
+          "index": 121,
+          "start": 471.221,
+          "end": 473.39,
+          "text": "Oh, really? Uh, thanks. What were you thinking?"
+        },
+        {
+          "index": 122,
+          "start": 473.89,
+          "end": 475.183,
+          "text": "How about a little off the top?"
+        },
+        {
+          "index": 123,
+          "start": 476.101,
+          "end": 477.519,
+          "text": "Ah?"
+        },
+        {
+          "index": 124,
+          "start": 477.602,
+          "end": 480.647,
+          "text": "I don't know if prop comedy is gonna help us right now, Fozzie."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 125,
+          "start": 480.73,
+          "end": 484.317,
+          "text": "Oh. Guess I'll have to put on my thinking cap then."
+        },
+        {
+          "index": 126,
+          "start": 484.401,
+          "end": 485.985,
+          "text": "Hmm?"
+        },
+        {
+          "index": 127,
+          "start": 486.069,
+          "end": 488.53,
+          "text": "-Ah? Like it? Huh? Huh? Huh? -Uh, you know, sure."
+        },
+        {
+          "index": 128,
+          "start": 488.613,
+          "end": 491.093,
+          "text": "If it can help you think of how to cut some acts from the show."
+        },
+        {
+          "index": 129,
+          "start": 491.658,
+          "end": 493.827,
+          "text": "You got it, pal. Got an idea already."
+        },
+        {
+          "index": 130,
+          "start": 493.91,
+          "end": 494.911,
+          "text": "Oh."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 131,
+          "start": 495.829,
+          "end": 497.497,
+          "text": "Hey, Seth Rogen."
+        },
+        {
+          "index": 132,
+          "start": 497.58,
+          "end": 499.916,
+          "text": "Oh, hey, Fozzie. This is incredible."
+        },
+        {
+          "index": 133,
+          "start": 499.999,
+          "end": 502.21,
+          "text": "It's always been a dream of mine to be here."
+        },
+        {
+          "index": 134,
+          "start": 502.293,
+          "end": 504.671,
+          "text": "Ooh. Got any other dreams?"
+        },
+        {
+          "index": 135,
+          "start": 504.754,
+          "end": 506.715,
+          "text": "Uh-oh. What does that mean?"
+        },
+        {
+          "index": 136,
+          "start": 506.798,
+          "end": 508.842,
+          "text": "You're cut."
+        },
+        {
+          "index": 137,
+          "start": 508.925,
+          "end": 511.094,
+          "text": "What? Cut? I'm the executive producer."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 138,
+          "start": 511.177,
+          "end": 514.055,
+          "text": "Then you can let yourself know we're going in a different direction."
+        },
+        {
+          "index": 139,
+          "start": 518.184,
+          "end": 522.897,
+          "text": "Our next act is the world's most fearless daredevil/performance artist,"
+        },
+        {
+          "index": 140,
+          "start": 522.981,
+          "end": 527.61,
+          "text": "who's been shocking audiences and insurance companies for years."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 141,
+          "start": 527.694,
+          "end": 529.946,
+          "text": "Let's hear it for The Great Gonzo."
+        },
+        {
+          "index": 142,
+          "start": 532.866,
+          "end": 534.993,
+          "text": "Thank you. Thank you so much."
+        },
+        {
+          "index": 143,
+          "start": 535.076,
+          "end": 538.246,
+          "text": "Behold, it is I, The Great Gonzo."
+        },
+        {
+          "index": 144,
+          "start": 538.329,
+          "end": 542.0,
+          "text": "And tonight I will attempt this deadly obstacle course"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 145,
+          "start": 542.083,
+          "end": 544.419,
+          "text": "on self-driving roller skates."
+        },
+        {
+          "index": 146,
+          "start": 544.502,
+          "end": 547.589,
+          "text": "All the while reciting every Academy Award winner"
+        },
+        {
+          "index": 147,
+          "start": 547.672,
+          "end": 551.134,
+          "text": "in the category of Best Supporting Actress."
+        },
+        {
+          "index": 148,
+          "start": 553.261,
+          "end": 557.223,
+          "text": "Whoo-hoo. Ignite the rings."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 149,
+          "start": 559.434,
+          "end": 562.645,
+          "text": "Release the blades."
+        },
+        {
+          "index": 150,
+          "start": 563.229,
+          "end": 566.441,
+          "text": "And it starts right now."
+        },
+        {
+          "index": 151,
+          "start": 566.524,
+          "end": 569.611,
+          "text": "Goldie Hawn, Lupita Nyong'o, Shelly Winters."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 152,
+          "start": 573.114,
+          "end": 574.949,
+          "text": "Whoo. That was painful."
+        },
+        {
+          "index": 153,
+          "start": 575.033,
+          "end": 576.409,
+          "text": "For him or for us?"
+        },
+        {
+          "index": 154,
+          "start": 576.493,
+          "end": 580.08,
+          "text": "Both."
+        },
+        {
+          "index": 155,
+          "start": 580.997,
+          "end": 583.792,
+          "text": "<i>And now, \"Pigs in Wigs.\"</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 585,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0039_time_585.00s-600.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 156,
+          "start": 594.427,
+          "end": 598.389,
+          "text": "Duchess Piggerton of County Mayo Upon Sandwich."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "timecode_debut_extrait": 600,
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0040_time_600.00s-615.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 157,
+          "start": 602.31,
+          "end": 607.19,
+          "text": "Lord Scrappleton and... his plus one."
+        },
+        {
+          "index": 158,
+          "start": 607.273,
+          "end": 608.858,
+          "text": "What?"
+        },
+        {
+          "index": 159,
+          "start": 608.942,
+          "end": 609.943,
+          "text": "Darling."
+        },
+        {
+          "index": 160,
+          "start": 611.402,
+          "end": 615.573,
+          "text": "What a dazzling soiree, <i>mon chéri</i>."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 630,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0041_time_615.00s-630.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 161,
+          "start": 615.657,
+          "end": 619.494,
+          "text": "Oh. Hello. How are you? Lovely to see you."
+        },
+        {
+          "index": 162,
+          "start": 619.577,
+          "end": 622.205,
+          "text": "She has some nerve showing her face around here."
+        },
+        {
+          "index": 163,
+          "start": 622.705,
+          "end": 627.001,
+          "text": "What a chic ensemble. Love whatever that is."
+        },
+        {
+          "index": 164,
+          "start": 627.085,
+          "end": 629.796,
+          "text": "Apparently the dress code was optional tonight."
+        },
+        {
+          "index": 165,
+          "start": 629.879,
+          "end": 633.466,
+          "text": "Darling, you're so devilish."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "timecode_debut_extrait": 630,
+      "timecode_fin_extrait": 645,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0042_time_630.00s-645.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 166,
+          "start": 634.717,
+          "end": 640.473,
+          "text": "Say, could you be a dear and fetch us a beverage? Pretty please?"
+        },
+        {
+          "index": 167,
+          "start": 640.557,
+          "end": 644.936,
+          "text": "Oh. Of course, my crumpet. I'll be right back."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "timecode_debut_extrait": 645,
+      "timecode_fin_extrait": 660,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0043_time_645.00s-660.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 168,
+          "start": 645.019,
+          "end": 647.772,
+          "text": "Mmm."
+        },
+        {
+          "index": 169,
+          "start": 653.653,
+          "end": 657.115,
+          "text": "Oh, lover. The coast is clear."
+        },
+        {
+          "index": 170,
+          "start": 657.198,
+          "end": 658.491,
+          "text": "-Psst, Piggy. -Hmm?"
+        },
+        {
+          "index": 171,
+          "start": 658.575,
+          "end": 661.327,
+          "text": "I forgot to tell you, we had to recast your lover."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "timecode_debut_extrait": 660,
+      "timecode_fin_extrait": 675,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0044_time_660.00s-675.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 172,
+          "start": 661.411,
+          "end": 663.872,
+          "text": "W-What? Wi-With who?"
+        },
+        {
+          "index": 173,
+          "start": 664.581,
+          "end": 665.707,
+          "text": "<i>Hola.</i>"
+        },
+        {
+          "index": 174,
+          "start": 666.791,
+          "end": 668.96,
+          "text": "You've gotta be kidding me."
+        },
+        {
+          "index": 175,
+          "start": 669.043,
+          "end": 670.879,
+          "text": "Hey, I'm just as confused as you are, okay?"
+        },
+        {
+          "index": 176,
+          "start": 670.962,
+          "end": 673.631,
+          "text": "All right. Let's just get on with it."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "timecode_debut_extrait": 675,
+      "timecode_fin_extrait": 690,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0045_time_675.00s-690.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 177,
+          "start": 675.55,
+          "end": 678.928,
+          "text": "Oh, lover. How I've missed your chiseled chin,"
+        },
+        {
+          "index": 178,
+          "start": 679.012,
+          "end": 685.56,
+          "text": "your luscious, thick head of raven hair, and your big strong arms."
+        },
+        {
+          "index": 179,
+          "start": 685.643,
+          "end": 686.936,
+          "text": "You talking to me?"
+        },
+        {
+          "index": 180,
+          "start": 687.02,
+          "end": 688.021,
+          "text": "Yep."
+        },
+        {
+          "index": 181,
+          "start": 688.104,
+          "end": 690.44,
+          "text": "There you are, my darling. Uh..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "timecode_debut_extrait": 690,
+      "timecode_fin_extrait": 705,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0046_time_690.00s-705.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 182,
+          "start": 691.149,
+          "end": 693.526,
+          "text": "And who are you, kind sir?"
+        },
+        {
+          "index": 183,
+          "start": 693.61,
+          "end": 694.694,
+          "text": "I don't know."
+        },
+        {
+          "index": 184,
+          "start": 694.777,
+          "end": 698.531,
+          "text": "I was back there schmoozing when someone put me in this weird jacket"
+        },
+        {
+          "index": 185,
+          "start": 698.615,
+          "end": 700.158,
+          "text": "and threw me on the stage, okay?"
+        },
+        {
+          "index": 186,
+          "start": 700.241,
+          "end": 702.869,
+          "text": "Oh, no. I've been caught."
+        },
+        {
+          "index": 187,
+          "start": 702.952,
+          "end": 706.289,
+          "text": "And now my public lover and my secret lover,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "timecode_debut_extrait": 705,
+      "timecode_fin_extrait": 720,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0047_time_705.00s-720.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 188,
+          "start": 706.372,
+          "end": 708.541,
+          "text": "whomst I am tornt betweenst,"
+        },
+        {
+          "index": 189,
+          "start": 708.625,
+          "end": 713.963,
+          "text": "must duel to the death because they're so madly in love with <i>moi</i>."
+        },
+        {
+          "index": 190,
+          "start": 714.047,
+          "end": 718.301,
+          "text": "Uh, yes. Uh, about that, I should tell you, I... I've met someone."
+        },
+        {
+          "index": 191,
+          "start": 719.093,
+          "end": 720.553,
+          "text": "What? When?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "timecode_debut_extrait": 720,
+      "timecode_fin_extrait": 735,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0048_time_720.00s-735.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 192,
+          "start": 720.637,
+          "end": 723.056,
+          "text": "Just now by the carving station."
+        },
+        {
+          "index": 193,
+          "start": 723.139,
+          "end": 726.809,
+          "text": "Oh, I know it's only been a few seconds but it's true love."
+        },
+        {
+          "index": 194,
+          "start": 726.893,
+          "end": 729.395,
+          "text": "What is happening here?"
+        },
+        {
+          "index": 195,
+          "start": 729.479,
+          "end": 732.148,
+          "text": "You heard him, okay. It's love. Good for you, my friend."
+        },
+        {
+          "index": 196,
+          "start": 732.649,
+          "end": 735.818,
+          "text": "Oh, thank you. We're oh, so happy."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "timecode_debut_extrait": 735,
+      "timecode_fin_extrait": 750,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0049_time_735.00s-750.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 197,
+          "start": 735.902,
+          "end": 740.198,
+          "text": "Ugh, forget it. I'm getting out of here while I still have my dignity."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "timecode_debut_extrait": 750,
+      "timecode_fin_extrait": 765,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0050_time_750.00s-765.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 198,
+          "start": 750.208,
+          "end": 752.21,
+          "text": "Your projectiles, sirs."
+        },
+        {
+          "index": 199,
+          "start": 752.293,
+          "end": 754.379,
+          "text": "Uh, too late. Sketch is over."
+        },
+        {
+          "index": 200,
+          "start": 754.462,
+          "end": 758.007,
+          "text": "Actually, why don't you leave 'em. There's a lot more of this show left."
+        },
+        {
+          "index": 201,
+          "start": 758.091,
+          "end": 761.302,
+          "text": "Unfortunately."
+        },
+        {
+          "index": 202,
+          "start": 761.386,
+          "end": 766.015,
+          "text": "Okay. Feather's glued. Don't hug anyone till it is dry. Next."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "timecode_debut_extrait": 765,
+      "timecode_fin_extrait": 780,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0051_time_765.00s-780.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 203,
+          "start": 766.516,
+          "end": 767.558,
+          "text": "Okay, everybody."
+        },
+        {
+          "index": 204,
+          "start": 767.642,
+          "end": 773.606,
+          "text": "All of your names are on this run of show in a highly specific order."
+        },
+        {
+          "index": 205,
+          "start": 773.69,
+          "end": 777.193,
+          "text": "And as long as I have this list in my hands,"
+        },
+        {
+          "index": 206,
+          "start": 777.277,
+          "end": 779.404,
+          "text": "the show will go off without a hitch."
+        },
+        {
+          "index": 207,
+          "start": 779.487,
+          "end": 782.115,
+          "text": "Olympia Dukakis. Mo'Nique."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "timecode_debut_extrait": 780,
+      "timecode_fin_extrait": 795,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0052_time_780.00s-795.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 208,
+          "start": 785.118,
+          "end": 787.412,
+          "text": "Feels like you kinda tempted fate with that one."
+        },
+        {
+          "index": 209,
+          "start": 790.707,
+          "end": 792.417,
+          "text": "Huh. Okay. Uh, thank you very much."
+        },
+        {
+          "index": 210,
+          "start": 792.5,
+          "end": 796.587,
+          "text": "Now, for our next musical number, let's take it to the streets."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "timecode_debut_extrait": 795,
+      "timecode_fin_extrait": 810,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0053_time_795.00s-810.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 211,
+          "start": 796.671,
+          "end": 800.508,
+          "text": "The rat infested streets. Ooh."
+        },
+        {
+          "index": 212,
+          "start": 808.224,
+          "end": 809.851,
+          "text": "<i>♪ I've been tryna call ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "timecode_debut_extrait": 810,
+      "timecode_fin_extrait": 825,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0054_time_810.00s-825.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 213,
+          "start": 810.893,
+          "end": 813.271,
+          "text": "-<i>♪ I've been on my own for long enough ♪</i> -Almost got it."
+        },
+        {
+          "index": 214,
+          "start": 813.855,
+          "end": 818.067,
+          "text": "<i>♪ Maybe you can show me how to love Maybe ♪</i>"
+        },
+        {
+          "index": 215,
+          "start": 818.151,
+          "end": 819.152,
+          "text": "Oh."
+        },
+        {
+          "index": 216,
+          "start": 819.235,
+          "end": 821.154,
+          "text": "<i>♪ I'm goin' through withdrawals ♪</i>"
+        },
+        {
+          "index": 217,
+          "start": 822.196,
+          "end": 824.532,
+          "text": "<i>♪ You don't even have to do too much ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "timecode_debut_extrait": 825,
+      "timecode_fin_extrait": 840,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0055_time_825.00s-840.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 218,
+          "start": 825.033,
+          "end": 829.37,
+          "text": "<i>♪ You can turn me on With just a touch, baby ♪</i>"
+        },
+        {
+          "index": 219,
+          "start": 830.413,
+          "end": 834.208,
+          "text": "<i>♪ I look around and Sin City's cold and empty ♪</i>"
+        },
+        {
+          "index": 220,
+          "start": 834.292,
+          "end": 837.211,
+          "text": "<i>-♪ No one's around to judge me ♪ -♪ Oh, oh ♪</i>"
+        },
+        {
+          "index": 221,
+          "start": 837.295,
+          "end": 841.632,
+          "text": "<i>♪ I can't see clearly when you're gone ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "timecode_debut_extrait": 840,
+      "timecode_fin_extrait": 855,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0056_time_840.00s-855.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 222,
+          "start": 841.716,
+          "end": 847.638,
+          "text": "<i>♪ I said, ooh, I'm blinded by the lights ♪</i>"
+        },
+        {
+          "index": 223,
+          "start": 847.722,
+          "end": 851.893,
+          "text": "<i>♪ No, I can't sleep Until I feel your touch ♪</i>"
+        },
+        {
+          "index": 224,
+          "start": 852.769,
+          "end": 858.816,
+          "text": "<i>♪ I said, ooh, I'm drowning in the night ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "timecode_debut_extrait": 855,
+      "timecode_fin_extrait": 870,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0057_time_855.00s-870.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 225,
+          "start": 858.9,
+          "end": 862.945,
+          "text": "<i>♪ Oh, when I'm like this You're the one I trust ♪</i>"
+        },
+        {
+          "index": 226,
+          "start": 863.029,
+          "end": 864.864,
+          "text": "<i>♪ Hey! Hey! Hey! ♪</i>"
+        },
+        {
+          "index": 227,
+          "start": 864.947,
+          "end": 869.285,
+          "text": "Ah!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "timecode_debut_extrait": 870,
+      "timecode_fin_extrait": 885,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0058_time_870.00s-885.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 228,
+          "start": 870.119,
+          "end": 875.541,
+          "text": "<i>♪ I said, ooh, I'm blinded by the lights ♪</i>"
+        },
+        {
+          "index": 229,
+          "start": 876.084,
+          "end": 880.129,
+          "text": "<i>♪ No, I can't sleep Until I feel your touch ♪</i>"
+        },
+        {
+          "index": 230,
+          "start": 880.213,
+          "end": 882.173,
+          "text": "<i>♪ Hey! Hey! Hey! Hey! ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "timecode_debut_extrait": 885,
+      "timecode_fin_extrait": 900,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0059_time_885.00s-900.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 231,
+          "start": 891.265,
+          "end": 893.768,
+          "text": "-Get the bird! Get the bird! -I got the bird."
+        },
+        {
+          "index": 232,
+          "start": 893.851,
+          "end": 895.269,
+          "text": "Did you see..."
+        },
+        {
+          "index": 233,
+          "start": 899.357,
+          "end": 903.236,
+          "text": "Sorry! On vocal rest, can't talk. On vocal rest."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "timecode_debut_extrait": 900,
+      "timecode_fin_extrait": 915,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0060_time_900.00s-915.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 234,
+          "start": 903.319,
+          "end": 905.488,
+          "text": "-Scooter, what is going on here? -Hmm?"
+        },
+        {
+          "index": 235,
+          "start": 905.571,
+          "end": 907.156,
+          "text": "Am I on next or what?"
+        },
+        {
+          "index": 236,
+          "start": 907.24,
+          "end": 911.285,
+          "text": "Oh, uh. Kermit had to cut your number, Miss Piggy. Didn't he tell you?"
+        },
+        {
+          "index": 237,
+          "start": 911.369,
+          "end": 913.996,
+          "text": "What? Does it look like he told me?"
+        },
+        {
+          "index": 238,
+          "start": 914.08,
+          "end": 918.417,
+          "text": "You think I'm wearing these gladiator sandals for my freaking health?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "timecode_debut_extrait": 915,
+      "timecode_fin_extrait": 930,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0061_time_915.00s-930.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 239,
+          "start": 918.501,
+          "end": 920.128,
+          "text": "Uh... Probably not."
+        },
+        {
+          "index": 240,
+          "start": 920.211,
+          "end": 924.507,
+          "text": "-Kermit! -Whoa!"
+        },
+        {
+          "index": 241,
+          "start": 925.508,
+          "end": 927.76,
+          "text": "Yep. Good to be back."
+        },
+        {
+          "index": 242,
+          "start": 929.137,
+          "end": 930.972,
+          "text": "So sorry about the mishap earlier."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "timecode_debut_extrait": 930,
+      "timecode_fin_extrait": 945,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0062_time_930.00s-945.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 243,
+          "start": 931.055,
+          "end": 932.932,
+          "text": "We're still working out a few kinks."
+        },
+        {
+          "index": 244,
+          "start": 933.015,
+          "end": 935.309,
+          "text": "Oh, that's all right. I love a kink."
+        },
+        {
+          "index": 245,
+          "start": 935.393,
+          "end": 937.436,
+          "text": "Uh-huh. Hmm."
+        },
+        {
+          "index": 246,
+          "start": 937.52,
+          "end": 939.313,
+          "text": "Well, uh, I just wanted to say"
+        },
+        {
+          "index": 247,
+          "start": 939.397,
+          "end": 941.816,
+          "text": "we're really honored to have you here with us tonight."
+        },
+        {
+          "index": 248,
+          "start": 941.899,
+          "end": 942.9,
+          "text": "Are you kidding me?"
+        },
+        {
+          "index": 249,
+          "start": 942.984,
+          "end": 944.735,
+          "text": "-Being here is a dream come true. -Ah."
+        },
+        {
+          "index": 250,
+          "start": 944.819,
+          "end": 946.922,
+          "text": "I mean, I could've been anywhere else in the world tonight."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "timecode_debut_extrait": 945,
+      "timecode_fin_extrait": 960,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0063_time_945.00s-960.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 251,
+          "start": 946.946,
+          "end": 948.99,
+          "text": "-I... I turned down a Pulitzer prize... -Mmm. Mmm."
+        },
+        {
+          "index": 252,
+          "start": 949.073,
+          "end": 953.035,
+          "text": "And getting my face on the new quarter, and a second date with..."
+        },
+        {
+          "index": 253,
+          "start": 953.953,
+          "end": 955.413,
+          "text": "-Really? -Mm-hmm."
+        },
+        {
+          "index": 254,
+          "start": 956.122,
+          "end": 957.54,
+          "text": "-He's single? -No."
+        },
+        {
+          "index": 255,
+          "start": 957.623,
+          "end": 958.791,
+          "text": "Oh."
+        },
+        {
+          "index": 256,
+          "start": 958.875,
+          "end": 960.96,
+          "text": "But this is the only place I want to be right now."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "timecode_debut_extrait": 960,
+      "timecode_fin_extrait": 975,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0064_time_960.00s-975.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 257,
+          "start": 961.043,
+          "end": 962.587,
+          "text": "And nothing could..."
+        },
+        {
+          "index": 258,
+          "start": 963.171,
+          "end": 964.797,
+          "text": "Open the door, frog!"
+        },
+        {
+          "index": 259,
+          "start": 964.881,
+          "end": 966.132,
+          "text": "-Sorr... -She knows, boss!"
+        },
+        {
+          "index": 260,
+          "start": 966.215,
+          "end": 967.415,
+          "text": "I think someone's at the door."
+        },
+        {
+          "index": 261,
+          "start": 969.385,
+          "end": 971.679,
+          "text": "Uh, ooh, that?"
+        },
+        {
+          "index": 262,
+          "start": 971.762,
+          "end": 974.724,
+          "text": "No, no, no, no. That's, uh... That's just an old theater, you know?"
+        },
+        {
+          "index": 263,
+          "start": 974.807,
+          "end": 977.727,
+          "text": "-Uh, these pipes can be pretty noisy. -Hi-yah!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "timecode_debut_extrait": 975,
+      "timecode_fin_extrait": 990,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0065_time_975.00s-990.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 264,
+          "start": 979.562,
+          "end": 980.563,
+          "text": "Where is he?"
+        },
+        {
+          "index": 265,
+          "start": 981.063,
+          "end": 983.107,
+          "text": "Wow, the door wasn't even locked."
+        },
+        {
+          "index": 266,
+          "start": 983.191,
+          "end": 985.568,
+          "text": "I know you're here, frog."
+        },
+        {
+          "index": 267,
+          "start": 985.651,
+          "end": 986.861,
+          "text": "Miss Piggy?"
+        },
+        {
+          "index": 268,
+          "start": 986.944,
+          "end": 989.906,
+          "text": "I'm sure you get this all the time, I actually meant to tell you earlier,"
+        },
+        {
+          "index": 269,
+          "start": 989.989,
+          "end": 991.49,
+          "text": "but you're my idol."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "timecode_debut_extrait": 990,
+      "timecode_fin_extrait": 1005,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0066_time_990.00s-1005.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 270,
+          "start": 991.574,
+          "end": 993.117,
+          "text": "-Aw. -Yeah,"
+        },
+        {
+          "index": 271,
+          "start": 993.201,
+          "end": 996.454,
+          "text": "I basically, like, modeled my whole look and style after you."
+        },
+        {
+          "index": 272,
+          "start": 996.537,
+          "end": 1000.958,
+          "text": "Oh, trust me. My attorneys and I have taken notice, and we will be in touch."
+        },
+        {
+          "index": 273,
+          "start": 1001.042,
+          "end": 1005.838,
+          "text": "Aw. And I'll make sure my attorneys respond... to your attorneys."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "timecode_debut_extrait": 1005,
+      "timecode_fin_extrait": 1020,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0067_time_1005.00s-1020.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 274,
+          "start": 1007.423,
+          "end": 1008.633,
+          "text": "Did you hear that?"
+        },
+        {
+          "index": 275,
+          "start": 1008.716,
+          "end": 1012.553,
+          "text": "Oh, Kermit said the theater is really old and the pipes are a little noisy."
+        },
+        {
+          "index": 276,
+          "start": 1012.637,
+          "end": 1015.514,
+          "text": "Oh, really? What else did Kermit say?"
+        },
+        {
+          "index": 277,
+          "start": 1015.598,
+          "end": 1017.975,
+          "text": "Did he mention he cut my big number from the show?"
+        },
+        {
+          "index": 278,
+          "start": 1018.059,
+          "end": 1020.061,
+          "text": "What? No. That-That's crazy."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "timecode_debut_extrait": 1020,
+      "timecode_fin_extrait": 1035,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0068_time_1020.00s-1035.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 279,
+          "start": 1020.144,
+          "end": 1022.23,
+          "text": "There's no <i>Muppet Show</i> without a Miss Piggy number."
+        },
+        {
+          "index": 280,
+          "start": 1022.313,
+          "end": 1023.648,
+          "text": "Exactly."
+        },
+        {
+          "index": 281,
+          "start": 1023.731,
+          "end": 1025.358,
+          "text": "If only he were around to hear that."
+        },
+        {
+          "index": 282,
+          "start": 1025.441,
+          "end": 1027.235,
+          "text": "Door's heavy."
+        },
+        {
+          "index": 283,
+          "start": 1027.318,
+          "end": 1028.694,
+          "text": "I am so sorry."
+        },
+        {
+          "index": 284,
+          "start": 1028.778,
+          "end": 1032.114,
+          "text": "You don't deserve to lose one second of screen time. You are an icon."
+        },
+        {
+          "index": 285,
+          "start": 1032.198,
+          "end": 1035.66,
+          "text": "Oh, stop it. You're too sweet. Go on."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1035,
+      "timecode_fin_extrait": 1050,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0069_time_1035.00s-1050.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 286,
+          "start": 1035.743,
+          "end": 1040.122,
+          "text": "Oh, I mean, I grew up watching you, my parents grew up watching you,"
+        },
+        {
+          "index": 287,
+          "start": 1040.206,
+          "end": 1043.334,
+          "text": "-their parents grew up watching... -Okay! Meet-and-greet over."
+        },
+        {
+          "index": 288,
+          "start": 1043.417,
+          "end": 1045.169,
+          "text": "If Kermit ever shows his face,"
+        },
+        {
+          "index": 289,
+          "start": 1045.253,
+          "end": 1049.34,
+          "text": "you let him know. I am going to sing in this show!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "timecode_debut_extrait": 1050,
+      "timecode_fin_extrait": 1065,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0070_time_1050.00s-1065.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 290,
+          "start": 1050.216,
+          "end": 1053.719,
+          "text": "-Help me. -Oh, no! That's right."
+        },
+        {
+          "index": 291,
+          "start": 1053.803,
+          "end": 1055.846,
+          "text": "Are you okay? Sorry."
+        },
+        {
+          "index": 292,
+          "start": 1055.93,
+          "end": 1057.074,
+          "text": "I forgot you were down there."
+        },
+        {
+          "index": 293,
+          "start": 1057.098,
+          "end": 1059.475,
+          "text": "Hey, I'm fine, Sabrina. Yeah, I..."
+        },
+        {
+          "index": 294,
+          "start": 1059.559,
+          "end": 1061.036,
+          "text": "It happens a lot more than you'd think."
+        },
+        {
+          "index": 295,
+          "start": 1061.06,
+          "end": 1062.687,
+          "text": "Uh, Scooter!"
+        },
+        {
+          "index": 296,
+          "start": 1062.77,
+          "end": 1065.398,
+          "text": "You know the drill. Let's get another door in here."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "timecode_debut_extrait": 1065,
+      "timecode_fin_extrait": 1080,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0071_time_1065.00s-1080.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 297,
+          "start": 1065.481,
+          "end": 1066.607,
+          "text": "Already on it, boss."
+        },
+        {
+          "index": 298,
+          "start": 1068.693,
+          "end": 1071.153,
+          "text": "I've actually met Kermit a few times."
+        },
+        {
+          "index": 299,
+          "start": 1071.237,
+          "end": 1072.738,
+          "text": "He's actually really lovely."
+        },
+        {
+          "index": 300,
+          "start": 1073.239,
+          "end": 1075.449,
+          "text": "I mean, I've met a ton of celebrities."
+        },
+        {
+          "index": 301,
+          "start": 1075.533,
+          "end": 1076.742,
+          "text": "A lot of jerks."
+        },
+        {
+          "index": 302,
+          "start": 1076.826,
+          "end": 1079.161,
+          "text": "But not Kermit."
+        },
+        {
+          "index": 303,
+          "start": 1079.662,
+          "end": 1083.624,
+          "text": "-Was I a big jerk? -I mean, yes. But not that big."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "timecode_debut_extrait": 1080,
+      "timecode_fin_extrait": 1095,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0072_time_1080.00s-1095.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 304,
+          "start": 1083.708,
+          "end": 1085.501,
+          "text": "Mmm?"
+        },
+        {
+          "index": 305,
+          "start": 1085.585,
+          "end": 1086.865,
+          "text": "-Oh, I'm Maya by the way. -Mmm?"
+        },
+        {
+          "index": 306,
+          "start": 1092.758,
+          "end": 1093.759,
+          "text": "Mm-hmm."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "timecode_debut_extrait": 1095,
+      "timecode_fin_extrait": 1110,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0073_time_1095.00s-1110.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 307,
+          "start": 1101.767,
+          "end": 1104.979,
+          "text": "Welcome to Muppet Labs, where the future is being made today."
+        },
+        {
+          "index": 308,
+          "start": 1105.062,
+          "end": 1109.817,
+          "text": "I'm Dr. Bunsen Honeydew, and this is my fearless assistant Beaker."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "timecode_debut_extrait": 1110,
+      "timecode_fin_extrait": 1125,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0074_time_1110.00s-1125.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 309,
+          "start": 1113.362,
+          "end": 1114.905,
+          "text": "Hmm."
+        },
+        {
+          "index": 310,
+          "start": 1114.989,
+          "end": 1118.242,
+          "text": "Today we tackle a modern epidemic: distraction."
+        },
+        {
+          "index": 311,
+          "start": 1118.326,
+          "end": 1119.619,
+          "text": "These days,"
+        },
+        {
+          "index": 312,
+          "start": 1119.702,
+          "end": 1122.204,
+          "text": "everything is competing for your eyeballs."
+        },
+        {
+          "index": 313,
+          "start": 1122.288,
+          "end": 1125.541,
+          "text": "Mobile devices, televisions and the day-to-day terrors"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "timecode_debut_extrait": 1125,
+      "timecode_fin_extrait": 1140,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0075_time_1125.00s-1140.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 314,
+          "start": 1125.625,
+          "end": 1129.295,
+          "text": "that consume our brains when we aren't looking at the first two."
+        },
+        {
+          "index": 315,
+          "start": 1129.378,
+          "end": 1132.173,
+          "text": "Well, now you can focus effortlessly"
+        },
+        {
+          "index": 316,
+          "start": 1132.256,
+          "end": 1135.676,
+          "text": "thanks to my latest invention, \"Focus Pocus.\""
+        },
+        {
+          "index": 317,
+          "start": 1135.76,
+          "end": 1138.471,
+          "text": "One drop of this serum per eye,"
+        },
+        {
+          "index": 318,
+          "start": 1138.554,
+          "end": 1141.432,
+          "text": "and your attention span will multiply exponentially."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "timecode_debut_extrait": 1140,
+      "timecode_fin_extrait": 1155,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0076_time_1140.00s-1155.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 319,
+          "start": 1143.059,
+          "end": 1145.77,
+          "text": "Beaker, come back, come back. Sit on the stool."
+        },
+        {
+          "index": 320,
+          "start": 1146.312,
+          "end": 1148.147,
+          "text": "-Huh? -That's it. Good. Now,"
+        },
+        {
+          "index": 321,
+          "start": 1148.23,
+          "end": 1150.316,
+          "text": "I'm gonna just lower the stool gently."
+        },
+        {
+          "index": 322,
+          "start": 1150.941,
+          "end": 1153.069,
+          "text": "There, there we go."
+        },
+        {
+          "index": 323,
+          "start": 1153.152,
+          "end": 1155.321,
+          "text": "A little teeny drop. This won't hurt me at all."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "timecode_debut_extrait": 1155,
+      "timecode_fin_extrait": 1170,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0077_time_1155.00s-1170.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 324,
+          "start": 1156.614,
+          "end": 1158.866,
+          "text": "There we go. There, there, there."
+        },
+        {
+          "index": 325,
+          "start": 1160.785,
+          "end": 1164.497,
+          "text": "Oh, dear. That might've been just a teensy bit too strong."
+        },
+        {
+          "index": 326,
+          "start": 1169.251,
+          "end": 1171.587,
+          "text": "Hmm."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "timecode_debut_extrait": 1170,
+      "timecode_fin_extrait": 1185,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0078_time_1170.00s-1185.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 327,
+          "start": 1171.671,
+          "end": 1173.798,
+          "text": "Maybe I neglected to dilute it properly."
+        },
+        {
+          "index": 328,
+          "start": 1173.881,
+          "end": 1175.601,
+          "text": "Now, let's see. Where did I write that down?"
+        },
+        {
+          "index": 329,
+          "start": 1180.388,
+          "end": 1182.765,
+          "text": "Oh, this is interesting."
+        },
+        {
+          "index": 330,
+          "start": 1182.848,
+          "end": 1184.642,
+          "text": "{\\an8}This one's marked urgent."
+        },
+        {
+          "index": 331,
+          "start": 1184.725,
+          "end": 1185.976,
+          "text": "{\\an8}Hmm. I'm sure that's fine."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1185,
+      "timecode_fin_extrait": 1200,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0079_time_1185.00s-1200.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 332,
+          "start": 1190.606,
+          "end": 1194.235,
+          "text": "Oh, Beaker. Beaker. Beaker, stop it. Stop it!"
+        },
+        {
+          "index": 333,
+          "start": 1195.069,
+          "end": 1197.321,
+          "text": "-It's so inspiring. -Inspiring."
+        },
+        {
+          "index": 334,
+          "start": 1197.405,
+          "end": 1199.949,
+          "text": "-I feel alive, you know? -Mm-hmm."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "timecode_debut_extrait": 1200,
+      "timecode_fin_extrait": 1215,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0080_time_1200.00s-1215.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 335,
+          "start": 1200.032,
+          "end": 1201.909,
+          "text": "I mean, as a performer..."
+        },
+        {
+          "index": 336,
+          "start": 1203.661,
+          "end": 1206.831,
+          "text": "Maya? Maya? M-Maya!"
+        },
+        {
+          "index": 337,
+          "start": 1206.914,
+          "end": 1208.374,
+          "text": "Scooter,"
+        },
+        {
+          "index": 338,
+          "start": 1208.457,
+          "end": 1210.418,
+          "text": "my mommy's in the audience tonight."
+        },
+        {
+          "index": 339,
+          "start": 1210.501,
+          "end": 1212.503,
+          "text": "When do I go on? Scooter! Scooter!"
+        },
+        {
+          "index": 340,
+          "start": 1212.586,
+          "end": 1215.798,
+          "text": "I will be ready as soon as I do my..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "timecode_debut_extrait": 1215,
+      "timecode_fin_extrait": 1230,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0081_time_1215.00s-1230.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 341,
+          "start": 1215.881,
+          "end": 1219.468,
+          "text": "Oh, wow. Like, are you okay, Kermit?"
+        },
+        {
+          "index": 342,
+          "start": 1219.552,
+          "end": 1220.928,
+          "text": "Yeah."
+        },
+        {
+          "index": 343,
+          "start": 1221.011,
+          "end": 1222.888,
+          "text": "'Cause you seem a little wound up."
+        },
+        {
+          "index": 344,
+          "start": 1222.972,
+          "end": 1226.392,
+          "text": "Like, like your chakras are, like, totally out of whack."
+        },
+        {
+          "index": 345,
+          "start": 1226.475,
+          "end": 1229.478,
+          "text": "You're right. I guess I am a little stressed."
+        },
+        {
+          "index": 346,
+          "start": 1229.562,
+          "end": 1231.188,
+          "text": "Thanks for checking in."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "timecode_debut_extrait": 1230,
+      "timecode_fin_extrait": 1245,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0082_time_1230.00s-1245.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 347,
+          "start": 1231.272,
+          "end": 1237.319,
+          "text": "Oh, for sure. 'Cause you know, like, I can read auras, and yours is, like, bad."
+        },
+        {
+          "index": 348,
+          "start": 1239.071,
+          "end": 1240.99,
+          "text": "-It is? -Oh, totally."
+        },
+        {
+          "index": 349,
+          "start": 1241.073,
+          "end": 1243.242,
+          "text": "And we're breathing in..."
+        },
+        {
+          "index": 350,
+          "start": 1243.325,
+          "end": 1246.829,
+          "text": "Oh, is that what we're doing? Uh..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "timecode_debut_extrait": 1245,
+      "timecode_fin_extrait": 1260,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0083_time_1245.00s-1260.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 351,
+          "start": 1249.54,
+          "end": 1252.209,
+          "text": "Janice? Can I breathe out yet?"
+        },
+        {
+          "index": 352,
+          "start": 1252.793,
+          "end": 1255.629,
+          "text": "Hmm? Janice?"
+        },
+        {
+          "index": 353,
+          "start": 1256.547,
+          "end": 1260.384,
+          "text": "Oh. Huh. Actually, that did make me feel a bit better."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "timecode_debut_extrait": 1260,
+      "timecode_fin_extrait": 1275,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0084_time_1260.00s-1275.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 354,
+          "start": 1260.468,
+          "end": 1262.595,
+          "text": "Almost like things are gonna be okay."
+        },
+        {
+          "index": 355,
+          "start": 1263.387,
+          "end": 1265.473,
+          "text": "{\\an8}This is a <i>Muppet Newsflash</i>."
+        },
+        {
+          "index": 356,
+          "start": 1265.556,
+          "end": 1268.934,
+          "text": "{\\an8}Emmy award-winning comedy icon Maya Rudolph is dead."
+        },
+        {
+          "index": 357,
+          "start": 1271.437,
+          "end": 1272.438,
+          "text": "Huh?"
+        },
+        {
+          "index": 358,
+          "start": 1273.105,
+          "end": 1276.609,
+          "text": "I saw the light, and there was a river of souls."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "timecode_debut_extrait": 1275,
+      "timecode_fin_extrait": 1290,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0085_time_1275.00s-1290.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 359,
+          "start": 1276.692,
+          "end": 1279.028,
+          "text": "And a... a wall of flames."
+        },
+        {
+          "index": 360,
+          "start": 1279.111,
+          "end": 1281.655,
+          "text": "And I was doing award show patter for a man in red."
+        },
+        {
+          "index": 361,
+          "start": 1283.449,
+          "end": 1286.911,
+          "text": "That sounds like heaven. Right?"
+        },
+        {
+          "index": 362,
+          "start": 1286.994,
+          "end": 1291.248,
+          "text": "{\\an8}Correction. Emmy award-winning comedy icon Maya Rudolph is alive."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1305,
+      "timecode_debut_extrait": 1290,
+      "timecode_fin_extrait": 1305,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0086_time_1290.00s-1305.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 363,
+          "start": 1291.332,
+          "end": 1294.543,
+          "text": "{\\an8}A thing fell on her and made her be alive again."
+        },
+        {
+          "index": 364,
+          "start": 1294.627,
+          "end": 1297.004,
+          "text": "{\\an8}Stay tuned for more hard-hitting news."
+        },
+        {
+          "index": 365,
+          "start": 1297.087,
+          "end": 1300.216,
+          "text": "{\\an8}Whoopi Goldberg, Anjelica Huston, Cloris Leachman."
+        },
+        {
+          "index": 366,
+          "start": 1300.299,
+          "end": 1302.843,
+          "text": "Hmm. Show's not half bad."
+        },
+        {
+          "index": 367,
+          "start": 1302.927,
+          "end": 1304.595,
+          "text": "Yeah, it's all bad."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 87,
+      "intervalle_debut": 1305,
+      "intervalle_fin": 1320,
+      "timecode_debut_extrait": 1305,
+      "timecode_fin_extrait": 1320,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0087_time_1305.00s-1320.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 368,
+          "start": 1311.393,
+          "end": 1318.359,
+          "text": "<i>♪ La, la La, la ♪</i>"
+        },
+        {
+          "index": 369,
+          "start": 1318.859,
+          "end": 1323.322,
+          "text": "<i>♪ Baby, when I met you There was peace unknown ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 1320,
+      "intervalle_fin": 1335,
+      "timecode_debut_extrait": 1320,
+      "timecode_fin_extrait": 1335,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0088_time_1320.00s-1335.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 370,
+          "start": 1323.405,
+          "end": 1327.952,
+          "text": "<i>♪ I set out to get you With a fine tooth comb ♪</i>"
+        },
+        {
+          "index": 371,
+          "start": 1328.035,
+          "end": 1330.663,
+          "text": "<i>♪ I was soft inside ♪</i>"
+        },
+        {
+          "index": 372,
+          "start": 1330.746,
+          "end": 1335.709,
+          "text": "<i>-♪ There was something going on ♪ -♪ Ooh ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 1335,
+      "intervalle_fin": 1350,
+      "timecode_debut_extrait": 1335,
+      "timecode_fin_extrait": 1350,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0089_time_1335.00s-1350.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 373,
+          "start": 1335.793,
+          "end": 1337.962,
+          "text": "<i>♪ La, la ♪</i>"
+        },
+        {
+          "index": 374,
+          "start": 1338.045,
+          "end": 1343.843,
+          "text": "<i>♪ You do something to me That I can't explain ♪</i>"
+        },
+        {
+          "index": 375,
+          "start": 1343.926,
+          "end": 1347.471,
+          "text": "<i>♪ Hold me closer and I feel no pain ♪</i>"
+        },
+        {
+          "index": 376,
+          "start": 1347.555,
+          "end": 1350.307,
+          "text": "<i>♪ Every beat of my heart ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 90,
+      "intervalle_debut": 1350,
+      "intervalle_fin": 1365,
+      "timecode_debut_extrait": 1350,
+      "timecode_fin_extrait": 1365,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0090_time_1350.00s-1365.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 377,
+          "start": 1350.391,
+          "end": 1355.437,
+          "text": "<i>-♪ We got something going on ♪ -♪ Ooh ♪</i>"
+        },
+        {
+          "index": 378,
+          "start": 1355.521,
+          "end": 1357.147,
+          "text": "<i>♪ La, la ♪</i>"
+        },
+        {
+          "index": 379,
+          "start": 1357.231,
+          "end": 1359.525,
+          "text": "<i>♪ Islands in the stream ♪</i>"
+        },
+        {
+          "index": 380,
+          "start": 1359.608,
+          "end": 1361.61,
+          "text": "<i>♪ That is what we are ♪</i>"
+        },
+        {
+          "index": 381,
+          "start": 1361.694,
+          "end": 1366.532,
+          "text": "<i>♪ No one in between How can we be wrong? ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 1365,
+      "intervalle_fin": 1380,
+      "timecode_debut_extrait": 1365,
+      "timecode_fin_extrait": 1380,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0091_time_1365.00s-1380.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 382,
+          "start": 1366.615,
+          "end": 1369.285,
+          "text": "<i>♪ Sail away with me ♪</i>"
+        },
+        {
+          "index": 383,
+          "start": 1369.368,
+          "end": 1371.704,
+          "text": "<i>♪ To another world ♪</i>"
+        },
+        {
+          "index": 384,
+          "start": 1371.787,
+          "end": 1376.625,
+          "text": "-<i>♪ And we rely on each other, ah ha ♪</i> -You're not gonna cut me from the show."
+        },
+        {
+          "index": 385,
+          "start": 1376.709,
+          "end": 1381.046,
+          "text": "<i>♪ From one sailor to another, ah ha ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 92,
+      "intervalle_debut": 1380,
+      "intervalle_fin": 1395,
+      "timecode_debut_extrait": 1380,
+      "timecode_fin_extrait": 1395,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0092_time_1380.00s-1395.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 386,
+          "start": 1382.464,
+          "end": 1387.344,
+          "text": "<i>♪ I can't live without you If this boat was gone ♪</i>"
+        },
+        {
+          "index": 387,
+          "start": 1387.428,
+          "end": 1389.138,
+          "text": "<i>♪ Everything is nothing ♪</i>"
+        },
+        {
+          "index": 388,
+          "start": 1389.221,
+          "end": 1391.724,
+          "text": "<i>♪ If you've got no one ♪</i>"
+        },
+        {
+          "index": 389,
+          "start": 1391.807,
+          "end": 1397.98,
+          "text": "<i>♪ And you just row in the night Slowly losing sight of the real thing ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 93,
+      "intervalle_debut": 1395,
+      "intervalle_fin": 1410,
+      "timecode_debut_extrait": 1395,
+      "timecode_fin_extrait": 1410,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0093_time_1395.00s-1410.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 390,
+          "start": 1398.063,
+          "end": 1399.899,
+          "text": "<i>♪ The real thing ♪</i>"
+        },
+        {
+          "index": 391,
+          "start": 1408.782,
+          "end": 1413.871,
+          "text": "<i>♪ But that won't happen to us And we've got no doubt ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 94,
+      "intervalle_debut": 1410,
+      "intervalle_fin": 1425,
+      "timecode_debut_extrait": 1410,
+      "timecode_fin_extrait": 1425,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0094_time_1410.00s-1425.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 392,
+          "start": 1413.954,
+          "end": 1418.834,
+          "text": "<i>♪ Now you're in this boat And I am freaking out ♪</i>"
+        },
+        {
+          "index": 393,
+          "start": 1418.918,
+          "end": 1420.92,
+          "text": "<i>♪ And the message is clear ♪</i>"
+        },
+        {
+          "index": 394,
+          "start": 1421.003,
+          "end": 1424.673,
+          "text": "<i>♪ This could be the year For the real thing ♪</i>"
+        },
+        {
+          "index": 395,
+          "start": 1424.757,
+          "end": 1427.593,
+          "text": "<i>-♪ The real thing ♪ -♪ La, la ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 95,
+      "intervalle_debut": 1425,
+      "intervalle_fin": 1440,
+      "timecode_debut_extrait": 1425,
+      "timecode_fin_extrait": 1440,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0095_time_1425.00s-1440.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 396,
+          "start": 1427.676,
+          "end": 1430.012,
+          "text": "<i>-♪ Islands in the stream ♪ -♪ In the stream ♪</i>"
+        },
+        {
+          "index": 397,
+          "start": 1430.095,
+          "end": 1432.514,
+          "text": "<i>-♪ That is what we are ♪ -♪ Sail away, sail away ♪</i>"
+        },
+        {
+          "index": 398,
+          "start": 1432.598,
+          "end": 1434.475,
+          "text": "<i>♪ No one in between ♪</i>"
+        },
+        {
+          "index": 399,
+          "start": 1434.558,
+          "end": 1437.186,
+          "text": "<i>♪ How can we be wrong? ♪</i>"
+        },
+        {
+          "index": 400,
+          "start": 1437.269,
+          "end": 1439.897,
+          "text": "<i>-♪ Sail away with me ♪ -♪ Sail away ♪</i>"
+        },
+        {
+          "index": 401,
+          "start": 1439.98,
+          "end": 1442.358,
+          "text": "<i>♪ To another world ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 96,
+      "intervalle_debut": 1440,
+      "intervalle_fin": 1455,
+      "timecode_debut_extrait": 1440,
+      "timecode_fin_extrait": 1455,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0096_time_1440.00s-1455.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 402,
+          "start": 1442.441,
+          "end": 1447.196,
+          "text": "<i>-♪ And we rely on each other, ah ha ♪ -♪ Ah ha ♪</i>"
+        },
+        {
+          "index": 403,
+          "start": 1447.279,
+          "end": 1453.577,
+          "text": "<i>-♪ From one diva to another, ah ha ♪ -♪ Ah ha ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 97,
+      "intervalle_debut": 1455,
+      "intervalle_fin": 1470,
+      "timecode_debut_extrait": 1455,
+      "timecode_fin_extrait": 1470,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0097_time_1455.00s-1470.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 404,
+          "start": 1460.584,
+          "end": 1462.419,
+          "text": "Oh."
+        },
+        {
+          "index": 405,
+          "start": 1462.503,
+          "end": 1463.504,
+          "text": "-Hi. -Hmm?"
+        },
+        {
+          "index": 406,
+          "start": 1463.587,
+          "end": 1465.798,
+          "text": "I just have to say singing a duet with you"
+        },
+        {
+          "index": 407,
+          "start": 1465.881,
+          "end": 1467.967,
+          "text": "-has always been a dream of mine. -Mmm."
+        },
+        {
+          "index": 408,
+          "start": 1468.05,
+          "end": 1470.386,
+          "text": "And now I've done it, and I'm still so young."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 98,
+      "intervalle_debut": 1470,
+      "intervalle_fin": 1485,
+      "timecode_debut_extrait": 1470,
+      "timecode_fin_extrait": 1485,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0098_time_1470.00s-1485.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 409,
+          "start": 1470.97,
+          "end": 1474.89,
+          "text": "Yes! Just like me! I'm young. Very."
+        },
+        {
+          "index": 410,
+          "start": 1474.974,
+          "end": 1478.644,
+          "text": "Look at us, two young ingenues at the top of their game."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 99,
+      "intervalle_debut": 1485,
+      "intervalle_fin": 1500,
+      "timecode_debut_extrait": 1485,
+      "timecode_fin_extrait": 1500,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0099_time_1485.00s-1500.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 411,
+          "start": 1485.818,
+          "end": 1488.529,
+          "text": "Well, um... Does this mean we're... we're good then?"
+        },
+        {
+          "index": 412,
+          "start": 1488.612,
+          "end": 1491.073,
+          "text": "You're not gonna try to sue me for stealing your look?"
+        },
+        {
+          "index": 413,
+          "start": 1491.156,
+          "end": 1493.409,
+          "text": "It's called copyright infringement, sweetie."
+        },
+        {
+          "index": 414,
+          "start": 1493.492,
+          "end": 1495.995,
+          "text": "-And of course not! -Oh."
+        },
+        {
+          "index": 415,
+          "start": 1496.954,
+          "end": 1498.872,
+          "text": "That's really for the lawyers to decide."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 100,
+      "intervalle_debut": 1500,
+      "intervalle_fin": 1515,
+      "timecode_debut_extrait": 1500,
+      "timecode_fin_extrait": 1515,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0100_time_1500.00s-1515.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 416,
+          "start": 1501.333,
+          "end": 1503.085,
+          "text": "I'm trying to do the best I can."
+        },
+        {
+          "index": 417,
+          "start": 1504.044,
+          "end": 1506.422,
+          "text": "One of the acts. We're trying to be fair."
+        },
+        {
+          "index": 418,
+          "start": 1506.922,
+          "end": 1509.322,
+          "text": "-We're trying to be fair to everybody. -I know. No, I know."
+        },
+        {
+          "index": 419,
+          "start": 1509.383,
+          "end": 1511.301,
+          "text": "Okay, everybody, stop!"
+        },
+        {
+          "index": 420,
+          "start": 1511.385,
+          "end": 1515.764,
+          "text": "There is only time for one more act."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 101,
+      "intervalle_debut": 1515,
+      "intervalle_fin": 1530,
+      "timecode_debut_extrait": 1515,
+      "timecode_fin_extrait": 1530,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0101_time_1515.00s-1530.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 421,
+          "start": 1515.848,
+          "end": 1517.641,
+          "text": "-What? -One more?"
+        },
+        {
+          "index": 422,
+          "start": 1517.725,
+          "end": 1519.309,
+          "text": "-But which one, boss? -Hmm?"
+        },
+        {
+          "index": 423,
+          "start": 1519.393,
+          "end": 1521.311,
+          "text": "How are you gonna choose?"
+        },
+        {
+          "index": 424,
+          "start": 1521.395,
+          "end": 1523.647,
+          "text": "What's taking them so long?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 102,
+      "intervalle_debut": 1530,
+      "intervalle_fin": 1545,
+      "timecode_debut_extrait": 1530,
+      "timecode_fin_extrait": 1545,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0102_time_1530.00s-1545.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 425,
+          "start": 1530.529,
+          "end": 1533.449,
+          "text": "Look, do you trust me?"
+        },
+        {
+          "index": 426,
+          "start": 1533.532,
+          "end": 1538.912,
+          "text": "Well, of course we do, Kermit. I mean, maybe not this guy."
+        },
+        {
+          "index": 427,
+          "start": 1540.539,
+          "end": 1541.874,
+          "text": "I been burned before."
+        },
+        {
+          "index": 428,
+          "start": 1543.917,
+          "end": 1547.129,
+          "text": "Okay, uh... Give me a minute, okay?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 103,
+      "intervalle_debut": 1545,
+      "intervalle_fin": 1560,
+      "timecode_debut_extrait": 1545,
+      "timecode_fin_extrait": 1560,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0103_time_1545.00s-1560.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 429,
+          "start": 1547.212,
+          "end": 1549.315,
+          "text": "-Where you going? Wait... -Yeah. Excuse me. I'm sorry."
+        },
+        {
+          "index": 430,
+          "start": 1549.339,
+          "end": 1551.759,
+          "text": "-What... What's he gonna do? -Kermit?"
+        },
+        {
+          "index": 431,
+          "start": 1555.637,
+          "end": 1559.475,
+          "text": "Hey there, folks. Uh, how you all doing so far?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 104,
+      "intervalle_debut": 1560,
+      "intervalle_fin": 1575,
+      "timecode_debut_extrait": 1560,
+      "timecode_fin_extrait": 1575,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0104_time_1560.00s-1575.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 432,
+          "start": 1560.434,
+          "end": 1562.102,
+          "text": "Ooh. Um..."
+        },
+        {
+          "index": 433,
+          "start": 1562.186,
+          "end": 1566.273,
+          "text": "I can't say that the show has gone exactly the way we planned."
+        },
+        {
+          "index": 434,
+          "start": 1566.356,
+          "end": 1570.36,
+          "text": "Jamie Lee Curtis. Regina King!"
+        },
+        {
+          "index": 435,
+          "start": 1570.944,
+          "end": 1575.074,
+          "text": "Eh, the point is... maybe we're a little rusty."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 105,
+      "intervalle_debut": 1575,
+      "intervalle_fin": 1590,
+      "timecode_debut_extrait": 1575,
+      "timecode_fin_extrait": 1590,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0105_time_1575.00s-1590.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 436,
+          "start": 1575.157,
+          "end": 1578.786,
+          "text": "But, uh, but we promised to do a great show for you"
+        },
+        {
+          "index": 437,
+          "start": 1578.869,
+          "end": 1583.123,
+          "text": "and, uh... ...I hope that you at least enjoyed some of it."
+        },
+        {
+          "index": 438,
+          "start": 1588.462,
+          "end": 1590.13,
+          "text": "Now we're at the end"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 106,
+      "intervalle_debut": 1590,
+      "intervalle_fin": 1605,
+      "timecode_debut_extrait": 1590,
+      "timecode_fin_extrait": 1605,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0106_time_1590.00s-1605.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 439,
+          "start": 1590.214,
+          "end": 1594.259,
+          "text": "and you're all probably wondering what the final number is."
+        },
+        {
+          "index": 440,
+          "start": 1594.343,
+          "end": 1596.762,
+          "text": "I-In fact, I was supposed to come out here"
+        },
+        {
+          "index": 441,
+          "start": 1596.845,
+          "end": 1599.64,
+          "text": "and announce one of the acts waiting backstage."
+        },
+        {
+          "index": 442,
+          "start": 1600.808,
+          "end": 1607.022,
+          "text": "But, um... ...I'm sorry. Uh, I'm not gonna do that."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 107,
+      "intervalle_debut": 1605,
+      "intervalle_fin": 1620,
+      "timecode_debut_extrait": 1605,
+      "timecode_fin_extrait": 1620,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0107_time_1605.00s-1620.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 443,
+          "start": 1609.65,
+          "end": 1611.944,
+          "text": "See? Can't trust anyone."
+        },
+        {
+          "index": 444,
+          "start": 1612.528,
+          "end": 1613.654,
+          "text": "Mmm."
+        },
+        {
+          "index": 445,
+          "start": 1616.99,
+          "end": 1619.284,
+          "text": "<i>♪ Tonight ♪</i>"
+        },
+        {
+          "index": 446,
+          "start": 1619.368,
+          "end": 1625.249,
+          "text": "<i>♪ We're gonna have ourselves A real good time ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 108,
+      "intervalle_debut": 1620,
+      "intervalle_fin": 1635,
+      "timecode_debut_extrait": 1620,
+      "timecode_fin_extrait": 1635,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0108_time_1620.00s-1635.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 447,
+          "start": 1625.332,
+          "end": 1631.213,
+          "text": "<i>♪ I feel alive ♪</i>"
+        },
+        {
+          "index": 448,
+          "start": 1633.215,
+          "end": 1638.72,
+          "text": "<i>♪ And the world I'll turn it inside out ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 109,
+      "intervalle_debut": 1635,
+      "intervalle_fin": 1650,
+      "timecode_debut_extrait": 1635,
+      "timecode_fin_extrait": 1650,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0109_time_1635.00s-1650.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 449,
+          "start": 1638.804,
+          "end": 1640.097,
+          "text": "Yeah."
+        },
+        {
+          "index": 450,
+          "start": 1640.18,
+          "end": 1644.101,
+          "text": "<i>♪ I'm floating around in ecstasy ♪</i>"
+        },
+        {
+          "index": 451,
+          "start": 1644.184,
+          "end": 1645.561,
+          "text": "<i>♪ So don't... ♪</i>"
+        },
+        {
+          "index": 452,
+          "start": 1645.644,
+          "end": 1650.816,
+          "text": "<i>♪ Stop me now Don't stop me ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 110,
+      "intervalle_debut": 1650,
+      "intervalle_fin": 1665,
+      "timecode_debut_extrait": 1650,
+      "timecode_fin_extrait": 1665,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0110_time_1650.00s-1665.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 453,
+          "start": 1650.899,
+          "end": 1653.819,
+          "text": "<i>♪ 'Cause we're having a good time Having a good time ♪</i>"
+        },
+        {
+          "index": 454,
+          "start": 1653.902,
+          "end": 1657.781,
+          "text": "<i>♪ I'm a shooting star Leaping through the sky like a tiger ♪</i>"
+        },
+        {
+          "index": 455,
+          "start": 1657.865,
+          "end": 1661.493,
+          "text": "<i>♪ Defying the laws of gravity, whoo-hoo ♪</i>"
+        },
+        {
+          "index": 456,
+          "start": 1661.577,
+          "end": 1663.829,
+          "text": "<i>♪ I'm a racing car passing by ♪</i>"
+        },
+        {
+          "index": 457,
+          "start": 1663.912,
+          "end": 1665.956,
+          "text": "<i>♪ Like Lady Godiva ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 111,
+      "intervalle_debut": 1665,
+      "intervalle_fin": 1680,
+      "timecode_debut_extrait": 1665,
+      "timecode_fin_extrait": 1680,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0111_time_1665.00s-1680.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 458,
+          "start": 1666.039,
+          "end": 1672.296,
+          "text": "<i>♪ I'm gonna go, go, go 'Cause I don't wanna stop at all ♪</i>"
+        },
+        {
+          "index": 459,
+          "start": 1672.379,
+          "end": 1673.839,
+          "text": "<i>♪ Don't stop me Don't stop me ♪</i>"
+        },
+        {
+          "index": 460,
+          "start": 1673.922,
+          "end": 1675.299,
+          "text": "<i>♪ Ah, ah, ah ♪</i>"
+        },
+        {
+          "index": 461,
+          "start": 1675.382,
+          "end": 1676.842,
+          "text": "<i>♪ Don't stop me Don't stop me ♪</i>"
+        },
+        {
+          "index": 462,
+          "start": 1676.925,
+          "end": 1678.385,
+          "text": "<i>♪ Ooh, ooh, ooh ♪</i>"
+        },
+        {
+          "index": 463,
+          "start": 1678.468,
+          "end": 1679.803,
+          "text": "<i>♪ Don't stop me Don't stop ♪</i>"
+        },
+        {
+          "index": 464,
+          "start": 1679.887,
+          "end": 1681.346,
+          "text": "<i>♪ Whoa, whoa, whoa ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 112,
+      "intervalle_debut": 1680,
+      "intervalle_fin": 1695,
+      "timecode_debut_extrait": 1680,
+      "timecode_fin_extrait": 1695,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0112_time_1680.00s-1695.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 465,
+          "start": 1681.43,
+          "end": 1683.015,
+          "text": "<i>♪ Don't stop me Don't stop me ♪</i>"
+        },
+        {
+          "index": 466,
+          "start": 1683.098,
+          "end": 1685.1,
+          "text": "<i>♪ Have a good time Good time ♪</i>"
+        },
+        {
+          "index": 467,
+          "start": 1688.562,
+          "end": 1690.647,
+          "text": "Don't stop, don't stop!"
+        },
+        {
+          "index": 468,
+          "start": 1692.274,
+          "end": 1695.319,
+          "text": "<i>♪ Don't stop me now 'Cause I'm having a good time ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 113,
+      "intervalle_debut": 1695,
+      "intervalle_fin": 1710,
+      "timecode_debut_extrait": 1695,
+      "timecode_fin_extrait": 1710,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0113_time_1695.00s-1710.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 469,
+          "start": 1695.402,
+          "end": 1696.57,
+          "text": "<i>♪ Don't stop me now ♪</i>"
+        },
+        {
+          "index": 470,
+          "start": 1696.653,
+          "end": 1702.784,
+          "text": "<i>♪ 'Cause I'm having a good time I don't wanna stop at all ♪</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 114,
+      "intervalle_debut": 1710,
+      "intervalle_fin": 1725,
+      "timecode_debut_extrait": 1710,
+      "timecode_fin_extrait": 1725,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0114_time_1710.00s-1725.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 471,
+          "start": 1710.751,
+          "end": 1713.295,
+          "text": "That was great! We did it! Yeah!"
+        },
+        {
+          "index": 472,
+          "start": 1713.962,
+          "end": 1716.59,
+          "text": "If I'm being honest, I'm a little insulted they were gonna cut me"
+        },
+        {
+          "index": 473,
+          "start": 1716.673,
+          "end": 1719.051,
+          "text": "but they kept this armadillo in the tutu in there."
+        },
+        {
+          "index": 474,
+          "start": 1720.385,
+          "end": 1721.97,
+          "text": "Never even seen that guy."
+        },
+        {
+          "index": 475,
+          "start": 1722.888,
+          "end": 1724.348,
+          "text": "That guy's not canon."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 115,
+      "intervalle_debut": 1725,
+      "intervalle_fin": 1740,
+      "timecode_debut_extrait": 1725,
+      "timecode_fin_extrait": 1740,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0115_time_1725.00s-1740.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 476,
+          "start": 1725.14,
+          "end": 1727.267,
+          "text": "Well, that's about all the time we have."
+        },
+        {
+          "index": 477,
+          "start": 1727.351,
+          "end": 1728.769,
+          "text": "But before we go,"
+        },
+        {
+          "index": 478,
+          "start": 1728.852,
+          "end": 1733.315,
+          "text": "let's give a great big thank you to our incredible guest star, Sabrina Carpenter!"
+        },
+        {
+          "index": 479,
+          "start": 1733.398,
+          "end": 1735.359,
+          "text": "Yay!"
+        },
+        {
+          "index": 480,
+          "start": 1735.442,
+          "end": 1736.443,
+          "text": "Thank you, Kermit."
+        },
+        {
+          "index": 481,
+          "start": 1736.526,
+          "end": 1738.82,
+          "text": "Well, you know, uh, you fit right in with us, Sabrina."
+        },
+        {
+          "index": 482,
+          "start": 1738.904,
+          "end": 1741.657,
+          "text": "-Well, it helps we're the same height. -Good point!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 116,
+      "intervalle_debut": 1740,
+      "intervalle_fin": 1755,
+      "timecode_debut_extrait": 1740,
+      "timecode_fin_extrait": 1755,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0116_time_1740.00s-1755.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 483,
+          "start": 1741.74,
+          "end": 1743.992,
+          "text": "Dianne Wiest!"
+        },
+        {
+          "index": 484,
+          "start": 1744.66,
+          "end": 1747.12,
+          "text": "Oh. Um... Good night, everybody!"
+        },
+        {
+          "index": 485,
+          "start": 1747.204,
+          "end": 1749.831,
+          "text": "{\\an8}We'll see you next time on <i>The Muppet Show</i>!"
+        },
+        {
+          "index": 486,
+          "start": 1753.502,
+          "end": 1755.796,
+          "text": "Zoe Saldaña!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 117,
+      "intervalle_debut": 1755,
+      "intervalle_fin": 1770,
+      "timecode_debut_extrait": 1755,
+      "timecode_fin_extrait": 1770,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0117_time_1755.00s-1770.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 118,
+      "intervalle_debut": 1770,
+      "intervalle_fin": 1785,
+      "timecode_debut_extrait": 1770,
+      "timecode_fin_extrait": 1785,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0118_time_1770.00s-1785.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 119,
+      "intervalle_debut": 1785,
+      "intervalle_fin": 1800,
+      "timecode_debut_extrait": 1785,
+      "timecode_fin_extrait": 1800,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0119_time_1785.00s-1800.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 487,
+          "start": 1789.496,
+          "end": 1794.042,
+          "text": "Hmm. I got this sharp pain in my left arm. I wonder what that's about."
+        },
+        {
+          "index": 488,
+          "start": 1794.126,
+          "end": 1796.42,
+          "text": "I'll tell you this much, it's not from clapping."
+        },
+        {
+          "index": 489,
+          "start": 1796.503,
+          "end": 1798.714,
+          "text": "Ow."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 120,
+      "intervalle_debut": 1800,
+      "intervalle_fin": 1810.848,
+      "timecode_debut_extrait": 1800,
+      "timecode_fin_extrait": 1810.848,
+      "video_path": "analyse\\videos\\[bitsearch.to] www.UIndex.org    -    The Muppet Show 2026 1080p DSNP WEB-DL DD 5 1 H 264-playWEB\\interval_0120_time_1800.00s-1810.85s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    }
+  ]
+}
