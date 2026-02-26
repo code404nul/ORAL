@@ -8,7 +8,7 @@
   "date_traitement": "2026-02-25T14:23:05.333594",
   "stats_extraction": {
     "total": 440,
-    "reussis": 390,
+    "reussis": 440,
     "echecs": 0,
     "timeouts": 0,
     "gpu_errors": 0,
@@ -8735,7 +8735,7 @@
       "intervalle_fin": 5865,
       "timecode_debut_extrait": 5850,
       "timecode_fin_extrait": 5865,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0390_time_5850.00s-5865.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -8746,7 +8746,7 @@
       "intervalle_fin": 5880,
       "timecode_debut_extrait": 5865,
       "timecode_fin_extrait": 5880,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0391_time_5865.00s-5880.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -8757,7 +8757,7 @@
       "intervalle_fin": 5895,
       "timecode_debut_extrait": 5880,
       "timecode_fin_extrait": 5895,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0392_time_5880.00s-5895.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -8768,7 +8768,7 @@
       "intervalle_fin": 5910,
       "timecode_debut_extrait": 5895,
       "timecode_fin_extrait": 5910,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0393_time_5895.00s-5910.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -8792,7 +8792,7 @@
       "intervalle_fin": 5925,
       "timecode_debut_extrait": 5910,
       "timecode_fin_extrait": 5925,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0394_time_5910.00s-5925.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -8822,7 +8822,7 @@
       "intervalle_fin": 5940,
       "timecode_debut_extrait": 5925,
       "timecode_fin_extrait": 5940,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0395_time_5925.00s-5940.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -8833,7 +8833,7 @@
       "intervalle_fin": 5955,
       "timecode_debut_extrait": 5940,
       "timecode_fin_extrait": 5955,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0396_time_5940.00s-5955.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -8844,7 +8844,7 @@
       "intervalle_fin": 5970,
       "timecode_debut_extrait": 5955,
       "timecode_fin_extrait": 5970,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0397_time_5955.00s-5970.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -8855,7 +8855,7 @@
       "intervalle_fin": 5985,
       "timecode_debut_extrait": 5970,
       "timecode_fin_extrait": 5985,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0398_time_5970.00s-5985.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -8866,7 +8866,7 @@
       "intervalle_fin": 6000,
       "timecode_debut_extrait": 5985,
       "timecode_fin_extrait": 6000,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0399_time_5985.00s-6000.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -8890,7 +8890,7 @@
       "intervalle_fin": 6015,
       "timecode_debut_extrait": 6000,
       "timecode_fin_extrait": 6015,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0400_time_6000.00s-6015.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -8920,7 +8920,7 @@
       "intervalle_fin": 6030,
       "timecode_debut_extrait": 6015,
       "timecode_fin_extrait": 6030,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0401_time_6015.00s-6030.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -8956,7 +8956,7 @@
       "intervalle_fin": 6045,
       "timecode_debut_extrait": 6030,
       "timecode_fin_extrait": 6045,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0402_time_6030.00s-6045.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -9004,7 +9004,7 @@
       "intervalle_fin": 6060,
       "timecode_debut_extrait": 6045,
       "timecode_fin_extrait": 6060,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0403_time_6045.00s-6060.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -9034,7 +9034,7 @@
       "intervalle_fin": 6075,
       "timecode_debut_extrait": 6060,
       "timecode_fin_extrait": 6075,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0404_time_6060.00s-6075.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -9070,7 +9070,7 @@
       "intervalle_fin": 6090,
       "timecode_debut_extrait": 6075,
       "timecode_fin_extrait": 6090,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0405_time_6075.00s-6090.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -9100,7 +9100,7 @@
       "intervalle_fin": 6105,
       "timecode_debut_extrait": 6090,
       "timecode_fin_extrait": 6105,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0406_time_6090.00s-6105.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -9118,7 +9118,7 @@
       "intervalle_fin": 6120,
       "timecode_debut_extrait": 6105,
       "timecode_fin_extrait": 6120,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0407_time_6105.00s-6120.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -9142,7 +9142,7 @@
       "intervalle_fin": 6135,
       "timecode_debut_extrait": 6120,
       "timecode_fin_extrait": 6135,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0408_time_6120.00s-6135.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9153,7 +9153,7 @@
       "intervalle_fin": 6150,
       "timecode_debut_extrait": 6135,
       "timecode_fin_extrait": 6150,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0409_time_6135.00s-6150.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9164,7 +9164,7 @@
       "intervalle_fin": 6165,
       "timecode_debut_extrait": 6150,
       "timecode_fin_extrait": 6165,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0410_time_6150.00s-6165.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9175,7 +9175,7 @@
       "intervalle_fin": 6180,
       "timecode_debut_extrait": 6165,
       "timecode_fin_extrait": 6180,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0411_time_6165.00s-6180.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9186,7 +9186,7 @@
       "intervalle_fin": 6195,
       "timecode_debut_extrait": 6180,
       "timecode_fin_extrait": 6195,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0412_time_6180.00s-6195.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9197,7 +9197,7 @@
       "intervalle_fin": 6210,
       "timecode_debut_extrait": 6195,
       "timecode_fin_extrait": 6210,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0413_time_6195.00s-6210.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9208,7 +9208,7 @@
       "intervalle_fin": 6225,
       "timecode_debut_extrait": 6210,
       "timecode_fin_extrait": 6225,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0414_time_6210.00s-6225.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9219,7 +9219,7 @@
       "intervalle_fin": 6240,
       "timecode_debut_extrait": 6225,
       "timecode_fin_extrait": 6240,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0415_time_6225.00s-6240.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9230,7 +9230,7 @@
       "intervalle_fin": 6255,
       "timecode_debut_extrait": 6240,
       "timecode_fin_extrait": 6255,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0416_time_6240.00s-6255.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9241,7 +9241,7 @@
       "intervalle_fin": 6270,
       "timecode_debut_extrait": 6255,
       "timecode_fin_extrait": 6270,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0417_time_6255.00s-6270.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9252,7 +9252,7 @@
       "intervalle_fin": 6285,
       "timecode_debut_extrait": 6270,
       "timecode_fin_extrait": 6285,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0418_time_6270.00s-6285.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9263,7 +9263,7 @@
       "intervalle_fin": 6300,
       "timecode_debut_extrait": 6285,
       "timecode_fin_extrait": 6300,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0419_time_6285.00s-6300.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9274,7 +9274,7 @@
       "intervalle_fin": 6315,
       "timecode_debut_extrait": 6300,
       "timecode_fin_extrait": 6315,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0420_time_6300.00s-6315.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9285,7 +9285,7 @@
       "intervalle_fin": 6330,
       "timecode_debut_extrait": 6315,
       "timecode_fin_extrait": 6330,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0421_time_6315.00s-6330.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9296,7 +9296,7 @@
       "intervalle_fin": 6345,
       "timecode_debut_extrait": 6330,
       "timecode_fin_extrait": 6345,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0422_time_6330.00s-6345.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9307,7 +9307,7 @@
       "intervalle_fin": 6360,
       "timecode_debut_extrait": 6345,
       "timecode_fin_extrait": 6360,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0423_time_6345.00s-6360.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9318,7 +9318,7 @@
       "intervalle_fin": 6375,
       "timecode_debut_extrait": 6360,
       "timecode_fin_extrait": 6375,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0424_time_6360.00s-6375.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9329,7 +9329,7 @@
       "intervalle_fin": 6390,
       "timecode_debut_extrait": 6375,
       "timecode_fin_extrait": 6390,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0425_time_6375.00s-6390.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9340,7 +9340,7 @@
       "intervalle_fin": 6405,
       "timecode_debut_extrait": 6390,
       "timecode_fin_extrait": 6405,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0426_time_6390.00s-6405.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9351,7 +9351,7 @@
       "intervalle_fin": 6420,
       "timecode_debut_extrait": 6405,
       "timecode_fin_extrait": 6420,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0427_time_6405.00s-6420.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9362,7 +9362,7 @@
       "intervalle_fin": 6435,
       "timecode_debut_extrait": 6420,
       "timecode_fin_extrait": 6435,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0428_time_6420.00s-6435.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9373,7 +9373,7 @@
       "intervalle_fin": 6450,
       "timecode_debut_extrait": 6435,
       "timecode_fin_extrait": 6450,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0429_time_6435.00s-6450.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9384,7 +9384,7 @@
       "intervalle_fin": 6465,
       "timecode_debut_extrait": 6450,
       "timecode_fin_extrait": 6465,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0430_time_6450.00s-6465.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9395,7 +9395,7 @@
       "intervalle_fin": 6480,
       "timecode_debut_extrait": 6465,
       "timecode_fin_extrait": 6480,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0431_time_6465.00s-6480.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9406,7 +9406,7 @@
       "intervalle_fin": 6495,
       "timecode_debut_extrait": 6480,
       "timecode_fin_extrait": 6495,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0432_time_6480.00s-6495.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9417,7 +9417,7 @@
       "intervalle_fin": 6510,
       "timecode_debut_extrait": 6495,
       "timecode_fin_extrait": 6510,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0433_time_6495.00s-6510.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9428,7 +9428,7 @@
       "intervalle_fin": 6525,
       "timecode_debut_extrait": 6510,
       "timecode_fin_extrait": 6525,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0434_time_6510.00s-6525.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9439,7 +9439,7 @@
       "intervalle_fin": 6540,
       "timecode_debut_extrait": 6525,
       "timecode_fin_extrait": 6540,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0435_time_6525.00s-6540.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9450,7 +9450,7 @@
       "intervalle_fin": 6555,
       "timecode_debut_extrait": 6540,
       "timecode_fin_extrait": 6555,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0436_time_6540.00s-6555.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9461,7 +9461,7 @@
       "intervalle_fin": 6570,
       "timecode_debut_extrait": 6555,
       "timecode_fin_extrait": 6570,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0437_time_6555.00s-6570.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9472,7 +9472,7 @@
       "intervalle_fin": 6585,
       "timecode_debut_extrait": 6570,
       "timecode_fin_extrait": 6585,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0438_time_6570.00s-6585.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
@@ -9483,7 +9483,7 @@
       "intervalle_fin": 6591.594,
       "timecode_debut_extrait": 6585,
       "timecode_fin_extrait": 6591.594,
-      "video_path": null,
+      "video_path": "analyse\\videos\\HIDRATORRENTS.ORG..MKV.Família.de.Aluguel.2025.1080p.WEB-DL.DUAL.5.1\\interval_0439_time_6585.00s-6591.59s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": [],
       "failed_attempts": 0
