@@ -1,0 +1,490 @@
+{
+  "movie_id": "Eric.Andre.Legalize.Everything.2020.1080p.WEB.H264-HUZZAH[TGx]",
+  "date_analyse": "2026-02-16T10:08:44.312630",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "analyse_action": "A brief intro with the Netflix logo appears in vibrant red against black, followed by a top-down aerial view of New Orleans, Louisiana showcasing its distinctive urban landscape. The scene captures the city's character from above, revealing a river that curves from the lower left corner toward the center, where a suspension bridge stretches across with boats visible beneath it. Taller buildings gather on the right side while lower structures and dense trees spread across the left side in a residential area.\n\nThe scene then cuts to ground level, transitioning to a busy one-way street bustling with pedestrian activity. Cars are stopped and moving through the lane as pedestrians walk along both sidewalks, creating lively street activity. On the right side, businesses line the area including a prominent blue building and a red building. A red Coca-Cola cart sits nearby with a man in a blue shirt and red shorts in front of it.\n\nThe video concludes indoors at a restaurant entrance where two young children sit side by side on buckets in the doorway.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 196,
+        "total_tokens": 2950
+      }
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "analyse_action": "The scene unfolds as a bustling street moment centered on a busker performance. A man stands in the middle of the street playing a trombone, dressed in a blue tracksuit, holding the sleek brass instrument horizontally across his body while playing it with focused intensity. Two men in hoodies are positioned behind him, standing close to the accordion player, with a bucket placed on the ground directly in front of them to collect tips from passersby.\n\nThe performance takes place in what appears to be a downtown area with varied urban elements - there's a red brick building with black-shuttered windows across the street, where a woman in a black dress and sunglasses is leaning on a black metal railing. A bicyclist in a yellow shirt turns a corner on the same street near the performance area, momentarily disrupting the flow of pedestrians.\n\nA police car marked with the number 022 and the word \"POLICE\" in blue letters on the side idles nearby with its blue light flashing. Later, a man in a blue shirt and black hat is seen walking on the sidewalk with a woman in a white shirt and dark pants.\n\nThe entire scene feels like a snapshot of urban life - street musicians performing, pedestrians navigating crowded sidewalks, and the quiet patrol presence of law enforcement, all set against the backdrop of commercial storefronts and residential architecture with their distinctive shutters.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 274,
+        "total_tokens": 3028
+      }
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "analyse_action": "A police officer has left an open police car, stepping out and moving around in handcuffs while the passenger door remains wide open. Glass bottles and debris are scattered across the ground around the vehicle. The officer carries a blue bag with a yellow strap across his shoulders, then turns back and gestures toward the interior of the car with his left hand pointed outward.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 72,
+        "total_tokens": 2826
+      }
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "analyse_action": "The scene depicts a comedic police encounter on a busy street. A police officer steps out of his marked cruiser holding a large blue bong, while pedestrians gather to watch. \n\nThe situation unfolds as a light-hearted moment - the officer uses the bong and begins laughing, which draws amused reactions from the onlookers. The other people in the scene react variously, with some characters in the crowd reacting with laughter or interest.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 87,
+        "total_tokens": 2841
+      }
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "analyse_action": "In the video, a woman is walking down a sidewalk when the scene transitions to a man dressed as a cop handing out orange slices. When she comes back into frame, she's holding the orange slice and appears to be yelling something. She is then followed by a man dressed as a cop.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 60,
+        "total_tokens": 2814
+      }
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "analyse_action": "The scene depicts a daylight street patrol operation where uniformed officers are stopping and conversing with pedestrians.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 21,
+        "total_tokens": 2775
+      }
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "analyse_action": "This is from a comedy special featuring Eric Andre. In the scene, a man in a dark uniform with a police badge appears visibly distressed and angrily yells with his arms thrown wide. He's in a small, two-tiered bar or club with warm lighting and a wooden ceiling. The setting has people gathered in the background, including some wearing sunglasses, creating a lively atmosphere. Eric Andre is a comedic actor known for his outrage-fueled comedy style.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 93,
+        "total_tokens": 2847
+      }
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "analyse_action": "A man in a white t-shirt and jeans is performing a comedy routine on a dimly lit stage that has wooden beams and a stage floor with a speaker tower. He stands elevated from a seated audience and uses exaggerated gestures and physical comedy to entertain them, raising his hands and moving dramatically.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 59,
+        "total_tokens": 2813
+      }
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "analyse_action": "In this scene, a comedian is performing an energetic stand-up routine on stage with a massive audience. He begins by striking a dramatic and playful pose on stage, with his hand flat on the floor, using a sweeping arm gesture to propel himself outward. He then jumps back to his feet, removes his pink t-shirt to reveal his bare chest, and continues holding the shirt like a cape while delivering his performance.\n\nThe stage is lit dramatically with warm yellow and orange tones, and there's a spotlight that creates a bright halo effect around him as he moves. His outfit consists of gray pants and bright orange shoes. The crowd is absolutely electric—people are standing in front of the stage with their hands raised, cheering and clapping. A balcony is packed with onlookers who are equally engaged in the performance.\n\nThe comedic artist moves enthusiastically around the stage, gripping a handheld microphone between his teeth at times as he commands the room. He alternates between crouching low with intense facial expressions and leaning back dramatically when demonstrating physical comedic points. The audience's reaction is overwhelmingly positive, with phones being raised to record, hands lifted high, and people shouting as he crowdsurfs partway across the stage at one point. The entire atmosphere is one of exhilarated audience participation and high-energy live comedy entertainment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 262,
+        "total_tokens": 3016
+      }
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "analyse_action": "The scene features a dynamic stand-up comedy performance unfolding on a lively stage. A comedian wearing a pink shirt is commanding attention from center stage, mixing bits of humor with energetic dance moves that get the audience involved. He maintains eye contact with the crowd, gestures significantly, and drives the pacing of the routine.\n\nThe audience is fully engaged, with energy levels peaking as attendees stand, cheer, wave, and even jump in excitement. The performer works the stage with physicality—leaning toward the mic, stepping forward and backward, spreading his arms, and even hopping around while keeping the momentum going. The lighting creates dramatic contrast, with bright spotlights illuminating him against dark recesses, adding to the theatrical atmosphere.\n\nThe back-and-forth energy between performer and crowd builds and ebbs, maintaining a restless, engaged ambiance throughout. It all comes off as an interactive, high-energy comedy show where the crowd is an essential part of the performance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 190,
+        "total_tokens": 2944
+      }
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "analyse_action": "A stand-up comedy performance is taking place in an intimate indoor club setting. A comedian wearing a white T-shirt and grey jeans is performing on stage, holding a handheld microphone and engaging with the audience. \n\nThe audience, seated in rows, is fully engaged with the performance. Many spectators have their hands raised, either with fingers pointed upward or held aloft, and they're laughing throughout the routine. The atmosphere is lively and energetic, with people catching the crowd's excitement.\n\nThe performer is actively performing his set – he's using animated facial expressions, making gestures with his raised left hand, and speaking into the microphone, creating an interactive and dynamic comedy experience. The stage has a rich, dark backdrop with warm-toned lighting from above, creating a dramatic ambiance that really focuses attention on the comedian and the audience's reactions.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 166,
+        "total_tokens": 2920
+      }
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "analyse_action": "The scene shows a stand-up comedy performance taking place in a large, dimly lit venue. A comedian in a pink t-shirt, gray jeans, and orange shoes is performing on stage under a spotlight, holding a microphone and speaking to the audience with animated expressions, hand gestures, and body movements. The performance alternates between close-up shots of the comedian and wider views revealing the full stage setup with multiple colored lights, audience members sitting and standing in rows, and balconies filled with spectators watching from above. The entire atmosphere captures an energetic stand-up comedy show in progress with the performer actively engaging a room full of people.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 126,
+        "total_tokens": 2880
+      }
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "analyse_action": "A stand-up comedy performance is taking place on stage. An Indian man comedian with short black hair and a mustache is performing with animated energy. He's wearing a pink T-shirt with a red logo on the left chest and a yellow watch with blue details on his left wrist. Holding a black microphone with a silver head, he delivers his routine with dynamic physical comedy - smiling broadly, laughing, gesturing emphatically with his right hand, and even pretending to roll his eyes dramatically at one point. The vibrant, humorous style and audience's laughter indicate he's creating comedic bits and engaging the room through expressive storytelling and performance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 126,
+        "total_tokens": 2880
+      }
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "analyse_action": "A man is performing a stand-up comedy routine on stage. He's delivering jokes with animated facial expressions and lively gestures while holding a microphone close to his face. He moves dynamically across the stage, punctuating his punchlines with exaggerated expressions and body language. A large audience is seated in rows, attentively watching the performance as bright lights illuminate him against a dark backdrop, creating an energetic club-like atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 82,
+        "total_tokens": 2836
+      }
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "analyse_action": "A male comedian is performing stand-up comedy on stage, delivering a humorous routine to a live audience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 21,
+        "total_tokens": 2775
+      }
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "analyse_action": "In the scene, a stand-up comedian is performing on stage for an audience. He's dressed casually in a pink T-shirt and gray pants, holding a handheld microphone as he delivers his performance. \n\nThe comic engages with the audience through lively, energetic gestures—opening his arms in welcoming motions, pointing and shaking his hands for emphasis, moving his shoulders expressively, and at one point leaning forward and pointing toward the crowd to connect directly with them.\n\nThe atmosphere is vibrant and lively, with the performer commanding the spotlight while the audience watches intently from the dimly lit theater. The classic setup—comedian in front of a focused stage light against a dark backdrop—creates an intimate performing space where the connection between performer and audience is clear.\n\nThe performance takes place in a typical comedy club setting with a supportive crowd of adults, evidenced by the rows of spectators. The dynamic hand movements and animated delivery style highlight that this is a live comedy performance, with the comedian actively engaging the audience through both his verbal routine and physical gestures.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 207,
+        "total_tokens": 2961
+      }
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "analyse_action": "The man on stage is performing a stand-up comedy routine.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 13,
+        "total_tokens": 2767
+      }
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "analyse_action": "The scene shows a stand-up comedian performing on stage. He's speaking into a handheld microphone while addressing his audience directly, maintaining strong eye contact and using animated, expressive hand gestures to punctuate his delivery.\n\nThe comedian is performing under bright, focused lighting that creates a dramatic spotlight effect against a completely black background, which is typical of a comedy stage setup. His body language is highly engaged - he leans forward at times, shifts his weight, and occasionally pauses with hands near his face as he gathers his thoughts before continuing.\n\nThroughout the performance, he maintains a dynamic presence, keeping the audience's attention through both verbal delivery and physical expression. The stagecraft is minimal and intentional, with the stark contrast between the brightly lit performer and the dark void behind him emphasizing his presence as the sole focal point of what appears to be a comedy routine in progress.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 170,
+        "total_tokens": 2924
+      }
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "analyse_action": "A man is delivering a stand-up comedy performance on stage in a dimly lit theatre. He's wearing a pink T-shirt and gray pants, holding a black handheld microphone with a silver top in his right hand, which he keeps close to his mouth as he speaks.\n\nThe comedian has a playful, expressive demeanor with animated physical humor. He uses exaggerated gestures and body movements to emphasize his punchlines, shifting his gaze and body cues to connect with the audience. His facial expressions change frequently—focusing intensely on certain moments or loosening into a broad smile when he lands a good bit.\n\nOther performers are briefly visible in the frame, with one in red and another in yellow, suggesting this is being filmed on stage during a comedy show. The overall atmosphere is that of a live comedy performance, with clear attention from the audience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 167,
+        "total_tokens": 2921
+      }
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "analyse_action": "A standup comedian is performing on stage in a darkened venue. He's dressed in a pink T-shirt, gray pants, and bright orange shoes, holding a microphone and speaking animatedly while gesturing and moving around the stage. The audience is visible, with people laughing, smiling, and enjoying the performance. There are people sitting facing the stage, while some stand at the back. During the final moment shown, the performer walks off stage to the right as the audience remains engaged and amused by the comedy act taking place.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 107,
+        "total_tokens": 2861
+      }
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "analyse_action": "The scene shows a stand-up comedy performance from the audience's perspective. The comedian is performing on a stage, holding a microphone and interacting with the crowd while moving and gesturing between the aisles as he delivers his routine.\n\nThe audience is actively watching the performance with heads visible in the foreground, attentively following his delivery. The stage is lit dramatically with bright orange and yellow lights cutting through the darkness, creating a theatrical atmosphere.\n\nThroughout the performance, the comedian uses expressive physical gestures and motions while keeping the microphone in his right hand. He engages with the room and turns between different sections as he performs. The setting features various stage elements including metal structures, stools, and a water bottle, all contributing to the typical comedy club ambiance.\n\nThe camera captures the experience from within the audience, looking out toward the lit stage against a black backdrop, giving viewers the feeling of being present at this live comedy show.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 182,
+        "total_tokens": 2936
+      }
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "analyse_action": "A comedian is delivering a stand-up performance on stage in what appears to be a live comedy club show. He's wearing a pink t-shirt, gray pants, and bright orange shoes, holding a black handheld microphone with a silver top. The performer is animatedly engaging with the audience, alternating between close, tight shots where his energetic expression—draped in shadows with red lettering visible on his shirt back—is clear, and wider views showing the venue's details.\n\nThe stage is brightly illuminated with white spotlights, creating dramatic rim lighting against a black backdrop, with a stool visible nearby. The club has multiple levels, with a balcony packed with laughter and applause above the mezzanine and first-floor seating. Both levels are buzzing with an attentive, cheerful crowd holding up phones to capture the performance. Throughout the show, people wave, cheer, and smile, clearly enjoying the comedy routine as it unfolds in this lively, two-level venue atmosphere.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 190,
+        "total_tokens": 2944
+      }
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "analyse_action": "The scene shows a comedian performing a stand-up routine on stage. He's lighting into his material with a comedic intensity while engaging his audience. \n\nThe performer moves energetically, alternating his focus between making eye contact with different sections of the crowd and gesturing dramatically to emphasize his points. His facial expressions are highly animated—particularly during what appears to be a more intense moment in his bit, where his mouth opens wide showing his teeth as he delivers a punchline with visible enthusiasm.\n\nThroughout the performance, he maintains buoyant energy and clearly connects with the audience, creating that typical live comedy atmosphere where the crowd's laughter reaction is part of the performance dynamic. The entire stage is brightly lit, putting the comedian as the clear focal point of the scene while the audience remains visible in the foreground, watching attentively.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 164,
+        "total_tokens": 2918
+      }
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "analyse_action": "The scene shows a stand-up comedian performing a live comedy routine on stage. He's delivering material to an audience while holding a handheld microphone, alternating between speaking into it and gesturing expressively with his free hand. His performance is highly animated and passionate, with him making various facial expressions including squinting, furrowing his brows, and breaking into an excited smile that causes his eyes to close.\n\nThe atmosphere is energetic and dynamic. The performer stands illuminated against a black backdrop, wearing a pink T-shirt that creates a strong visual contrast with the dark background. The stage is brightly lit with multiple colored lights—primarily warm yellows, oranges, and bright reds—that cast a vibrant glow over the scene. A spotlight focuses attention on him as he moves around the stage, raising his arms at times to emphasize points and punchlines.\n\nThe performance has that classic stand-up comedy feel, with the comedian clearly engaging with both his material and the audience seated in the theater. The stage setup includes practical elements like a small silver step ladder positioned in the backdrop, adding to the authentic comedy club or theater setting. Overall, it's an active, immersive comedic performance unfolding under dramatic lighting with the comedian fully engaged in entertaining the crowd.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 247,
+        "total_tokens": 3001
+      }
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "analyse_action": "The scene captures a man performing as a stand-up comedian on stage. He's holding a microphone in his left hand and gesturing animatedly with his right as he delivers his routine. His delivery is very rhythmic, with expressive facial movements and physical gestures that help emphasize his points.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 58,
+        "total_tokens": 2812
+      }
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "analyse_action": "The scene captures a comedic performance unfolding at night. A man stands prominently on stage holding a black handheld microphone with a silver top in his left hand and wearing a distinctive multicolored wristwatch on his left wrist. He's dressed casually in a pink short-sleeved T-shirt, gray pants, and bright orange shoes.\n\nThe comedian delivers his performance with animated expressions - his face shows exaggerated features including wide eyes and an open mouth mid-delivery. Multiple spotlights mounted on the ceiling illuminate the stage surface and actor throughout the routine.\n\nAs he performs, the camera gradually widens to reveal the full performance space. Around the stage, festival-style lighting with banners and red lights become visible, creating an energetic atmosphere. The lighting remains focused on the performer even as the view expands.\n\nIn the foreground, an audience of people can be seen watching him on stage. The venue appears to be a packed open-air venue or amphitheater, given the extensive lighting setup and the way the audience fills the viewing area.\n\nThe entire sequence flows from a tight close-up of the comedian's expressive face and performance style, to the full stage setup, and finally to reveal the complete performance space filled with an engaged audience, capturing the essence of a live stand-up comedy performance in action.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 255,
+        "total_tokens": 3009
+      }
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "analyse_action": "The scene shows a stand-up comedy performance in a festive comedy club. A comedian in his late 20s or early 30s, wearing a pink t-shirt with light blue jeans and yellow shoes (and a yellow watch on his left wrist), is performing on stage holding a microphone. \n\nHe delivers his routine directly to the audience while making exaggerated gestures and smiling broadly, creating an engaging and animated performance style. The crowd responds enthusiastically - a woman in a black jacket, white hat, and plaid shirt is laughing and holding a can, while others nearby are applauding. Additional audience members can also be seen in a balcony area above the stage, including someone in a white hoodie with their hands covering their mouth in delight.\n\nThe atmosphere is lively and electric, with stage lights creating a warm glow and the camera cutting between close-ups of the performer and the laughing, cheering audience in the dimly lit venue.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 186,
+        "total_tokens": 2940
+      }
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "analyse_action": "A stand-up comedian is performing on stage during what appears to be a live comedy show. He's delivering a routine to an engaged audience in a dimly lit venue, alternating between pacing across the stage, addressing the crowd, and making emphatic gestures.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 52,
+        "total_tokens": 2806
+      }
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "analyse_action": "A stand-up comedian is performing on stage for a small audience. He's holding a black microphone while delivering his set to someone off to his left, engaged and animated throughout his performance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 38,
+        "total_tokens": 2792
+      }
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "analyse_action": "The scene shows a stand-up comedy performance taking place in a well-lit venue. A comedian wearing a pink t-shirt, gray pants, and orange shoes is performing on stage while holding a microphone and interacting with a large audience.\n\nThe audience is quite engaged, with many attendees holding up phones to record the performance. The energy in the room is high, with people responding enthusiastically to phrases delivered by the comedian. The performer moves energetically around the stage, pointing and gesturing at various parts of the crowd while working the room.\n\nThe stage is brightly lit with a spotlight on the performer, and you can see black podiums and stools visible at times. The atmosphere is vibrant and bustling, capturing the typical live comedy experience with both the performers and audience fully immersed in the moment, creating an energetic and lively environment.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 165,
+        "total_tokens": 2919
+      }
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "analyse_action": "The man is delivering a stage performance in a small, intimate venue. He holds a microphone and gestures expressively while speaking to an audience that wraps around both sides of him.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 36,
+        "total_tokens": 2790
+      }
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "analyse_action": "The scene captures an energetic stand-up comedy performance taking place in a dimly lit comedy club. A comedian in a bright pink t-shirt alternates between walking across the stage and addressing the predominantly female audience with classic comedic gestures and movement. \n\nThe performance has numerous engaging elements. The comedian raises his left arm while talking into the microphone, occasionally pauses with a slight smile, and makes playful waves toward the crowd. The audience reacts enthusiastically, laughing and smiling throughout the performance.\n\nMidway through the routine, the comedian makes a dynamic moment where he grabs a black object with his left hand, runs across the stage, and le[js it onto a black speaker, drawing attention from the crowd. Later in the act, he pauses for intimacy with the audience, leaning in to speak closely to fans sitting in the front rows.\n\nThe performance concludes on a personal high note when the comedian walks off stage carefully, holding the microphone in his right hand and prompting the audience to stand for an enthusiastic ovation.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 199,
+        "total_tokens": 2953
+      }
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "analyse_action": "Singing and performing is taking place in the scene. A man wearing a pink T-shirt and gray pants is the performer, singing into a microphone with passion and dramatic energy. He stands centered on the stage, leaning forward and suddenly falling backward, stopping partway down in a dynamic performer pose.\n\nThe performance creates an intense, emotional atmosphere. His movements are highly expressive, with his body arcing dramatically behind the microphone stand. The spotlight tightly focuses on him, creating a vivid contrast with the darker surroundings.\n\nAround him is an engaged audience including both seated viewers and a crowd gathered in front who are laughing, smiling, and cheering as they watch the performance unfold. The stagecraft, lighting, and the performer's passionate singing combined create an electrifying atmosphere of a live, impassioned theatrical performance.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 160,
+        "total_tokens": 2914
+      }
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "analyse_action": "The scene shows a stand-up comedy performance. A comedian with short dark hair is performing on stage, wearing bright orange sneakers, gray pants, and a pink shirt emblazoned with a prominent red logo. He's holding a handheld comedy microphone and interacts dynamically with his audience while seated in a black chair.\n\nThe stage is designed with multiple spotlights—two on either side of him, two on both sides facing him, and additional lights positioned in the corners against a dark backdrop with a slightly metallic, stormcloud-like appearance. The audience appears joyful and engaged, laughing throughout the performance.\n\nAfter the initial stage shots, the scene focuses on the performer from a close-up angle, capturing his facial expressions and reactions as he speaks into the microphone. A half-empty water bottle is visible on a table beside him, adding a casual, unscripted element to the performance setting.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 176,
+        "total_tokens": 2930
+      }
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "analyse_action": "The scene shows a stand-up comedy performance. A comedian with dark hair and a mustache is performing on stage, seated on a chair at center stage in a dimly lit venue. He's wearing a pink T-shirt, gray pants, and orange shoes.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 53,
+        "total_tokens": 2807
+      }
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "analyse_action": "The scene shows a stand-up comedy performance. A comedian is delivering a routine on stage, holding a microphone and speaking directly to the audience. He's using animated hand gestures to emphasize his points and telling what appears to be a joke about themselves while onstage. He wears a pink t-shirt with a red \"Obey\" logo and sports distinctive facial hair—a mustache and pointed goatee. The lighting is dramatic and focused on him against a stark black backdrop, with stage lights casting gentle illumination across the performer as he engages with the live audience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 110,
+        "total_tokens": 2864
+      }
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "analyse_action": "A comedian is performing a stand-up routine on stage. He's wearing a pink t-shirt with a graphic, gray pants, and bright orange shoes. Throughout his set, he uses animated hand gestures and dynamic body movements to deliver his material.\n\nThe performance takes place in a dimly lit venue with stage lights creating a spotlight effect on the performer. Behind him, a stool with a bottle on it is visible. In front of the stage, you can see the silhouettes of audience members watching attentively and reacting to his performance.\n\nThis appears to be a typical stand-up comedy show, with the comedian using his physicality and expressive gestures to enhance his delivery while performing to an engaged crowd.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 140,
+        "total_tokens": 2894
+      }
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "analyse_action": "A man is performing on stage at a comedy event. He stands under a single spotlight on an otherwise dark stage, gripping the stand of the microphone in one hand while gesturing expressively with the other and speaking to an audience. \n\nThe man remains animated and energetic throughout his performance, moving dynamically with his body as he speaks to the crowd. He uses consistent hand gestures - often raising and pointing his hand - to punctuate his delivery and drive home his comedic points.\n\nHis presentation style is lively and theatrical, with his facial expressions clearly visible in the focused lighting. He maintains steady eye contact with the audience while interacting with them through his performance. The combination of his animated gestures, energetic delivery, and the dimly lit stage creates an engaging atmosphere typical of a stand-up comedy show, with the bright spotlight keeping him as the focal point of the entire setup.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 173,
+        "total_tokens": 2927
+      }
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "analyse_action": "Karan Jain is giving a stand-up comedy performance on stage. He's engaged in the full routine of comedy, holding the microphone as he speaks while making animated hand gestures to emphasize his points.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 40,
+        "total_tokens": 2794
+      }
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "analyse_action": "The scene takes place during a stand-up comedy performance. The comedian is actively delivering his routine on stage, working the audience with energetic gestures and facial expressions. \n\nWhile he's telling a joke, a member of the audience can be heard yelling \"Oh my God,\" which creates an unexpected reaction moment during the performance.\n\nThe comedian maintains his engagement with the crowd throughout, maintaining eye contact, emphasizing points with hand gestures, and walking dynamically across the stage as he transitions between different parts of his act. The warm stage lights, combination of elevated stools behind him, and the clearly attentive audience all contribute to the lively atmosphere of what appears to be a well-attended comedy event.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 135,
+        "total_tokens": 2889
+      }
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "analyse_action": "A comedian is performing on stage during a live stand-up show. He's dressed in a bright pink shirt with \"MADE IN\" written in red letters, paired with gray pants and orange sneakers. He's wearing a gold watch on his left wrist and is holding a black handheld microphone with a silver top.\n\nThe comedian is actively engaging with his audience, delivering his material as part of a stand-up routine. He's making expressive gestures while speaking, punctuating his performance with animated movements like lifting his right hand, gently rubbing his chin and cheek as he thinks and emphasizes points, tilting his head, and pointing toward someone in the crowd. At one moment, he appears to be caught mid-sentence, showing the intensity and energy of his performance.\n\nThe backdrop is dimly lit, creating a warm, brown-to-black gradient with a cool white spotlight shining directly on him, creating a dramatic effect that highlights his presence on stage.\n\nThere's also an audience present—some people are seated in chairs on the main floor of the room, while others are positioned on a balcony above. The engagement between the performer and the audience is tangible, though no individual spectators are particularly distinguishable since the focus is strictly on the speaker and his immediate facial expressions and gestures during the routine. The overall scene captures the vibrant atmosphere of a live comedy performance, with the comedian commanding attention through his expressive delivery and dynamic stage presence.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 283,
+        "total_tokens": 3037
+      }
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "analyse_action": "A comedian is performing an energetic stand-up routine on stage, onstage in front of a large audience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 21,
+        "total_tokens": 2775
+      }
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "analyse_action": "A stand-up comedian is performing on stage during what appears to be a comedic routine. He's wearing a pink t-shirt and gray pants, holding a microphone and delivering his set to an audience.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 40,
+        "total_tokens": 2794
+      }
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "analyse_action": "In the scene, Kevin Hart is performing on stage during a stand-up comedy show. He's performing in front of an engaged audience that watches eagerly from both the lower level and balcony areas, with some people even rising to their feet in excitement.",
+      "tokens": {
+        "prompt_tokens": 2754,
+        "completion_tokens": 50,
+        "total_tokens": 2804
+      }
+    }
+  ]
+}
