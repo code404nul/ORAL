@@ -26,7 +26,7 @@ import time
 import re
 import ollama
 
-MODEL_NAME = "gemma3:27b-it-qat"
+MODEL_NAME = "gpt-oss:20b"
 
 BASE_DIR    = "analyse"
 JSON_DIR    = os.path.join(BASE_DIR, "json")
