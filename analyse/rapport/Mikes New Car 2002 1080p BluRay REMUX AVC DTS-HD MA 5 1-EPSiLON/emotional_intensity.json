@@ -1,0 +1,448 @@
+{
+  "movie_id": "Mikes New Car 2002 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON",
+  "date_analyse": "2026-02-10T21:25:34.539948",
+  "model": "gpt-oss:20b",
+  "method": "VAD-arousal v2 (Russell 1980, Xu et al. 2012 — co-occurrence bonus)",
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "emotional_intensity": 0,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 0,
+          "physical_action": 0,
+          "emotional_outburst": 0,
+          "tense_confrontation": 0,
+          "close_up_intensity": 0
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 1,
+          "threat_danger": 0
+        },
+        "neutral_indicators": {
+          "establishing_shot": 1,
+          "static_dialogue": 0,
+          "scene_transition": 1
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "emotional_intensity": 4,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 0,
+          "physical_action": 0,
+          "emotional_outburst": 1,
+          "tense_confrontation": 0,
+          "close_up_intensity": 0
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 0,
+          "threat_danger": 0
+        },
+        "neutral_indicators": {
+          "establishing_shot": 0,
+          "static_dialogue": 1,
+          "scene_transition": 0
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "emotional_intensity": 10,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 0,
+          "physical_action": 0,
+          "emotional_outburst": 0,
+          "tense_confrontation": 0,
+          "close_up_intensity": 0
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 2,
+          "threat_danger": 0
+        },
+        "neutral_indicators": {
+          "establishing_shot": 1,
+          "static_dialogue": 0,
+          "scene_transition": 0
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "emotional_intensity": 0,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 0,
+          "physical_action": 0,
+          "emotional_outburst": 0,
+          "tense_confrontation": 0,
+          "close_up_intensity": 0
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 0,
+          "threat_danger": 0
+        },
+        "neutral_indicators": {
+          "establishing_shot": 0,
+          "static_dialogue": 0,
+          "scene_transition": 0
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "emotional_intensity": 0,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 0,
+          "physical_action": 0,
+          "emotional_outburst": 0,
+          "tense_confrontation": 0,
+          "close_up_intensity": 0
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 0,
+          "threat_danger": 0
+        },
+        "neutral_indicators": {
+          "establishing_shot": 0,
+          "static_dialogue": 0,
+          "scene_transition": 0
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "emotional_intensity": 16,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 0,
+          "physical_action": 0,
+          "emotional_outburst": 0,
+          "tense_confrontation": 0,
+          "close_up_intensity": 1
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 1,
+          "threat_danger": 0
+        },
+        "neutral_indicators": {
+          "establishing_shot": 0,
+          "static_dialogue": 0,
+          "scene_transition": 0
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "emotional_intensity": 16,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 0,
+          "physical_action": 0,
+          "emotional_outburst": 1,
+          "tense_confrontation": 0,
+          "close_up_intensity": 0
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 0,
+          "threat_danger": 1
+        },
+        "neutral_indicators": {
+          "establishing_shot": 0,
+          "static_dialogue": 0,
+          "scene_transition": 0
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "emotional_intensity": 28,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 1,
+          "physical_action": 1,
+          "emotional_outburst": 0,
+          "tense_confrontation": 0,
+          "close_up_intensity": 0
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 1,
+          "threat_danger": 0
+        },
+        "neutral_indicators": {
+          "establishing_shot": 0,
+          "static_dialogue": 0,
+          "scene_transition": 0
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "emotional_intensity": 50,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 1,
+          "physical_action": 0,
+          "emotional_outburst": 1,
+          "tense_confrontation": 1,
+          "close_up_intensity": 1
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 0,
+          "threat_danger": 1
+        },
+        "neutral_indicators": {
+          "establishing_shot": 0,
+          "static_dialogue": 0,
+          "scene_transition": 0
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "emotional_intensity": 5,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 0,
+          "physical_action": 0,
+          "emotional_outburst": 0,
+          "tense_confrontation": 0,
+          "close_up_intensity": 0
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 1,
+          "threat_danger": 0
+        },
+        "neutral_indicators": {
+          "establishing_shot": 0,
+          "static_dialogue": 0,
+          "scene_transition": 0
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "emotional_intensity": 48,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 1,
+          "physical_action": 1,
+          "emotional_outburst": 1,
+          "tense_confrontation": 0,
+          "close_up_intensity": 0
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 1,
+          "threat_danger": 1
+        },
+        "neutral_indicators": {
+          "establishing_shot": 0,
+          "static_dialogue": 0,
+          "scene_transition": 0
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "emotional_intensity": 48,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 0,
+          "physical_action": 2,
+          "emotional_outburst": 2,
+          "tense_confrontation": 0,
+          "close_up_intensity": 0
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 0,
+          "threat_danger": 2
+        },
+        "neutral_indicators": {
+          "establishing_shot": 0,
+          "static_dialogue": 0,
+          "scene_transition": 0
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "emotional_intensity": 25,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 0,
+          "physical_action": 0,
+          "emotional_outburst": 0,
+          "tense_confrontation": 0,
+          "close_up_intensity": 1
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 1,
+          "threat_danger": 1
+        },
+        "neutral_indicators": {
+          "establishing_shot": 0,
+          "static_dialogue": 0,
+          "scene_transition": 0
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "emotional_intensity": 30,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 0,
+          "physical_action": 1,
+          "emotional_outburst": 0,
+          "tense_confrontation": 0,
+          "close_up_intensity": 0
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 2,
+          "threat_danger": 1
+        },
+        "neutral_indicators": {
+          "establishing_shot": 0,
+          "static_dialogue": 0,
+          "scene_transition": 0
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "emotional_intensity": 0,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 0,
+          "physical_action": 0,
+          "emotional_outburst": 0,
+          "tense_confrontation": 0,
+          "close_up_intensity": 0
+        },
+        "valence_cues": {
+          "darkness_shadow": 1,
+          "death_loss": 0,
+          "joy_celebration": 0,
+          "threat_danger": 0
+        },
+        "neutral_indicators": {
+          "establishing_shot": 0,
+          "static_dialogue": 0,
+          "scene_transition": 1
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "emotional_intensity": 0,
+      "vad_signals": {
+        "arousal_cues": {
+          "rapid_editing": 0,
+          "physical_action": 0,
+          "emotional_outburst": 0,
+          "tense_confrontation": 0,
+          "close_up_intensity": 0
+        },
+        "valence_cues": {
+          "darkness_shadow": 0,
+          "death_loss": 0,
+          "joy_celebration": 1,
+          "threat_danger": 0
+        },
+        "neutral_indicators": {
+          "establishing_shot": 0,
+          "static_dialogue": 0,
+          "scene_transition": 1
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 240.395,
+      "emotional_intensity": 0,
+      "vad_signals": null,
+      "status": "no_data"
+    }
+  ]
+}
