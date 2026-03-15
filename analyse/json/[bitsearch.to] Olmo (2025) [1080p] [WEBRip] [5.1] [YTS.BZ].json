@@ -1,0 +1,5523 @@
+{
+  "movie_id": "[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]",
+  "movie_path": "E:\\film_oral\\Olmo (2025)\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ].mp4",
+  "subtitle_path": "E:\\film_oral\\Olmo (2025)\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ].en.srt",
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 322,
+  "dossier_videos": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]",
+  "date_traitement": "2026-03-14T09:36:36.258973",
+  "stats_extraction": {
+    "total": 322,
+    "reussis": 322,
+    "echecs": 0,
+    "timeouts": 0,
+    "gpu_errors": 0,
+    "cpu_fallbacks": 0
+  },
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 1,
+          "start": 288.6,
+          "end": 289.92,
+          "text": "I need to pee."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 2,
+          "start": 326.96,
+          "end": 327.88,
+          "text": "Ready?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 3,
+          "start": 339.04,
+          "end": 340.0,
+          "text": "No, not yet."
+        },
+        {
+          "index": 4,
+          "start": 340.16,
+          "end": 341.08,
+          "text": "Wait."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 5,
+          "start": 345.6,
+          "end": 346.52,
+          "text": "Feels good."
+        },
+        {
+          "index": 6,
+          "start": 349.56,
+          "end": 350.48,
+          "text": "Done."
+        },
+        {
+          "index": 7,
+          "start": 358.64,
+          "end": 359.56,
+          "text": "What?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 8,
+          "start": 363.0,
+          "end": 363.92,
+          "text": "Dammit."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 9,
+          "start": 380.08,
+          "end": 382.0,
+          "text": "I told you no smoking in this house."
+        },
+        {
+          "index": 10,
+          "start": 384.2,
+          "end": 385.44,
+          "text": "Don't leave it there!"
+        },
+        {
+          "index": 11,
+          "start": 389.96,
+          "end": 390.88,
+          "text": "Hello!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 12,
+          "start": 391.68,
+          "end": 392.76,
+          "text": "I'm back!"
+        },
+        {
+          "index": 13,
+          "start": 395.12,
+          "end": 396.04,
+          "text": "What happened?"
+        },
+        {
+          "index": 14,
+          "start": 396.8,
+          "end": 397.88,
+          "text": "Where were you?"
+        },
+        {
+          "index": 15,
+          "start": 398.04,
+          "end": 400.16,
+          "text": "That fucking car, it keeps dying on me all the time."
+        },
+        {
+          "index": 16,
+          "start": 401.64,
+          "end": 402.64,
+          "text": "I need to call the mechanic."
+        },
+        {
+          "index": 17,
+          "start": 402.8,
+          "end": 405.56,
+          "text": "That fucking mechanic... He's a thief! Don't call him."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 18,
+          "start": 408.12,
+          "end": 409.08,
+          "text": "The mattress!"
+        },
+        {
+          "index": 19,
+          "start": 409.24,
+          "end": 412.32,
+          "text": "We need to take the mattress out to wash it! Quickly!"
+        },
+        {
+          "index": 20,
+          "start": 412.48,
+          "end": 413.6,
+          "text": "Let it air out! Olmo!"
+        },
+        {
+          "index": 21,
+          "start": 413.76,
+          "end": 418.36,
+          "text": "We're going to lift him. Olmo, when Ana and I lift him, you take the mattress out."
+        },
+        {
+          "index": 22,
+          "start": 418.52,
+          "end": 420.36,
+          "text": "One, two, three!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 23,
+          "start": 424.92,
+          "end": 425.88,
+          "text": "Cause he's wet."
+        },
+        {
+          "index": 24,
+          "start": 434.48,
+          "end": 435.4,
+          "text": "Be careful!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 25,
+          "start": 442.2,
+          "end": 443.84,
+          "text": "No! no! no! Not on the floor! Please!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0030_time_450.00s-465.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 26,
+          "start": 450.92,
+          "end": 451.96,
+          "text": "Just for a little bit."
+        },
+        {
+          "index": 27,
+          "start": 453.44,
+          "end": 455.04,
+          "text": "Ana, bring the chair!"
+        },
+        {
+          "index": 28,
+          "start": 459.76,
+          "end": 461.08,
+          "text": "Don't leave me on the floor!"
+        },
+        {
+          "index": 29,
+          "start": 461.6,
+          "end": 462.52,
+          "text": "I'm coming!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 30,
+          "start": 466.88,
+          "end": 468.36,
+          "text": "Don't leave me here on the floor!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 31,
+          "start": 507.52,
+          "end": 510.32,
+          "text": "Push it towards him, Ana, you're pushing it to the other side."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 32,
+          "start": 514.2,
+          "end": 515.72,
+          "text": "Please, hurry!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 33,
+          "start": 526.08,
+          "end": 527.64,
+          "text": "Olmo, pull down your dad's underwear."
+        },
+        {
+          "index": 34,
+          "start": 528.88,
+          "end": 529.8,
+          "text": "But..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 35,
+          "start": 552.56,
+          "end": 553.48,
+          "text": "Lift him."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 585,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0039_time_585.00s-600.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 36,
+          "start": 591.52,
+          "end": 592.44,
+          "text": "Lift him for me."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "timecode_debut_extrait": 600,
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0040_time_600.00s-615.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 37,
+          "start": 601.12,
+          "end": 602.04,
+          "text": "Thank you."
+        },
+        {
+          "index": 38,
+          "start": 602.6,
+          "end": 603.52,
+          "text": "No problem."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 630,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0041_time_615.00s-630.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 39,
+          "start": 627.2,
+          "end": 631.16,
+          "text": "Honey, this one, blue is your color."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "timecode_debut_extrait": 630,
+      "timecode_fin_extrait": 645,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0042_time_630.00s-645.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "timecode_debut_extrait": 645,
+      "timecode_fin_extrait": 660,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0043_time_645.00s-660.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 40,
+          "start": 646.96,
+          "end": 649.48,
+          "text": "How about a beer and a haircut?"
+        },
+        {
+          "index": 41,
+          "start": 652.6,
+          "end": 658.16,
+          "text": "We can make some enchiladas and beans, what do you think?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "timecode_debut_extrait": 660,
+      "timecode_fin_extrait": 675,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0044_time_660.00s-675.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 42,
+          "start": 674.8,
+          "end": 675.96,
+          "text": "Don't eat it, son."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "timecode_debut_extrait": 675,
+      "timecode_fin_extrait": 690,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0045_time_675.00s-690.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 43,
+          "start": 687.36,
+          "end": 688.36,
+          "text": "Thank you."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "timecode_debut_extrait": 690,
+      "timecode_fin_extrait": 705,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0046_time_690.00s-705.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 44,
+          "start": 703.52,
+          "end": 704.44,
+          "text": "Hello."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "timecode_debut_extrait": 705,
+      "timecode_fin_extrait": 720,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0047_time_705.00s-720.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "timecode_debut_extrait": 720,
+      "timecode_fin_extrait": 735,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0048_time_720.00s-735.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "timecode_debut_extrait": 735,
+      "timecode_fin_extrait": 750,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0049_time_735.00s-750.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 45,
+          "start": 749.36,
+          "end": 750.8,
+          "text": "Son of a bitch."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "timecode_debut_extrait": 750,
+      "timecode_fin_extrait": 765,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0050_time_750.00s-765.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 46,
+          "start": 754.4,
+          "end": 756.28,
+          "text": "Hey, put that slice back, it's too much."
+        },
+        {
+          "index": 47,
+          "start": 756.44,
+          "end": 758.08,
+          "text": "Enough, enough."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "timecode_debut_extrait": 765,
+      "timecode_fin_extrait": 780,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0051_time_765.00s-780.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "timecode_debut_extrait": 780,
+      "timecode_fin_extrait": 795,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0052_time_780.00s-795.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "timecode_debut_extrait": 795,
+      "timecode_fin_extrait": 810,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0053_time_795.00s-810.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 48,
+          "start": 795.6,
+          "end": 796.52,
+          "text": "What is it?"
+        },
+        {
+          "index": 49,
+          "start": 796.8,
+          "end": 797.8,
+          "text": "I have to go to work."
+        },
+        {
+          "index": 50,
+          "start": 802.12,
+          "end": 804.04,
+          "text": "I need you to take care of your dad today."
+        },
+        {
+          "index": 51,
+          "start": 805.76,
+          "end": 807.92,
+          "text": "I need you to do it again, I have to work."
+        },
+        {
+          "index": 52,
+          "start": 809.08,
+          "end": 810.4,
+          "text": "I have to work!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "timecode_debut_extrait": 810,
+      "timecode_fin_extrait": 825,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0054_time_810.00s-825.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 53,
+          "start": 822.2,
+          "end": 823.36,
+          "text": "Tell them you can't go."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "timecode_debut_extrait": 825,
+      "timecode_fin_extrait": 840,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0055_time_825.00s-840.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "timecode_debut_extrait": 840,
+      "timecode_fin_extrait": 855,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0056_time_840.00s-855.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "timecode_debut_extrait": 855,
+      "timecode_fin_extrait": 870,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0057_time_855.00s-870.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "timecode_debut_extrait": 870,
+      "timecode_fin_extrait": 885,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0058_time_870.00s-885.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 54,
+          "start": 872.68,
+          "end": 877.8,
+          "text": "Julio. It's Cecilia. I'm fine."
+        },
+        {
+          "index": 55,
+          "start": 880.16,
+          "end": 882.92,
+          "text": "Listen, Julio. I have to cover a double shift."
+        },
+        {
+          "index": 56,
+          "start": 883.08,
+          "end": 886.24,
+          "text": "Could you take care of Néstor for a couple of hours?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "timecode_debut_extrait": 885,
+      "timecode_fin_extrait": 900,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0059_time_885.00s-900.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 57,
+          "start": 887.36,
+          "end": 888.8,
+          "text": "Because he's your brother."
+        },
+        {
+          "index": 58,
+          "start": 889.92,
+          "end": 891.12,
+          "text": "Julio, listen."
+        },
+        {
+          "index": 59,
+          "start": 891.28,
+          "end": 892.72,
+          "text": "Can you come or not?"
+        },
+        {
+          "index": 60,
+          "start": 894.0,
+          "end": 895.04,
+          "text": "Thank you. Thank you."
+        },
+        {
+          "index": 61,
+          "start": 897.76,
+          "end": 898.68,
+          "text": "For nothing."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "timecode_debut_extrait": 900,
+      "timecode_fin_extrait": 915,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0060_time_900.00s-915.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "timecode_debut_extrait": 915,
+      "timecode_fin_extrait": 930,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0061_time_915.00s-930.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 62,
+          "start": 919.84,
+          "end": 921.88,
+          "text": "You stay and take care of your father."
+        },
+        {
+          "index": 63,
+          "start": 924.56,
+          "end": 925.48,
+          "text": "Olmo is taking care of you."
+        },
+        {
+          "index": 64,
+          "start": 926.0,
+          "end": 926.92,
+          "text": "What?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "timecode_debut_extrait": 930,
+      "timecode_fin_extrait": 945,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0062_time_930.00s-945.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 65,
+          "start": 931.36,
+          "end": 932.28,
+          "text": "He hates helping me."
+        },
+        {
+          "index": 66,
+          "start": 933.36,
+          "end": 934.76,
+          "text": "Remember what happened earlier."
+        },
+        {
+          "index": 67,
+          "start": 934.92,
+          "end": 936.56,
+          "text": "- It wasn't my fault. - He never listens."
+        },
+        {
+          "index": 68,
+          "start": 938.84,
+          "end": 939.84,
+          "text": "We haven't paid the rent."
+        },
+        {
+          "index": 69,
+          "start": 940.0,
+          "end": 942.32,
+          "text": "I always have to call him at least four times for him to come."
+        },
+        {
+          "index": 70,
+          "start": 943.84,
+          "end": 944.88,
+          "text": "Ana is the one who helps me."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "timecode_debut_extrait": 945,
+      "timecode_fin_extrait": 960,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0063_time_945.00s-960.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 71,
+          "start": 945.76,
+          "end": 946.8,
+          "text": "You held the urinal wrong."
+        },
+        {
+          "index": 72,
+          "start": 948.64,
+          "end": 949.68,
+          "text": "I'm always telling him..."
+        },
+        {
+          "index": 73,
+          "start": 949.84,
+          "end": 951.32,
+          "text": "We haven't paid the rent!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "timecode_debut_extrait": 960,
+      "timecode_fin_extrait": 975,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0064_time_960.00s-975.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 74,
+          "start": 961.4,
+          "end": 964.0,
+          "text": "If we don't pay by the end of the month, we're going to get evicted."
+        },
+        {
+          "index": 75,
+          "start": 967.32,
+          "end": 968.24,
+          "text": "But..."
+        },
+        {
+          "index": 76,
+          "start": 968.8,
+          "end": 970.04,
+          "text": "Why didn't you tell me before?"
+        },
+        {
+          "index": 77,
+          "start": 970.2,
+          "end": 972.96,
+          "text": "I'm telling you now, we're three months behind."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "timecode_debut_extrait": 975,
+      "timecode_fin_extrait": 990,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0065_time_975.00s-990.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 78,
+          "start": 981.44,
+          "end": 982.52,
+          "text": "I'm taking the bus."
+        },
+        {
+          "index": 79,
+          "start": 986.08,
+          "end": 987.4,
+          "text": "I'm calling the mechanic tomorrow."
+        },
+        {
+          "index": 80,
+          "start": 987.56,
+          "end": 989.72,
+          "text": "Don't call that mechanic, he's a thief,"
+        },
+        {
+          "index": 81,
+          "start": 989.88,
+          "end": 990.96,
+          "text": "just stick the terminals together..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "timecode_debut_extrait": 990,
+      "timecode_fin_extrait": 1005,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0066_time_990.00s-1005.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 82,
+          "start": 991.12,
+          "end": 992.12,
+          "text": "I don't have time for that."
+        },
+        {
+          "index": 83,
+          "start": 998.72,
+          "end": 999.8,
+          "text": "Share the lasagna."
+        },
+        {
+          "index": 84,
+          "start": 1001.2,
+          "end": 1003.84,
+          "text": "- I don't like frozen lasagna. - Don't eat the lasagna."
+        },
+        {
+          "index": 85,
+          "start": 1004.0,
+          "end": 1004.92,
+          "text": "I don't like it."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "timecode_debut_extrait": 1005,
+      "timecode_fin_extrait": 1020,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0067_time_1005.00s-1020.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 86,
+          "start": 1006.24,
+          "end": 1008.16,
+          "text": "I like lasagna, but not the frozen kind."
+        },
+        {
+          "index": 87,
+          "start": 1008.32,
+          "end": 1009.24,
+          "text": "It's the same thing"
+        },
+        {
+          "index": 88,
+          "start": 1009.8,
+          "end": 1011.12,
+          "text": "It's not the same."
+        },
+        {
+          "index": 89,
+          "start": 1014.64,
+          "end": 1016.16,
+          "text": "I'm in charge, kid!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "timecode_debut_extrait": 1020,
+      "timecode_fin_extrait": 1035,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0068_time_1020.00s-1035.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1035,
+      "timecode_fin_extrait": 1050,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0069_time_1035.00s-1050.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "timecode_debut_extrait": 1050,
+      "timecode_fin_extrait": 1065,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0070_time_1050.00s-1065.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "timecode_debut_extrait": 1065,
+      "timecode_fin_extrait": 1080,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0071_time_1065.00s-1080.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "timecode_debut_extrait": 1080,
+      "timecode_fin_extrait": 1095,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0072_time_1080.00s-1095.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "timecode_debut_extrait": 1095,
+      "timecode_fin_extrait": 1110,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0073_time_1095.00s-1110.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "timecode_debut_extrait": 1110,
+      "timecode_fin_extrait": 1125,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0074_time_1110.00s-1125.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "timecode_debut_extrait": 1125,
+      "timecode_fin_extrait": 1140,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0075_time_1125.00s-1140.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 90,
+          "start": 1129.36,
+          "end": 1131.56,
+          "text": "Nina, give me the phone."
+        },
+        {
+          "index": 91,
+          "start": 1132.08,
+          "end": 1134.32,
+          "text": "I'm waiting for Aunt Licha to call."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "timecode_debut_extrait": 1140,
+      "timecode_fin_extrait": 1155,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0076_time_1140.00s-1155.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "timecode_debut_extrait": 1155,
+      "timecode_fin_extrait": 1170,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0077_time_1155.00s-1170.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "timecode_debut_extrait": 1170,
+      "timecode_fin_extrait": 1185,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0078_time_1170.00s-1185.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1185,
+      "timecode_fin_extrait": 1200,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0079_time_1185.00s-1200.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "timecode_debut_extrait": 1200,
+      "timecode_fin_extrait": 1215,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0080_time_1200.00s-1215.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 92,
+          "start": 1210.24,
+          "end": 1211.16,
+          "text": "Cousin!"
+        },
+        {
+          "index": 93,
+          "start": 1213.08,
+          "end": 1214.28,
+          "text": "Hi Aunt Licha."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "timecode_debut_extrait": 1215,
+      "timecode_fin_extrait": 1230,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0081_time_1215.00s-1230.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 94,
+          "start": 1220.28,
+          "end": 1221.8,
+          "text": "She'll call you back."
+        },
+        {
+          "index": 95,
+          "start": 1224.36,
+          "end": 1225.4,
+          "text": "Bye, aunt."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "timecode_debut_extrait": 1230,
+      "timecode_fin_extrait": 1245,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0082_time_1230.00s-1245.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "timecode_debut_extrait": 1245,
+      "timecode_fin_extrait": 1260,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0083_time_1245.00s-1260.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "timecode_debut_extrait": 1260,
+      "timecode_fin_extrait": 1275,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0084_time_1260.00s-1275.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "timecode_debut_extrait": 1275,
+      "timecode_fin_extrait": 1290,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0085_time_1275.00s-1290.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 96,
+          "start": 1275.04,
+          "end": 1275.96,
+          "text": "Cousin."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1305,
+      "timecode_debut_extrait": 1290,
+      "timecode_fin_extrait": 1305,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0086_time_1290.00s-1305.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 87,
+      "intervalle_debut": 1305,
+      "intervalle_fin": 1320,
+      "timecode_debut_extrait": 1305,
+      "timecode_fin_extrait": 1320,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0087_time_1305.00s-1320.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 1320,
+      "intervalle_fin": 1335,
+      "timecode_debut_extrait": 1320,
+      "timecode_fin_extrait": 1335,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0088_time_1320.00s-1335.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 1335,
+      "intervalle_fin": 1350,
+      "timecode_debut_extrait": 1335,
+      "timecode_fin_extrait": 1350,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0089_time_1335.00s-1350.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 90,
+      "intervalle_debut": 1350,
+      "intervalle_fin": 1365,
+      "timecode_debut_extrait": 1350,
+      "timecode_fin_extrait": 1365,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0090_time_1350.00s-1365.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 1365,
+      "intervalle_fin": 1380,
+      "timecode_debut_extrait": 1365,
+      "timecode_fin_extrait": 1380,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0091_time_1365.00s-1380.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 92,
+      "intervalle_debut": 1380,
+      "intervalle_fin": 1395,
+      "timecode_debut_extrait": 1380,
+      "timecode_fin_extrait": 1395,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0092_time_1380.00s-1395.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 93,
+      "intervalle_debut": 1395,
+      "intervalle_fin": 1410,
+      "timecode_debut_extrait": 1395,
+      "timecode_fin_extrait": 1410,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0093_time_1395.00s-1410.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 94,
+      "intervalle_debut": 1410,
+      "intervalle_fin": 1425,
+      "timecode_debut_extrait": 1410,
+      "timecode_fin_extrait": 1425,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0094_time_1410.00s-1425.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 95,
+      "intervalle_debut": 1425,
+      "intervalle_fin": 1440,
+      "timecode_debut_extrait": 1425,
+      "timecode_fin_extrait": 1440,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0095_time_1425.00s-1440.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 96,
+      "intervalle_debut": 1440,
+      "intervalle_fin": 1455,
+      "timecode_debut_extrait": 1440,
+      "timecode_fin_extrait": 1455,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0096_time_1440.00s-1455.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 97,
+      "intervalle_debut": 1455,
+      "intervalle_fin": 1470,
+      "timecode_debut_extrait": 1455,
+      "timecode_fin_extrait": 1470,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0097_time_1455.00s-1470.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 98,
+      "intervalle_debut": 1470,
+      "intervalle_fin": 1485,
+      "timecode_debut_extrait": 1470,
+      "timecode_fin_extrait": 1485,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0098_time_1470.00s-1485.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 99,
+      "intervalle_debut": 1485,
+      "intervalle_fin": 1500,
+      "timecode_debut_extrait": 1485,
+      "timecode_fin_extrait": 1500,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0099_time_1485.00s-1500.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 100,
+      "intervalle_debut": 1500,
+      "intervalle_fin": 1515,
+      "timecode_debut_extrait": 1500,
+      "timecode_fin_extrait": 1515,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0100_time_1500.00s-1515.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 101,
+      "intervalle_debut": 1515,
+      "intervalle_fin": 1530,
+      "timecode_debut_extrait": 1515,
+      "timecode_fin_extrait": 1530,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0101_time_1515.00s-1530.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 102,
+      "intervalle_debut": 1530,
+      "intervalle_fin": 1545,
+      "timecode_debut_extrait": 1530,
+      "timecode_fin_extrait": 1545,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0102_time_1530.00s-1545.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 97,
+          "start": 1543.76,
+          "end": 1544.68,
+          "text": "Hello, dad."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 103,
+      "intervalle_debut": 1545,
+      "intervalle_fin": 1560,
+      "timecode_debut_extrait": 1545,
+      "timecode_fin_extrait": 1560,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0103_time_1545.00s-1560.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 98,
+          "start": 1545.6,
+          "end": 1546.52,
+          "text": "Hello."
+        },
+        {
+          "index": 99,
+          "start": 1551.88,
+          "end": 1553.0,
+          "text": "Why today?"
+        },
+        {
+          "index": 100,
+          "start": 1559.84,
+          "end": 1560.76,
+          "text": "Hello, Sir."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 104,
+      "intervalle_debut": 1560,
+      "intervalle_fin": 1575,
+      "timecode_debut_extrait": 1560,
+      "timecode_fin_extrait": 1575,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0104_time_1560.00s-1575.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 101,
+          "start": 1562.0,
+          "end": 1562.92,
+          "text": "Hello, Miguel."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 105,
+      "intervalle_debut": 1575,
+      "intervalle_fin": 1590,
+      "timecode_debut_extrait": 1575,
+      "timecode_fin_extrait": 1590,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0105_time_1575.00s-1590.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 106,
+      "intervalle_debut": 1590,
+      "intervalle_fin": 1605,
+      "timecode_debut_extrait": 1590,
+      "timecode_fin_extrait": 1605,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0106_time_1590.00s-1605.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 102,
+          "start": 1597.68,
+          "end": 1600.72,
+          "text": "Two amplifier modules working in stereophony."
+        },
+        {
+          "index": 103,
+          "start": 1603.8,
+          "end": 1607.96,
+          "text": "Your mom used to stand in front of the window shop every time we walked by."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 107,
+      "intervalle_debut": 1605,
+      "intervalle_fin": 1620,
+      "timecode_debut_extrait": 1605,
+      "timecode_fin_extrait": 1620,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0107_time_1605.00s-1620.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 104,
+          "start": 1609.68,
+          "end": 1614.36,
+          "text": "I bought it for her on our wedding anniversary, she couldn't be happier."
+        },
+        {
+          "index": 105,
+          "start": 1616.44,
+          "end": 1617.44,
+          "text": "Remember?"
+        },
+        {
+          "index": 106,
+          "start": 1619.72,
+          "end": 1622.32,
+          "text": "We danced all night long."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 108,
+      "intervalle_debut": 1620,
+      "intervalle_fin": 1635,
+      "timecode_debut_extrait": 1620,
+      "timecode_fin_extrait": 1635,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0108_time_1620.00s-1635.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 107,
+          "start": 1623.2,
+          "end": 1625.36,
+          "text": "You both fell asleep on the sofa."
+        },
+        {
+          "index": 108,
+          "start": 1633.36,
+          "end": 1634.88,
+          "text": "Alright. Let's begin."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 109,
+      "intervalle_debut": 1635,
+      "intervalle_fin": 1650,
+      "timecode_debut_extrait": 1635,
+      "timecode_fin_extrait": 1650,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0109_time_1635.00s-1650.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 109,
+          "start": 1636.0,
+          "end": 1638.16,
+          "text": "First, we need to know if the problem"
+        },
+        {
+          "index": 110,
+          "start": 1638.32,
+          "end": 1640.92,
+          "text": "comes from the transformers or from the transistors."
+        },
+        {
+          "index": 111,
+          "start": 1642.2,
+          "end": 1643.72,
+          "text": "Do you know the difference between"
+        },
+        {
+          "index": 112,
+          "start": 1643.88,
+          "end": 1645.68,
+          "text": "a two-phase transformer and a three-phase one?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 110,
+      "intervalle_debut": 1650,
+      "intervalle_fin": 1665,
+      "timecode_debut_extrait": 1650,
+      "timecode_fin_extrait": 1665,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0110_time_1650.00s-1665.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 113,
+          "start": 1651.96,
+          "end": 1653.52,
+          "text": "Ah that's very important!"
+        },
+        {
+          "index": 114,
+          "start": 1653.68,
+          "end": 1657.12,
+          "text": "Because it has to do with the system of production and distribution of energy."
+        },
+        {
+          "index": 115,
+          "start": 1662.08,
+          "end": 1663.0,
+          "text": "Fine."
+        },
+        {
+          "index": 116,
+          "start": 1664.2,
+          "end": 1665.68,
+          "text": "We're going to use the multimeter."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 111,
+      "intervalle_debut": 1665,
+      "intervalle_fin": 1680,
+      "timecode_debut_extrait": 1665,
+      "timecode_fin_extrait": 1680,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0111_time_1665.00s-1680.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 117,
+          "start": 1669.0,
+          "end": 1669.92,
+          "text": "Miguel!"
+        },
+        {
+          "index": 118,
+          "start": 1670.08,
+          "end": 1674.36,
+          "text": "Look for a little black box with two wires. One red, one black."
+        },
+        {
+          "index": 119,
+          "start": 1676.76,
+          "end": 1677.72,
+          "text": "That one!"
+        },
+        {
+          "index": 120,
+          "start": 1678.28,
+          "end": 1679.2,
+          "text": "Good."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 112,
+      "intervalle_debut": 1680,
+      "intervalle_fin": 1695,
+      "timecode_debut_extrait": 1680,
+      "timecode_fin_extrait": 1695,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0112_time_1680.00s-1695.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 121,
+          "start": 1680.0,
+          "end": 1681.08,
+          "text": "Now."
+        },
+        {
+          "index": 122,
+          "start": 1681.24,
+          "end": 1685.48,
+          "text": "Put the tip of the red wire on the right side of the transformer."
+        },
+        {
+          "index": 123,
+          "start": 1685.64,
+          "end": 1688.16,
+          "text": "And the other one on the orange wire."
+        },
+        {
+          "index": 124,
+          "start": 1688.32,
+          "end": 1690.92,
+          "text": "No! No! I said on the right side."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 113,
+      "intervalle_debut": 1695,
+      "intervalle_fin": 1710,
+      "timecode_debut_extrait": 1695,
+      "timecode_fin_extrait": 1710,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0113_time_1695.00s-1710.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 125,
+          "start": 1696.36,
+          "end": 1698.4,
+          "text": "Oh! Well then on your left side."
+        },
+        {
+          "index": 126,
+          "start": 1705.32,
+          "end": 1706.48,
+          "text": "What's the reading?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 114,
+      "intervalle_debut": 1710,
+      "intervalle_fin": 1725,
+      "timecode_debut_extrait": 1710,
+      "timecode_fin_extrait": 1725,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0114_time_1710.00s-1725.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 127,
+          "start": 1711.04,
+          "end": 1713.76,
+          "text": "So the problem has to do with the transistors."
+        },
+        {
+          "index": 128,
+          "start": 1715.48,
+          "end": 1718.96,
+          "text": "First we need to disconnect the cathodes."
+        },
+        {
+          "index": 129,
+          "start": 1724.36,
+          "end": 1727.52,
+          "text": "A cathode is the negative side of a diode."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 115,
+      "intervalle_debut": 1725,
+      "intervalle_fin": 1740,
+      "timecode_debut_extrait": 1725,
+      "timecode_fin_extrait": 1740,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0115_time_1725.00s-1740.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 130,
+          "start": 1728.2,
+          "end": 1732.48,
+          "text": "And a diode is used to transform AC voltage to DC."
+        },
+        {
+          "index": 131,
+          "start": 1736.12,
+          "end": 1742.04,
+          "text": "It's that black cylinder with the ring on top of it."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 116,
+      "intervalle_debut": 1740,
+      "intervalle_fin": 1755,
+      "timecode_debut_extrait": 1740,
+      "timecode_fin_extrait": 1755,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0116_time_1740.00s-1755.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 132,
+          "start": 1744.32,
+          "end": 1746.88,
+          "text": "Now take the multimeter and measure the voltage."
+        },
+        {
+          "index": 133,
+          "start": 1748.12,
+          "end": 1749.32,
+          "text": "No! No!"
+        },
+        {
+          "index": 134,
+          "start": 1749.72,
+          "end": 1750.96,
+          "text": "That's not how you measure the voltage,"
+        },
+        {
+          "index": 135,
+          "start": 1751.12,
+          "end": 1753.16,
+          "text": "you have to use the right polarity."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 117,
+      "intervalle_debut": 1755,
+      "intervalle_fin": 1770,
+      "timecode_debut_extrait": 1755,
+      "timecode_fin_extrait": 1770,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0117_time_1755.00s-1770.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 136,
+          "start": 1756.16,
+          "end": 1757.6,
+          "text": "Don't you want to learn?"
+        },
+        {
+          "index": 137,
+          "start": 1762.0,
+          "end": 1763.72,
+          "text": "I've told you a thousand times."
+        },
+        {
+          "index": 138,
+          "start": 1763.88,
+          "end": 1766.12,
+          "text": "The red one goes on the positive side,"
+        },
+        {
+          "index": 139,
+          "start": 1766.28,
+          "end": 1767.84,
+          "text": "and the black one, on the negative side."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 118,
+      "intervalle_debut": 1770,
+      "intervalle_fin": 1785,
+      "timecode_debut_extrait": 1770,
+      "timecode_fin_extrait": 1785,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0118_time_1770.00s-1785.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 140,
+          "start": 1774.28,
+          "end": 1776.28,
+          "text": "So it has to do with the oval transistor."
+        },
+        {
+          "index": 141,
+          "start": 1778.84,
+          "end": 1779.76,
+          "text": "Yes..."
+        },
+        {
+          "index": 142,
+          "start": 1780.28,
+          "end": 1781.52,
+          "text": "But first, tell me"
+        },
+        {
+          "index": 143,
+          "start": 1781.68,
+          "end": 1784.0,
+          "text": "what's the best conductor to build a bridge between cathodes?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 119,
+      "intervalle_debut": 1785,
+      "intervalle_fin": 1800,
+      "timecode_debut_extrait": 1785,
+      "timecode_fin_extrait": 1800,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0119_time_1785.00s-1800.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 144,
+          "start": 1791.44,
+          "end": 1792.4,
+          "text": "Porcelain?"
+        },
+        {
+          "index": 145,
+          "start": 1795.08,
+          "end": 1796.76,
+          "text": "That's your problem, you don't want to learn."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 120,
+      "intervalle_debut": 1800,
+      "intervalle_fin": 1815,
+      "timecode_debut_extrait": 1800,
+      "timecode_fin_extrait": 1815,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0120_time_1800.00s-1815.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 146,
+          "start": 1800.16,
+          "end": 1801.28,
+          "text": "Like what smart ass?"
+        },
+        {
+          "index": 147,
+          "start": 1802.8,
+          "end": 1803.84,
+          "text": "That's not true."
+        },
+        {
+          "index": 148,
+          "start": 1804.0,
+          "end": 1805.28,
+          "text": "I fixed the derailleur."
+        },
+        {
+          "index": 149,
+          "start": 1806.48,
+          "end": 1808.52,
+          "text": "If that bike works, it's because of me."
+        },
+        {
+          "index": 150,
+          "start": 1809.72,
+          "end": 1810.88,
+          "text": "You only put oil on the wheels!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 121,
+      "intervalle_debut": 1815,
+      "intervalle_fin": 1830,
+      "timecode_debut_extrait": 1815,
+      "timecode_fin_extrait": 1830,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0121_time_1815.00s-1830.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 151,
+          "start": 1818.56,
+          "end": 1821.56,
+          "text": "The best conductor to build a bridge between cathodes is aluminum."
+        },
+        {
+          "index": 152,
+          "start": 1822.68,
+          "end": 1824.36,
+          "text": "Miguel, there should be a little piece in there."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 122,
+      "intervalle_debut": 1830,
+      "intervalle_fin": 1845,
+      "timecode_debut_extrait": 1830,
+      "timecode_fin_extrait": 1845,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0122_time_1830.00s-1845.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 153,
+          "start": 1838.48,
+          "end": 1839.44,
+          "text": "Very good."
+        },
+        {
+          "index": 154,
+          "start": 1842.96,
+          "end": 1844.24,
+          "text": "Now turn it on."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 123,
+      "intervalle_debut": 1845,
+      "intervalle_fin": 1860,
+      "timecode_debut_extrait": 1845,
+      "timecode_fin_extrait": 1860,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0123_time_1845.00s-1860.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 155,
+          "start": 1858.0,
+          "end": 1859.0,
+          "text": "You did something wrong."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 124,
+      "intervalle_debut": 1860,
+      "intervalle_fin": 1875,
+      "timecode_debut_extrait": 1860,
+      "timecode_fin_extrait": 1875,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0124_time_1860.00s-1875.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 156,
+          "start": 1861.76,
+          "end": 1863.28,
+          "text": "I told you negative polarity."
+        },
+        {
+          "index": 157,
+          "start": 1865.32,
+          "end": 1866.24,
+          "text": "Negative."
+        },
+        {
+          "index": 158,
+          "start": 1867.16,
+          "end": 1868.24,
+          "text": "I said negative!"
+        },
+        {
+          "index": 159,
+          "start": 1869.28,
+          "end": 1871.64,
+          "text": "I'm telling you negative, I told you a thousand times!"
+        },
+        {
+          "index": 160,
+          "start": 1871.8,
+          "end": 1873.6,
+          "text": "You only listen to what you want, you never pay attention."
+        },
+        {
+          "index": 161,
+          "start": 1874.92,
+          "end": 1876.12,
+          "text": "I always tell you how to do things..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 125,
+      "intervalle_debut": 1875,
+      "intervalle_fin": 1890,
+      "timecode_debut_extrait": 1875,
+      "timecode_fin_extrait": 1890,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0125_time_1875.00s-1890.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 162,
+          "start": 1876.84,
+          "end": 1877.88,
+          "text": "and you always do the opposite."
+        },
+        {
+          "index": 163,
+          "start": 1879.52,
+          "end": 1880.56,
+          "text": "Who's the one teaching here?"
+        },
+        {
+          "index": 164,
+          "start": 1880.72,
+          "end": 1881.84,
+          "text": "I just want you to learn!"
+        },
+        {
+          "index": 165,
+          "start": 1883.32,
+          "end": 1884.72,
+          "text": "I do get upset, but you keep messing up."
+        },
+        {
+          "index": 166,
+          "start": 1886.4,
+          "end": 1887.56,
+          "text": "You never pay attention!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 126,
+      "intervalle_debut": 1890,
+      "intervalle_fin": 1905,
+      "timecode_debut_extrait": 1890,
+      "timecode_fin_extrait": 1905,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0126_time_1890.00s-1905.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 167,
+          "start": 1890.92,
+          "end": 1891.96,
+          "text": "What the...?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 127,
+      "intervalle_debut": 1905,
+      "intervalle_fin": 1920,
+      "timecode_debut_extrait": 1905,
+      "timecode_fin_extrait": 1920,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0127_time_1905.00s-1920.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 168,
+          "start": 1908.76,
+          "end": 1909.92,
+          "text": "Let's dance, Sir!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 128,
+      "intervalle_debut": 1920,
+      "intervalle_fin": 1935,
+      "timecode_debut_extrait": 1920,
+      "timecode_fin_extrait": 1935,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0128_time_1920.00s-1935.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 129,
+      "intervalle_debut": 1935,
+      "intervalle_fin": 1950,
+      "timecode_debut_extrait": 1935,
+      "timecode_fin_extrait": 1950,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0129_time_1935.00s-1950.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 130,
+      "intervalle_debut": 1950,
+      "intervalle_fin": 1965,
+      "timecode_debut_extrait": 1950,
+      "timecode_fin_extrait": 1965,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0130_time_1950.00s-1965.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 131,
+      "intervalle_debut": 1965,
+      "intervalle_fin": 1980,
+      "timecode_debut_extrait": 1965,
+      "timecode_fin_extrait": 1980,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0131_time_1965.00s-1980.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 132,
+      "intervalle_debut": 1980,
+      "intervalle_fin": 1995,
+      "timecode_debut_extrait": 1980,
+      "timecode_fin_extrait": 1995,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0132_time_1980.00s-1995.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 133,
+      "intervalle_debut": 1995,
+      "intervalle_fin": 2010,
+      "timecode_debut_extrait": 1995,
+      "timecode_fin_extrait": 2010,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0133_time_1995.00s-2010.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 134,
+      "intervalle_debut": 2010,
+      "intervalle_fin": 2025,
+      "timecode_debut_extrait": 2010,
+      "timecode_fin_extrait": 2025,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0134_time_2010.00s-2025.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 135,
+      "intervalle_debut": 2025,
+      "intervalle_fin": 2040,
+      "timecode_debut_extrait": 2025,
+      "timecode_fin_extrait": 2040,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0135_time_2025.00s-2040.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 136,
+      "intervalle_debut": 2040,
+      "intervalle_fin": 2055,
+      "timecode_debut_extrait": 2040,
+      "timecode_fin_extrait": 2055,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0136_time_2040.00s-2055.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 137,
+      "intervalle_debut": 2055,
+      "intervalle_fin": 2070,
+      "timecode_debut_extrait": 2055,
+      "timecode_fin_extrait": 2070,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0137_time_2055.00s-2070.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 169,
+          "start": 2058.36,
+          "end": 2059.64,
+          "text": "How is my Olmo Manero?"
+        },
+        {
+          "index": 170,
+          "start": 2059.8,
+          "end": 2061.36,
+          "text": "Ah! Good, Uncle Julio!"
+        },
+        {
+          "index": 171,
+          "start": 2061.76,
+          "end": 2062.68,
+          "text": "Let's see."
+        },
+        {
+          "index": 172,
+          "start": 2065.84,
+          "end": 2067.2,
+          "text": "A true dancer."
+        },
+        {
+          "index": 173,
+          "start": 2069.36,
+          "end": 2070.44,
+          "text": "And you Miguelito?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 138,
+      "intervalle_debut": 2070,
+      "intervalle_fin": 2085,
+      "timecode_debut_extrait": 2070,
+      "timecode_fin_extrait": 2085,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0138_time_2070.00s-2085.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 174,
+          "start": 2072.96,
+          "end": 2073.92,
+          "text": "I told you."
+        },
+        {
+          "index": 175,
+          "start": 2078.32,
+          "end": 2079.24,
+          "text": "To a party?"
+        },
+        {
+          "index": 176,
+          "start": 2081.48,
+          "end": 2082.56,
+          "text": "With your little neighbor, right?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 139,
+      "intervalle_debut": 2085,
+      "intervalle_fin": 2100,
+      "timecode_debut_extrait": 2085,
+      "timecode_fin_extrait": 2100,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0139_time_2085.00s-2100.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 177,
+          "start": 2085.68,
+          "end": 2086.6,
+          "text": "A goddess!"
+        },
+        {
+          "index": 178,
+          "start": 2088.2,
+          "end": 2089.16,
+          "text": "Ah! That's why...?"
+        },
+        {
+          "index": 179,
+          "start": 2091.24,
+          "end": 2092.56,
+          "text": "Don't worry, I'll take care of him."
+        },
+        {
+          "index": 180,
+          "start": 2095.44,
+          "end": 2096.44,
+          "text": "But where's the grill?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 140,
+      "intervalle_debut": 2100,
+      "intervalle_fin": 2115,
+      "timecode_debut_extrait": 2100,
+      "timecode_fin_extrait": 2115,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0140_time_2100.00s-2115.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 181,
+          "start": 2110.0,
+          "end": 2113.08,
+          "text": "This part is rusty. Well, where does your dad keep it?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 141,
+      "intervalle_debut": 2115,
+      "intervalle_fin": 2130,
+      "timecode_debut_extrait": 2115,
+      "timecode_fin_extrait": 2130,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0141_time_2115.00s-2130.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 182,
+          "start": 2115.0,
+          "end": 2116.8,
+          "text": "- Here. - Outside?"
+        },
+        {
+          "index": 183,
+          "start": 2118.08,
+          "end": 2122.52,
+          "text": "You can't do that with this type of grill. These have to be kept inside."
+        },
+        {
+          "index": 184,
+          "start": 2125.76,
+          "end": 2127.12,
+          "text": "For example your boots."
+        },
+        {
+          "index": 185,
+          "start": 2127.88,
+          "end": 2128.8,
+          "text": "Where do you keep them?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 142,
+      "intervalle_debut": 2130,
+      "intervalle_fin": 2145,
+      "timecode_debut_extrait": 2130,
+      "timecode_fin_extrait": 2145,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0142_time_2130.00s-2145.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 186,
+          "start": 2130.08,
+          "end": 2131.0,
+          "text": "Well, inside."
+        },
+        {
+          "index": 187,
+          "start": 2131.28,
+          "end": 2132.2,
+          "text": "Exactly!"
+        },
+        {
+          "index": 188,
+          "start": 2135.76,
+          "end": 2137.48,
+          "text": "I don't know what he told you,"
+        },
+        {
+          "index": 189,
+          "start": 2137.64,
+          "end": 2139.2,
+          "text": "but that grill is mine."
+        },
+        {
+          "index": 190,
+          "start": 2139.72,
+          "end": 2140.92,
+          "text": "We bought it together."
+        },
+        {
+          "index": 191,
+          "start": 2141.44,
+          "end": 2143.2,
+          "text": "He only chipped in $25."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 143,
+      "intervalle_debut": 2145,
+      "intervalle_fin": 2160,
+      "timecode_debut_extrait": 2145,
+      "timecode_fin_extrait": 2160,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0143_time_2145.00s-2160.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 192,
+          "start": 2145.04,
+          "end": 2146.56,
+          "text": "Don't be a liar."
+        },
+        {
+          "index": 193,
+          "start": 2146.88,
+          "end": 2148.0,
+          "text": "I gave you $75."
+        },
+        {
+          "index": 194,
+          "start": 2148.48,
+          "end": 2149.76,
+          "text": "So I'm the liar?"
+        },
+        {
+          "index": 195,
+          "start": 2151.72,
+          "end": 2153.4,
+          "text": "Besides, you don't even know how to use it."
+        },
+        {
+          "index": 196,
+          "start": 2153.56,
+          "end": 2156.28,
+          "text": "Your uncle is good at eating, not so great at cooking."
+        },
+        {
+          "index": 197,
+          "start": 2159.2,
+          "end": 2160.4,
+          "text": "It's not quantum physics."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 144,
+      "intervalle_debut": 2160,
+      "intervalle_fin": 2175,
+      "timecode_debut_extrait": 2160,
+      "timecode_fin_extrait": 2175,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0144_time_2160.00s-2175.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 198,
+          "start": 2160.96,
+          "end": 2162.48,
+          "text": "It's not quantum physics..."
+        },
+        {
+          "index": 199,
+          "start": 2163.12,
+          "end": 2164.64,
+          "text": "but you need to know how to do it."
+        },
+        {
+          "index": 200,
+          "start": 2167.44,
+          "end": 2170.28,
+          "text": "He's just jealous because the only time he let me use it,"
+        },
+        {
+          "index": 201,
+          "start": 2170.44,
+          "end": 2173.96,
+          "text": "everyone said that this idiot, made the best burgers"
+        },
+        {
+          "index": 202,
+          "start": 2174.12,
+          "end": 2175.64,
+          "text": "they'd ever tasted in their fucking life."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 145,
+      "intervalle_debut": 2175,
+      "intervalle_fin": 2190,
+      "timecode_debut_extrait": 2175,
+      "timecode_fin_extrait": 2190,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0145_time_2175.00s-2190.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 203,
+          "start": 2176.2,
+          "end": 2177.28,
+          "text": "You only flipped them."
+        },
+        {
+          "index": 204,
+          "start": 2180.04,
+          "end": 2181.16,
+          "text": "Typical Nestor."
+        },
+        {
+          "index": 205,
+          "start": 2182.44,
+          "end": 2184.16,
+          "text": "Always making less of what people do."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 146,
+      "intervalle_debut": 2190,
+      "intervalle_fin": 2205,
+      "timecode_debut_extrait": 2190,
+      "timecode_fin_extrait": 2205,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0146_time_2190.00s-2205.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 206,
+          "start": 2190.52,
+          "end": 2192.04,
+          "text": "Well, hey."
+        },
+        {
+          "index": 207,
+          "start": 2192.72,
+          "end": 2196.16,
+          "text": "I want to have barbecues in my backyard with my friends."
+        },
+        {
+          "index": 208,
+          "start": 2196.32,
+          "end": 2197.32,
+          "text": "With your friends?"
+        },
+        {
+          "index": 209,
+          "start": 2201.24,
+          "end": 2202.16,
+          "text": "And you."
+        },
+        {
+          "index": 210,
+          "start": 2203.8,
+          "end": 2206.2,
+          "text": "And you, with you, with my family."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 147,
+      "intervalle_debut": 2205,
+      "intervalle_fin": 2220,
+      "timecode_debut_extrait": 2205,
+      "timecode_fin_extrait": 2220,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0147_time_2205.00s-2220.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 211,
+          "start": 2207.0,
+          "end": 2208.32,
+          "text": "You're invited."
+        },
+        {
+          "index": 212,
+          "start": 2208.92,
+          "end": 2211.48,
+          "text": "It's good to know that I'm invited to your new house."
+        },
+        {
+          "index": 213,
+          "start": 2213.16,
+          "end": 2214.24,
+          "text": "Of course you are."
+        },
+        {
+          "index": 214,
+          "start": 2215.36,
+          "end": 2217.08,
+          "text": "Well, so far, I haven't been."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 148,
+      "intervalle_debut": 2220,
+      "intervalle_fin": 2235,
+      "timecode_debut_extrait": 2220,
+      "timecode_fin_extrait": 2235,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0148_time_2220.00s-2235.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 215,
+          "start": 2221.56,
+          "end": 2223.44,
+          "text": "I was waiting for you to be..."
+        },
+        {
+          "index": 216,
+          "start": 2225.24,
+          "end": 2226.2,
+          "text": "...better."
+        },
+        {
+          "index": 217,
+          "start": 2232.92,
+          "end": 2234.76,
+          "text": "Over my dead body! Did you hear me?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 149,
+      "intervalle_debut": 2235,
+      "intervalle_fin": 2250,
+      "timecode_debut_extrait": 2235,
+      "timecode_fin_extrait": 2250,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0149_time_2235.00s-2250.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 218,
+          "start": 2237.04,
+          "end": 2238.16,
+          "text": "That grill is mine!"
+        },
+        {
+          "index": 219,
+          "start": 2238.68,
+          "end": 2239.84,
+          "text": "Hey, easy brother!"
+        },
+        {
+          "index": 220,
+          "start": 2241.0,
+          "end": 2243.0,
+          "text": "Don't call me brother, asshole."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 150,
+      "intervalle_debut": 2250,
+      "intervalle_fin": 2265,
+      "timecode_debut_extrait": 2250,
+      "timecode_fin_extrait": 2265,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0150_time_2250.00s-2265.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 221,
+          "start": 2252.56,
+          "end": 2253.76,
+          "text": "He's crazy!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 151,
+      "intervalle_debut": 2265,
+      "intervalle_fin": 2280,
+      "timecode_debut_extrait": 2265,
+      "timecode_fin_extrait": 2280,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0151_time_2265.00s-2280.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 152,
+      "intervalle_debut": 2280,
+      "intervalle_fin": 2295,
+      "timecode_debut_extrait": 2280,
+      "timecode_fin_extrait": 2295,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0152_time_2280.00s-2295.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 153,
+      "intervalle_debut": 2295,
+      "intervalle_fin": 2310,
+      "timecode_debut_extrait": 2295,
+      "timecode_fin_extrait": 2310,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0153_time_2295.00s-2310.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 154,
+      "intervalle_debut": 2310,
+      "intervalle_fin": 2325,
+      "timecode_debut_extrait": 2310,
+      "timecode_fin_extrait": 2325,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0154_time_2310.00s-2325.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 155,
+      "intervalle_debut": 2325,
+      "intervalle_fin": 2340,
+      "timecode_debut_extrait": 2325,
+      "timecode_fin_extrait": 2340,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0155_time_2325.00s-2340.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 156,
+      "intervalle_debut": 2340,
+      "intervalle_fin": 2355,
+      "timecode_debut_extrait": 2340,
+      "timecode_fin_extrait": 2355,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0156_time_2340.00s-2355.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 157,
+      "intervalle_debut": 2355,
+      "intervalle_fin": 2370,
+      "timecode_debut_extrait": 2355,
+      "timecode_fin_extrait": 2370,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0157_time_2355.00s-2370.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 158,
+      "intervalle_debut": 2370,
+      "intervalle_fin": 2385,
+      "timecode_debut_extrait": 2370,
+      "timecode_fin_extrait": 2385,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0158_time_2370.00s-2385.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 159,
+      "intervalle_debut": 2385,
+      "intervalle_fin": 2400,
+      "timecode_debut_extrait": 2385,
+      "timecode_fin_extrait": 2400,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0159_time_2385.00s-2400.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 160,
+      "intervalle_debut": 2400,
+      "intervalle_fin": 2415,
+      "timecode_debut_extrait": 2400,
+      "timecode_fin_extrait": 2415,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0160_time_2400.00s-2415.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 161,
+      "intervalle_debut": 2415,
+      "intervalle_fin": 2430,
+      "timecode_debut_extrait": 2415,
+      "timecode_fin_extrait": 2430,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0161_time_2415.00s-2430.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 162,
+      "intervalle_debut": 2430,
+      "intervalle_fin": 2445,
+      "timecode_debut_extrait": 2430,
+      "timecode_fin_extrait": 2445,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0162_time_2430.00s-2445.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 163,
+      "intervalle_debut": 2445,
+      "intervalle_fin": 2460,
+      "timecode_debut_extrait": 2445,
+      "timecode_fin_extrait": 2460,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0163_time_2445.00s-2460.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 164,
+      "intervalle_debut": 2460,
+      "intervalle_fin": 2475,
+      "timecode_debut_extrait": 2460,
+      "timecode_fin_extrait": 2475,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0164_time_2460.00s-2475.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 165,
+      "intervalle_debut": 2475,
+      "intervalle_fin": 2490,
+      "timecode_debut_extrait": 2475,
+      "timecode_fin_extrait": 2490,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0165_time_2475.00s-2490.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 222,
+          "start": 2486.2,
+          "end": 2487.12,
+          "text": "Just like that?"
+        },
+        {
+          "index": 223,
+          "start": 2489.56,
+          "end": 2490.84,
+          "text": "What about the fight tonight?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 166,
+      "intervalle_debut": 2490,
+      "intervalle_fin": 2505,
+      "timecode_debut_extrait": 2490,
+      "timecode_fin_extrait": 2505,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0166_time_2490.00s-2505.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 224,
+          "start": 2496.28,
+          "end": 2498.32,
+          "text": "I'm not asking you to watch it with me,"
+        },
+        {
+          "index": 225,
+          "start": 2498.48,
+          "end": 2501.08,
+          "text": "just move the antenna so I can watch the TV."
+        },
+        {
+          "index": 226,
+          "start": 2503.96,
+          "end": 2505.8,
+          "text": "Boxing's on Channel 5."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 167,
+      "intervalle_debut": 2505,
+      "intervalle_fin": 2520,
+      "timecode_debut_extrait": 2505,
+      "timecode_fin_extrait": 2520,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0167_time_2505.00s-2520.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 227,
+          "start": 2506.56,
+          "end": 2509.52,
+          "text": "Remember, you gotta go up to the roof and move the antenna."
+        },
+        {
+          "index": 228,
+          "start": 2511.4,
+          "end": 2512.4,
+          "text": "Flip me to my other side"
+        },
+        {
+          "index": 229,
+          "start": 2515.44,
+          "end": 2516.72,
+          "text": "- Hi. - Hello Miguel."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 168,
+      "intervalle_debut": 2520,
+      "intervalle_fin": 2535,
+      "timecode_debut_extrait": 2520,
+      "timecode_fin_extrait": 2535,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0168_time_2520.00s-2535.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 230,
+          "start": 2524.04,
+          "end": 2525.12,
+          "text": "What did I say about smoking?"
+        },
+        {
+          "index": 231,
+          "start": 2528.12,
+          "end": 2529.12,
+          "text": "I'm talking to you."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 169,
+      "intervalle_debut": 2535,
+      "intervalle_fin": 2550,
+      "timecode_debut_extrait": 2535,
+      "timecode_fin_extrait": 2550,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0169_time_2535.00s-2550.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 232,
+          "start": 2542.28,
+          "end": 2544.12,
+          "text": "Get that shit away from my face."
+        },
+        {
+          "index": 233,
+          "start": 2546.76,
+          "end": 2547.84,
+          "text": "Don't leave it there!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 170,
+      "intervalle_debut": 2550,
+      "intervalle_fin": 2565,
+      "timecode_debut_extrait": 2550,
+      "timecode_fin_extrait": 2565,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0170_time_2550.00s-2565.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 234,
+          "start": 2551.28,
+          "end": 2552.32,
+          "text": "Hey, the cigarette!"
+        },
+        {
+          "index": 235,
+          "start": 2555.2,
+          "end": 2558.24,
+          "text": "You're not only ruining your lungs, you're also ruining my rug."
+        },
+        {
+          "index": 236,
+          "start": 2561.6,
+          "end": 2562.56,
+          "text": "No, it's not."
+        },
+        {
+          "index": 237,
+          "start": 2563.16,
+          "end": 2564.4,
+          "text": "You burnt it, I can see it from here."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 171,
+      "intervalle_debut": 2565,
+      "intervalle_fin": 2580,
+      "timecode_debut_extrait": 2565,
+      "timecode_fin_extrait": 2580,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0171_time_2565.00s-2580.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 238,
+          "start": 2572.84,
+          "end": 2574.76,
+          "text": "Are you aware of the damage you're doing to your body?"
+        },
+        {
+          "index": 239,
+          "start": 2576.92,
+          "end": 2579.48,
+          "text": "I smoked until they proved how much harm it can cause!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 172,
+      "intervalle_debut": 2580,
+      "intervalle_fin": 2595,
+      "timecode_debut_extrait": 2580,
+      "timecode_fin_extrait": 2595,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0172_time_2580.00s-2595.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 240,
+          "start": 2582.48,
+          "end": 2583.96,
+          "text": "How many cigarettes do you smoke a day?"
+        },
+        {
+          "index": 241,
+          "start": 2585.56,
+          "end": 2587.72,
+          "text": "How many cigarettes do you smoke a day?"
+        },
+        {
+          "index": 242,
+          "start": 2593.8,
+          "end": 2594.72,
+          "text": "Wait."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 173,
+      "intervalle_debut": 2595,
+      "intervalle_fin": 2610,
+      "timecode_debut_extrait": 2595,
+      "timecode_fin_extrait": 2610,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0173_time_2595.00s-2610.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 243,
+          "start": 2596.2,
+          "end": 2597.4,
+          "text": "Yes, turn me over."
+        },
+        {
+          "index": 244,
+          "start": 2605.6,
+          "end": 2607.08,
+          "text": "Hey. Wait."
+        },
+        {
+          "index": 245,
+          "start": 2608.6,
+          "end": 2609.88,
+          "text": "My head!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 174,
+      "intervalle_debut": 2610,
+      "intervalle_fin": 2625,
+      "timecode_debut_extrait": 2610,
+      "timecode_fin_extrait": 2625,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0174_time_2610.00s-2625.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 246,
+          "start": 2622.08,
+          "end": 2623.6,
+          "text": "You smell like an ashtray."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 175,
+      "intervalle_debut": 2625,
+      "intervalle_fin": 2640,
+      "timecode_debut_extrait": 2625,
+      "timecode_fin_extrait": 2640,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0175_time_2625.00s-2640.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 247,
+          "start": 2633.16,
+          "end": 2634.12,
+          "text": "You have to quit smoking."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 176,
+      "intervalle_debut": 2640,
+      "intervalle_fin": 2655,
+      "timecode_debut_extrait": 2640,
+      "timecode_fin_extrait": 2655,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0176_time_2640.00s-2655.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 177,
+      "intervalle_debut": 2655,
+      "intervalle_fin": 2670,
+      "timecode_debut_extrait": 2655,
+      "timecode_fin_extrait": 2670,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0177_time_2655.00s-2670.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 248,
+          "start": 2661.96,
+          "end": 2665.68,
+          "text": "When I get out of this bed, I'm gonna make you quit that filthy habit."
+        },
+        {
+          "index": 249,
+          "start": 2666.08,
+          "end": 2669.8,
+          "text": "Oh, yeah? When you get out of that bed, I'll be waiting for you."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 178,
+      "intervalle_debut": 2670,
+      "intervalle_fin": 2685,
+      "timecode_debut_extrait": 2670,
+      "timecode_fin_extrait": 2685,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0178_time_2670.00s-2685.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 250,
+          "start": 2670.88,
+          "end": 2672.24,
+          "text": "Smelling like an ashtray."
+        },
+        {
+          "index": 251,
+          "start": 2673.28,
+          "end": 2674.92,
+          "text": "No wonder people stay away from you."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 179,
+      "intervalle_debut": 2685,
+      "intervalle_fin": 2700,
+      "timecode_debut_extrait": 2685,
+      "timecode_fin_extrait": 2700,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0179_time_2685.00s-2700.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 180,
+      "intervalle_debut": 2700,
+      "intervalle_fin": 2715,
+      "timecode_debut_extrait": 2700,
+      "timecode_fin_extrait": 2715,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0180_time_2700.00s-2715.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 181,
+      "intervalle_debut": 2715,
+      "intervalle_fin": 2730,
+      "timecode_debut_extrait": 2715,
+      "timecode_fin_extrait": 2730,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0181_time_2715.00s-2730.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 182,
+      "intervalle_debut": 2730,
+      "intervalle_fin": 2745,
+      "timecode_debut_extrait": 2730,
+      "timecode_fin_extrait": 2745,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0182_time_2730.00s-2745.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 183,
+      "intervalle_debut": 2745,
+      "intervalle_fin": 2760,
+      "timecode_debut_extrait": 2745,
+      "timecode_fin_extrait": 2760,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0183_time_2745.00s-2760.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 184,
+      "intervalle_debut": 2760,
+      "intervalle_fin": 2775,
+      "timecode_debut_extrait": 2760,
+      "timecode_fin_extrait": 2775,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0184_time_2760.00s-2775.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 185,
+      "intervalle_debut": 2775,
+      "intervalle_fin": 2790,
+      "timecode_debut_extrait": 2775,
+      "timecode_fin_extrait": 2790,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0185_time_2775.00s-2790.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 252,
+          "start": 2779.6,
+          "end": 2780.52,
+          "text": "Wait!"
+        },
+        {
+          "index": 253,
+          "start": 2782.36,
+          "end": 2783.64,
+          "text": "Slow down."
+        },
+        {
+          "index": 254,
+          "start": 2784.12,
+          "end": 2785.04,
+          "text": "Slow.."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 186,
+      "intervalle_debut": 2790,
+      "intervalle_fin": 2805,
+      "timecode_debut_extrait": 2790,
+      "timecode_fin_extrait": 2805,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0186_time_2790.00s-2805.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 187,
+      "intervalle_debut": 2805,
+      "intervalle_fin": 2820,
+      "timecode_debut_extrait": 2805,
+      "timecode_fin_extrait": 2820,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0187_time_2805.00s-2820.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 188,
+      "intervalle_debut": 2820,
+      "intervalle_fin": 2835,
+      "timecode_debut_extrait": 2820,
+      "timecode_fin_extrait": 2835,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0188_time_2820.00s-2835.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 189,
+      "intervalle_debut": 2835,
+      "intervalle_fin": 2850,
+      "timecode_debut_extrait": 2835,
+      "timecode_fin_extrait": 2850,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0189_time_2835.00s-2850.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 255,
+          "start": 2840.44,
+          "end": 2841.8,
+          "text": "Be careful."
+        },
+        {
+          "index": 256,
+          "start": 2843.88,
+          "end": 2845.2,
+          "text": "You're hurting me."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 190,
+      "intervalle_debut": 2850,
+      "intervalle_fin": 2865,
+      "timecode_debut_extrait": 2850,
+      "timecode_fin_extrait": 2865,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0190_time_2850.00s-2865.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 191,
+      "intervalle_debut": 2865,
+      "intervalle_fin": 2880,
+      "timecode_debut_extrait": 2865,
+      "timecode_fin_extrait": 2880,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0191_time_2865.00s-2880.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 192,
+      "intervalle_debut": 2880,
+      "intervalle_fin": 2895,
+      "timecode_debut_extrait": 2880,
+      "timecode_fin_extrait": 2895,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0192_time_2880.00s-2895.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 257,
+          "start": 2894.32,
+          "end": 2895.24,
+          "text": "Get out."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 193,
+      "intervalle_debut": 2895,
+      "intervalle_fin": 2910,
+      "timecode_debut_extrait": 2895,
+      "timecode_fin_extrait": 2910,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0193_time_2895.00s-2910.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 258,
+          "start": 2904.0,
+          "end": 2905.04,
+          "text": "Get out!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 194,
+      "intervalle_debut": 2910,
+      "intervalle_fin": 2925,
+      "timecode_debut_extrait": 2910,
+      "timecode_fin_extrait": 2925,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0194_time_2910.00s-2925.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 195,
+      "intervalle_debut": 2925,
+      "intervalle_fin": 2940,
+      "timecode_debut_extrait": 2925,
+      "timecode_fin_extrait": 2940,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0195_time_2925.00s-2940.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 196,
+      "intervalle_debut": 2940,
+      "intervalle_fin": 2955,
+      "timecode_debut_extrait": 2940,
+      "timecode_fin_extrait": 2955,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0196_time_2940.00s-2955.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 197,
+      "intervalle_debut": 2955,
+      "intervalle_fin": 2970,
+      "timecode_debut_extrait": 2955,
+      "timecode_fin_extrait": 2970,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0197_time_2955.00s-2970.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 198,
+      "intervalle_debut": 2970,
+      "intervalle_fin": 2985,
+      "timecode_debut_extrait": 2970,
+      "timecode_fin_extrait": 2985,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0198_time_2970.00s-2985.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 199,
+      "intervalle_debut": 2985,
+      "intervalle_fin": 3000,
+      "timecode_debut_extrait": 2985,
+      "timecode_fin_extrait": 3000,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0199_time_2985.00s-3000.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 200,
+      "intervalle_debut": 3000,
+      "intervalle_fin": 3015,
+      "timecode_debut_extrait": 3000,
+      "timecode_fin_extrait": 3015,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0200_time_3000.00s-3015.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 201,
+      "intervalle_debut": 3015,
+      "intervalle_fin": 3030,
+      "timecode_debut_extrait": 3015,
+      "timecode_fin_extrait": 3030,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0201_time_3015.00s-3030.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 202,
+      "intervalle_debut": 3030,
+      "intervalle_fin": 3045,
+      "timecode_debut_extrait": 3030,
+      "timecode_fin_extrait": 3045,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0202_time_3030.00s-3045.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 203,
+      "intervalle_debut": 3045,
+      "intervalle_fin": 3060,
+      "timecode_debut_extrait": 3045,
+      "timecode_fin_extrait": 3060,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0203_time_3045.00s-3060.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 204,
+      "intervalle_debut": 3060,
+      "intervalle_fin": 3075,
+      "timecode_debut_extrait": 3060,
+      "timecode_fin_extrait": 3075,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0204_time_3060.00s-3075.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 205,
+      "intervalle_debut": 3075,
+      "intervalle_fin": 3090,
+      "timecode_debut_extrait": 3075,
+      "timecode_fin_extrait": 3090,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0205_time_3075.00s-3090.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 206,
+      "intervalle_debut": 3090,
+      "intervalle_fin": 3105,
+      "timecode_debut_extrait": 3090,
+      "timecode_fin_extrait": 3105,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0206_time_3090.00s-3105.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 207,
+      "intervalle_debut": 3105,
+      "intervalle_fin": 3120,
+      "timecode_debut_extrait": 3105,
+      "timecode_fin_extrait": 3120,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0207_time_3105.00s-3120.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 208,
+      "intervalle_debut": 3120,
+      "intervalle_fin": 3135,
+      "timecode_debut_extrait": 3120,
+      "timecode_fin_extrait": 3135,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0208_time_3120.00s-3135.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 209,
+      "intervalle_debut": 3135,
+      "intervalle_fin": 3150,
+      "timecode_debut_extrait": 3135,
+      "timecode_fin_extrait": 3150,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0209_time_3135.00s-3150.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 210,
+      "intervalle_debut": 3150,
+      "intervalle_fin": 3165,
+      "timecode_debut_extrait": 3150,
+      "timecode_fin_extrait": 3165,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0210_time_3150.00s-3165.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 211,
+      "intervalle_debut": 3165,
+      "intervalle_fin": 3180,
+      "timecode_debut_extrait": 3165,
+      "timecode_fin_extrait": 3180,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0211_time_3165.00s-3180.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 212,
+      "intervalle_debut": 3180,
+      "intervalle_fin": 3195,
+      "timecode_debut_extrait": 3180,
+      "timecode_fin_extrait": 3195,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0212_time_3180.00s-3195.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 259,
+          "start": 3188.12,
+          "end": 3190.28,
+          "text": "Uh, isn't she Manuel's daughter?"
+        },
+        {
+          "index": 260,
+          "start": 3191.36,
+          "end": 3192.28,
+          "text": "Come in."
+        },
+        {
+          "index": 261,
+          "start": 3193.72,
+          "end": 3195.0,
+          "text": "Where should we put the stereo?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 213,
+      "intervalle_debut": 3195,
+      "intervalle_fin": 3210,
+      "timecode_debut_extrait": 3195,
+      "timecode_fin_extrait": 3210,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0213_time_3195.00s-3210.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 262,
+          "start": 3195.16,
+          "end": 3196.08,
+          "text": "In the living room."
+        },
+        {
+          "index": 263,
+          "start": 3202.24,
+          "end": 3203.2,
+          "text": "Compadre!"
+        },
+        {
+          "index": 264,
+          "start": 3203.36,
+          "end": 3205.2,
+          "text": "They're looking for Manuel Sandoval's daughter."
+        },
+        {
+          "index": 265,
+          "start": 3205.72,
+          "end": 3207.04,
+          "text": "Obdulio Sandoval?"
+        },
+        {
+          "index": 266,
+          "start": 3207.4,
+          "end": 3208.32,
+          "text": "No, Nina Sandoval."
+        },
+        {
+          "index": 267,
+          "start": 3208.72,
+          "end": 3211.44,
+          "text": "Any friend of Obdulio is a friend of mine."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 214,
+      "intervalle_debut": 3210,
+      "intervalle_fin": 3225,
+      "timecode_debut_extrait": 3210,
+      "timecode_fin_extrait": 3225,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0214_time_3210.00s-3225.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 215,
+      "intervalle_debut": 3225,
+      "intervalle_fin": 3240,
+      "timecode_debut_extrait": 3225,
+      "timecode_fin_extrait": 3240,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0215_time_3225.00s-3240.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 216,
+      "intervalle_debut": 3240,
+      "intervalle_fin": 3255,
+      "timecode_debut_extrait": 3240,
+      "timecode_fin_extrait": 3255,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0216_time_3240.00s-3255.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 217,
+      "intervalle_debut": 3255,
+      "intervalle_fin": 3270,
+      "timecode_debut_extrait": 3255,
+      "timecode_fin_extrait": 3270,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0217_time_3255.00s-3270.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 218,
+      "intervalle_debut": 3270,
+      "intervalle_fin": 3285,
+      "timecode_debut_extrait": 3270,
+      "timecode_fin_extrait": 3285,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0218_time_3270.00s-3285.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 219,
+      "intervalle_debut": 3285,
+      "intervalle_fin": 3300,
+      "timecode_debut_extrait": 3285,
+      "timecode_fin_extrait": 3300,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0219_time_3285.00s-3300.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 268,
+          "start": 3292.64,
+          "end": 3294.8,
+          "text": "And now, our dear friend's favorite song."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 220,
+      "intervalle_debut": 3300,
+      "intervalle_fin": 3315,
+      "timecode_debut_extrait": 3300,
+      "timecode_fin_extrait": 3315,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0220_time_3300.00s-3315.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 221,
+      "intervalle_debut": 3315,
+      "intervalle_fin": 3330,
+      "timecode_debut_extrait": 3315,
+      "timecode_fin_extrait": 3330,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0221_time_3315.00s-3330.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 222,
+      "intervalle_debut": 3330,
+      "intervalle_fin": 3345,
+      "timecode_debut_extrait": 3330,
+      "timecode_fin_extrait": 3345,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0222_time_3330.00s-3345.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 223,
+      "intervalle_debut": 3345,
+      "intervalle_fin": 3360,
+      "timecode_debut_extrait": 3345,
+      "timecode_fin_extrait": 3360,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0223_time_3345.00s-3360.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 224,
+      "intervalle_debut": 3360,
+      "intervalle_fin": 3375,
+      "timecode_debut_extrait": 3360,
+      "timecode_fin_extrait": 3375,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0224_time_3360.00s-3375.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 269,
+          "start": 3362.72,
+          "end": 3364.08,
+          "text": "Have more respect for the dead!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 225,
+      "intervalle_debut": 3375,
+      "intervalle_fin": 3390,
+      "timecode_debut_extrait": 3375,
+      "timecode_fin_extrait": 3390,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0225_time_3375.00s-3390.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 226,
+      "intervalle_debut": 3390,
+      "intervalle_fin": 3405,
+      "timecode_debut_extrait": 3390,
+      "timecode_fin_extrait": 3405,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0226_time_3390.00s-3405.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 227,
+      "intervalle_debut": 3405,
+      "intervalle_fin": 3420,
+      "timecode_debut_extrait": 3405,
+      "timecode_fin_extrait": 3420,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0227_time_3405.00s-3420.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 228,
+      "intervalle_debut": 3420,
+      "intervalle_fin": 3435,
+      "timecode_debut_extrait": 3420,
+      "timecode_fin_extrait": 3435,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0228_time_3420.00s-3435.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 229,
+      "intervalle_debut": 3435,
+      "intervalle_fin": 3450,
+      "timecode_debut_extrait": 3435,
+      "timecode_fin_extrait": 3450,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0229_time_3435.00s-3450.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 230,
+      "intervalle_debut": 3450,
+      "intervalle_fin": 3465,
+      "timecode_debut_extrait": 3450,
+      "timecode_fin_extrait": 3465,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0230_time_3450.00s-3465.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 231,
+      "intervalle_debut": 3465,
+      "intervalle_fin": 3480,
+      "timecode_debut_extrait": 3465,
+      "timecode_fin_extrait": 3480,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0231_time_3465.00s-3480.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 232,
+      "intervalle_debut": 3480,
+      "intervalle_fin": 3495,
+      "timecode_debut_extrait": 3480,
+      "timecode_fin_extrait": 3495,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0232_time_3480.00s-3495.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 233,
+      "intervalle_debut": 3495,
+      "intervalle_fin": 3510,
+      "timecode_debut_extrait": 3495,
+      "timecode_fin_extrait": 3510,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0233_time_3495.00s-3510.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 234,
+      "intervalle_debut": 3510,
+      "intervalle_fin": 3525,
+      "timecode_debut_extrait": 3510,
+      "timecode_fin_extrait": 3525,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0234_time_3510.00s-3525.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 235,
+      "intervalle_debut": 3525,
+      "intervalle_fin": 3540,
+      "timecode_debut_extrait": 3525,
+      "timecode_fin_extrait": 3540,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0235_time_3525.00s-3540.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 236,
+      "intervalle_debut": 3540,
+      "intervalle_fin": 3555,
+      "timecode_debut_extrait": 3540,
+      "timecode_fin_extrait": 3555,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0236_time_3540.00s-3555.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 237,
+      "intervalle_debut": 3555,
+      "intervalle_fin": 3570,
+      "timecode_debut_extrait": 3555,
+      "timecode_fin_extrait": 3570,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0237_time_3555.00s-3570.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 238,
+      "intervalle_debut": 3570,
+      "intervalle_fin": 3585,
+      "timecode_debut_extrait": 3570,
+      "timecode_fin_extrait": 3585,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0238_time_3570.00s-3585.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 239,
+      "intervalle_debut": 3585,
+      "intervalle_fin": 3600,
+      "timecode_debut_extrait": 3585,
+      "timecode_fin_extrait": 3600,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0239_time_3585.00s-3600.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 240,
+      "intervalle_debut": 3600,
+      "intervalle_fin": 3615,
+      "timecode_debut_extrait": 3600,
+      "timecode_fin_extrait": 3615,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0240_time_3600.00s-3615.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 241,
+      "intervalle_debut": 3615,
+      "intervalle_fin": 3630,
+      "timecode_debut_extrait": 3615,
+      "timecode_fin_extrait": 3630,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0241_time_3615.00s-3630.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 242,
+      "intervalle_debut": 3630,
+      "intervalle_fin": 3645,
+      "timecode_debut_extrait": 3630,
+      "timecode_fin_extrait": 3645,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0242_time_3630.00s-3645.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 243,
+      "intervalle_debut": 3645,
+      "intervalle_fin": 3660,
+      "timecode_debut_extrait": 3645,
+      "timecode_fin_extrait": 3660,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0243_time_3645.00s-3660.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 244,
+      "intervalle_debut": 3660,
+      "intervalle_fin": 3675,
+      "timecode_debut_extrait": 3660,
+      "timecode_fin_extrait": 3675,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0244_time_3660.00s-3675.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 245,
+      "intervalle_debut": 3675,
+      "intervalle_fin": 3690,
+      "timecode_debut_extrait": 3675,
+      "timecode_fin_extrait": 3690,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0245_time_3675.00s-3690.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 246,
+      "intervalle_debut": 3690,
+      "intervalle_fin": 3705,
+      "timecode_debut_extrait": 3690,
+      "timecode_fin_extrait": 3705,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0246_time_3690.00s-3705.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 247,
+      "intervalle_debut": 3705,
+      "intervalle_fin": 3720,
+      "timecode_debut_extrait": 3705,
+      "timecode_fin_extrait": 3720,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0247_time_3705.00s-3720.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 248,
+      "intervalle_debut": 3720,
+      "intervalle_fin": 3735,
+      "timecode_debut_extrait": 3720,
+      "timecode_fin_extrait": 3735,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0248_time_3720.00s-3735.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 249,
+      "intervalle_debut": 3735,
+      "intervalle_fin": 3750,
+      "timecode_debut_extrait": 3735,
+      "timecode_fin_extrait": 3750,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0249_time_3735.00s-3750.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 270,
+          "start": 3741.56,
+          "end": 3742.64,
+          "text": "You!"
+        },
+        {
+          "index": 271,
+          "start": 3742.8,
+          "end": 3744.44,
+          "text": "What the hell is wrong with you?"
+        },
+        {
+          "index": 272,
+          "start": 3745.88,
+          "end": 3747.96,
+          "text": "You're asking me what happened?"
+        },
+        {
+          "index": 273,
+          "start": 3749.24,
+          "end": 3752.04,
+          "text": "The neighbor called, he said your dad was screaming in pain..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 250,
+      "intervalle_debut": 3750,
+      "intervalle_fin": 3765,
+      "timecode_debut_extrait": 3750,
+      "timecode_fin_extrait": 3765,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0250_time_3750.00s-3765.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 274,
+          "start": 3752.2,
+          "end": 3753.92,
+          "text": "I can't believe you left your dad by himself!"
+        },
+        {
+          "index": 275,
+          "start": 3756.96,
+          "end": 3758.6,
+          "text": "You were supposed to take care of him."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 251,
+      "intervalle_debut": 3765,
+      "intervalle_fin": 3780,
+      "timecode_debut_extrait": 3765,
+      "timecode_fin_extrait": 3780,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0251_time_3765.00s-3780.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 276,
+          "start": 3767.28,
+          "end": 3769.24,
+          "text": "Well you're not a little kid anymore, Olmo."
+        },
+        {
+          "index": 277,
+          "start": 3772.8,
+          "end": 3774.32,
+          "text": "Where is my fucking car?"
+        },
+        {
+          "index": 278,
+          "start": 3777.8,
+          "end": 3779.76,
+          "text": "Where is my car?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 252,
+      "intervalle_debut": 3780,
+      "intervalle_fin": 3795,
+      "timecode_debut_extrait": 3780,
+      "timecode_fin_extrait": 3795,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0252_time_3780.00s-3795.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 279,
+          "start": 3784.16,
+          "end": 3785.84,
+          "text": "And to top it off, you left the oven on."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 253,
+      "intervalle_debut": 3795,
+      "intervalle_fin": 3810,
+      "timecode_debut_extrait": 3795,
+      "timecode_fin_extrait": 3810,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0253_time_3795.00s-3810.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 280,
+          "start": 3800.08,
+          "end": 3803.96,
+          "text": "It doesn't matter whose turn it was, I needed help!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 254,
+      "intervalle_debut": 3810,
+      "intervalle_fin": 3825,
+      "timecode_debut_extrait": 3810,
+      "timecode_fin_extrait": 3825,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0254_time_3810.00s-3825.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 281,
+          "start": 3810.16,
+          "end": 3814.12,
+          "text": "You're selfish, you're selfish, you both are."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 255,
+      "intervalle_debut": 3825,
+      "intervalle_fin": 3840,
+      "timecode_debut_extrait": 3825,
+      "timecode_fin_extrait": 3840,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0255_time_3825.00s-3840.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 282,
+          "start": 3833.56,
+          "end": 3838.88,
+          "text": "I'm not sleeping with him, and I don't have to explain myself to you."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 256,
+      "intervalle_debut": 3840,
+      "intervalle_fin": 3855,
+      "timecode_debut_extrait": 3840,
+      "timecode_fin_extrait": 3855,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0256_time_3840.00s-3855.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 257,
+      "intervalle_debut": 3855,
+      "intervalle_fin": 3870,
+      "timecode_debut_extrait": 3855,
+      "timecode_fin_extrait": 3870,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0257_time_3855.00s-3870.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 258,
+      "intervalle_debut": 3870,
+      "intervalle_fin": 3885,
+      "timecode_debut_extrait": 3870,
+      "timecode_fin_extrait": 3885,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0258_time_3870.00s-3885.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 259,
+      "intervalle_debut": 3885,
+      "intervalle_fin": 3900,
+      "timecode_debut_extrait": 3885,
+      "timecode_fin_extrait": 3900,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0259_time_3885.00s-3900.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 260,
+      "intervalle_debut": 3900,
+      "intervalle_fin": 3915,
+      "timecode_debut_extrait": 3900,
+      "timecode_fin_extrait": 3915,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0260_time_3900.00s-3915.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 283,
+          "start": 3906.28,
+          "end": 3907.36,
+          "text": "Olmo, sweetheart."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 261,
+      "intervalle_debut": 3915,
+      "intervalle_fin": 3930,
+      "timecode_debut_extrait": 3915,
+      "timecode_fin_extrait": 3930,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0261_time_3915.00s-3930.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 262,
+      "intervalle_debut": 3930,
+      "intervalle_fin": 3945,
+      "timecode_debut_extrait": 3930,
+      "timecode_fin_extrait": 3945,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0262_time_3930.00s-3945.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 263,
+      "intervalle_debut": 3945,
+      "intervalle_fin": 3960,
+      "timecode_debut_extrait": 3945,
+      "timecode_fin_extrait": 3960,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0263_time_3945.00s-3960.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 264,
+      "intervalle_debut": 3960,
+      "intervalle_fin": 3975,
+      "timecode_debut_extrait": 3960,
+      "timecode_fin_extrait": 3975,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0264_time_3960.00s-3975.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 265,
+      "intervalle_debut": 3975,
+      "intervalle_fin": 3990,
+      "timecode_debut_extrait": 3975,
+      "timecode_fin_extrait": 3990,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0265_time_3975.00s-3990.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 266,
+      "intervalle_debut": 3990,
+      "intervalle_fin": 4005,
+      "timecode_debut_extrait": 3990,
+      "timecode_fin_extrait": 4005,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0266_time_3990.00s-4005.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 267,
+      "intervalle_debut": 4005,
+      "intervalle_fin": 4020,
+      "timecode_debut_extrait": 4005,
+      "timecode_fin_extrait": 4020,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0267_time_4005.00s-4020.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 268,
+      "intervalle_debut": 4020,
+      "intervalle_fin": 4035,
+      "timecode_debut_extrait": 4020,
+      "timecode_fin_extrait": 4035,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0268_time_4020.00s-4035.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 269,
+      "intervalle_debut": 4035,
+      "intervalle_fin": 4050,
+      "timecode_debut_extrait": 4035,
+      "timecode_fin_extrait": 4050,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0269_time_4035.00s-4050.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 270,
+      "intervalle_debut": 4050,
+      "intervalle_fin": 4065,
+      "timecode_debut_extrait": 4050,
+      "timecode_fin_extrait": 4065,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0270_time_4050.00s-4065.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 271,
+      "intervalle_debut": 4065,
+      "intervalle_fin": 4080,
+      "timecode_debut_extrait": 4065,
+      "timecode_fin_extrait": 4080,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0271_time_4065.00s-4080.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 272,
+      "intervalle_debut": 4080,
+      "intervalle_fin": 4095,
+      "timecode_debut_extrait": 4080,
+      "timecode_fin_extrait": 4095,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0272_time_4080.00s-4095.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 273,
+      "intervalle_debut": 4095,
+      "intervalle_fin": 4110,
+      "timecode_debut_extrait": 4095,
+      "timecode_fin_extrait": 4110,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0273_time_4095.00s-4110.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 274,
+      "intervalle_debut": 4110,
+      "intervalle_fin": 4125,
+      "timecode_debut_extrait": 4110,
+      "timecode_fin_extrait": 4125,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0274_time_4110.00s-4125.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 275,
+      "intervalle_debut": 4125,
+      "intervalle_fin": 4140,
+      "timecode_debut_extrait": 4125,
+      "timecode_fin_extrait": 4140,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0275_time_4125.00s-4140.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 276,
+      "intervalle_debut": 4140,
+      "intervalle_fin": 4155,
+      "timecode_debut_extrait": 4140,
+      "timecode_fin_extrait": 4155,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0276_time_4140.00s-4155.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 277,
+      "intervalle_debut": 4155,
+      "intervalle_fin": 4170,
+      "timecode_debut_extrait": 4155,
+      "timecode_fin_extrait": 4170,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0277_time_4155.00s-4170.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 278,
+      "intervalle_debut": 4170,
+      "intervalle_fin": 4185,
+      "timecode_debut_extrait": 4170,
+      "timecode_fin_extrait": 4185,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0278_time_4170.00s-4185.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 279,
+      "intervalle_debut": 4185,
+      "intervalle_fin": 4200,
+      "timecode_debut_extrait": 4185,
+      "timecode_fin_extrait": 4200,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0279_time_4185.00s-4200.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 280,
+      "intervalle_debut": 4200,
+      "intervalle_fin": 4215,
+      "timecode_debut_extrait": 4200,
+      "timecode_fin_extrait": 4215,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0280_time_4200.00s-4215.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 281,
+      "intervalle_debut": 4215,
+      "intervalle_fin": 4230,
+      "timecode_debut_extrait": 4215,
+      "timecode_fin_extrait": 4230,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0281_time_4215.00s-4230.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 282,
+      "intervalle_debut": 4230,
+      "intervalle_fin": 4245,
+      "timecode_debut_extrait": 4230,
+      "timecode_fin_extrait": 4245,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0282_time_4230.00s-4245.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 284,
+          "start": 4244.4,
+          "end": 4245.32,
+          "text": "Dad!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 283,
+      "intervalle_debut": 4245,
+      "intervalle_fin": 4260,
+      "timecode_debut_extrait": 4245,
+      "timecode_fin_extrait": 4260,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0283_time_4245.00s-4260.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 285,
+          "start": 4254.08,
+          "end": 4256.12,
+          "text": "Do you know why we named you Olmo?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 284,
+      "intervalle_debut": 4260,
+      "intervalle_fin": 4275,
+      "timecode_debut_extrait": 4260,
+      "timecode_fin_extrait": 4275,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0284_time_4260.00s-4275.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 286,
+          "start": 4260.92,
+          "end": 4263.24,
+          "text": "Elm wood is very resistant to water."
+        },
+        {
+          "index": 287,
+          "start": 4264.88,
+          "end": 4267.72,
+          "text": "Ships used to be built from elm wood."
+        },
+        {
+          "index": 288,
+          "start": 4269.64,
+          "end": 4271.56,
+          "text": "Yes, ships."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 285,
+      "intervalle_debut": 4275,
+      "intervalle_fin": 4290,
+      "timecode_debut_extrait": 4275,
+      "timecode_fin_extrait": 4290,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0285_time_4275.00s-4290.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 289,
+          "start": 4277.52,
+          "end": 4280.76,
+          "text": "I'm afraid of the water, but that doesn't mean I don't like it."
+        },
+        {
+          "index": 290,
+          "start": 4289.56,
+          "end": 4290.72,
+          "text": "What?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 286,
+      "intervalle_debut": 4290,
+      "intervalle_fin": 4305,
+      "timecode_debut_extrait": 4290,
+      "timecode_fin_extrait": 4305,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0286_time_4290.00s-4305.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 287,
+      "intervalle_debut": 4305,
+      "intervalle_fin": 4320,
+      "timecode_debut_extrait": 4305,
+      "timecode_fin_extrait": 4320,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0287_time_4305.00s-4320.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 288,
+      "intervalle_debut": 4320,
+      "intervalle_fin": 4335,
+      "timecode_debut_extrait": 4320,
+      "timecode_fin_extrait": 4335,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0288_time_4320.00s-4335.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 289,
+      "intervalle_debut": 4335,
+      "intervalle_fin": 4350,
+      "timecode_debut_extrait": 4335,
+      "timecode_fin_extrait": 4350,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0289_time_4335.00s-4350.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 291,
+          "start": 4344.56,
+          "end": 4345.88,
+          "text": "What the...?"
+        },
+        {
+          "index": 292,
+          "start": 4347.04,
+          "end": 4348.48,
+          "text": "Is that my stereo?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 290,
+      "intervalle_debut": 4350,
+      "intervalle_fin": 4365,
+      "timecode_debut_extrait": 4350,
+      "timecode_fin_extrait": 4365,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0290_time_4350.00s-4365.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 293,
+          "start": 4350.92,
+          "end": 4354.88,
+          "text": "No, in fact, he gifted it to me on our wedding anniversary."
+        },
+        {
+          "index": 294,
+          "start": 4361.56,
+          "end": 4363.32,
+          "text": "What were you doing with the stereo?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 291,
+      "intervalle_debut": 4365,
+      "intervalle_fin": 4380,
+      "timecode_debut_extrait": 4365,
+      "timecode_fin_extrait": 4380,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0291_time_4365.00s-4380.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 292,
+      "intervalle_debut": 4380,
+      "intervalle_fin": 4395,
+      "timecode_debut_extrait": 4380,
+      "timecode_fin_extrait": 4395,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0292_time_4380.00s-4395.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 295,
+          "start": 4388.2,
+          "end": 4390.84,
+          "text": "I don't know how we're going to pay the rent."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 293,
+      "intervalle_debut": 4395,
+      "intervalle_fin": 4410,
+      "timecode_debut_extrait": 4395,
+      "timecode_fin_extrait": 4410,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0293_time_4395.00s-4410.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 294,
+      "intervalle_debut": 4410,
+      "intervalle_fin": 4425,
+      "timecode_debut_extrait": 4410,
+      "timecode_fin_extrait": 4425,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0294_time_4410.00s-4425.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 295,
+      "intervalle_debut": 4425,
+      "intervalle_fin": 4440,
+      "timecode_debut_extrait": 4425,
+      "timecode_fin_extrait": 4440,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0295_time_4425.00s-4440.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 296,
+      "intervalle_debut": 4440,
+      "intervalle_fin": 4455,
+      "timecode_debut_extrait": 4440,
+      "timecode_fin_extrait": 4455,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0296_time_4440.00s-4455.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 297,
+      "intervalle_debut": 4455,
+      "intervalle_fin": 4470,
+      "timecode_debut_extrait": 4455,
+      "timecode_fin_extrait": 4470,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0297_time_4455.00s-4470.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 296,
+          "start": 4461.64,
+          "end": 4462.56,
+          "text": "Fuck!"
+        },
+        {
+          "index": 297,
+          "start": 4463.08,
+          "end": 4465.16,
+          "text": "Wait, I'm going to open up from the inside."
+        },
+        {
+          "index": 298,
+          "start": 4465.68,
+          "end": 4467.12,
+          "text": "Let them get in first."
+        },
+        {
+          "index": 299,
+          "start": 4469.04,
+          "end": 4470.36,
+          "text": "One, two, three."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 298,
+      "intervalle_debut": 4470,
+      "intervalle_fin": 4485,
+      "timecode_debut_extrait": 4470,
+      "timecode_fin_extrait": 4485,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0298_time_4470.00s-4485.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 300,
+          "start": 4471.24,
+          "end": 4472.36,
+          "text": "Wait, wait, wait..."
+        },
+        {
+          "index": 301,
+          "start": 4478.0,
+          "end": 4480.4,
+          "text": "Let me move his feet, like that."
+        },
+        {
+          "index": 302,
+          "start": 4481.92,
+          "end": 4483.08,
+          "text": "You're strong Ana."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 299,
+      "intervalle_debut": 4485,
+      "intervalle_fin": 4500,
+      "timecode_debut_extrait": 4485,
+      "timecode_fin_extrait": 4500,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0299_time_4485.00s-4500.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 300,
+      "intervalle_debut": 4500,
+      "intervalle_fin": 4515,
+      "timecode_debut_extrait": 4500,
+      "timecode_fin_extrait": 4515,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0300_time_4500.00s-4515.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 303,
+          "start": 4509.72,
+          "end": 4510.64,
+          "text": "Hit it!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 301,
+      "intervalle_debut": 4515,
+      "intervalle_fin": 4530,
+      "timecode_debut_extrait": 4515,
+      "timecode_fin_extrait": 4530,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0301_time_4515.00s-4530.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 304,
+          "start": 4515.0,
+          "end": 4516.4,
+          "text": "Stop, stop!"
+        },
+        {
+          "index": 305,
+          "start": 4524.28,
+          "end": 4525.52,
+          "text": "We're taking the bus."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 302,
+      "intervalle_debut": 4530,
+      "intervalle_fin": 4545,
+      "timecode_debut_extrait": 4530,
+      "timecode_fin_extrait": 4545,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0302_time_4530.00s-4545.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 306,
+          "start": 4530.56,
+          "end": 4532.12,
+          "text": "Make sure you close the window."
+        },
+        {
+          "index": 307,
+          "start": 4532.92,
+          "end": 4534.08,
+          "text": "One, two, three!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 303,
+      "intervalle_debut": 4545,
+      "intervalle_fin": 4560,
+      "timecode_debut_extrait": 4545,
+      "timecode_fin_extrait": 4560,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0303_time_4545.00s-4560.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 304,
+      "intervalle_debut": 4560,
+      "intervalle_fin": 4575,
+      "timecode_debut_extrait": 4560,
+      "timecode_fin_extrait": 4575,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0304_time_4560.00s-4575.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 305,
+      "intervalle_debut": 4575,
+      "intervalle_fin": 4590,
+      "timecode_debut_extrait": 4575,
+      "timecode_fin_extrait": 4590,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0305_time_4575.00s-4590.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 306,
+      "intervalle_debut": 4590,
+      "intervalle_fin": 4605,
+      "timecode_debut_extrait": 4590,
+      "timecode_fin_extrait": 4605,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0306_time_4590.00s-4605.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 307,
+      "intervalle_debut": 4605,
+      "intervalle_fin": 4620,
+      "timecode_debut_extrait": 4605,
+      "timecode_fin_extrait": 4620,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0307_time_4605.00s-4620.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 308,
+      "intervalle_debut": 4620,
+      "intervalle_fin": 4635,
+      "timecode_debut_extrait": 4620,
+      "timecode_fin_extrait": 4635,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0308_time_4620.00s-4635.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 309,
+      "intervalle_debut": 4635,
+      "intervalle_fin": 4650,
+      "timecode_debut_extrait": 4635,
+      "timecode_fin_extrait": 4650,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0309_time_4635.00s-4650.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 310,
+      "intervalle_debut": 4650,
+      "intervalle_fin": 4665,
+      "timecode_debut_extrait": 4650,
+      "timecode_fin_extrait": 4665,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0310_time_4650.00s-4665.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 311,
+      "intervalle_debut": 4665,
+      "intervalle_fin": 4680,
+      "timecode_debut_extrait": 4665,
+      "timecode_fin_extrait": 4680,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0311_time_4665.00s-4680.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 312,
+      "intervalle_debut": 4680,
+      "intervalle_fin": 4695,
+      "timecode_debut_extrait": 4680,
+      "timecode_fin_extrait": 4695,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0312_time_4680.00s-4695.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 313,
+      "intervalle_debut": 4695,
+      "intervalle_fin": 4710,
+      "timecode_debut_extrait": 4695,
+      "timecode_fin_extrait": 4710,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0313_time_4695.00s-4710.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 314,
+      "intervalle_debut": 4710,
+      "intervalle_fin": 4725,
+      "timecode_debut_extrait": 4710,
+      "timecode_fin_extrait": 4725,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0314_time_4710.00s-4725.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 315,
+      "intervalle_debut": 4725,
+      "intervalle_fin": 4740,
+      "timecode_debut_extrait": 4725,
+      "timecode_fin_extrait": 4740,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0315_time_4725.00s-4740.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 316,
+      "intervalle_debut": 4740,
+      "intervalle_fin": 4755,
+      "timecode_debut_extrait": 4740,
+      "timecode_fin_extrait": 4755,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0316_time_4740.00s-4755.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 317,
+      "intervalle_debut": 4755,
+      "intervalle_fin": 4770,
+      "timecode_debut_extrait": 4755,
+      "timecode_fin_extrait": 4770,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0317_time_4755.00s-4770.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 318,
+      "intervalle_debut": 4770,
+      "intervalle_fin": 4785,
+      "timecode_debut_extrait": 4770,
+      "timecode_fin_extrait": 4785,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0318_time_4770.00s-4785.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 319,
+      "intervalle_debut": 4785,
+      "intervalle_fin": 4800,
+      "timecode_debut_extrait": 4785,
+      "timecode_fin_extrait": 4800,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0319_time_4785.00s-4800.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 320,
+      "intervalle_debut": 4800,
+      "intervalle_fin": 4815,
+      "timecode_debut_extrait": 4800,
+      "timecode_fin_extrait": 4815,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0320_time_4800.00s-4815.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 321,
+      "intervalle_debut": 4815,
+      "intervalle_fin": 4827.968,
+      "timecode_debut_extrait": 4815,
+      "timecode_fin_extrait": 4827.968,
+      "video_path": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]\\interval_0321_time_4815.00s-4827.97s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    }
+  ]
+}
