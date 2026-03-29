@@ -13,7 +13,7 @@
       "intervalle_fin": 15,
       "timecode_debut_extrait": 0,
       "timecode_fin_extrait": 15,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0000_time_0.00s-15.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -70,7 +70,7 @@
       "intervalle_fin": 90,
       "timecode_debut_extrait": 75,
       "timecode_fin_extrait": 90,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0005_time_75.00s-90.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -80,7 +80,7 @@
       "intervalle_fin": 105,
       "timecode_debut_extrait": 90,
       "timecode_fin_extrait": 105,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0006_time_90.00s-105.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -90,7 +90,7 @@
       "intervalle_fin": 120,
       "timecode_debut_extrait": 105,
       "timecode_fin_extrait": 120,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0007_time_105.00s-120.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -272,7 +272,7 @@
       "intervalle_fin": 315,
       "timecode_debut_extrait": 300,
       "timecode_fin_extrait": 315,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0020_time_300.00s-315.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -292,7 +292,7 @@
       "intervalle_fin": 345,
       "timecode_debut_extrait": 330,
       "timecode_fin_extrait": 345,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0022_time_330.00s-345.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -315,7 +315,7 @@
       "intervalle_fin": 360,
       "timecode_debut_extrait": 345,
       "timecode_fin_extrait": 360,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0023_time_345.00s-360.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -344,7 +344,7 @@
       "intervalle_fin": 375,
       "timecode_debut_extrait": 360,
       "timecode_fin_extrait": 375,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0024_time_360.00s-375.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -440,7 +440,7 @@
       "intervalle_fin": 435,
       "timecode_debut_extrait": 420,
       "timecode_fin_extrait": 435,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0028_time_420.00s-435.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -475,7 +475,7 @@
       "intervalle_fin": 450,
       "timecode_debut_extrait": 435,
       "timecode_fin_extrait": 450,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0029_time_435.00s-450.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -522,7 +522,7 @@
       "intervalle_fin": 465,
       "timecode_debut_extrait": 450,
       "timecode_fin_extrait": 465,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0030_time_450.00s-465.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -563,7 +563,7 @@
       "intervalle_fin": 480,
       "timecode_debut_extrait": 465,
       "timecode_fin_extrait": 480,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0031_time_465.00s-480.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -598,7 +598,7 @@
       "intervalle_fin": 495,
       "timecode_debut_extrait": 480,
       "timecode_fin_extrait": 495,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0032_time_480.00s-495.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -674,7 +674,7 @@
       "intervalle_fin": 525,
       "timecode_debut_extrait": 510,
       "timecode_fin_extrait": 525,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0034_time_510.00s-525.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -715,7 +715,7 @@
       "intervalle_fin": 540,
       "timecode_debut_extrait": 525,
       "timecode_fin_extrait": 540,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0035_time_525.00s-540.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -725,7 +725,7 @@
       "intervalle_fin": 555,
       "timecode_debut_extrait": 540,
       "timecode_fin_extrait": 555,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0036_time_540.00s-555.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -742,7 +742,7 @@
       "intervalle_fin": 570,
       "timecode_debut_extrait": 555,
       "timecode_fin_extrait": 570,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0037_time_555.00s-570.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -888,7 +888,7 @@
       "intervalle_fin": 630,
       "timecode_debut_extrait": 615,
       "timecode_fin_extrait": 630,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0041_time_615.00s-630.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -929,7 +929,7 @@
       "intervalle_fin": 645,
       "timecode_debut_extrait": 630,
       "timecode_fin_extrait": 645,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0042_time_630.00s-645.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -1034,7 +1034,7 @@
       "intervalle_fin": 690,
       "timecode_debut_extrait": 675,
       "timecode_fin_extrait": 690,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0045_time_675.00s-690.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -1175,7 +1175,7 @@
       "intervalle_fin": 735,
       "timecode_debut_extrait": 720,
       "timecode_fin_extrait": 735,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0048_time_720.00s-735.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -1210,7 +1210,7 @@
       "intervalle_fin": 750,
       "timecode_debut_extrait": 735,
       "timecode_fin_extrait": 750,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0049_time_735.00s-750.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -1245,7 +1245,7 @@
       "intervalle_fin": 765,
       "timecode_debut_extrait": 750,
       "timecode_fin_extrait": 765,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0050_time_750.00s-765.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -1286,7 +1286,7 @@
       "intervalle_fin": 780,
       "timecode_debut_extrait": 765,
       "timecode_fin_extrait": 780,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0051_time_765.00s-780.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -1303,7 +1303,7 @@
       "intervalle_fin": 795,
       "timecode_debut_extrait": 780,
       "timecode_fin_extrait": 795,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0052_time_780.00s-795.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -1350,7 +1350,7 @@
       "intervalle_fin": 810,
       "timecode_debut_extrait": 795,
       "timecode_fin_extrait": 810,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0053_time_795.00s-810.00s.mp4",
       "nombre_sous_titres": 8,
       "sous_titres": [
         {
@@ -1409,7 +1409,7 @@
       "intervalle_fin": 825,
       "timecode_debut_extrait": 810,
       "timecode_fin_extrait": 825,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0054_time_810.00s-825.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -1450,7 +1450,7 @@
       "intervalle_fin": 840,
       "timecode_debut_extrait": 825,
       "timecode_fin_extrait": 840,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0055_time_825.00s-840.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -1491,7 +1491,7 @@
       "intervalle_fin": 855,
       "timecode_debut_extrait": 840,
       "timecode_fin_extrait": 855,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0056_time_840.00s-855.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -1524,7 +1524,7 @@
       "intervalle_fin": 885,
       "timecode_debut_extrait": 870,
       "timecode_fin_extrait": 885,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0058_time_870.00s-885.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -1534,7 +1534,7 @@
       "intervalle_fin": 900,
       "timecode_debut_extrait": 885,
       "timecode_fin_extrait": 900,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0059_time_885.00s-900.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -1551,7 +1551,7 @@
       "intervalle_fin": 915,
       "timecode_debut_extrait": 900,
       "timecode_fin_extrait": 915,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0060_time_900.00s-915.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -1561,7 +1561,7 @@
       "intervalle_fin": 930,
       "timecode_debut_extrait": 915,
       "timecode_fin_extrait": 930,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0061_time_915.00s-930.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -1643,7 +1643,7 @@
       "intervalle_fin": 960,
       "timecode_debut_extrait": 945,
       "timecode_fin_extrait": 960,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0063_time_945.00s-960.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -1666,7 +1666,7 @@
       "intervalle_fin": 975,
       "timecode_debut_extrait": 960,
       "timecode_fin_extrait": 975,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0064_time_960.00s-975.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -1683,7 +1683,7 @@
       "intervalle_fin": 990,
       "timecode_debut_extrait": 975,
       "timecode_fin_extrait": 990,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0065_time_975.00s-990.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -1730,7 +1730,7 @@
       "intervalle_fin": 1005,
       "timecode_debut_extrait": 990,
       "timecode_fin_extrait": 1005,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0066_time_990.00s-1005.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -1783,7 +1783,7 @@
       "intervalle_fin": 1020,
       "timecode_debut_extrait": 1005,
       "timecode_fin_extrait": 1020,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0067_time_1005.00s-1020.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -1958,7 +1958,7 @@
       "intervalle_fin": 1095,
       "timecode_debut_extrait": 1080,
       "timecode_fin_extrait": 1095,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0072_time_1080.00s-1095.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -2158,7 +2158,7 @@
       "intervalle_fin": 1155,
       "timecode_debut_extrait": 1140,
       "timecode_fin_extrait": 1155,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0076_time_1140.00s-1155.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -2258,7 +2258,7 @@
       "intervalle_fin": 1185,
       "timecode_debut_extrait": 1170,
       "timecode_fin_extrait": 1185,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0078_time_1170.00s-1185.00s.mp4",
       "nombre_sous_titres": 8,
       "sous_titres": [
         {
@@ -2317,7 +2317,7 @@
       "intervalle_fin": 1200,
       "timecode_debut_extrait": 1185,
       "timecode_fin_extrait": 1200,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0079_time_1185.00s-1200.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -2358,7 +2358,7 @@
       "intervalle_fin": 1215,
       "timecode_debut_extrait": 1200,
       "timecode_fin_extrait": 1215,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0080_time_1200.00s-1215.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -2411,7 +2411,7 @@
       "intervalle_fin": 1230,
       "timecode_debut_extrait": 1215,
       "timecode_fin_extrait": 1230,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0081_time_1215.00s-1230.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -2458,7 +2458,7 @@
       "intervalle_fin": 1245,
       "timecode_debut_extrait": 1230,
       "timecode_fin_extrait": 1245,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0082_time_1230.00s-1245.00s.mp4",
       "nombre_sous_titres": 8,
       "sous_titres": [
         {
@@ -2570,7 +2570,7 @@
       "intervalle_fin": 1275,
       "timecode_debut_extrait": 1260,
       "timecode_fin_extrait": 1275,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0084_time_1260.00s-1275.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -2913,7 +2913,7 @@
       "intervalle_fin": 1410,
       "timecode_debut_extrait": 1395,
       "timecode_fin_extrait": 1410,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0093_time_1395.00s-1410.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -2960,7 +2960,7 @@
       "intervalle_fin": 1425,
       "timecode_debut_extrait": 1410,
       "timecode_fin_extrait": 1425,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0094_time_1410.00s-1425.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -3013,7 +3013,7 @@
       "intervalle_fin": 1440,
       "timecode_debut_extrait": 1425,
       "timecode_fin_extrait": 1440,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0095_time_1425.00s-1440.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -3048,7 +3048,7 @@
       "intervalle_fin": 1455,
       "timecode_debut_extrait": 1440,
       "timecode_fin_extrait": 1455,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0096_time_1440.00s-1455.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -3235,7 +3235,7 @@
       "intervalle_fin": 1575,
       "timecode_debut_extrait": 1560,
       "timecode_fin_extrait": 1575,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0104_time_1560.00s-1575.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -3393,7 +3393,7 @@
       "intervalle_fin": 1635,
       "timecode_debut_extrait": 1620,
       "timecode_fin_extrait": 1635,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0108_time_1620.00s-1635.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -3455,7 +3455,7 @@
       "intervalle_fin": 1680,
       "timecode_debut_extrait": 1665,
       "timecode_fin_extrait": 1680,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0111_time_1665.00s-1680.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -3611,7 +3611,7 @@
       "intervalle_fin": 1755,
       "timecode_debut_extrait": 1740,
       "timecode_fin_extrait": 1755,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0116_time_1740.00s-1755.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -3739,7 +3739,7 @@
       "intervalle_fin": 1845,
       "timecode_debut_extrait": 1830,
       "timecode_fin_extrait": 1845,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0122_time_1830.00s-1845.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -3926,7 +3926,7 @@
       "intervalle_fin": 1920,
       "timecode_debut_extrait": 1905,
       "timecode_fin_extrait": 1920,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0127_time_1905.00s-1920.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -4290,7 +4290,7 @@
       "intervalle_fin": 2040,
       "timecode_debut_extrait": 2025,
       "timecode_fin_extrait": 2040,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0135_time_2025.00s-2040.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -4384,7 +4384,7 @@
       "intervalle_fin": 2070,
       "timecode_debut_extrait": 2055,
       "timecode_fin_extrait": 2070,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0137_time_2055.00s-2070.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -4484,7 +4484,7 @@
       "intervalle_fin": 2100,
       "timecode_debut_extrait": 2085,
       "timecode_fin_extrait": 2100,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0139_time_2085.00s-2100.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -4654,7 +4654,7 @@
       "intervalle_fin": 2160,
       "timecode_debut_extrait": 2145,
       "timecode_fin_extrait": 2160,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0143_time_2145.00s-2160.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -4701,7 +4701,7 @@
       "intervalle_fin": 2175,
       "timecode_debut_extrait": 2160,
       "timecode_fin_extrait": 2175,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0144_time_2160.00s-2175.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -4742,7 +4742,7 @@
       "intervalle_fin": 2190,
       "timecode_debut_extrait": 2175,
       "timecode_fin_extrait": 2190,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0145_time_2175.00s-2190.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -4789,7 +4789,7 @@
       "intervalle_fin": 2205,
       "timecode_debut_extrait": 2190,
       "timecode_fin_extrait": 2205,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0146_time_2190.00s-2205.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -4883,7 +4883,7 @@
       "intervalle_fin": 2235,
       "timecode_debut_extrait": 2220,
       "timecode_fin_extrait": 2235,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0148_time_2220.00s-2235.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -4971,7 +4971,7 @@
       "intervalle_fin": 2265,
       "timecode_debut_extrait": 2250,
       "timecode_fin_extrait": 2265,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0150_time_2250.00s-2265.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -5006,7 +5006,7 @@
       "intervalle_fin": 2280,
       "timecode_debut_extrait": 2265,
       "timecode_fin_extrait": 2280,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0151_time_2265.00s-2280.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -5029,7 +5029,7 @@
       "intervalle_fin": 2295,
       "timecode_debut_extrait": 2280,
       "timecode_fin_extrait": 2295,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0152_time_2280.00s-2295.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -5058,7 +5058,7 @@
       "intervalle_fin": 2310,
       "timecode_debut_extrait": 2295,
       "timecode_fin_extrait": 2310,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0153_time_2295.00s-2310.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -5099,7 +5099,7 @@
       "intervalle_fin": 2325,
       "timecode_debut_extrait": 2310,
       "timecode_fin_extrait": 2325,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0154_time_2310.00s-2325.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -5128,7 +5128,7 @@
       "intervalle_fin": 2340,
       "timecode_debut_extrait": 2325,
       "timecode_fin_extrait": 2340,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0155_time_2325.00s-2340.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -5245,7 +5245,7 @@
       "intervalle_fin": 2385,
       "timecode_debut_extrait": 2370,
       "timecode_fin_extrait": 2385,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0158_time_2370.00s-2385.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -5292,7 +5292,7 @@
       "intervalle_fin": 2400,
       "timecode_debut_extrait": 2385,
       "timecode_fin_extrait": 2400,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0159_time_2385.00s-2400.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -5327,7 +5327,7 @@
       "intervalle_fin": 2415,
       "timecode_debut_extrait": 2400,
       "timecode_fin_extrait": 2415,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0160_time_2400.00s-2415.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -5337,7 +5337,7 @@
       "intervalle_fin": 2430,
       "timecode_debut_extrait": 2415,
       "timecode_fin_extrait": 2430,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0161_time_2415.00s-2430.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -5347,7 +5347,7 @@
       "intervalle_fin": 2445,
       "timecode_debut_extrait": 2430,
       "timecode_fin_extrait": 2445,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0162_time_2430.00s-2445.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -5364,7 +5364,7 @@
       "intervalle_fin": 2460,
       "timecode_debut_extrait": 2445,
       "timecode_fin_extrait": 2460,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0163_time_2445.00s-2460.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -5544,7 +5544,7 @@
       "intervalle_fin": 2580,
       "timecode_debut_extrait": 2565,
       "timecode_fin_extrait": 2580,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0171_time_2565.00s-2580.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -5585,7 +5585,7 @@
       "intervalle_fin": 2595,
       "timecode_debut_extrait": 2580,
       "timecode_fin_extrait": 2595,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0172_time_2580.00s-2595.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -5626,7 +5626,7 @@
       "intervalle_fin": 2610,
       "timecode_debut_extrait": 2595,
       "timecode_fin_extrait": 2610,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0173_time_2595.00s-2610.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -5667,7 +5667,7 @@
       "intervalle_fin": 2625,
       "timecode_debut_extrait": 2610,
       "timecode_fin_extrait": 2625,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0174_time_2610.00s-2625.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -5819,7 +5819,7 @@
       "intervalle_fin": 2685,
       "timecode_debut_extrait": 2670,
       "timecode_fin_extrait": 2685,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0178_time_2670.00s-2685.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -5919,7 +5919,7 @@
       "intervalle_fin": 2715,
       "timecode_debut_extrait": 2700,
       "timecode_fin_extrait": 2715,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0180_time_2700.00s-2715.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -6012,7 +6012,7 @@
       "intervalle_fin": 2760,
       "timecode_debut_extrait": 2745,
       "timecode_fin_extrait": 2760,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0183_time_2745.00s-2760.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -6100,7 +6100,7 @@
       "intervalle_fin": 2835,
       "timecode_debut_extrait": 2820,
       "timecode_fin_extrait": 2835,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0188_time_2820.00s-2835.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -6135,7 +6135,7 @@
       "intervalle_fin": 2850,
       "timecode_debut_extrait": 2835,
       "timecode_fin_extrait": 2850,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0189_time_2835.00s-2850.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -6251,7 +6251,7 @@
       "intervalle_fin": 2910,
       "timecode_debut_extrait": 2895,
       "timecode_fin_extrait": 2910,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0193_time_2895.00s-2910.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -6340,7 +6340,7 @@
       "intervalle_fin": 2985,
       "timecode_debut_extrait": 2970,
       "timecode_fin_extrait": 2985,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0198_time_2970.00s-2985.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -6439,7 +6439,7 @@
       "intervalle_fin": 3030,
       "timecode_debut_extrait": 3015,
       "timecode_fin_extrait": 3030,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0201_time_3015.00s-3030.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -6660,7 +6660,7 @@
       "intervalle_fin": 3135,
       "timecode_debut_extrait": 3120,
       "timecode_fin_extrait": 3135,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0208_time_3120.00s-3135.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -6677,7 +6677,7 @@
       "intervalle_fin": 3150,
       "timecode_debut_extrait": 3135,
       "timecode_fin_extrait": 3150,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0209_time_3135.00s-3150.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -6706,7 +6706,7 @@
       "intervalle_fin": 3165,
       "timecode_debut_extrait": 3150,
       "timecode_fin_extrait": 3165,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0210_time_3150.00s-3165.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -6794,7 +6794,7 @@
       "intervalle_fin": 3195,
       "timecode_debut_extrait": 3180,
       "timecode_fin_extrait": 3195,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0212_time_3180.00s-3195.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -7261,7 +7261,7 @@
       "intervalle_fin": 3390,
       "timecode_debut_extrait": 3375,
       "timecode_fin_extrait": 3390,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0225_time_3375.00s-3390.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -7271,7 +7271,7 @@
       "intervalle_fin": 3405,
       "timecode_debut_extrait": 3390,
       "timecode_fin_extrait": 3405,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0226_time_3390.00s-3405.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -7281,7 +7281,7 @@
       "intervalle_fin": 3420,
       "timecode_debut_extrait": 3405,
       "timecode_fin_extrait": 3420,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0227_time_3405.00s-3420.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -7301,7 +7301,7 @@
       "intervalle_fin": 3450,
       "timecode_debut_extrait": 3435,
       "timecode_fin_extrait": 3450,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0229_time_3435.00s-3450.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -7311,7 +7311,7 @@
       "intervalle_fin": 3465,
       "timecode_debut_extrait": 3450,
       "timecode_fin_extrait": 3465,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0230_time_3450.00s-3465.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -7364,7 +7364,7 @@
       "intervalle_fin": 3480,
       "timecode_debut_extrait": 3465,
       "timecode_fin_extrait": 3480,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0231_time_3465.00s-3480.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -7417,7 +7417,7 @@
       "intervalle_fin": 3495,
       "timecode_debut_extrait": 3480,
       "timecode_fin_extrait": 3495,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0232_time_3480.00s-3495.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -7458,7 +7458,7 @@
       "intervalle_fin": 3510,
       "timecode_debut_extrait": 3495,
       "timecode_fin_extrait": 3510,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0233_time_3495.00s-3510.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -7528,7 +7528,7 @@
       "intervalle_fin": 3540,
       "timecode_debut_extrait": 3525,
       "timecode_fin_extrait": 3540,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0235_time_3525.00s-3540.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -7651,7 +7651,7 @@
       "intervalle_fin": 3585,
       "timecode_debut_extrait": 3570,
       "timecode_fin_extrait": 3585,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0238_time_3570.00s-3585.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -7692,7 +7692,7 @@
       "intervalle_fin": 3600,
       "timecode_debut_extrait": 3585,
       "timecode_fin_extrait": 3600,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0239_time_3585.00s-3600.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -7780,7 +7780,7 @@
       "intervalle_fin": 3630,
       "timecode_debut_extrait": 3615,
       "timecode_fin_extrait": 3630,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0241_time_3615.00s-3630.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -7827,7 +7827,7 @@
       "intervalle_fin": 3645,
       "timecode_debut_extrait": 3630,
       "timecode_fin_extrait": 3645,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0242_time_3630.00s-3645.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -8024,7 +8024,7 @@
       "intervalle_fin": 3735,
       "timecode_debut_extrait": 3720,
       "timecode_fin_extrait": 3735,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0248_time_3720.00s-3735.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -8065,7 +8065,7 @@
       "intervalle_fin": 3750,
       "timecode_debut_extrait": 3735,
       "timecode_fin_extrait": 3750,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0249_time_3735.00s-3750.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -8094,7 +8094,7 @@
       "intervalle_fin": 3765,
       "timecode_debut_extrait": 3750,
       "timecode_fin_extrait": 3765,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0250_time_3750.00s-3765.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -8135,7 +8135,7 @@
       "intervalle_fin": 3780,
       "timecode_debut_extrait": 3765,
       "timecode_fin_extrait": 3780,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0251_time_3765.00s-3780.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -8195,7 +8195,7 @@
       "intervalle_fin": 3840,
       "timecode_debut_extrait": 3825,
       "timecode_fin_extrait": 3840,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0255_time_3825.00s-3840.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -8277,7 +8277,7 @@
       "intervalle_fin": 3870,
       "timecode_debut_extrait": 3855,
       "timecode_fin_extrait": 3870,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0257_time_3855.00s-3870.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -8318,7 +8318,7 @@
       "intervalle_fin": 3885,
       "timecode_debut_extrait": 3870,
       "timecode_fin_extrait": 3885,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0258_time_3870.00s-3885.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -8371,7 +8371,7 @@
       "intervalle_fin": 3900,
       "timecode_debut_extrait": 3885,
       "timecode_fin_extrait": 3900,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0259_time_3885.00s-3900.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -8498,7 +8498,7 @@
       "intervalle_fin": 3960,
       "timecode_debut_extrait": 3945,
       "timecode_fin_extrait": 3960,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0263_time_3945.00s-3960.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -8596,7 +8596,7 @@
       "intervalle_fin": 4020,
       "timecode_debut_extrait": 4005,
       "timecode_fin_extrait": 4020,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0267_time_4005.00s-4020.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -8625,7 +8625,7 @@
       "intervalle_fin": 4035,
       "timecode_debut_extrait": 4020,
       "timecode_fin_extrait": 4035,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0268_time_4020.00s-4035.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -8736,7 +8736,7 @@
       "intervalle_fin": 4080,
       "timecode_debut_extrait": 4065,
       "timecode_fin_extrait": 4080,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0271_time_4065.00s-4080.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -8759,7 +8759,7 @@
       "intervalle_fin": 4095,
       "timecode_debut_extrait": 4080,
       "timecode_fin_extrait": 4095,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0272_time_4080.00s-4095.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -8800,7 +8800,7 @@
       "intervalle_fin": 4110,
       "timecode_debut_extrait": 4095,
       "timecode_fin_extrait": 4110,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0273_time_4095.00s-4110.00s.mp4",
       "nombre_sous_titres": 8,
       "sous_titres": [
         {
@@ -8912,7 +8912,7 @@
       "intervalle_fin": 4140,
       "timecode_debut_extrait": 4125,
       "timecode_fin_extrait": 4140,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0275_time_4125.00s-4140.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -8935,7 +8935,7 @@
       "intervalle_fin": 4155,
       "timecode_debut_extrait": 4140,
       "timecode_fin_extrait": 4155,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0276_time_4140.00s-4155.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -8952,7 +8952,7 @@
       "intervalle_fin": 4170,
       "timecode_debut_extrait": 4155,
       "timecode_fin_extrait": 4170,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0277_time_4155.00s-4170.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -9157,7 +9157,7 @@
       "intervalle_fin": 4245,
       "timecode_debut_extrait": 4230,
       "timecode_fin_extrait": 4245,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0282_time_4230.00s-4245.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -9372,7 +9372,7 @@
       "intervalle_fin": 4350,
       "timecode_debut_extrait": 4335,
       "timecode_fin_extrait": 4350,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0289_time_4335.00s-4350.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -9643,7 +9643,7 @@
       "intervalle_fin": 4515,
       "timecode_debut_extrait": 4500,
       "timecode_fin_extrait": 4515,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0300_time_4500.00s-4515.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -9696,7 +9696,7 @@
       "intervalle_fin": 4530,
       "timecode_debut_extrait": 4515,
       "timecode_fin_extrait": 4530,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0301_time_4515.00s-4530.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -9784,7 +9784,7 @@
       "intervalle_fin": 4605,
       "timecode_debut_extrait": 4590,
       "timecode_fin_extrait": 4605,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0306_time_4590.00s-4605.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -9794,7 +9794,7 @@
       "intervalle_fin": 4620,
       "timecode_debut_extrait": 4605,
       "timecode_fin_extrait": 4620,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0307_time_4605.00s-4620.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -9811,7 +9811,7 @@
       "intervalle_fin": 4635,
       "timecode_debut_extrait": 4620,
       "timecode_fin_extrait": 4635,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0308_time_4620.00s-4635.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -9923,7 +9923,7 @@
       "intervalle_fin": 4665,
       "timecode_debut_extrait": 4650,
       "timecode_fin_extrait": 4665,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0310_time_4650.00s-4665.00s.mp4",
       "nombre_sous_titres": 8,
       "sous_titres": [
         {
@@ -9982,7 +9982,7 @@
       "intervalle_fin": 4680,
       "timecode_debut_extrait": 4665,
       "timecode_fin_extrait": 4680,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0311_time_4665.00s-4680.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -10035,7 +10035,7 @@
       "intervalle_fin": 4695,
       "timecode_debut_extrait": 4680,
       "timecode_fin_extrait": 4695,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0312_time_4680.00s-4695.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -10088,7 +10088,7 @@
       "intervalle_fin": 4710,
       "timecode_debut_extrait": 4695,
       "timecode_fin_extrait": 4710,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0313_time_4695.00s-4710.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -10129,7 +10129,7 @@
       "intervalle_fin": 4725,
       "timecode_debut_extrait": 4710,
       "timecode_fin_extrait": 4725,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0314_time_4710.00s-4725.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -10182,7 +10182,7 @@
       "intervalle_fin": 4740,
       "timecode_debut_extrait": 4725,
       "timecode_fin_extrait": 4740,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0315_time_4725.00s-4740.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -10211,7 +10211,7 @@
       "intervalle_fin": 4755,
       "timecode_debut_extrait": 4740,
       "timecode_fin_extrait": 4755,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0316_time_4740.00s-4755.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -10258,7 +10258,7 @@
       "intervalle_fin": 4770,
       "timecode_debut_extrait": 4755,
       "timecode_fin_extrait": 4770,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0317_time_4755.00s-4770.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -10386,7 +10386,7 @@
       "intervalle_fin": 4830,
       "timecode_debut_extrait": 4815,
       "timecode_fin_extrait": 4830,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0321_time_4815.00s-4830.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -10427,7 +10427,7 @@
       "intervalle_fin": 4845,
       "timecode_debut_extrait": 4830,
       "timecode_fin_extrait": 4845,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0322_time_4830.00s-4845.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -10474,7 +10474,7 @@
       "intervalle_fin": 4860,
       "timecode_debut_extrait": 4845,
       "timecode_fin_extrait": 4860,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0323_time_4845.00s-4860.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -10497,7 +10497,7 @@
       "intervalle_fin": 4875,
       "timecode_debut_extrait": 4860,
       "timecode_fin_extrait": 4875,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0324_time_4860.00s-4875.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -10538,7 +10538,7 @@
       "intervalle_fin": 4890,
       "timecode_debut_extrait": 4875,
       "timecode_fin_extrait": 4890,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0325_time_4875.00s-4890.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -10591,7 +10591,7 @@
       "intervalle_fin": 4905,
       "timecode_debut_extrait": 4890,
       "timecode_fin_extrait": 4905,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0326_time_4890.00s-4905.00s.mp4",
       "nombre_sous_titres": 8,
       "sous_titres": [
         {
@@ -10650,7 +10650,7 @@
       "intervalle_fin": 4920,
       "timecode_debut_extrait": 4905,
       "timecode_fin_extrait": 4920,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0327_time_4905.00s-4920.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -10697,7 +10697,7 @@
       "intervalle_fin": 4935,
       "timecode_debut_extrait": 4920,
       "timecode_fin_extrait": 4935,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0328_time_4920.00s-4935.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -10726,7 +10726,7 @@
       "intervalle_fin": 4950,
       "timecode_debut_extrait": 4935,
       "timecode_fin_extrait": 4950,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0329_time_4935.00s-4950.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -10805,7 +10805,7 @@
       "intervalle_fin": 4995,
       "timecode_debut_extrait": 4980,
       "timecode_fin_extrait": 4995,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0332_time_4980.00s-4995.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -10834,7 +10834,7 @@
       "intervalle_fin": 5010,
       "timecode_debut_extrait": 4995,
       "timecode_fin_extrait": 5010,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0333_time_4995.00s-5010.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -11017,7 +11017,7 @@
       "intervalle_fin": 5115,
       "timecode_debut_extrait": 5100,
       "timecode_fin_extrait": 5115,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0340_time_5100.00s-5115.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -11040,7 +11040,7 @@
       "intervalle_fin": 5130,
       "timecode_debut_extrait": 5115,
       "timecode_fin_extrait": 5130,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0341_time_5115.00s-5130.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -11102,7 +11102,7 @@
       "intervalle_fin": 5175,
       "timecode_debut_extrait": 5160,
       "timecode_fin_extrait": 5175,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0344_time_5160.00s-5175.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -11149,7 +11149,7 @@
       "intervalle_fin": 5190,
       "timecode_debut_extrait": 5175,
       "timecode_fin_extrait": 5190,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0345_time_5175.00s-5190.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -11207,7 +11207,7 @@
       "intervalle_fin": 5220,
       "timecode_debut_extrait": 5205,
       "timecode_fin_extrait": 5220,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0347_time_5205.00s-5220.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -11254,7 +11254,7 @@
       "intervalle_fin": 5235,
       "timecode_debut_extrait": 5220,
       "timecode_fin_extrait": 5235,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0348_time_5220.00s-5235.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -11283,7 +11283,7 @@
       "intervalle_fin": 5250,
       "timecode_debut_extrait": 5235,
       "timecode_fin_extrait": 5250,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0349_time_5235.00s-5250.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -11312,7 +11312,7 @@
       "intervalle_fin": 5265,
       "timecode_debut_extrait": 5250,
       "timecode_fin_extrait": 5265,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0350_time_5250.00s-5265.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -11353,7 +11353,7 @@
       "intervalle_fin": 5280,
       "timecode_debut_extrait": 5265,
       "timecode_fin_extrait": 5280,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0351_time_5265.00s-5280.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -11382,7 +11382,7 @@
       "intervalle_fin": 5295,
       "timecode_debut_extrait": 5280,
       "timecode_fin_extrait": 5295,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0352_time_5280.00s-5295.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -11405,7 +11405,7 @@
       "intervalle_fin": 5310,
       "timecode_debut_extrait": 5295,
       "timecode_fin_extrait": 5310,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0353_time_5295.00s-5310.00s.mp4",
       "nombre_sous_titres": 1,
       "sous_titres": [
         {
@@ -11422,7 +11422,7 @@
       "intervalle_fin": 5325,
       "timecode_debut_extrait": 5310,
       "timecode_fin_extrait": 5325,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0354_time_5310.00s-5325.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -11451,7 +11451,7 @@
       "intervalle_fin": 5340,
       "timecode_debut_extrait": 5325,
       "timecode_fin_extrait": 5340,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0355_time_5325.00s-5340.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -11474,7 +11474,7 @@
       "intervalle_fin": 5355,
       "timecode_debut_extrait": 5340,
       "timecode_fin_extrait": 5355,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0356_time_5340.00s-5355.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -11515,7 +11515,7 @@
       "intervalle_fin": 5370,
       "timecode_debut_extrait": 5355,
       "timecode_fin_extrait": 5370,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0357_time_5355.00s-5370.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -11562,7 +11562,7 @@
       "intervalle_fin": 5385,
       "timecode_debut_extrait": 5370,
       "timecode_fin_extrait": 5385,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0358_time_5370.00s-5385.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -11607,7 +11607,7 @@
       "intervalle_fin": 5415,
       "timecode_debut_extrait": 5400,
       "timecode_fin_extrait": 5415,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0360_time_5400.00s-5415.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -11642,7 +11642,7 @@
       "intervalle_fin": 5430,
       "timecode_debut_extrait": 5415,
       "timecode_fin_extrait": 5430,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0361_time_5415.00s-5430.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -11677,7 +11677,7 @@
       "intervalle_fin": 5445,
       "timecode_debut_extrait": 5430,
       "timecode_fin_extrait": 5445,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0362_time_5430.00s-5445.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -11718,7 +11718,7 @@
       "intervalle_fin": 5460,
       "timecode_debut_extrait": 5445,
       "timecode_fin_extrait": 5460,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0363_time_5445.00s-5460.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -11765,7 +11765,7 @@
       "intervalle_fin": 5475,
       "timecode_debut_extrait": 5460,
       "timecode_fin_extrait": 5475,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0364_time_5460.00s-5475.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -11788,7 +11788,7 @@
       "intervalle_fin": 5490,
       "timecode_debut_extrait": 5475,
       "timecode_fin_extrait": 5490,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0365_time_5475.00s-5490.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -11798,7 +11798,7 @@
       "intervalle_fin": 5505,
       "timecode_debut_extrait": 5490,
       "timecode_fin_extrait": 5505,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0366_time_5490.00s-5505.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -11808,7 +11808,7 @@
       "intervalle_fin": 5520,
       "timecode_debut_extrait": 5505,
       "timecode_fin_extrait": 5520,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0367_time_5505.00s-5520.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -11876,7 +11876,7 @@
       "intervalle_fin": 5565,
       "timecode_debut_extrait": 5550,
       "timecode_fin_extrait": 5565,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0370_time_5550.00s-5565.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -11929,7 +11929,7 @@
       "intervalle_fin": 5580,
       "timecode_debut_extrait": 5565,
       "timecode_fin_extrait": 5580,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0371_time_5565.00s-5580.00s.mp4",
       "nombre_sous_titres": 8,
       "sous_titres": [
         {
@@ -11988,7 +11988,7 @@
       "intervalle_fin": 5595,
       "timecode_debut_extrait": 5580,
       "timecode_fin_extrait": 5595,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0372_time_5580.00s-5595.00s.mp4",
       "nombre_sous_titres": 7,
       "sous_titres": [
         {
@@ -12082,7 +12082,7 @@
       "intervalle_fin": 5625,
       "timecode_debut_extrait": 5610,
       "timecode_fin_extrait": 5625,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0374_time_5610.00s-5625.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -12123,7 +12123,7 @@
       "intervalle_fin": 5640,
       "timecode_debut_extrait": 5625,
       "timecode_fin_extrait": 5640,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0375_time_5625.00s-5640.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -12158,7 +12158,7 @@
       "intervalle_fin": 5655,
       "timecode_debut_extrait": 5640,
       "timecode_fin_extrait": 5655,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0376_time_5640.00s-5655.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -12316,7 +12316,7 @@
       "intervalle_fin": 5715,
       "timecode_debut_extrait": 5700,
       "timecode_fin_extrait": 5715,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0380_time_5700.00s-5715.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -12398,7 +12398,7 @@
       "intervalle_fin": 5745,
       "timecode_debut_extrait": 5730,
       "timecode_fin_extrait": 5745,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0382_time_5730.00s-5745.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -12445,7 +12445,7 @@
       "intervalle_fin": 5760,
       "timecode_debut_extrait": 5745,
       "timecode_fin_extrait": 5760,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0383_time_5745.00s-5760.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -12480,7 +12480,7 @@
       "intervalle_fin": 5775,
       "timecode_debut_extrait": 5760,
       "timecode_fin_extrait": 5775,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0384_time_5760.00s-5775.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -12527,7 +12527,7 @@
       "intervalle_fin": 5790,
       "timecode_debut_extrait": 5775,
       "timecode_fin_extrait": 5790,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0385_time_5775.00s-5790.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -12562,7 +12562,7 @@
       "intervalle_fin": 5805,
       "timecode_debut_extrait": 5790,
       "timecode_fin_extrait": 5805,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0386_time_5790.00s-5805.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -12603,7 +12603,7 @@
       "intervalle_fin": 5820,
       "timecode_debut_extrait": 5805,
       "timecode_fin_extrait": 5820,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0387_time_5805.00s-5820.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -12638,7 +12638,7 @@
       "intervalle_fin": 5835,
       "timecode_debut_extrait": 5820,
       "timecode_fin_extrait": 5835,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0388_time_5820.00s-5835.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -12673,7 +12673,7 @@
       "intervalle_fin": 5850,
       "timecode_debut_extrait": 5835,
       "timecode_fin_extrait": 5850,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0389_time_5835.00s-5850.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -12696,7 +12696,7 @@
       "intervalle_fin": 5865,
       "timecode_debut_extrait": 5850,
       "timecode_fin_extrait": 5865,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0390_time_5850.00s-5865.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -12731,7 +12731,7 @@
       "intervalle_fin": 5880,
       "timecode_debut_extrait": 5865,
       "timecode_fin_extrait": 5880,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0391_time_5865.00s-5880.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -12766,7 +12766,7 @@
       "intervalle_fin": 5895,
       "timecode_debut_extrait": 5880,
       "timecode_fin_extrait": 5895,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0392_time_5880.00s-5895.00s.mp4",
       "nombre_sous_titres": 5,
       "sous_titres": [
         {
@@ -12911,7 +12911,7 @@
       "intervalle_fin": 6000,
       "timecode_debut_extrait": 5985,
       "timecode_fin_extrait": 6000,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0399_time_5985.00s-6000.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -12921,7 +12921,7 @@
       "intervalle_fin": 6015,
       "timecode_debut_extrait": 6000,
       "timecode_fin_extrait": 6015,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0400_time_6000.00s-6015.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -13019,7 +13019,7 @@
       "intervalle_fin": 6105,
       "timecode_debut_extrait": 6090,
       "timecode_fin_extrait": 6105,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0406_time_6090.00s-6105.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -13042,7 +13042,7 @@
       "intervalle_fin": 6120,
       "timecode_debut_extrait": 6105,
       "timecode_fin_extrait": 6120,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0407_time_6105.00s-6120.00s.mp4",
       "nombre_sous_titres": 6,
       "sous_titres": [
         {
@@ -13089,7 +13089,7 @@
       "intervalle_fin": 6135,
       "timecode_debut_extrait": 6120,
       "timecode_fin_extrait": 6135,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0408_time_6120.00s-6135.00s.mp4",
       "nombre_sous_titres": 8,
       "sous_titres": [
         {
@@ -13148,7 +13148,7 @@
       "intervalle_fin": 6150,
       "timecode_debut_extrait": 6135,
       "timecode_fin_extrait": 6150,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0409_time_6135.00s-6150.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {
@@ -13171,7 +13171,7 @@
       "intervalle_fin": 6165,
       "timecode_debut_extrait": 6150,
       "timecode_fin_extrait": 6165,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0410_time_6150.00s-6165.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -13206,7 +13206,7 @@
       "intervalle_fin": 6180,
       "timecode_debut_extrait": 6165,
       "timecode_fin_extrait": 6180,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0411_time_6165.00s-6180.00s.mp4",
       "nombre_sous_titres": 3,
       "sous_titres": [
         {
@@ -13235,7 +13235,7 @@
       "intervalle_fin": 6195,
       "timecode_debut_extrait": 6180,
       "timecode_fin_extrait": 6195,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0412_time_6180.00s-6195.00s.mp4",
       "nombre_sous_titres": 4,
       "sous_titres": [
         {
@@ -13270,7 +13270,7 @@
       "intervalle_fin": 6210,
       "timecode_debut_extrait": 6195,
       "timecode_fin_extrait": 6210,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0413_time_6195.00s-6210.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -13280,7 +13280,7 @@
       "intervalle_fin": 6225,
       "timecode_debut_extrait": 6210,
       "timecode_fin_extrait": 6225,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0414_time_6210.00s-6225.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -13290,7 +13290,7 @@
       "intervalle_fin": 6240,
       "timecode_debut_extrait": 6225,
       "timecode_fin_extrait": 6240,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0415_time_6225.00s-6240.00s.mp4",
       "nombre_sous_titres": 0,
       "sous_titres": []
     },
@@ -13352,7 +13352,7 @@
       "intervalle_fin": 6285,
       "timecode_debut_extrait": 6270,
       "timecode_fin_extrait": 6285,
-      "video_path": null,
+      "video_path": "analyse\\videos\\After the Wedding [2019, BDRemux 1080p] Dub + Original (Eng) + Sub (rus, eng)\\interval_0418_time_6270.00s-6285.00s.mp4",
       "nombre_sous_titres": 2,
       "sous_titres": [
         {

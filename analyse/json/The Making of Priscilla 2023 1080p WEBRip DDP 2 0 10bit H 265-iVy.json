@@ -1,0 +1,4282 @@
+{
+  "movie_id": "The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy",
+  "movie_path": "E:\\film_oral\\The Making of Priscilla (2023)\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy.mkv",
+  "subtitle_path": "E:\\film_oral\\The Making of Priscilla (2023)\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy.en.srt",
+  "intervalle_secondes": 15,
+  "nombre_intervalles": 109,
+  "dossier_videos": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy",
+  "date_traitement": "2026-03-26T20:39:40.970661",
+  "stats_extraction": {
+    "total": 109,
+    "reussis": 109,
+    "echecs": 0,
+    "timeouts": 0,
+    "gpu_errors": 109,
+    "cpu_fallbacks": 109
+  },
+  "intervalles": [
+    {
+      "intervalle_index": 0,
+      "intervalle_debut": 0,
+      "intervalle_fin": 15,
+      "timecode_debut_extrait": 0,
+      "timecode_fin_extrait": 15,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0000_time_0.00s-15.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 1,
+          "start": 1.73,
+          "end": 3.616,
+          "text": "Here we go, everybody. Roll sound."
+        },
+        {
+          "index": 2,
+          "start": 4.104,
+          "end": 5.147,
+          "text": "Action!"
+        },
+        {
+          "index": 3,
+          "start": 5.171,
+          "end": 7.942,
+          "text": "<i>I didn't know what I was in for because I was very young.</i>"
+        },
+        {
+          "index": 4,
+          "start": 7.966,
+          "end": 10.468,
+          "text": "<i>It's an interesting side of the story that we're telling.</i>"
+        },
+        {
+          "index": 5,
+          "start": 10.635,
+          "end": 11.737,
+          "text": "Okay, here's a rehearsal."
+        },
+        {
+          "index": 6,
+          "start": 11.761,
+          "end": 13.989,
+          "text": "<i>A side that we've never seen before.</i>"
+        },
+        {
+          "index": 7,
+          "start": 14.013,
+          "end": 16.549,
+          "text": "<i>He was a human being. We all have flaws.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 1,
+      "intervalle_debut": 15,
+      "intervalle_fin": 30,
+      "timecode_debut_extrait": 15,
+      "timecode_fin_extrait": 30,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0001_time_15.00s-30.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 8,
+          "start": 16.573,
+          "end": 17.859,
+          "text": "- Cut! - Cut there."
+        },
+        {
+          "index": 9,
+          "start": 17.883,
+          "end": 19.54,
+          "text": "- Great. - Come on, step down."
+        },
+        {
+          "index": 10,
+          "start": 21.173,
+          "end": 23.121,
+          "text": "Yeah, yeah..."
+        },
+        {
+          "index": 11,
+          "start": 23.145,
+          "end": 24.587,
+          "text": "Ha ha!"
+        },
+        {
+          "index": 12,
+          "start": 24.982,
+          "end": 27.002,
+          "text": "Two cameras going on."
+        },
+        {
+          "index": 13,
+          "start": 27.026,
+          "end": 29.546,
+          "text": "Oh wow. Wow! From every angle."
+        },
+        {
+          "index": 14,
+          "start": 29.57,
+          "end": 31.298,
+          "text": "That's how it would have felt."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 2,
+      "intervalle_debut": 30,
+      "intervalle_fin": 45,
+      "timecode_debut_extrait": 30,
+      "timecode_fin_extrait": 45,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0002_time_30.00s-45.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 15,
+          "start": 31.322,
+          "end": 33.017,
+          "text": "Can you imagine?"
+        },
+        {
+          "index": 16,
+          "start": 33.041,
+          "end": 35.01,
+          "text": "STUDIO: PRISCILLA (CODE NAME \"DOMINO\") FINAL PREP DAY BEFORE PRODUCTION"
+        },
+        {
+          "index": 17,
+          "start": 35.034,
+          "end": 37.034,
+          "text": "I don't know..."
+        },
+        {
+          "index": 18,
+          "start": 44.857,
+          "end": 46.04,
+          "text": "Oh my God!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 3,
+      "intervalle_debut": 45,
+      "intervalle_fin": 60,
+      "timecode_debut_extrait": 45,
+      "timecode_fin_extrait": 60,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0003_time_45.00s-60.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 19,
+          "start": 52.133,
+          "end": 54.302,
+          "text": "So our pickleball court."
+        },
+        {
+          "index": 20,
+          "start": 54.471,
+          "end": 56.471,
+          "text": "Pickleball court, nice."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 4,
+      "intervalle_debut": 60,
+      "intervalle_fin": 75,
+      "timecode_debut_extrait": 60,
+      "timecode_fin_extrait": 75,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0004_time_60.00s-75.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 21,
+          "start": 60.908,
+          "end": 63.37,
+          "text": "<i>I'm a 17 year old girl,</i>"
+        },
+        {
+          "index": 22,
+          "start": 63.394,
+          "end": 65.331,
+          "text": "<i>shooting a making of film,</i>"
+        },
+        {
+          "index": 23,
+          "start": 66.856,
+          "end": 69.086,
+          "text": "<i>about the story of another teenage girl.</i>"
+        },
+        {
+          "index": 24,
+          "start": 70.526,
+          "end": 72.653,
+          "text": "<i>In a very different time.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 5,
+      "intervalle_debut": 75,
+      "intervalle_fin": 90,
+      "timecode_debut_extrait": 75,
+      "timecode_fin_extrait": 90,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0005_time_75.00s-90.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 25,
+          "start": 78.701,
+          "end": 80.012,
+          "text": "- It looks good. - Thank you."
+        },
+        {
+          "index": 26,
+          "start": 80.036,
+          "end": 83.671,
+          "text": "But I probably won't be wearing eyeliner for a very long time."
+        },
+        {
+          "index": 27,
+          "start": 87.96,
+          "end": 89.312,
+          "text": "I don't even play guitar."
+        },
+        {
+          "index": 28,
+          "start": 89.336,
+          "end": 90.897,
+          "text": "I've learned, like, four chords."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 6,
+      "intervalle_debut": 90,
+      "intervalle_fin": 105,
+      "timecode_debut_extrait": 90,
+      "timecode_fin_extrait": 105,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0006_time_90.00s-105.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 29,
+          "start": 90.921,
+          "end": 94.049,
+          "text": "I'm just practicing them every day cause I just want to be able to play guitar."
+        },
+        {
+          "index": 30,
+          "start": 94.168,
+          "end": 95.276,
+          "text": "It's beautiful, oh my God."
+        },
+        {
+          "index": 31,
+          "start": 95.3,
+          "end": 97.89,
+          "text": "Yes, there's the one that he had, it's so cool."
+        },
+        {
+          "index": 32,
+          "start": 98.93,
+          "end": 103.18,
+          "text": "EXT: GRACELAND 1969 DAY ONE PRINCIPAL PHOTOGRAPHY"
+        },
+        {
+          "index": 33,
+          "start": 103.799,
+          "end": 107.024,
+          "text": "Let's, let's get one and two all wired up please."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 7,
+      "intervalle_debut": 105,
+      "intervalle_fin": 120,
+      "timecode_debut_extrait": 105,
+      "timecode_fin_extrait": 120,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0007_time_105.00s-120.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 34,
+          "start": 107.279,
+          "end": 110.583,
+          "text": "<i>We think there is the first phase where it is just your imagination.</i>"
+        },
+        {
+          "index": 35,
+          "start": 110.607,
+          "end": 113.336,
+          "text": "And then you have to articulate it and see."
+        },
+        {
+          "index": 36,
+          "start": 113.36,
+          "end": 117.449,
+          "text": "And then, I think always, it always turns out differently than you first imagine,"
+        },
+        {
+          "index": 37,
+          "start": 117.473,
+          "end": 119.633,
+          "text": "I think. But..."
+        },
+        {
+          "index": 38,
+          "start": 119.657,
+          "end": 122.636,
+          "text": "<i>this has been pretty close to how I imagined it, so far.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 8,
+      "intervalle_debut": 120,
+      "intervalle_fin": 135,
+      "timecode_debut_extrait": 120,
+      "timecode_fin_extrait": 135,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0008_time_120.00s-135.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 39,
+          "start": 122.66,
+          "end": 127.016,
+          "text": "But guys, let's bring everybody out to the front lawn for the puwaba."
+        },
+        {
+          "index": 40,
+          "start": 127.04,
+          "end": 129.101,
+          "text": "That's a family tradition that"
+        },
+        {
+          "index": 41,
+          "start": 129.125,
+          "end": 131.608,
+          "text": "ever since I was a little kid I remember."
+        },
+        {
+          "index": 42,
+          "start": 131.632,
+          "end": 134.755,
+          "text": "It comes from his, my dad's college theater days."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 9,
+      "intervalle_debut": 135,
+      "intervalle_fin": 150,
+      "timecode_debut_extrait": 135,
+      "timecode_fin_extrait": 150,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0009_time_135.00s-150.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 43,
+          "start": 135.017,
+          "end": 138.81,
+          "text": "And how the puwaba's such a magic word that's going to bring us luck."
+        },
+        {
+          "index": 44,
+          "start": 138.834,
+          "end": 143.907,
+          "text": "And we're all going to hold hands and say the magic word three times,"
+        },
+        {
+          "index": 45,
+          "start": 143.931,
+          "end": 146.433,
+          "text": "once we start and it's to bring us good luck."
+        },
+        {
+          "index": 46,
+          "start": 146.6,
+          "end": 152.393,
+          "text": "And I hope you have a safe shoot, and we're safe from injury and illness, and"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 10,
+      "intervalle_debut": 150,
+      "intervalle_fin": 165,
+      "timecode_debut_extrait": 150,
+      "timecode_fin_extrait": 165,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0010_time_150.00s-165.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 47,
+          "start": 152.417,
+          "end": 156.444,
+          "text": "that everyone has a great time and thank you all for all your hard work,"
+        },
+        {
+          "index": 48,
+          "start": 156.468,
+          "end": 157.783,
+          "text": "and for joining us today."
+        },
+        {
+          "index": 49,
+          "start": 157.986,
+          "end": 161.616,
+          "text": "Puwaba! Puwaba! Puwaba!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 11,
+      "intervalle_debut": 165,
+      "intervalle_fin": 180,
+      "timecode_debut_extrait": 165,
+      "timecode_fin_extrait": 180,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0011_time_165.00s-180.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 50,
+          "start": 167.015,
+          "end": 168.057,
+          "text": "Here we go everybody."
+        },
+        {
+          "index": 51,
+          "start": 168.081,
+          "end": 169.987,
+          "text": "And roll sound."
+        },
+        {
+          "index": 52,
+          "start": 170.786,
+          "end": 172.727,
+          "text": "A big day, action!"
+        },
+        {
+          "index": 53,
+          "start": 172.751,
+          "end": 174.77,
+          "text": "<i>It kind of strikes me as something</i>"
+        },
+        {
+          "index": 54,
+          "start": 174.794,
+          "end": 177.297,
+          "text": "<i>sort of fantasy like, out of a fairy tale.</i>"
+        },
+        {
+          "index": 55,
+          "start": 177.505,
+          "end": 179.608,
+          "text": "<i>Yeah, it reminds me of</i> Alice in Wonderland."
+        },
+        {
+          "index": 56,
+          "start": 179.632,
+          "end": 182.844,
+          "text": "<i>Or... it does have that that kind of fairy tale...</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 12,
+      "intervalle_debut": 180,
+      "intervalle_fin": 195,
+      "timecode_debut_extrait": 180,
+      "timecode_fin_extrait": 195,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0012_time_180.00s-195.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 57,
+          "start": 182.969,
+          "end": 185.823,
+          "text": "<i>You know what, she thinks it's a fairy tale and then realizes that</i>"
+        },
+        {
+          "index": 58,
+          "start": 185.847,
+          "end": 188.122,
+          "text": "<i>it's not what it's cracked up to be.</i>"
+        },
+        {
+          "index": 59,
+          "start": 188.146,
+          "end": 190.032,
+          "text": "Alright baby, let's go!"
+        },
+        {
+          "index": 60,
+          "start": 190.056,
+          "end": 192.046,
+          "text": "- Cut! Great - Cut there."
+        },
+        {
+          "index": 61,
+          "start": 194.188,
+          "end": 195.249,
+          "text": "This is my"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 13,
+      "intervalle_debut": 195,
+      "intervalle_fin": 210,
+      "timecode_debut_extrait": 195,
+      "timecode_fin_extrait": 210,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0013_time_195.00s-210.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 62,
+          "start": 195.273,
+          "end": 197.626,
+          "text": "my copy that I adapted the script from."
+        },
+        {
+          "index": 63,
+          "start": 197.65,
+          "end": 198.789,
+          "text": "It's like falling apart."
+        },
+        {
+          "index": 64,
+          "start": 198.813,
+          "end": 200.683,
+          "text": "You know, I got this, like, for a while"
+        },
+        {
+          "index": 65,
+          "start": 200.707,
+          "end": 203.424,
+          "text": "I thought it was fun to read at the beach, I'll like bring it on vacation."
+        },
+        {
+          "index": 66,
+          "start": 203.448,
+          "end": 206.676,
+          "text": "And as I was reading it, I was really... I don't know, I really connected with it."
+        },
+        {
+          "index": 67,
+          "start": 206.7,
+          "end": 211.056,
+          "text": "And I grew up with charismatic... Because of my dad that like our home"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 14,
+      "intervalle_debut": 210,
+      "intervalle_fin": 225,
+      "timecode_debut_extrait": 210,
+      "timecode_fin_extrait": 225,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0014_time_210.00s-225.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 68,
+          "start": 211.08,
+          "end": 212.562,
+          "text": "<i>kind of revolved around</i>"
+        },
+        {
+          "index": 69,
+          "start": 212.586,
+          "end": 214.1,
+          "text": "in a very minor way compared to Elvis"
+        },
+        {
+          "index": 70,
+          "start": 214.124,
+          "end": 218.302,
+          "text": "but I can, you know, I know what it's like to be around kind of a big figure."
+        },
+        {
+          "index": 71,
+          "start": 218.837,
+          "end": 222.507,
+          "text": "Can you tell me a little bit about the collaboration process"
+        },
+        {
+          "index": 72,
+          "start": 222.716,
+          "end": 225.153,
+          "text": "and learning about Priscilla's life firsthand?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 15,
+      "intervalle_debut": 225,
+      "intervalle_fin": 240,
+      "timecode_debut_extrait": 225,
+      "timecode_fin_extrait": 240,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0015_time_225.00s-240.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 73,
+          "start": 225.177,
+          "end": 227.321,
+          "text": "Yeah, it was the first time that I made something"
+        },
+        {
+          "index": 74,
+          "start": 227.345,
+          "end": 230.533,
+          "text": "based on a person that was alive and would speak to me about it."
+        },
+        {
+          "index": 75,
+          "start": 230.557,
+          "end": 234.12,
+          "text": "<i>So it was great that as I had questions, I could, I kept a list of questions,</i>"
+        },
+        {
+          "index": 76,
+          "start": 234.144,
+          "end": 237.164,
+          "text": "<i>and then I would talk to Priscilla, get to ask her about them.</i>"
+        },
+        {
+          "index": 77,
+          "start": 237.188,
+          "end": 240.876,
+          "text": "It was important to me that she felt like it was done right"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 16,
+      "intervalle_debut": 240,
+      "intervalle_fin": 255,
+      "timecode_debut_extrait": 240,
+      "timecode_fin_extrait": 255,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0016_time_240.00s-255.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 78,
+          "start": 240.9,
+          "end": 245.339,
+          "text": "<i>felt accurate to her and for me just to get little insider details.</i>"
+        },
+        {
+          "index": 79,
+          "start": 245.363,
+          "end": 247.951,
+          "text": "<i>I was like, \"what were you doing all that time when you were home?\"</i>"
+        },
+        {
+          "index": 80,
+          "start": 247.975,
+          "end": 250.844,
+          "text": "<i>And so just to get specifics and she said she went to</i>"
+        },
+        {
+          "index": 81,
+          "start": 250.868,
+          "end": 252.846,
+          "text": "like charm school, etiquette school."
+        },
+        {
+          "index": 82,
+          "start": 252.87,
+          "end": 257.758,
+          "text": "And I can try to fill in the the pieces that that weren't in the book."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 17,
+      "intervalle_debut": 255,
+      "intervalle_fin": 270,
+      "timecode_debut_extrait": 255,
+      "timecode_fin_extrait": 270,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0017_time_255.00s-270.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 83,
+          "start": 258.185,
+          "end": 260.844,
+          "text": "EXT: GRACELAND POOL - Do you want a break? Jump in..."
+        },
+        {
+          "index": 84,
+          "start": 263.923,
+          "end": 266.86,
+          "text": "<i>Being on a film set is the most fun</i>"
+        },
+        {
+          "index": 85,
+          "start": 266.884,
+          "end": 269.845,
+          "text": "<i>and intense and collaborative thing I've ever been part of.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 18,
+      "intervalle_debut": 270,
+      "intervalle_fin": 285,
+      "timecode_debut_extrait": 270,
+      "timecode_fin_extrait": 285,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0018_time_270.00s-285.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 86,
+          "start": 270.054,
+          "end": 271.656,
+          "text": "<i>Nothing compares, really.</i>"
+        },
+        {
+          "index": 87,
+          "start": 271.68,
+          "end": 273.816,
+          "text": "<i>It's my favorite place on earth.</i>"
+        },
+        {
+          "index": 88,
+          "start": 275.027,
+          "end": 276.867,
+          "text": "No, no!"
+        },
+        {
+          "index": 89,
+          "start": 280.101,
+          "end": 283.042,
+          "text": "<i>I'd love to hear more about you working with that</i>"
+        },
+        {
+          "index": 90,
+          "start": 283.066,
+          "end": 284.752,
+          "text": "<i>duo of Priscilla and Sofia.</i>"
+        },
+        {
+          "index": 91,
+          "start": 284.776,
+          "end": 286.421,
+          "text": "<i>And how was that back and forth?</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 19,
+      "intervalle_debut": 285,
+      "intervalle_fin": 300,
+      "timecode_debut_extrait": 285,
+      "timecode_fin_extrait": 300,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0019_time_285.00s-300.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 92,
+          "start": 286.445,
+          "end": 290.508,
+          "text": "Yeah, you know, I think the thing that was so important about making this film"
+        },
+        {
+          "index": 93,
+          "start": 290.532,
+          "end": 295.829,
+          "text": "<i>is that we wanted to stay true to Priscilla's perspective of the story.</i>"
+        },
+        {
+          "index": 94,
+          "start": 296.037,
+          "end": 299.725,
+          "text": "<i>There are lots of big questions that Sofia and I would have about</i>"
+        },
+        {
+          "index": 95,
+          "start": 299.749,
+          "end": 302.502,
+          "text": "<i>why did she make this choice and what was going through her mind.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 20,
+      "intervalle_debut": 300,
+      "intervalle_fin": 315,
+      "timecode_debut_extrait": 300,
+      "timecode_fin_extrait": 315,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0020_time_300.00s-315.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 96,
+          "start": 302.627,
+          "end": 304.23,
+          "text": "<i>It's an interesting side of the story</i>"
+        },
+        {
+          "index": 97,
+          "start": 304.254,
+          "end": 307.131,
+          "text": "that we're telling, a side that we've never seen before."
+        },
+        {
+          "index": 98,
+          "start": 307.256,
+          "end": 310.235,
+          "text": "<i>We're playing these iconic characters,</i>"
+        },
+        {
+          "index": 99,
+          "start": 310.259,
+          "end": 313.071,
+          "text": "<i>but who they are behind closed doors</i>"
+        },
+        {
+          "index": 100,
+          "start": 313.095,
+          "end": 316.491,
+          "text": "and what those sort of intimate moments look like with each other,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 21,
+      "intervalle_debut": 315,
+      "intervalle_fin": 330,
+      "timecode_debut_extrait": 315,
+      "timecode_fin_extrait": 330,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0021_time_315.00s-330.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 101,
+          "start": 316.515,
+          "end": 320.064,
+          "text": "these human moments between these two."
+        },
+        {
+          "index": 102,
+          "start": 322.313,
+          "end": 325.149,
+          "text": "<i>So time limit and schedule for this project was insane.</i>"
+        },
+        {
+          "index": 103,
+          "start": 325.322,
+          "end": 329.129,
+          "text": "I know I felt my head's buried, there's so much, so many different things."
+        },
+        {
+          "index": 104,
+          "start": 329.153,
+          "end": 331.655,
+          "text": "It was so confusing and never shot something so out of order"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 22,
+      "intervalle_debut": 330,
+      "intervalle_fin": 345,
+      "timecode_debut_extrait": 330,
+      "timecode_fin_extrait": 345,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0022_time_330.00s-345.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 105,
+          "start": 331.813,
+          "end": 334.843,
+          "text": "because of her, her looks and like the locations."
+        },
+        {
+          "index": 106,
+          "start": 334.867,
+          "end": 335.983,
+          "text": "<i>Yeah, she was so hard working</i>"
+        },
+        {
+          "index": 107,
+          "start": 336.007,
+          "end": 338.721,
+          "text": "<i>and really wanted to do a good job and put herself fully in it.</i>"
+        },
+        {
+          "index": 108,
+          "start": 338.745,
+          "end": 341.975,
+          "text": "<i>And she's so talented and just worked so hard and was really focused</i>"
+        },
+        {
+          "index": 109,
+          "start": 341.999,
+          "end": 344.644,
+          "text": "<i>on each different developmental stage of Priscilla</i>"
+        },
+        {
+          "index": 110,
+          "start": 344.668,
+          "end": 348.212,
+          "text": "<i>and having to take her from 14 to in her late twenties.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 23,
+      "intervalle_debut": 345,
+      "intervalle_fin": 360,
+      "timecode_debut_extrait": 345,
+      "timecode_fin_extrait": 360,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0023_time_345.00s-360.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 111,
+          "start": 348.584,
+          "end": 351.604,
+          "text": "- Their sides don't match... - Ah yes."
+        },
+        {
+          "index": 112,
+          "start": 352.55,
+          "end": 356.654,
+          "text": "<i>So do you have a sort of favorite era? Favorite look, maybe?</i>"
+        },
+        {
+          "index": 113,
+          "start": 357.347,
+          "end": 359.325,
+          "text": "I think that the seventies"
+        },
+        {
+          "index": 114,
+          "start": 359.349,
+          "end": 362.578,
+          "text": "were so fun to play in because she's wearing jeans,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 24,
+      "intervalle_debut": 360,
+      "intervalle_fin": 375,
+      "timecode_debut_extrait": 360,
+      "timecode_fin_extrait": 375,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0024_time_360.00s-375.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 115,
+          "start": 362.602,
+          "end": 366.397,
+          "text": "<i>she's got this new blowout and a seventies tan.</i>"
+        },
+        {
+          "index": 116,
+          "start": 366.647,
+          "end": 369.877,
+          "text": "It's just fascinating, you know, using hair and makeup"
+        },
+        {
+          "index": 117,
+          "start": 369.901,
+          "end": 372.921,
+          "text": "to transition from being this young girl"
+        },
+        {
+          "index": 118,
+          "start": 372.945,
+          "end": 377.551,
+          "text": "<i>and to then having to sort of present a certain way for Elvis and then,</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 25,
+      "intervalle_debut": 375,
+      "intervalle_fin": 390,
+      "timecode_debut_extrait": 375,
+      "timecode_fin_extrait": 390,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0025_time_375.00s-390.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 119,
+          "start": 377.575,
+          "end": 380.637,
+          "text": "<i>you know, coming into her own and not wearing as much makeup</i>"
+        },
+        {
+          "index": 120,
+          "start": 380.661,
+          "end": 385.35,
+          "text": "and dressing the way that she wanted to dress, how that that was such a big tool"
+        },
+        {
+          "index": 121,
+          "start": 385.374,
+          "end": 389.211,
+          "text": "in her playing a sort of character inside her own life."
+        },
+        {
+          "index": 122,
+          "start": 389.336,
+          "end": 394.131,
+          "text": "It was such a form of expression and said so much about where she was emotionally."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 26,
+      "intervalle_debut": 390,
+      "intervalle_fin": 405,
+      "timecode_debut_extrait": 390,
+      "timecode_fin_extrait": 405,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0026_time_390.00s-405.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 123,
+          "start": 395.271,
+          "end": 396.664,
+          "text": "And action."
+        },
+        {
+          "index": 124,
+          "start": 397.687,
+          "end": 400.573,
+          "text": "INT: MEMPHIS BOUTIQUE 1963 DRESS SHOPPING"
+        },
+        {
+          "index": 125,
+          "start": 400.597,
+          "end": 406.704,
+          "text": "We are now in the Memphis dress boutique where Elvis takes Priscilla shopping"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 27,
+      "intervalle_debut": 405,
+      "intervalle_fin": 420,
+      "timecode_debut_extrait": 405,
+      "timecode_fin_extrait": 420,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0027_time_405.00s-420.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 126,
+          "start": 406.728,
+          "end": 408.845,
+          "text": "for his svengali makeover moment."
+        },
+        {
+          "index": 127,
+          "start": 408.869,
+          "end": 411.605,
+          "text": "And then we'll see her transformation into his ideal woman."
+        },
+        {
+          "index": 128,
+          "start": 411.629,
+          "end": 412.7,
+          "text": "The brown in this one..."
+        },
+        {
+          "index": 129,
+          "start": 412.724,
+          "end": 415.052,
+          "text": "Yeah, you..."
+        },
+        {
+          "index": 130,
+          "start": 416.07,
+          "end": 418.358,
+          "text": "Black hair and more eye makeup."
+        },
+        {
+          "index": 131,
+          "start": 418.721,
+          "end": 420.468,
+          "text": "We got to..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 28,
+      "intervalle_debut": 420,
+      "intervalle_fin": 435,
+      "timecode_debut_extrait": 420,
+      "timecode_fin_extrait": 435,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0028_time_420.00s-435.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 132,
+          "start": 423.003,
+          "end": 424.45,
+          "text": "Alright, let's go."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 29,
+      "intervalle_debut": 435,
+      "intervalle_fin": 450,
+      "timecode_debut_extrait": 435,
+      "timecode_fin_extrait": 450,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0029_time_435.00s-450.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 133,
+          "start": 435.34,
+          "end": 438.237,
+          "text": "INT: ELVIS' GERMANY HOUSE 1959 PRISCILLA AND ELVIS MEET FOR THE FIRST TIME"
+        },
+        {
+          "index": 134,
+          "start": 438.261,
+          "end": 440.508,
+          "text": "<i>Watching the art and costume department work together</i>"
+        },
+        {
+          "index": 135,
+          "start": 440.532,
+          "end": 443.013,
+          "text": "<i>to transport us back in time always blew my mind.</i>"
+        },
+        {
+          "index": 136,
+          "start": 443.193,
+          "end": 445.355,
+          "text": "<i>It's amazing what they were able to do.</i>"
+        },
+        {
+          "index": 137,
+          "start": 445.891,
+          "end": 447.661,
+          "text": "Hello, Germany."
+        },
+        {
+          "index": 138,
+          "start": 447.685,
+          "end": 451.414,
+          "text": "I got very lucky that Priscilla was open"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 30,
+      "intervalle_debut": 450,
+      "intervalle_fin": 465,
+      "timecode_debut_extrait": 450,
+      "timecode_fin_extrait": 465,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0030_time_450.00s-465.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 139,
+          "start": 451.438,
+          "end": 456.211,
+          "text": "to sit down with me and go through this part of her life."
+        },
+        {
+          "index": 140,
+          "start": 456.235,
+          "end": 460.173,
+          "text": "<i>She told me the first night she met him and she went to the party.</i>"
+        },
+        {
+          "index": 141,
+          "start": 460.197,
+          "end": 462.3,
+          "text": "<i>She was really hungry,</i>"
+        },
+        {
+          "index": 142,
+          "start": 462.324,
+          "end": 464.761,
+          "text": "<i>but whenever Elvis offered her</i>"
+        },
+        {
+          "index": 143,
+          "start": 464.785,
+          "end": 468.222,
+          "text": "a sandwich to eat, she said no because she couldn't"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 31,
+      "intervalle_debut": 465,
+      "intervalle_fin": 480,
+      "timecode_debut_extrait": 465,
+      "timecode_fin_extrait": 480,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0031_time_465.00s-480.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 144,
+          "start": 468.246,
+          "end": 471.392,
+          "text": "imagine eating a sandwich in front of Elvis Presley."
+        },
+        {
+          "index": 145,
+          "start": 471.416,
+          "end": 475.604,
+          "text": "So it was details like that that were so special."
+        },
+        {
+          "index": 146,
+          "start": 475.628,
+          "end": 478.399,
+          "text": "They were like gold, you know, in trying to put"
+        },
+        {
+          "index": 147,
+          "start": 478.423,
+          "end": 480.925,
+          "text": "<i>this massive puzzle piece together.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 32,
+      "intervalle_debut": 480,
+      "intervalle_fin": 495,
+      "timecode_debut_extrait": 480,
+      "timecode_fin_extrait": 495,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0032_time_480.00s-495.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 148,
+          "start": 481.036,
+          "end": 484.025,
+          "text": "Not great..."
+        },
+        {
+          "index": 149,
+          "start": 484.049,
+          "end": 485.117,
+          "text": "Baby..."
+        },
+        {
+          "index": 150,
+          "start": 485.141,
+          "end": 489.461,
+          "text": "Yeah, how did you feel about seeing all these moments of your life in a film?"
+        },
+        {
+          "index": 151,
+          "start": 489.485,
+          "end": 492.746,
+          "text": "Oh boy. It's just reliving it."
+        },
+        {
+          "index": 152,
+          "start": 492.77,
+          "end": 496.291,
+          "text": "It's going back and really reliving it and"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 33,
+      "intervalle_debut": 495,
+      "intervalle_fin": 510,
+      "timecode_debut_extrait": 495,
+      "timecode_fin_extrait": 510,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0033_time_495.00s-510.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 153,
+          "start": 496.315,
+          "end": 500.119,
+          "text": "and missing a lot of it, to be honest with you,"
+        },
+        {
+          "index": 154,
+          "start": 500.143,
+          "end": 503.423,
+          "text": "that looking at the good times, the fun times,"
+        },
+        {
+          "index": 155,
+          "start": 503.447,
+          "end": 506.509,
+          "text": "the movie times."
+        },
+        {
+          "index": 156,
+          "start": 506.533,
+          "end": 510.189,
+          "text": "How did you feel like this whole experience shaped you"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 34,
+      "intervalle_debut": 510,
+      "intervalle_fin": 525,
+      "timecode_debut_extrait": 510,
+      "timecode_fin_extrait": 525,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0034_time_510.00s-525.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 157,
+          "start": 510.213,
+          "end": 511.832,
+          "text": "in becoming the woman that you are?"
+        },
+        {
+          "index": 158,
+          "start": 511.856,
+          "end": 513.219,
+          "text": "Mm, wow!"
+        },
+        {
+          "index": 159,
+          "start": 513.573,
+          "end": 516.585,
+          "text": "I didn't know what I was in for."
+        },
+        {
+          "index": 160,
+          "start": 517.522,
+          "end": 519.407,
+          "text": "Because I was very young,"
+        },
+        {
+          "index": 161,
+          "start": 519.713,
+          "end": 524.384,
+          "text": "but I... it was such an amazing learning experience."
+        },
+        {
+          "index": 162,
+          "start": 524.561,
+          "end": 526.602,
+          "text": "It was an amazing life."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 35,
+      "intervalle_debut": 525,
+      "intervalle_fin": 540,
+      "timecode_debut_extrait": 525,
+      "timecode_fin_extrait": 540,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0035_time_525.00s-540.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 163,
+          "start": 526.964,
+          "end": 530.44,
+          "text": "It was amazing meeting great people,"
+        },
+        {
+          "index": 164,
+          "start": 530.75,
+          "end": 533.36,
+          "text": "but none of them equal to Elvis."
+        },
+        {
+          "index": 165,
+          "start": 533.768,
+          "end": 537.206,
+          "text": "I mean, he was my husband, but I knew him as the man."
+        },
+        {
+          "index": 166,
+          "start": 537.23,
+          "end": 538.652,
+          "text": "Did you ever think that your life"
+        },
+        {
+          "index": 167,
+          "start": 538.676,
+          "end": 541.877,
+          "text": "would take that direction when you met him or first got to know him?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 36,
+      "intervalle_debut": 540,
+      "intervalle_fin": 555,
+      "timecode_debut_extrait": 540,
+      "timecode_fin_extrait": 555,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0036_time_540.00s-555.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 168,
+          "start": 541.901,
+          "end": 544.728,
+          "text": "Did you ever think you would be living at Graceland?"
+        },
+        {
+          "index": 169,
+          "start": 544.752,
+          "end": 546.665,
+          "text": "No! No, my gosh, no."
+        },
+        {
+          "index": 170,
+          "start": 546.948,
+          "end": 550.469,
+          "text": "No. I knew nothing about Graceland. I didn't know..."
+        },
+        {
+          "index": 171,
+          "start": 550.493,
+          "end": 552.721,
+          "text": "I didn't know anything about him."
+        },
+        {
+          "index": 172,
+          "start": 552.745,
+          "end": 556.415,
+          "text": "Just that I liked his songs, as every teenager did back in the day."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 37,
+      "intervalle_debut": 555,
+      "intervalle_fin": 570,
+      "timecode_debut_extrait": 555,
+      "timecode_fin_extrait": 570,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0037_time_555.00s-570.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 173,
+          "start": 556.64,
+          "end": 560.727,
+          "text": "And of course, I, you know, when my when he was supposed to be on Ed Sullivan,"
+        },
+        {
+          "index": 174,
+          "start": 561.086,
+          "end": 563.064,
+          "text": "I was told not to watch it."
+        },
+        {
+          "index": 175,
+          "start": 563.088,
+          "end": 566.697,
+          "text": "So, you know, but my parents, because of all that came out of"
+        },
+        {
+          "index": 176,
+          "start": 566.721,
+          "end": 569.404,
+          "text": "about how Elvis was affecting teenagers."
+        },
+        {
+          "index": 177,
+          "start": 569.428,
+          "end": 571.93,
+          "text": "And so when he came on the show"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 38,
+      "intervalle_debut": 570,
+      "intervalle_fin": 585,
+      "timecode_debut_extrait": 570,
+      "timecode_fin_extrait": 585,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0038_time_570.00s-585.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 178,
+          "start": 572.141,
+          "end": 574.806,
+          "text": "on the TV, my parents asked me to leave the room."
+        },
+        {
+          "index": 179,
+          "start": 574.83,
+          "end": 576.274,
+          "text": "- It was scandalous. - Yeah."
+        },
+        {
+          "index": 180,
+          "start": 576.501,
+          "end": 580.133,
+          "text": "And I did see it because there was a crack, you know, in the door."
+        },
+        {
+          "index": 181,
+          "start": 580.157,
+          "end": 581.374,
+          "text": "And I watched it from there."
+        },
+        {
+          "index": 182,
+          "start": 581.398,
+          "end": 584.127,
+          "text": "I'm thinking, \"Oh my God, this is different.\""
+        },
+        {
+          "index": 183,
+          "start": 584.151,
+          "end": 588.071,
+          "text": "You know, this guy is really, I mean, really good."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 39,
+      "intervalle_debut": 585,
+      "intervalle_fin": 600,
+      "timecode_debut_extrait": 585,
+      "timecode_fin_extrait": 600,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0039_time_585.00s-600.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 184,
+          "start": 588.262,
+          "end": 591.262,
+          "text": "But never in my life did I ever think that I would meet him."
+        },
+        {
+          "index": 185,
+          "start": 598.982,
+          "end": 600.018,
+          "text": "Here!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 40,
+      "intervalle_debut": 600,
+      "intervalle_fin": 615,
+      "timecode_debut_extrait": 600,
+      "timecode_fin_extrait": 615,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0040_time_600.00s-615.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 186,
+          "start": 600.042,
+          "end": 601.685,
+          "text": "I mean, to me, the biggest challenge was like"
+        },
+        {
+          "index": 187,
+          "start": 601.709,
+          "end": 603.955,
+          "text": "how am I going to find someone that could pull off Elvis?"
+        },
+        {
+          "index": 188,
+          "start": 603.979,
+          "end": 606.815,
+          "text": "<i>And a friend of mine told me, check out Jacob.</i>"
+        },
+        {
+          "index": 189,
+          "start": 606.839,
+          "end": 611.195,
+          "text": "<i>And when I met him, he's just, he has a sweetness, but he's so charismatic.</i>"
+        },
+        {
+          "index": 190,
+          "start": 611.219,
+          "end": 613.822,
+          "text": "<i>He was able to just transform</i>"
+        },
+        {
+          "index": 191,
+          "start": 613.846,
+          "end": 616.826,
+          "text": "<i>in his mannerisms and body language and poise.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 41,
+      "intervalle_debut": 615,
+      "intervalle_fin": 630,
+      "timecode_debut_extrait": 615,
+      "timecode_fin_extrait": 630,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0041_time_615.00s-630.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 192,
+          "start": 616.85,
+          "end": 618.57,
+          "text": "<i>And I just wanted him to give the impression</i>"
+        },
+        {
+          "index": 193,
+          "start": 618.594,
+          "end": 620.328,
+          "text": "<i>of Elvis so that, you could buy,</i>"
+        },
+        {
+          "index": 194,
+          "start": 620.352,
+          "end": 622.372,
+          "text": "you buy it enough to go along with,"
+        },
+        {
+          "index": 195,
+          "start": 622.396,
+          "end": 625.721,
+          "text": "you know, our imaginary version like that."
+        },
+        {
+          "index": 196,
+          "start": 626.15,
+          "end": 627.585,
+          "text": "<i>I just got so lucky</i>"
+        },
+        {
+          "index": 197,
+          "start": 627.609,
+          "end": 630.755,
+          "text": "that he put that work into it the way that he did."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 42,
+      "intervalle_debut": 630,
+      "intervalle_fin": 645,
+      "timecode_debut_extrait": 630,
+      "timecode_fin_extrait": 645,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0042_time_630.00s-645.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 198,
+          "start": 630.779,
+          "end": 633.323,
+          "text": "And I got to lean on such an incredible actor."
+        },
+        {
+          "index": 199,
+          "start": 633.532,
+          "end": 636.01,
+          "text": "<i>I mean, he had this massive task to take on</i>"
+        },
+        {
+          "index": 200,
+          "start": 636.034,
+          "end": 639.055,
+          "text": "<i>to play this character, but I just thought he did it beautifully.</i>"
+        },
+        {
+          "index": 201,
+          "start": 639.079,
+          "end": 641.224,
+          "text": "<i>And you're so supportive of me.</i>"
+        },
+        {
+          "index": 202,
+          "start": 641.248,
+          "end": 643.851,
+          "text": "<i>And then obviously Sofia just had all the trust</i>"
+        },
+        {
+          "index": 203,
+          "start": 643.875,
+          "end": 647.022,
+          "text": "<i>in the world in us when even when we didn't.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 43,
+      "intervalle_debut": 645,
+      "intervalle_fin": 660,
+      "timecode_debut_extrait": 645,
+      "timecode_fin_extrait": 660,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0043_time_645.00s-660.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 204,
+          "start": 648.138,
+          "end": 649.521,
+          "text": "A good group of people."
+        },
+        {
+          "index": 205,
+          "start": 649.545,
+          "end": 652.612,
+          "text": "If you go out that door and yell down to Joe, shoot down,"
+        },
+        {
+          "index": 206,
+          "start": 652.636,
+          "end": 654.329,
+          "text": "INT: GRACELAND BEDROOM 1968 PRISCILLA GOES INTO LABOR"
+        },
+        {
+          "index": 207,
+          "start": 654.353,
+          "end": 656.501,
+          "text": "the woman is sort of, calm and..."
+        },
+        {
+          "index": 208,
+          "start": 656.746,
+          "end": 658.772,
+          "text": "Yeah, yeah, yeah, because..."
+        },
+        {
+          "index": 209,
+          "start": 659.39,
+          "end": 661.327,
+          "text": "<i>I thought that Jacob did such a wonderful job</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 44,
+      "intervalle_debut": 660,
+      "intervalle_fin": 675,
+      "timecode_debut_extrait": 660,
+      "timecode_fin_extrait": 675,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0044_time_660.00s-675.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 210,
+          "start": 661.351,
+          "end": 665.396,
+          "text": "<i>because we never get to see Elvis quite like this, you know?</i>"
+        },
+        {
+          "index": 211,
+          "start": 665.624,
+          "end": 667.974,
+          "text": "What was he like as a partner?"
+        },
+        {
+          "index": 212,
+          "start": 667.998,
+          "end": 672.533,
+          "text": "Who was he to his friends? His tender moments, his anger."
+        },
+        {
+          "index": 213,
+          "start": 672.557,
+          "end": 675.048,
+          "text": "<i>So I felt that he did such a beautiful job.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 45,
+      "intervalle_debut": 675,
+      "intervalle_fin": 690,
+      "timecode_debut_extrait": 675,
+      "timecode_fin_extrait": 690,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0045_time_675.00s-690.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 214,
+          "start": 675.072,
+          "end": 678.242,
+          "text": "<i>And, you know, I'm the whole time, I'm reacting a lot.</i>"
+        },
+        {
+          "index": 215,
+          "start": 678.266,
+          "end": 681.26,
+          "text": "Jerry, Joe! Fellas..."
+        },
+        {
+          "index": 216,
+          "start": 682.622,
+          "end": 684.233,
+          "text": "Get the car..."
+        },
+        {
+          "index": 217,
+          "start": 684.257,
+          "end": 685.695,
+          "text": "I closed the door..."
+        },
+        {
+          "index": 218,
+          "start": 685.719,
+          "end": 687.282,
+          "text": "It's okay, it's what you were doing."
+        },
+        {
+          "index": 219,
+          "start": 688.442,
+          "end": 690.856,
+          "text": "You know, open the door."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 46,
+      "intervalle_debut": 690,
+      "intervalle_fin": 705,
+      "timecode_debut_extrait": 690,
+      "timecode_fin_extrait": 705,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0046_time_690.00s-705.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 220,
+          "start": 691.158,
+          "end": 693.193,
+          "text": "Leave the door..."
+        },
+        {
+          "index": 221,
+          "start": 693.375,
+          "end": 694.839,
+          "text": "You want to call the Colonel?"
+        },
+        {
+          "index": 222,
+          "start": 694.863,
+          "end": 697.026,
+          "text": "I ain't calling the Goddamn Colonel."
+        },
+        {
+          "index": 223,
+          "start": 697.858,
+          "end": 699.211,
+          "text": "You want a couple of plates?"
+        },
+        {
+          "index": 224,
+          "start": 699.314,
+          "end": 700.865,
+          "text": "You want some eggs?"
+        },
+        {
+          "index": 225,
+          "start": 700.889,
+          "end": 703.516,
+          "text": "Alberta! Lets get some eggs."
+        },
+        {
+          "index": 226,
+          "start": 703.951,
+          "end": 707.106,
+          "text": "Alberta put some bacon on there too."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 47,
+      "intervalle_debut": 705,
+      "intervalle_fin": 720,
+      "timecode_debut_extrait": 705,
+      "timecode_fin_extrait": 720,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0047_time_705.00s-720.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 227,
+          "start": 707.13,
+          "end": 708.67,
+          "text": "- Cut! - Cut there."
+        },
+        {
+          "index": 228,
+          "start": 709.731,
+          "end": 714.624,
+          "text": "His Memphis Mafia was played by some Toronto comedians and actors,"
+        },
+        {
+          "index": 229,
+          "start": 714.648,
+          "end": 716.463,
+          "text": "<i>and they were incredible.</i>"
+        },
+        {
+          "index": 230,
+          "start": 716.487,
+          "end": 719.115,
+          "text": "<i>And they really filled that space that was so essential.</i>"
+        },
+        {
+          "index": 231,
+          "start": 719.427,
+          "end": 721.01,
+          "text": "There wasn't much acting I had to do."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 48,
+      "intervalle_debut": 720,
+      "intervalle_fin": 735,
+      "timecode_debut_extrait": 720,
+      "timecode_fin_extrait": 735,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0048_time_720.00s-735.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 232,
+          "start": 721.034,
+          "end": 723.095,
+          "text": "I just had to listen to them"
+        },
+        {
+          "index": 233,
+          "start": 723.119,
+          "end": 726.353,
+          "text": "just be boys, you know, they're real boys."
+        },
+        {
+          "index": 234,
+          "start": 726.886,
+          "end": 728.796,
+          "text": "Should I bring this vase?"
+        },
+        {
+          "index": 235,
+          "start": 729.625,
+          "end": 731.625,
+          "text": "You want this vase, V?"
+        },
+        {
+          "index": 236,
+          "start": 734.004,
+          "end": 737.244,
+          "text": "INT: VEGAS 1972 ELVIS PERFORMS"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 49,
+      "intervalle_debut": 735,
+      "intervalle_fin": 750,
+      "timecode_debut_extrait": 735,
+      "timecode_fin_extrait": 750,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0049_time_735.00s-750.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 237,
+          "start": 738.05,
+          "end": 739.668,
+          "text": "- Hello you. - Hello!"
+        },
+        {
+          "index": 238,
+          "start": 739.692,
+          "end": 741.161,
+          "text": "- How's it goin'? - It's goin' good."
+        },
+        {
+          "index": 239,
+          "start": 741.185,
+          "end": 742.502,
+          "text": "- Cool shoes. - Thanks."
+        },
+        {
+          "index": 240,
+          "start": 743.939,
+          "end": 745.849,
+          "text": "Cool shoes yourself!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 50,
+      "intervalle_debut": 750,
+      "intervalle_fin": 765,
+      "timecode_debut_extrait": 750,
+      "timecode_fin_extrait": 765,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0050_time_750.00s-765.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 241,
+          "start": 750.8,
+          "end": 752.499,
+          "text": "Lets get the music cut off, please."
+        },
+        {
+          "index": 242,
+          "start": 752.523,
+          "end": 753.962,
+          "text": "We're good to go."
+        },
+        {
+          "index": 243,
+          "start": 756.777,
+          "end": 758.777,
+          "text": "And action!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 51,
+      "intervalle_debut": 765,
+      "intervalle_fin": 780,
+      "timecode_debut_extrait": 765,
+      "timecode_fin_extrait": 780,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0051_time_765.00s-780.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 244,
+          "start": 768.371,
+          "end": 770.54,
+          "text": "The man must have been sweating so much."
+        },
+        {
+          "index": 245,
+          "start": 772.208,
+          "end": 773.528,
+          "text": "do the karate?"
+        },
+        {
+          "index": 246,
+          "start": 773.552,
+          "end": 775.047,
+          "text": "Oh yeah, can we do a little karate?"
+        },
+        {
+          "index": 247,
+          "start": 775.071,
+          "end": 776.867,
+          "text": "Okay..."
+        },
+        {
+          "index": 248,
+          "start": 777.324,
+          "end": 779.191,
+          "text": "That's what I've been waiting for."
+        },
+        {
+          "index": 249,
+          "start": 779.215,
+          "end": 781.215,
+          "text": "Action!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 52,
+      "intervalle_debut": 780,
+      "intervalle_fin": 795,
+      "timecode_debut_extrait": 780,
+      "timecode_fin_extrait": 795,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0052_time_780.00s-795.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 250,
+          "start": 792.311,
+          "end": 795.519,
+          "text": "All right, cut that. Thank you, everybody. Wrap it up officially."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 53,
+      "intervalle_debut": 795,
+      "intervalle_fin": 810,
+      "timecode_debut_extrait": 795,
+      "timecode_fin_extrait": 810,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0053_time_795.00s-810.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 251,
+          "start": 795.543,
+          "end": 798.645,
+          "text": "Well done today, please, everybody. Thank you."
+        },
+        {
+          "index": 252,
+          "start": 798.669,
+          "end": 801.004,
+          "text": "I think I just pulled an ab."
+        },
+        {
+          "index": 253,
+          "start": 801.028,
+          "end": 802.579,
+          "text": "I'm not getting..."
+        },
+        {
+          "index": 254,
+          "start": 803.248,
+          "end": 806.302,
+          "text": "EXT: GRACELAND GATES - 1963 PRISCILLA AT THEE GRACELAND GATES"
+        },
+        {
+          "index": 255,
+          "start": 807.359,
+          "end": 808.429,
+          "text": "I'm worried about rain."
+        },
+        {
+          "index": 256,
+          "start": 808.453,
+          "end": 812.534,
+          "text": "We had our cover sets, though, which coming from Los Angeles, I'm always like"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 54,
+      "intervalle_debut": 810,
+      "intervalle_fin": 825,
+      "timecode_debut_extrait": 810,
+      "timecode_fin_extrait": 825,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0054_time_810.00s-825.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 257,
+          "start": 812.558,
+          "end": 814.591,
+          "text": "\"Cover sets, why would you ever do that?\""
+        },
+        {
+          "index": 258,
+          "start": 814.791,
+          "end": 815.977,
+          "text": "And I learned very quickly."
+        },
+        {
+          "index": 259,
+          "start": 816.001,
+          "end": 818.07,
+          "text": "It was like, yeah, it's real."
+        },
+        {
+          "index": 260,
+          "start": 818.094,
+          "end": 820.419,
+          "text": "Thank God we had them, and it worked out really well."
+        },
+        {
+          "index": 261,
+          "start": 820.443,
+          "end": 821.843,
+          "text": "And now we have..."
+        },
+        {
+          "index": 262,
+          "start": 823.448,
+          "end": 825.119,
+          "text": "Very exciting!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 55,
+      "intervalle_debut": 825,
+      "intervalle_fin": 840,
+      "timecode_debut_extrait": 825,
+      "timecode_fin_extrait": 840,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0055_time_825.00s-840.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 263,
+          "start": 825.709,
+          "end": 828.471,
+          "text": "It's always a good day when you get a dog or a baby."
+        },
+        {
+          "index": 264,
+          "start": 832.809,
+          "end": 834.295,
+          "text": "- Cut! - Cut that, thank you."
+        },
+        {
+          "index": 265,
+          "start": 834.319,
+          "end": 835.858,
+          "text": "Great, that was good. We got it."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 56,
+      "intervalle_debut": 840,
+      "intervalle_fin": 855,
+      "timecode_debut_extrait": 840,
+      "timecode_fin_extrait": 855,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0056_time_840.00s-855.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 266,
+          "start": 843.659,
+          "end": 846.62,
+          "text": "- Just doin' my job. - Ha ha, sorry."
+        },
+        {
+          "index": 267,
+          "start": 846.857,
+          "end": 848.558,
+          "text": "Cailee, if I say..."
+        },
+        {
+          "index": 268,
+          "start": 848.67,
+          "end": 851.47,
+          "text": "Cailee? If I say for you car"
+        },
+        {
+          "index": 269,
+          "start": 851.494,
+          "end": 854.179,
+          "text": "and then I would go like this, does that help you?"
+        },
+        {
+          "index": 270,
+          "start": 854.379,
+          "end": 855.986,
+          "text": "Or does that make you laugh?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 57,
+      "intervalle_debut": 855,
+      "intervalle_fin": 870,
+      "timecode_debut_extrait": 855,
+      "timecode_fin_extrait": 870,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0057_time_855.00s-870.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 271,
+          "start": 857.385,
+          "end": 859.339,
+          "text": "There's a car and you follow it to her?"
+        },
+        {
+          "index": 272,
+          "start": 860.827,
+          "end": 862.495,
+          "text": "All right, we'll do that. Perfect."
+        },
+        {
+          "index": 273,
+          "start": 862.971,
+          "end": 865.933,
+          "text": "like a cheap Christmas card to get the you guys in front of the gates?"
+        },
+        {
+          "index": 274,
+          "start": 865.957,
+          "end": 867.402,
+          "text": "Christmas card!"
+        },
+        {
+          "index": 275,
+          "start": 867.426,
+          "end": 869.362,
+          "text": "- And take your picture? - It's the best..."
+        },
+        {
+          "index": 276,
+          "start": 869.386,
+          "end": 871.406,
+          "text": "It'd be so fun to have."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 58,
+      "intervalle_debut": 870,
+      "intervalle_fin": 885,
+      "timecode_debut_extrait": 870,
+      "timecode_fin_extrait": 885,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0058_time_870.00s-885.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 277,
+          "start": 871.43,
+          "end": 872.674,
+          "text": "That's like, not festive."
+        },
+        {
+          "index": 278,
+          "start": 872.698,
+          "end": 874.349,
+          "text": "Just take one for me to have."
+        },
+        {
+          "index": 279,
+          "start": 875.951,
+          "end": 877.186,
+          "text": "I want a picture of you guys."
+        },
+        {
+          "index": 280,
+          "start": 877.21,
+          "end": 880.878,
+          "text": "EXT: GRACELAND SHOOTING RANGE 1963"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 59,
+      "intervalle_debut": 885,
+      "intervalle_fin": 900,
+      "timecode_debut_extrait": 885,
+      "timecode_fin_extrait": 900,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0059_time_885.00s-900.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 281,
+          "start": 889.447,
+          "end": 890.843,
+          "text": "Here we go. Ready?"
+        },
+        {
+          "index": 282,
+          "start": 890.867,
+          "end": 891.912,
+          "text": "And, action!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 60,
+      "intervalle_debut": 900,
+      "intervalle_fin": 915,
+      "timecode_debut_extrait": 900,
+      "timecode_fin_extrait": 915,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0060_time_900.00s-915.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 283,
+          "start": 901.899,
+          "end": 905.785,
+          "text": "EXT: GRACELAND GROUNDS 1963 SHACK DEMOLITION"
+        },
+        {
+          "index": 284,
+          "start": 906.271,
+          "end": 907.615,
+          "text": "Do you want to go to craft services?"
+        },
+        {
+          "index": 285,
+          "start": 907.639,
+          "end": 909.584,
+          "text": "- I do want to go to craft services. - Okay."
+        },
+        {
+          "index": 286,
+          "start": 910.471,
+          "end": 911.644,
+          "text": "Oh my God..."
+        },
+        {
+          "index": 287,
+          "start": 913.225,
+          "end": 914.398,
+          "text": "Oh my God!"
+        },
+        {
+          "index": 288,
+          "start": 914.664,
+          "end": 919.087,
+          "text": "Should we take a picture of you and Jacob in the middle, for my film camera?"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 61,
+      "intervalle_debut": 915,
+      "intervalle_fin": 930,
+      "timecode_debut_extrait": 915,
+      "timecode_fin_extrait": 930,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0061_time_915.00s-930.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 289,
+          "start": 919.19,
+          "end": 922.162,
+          "text": "Can you take a picture of me and Jacob, on your iPhone?"
+        },
+        {
+          "index": 290,
+          "start": 922.554,
+          "end": 924.147,
+          "text": "No..."
+        },
+        {
+          "index": 291,
+          "start": 924.69,
+          "end": 927.342,
+          "text": "Mother of Teens / Director."
+        },
+        {
+          "index": 292,
+          "start": 927.366,
+          "end": 928.543,
+          "text": "Stop being mean."
+        },
+        {
+          "index": 293,
+          "start": 929.069,
+          "end": 932.396,
+          "text": "I don't care that she is the director of this film."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 62,
+      "intervalle_debut": 930,
+      "intervalle_fin": 945,
+      "timecode_debut_extrait": 930,
+      "timecode_fin_extrait": 945,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0062_time_930.00s-945.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 294,
+          "start": 932.42,
+          "end": 933.88,
+          "text": "The film is about to be over."
+        },
+        {
+          "index": 295,
+          "start": 934.004,
+          "end": 936.343,
+          "text": "Sorry, I'll get a picture of you..."
+        },
+        {
+          "index": 296,
+          "start": 939.682,
+          "end": 942.121,
+          "text": "Let's start it up please!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 63,
+      "intervalle_debut": 945,
+      "intervalle_fin": 960,
+      "timecode_debut_extrait": 945,
+      "timecode_fin_extrait": 960,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0063_time_945.00s-960.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 297,
+          "start": 948.505,
+          "end": 949.831,
+          "text": "On the move!"
+        },
+        {
+          "index": 298,
+          "start": 951.97,
+          "end": 953.944,
+          "text": "EXT: GRACELAND GROUNDS 1963 PARTY NIGHT!"
+        },
+        {
+          "index": 299,
+          "start": 953.968,
+          "end": 956.157,
+          "text": "There's a part of the film where Priscilla's"
+        },
+        {
+          "index": 300,
+          "start": 956.337,
+          "end": 958.324,
+          "text": "going to high school at a Catholic high school"
+        },
+        {
+          "index": 301,
+          "start": 958.348,
+          "end": 962.025,
+          "text": "and then at night, she has to stay up all night, she's partying with Elvis."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 64,
+      "intervalle_debut": 960,
+      "intervalle_fin": 975,
+      "timecode_debut_extrait": 960,
+      "timecode_fin_extrait": 975,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0064_time_960.00s-975.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 302,
+          "start": 962.049,
+          "end": 963.869,
+          "text": "And going out with him and all his friends. And they"
+        },
+        {
+          "index": 303,
+          "start": 963.893,
+          "end": 966.471,
+          "text": "had fireworks, Roman candle wars in the back yard."
+        },
+        {
+          "index": 304,
+          "start": 966.814,
+          "end": 969.15,
+          "text": "- Everybody else... - Around here please, for the light."
+        },
+        {
+          "index": 305,
+          "start": 969.927,
+          "end": 971.802,
+          "text": "So, guys, we're at that point if there are"
+        },
+        {
+          "index": 306,
+          "start": 971.826,
+          "end": 973.505,
+          "text": "no more questions we're going to clear back."
+        },
+        {
+          "index": 307,
+          "start": 973.529,
+          "end": 976.073,
+          "text": "We're going to look at..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 65,
+      "intervalle_debut": 975,
+      "intervalle_fin": 990,
+      "timecode_debut_extrait": 975,
+      "timecode_fin_extrait": 990,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0065_time_975.00s-990.00s.mp4",
+      "nombre_sous_titres": 8,
+      "sous_titres": [
+        {
+          "index": 308,
+          "start": 976.282,
+          "end": 977.759,
+          "text": "Yeah, I love working with Phillippe,"
+        },
+        {
+          "index": 309,
+          "start": 977.783,
+          "end": 978.919,
+          "text": "this is our third movie."
+        },
+        {
+          "index": 310,
+          "start": 978.943,
+          "end": 980.845,
+          "text": "We've done a few commercials and stuff."
+        },
+        {
+          "index": 311,
+          "start": 980.869,
+          "end": 982.32,
+          "text": "- Who's that? - Phillippe."
+        },
+        {
+          "index": 312,
+          "start": 982.482,
+          "end": 983.851,
+          "text": "Yeah, he's great."
+        },
+        {
+          "index": 313,
+          "start": 983.875,
+          "end": 986.101,
+          "text": "We talk about the story before we're filming"
+        },
+        {
+          "index": 314,
+          "start": 986.125,
+          "end": 989.646,
+          "text": "so he's always looking out for what we already talked about"
+        },
+        {
+          "index": 315,
+          "start": 989.67,
+          "end": 991.047,
+          "text": "the emotional part of it."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 66,
+      "intervalle_debut": 990,
+      "intervalle_fin": 1005,
+      "timecode_debut_extrait": 990,
+      "timecode_fin_extrait": 1005,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0066_time_990.00s-1005.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 316,
+          "start": 991.071,
+          "end": 993.784,
+          "text": "Okay, here's a rehearsal."
+        },
+        {
+          "index": 317,
+          "start": 994.337,
+          "end": 995.826,
+          "text": "So we're doing the Roman candle fight."
+        },
+        {
+          "index": 318,
+          "start": 995.85,
+          "end": 997.163,
+          "text": "Now we're goofing around"
+        },
+        {
+          "index": 319,
+          "start": 997.187,
+          "end": 1000.19,
+          "text": "All their clothes are fire-proof. They're really shooting the real ones."
+        },
+        {
+          "index": 320,
+          "start": 1000.214,
+          "end": 1001.335,
+          "text": "- Oh wow. - Yeah, yeah, yeah."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 67,
+      "intervalle_debut": 1005,
+      "intervalle_fin": 1020,
+      "timecode_debut_extrait": 1005,
+      "timecode_fin_extrait": 1020,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0067_time_1005.00s-1020.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 321,
+          "start": 1010.711,
+          "end": 1013.189,
+          "text": "- Maybe cut. - And cut it."
+        },
+        {
+          "index": 322,
+          "start": 1013.213,
+          "end": 1014.89,
+          "text": "- Looked great. - That's great."
+        },
+        {
+          "index": 323,
+          "start": 1015.384,
+          "end": 1016.88,
+          "text": "It was so scary."
+        },
+        {
+          "index": 324,
+          "start": 1016.904,
+          "end": 1019.365,
+          "text": "I actually, I didn't..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 68,
+      "intervalle_debut": 1020,
+      "intervalle_fin": 1035,
+      "timecode_debut_extrait": 1020,
+      "timecode_fin_extrait": 1035,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0068_time_1020.00s-1035.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 325,
+          "start": 1023.688,
+          "end": 1026.975,
+          "text": "EXT: EAGLES CLUB GERMANY 1959 MEETING PRISCILLA"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 69,
+      "intervalle_debut": 1035,
+      "intervalle_fin": 1050,
+      "timecode_debut_extrait": 1035,
+      "timecode_fin_extrait": 1050,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0069_time_1035.00s-1050.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 326,
+          "start": 1039.241,
+          "end": 1042.238,
+          "text": "Where in the Eagles Club were meeting Priscilla for the first time."
+        },
+        {
+          "index": 327,
+          "start": 1042.262,
+          "end": 1044.413,
+          "text": "We have a big intro shot."
+        },
+        {
+          "index": 328,
+          "start": 1044.901,
+          "end": 1047.619,
+          "text": "We're going to be halfway through at the end of this week."
+        },
+        {
+          "index": 329,
+          "start": 1047.643,
+          "end": 1049.47,
+          "text": "- Seriously, wow. - It's gone by so fast."
+        },
+        {
+          "index": 330,
+          "start": 1049.494,
+          "end": 1050.663,
+          "text": "It's crazy."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 70,
+      "intervalle_debut": 1050,
+      "intervalle_fin": 1065,
+      "timecode_debut_extrait": 1050,
+      "timecode_fin_extrait": 1065,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0070_time_1050.00s-1065.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 331,
+          "start": 1050.687,
+          "end": 1053.207,
+          "text": "We've got so much more to do!"
+        },
+        {
+          "index": 332,
+          "start": 1053.231,
+          "end": 1055.543,
+          "text": "Okay guys picture's up. Thank you."
+        },
+        {
+          "index": 333,
+          "start": 1055.567,
+          "end": 1058.129,
+          "text": "And background, action."
+        },
+        {
+          "index": 334,
+          "start": 1058.153,
+          "end": 1060.947,
+          "text": "I like that her parents told her not to talk to strangers."
+        },
+        {
+          "index": 335,
+          "start": 1061.063,
+          "end": 1063.759,
+          "text": "So yeah, there's a lot of and I like her..."
+        },
+        {
+          "index": 336,
+          "start": 1063.783,
+          "end": 1066.996,
+          "text": "I like, like how she's nonchalant"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 71,
+      "intervalle_debut": 1065,
+      "intervalle_fin": 1080,
+      "timecode_debut_extrait": 1065,
+      "timecode_fin_extrait": 1080,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0071_time_1065.00s-1080.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 337,
+          "start": 1067.02,
+          "end": 1070.081,
+          "text": "to cover up she's excited about meeting Elvis."
+        },
+        {
+          "index": 338,
+          "start": 1070.105,
+          "end": 1071.267,
+          "text": "It's no biggie."
+        },
+        {
+          "index": 339,
+          "start": 1071.291,
+          "end": 1072.414,
+          "text": "Yeah, cut."
+        },
+        {
+          "index": 340,
+          "start": 1072.438,
+          "end": 1074.109,
+          "text": "Cut there, thank you."
+        },
+        {
+          "index": 341,
+          "start": 1074.133,
+          "end": 1076.299,
+          "text": "Reading her book, what..."
+        },
+        {
+          "index": 342,
+          "start": 1076.323,
+          "end": 1080.245,
+          "text": "what struck me or what I noted is it was very touching because"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 72,
+      "intervalle_debut": 1080,
+      "intervalle_fin": 1095,
+      "timecode_debut_extrait": 1080,
+      "timecode_fin_extrait": 1095,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0072_time_1080.00s-1095.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 343,
+          "start": 1080.269,
+          "end": 1081.902,
+          "text": "I feel she goes through"
+        },
+        {
+          "index": 344,
+          "start": 1081.926,
+          "end": 1085.906,
+          "text": "<i>all the stages that everyone goes through from going from a girl</i>"
+        },
+        {
+          "index": 345,
+          "start": 1085.93,
+          "end": 1089.126,
+          "text": "<i>to a woman and adulthood and that, and that...</i>"
+        },
+        {
+          "index": 346,
+          "start": 1089.15,
+          "end": 1091.411,
+          "text": "<i>So there's something very universal about all those stages.</i>"
+        },
+        {
+          "index": 347,
+          "start": 1091.435,
+          "end": 1093.83,
+          "text": "<i>But that she went through that in such an extreme,</i>"
+        },
+        {
+          "index": 348,
+          "start": 1093.854,
+          "end": 1096.493,
+          "text": "<i>you know, kind of crazy, over-the-top world.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 73,
+      "intervalle_debut": 1095,
+      "intervalle_fin": 1110,
+      "timecode_debut_extrait": 1095,
+      "timecode_fin_extrait": 1110,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0073_time_1095.00s-1110.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 349,
+          "start": 1096.69,
+          "end": 1099.22,
+          "text": "<i>But they're all, it's all really, you know, relatable.</i>"
+        },
+        {
+          "index": 350,
+          "start": 1099.513,
+          "end": 1101.629,
+          "text": "- Cut! Okay, good. - Cut there, thank you."
+        },
+        {
+          "index": 351,
+          "start": 1101.653,
+          "end": 1103.197,
+          "text": "All right."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 74,
+      "intervalle_debut": 1110,
+      "intervalle_fin": 1125,
+      "timecode_debut_extrait": 1110,
+      "timecode_fin_extrait": 1125,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0074_time_1110.00s-1125.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 352,
+          "start": 1112.331,
+          "end": 1113.766,
+          "text": "Wow!"
+        },
+        {
+          "index": 353,
+          "start": 1113.79,
+          "end": 1115.64,
+          "text": "And, action!"
+        },
+        {
+          "index": 354,
+          "start": 1122.841,
+          "end": 1124.166,
+          "text": "Yeah, it was really good,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 75,
+      "intervalle_debut": 1125,
+      "intervalle_fin": 1140,
+      "timecode_debut_extrait": 1125,
+      "timecode_fin_extrait": 1140,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0075_time_1125.00s-1140.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 355,
+          "start": 1125.586,
+          "end": 1128.864,
+          "text": "But you look so much like her, but it's your expression too."
+        },
+        {
+          "index": 356,
+          "start": 1128.888,
+          "end": 1130.492,
+          "text": "- Really? - Yeah, it's so cool."
+        },
+        {
+          "index": 357,
+          "start": 1130.516,
+          "end": 1131.784,
+          "text": "Cool."
+        },
+        {
+          "index": 358,
+          "start": 1131.808,
+          "end": 1135.207,
+          "text": "- Do you... - What happens now?"
+        },
+        {
+          "index": 359,
+          "start": 1137.216,
+          "end": 1138.968,
+          "text": "EXT: HOSPITAL 1968 LISA MARIE IS BORN"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 76,
+      "intervalle_debut": 1140,
+      "intervalle_fin": 1155,
+      "timecode_debut_extrait": 1140,
+      "timecode_fin_extrait": 1155,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0076_time_1140.00s-1155.00s.mp4",
+      "nombre_sous_titres": 7,
+      "sous_titres": [
+        {
+          "index": 360,
+          "start": 1143.268,
+          "end": 1144.713,
+          "text": "Could you catch me up"
+        },
+        {
+          "index": 361,
+          "start": 1144.737,
+          "end": 1146.84,
+          "text": "a little bit on what we're doing?"
+        },
+        {
+          "index": 362,
+          "start": 1146.864,
+          "end": 1148.317,
+          "text": "Do you want me to turn the music off?"
+        },
+        {
+          "index": 363,
+          "start": 1148.341,
+          "end": 1149.946,
+          "text": "It's going to be a nightmare if you're editing."
+        },
+        {
+          "index": 364,
+          "start": 1149.97,
+          "end": 1152.681,
+          "text": "Hey... let me ask."
+        },
+        {
+          "index": 365,
+          "start": 1152.705,
+          "end": 1154.51,
+          "text": "I don't know how I'm going to go back to real life"
+        },
+        {
+          "index": 366,
+          "start": 1154.534,
+          "end": 1157.35,
+          "text": "'cause now I just love having an AD"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 77,
+      "intervalle_debut": 1155,
+      "intervalle_fin": 1170,
+      "timecode_debut_extrait": 1155,
+      "timecode_fin_extrait": 1170,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0077_time_1155.00s-1170.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 367,
+          "start": 1157.374,
+          "end": 1158.81,
+          "text": "everything happens."
+        },
+        {
+          "index": 368,
+          "start": 1158.834,
+          "end": 1161.271,
+          "text": "Tomorrow is our halfway mark, so that's exciting."
+        },
+        {
+          "index": 369,
+          "start": 1161.295,
+          "end": 1163.096,
+          "text": "And today we're shooting"
+        },
+        {
+          "index": 370,
+          "start": 1163.12,
+          "end": 1167.634,
+          "text": "Elvis and Priscilla leaving the hospital with newborn Lisa Marie."
+        },
+        {
+          "index": 371,
+          "start": 1167.79,
+          "end": 1169.832,
+          "text": "I always think it's funny, when you look at background"
+        },
+        {
+          "index": 372,
+          "start": 1169.856,
+          "end": 1171.187,
+          "text": "and they're like..."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 78,
+      "intervalle_debut": 1170,
+      "intervalle_fin": 1185,
+      "timecode_debut_extrait": 1170,
+      "timecode_fin_extrait": 1185,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0078_time_1170.00s-1185.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 373,
+          "start": 1171.211,
+          "end": 1173.324,
+          "text": "You when they're talking to each other..."
+        },
+        {
+          "index": 374,
+          "start": 1173.348,
+          "end": 1176.16,
+          "text": "but it's so hard to do, I could never do that."
+        },
+        {
+          "index": 375,
+          "start": 1176.184,
+          "end": 1178.913,
+          "text": "- So she's been in 20 minutes of make-up. - 6:35PM SUN SETTING IN 20 MINUTES"
+        },
+        {
+          "index": 376,
+          "start": 1178.937,
+          "end": 1181.249,
+          "text": "We're going to lose our sun in 20 minutes"
+        },
+        {
+          "index": 377,
+          "start": 1181.273,
+          "end": 1184.943,
+          "text": "and we're waiting for Priscilla's wig to get on."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 79,
+      "intervalle_debut": 1185,
+      "intervalle_fin": 1200,
+      "timecode_debut_extrait": 1185,
+      "timecode_fin_extrait": 1200,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0079_time_1185.00s-1200.00s.mp4",
+      "nombre_sous_titres": 9,
+      "sous_titres": [
+        {
+          "index": 378,
+          "start": 1185.262,
+          "end": 1187.046,
+          "text": "You know, like hair and makeup, come to..."
+        },
+        {
+          "index": 379,
+          "start": 1187.07,
+          "end": 1189.064,
+          "text": "Well, she probably had her baby and then stayed"
+        },
+        {
+          "index": 380,
+          "start": 1189.088,
+          "end": 1190.925,
+          "text": "in the hospital, I imagine, for like two days."
+        },
+        {
+          "index": 381,
+          "start": 1190.949,
+          "end": 1193.203,
+          "text": "And then as she's getting ready to leave,"
+        },
+        {
+          "index": 382,
+          "start": 1193.227,
+          "end": 1194.427,
+          "text": "done up."
+        },
+        {
+          "index": 383,
+          "start": 1194.65,
+          "end": 1196.371,
+          "text": "a baby."
+        },
+        {
+          "index": 384,
+          "start": 1196.496,
+          "end": 1197.496,
+          "text": "Great..."
+        },
+        {
+          "index": 385,
+          "start": 1197.863,
+          "end": 1199.892,
+          "text": "And action!"
+        },
+        {
+          "index": 386,
+          "start": 1199.916,
+          "end": 1202.311,
+          "text": "<i>When the scene where you're leaving the hospital,</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 80,
+      "intervalle_debut": 1200,
+      "intervalle_fin": 1215,
+      "timecode_debut_extrait": 1200,
+      "timecode_fin_extrait": 1215,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0080_time_1200.00s-1215.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 387,
+          "start": 1202.335,
+          "end": 1206.247,
+          "text": "<i>got to imagine she's just given birth and now she is going to get her wig</i>"
+        },
+        {
+          "index": 388,
+          "start": 1206.511,
+          "end": 1208.775,
+          "text": "and her eyelashes on and go face the public."
+        },
+        {
+          "index": 389,
+          "start": 1208.799,
+          "end": 1210.295,
+          "text": "I think that's,"
+        },
+        {
+          "index": 390,
+          "start": 1210.551,
+          "end": 1215.991,
+          "text": "you know, one of those moments that says so much without saying anything."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 81,
+      "intervalle_debut": 1215,
+      "intervalle_fin": 1230,
+      "timecode_debut_extrait": 1215,
+      "timecode_fin_extrait": 1230,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0081_time_1215.00s-1230.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 391,
+          "start": 1216.015,
+          "end": 1219.911,
+          "text": "<i>And then also the other side of that was getting to recreate that iconic look.</i>"
+        },
+        {
+          "index": 392,
+          "start": 1219.935,
+          "end": 1224.231,
+          "text": "<i>And those were always fun moments, very stressful moments</i>"
+        },
+        {
+          "index": 393,
+          "start": 1224.398,
+          "end": 1229.587,
+          "text": "in terms with the hair and makeup and costume departments leading up to it"
+        },
+        {
+          "index": 394,
+          "start": 1229.611,
+          "end": 1233.091,
+          "text": "but once we had done it, you know, it was such a moment"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 82,
+      "intervalle_debut": 1230,
+      "intervalle_fin": 1245,
+      "timecode_debut_extrait": 1230,
+      "timecode_fin_extrait": 1245,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0082_time_1230.00s-1245.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 395,
+          "start": 1233.115,
+          "end": 1236.803,
+          "text": "of mini celebration like, wait this is actually coming together, you know."
+        },
+        {
+          "index": 396,
+          "start": 1236.827,
+          "end": 1240.052,
+          "text": "<i>So those those were really satisfying and fun to pull off.</i>"
+        },
+        {
+          "index": 397,
+          "start": 1240.076,
+          "end": 1242.445,
+          "text": "- Cut! Okay, great. - Got that. Thank you."
+        },
+        {
+          "index": 398,
+          "start": 1242.469,
+          "end": 1246.279,
+          "text": "Shout out to her makeup and costumes. Thank you for the hustle everybody."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 83,
+      "intervalle_debut": 1245,
+      "intervalle_fin": 1260,
+      "timecode_debut_extrait": 1245,
+      "timecode_fin_extrait": 1260,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0083_time_1245.00s-1260.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 399,
+          "start": 1247.462,
+          "end": 1249.231,
+          "text": "Oh my God, we're all doing it."
+        },
+        {
+          "index": 400,
+          "start": 1249.255,
+          "end": 1252.007,
+          "text": "- We can't help. - This way Priscilla, this way!"
+        },
+        {
+          "index": 401,
+          "start": 1255.873,
+          "end": 1259.406,
+          "text": "SHOOT DAY 28 - LUNCH THE PUWABA CUP - PICKLEBALL CHAMPIONSHIP"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 84,
+      "intervalle_debut": 1260,
+      "intervalle_fin": 1275,
+      "timecode_debut_extrait": 1260,
+      "timecode_fin_extrait": 1275,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0084_time_1260.00s-1275.00s.mp4",
+      "nombre_sous_titres": 2,
+      "sous_titres": [
+        {
+          "index": 402,
+          "start": 1265.566,
+          "end": 1267.994,
+          "text": "Donny Dead-Ball Bachman here for your"
+        },
+        {
+          "index": 403,
+          "start": 1268.018,
+          "end": 1270.834,
+          "text": "old pickleball finals for the Puwaba Cup."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 85,
+      "intervalle_debut": 1275,
+      "intervalle_fin": 1290,
+      "timecode_debut_extrait": 1275,
+      "timecode_fin_extrait": 1290,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0085_time_1275.00s-1290.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 86,
+      "intervalle_debut": 1290,
+      "intervalle_fin": 1305,
+      "timecode_debut_extrait": 1290,
+      "timecode_fin_extrait": 1305,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0086_time_1290.00s-1305.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 404,
+          "start": 1293.465,
+          "end": 1296.76,
+          "text": "The word is right now that you got through the games."
+        },
+        {
+          "index": 405,
+          "start": 1296.927,
+          "end": 1298.821,
+          "text": "Yeah, that's what..."
+        },
+        {
+          "index": 406,
+          "start": 1298.845,
+          "end": 1300.805,
+          "text": "We tried so hard!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 87,
+      "intervalle_debut": 1305,
+      "intervalle_fin": 1320,
+      "timecode_debut_extrait": 1305,
+      "timecode_fin_extrait": 1320,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0087_time_1305.00s-1320.00s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 88,
+      "intervalle_debut": 1320,
+      "intervalle_fin": 1335,
+      "timecode_debut_extrait": 1320,
+      "timecode_fin_extrait": 1335,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0088_time_1320.00s-1335.00s.mp4",
+      "nombre_sous_titres": 1,
+      "sous_titres": [
+        {
+          "index": 407,
+          "start": 1329.416,
+          "end": 1332.795,
+          "text": "There you have it, ladies and gentlemen."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 89,
+      "intervalle_debut": 1335,
+      "intervalle_fin": 1350,
+      "timecode_debut_extrait": 1335,
+      "timecode_fin_extrait": 1350,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0089_time_1335.00s-1350.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 408,
+          "start": 1337.405,
+          "end": 1341.074,
+          "text": "I just want to say thank you this is the best shoot I've ever had."
+        },
+        {
+          "index": 409,
+          "start": 1341.637,
+          "end": 1344.3,
+          "text": "And thank you for all playing pickleball with me"
+        },
+        {
+          "index": 410,
+          "start": 1344.324,
+          "end": 1348.62,
+          "text": "for raising so much and really for just supporting me."
+        },
+        {
+          "index": 411,
+          "start": 1348.644,
+          "end": 1352.707,
+          "text": "And I'm really proud of our movie so far and thank you really to everyone"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 90,
+      "intervalle_debut": 1350,
+      "intervalle_fin": 1365,
+      "timecode_debut_extrait": 1350,
+      "timecode_fin_extrait": 1365,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0090_time_1350.00s-1365.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 412,
+          "start": 1352.731,
+          "end": 1354.731,
+          "text": "for such a great job. Thank you."
+        },
+        {
+          "index": 413,
+          "start": 1358.831,
+          "end": 1360.238,
+          "text": "Officially!"
+        },
+        {
+          "index": 414,
+          "start": 1363.288,
+          "end": 1364.885,
+          "text": "INT: GRACELAND 1970 FAMILY PHOTOSHOOT"
+        },
+        {
+          "index": 415,
+          "start": 1364.909,
+          "end": 1367.471,
+          "text": "<i>It's touching that she had the courage to leave</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 91,
+      "intervalle_debut": 1365,
+      "intervalle_fin": 1380,
+      "timecode_debut_extrait": 1365,
+      "timecode_fin_extrait": 1380,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0091_time_1365.00s-1380.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 416,
+          "start": 1367.495,
+          "end": 1371.392,
+          "text": "<i>the only life that she knew and what was, you know, supposed to be at</i>"
+        },
+        {
+          "index": 417,
+          "start": 1371.416,
+          "end": 1373.644,
+          "text": "<i>that time, like everything you could want.</i>"
+        },
+        {
+          "index": 418,
+          "start": 1373.668,
+          "end": 1376.939,
+          "text": "<i>She had the kind of American dream of having this life</i>"
+        },
+        {
+          "index": 419,
+          "start": 1376.963,
+          "end": 1379.608,
+          "text": "<i>that seemed perfect but, you know. She had a lot of love for him</i>"
+        },
+        {
+          "index": 420,
+          "start": 1379.632,
+          "end": 1382.194,
+          "text": "the way she talks about him and that he had a lot of sweetness."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 92,
+      "intervalle_debut": 1380,
+      "intervalle_fin": 1395,
+      "timecode_debut_extrait": 1380,
+      "timecode_fin_extrait": 1395,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0092_time_1380.00s-1395.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 421,
+          "start": 1382.218,
+          "end": 1385.646,
+          "text": "But also this dark side that she talks about."
+        },
+        {
+          "index": 422,
+          "start": 1386.263,
+          "end": 1387.491,
+          "text": "<i>We had such a great shoot.</i>"
+        },
+        {
+          "index": 423,
+          "start": 1387.515,
+          "end": 1391.286,
+          "text": "<i>I loved our team and the crew, and it was fun to go to work every day.</i>"
+        },
+        {
+          "index": 424,
+          "start": 1391.31,
+          "end": 1392.746,
+          "text": "<i>But you're so exhausted by the end of it.</i>"
+        },
+        {
+          "index": 425,
+          "start": 1392.77,
+          "end": 1395.457,
+          "text": "<i>I think it was just a huge relief that we got everything we needed</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 93,
+      "intervalle_debut": 1395,
+      "intervalle_fin": 1410,
+      "timecode_debut_extrait": 1395,
+      "timecode_fin_extrait": 1410,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0093_time_1395.00s-1410.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 426,
+          "start": 1395.481,
+          "end": 1398.126,
+          "text": "<i>'cause it took 30 days to do so much.</i>"
+        },
+        {
+          "index": 427,
+          "start": 1398.15,
+          "end": 1401.546,
+          "text": "<i>The fact that we got everything we needed to be able to edit them</i>"
+        },
+        {
+          "index": 428,
+          "start": 1401.57,
+          "end": 1403.205,
+          "text": "<i>together was a relief.</i>"
+        },
+        {
+          "index": 429,
+          "start": 1409.13,
+          "end": 1410.913,
+          "text": "- We're shooting the... - INT: GRACELAND - FINAL SHOOT DAY"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 94,
+      "intervalle_debut": 1410,
+      "intervalle_fin": 1425,
+      "timecode_debut_extrait": 1410,
+      "timecode_fin_extrait": 1425,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0094_time_1410.00s-1425.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 430,
+          "start": 1410.937,
+          "end": 1412.345,
+          "text": "we're still leaving Graceland,"
+        },
+        {
+          "index": 431,
+          "start": 1412.369,
+          "end": 1415.652,
+          "text": "I love saying, we're saying goodbye to Graceland as we all."
+        },
+        {
+          "index": 432,
+          "start": 1416.501,
+          "end": 1419.313,
+          "text": "<i>You know, she, she never really felt in the movie.</i>"
+        },
+        {
+          "index": 433,
+          "start": 1419.337,
+          "end": 1422.371,
+          "text": "<i>I feel like she always felt like a guest in the house.</i>"
+        },
+        {
+          "index": 434,
+          "start": 1422.395,
+          "end": 1427.154,
+          "text": "<i>So you can see her, sort of her thought process</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 95,
+      "intervalle_debut": 1425,
+      "intervalle_fin": 1440,
+      "timecode_debut_extrait": 1425,
+      "timecode_fin_extrait": 1440,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0095_time_1425.00s-1440.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 435,
+          "start": 1427.178,
+          "end": 1430.824,
+          "text": "<i>with very few words, which I think Sofia does so beautifully.</i>"
+        },
+        {
+          "index": 436,
+          "start": 1430.848,
+          "end": 1433.577,
+          "text": "<i>You know, she she hangs on these silent moments</i>"
+        },
+        {
+          "index": 437,
+          "start": 1433.601,
+          "end": 1437.122,
+          "text": "<i>or these simple shots of, you know, this young girl</i>"
+        },
+        {
+          "index": 438,
+          "start": 1437.146,
+          "end": 1440.709,
+          "text": "sort of wandering this Graceland mansion by herself."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 96,
+      "intervalle_debut": 1440,
+      "intervalle_fin": 1455,
+      "timecode_debut_extrait": 1440,
+      "timecode_fin_extrait": 1455,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0096_time_1440.00s-1455.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 439,
+          "start": 1440.733,
+          "end": 1443.921,
+          "text": "And it's so powerful."
+        },
+        {
+          "index": 440,
+          "start": 1445.923,
+          "end": 1448.41,
+          "text": "INT: LAS VEGAS HOTEL ROOM PRISCILLA LEAVES ELVIS"
+        },
+        {
+          "index": 441,
+          "start": 1449.617,
+          "end": 1451.344,
+          "text": "<i>You know, he taught me a lot.</i>"
+        },
+        {
+          "index": 442,
+          "start": 1451.368,
+          "end": 1453.384,
+          "text": "<i>He was always there for me.</i>"
+        },
+        {
+          "index": 443,
+          "start": 1453.408,
+          "end": 1457.267,
+          "text": "<i>I can't, there isn't anything bad about all of this I could even think up.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 97,
+      "intervalle_debut": 1455,
+      "intervalle_fin": 1470,
+      "timecode_debut_extrait": 1455,
+      "timecode_fin_extrait": 1470,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0097_time_1455.00s-1470.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 444,
+          "start": 1457.291,
+          "end": 1458.601,
+          "text": "- He was a human being. - Yeah."
+        },
+        {
+          "index": 445,
+          "start": 1458.625,
+          "end": 1462.713,
+          "text": "And, you know, we all have flaws, but it's hard to find out his."
+        },
+        {
+          "index": 446,
+          "start": 1462.838,
+          "end": 1464.065,
+          "text": "- Yeah. - Well, maybe with..."
+        },
+        {
+          "index": 447,
+          "start": 1464.089,
+          "end": 1465.799,
+          "text": "Yeah, yeah, yeah, yeah."
+        },
+        {
+          "index": 448,
+          "start": 1465.977,
+          "end": 1468.177,
+          "text": "You're honest..."
+        },
+        {
+          "index": 449,
+          "start": 1468.325,
+          "end": 1470.931,
+          "text": "But thank you, we're happy to know your story."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 98,
+      "intervalle_debut": 1470,
+      "intervalle_fin": 1485,
+      "timecode_debut_extrait": 1470,
+      "timecode_fin_extrait": 1485,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0098_time_1470.00s-1485.00s.mp4",
+      "nombre_sous_titres": 6,
+      "sous_titres": [
+        {
+          "index": 450,
+          "start": 1471.11,
+          "end": 1472.524,
+          "text": "Thank you."
+        },
+        {
+          "index": 451,
+          "start": 1474.015,
+          "end": 1475.576,
+          "text": "Maybe another place,"
+        },
+        {
+          "index": 452,
+          "start": 1475.6,
+          "end": 1477.203,
+          "text": "another time."
+        },
+        {
+          "index": 453,
+          "start": 1477.227,
+          "end": 1481.791,
+          "text": "<i>I think there are things I definitely found relatable as I was prepping this.</i>"
+        },
+        {
+          "index": 454,
+          "start": 1481.815,
+          "end": 1483.593,
+          "text": "<i>So I'm really,</i>"
+        },
+        {
+          "index": 455,
+          "start": 1483.617,
+          "end": 1487.129,
+          "text": "I'm really interested to see what people, people think, but it changed me."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 99,
+      "intervalle_debut": 1485,
+      "intervalle_fin": 1500,
+      "timecode_debut_extrait": 1485,
+      "timecode_fin_extrait": 1500,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0099_time_1485.00s-1500.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 456,
+          "start": 1487.153,
+          "end": 1491.517,
+          "text": "So I hope that it's moving for other people."
+        },
+        {
+          "index": 457,
+          "start": 1493.326,
+          "end": 1495.634,
+          "text": "- Cut. - Cut there, thank you."
+        },
+        {
+          "index": 458,
+          "start": 1496.229,
+          "end": 1498.939,
+          "text": "So a big announcement on set, guys."
+        },
+        {
+          "index": 459,
+          "start": 1499.128,
+          "end": 1500.392,
+          "text": "Oh my God!"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 100,
+      "intervalle_debut": 1500,
+      "intervalle_fin": 1515,
+      "timecode_debut_extrait": 1500,
+      "timecode_fin_extrait": 1515,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0100_time_1500.00s-1515.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 460,
+          "start": 1500.416,
+          "end": 1502.602,
+          "text": "Elvis is going to officially leave the building."
+        },
+        {
+          "index": 461,
+          "start": 1502.626,
+          "end": 1504.078,
+          "text": "He's camera wrapped."
+        },
+        {
+          "index": 462,
+          "start": 1509.551,
+          "end": 1511.53,
+          "text": "Thank you everyone, I really appreciate you."
+        },
+        {
+          "index": 463,
+          "start": 1511.554,
+          "end": 1514.056,
+          "text": "Now I can talk normally."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 101,
+      "intervalle_debut": 1515,
+      "intervalle_fin": 1530,
+      "timecode_debut_extrait": 1515,
+      "timecode_fin_extrait": 1530,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0101_time_1515.00s-1530.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 464,
+          "start": 1515.639,
+          "end": 1517.283,
+          "text": "<i>I assume it had to take a lot of strength</i>"
+        },
+        {
+          "index": 465,
+          "start": 1517.307,
+          "end": 1520.844,
+          "text": "because her whole life even now is being,"
+        },
+        {
+          "index": 466,
+          "start": 1520.984,
+          "end": 1524.69,
+          "text": "you know, Mrs Elvis Presley and for her to..."
+        },
+        {
+          "index": 467,
+          "start": 1525.03,
+          "end": 1528.354,
+          "text": "to be able to leave that, I was impressed by it."
+        },
+        {
+          "index": 468,
+          "start": 1528.735,
+          "end": 1533.088,
+          "text": "It's a question that I think a lot of women ask themselves,"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 102,
+      "intervalle_debut": 1530,
+      "intervalle_fin": 1545,
+      "timecode_debut_extrait": 1530,
+      "timecode_fin_extrait": 1545,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0102_time_1530.00s-1545.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 469,
+          "start": 1533.112,
+          "end": 1538.095,
+          "text": "like, who am I outside of these things, outside of my marriage"
+        },
+        {
+          "index": 470,
+          "start": 1538.119,
+          "end": 1543.606,
+          "text": "<i>or the transition of leaving your parents or maybe becoming a mother</i>"
+        },
+        {
+          "index": 471,
+          "start": 1543.63,
+          "end": 1548.063,
+          "text": "or to get to see that journey up to that point I think is fascinating"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 103,
+      "intervalle_debut": 1545,
+      "intervalle_fin": 1560,
+      "timecode_debut_extrait": 1545,
+      "timecode_fin_extrait": 1560,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0103_time_1545.00s-1560.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 472,
+          "start": 1548.087,
+          "end": 1550.641,
+          "text": "and also universal for women."
+        },
+        {
+          "index": 473,
+          "start": 1552.258,
+          "end": 1554.278,
+          "text": "- You call it. - Hold on."
+        },
+        {
+          "index": 474,
+          "start": 1554.302,
+          "end": 1556.196,
+          "text": "You and Sofia have to walk together, come on."
+        },
+        {
+          "index": 475,
+          "start": 1556.22,
+          "end": 1557.99,
+          "text": "We did it guys!"
+        },
+        {
+          "index": 476,
+          "start": 1558.014,
+          "end": 1560.706,
+          "text": "All right, everybody, put your hands together."
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 104,
+      "intervalle_debut": 1560,
+      "intervalle_fin": 1575,
+      "timecode_debut_extrait": 1560,
+      "timecode_fin_extrait": 1575,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0104_time_1560.00s-1575.00s.mp4",
+      "nombre_sous_titres": 4,
+      "sous_titres": [
+        {
+          "index": 477,
+          "start": 1560.826,
+          "end": 1562.473,
+          "text": "Here we go!"
+        },
+        {
+          "index": 478,
+          "start": 1564.937,
+          "end": 1567.833,
+          "text": "<i>It's been a year since I started this project.</i>"
+        },
+        {
+          "index": 479,
+          "start": 1567.857,
+          "end": 1571.586,
+          "text": "<i>I'm now 18 and I've moved out of my childhood home.</i>"
+        },
+        {
+          "index": 480,
+          "start": 1571.61,
+          "end": 1575.09,
+          "text": "<i>Watching Priscilla's journey really puts this all into perspective.</i>"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 105,
+      "intervalle_debut": 1575,
+      "intervalle_fin": 1590,
+      "timecode_debut_extrait": 1575,
+      "timecode_fin_extrait": 1590,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0105_time_1575.00s-1590.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 481,
+          "start": 1575.114,
+          "end": 1577.342,
+          "text": "<i>You know, maybe we're not all that different.</i>"
+        },
+        {
+          "index": 482,
+          "start": 1577.366,
+          "end": 1579.827,
+          "text": "<i>And at the same time, worlds apart.</i>"
+        },
+        {
+          "index": 483,
+          "start": 1580.774,
+          "end": 1582.972,
+          "text": "<i>But her strength is inspiring.</i>"
+        },
+        {
+          "index": 484,
+          "start": 1582.996,
+          "end": 1585.788,
+          "text": "<i>And it's been a privilege to watch Sofia tell her story.</i>"
+        },
+        {
+          "index": 485,
+          "start": 1587.775,
+          "end": 1589.959,
+          "text": "A FILM BY LIV MCNEIL"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 106,
+      "intervalle_debut": 1590,
+      "intervalle_fin": 1605,
+      "timecode_debut_extrait": 1590,
+      "timecode_fin_extrait": 1605,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0106_time_1590.00s-1605.00s.mp4",
+      "nombre_sous_titres": 5,
+      "sous_titres": [
+        {
+          "index": 486,
+          "start": 1590.783,
+          "end": 1593.464,
+          "text": "ABOUT A FILM BY SOFIA COPPOLA"
+        },
+        {
+          "index": 487,
+          "start": 1594.057,
+          "end": 1596.306,
+          "text": "ABOUT THE LIFE OF PRISCILLA PRESLEY"
+        },
+        {
+          "index": 488,
+          "start": 1596.983,
+          "end": 1598.959,
+          "text": "STARRING CAILEE SPAENY AND JACOB ELORDI"
+        },
+        {
+          "index": 489,
+          "start": 1599.799,
+          "end": 1601.871,
+          "text": "PRODUCED BY LISA ANTONECCHIA"
+        },
+        {
+          "index": 490,
+          "start": 1602.642,
+          "end": 1605.128,
+          "text": "EXECUTIVE PRODUCERS SOFIA COPPOLA YOUREE HENLEY"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 107,
+      "intervalle_debut": 1605,
+      "intervalle_fin": 1620,
+      "timecode_debut_extrait": 1605,
+      "timecode_fin_extrait": 1620,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0107_time_1605.00s-1620.00s.mp4",
+      "nombre_sous_titres": 3,
+      "sous_titres": [
+        {
+          "index": 491,
+          "start": 1606.13,
+          "end": 1608.016,
+          "text": "AN IMPORTANT FLOWERS PRODUCTION"
+        },
+        {
+          "index": 492,
+          "start": 1609.19,
+          "end": 1615.074,
+          "text": "VERY SPECIAL THANKS TO"
+        },
+        {
+          "index": 493,
+          "start": 1615.227,
+          "end": 1620.511,
+          "text": "AND ALL THE WONDERFUL PEOPLE AT A24 FOR YOUR CONTINOUS ENCOURAGEMENT AND SUPPORT"
+        }
+      ],
+      "failed_attempts": 0
+    },
+    {
+      "intervalle_index": 108,
+      "intervalle_debut": 1620,
+      "intervalle_fin": 1628.669,
+      "timecode_debut_extrait": 1620,
+      "timecode_fin_extrait": 1628.669,
+      "video_path": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy\\interval_0108_time_1620.00s-1628.67s.mp4",
+      "nombre_sous_titres": 0,
+      "sous_titres": [],
+      "failed_attempts": 0
+    }
+  ]
+}

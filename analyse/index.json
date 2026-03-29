@@ -1,6 +1,6 @@
 {
-  "date_generation": "2026-03-14T09:57:42.407322",
-  "nombre_films": 264,
+  "date_generation": "2026-03-26T20:53:28.421579",
+  "nombre_films": 282,
   "films": [
     {
       "movie_id": "[bitsearch.to] 102.Dalmatians.2000.1080p.AMZN.WEBRip.DDP.5.1.H.265-EDGE2020",
@@ -83,9 +83,41 @@
       }
     },
     {
+      "movie_id": "A.Happy.Day.2023.1080p.MAX.WEB-DL.MULTi.x264.AAC-BULTOR",
+      "movie_path": "E:\\film_oral\\A Happy Day (2023)\\A.Happy.Day.2023.1080p.MAX.WEB-DL.MULTi.x264.AAC-BULTOR.mkv",
+      "subtitle_path": "E:\\film_oral\\A Happy Day (2023)\\A.Happy.Day.2023.1080p.MAX.WEB-DL.MULTi.x264.AAC-BULTOR.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
+      "stats_extraction": {
+        "total": 0,
+        "reussis": 0,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
       "movie_id": "A Pale View Of Hills (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]",
       "movie_path": "E:\\film_oral\\A Pale View of Hills (2025)\\A Pale View Of Hills (2025) [1080p] [WEBRip] [5.1] [YTS.BZ].mp4",
       "subtitle_path": "E:\\film_oral\\A Pale View of Hills (2025)\\A Pale View Of Hills (2025) [1080p] [WEBRip] [5.1] [YTS.BZ].en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
+      "stats_extraction": {
+        "total": 0,
+        "reussis": 0,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
+      "movie_id": "www.UIndex.org    -    A Useful Ghost 2025 SUBFRENCH 1080p WEB x264-FW",
+      "movie_path": "E:\\film_oral\\A Useful Ghost (2025)\\www.UIndex.org    -    A Useful Ghost 2025 SUBFRENCH 1080p WEB x264-FW.mkv",
+      "subtitle_path": "E:\\film_oral\\A Useful Ghost (2025)\\www.UIndex.org    -    A Useful Ghost 2025 SUBFRENCH 1080p WEB x264-FW.en.srt",
       "intervalle_secondes": 3,
       "nombre_intervalles": 0,
       "dossier_videos": null,
@@ -243,6 +275,22 @@
       }
     },
     {
+      "movie_id": "Anaconda.2025.REPACK.MULTI.1080p.WEB.H264-LOST",
+      "movie_path": "E:\\film_oral\\Anaconda (2025)\\Anaconda.2025.REPACK.MULTI.1080p.WEB.H264-LOST.mkv",
+      "subtitle_path": "E:\\film_oral\\Anaconda (2025)\\Anaconda.2025.REPACK.MULTI.1080p.WEB.H264-LOST.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
+      "stats_extraction": {
+        "total": 0,
+        "reussis": 0,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
       "movie_id": "Angels in the Outfield (1994) 1080p WEBRip 5.1 x264 -YTS",
       "movie_path": "E:\\film_oral\\Angels in the Outfield (1994)\\Angels in the Outfield (1994) 1080p WEBRip 5.1 x264 -YTS.mp4",
       "subtitle_path": "E:\\film_oral\\Angels in the Outfield (1994)\\Angels in the Outfield (1994) 1080p WEBRip 5.1 x264 -YTS.en.srt",
@@ -374,6 +422,22 @@
       "movie_id": "Atlantis The Lost Empire (2001) BDrip 1080p ENG-ITA x264 - L'imp",
       "movie_path": "E:\\film_oral\\Atlantis - The Lost Empire (2001)\\Atlantis The Lost Empire (2001) BDrip 1080p ENG-ITA x264 - L'imp.mkv",
       "subtitle_path": "E:\\film_oral\\Atlantis - The Lost Empire (2001)\\Atlantis The Lost Empire (2001) BDrip 1080p ENG-ITA x264 - L'imp.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
+      "stats_extraction": {
+        "total": 0,
+        "reussis": 0,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
+      "movie_id": "[bitsearch.to] www.1TamilMV.kiwi - Avatar Fire and Ash (2025) HDRip - 1080p - x264 - [Tam + Tel + Hin + Kan + Eng] - 5.5GB",
+      "movie_path": "E:\\film_oral\\Avatar - Fire and Ash (2025)\\[bitsearch.to] www.1TamilMV.kiwi - Avatar Fire and Ash (2025) HDRip - 1080p - x264 - [Tam + Tel + Hin + Kan + Eng] - 5.5GB.mkv",
+      "subtitle_path": null,
       "intervalle_secondes": 3,
       "nombre_intervalles": 0,
       "dossier_videos": null,
@@ -694,6 +758,22 @@
       "movie_id": "[bitsearch.to] Cheaper.by.the.Dozen.2003.1080p.DSNP.WEB-DL.DDP.5.1.H.264-PiRaTeS[TGx]",
       "movie_path": "E:\\film_oral\\Cheaper by the Dozen (2003)\\[bitsearch.to] Cheaper.by.the.Dozen.2003.1080p.DSNP.WEB-DL.DDP.5.1.H.264-PiRaTeS[TGx].mkv",
       "subtitle_path": "E:\\film_oral\\Cheaper by the Dozen (2003)\\[bitsearch.to] Cheaper.by.the.Dozen.2003.1080p.DSNP.WEB-DL.DDP.5.1.H.264-PiRaTeS[TGx].en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
+      "stats_extraction": {
+        "total": 0,
+        "reussis": 0,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
+      "movie_id": "Цыпленок Цыпа _ Chicken Little [1080p] [США, 2005, семейный, приключения, комедия, мультфильм, BDRemux 1080p]",
+      "movie_path": "E:\\film_oral\\Chicken Little (2005)\\Цыпленок Цыпа _ Chicken Little [1080p] [США, 2005, семейный, приключения, комедия, мультфильм, BDRemux 1080p].mkv",
+      "subtitle_path": "E:\\film_oral\\Chicken Little (2005)\\Цыпленок Цыпа _ Chicken Little [1080p] [США, 2005, семейный, приключения, комедия, мультфильм, BDRemux 1080p].en.srt",
       "intervalle_secondes": 3,
       "nombre_intervalles": 0,
       "dossier_videos": null,
@@ -1171,6 +1251,22 @@
       }
     },
     {
+      "movie_id": "First Squad The Moment Of Truth (2009) [1080p] [BluRay] [5.1] [YTS.MX]",
+      "movie_path": "E:\\film_oral\\First Squad - The Moment of Truth (2009)\\First Squad The Moment Of Truth (2009) [1080p] [BluRay] [5.1] [YTS.MX].mp4",
+      "subtitle_path": "E:\\film_oral\\First Squad - The Moment of Truth (2009)\\First Squad The Moment Of Truth (2009) [1080p] [BluRay] [5.1] [YTS.MX].en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
+      "stats_extraction": {
+        "total": 0,
+        "reussis": 0,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
       "movie_id": "Frank and Ollie (1995) 1080p WEBRip x264 -YTS",
       "movie_path": "E:\\film_oral\\Frank and Ollie (1995)\\Frank and Ollie (1995) 1080p WEBRip x264 -YTS.mp4",
       "subtitle_path": "E:\\film_oral\\Frank and Ollie (1995)\\Frank and Ollie (1995) 1080p WEBRip x264 -YTS.en.srt",
@@ -1299,6 +1395,38 @@
       }
     },
     {
+      "movie_id": "Greenland.2.Migration.2026.1080p.AMZN - New-Team",
+      "movie_path": "E:\\film_oral\\Greenland 2 - Migration (2026)\\Greenland.2.Migration.2026.1080p.AMZN - New-Team.mkv",
+      "subtitle_path": "E:\\film_oral\\Greenland 2 - Migration (2026)\\Greenland.2.Migration.2026.1080p.AMZN - New-Team.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
+      "stats_extraction": {
+        "total": 0,
+        "reussis": 0,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
+      "movie_id": "Greyhound.2020.1080p.Bluray.x265.HDR-DiN",
+      "movie_path": "E:\\film_oral\\Greyhound (2020)\\Greyhound.2020.1080p.Bluray.x265.HDR-DiN.mkv",
+      "subtitle_path": "E:\\film_oral\\Greyhound (2020)\\Greyhound.2020.1080p.Bluray.x265.HDR-DiN.en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
+      "stats_extraction": {
+        "total": 0,
+        "reussis": 0,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
       "movie_id": "Hannah Montana - The Movie [2009, BDRemux 1080p] Dub + 2x DVO + Sub rus, Eng + Original Eng",
       "movie_path": "E:\\film_oral\\Hannah Montana - The Movie (2009)\\Hannah Montana - The Movie [2009, BDRemux 1080p] Dub + 2x DVO + Sub rus, Eng + Original Eng.mkv",
       "subtitle_path": "E:\\film_oral\\Hannah Montana - The Movie (2009)\\Hannah Montana - The Movie [2009, BDRemux 1080p] Dub + 2x DVO + Sub rus, Eng + Original Eng.en.srt",
@@ -1379,6 +1507,22 @@
       }
     },
     {
+      "movie_id": "Hitpig (2024) [1080p] [WEBRip] [5.1] [YTS.MX]",
+      "movie_path": "E:\\film_oral\\Hitpig! (2024)\\Hitpig (2024) [1080p] [WEBRip] [5.1] [YTS.MX].mp4",
+      "subtitle_path": "E:\\film_oral\\Hitpig! (2024)\\Hitpig (2024) [1080p] [WEBRip] [5.1] [YTS.MX].en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
+      "stats_extraction": {
+        "total": 0,
+        "reussis": 0,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
       "movie_id": "Hocus Pocus (1993) 1080p BrRip x264 - YIFY",
       "movie_path": "E:\\film_oral\\Hocus Pocus (1993)\\Hocus Pocus (1993) 1080p BrRip x264 - YIFY.mp4",
       "subtitle_path": "E:\\film_oral\\Hocus Pocus (1993)\\Hocus Pocus (1993) 1080p BrRip x264 - YIFY.en.srt",
@@ -1430,12 +1574,12 @@
       "movie_id": "II _  - - _ Homeward Bound II - Lost in San Francisco [1996, WEB-DL 1080p] Dub + MVO + DVO + AVO + Ukr + Sub Rus, Eng",
       "movie_path": "E:\\film_oral\\Homeward Bound II - Lost in San Francisco (1996)\\II _  - - _ Homeward Bound II - Lost in San Francisco [1996, WEB-DL 1080p] Dub + MVO + DVO + AVO + Ukr + Sub Rus, Eng.mkv",
       "subtitle_path": "E:\\film_oral\\Homeward Bound II - Lost in San Francisco (1996)\\II _  - - _ Homeward Bound II - Lost in San Francisco [1996, WEB-DL 1080p] Dub + MVO + DVO + AVO + Ukr + Sub Rus, Eng.en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 355,
-      "dossier_videos": "analyse\\videos\\II _  - - _ Homeward Bound II - Lost in San Francisco [1996, WEB-DL 1080p] Dub + MVO + DVO + AVO + Ukr + Sub Rus, Eng",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
       "stats_extraction": {
-        "total": 355,
-        "reussis": 355,
+        "total": 0,
+        "reussis": 0,
         "echecs": 0,
         "timeouts": 0,
         "gpu_errors": 0,
@@ -2243,6 +2387,22 @@
       }
     },
     {
+      "movie_id": "Night of the Zoopocalypse (2024) [1080p] [BluRay] [5.1] [ UIndex.org ]",
+      "movie_path": "E:\\film_oral\\Night of the Zoopocalypse (2025)\\Night of the Zoopocalypse (2024) [1080p] [BluRay] [5.1] [ UIndex.org ].mp4",
+      "subtitle_path": "E:\\film_oral\\Night of the Zoopocalypse (2025)\\Night of the Zoopocalypse (2024) [1080p] [BluRay] [5.1] [ UIndex.org ].en.srt",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
+      "stats_extraction": {
+        "total": 0,
+        "reussis": 0,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
       "movie_id": "Nightbitch 2024 REPACK 1080p DSNP WEB-DL DDP5 1 Atmos H 264-FLUX",
       "movie_path": "E:\\film_oral\\Nightbitch (2024)\\Nightbitch 2024 REPACK 1080p DSNP WEB-DL DDP5 1 Atmos H 264-FLUX.mkv",
       "subtitle_path": "E:\\film_oral\\Nightbitch (2024)\\Nightbitch 2024 REPACK 1080p DSNP WEB-DL DDP5 1 Atmos H 264-FLUX.en.srt",
@@ -2358,12 +2518,12 @@
       "movie_id": "[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]",
       "movie_path": "E:\\film_oral\\Olmo (2025)\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ].mp4",
       "subtitle_path": "E:\\film_oral\\Olmo (2025)\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ].en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 322,
-      "dossier_videos": "analyse\\videos\\[bitsearch.to] Olmo (2025) [1080p] [WEBRip] [5.1] [YTS.BZ]",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
       "stats_extraction": {
-        "total": 322,
-        "reussis": 322,
+        "total": 0,
+        "reussis": 0,
         "echecs": 0,
         "timeouts": 0,
         "gpu_errors": 0,
@@ -2464,6 +2624,22 @@
         "timeouts": 0,
         "gpu_errors": 0,
         "cpu_fallbacks": 0
+      }
+    },
+    {
+      "movie_id": "Paperman [2012, BDRemux 1080p]",
+      "movie_path": "E:\\film_oral\\Paperman (2012)\\Paperman [2012, BDRemux 1080p].mkv",
+      "subtitle_path": "E:\\film_oral\\Paperman (2012)\\Paperman [2012, BDRemux 1080p].en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 27,
+      "dossier_videos": "analyse\\videos\\Paperman [2012, BDRemux 1080p]",
+      "stats_extraction": {
+        "total": 27,
+        "reussis": 27,
+        "echecs": 0,
+        "timeouts": 4,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 4
       }
     },
     {
@@ -2595,6 +2771,22 @@
       }
     },
     {
+      "movie_id": "Pony Express 1953 1080p Bluray Rerip Opus 2 0 x264-RetroPeeps",
+      "movie_path": "E:\\film_oral\\Pony Express (1953)\\Pony Express 1953 1080p Bluray Rerip Opus 2 0 x264-RetroPeeps.mkv",
+      "subtitle_path": "E:\\film_oral\\Pony Express (1953)\\Pony Express 1953 1080p Bluray Rerip Opus 2 0 x264-RetroPeeps.en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 406,
+      "dossier_videos": "analyse\\videos\\Pony Express 1953 1080p Bluray Rerip Opus 2 0 x264-RetroPeeps",
+      "stats_extraction": {
+        "total": 406,
+        "reussis": 406,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
       "movie_id": "Poohs Heffalump Movie 2005 AMZN WEB-DL 1080p 2xUKR ENG Hurtom",
       "movie_path": "E:\\film_oral\\Pooh's Heffalump Movie (2005)\\Poohs Heffalump Movie 2005 AMZN WEB-DL 1080p 2xUKR ENG Hurtom.mkv",
       "subtitle_path": "E:\\film_oral\\Pooh's Heffalump Movie (2005)\\Poohs Heffalump Movie 2005 AMZN WEB-DL 1080p 2xUKR ENG Hurtom.en.srt",
@@ -2604,6 +2796,22 @@
       "stats_extraction": {
         "total": 0,
         "reussis": 0,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
+      "movie_id": "[bitsearch.to] Power.of.Love.2023.1080p.WEB-DL.DUAL.2.0",
+      "movie_path": "E:\\film_oral\\Power of Love (2023)\\[bitsearch.to] Power.of.Love.2023.1080p.WEB-DL.DUAL.2.0.mkv",
+      "subtitle_path": "E:\\film_oral\\Power of Love (2023)\\[bitsearch.to] Power.of.Love.2023.1080p.WEB-DL.DUAL.2.0.en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 424,
+      "dossier_videos": "analyse\\videos\\[bitsearch.to] Power.of.Love.2023.1080p.WEB-DL.DUAL.2.0",
+      "stats_extraction": {
+        "total": 424,
+        "reussis": 424,
         "echecs": 0,
         "timeouts": 0,
         "gpu_errors": 0,
@@ -2903,6 +3111,22 @@
       "movie_path": "E:\\film_oral\\Showing Up (2023)\\Showing Up (2022) 1080p BRRip 5.1 x264 -YTS.mp4",
       "subtitle_path": "E:\\film_oral\\Showing Up (2023)\\Showing Up (2022) 1080p BRRip 5.1 x264 -YTS.en.srt",
       "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
+      "stats_extraction": {
+        "total": 0,
+        "reussis": 0,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
+      "movie_id": "Sicko.2007.1080p.WEB-DL.DD5.1.H264-TrollHD [PublicHD]",
+      "movie_path": "E:\\film_oral\\Sicko (2007)\\Sicko.2007.1080p.WEB-DL.DD5.1.H264-TrollHD [PublicHD].mkv",
+      "subtitle_path": "E:\\film_oral\\Sicko (2007)\\Sicko.2007.1080p.WEB-DL.DD5.1.H264-TrollHD [PublicHD].en.srt",
+      "intervalle_secondes": 15,
       "nombre_intervalles": 0,
       "dossier_videos": null,
       "stats_extraction": {
@@ -3331,6 +3555,22 @@
       }
     },
     {
+      "movie_id": "Quarteto.Fantástico.Primeiros.Passos.2025.1080p.WEB-DL.DUAL.5.1",
+      "movie_path": "E:\\film_oral\\The Fantastic 4 - First Steps (2025)\\Quarteto.Fantástico.Primeiros.Passos.2025.1080p.WEB-DL.DUAL.5.1.mkv",
+      "subtitle_path": "E:\\film_oral\\The Fantastic 4 - First Steps (2025)\\Quarteto.Fantástico.Primeiros.Passos.2025.1080p.WEB-DL.DUAL.5.1.en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 464,
+      "dossier_videos": "analyse\\videos\\Quarteto.Fantástico.Primeiros.Passos.2025.1080p.WEB-DL.DUAL.5.1",
+      "stats_extraction": {
+        "total": 464,
+        "reussis": 464,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
       "movie_id": "The Game Plan (2007) 1080p BRRip x264 -YTS",
       "movie_path": "E:\\film_oral\\The Game Plan (2007)\\The Game Plan (2007) 1080p BRRip x264 -YTS.mp4",
       "subtitle_path": "E:\\film_oral\\The Game Plan (2007)\\The Game Plan (2007) 1080p BRRip x264 -YTS.en.srt",
@@ -3539,6 +3779,22 @@
       }
     },
     {
+      "movie_id": "The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy",
+      "movie_path": "E:\\film_oral\\The Making of Priscilla (2023)\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy.mkv",
+      "subtitle_path": "E:\\film_oral\\The Making of Priscilla (2023)\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy.en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 109,
+      "dossier_videos": "analyse\\videos\\The Making of Priscilla 2023 1080p WEBRip DDP 2 0 10bit H 265-iVy",
+      "stats_extraction": {
+        "total": 109,
+        "reussis": 109,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 109,
+        "cpu_fallbacks": 109
+      }
+    },
+    {
       "movie_id": "The Muppet Christmas Carol [1992, BDRemux 1080p] MVO (BBC Saint-Petersburg) + VO + Sub (Rus, Eng) + Original Eng",
       "movie_path": "E:\\film_oral\\The Muppet Christmas Carol (1992)\\The Muppet Christmas Carol [1992, BDRemux 1080p] MVO (BBC Saint-Petersburg) + VO + Sub (Rus, Eng) + Original Eng.mkv",
       "subtitle_path": "E:\\film_oral\\The Muppet Christmas Carol (1992)\\The Muppet Christmas Carol [1992, BDRemux 1080p] MVO (BBC Saint-Petersburg) + VO + Sub (Rus, Eng) + Original Eng.en.srt",
@@ -3635,6 +3891,22 @@
       }
     },
     {
+      "movie_id": "The Raja Saab (2026) 1080p WEBRip 5.1 x264 -YTS",
+      "movie_path": "E:\\film_oral\\The Rajasaab (2026)\\The Raja Saab (2026) 1080p WEBRip 5.1 x264 -YTS.mp4",
+      "subtitle_path": "E:\\film_oral\\The Rajasaab (2026)\\The Raja Saab (2026) 1080p WEBRip 5.1 x264 -YTS.en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 722,
+      "dossier_videos": "analyse\\videos\\The Raja Saab (2026) 1080p WEBRip 5.1 x264 -YTS",
+      "stats_extraction": {
+        "total": 722,
+        "reussis": 722,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
       "movie_id": "The Rookie (2002) 1080p BRRip x264 -YTS",
       "movie_path": "E:\\film_oral\\The Rookie (2002)\\The Rookie (2002) 1080p BRRip x264 -YTS.mp4",
       "subtitle_path": "E:\\film_oral\\The Rookie (2002)\\The Rookie (2002) 1080p BRRip x264 -YTS.en.srt",
@@ -3724,6 +3996,22 @@
       "stats_extraction": {
         "total": 0,
         "reussis": 0,
+        "echecs": 0,
+        "timeouts": 0,
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
+      }
+    },
+    {
+      "movie_id": "Bob.Esponja.Em.Busca.da.Calça.Quadrada.2025.1080p.WEB-DL.DUAL.5.1",
+      "movie_path": "E:\\film_oral\\The SpongeBob Movie - Search for SquarePants (2025)\\Bob.Esponja.Em.Busca.da.Calça.Quadrada.2025.1080p.WEB-DL.DUAL.5.1.mkv",
+      "subtitle_path": "E:\\film_oral\\The SpongeBob Movie - Search for SquarePants (2025)\\Bob.Esponja.Em.Busca.da.Calça.Quadrada.2025.1080p.WEB-DL.DUAL.5.1.en.srt",
+      "intervalle_secondes": 15,
+      "nombre_intervalles": 355,
+      "dossier_videos": "analyse\\videos\\Bob.Esponja.Em.Busca.da.Calça.Quadrada.2025.1080p.WEB-DL.DUAL.5.1",
+      "stats_extraction": {
+        "total": 355,
+        "reussis": 355,
         "echecs": 0,
         "timeouts": 0,
         "gpu_errors": 0,
@@ -4150,12 +4438,12 @@
       "movie_id": "Worldbreaker.2025.FANSUB.VOSTFR.1080p.WEB-DL.H264-Slay3R",
       "movie_path": "E:\\film_oral\\Worldbreaker (2025)\\Worldbreaker.2025.FANSUB.VOSTFR.1080p.WEB-DL.H264-Slay3R.mkv",
       "subtitle_path": "E:\\film_oral\\Worldbreaker (2025)\\Worldbreaker.2025.FANSUB.VOSTFR.1080p.WEB-DL.H264-Slay3R.en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 364,
-      "dossier_videos": "analyse\\videos\\Worldbreaker.2025.FANSUB.VOSTFR.1080p.WEB-DL.H264-Slay3R",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
       "stats_extraction": {
-        "total": 364,
-        "reussis": 364,
+        "total": 0,
+        "reussis": 0,
         "echecs": 0,
         "timeouts": 0,
         "gpu_errors": 0,
@@ -4166,12 +4454,12 @@
       "movie_id": "Yadang The Snitch (2025) [1080p] [WEBRip] [5.1] [YTS.MX]",
       "movie_path": "E:\\film_oral\\Yadang - The Snitch (2025)\\Yadang The Snitch (2025) [1080p] [WEBRip] [5.1] [YTS.MX].mp4",
       "subtitle_path": "E:\\film_oral\\Yadang - The Snitch (2025)\\Yadang The Snitch (2025) [1080p] [WEBRip] [5.1] [YTS.MX].en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 492,
-      "dossier_videos": "analyse\\videos\\Yadang The Snitch (2025) [1080p] [WEBRip] [5.1] [YTS.MX]",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
       "stats_extraction": {
-        "total": 492,
-        "reussis": 492,
+        "total": 0,
+        "reussis": 0,
         "echecs": 0,
         "timeouts": 0,
         "gpu_errors": 0,
@@ -4214,16 +4502,16 @@
       "movie_id": "Zombies 4 Dawn Of The Vampires (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]",
       "movie_path": "E:\\film_oral\\Z-O-M-B-I-E-S 4 - Dawn of the Vampires (2025)\\Zombies 4 Dawn Of The Vampires (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX].mp4",
       "subtitle_path": "E:\\film_oral\\Z-O-M-B-I-E-S 4 - Dawn of the Vampires (2025)\\Zombies 4 Dawn Of The Vampires (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX].en.srt",
-      "intervalle_secondes": 15,
-      "nombre_intervalles": 343,
-      "dossier_videos": "analyse\\videos\\Zombies 4 Dawn Of The Vampires (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]",
+      "intervalle_secondes": 3,
+      "nombre_intervalles": 0,
+      "dossier_videos": null,
       "stats_extraction": {
-        "total": 343,
-        "reussis": 343,
+        "total": 0,
+        "reussis": 0,
         "echecs": 0,
         "timeouts": 0,
-        "gpu_errors": 343,
-        "cpu_fallbacks": 343
+        "gpu_errors": 0,
+        "cpu_fallbacks": 0
       }
     }
   ]
