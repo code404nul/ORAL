@@ -115,7 +115,7 @@ class SegmentFixer:
             except json.JSONDecodeError:
                 return False, "corrompu_json_invalide", taille
                 
-        except subprocess.TimeoutExpired:
+        except subprocess.TimeouçtExpired:
             return False, "corrompu_timeout", taille
         except Exception as e:
             return False, f"erreur_{str(e)[:20]}", taille
